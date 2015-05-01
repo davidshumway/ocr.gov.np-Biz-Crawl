@@ -106,7 +106,7 @@ class region {
 	 * "name_eng":"...",
 	 * "address":"...",
 	 * "type_name":"..."
-	 }
+	 * }
 	 */
 	// 
 	function reg_biz($html) {
