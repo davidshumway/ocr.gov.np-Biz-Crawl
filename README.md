@@ -1,6 +1,6 @@
 This PHP project scrapes businesses from http://www.ocr.gov.np/search/advanced_search.php. It is currently in progress.
 
-To run the project run from a command line:
+To run the project run from a command line:<br>
 ```php -f ocr.gov.np_biz_retrieval.php -- "[output folder]"```
 
 For example:
