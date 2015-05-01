@@ -2,7 +2,7 @@
 /**
  * ocr.gov.np
  * 
- * Init. with, e.g.: php -f /var/www/html/mturk/util.php -- "/var/www/html/development/NepalRegions/"
+ * Init. with, e.g.: php -f /var/www/html/ocr.gov.np-Biz-Crawl/ocr.gov.np_biz_retrieval.php -- "/var/www/html/ocr.gov.np-Biz-Crawl/"
  */
  
 // Settings
