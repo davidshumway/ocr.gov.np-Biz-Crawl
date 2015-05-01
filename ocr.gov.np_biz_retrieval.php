@@ -2,9 +2,9 @@
 /**
  * ocr.gov.np
  * 
- * Init. with, e.g.: php -f /var/www/html/mturk/util.php -- "ocr.gov.np" "/var/www/html/development/NepalRegions/"
+ * Init. with, e.g.: php -f /var/www/html/mturk/util.php -- "/var/www/html/development/NepalRegions/"
  */
-if (isset($argv[1]) && $argv[1] == 'ocr.gov.np' && isset($argv[2])) {
+if (isset($argv[1])) { //&& $argv[1] == 'ocr.gov.np' && 
 	
 	// Set max preg string size limit. 10 MB.
 	// A very long biz match causes regular expression to exceed the max length.
@@ -276,7 +276,7 @@ if (isset($argv[1]) && $argv[1] == 'ocr.gov.np' && isset($argv[2])) {
 		}
 	}
 	// Folder = This is the location to save to, when necessary.
-	$regions = new regions($argv[2]);
+	$regions = new regions($argv[1]);
 	
 	
 	
