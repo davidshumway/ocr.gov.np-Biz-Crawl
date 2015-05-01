@@ -1,12 +1,10 @@
-This PHP project scrapes businesses from http://www.ocr.gov.np/search/advanced_search.php.
-
-It is currently in progress.
+This PHP project scrapes businesses from http://www.ocr.gov.np/search/advanced_search.php. It is currently in progress.
 
 To run the project run from a command line:
-php -f ocr.gov.np_biz_retrieval.php -- "[output folder]"
+```php -f ocr.gov.np_biz_retrieval.php -- "[output folder]"```
 
 For example:
-php -f ocr.gov.np_biz_retrieval.php -- "/var/www/ocr.gov.np-Biz-Crawl/"
+```php -f ocr.gov.np_biz_retrieval.php -- "/var/www/ocr.gov.np-Biz-Crawl/"```
 
 Deleting the files in the "data" directory will allow the crawler to redownload the files from ocr.gov.np.
 
