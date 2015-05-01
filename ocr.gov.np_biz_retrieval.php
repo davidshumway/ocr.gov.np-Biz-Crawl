@@ -369,7 +369,7 @@ function curl_get($options) {
 	// Return var
 	$return = new stdClass;
 	
-	if  (
+	if	(
 		property_exists($options, 'request_to_file') ||
 		property_exists($options, 'request_from_file')
 		)
