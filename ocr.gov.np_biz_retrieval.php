@@ -388,8 +388,8 @@ function curl_get($options) {
 	curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 	curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
 	curl_setopt($ch, CURLOPT_USERAGENT, "Mozilla/4.0 (compatible;)");
-	//~ curl_setopt($ch, CURLOPT_COOKIEFILE, '/var/www/html/cookie.txt');
-	//~ curl_setopt($ch, CURLOPT_COOKIEJAR, '/var/www/html/cookie.txt');
+	//~ curl_setopt($ch, CURLOPT_COOKIEFILE, '');
+	//~ curl_setopt($ch, CURLOPT_COOKIEJAR, '');
 	curl_setopt($ch, CURLOPT_TIMEOUT, 140);
 	curl_setopt($ch, CURLOPT_ENCODING, 'identity');//
 	if (property_exists($options, 'post')) {
