@@ -96,18 +96,19 @@ class region {
 	}
 	// Scrape the page to retrieve the items
 	// Returns an array of Business objects.
+	// [{biz1}, {biz2}, ...]
 	/**
-	 {
-	 "sn_no":...,
-	 "registration_no":"...",
-	 "registration_date":"...",
-	 "name":"...",
-	 "name_eng":"...",
-	 "address":"...",
-	 "type_name":"..."
+	 * {
+	 * "sn_no":...,
+	 * "registration_no":"...",
+	 * "registration_date":"...",
+	 * "name":"...",
+	 * "name_eng":"...",
+	 * "address":"...",
+	 * "type_name":"..."
 	 }
 	 */
-	// [{biz1}, {biz2}, ...]
+	// 
 	function reg_biz($html) {
 		$d = array(); // Default is an empty array
 		preg_match('/\$\("#list\d+"\)\.jqGrid\(\{ data: (.+?), height:\'auto\',datatype: "local",/', $html, $match);
@@ -262,12 +263,12 @@ class regions {
 		$this->build_regions();
 		
 		// Save businesses to disk as CSV
-		//~ $this->csv();
+		$this->csv();
 		
 		// Save 2-year-old or less businesses to disk as CSV
 		$this->csv(2068);
 	}
-	function csv($year) {
+	function csv($year = false) {
 		$now = date('F.d.Y');
 		$csv = 'businesses'.$now.'.csv';
 		$csv = ($year) ? 'businesses'.$now.'(registered since '.$year.').csv' : $csv;
@@ -287,9 +288,11 @@ class regions {
 			'Type'
 		);
 		fputcsv($fp, $header); // Header
+		$count_biz = 0;
 		foreach ($this->regions as $key => $region) {
 			foreach ($region->zones as $key2 => $zone) {
 				foreach ($zone->districts as $key3 => $district) {
+					//$count_biz += count($district->businesses);
 					foreach ($district->businesses as $key3 => $business) {
 						//~ echo $business->sn_no . "\n";
 						//~ echo $business->registration_no . "\n";
@@ -307,6 +310,8 @@ class regions {
 							} 
 						}
 						
+						$count_biz++; // Increment
+						
 						$fields = array(
 							$region->title,
 							$region->title_en,
@@ -323,11 +328,16 @@ class regions {
 						);
 						
 						fputcsv($fp, $fields);
-						//~ exit;
 					}
 				}
 			}
 		}
+		// Echo num businesses
+		if ($year)
+			echo 'Total businesses (since '.$year.'):'.$count_biz."\n";
+		else
+			echo 'Total businesses:'.$count_biz."\n";
+			
 		fclose($fp); // Close
 	}
 	function build_regions() {
