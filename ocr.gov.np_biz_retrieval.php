@@ -6,7 +6,7 @@
  */
  
 // Settings
-define('CURRENT_NP_YEAR', 2072); // Enter the current Nepal calendar year.
+define('CURRENT_NP_YEAR', 2072); // Enter the current Nepal calendar year, Integer.
 
 // Set max preg string size limit. 10 MB.
 // A very long biz match causes regular expression to exceed the max length.
@@ -262,12 +262,16 @@ class regions {
 		$this->build_regions();
 		
 		// Save businesses to disk as CSV
+		//~ $this->csv();
+		
 		// Save 2-year-old or less businesses to disk as CSV
-		$this->csv();
+		$this->csv(2068);
 	}
-	function csv() {
+	function csv($year) {
 		$now = date('F.d.Y');
-		$fp = fopen('businesses'.$now.'.csv', 'w');
+		$csv = 'businesses'.$now.'.csv';
+		$csv = ($year) ? 'businesses'.$now.'(registered since '.$year.').csv' : $csv;
+		$fp = fopen($csv, 'w');
 		$header = array(
 			'Region',
 			'Region-English',
@@ -294,6 +298,14 @@ class regions {
 						//~ echo $business->name_eng . "\n";
 						//~ echo $business->address . "\n";
 						//~ echo $business->type_name;
+						
+						if ($year) {
+							$rd = explode('-', $business->registration_date);
+							if (count($rd) != 3) continue; // Skip if the date is invalid.
+							if (intval($rd[0]) < $year) { // Skip if year is prior to specified.
+								continue;
+							} 
+						}
 						
 						$fields = array(
 							$region->title,
