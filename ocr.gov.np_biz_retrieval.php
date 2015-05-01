@@ -306,10 +306,12 @@ class regions {
 		// 
 		// Use an associative array: $this->translations_array = array();
 		
+		$count_trans = 0;
+		$count_dup_trans = 0;
 		foreach ($this->regions as $key => $region) {
 			foreach ($region->zones as $key2 => $zone) {
 				echo "\n";
-				echo 'Translating businesses in '.$region.'->'.$zone."\n";
+				echo 'Translating businesses in '.$region->title_en.'->'.$zone->title_en."\n";
 				foreach ($zone->districts as $key3 => $district) {
 					foreach ($district->businesses as $key3 => $business) {
 						// Translate the following address: $business->address
@@ -320,8 +322,12 @@ class regions {
 						// Do not translate if key already exists.
 						if (array_key_exists($business->address, $this->translations_array)) {
 							echo 'd';
+							$count_dup_trans++;
 							continue;
 						}
+						
+						// Increment unique translations.
+						$count_trans++;
 						
 						// Translate
 						$u =
@@ -350,7 +356,9 @@ class regions {
 				}
 			}
 		}
-		//~ exit;
+		echo "\n";
+		echo 'Number of unique addresses translated:' . $count_trans . "\n"; //15769
+		echo 'Number of dupliate addresses found:' . $count_dup_trans . "\n";//111774
 		
 		// Load translations.json and parse.
 		// Re-run csv() when any translations are not cached (!isCached).
@@ -389,8 +397,9 @@ class regions {
 						if (array_key_exists($business->address, $this->translations_array)) {
 							try {
 								$trans = $this->translations_array[ $business->address ]->data->translations[0]->translatedText;
-							} catch ($e) {
-								$trans = '';
+							} catch (Exception $e) {
+								print_r($this->translations_array[ $business->address ]);
+								die('Caught exception: '.  $e->getMessage(). "\n");
 							}
 						}
 						

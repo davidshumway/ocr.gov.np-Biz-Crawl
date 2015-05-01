@@ -10,6 +10,7 @@ This will download and cache the files from ocr.gov.np. It will then create two 
 
 The program will reuse the cached files on any subsequent runs. To clear the cache and redownload the files manually delete the files in the "data" directory.
 
-As of April 30, 2015, the scrape produces 127,543 business registered in total, and 43,903 businesses registered since 2068.
-
 When an API key is provided, the program will attempt to translate all unique business addresses to English.
+
+As of April 30, 2015, the scrape produces 127,543 business registered in total, and 43,903 businesses registered since 2068. There are about 16,000 unique addresses and 112,000 duplicate addresses.
+
