@@ -10,4 +10,4 @@ This will download and cache the files from ocr.gov.np. It will then create two 
 
 The program will reuse the cached files on any subsequent runs. To clear the cache and redownload the files manually delete the files in the "data" directory.
 
-
+As of April 30, 2015, the scrape produces 127,543 business registered in total, and 43,903 businesses registered since 2068.
