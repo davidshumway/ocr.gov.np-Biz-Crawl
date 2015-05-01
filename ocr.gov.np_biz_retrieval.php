@@ -402,7 +402,7 @@ function curl_get($options) {
 	$x = curl_getinfo($ch, CURLINFO_HTTP_CODE);
 	
 	// Save to file
-	if  (
+	if 	(
 		property_exists($options, 'request_to_file') && $x == 200
 		)
 	{
