@@ -21,7 +21,12 @@ ini_set('pcre.backtrack_limit', 10485760);
 // Init. 
 if (isset($argv[1])) {
 	// Folder = This is the location to save to, when necessary.
-	$regions = new regions($argv[1]);
+	// Google API key. This is for translations.
+	$key = false;
+	if (isset($argv[2])) {
+		$key = $argv[2];
+	}
+	$regions = new regions($argv[1], $key);
 }
 /**
  * class region
@@ -233,7 +238,9 @@ class regions {
 	private $regions;
 	private $data_folder;
 	private $folder; // Root folder
-	function __construct($folder) {
+	private $gapi_key; // Google API key for translate.
+	private $translations_array = array(); // Translations associative array.
+	function __construct($folder, $gapi_key = false) {
 		$this->folder = $folder; // Set $this->folder
 		// CHECK: Folder ends with "/".
 		if ($folder[ strlen($folder)-1 ] != '/') {
@@ -252,6 +259,9 @@ class regions {
 				die('ERROR: Could not create the folder '.$this->tmp_folder);
 			}
 		}
+		// Set gapi_key
+		$this->gapi_key = $gapi_key;
+		
 		//~ // Make a "data" dir if it does not exist.
 		//~ $this->data_folder = $folder . 'data/';
 		//~ if (!file_exists($this->data_folder)) {
@@ -262,11 +272,89 @@ class regions {
 		// Init. regions.
 		$this->build_regions();
 		
+		// Tranlsate all business addresses. Uses disk cache whenever possible
+		// by saving the CURL-get requests to the "data" folder.
+		// Put all translations into the file translations.json.
+		$this->translate();
+		
 		// Save businesses to disk as CSV
 		$this->csv();
 		
 		// Save 2-year-old or less businesses to disk as CSV
 		$this->csv(2068);
+	}
+	function translate() {
+		// Translate?
+		if (!$this->gapi_key) {
+			echo 'Skipping business address translations, no Google API key specified.'."\n";
+			return;
+		} else {
+			echo
+				'Downloading Google translations for business addresses.'."\n".
+				'"*" denotes a cached query, "." denotes a non-cached query, "d" denotes a duplicate address'."\n";
+		}
+		// The result is e.g.:
+		//~ {
+		//~ 	"data": {
+		//~ 		"translations": [
+		//~ 			{
+		//~ 				"translatedText": "Ritachopata, 2, Darchula, Mahakali"
+		//~ 			}
+		//~ 		]
+		//~ 	}
+		//~ }
+		// 
+		// Use an associative array: $this->translations_array = array();
+		
+		foreach ($this->regions as $key => $region) {
+			foreach ($region->zones as $key2 => $zone) {
+				echo "\n";
+				echo 'Translating businesses in '.$region.'->'.$zone."\n";
+				foreach ($zone->districts as $key3 => $district) {
+					foreach ($district->businesses as $key3 => $business) {
+						// Translate the following address: $business->address
+						// CURL get api translation (GET)
+						// "ne" is not on Google's list of languages (https://cloud.google.com/translate/v2/using_rest). However, 
+						// it is returned when using the language detect API https://www.googleapis.com/language/translate/v2/detect?key=&q=.
+						
+						// Do not translate if key already exists.
+						if (array_key_exists($business->address, $this->translations_array)) {
+							echo 'd';
+							continue;
+						}
+						
+						// Translate
+						$u =
+							'https://www.googleapis.com/language/translate/v2'.
+							'?key='.urlencode($this->gapi_key).
+							'&source=ne&target=en'.
+							'&q='.urlencode($business->address);
+						$opts = new StdClass;
+						$opts->url = $u;
+						$opts->filename = md5($opts->url);
+						$opts->request_to_file = true;
+						$opts->request_from_file = true;
+						$opts->folder = $this->tmp_folder;
+						$content = curl_get($opts); // status,html
+						if (property_exists($content, 'isCached')) {
+							echo '*'; // Is cached.
+						} else {
+							echo '.';
+							if ($content->status != 200) {
+								die('status != 200, =' . $content->status);
+							}
+						}
+						$d = json_decode($content->html);
+						$this->translations_array[ $business->address ] = $d;
+					}
+				}
+			}
+		}
+		//~ exit;
+		
+		// Load translations.json and parse.
+		// Re-run csv() when any translations are not cached (!isCached).
+		// Otherwise the first run of csv() included all translations.
 	}
 	function csv($year = false) {
 		$now = date('F.d.Y');
@@ -285,6 +373,7 @@ class regions {
 			'Name',
 			'Name-English',
 			'Address',
+			'Address-English Translated', // TRANSLATION IF AVAILABLE
 			'Type'
 		);
 		fputcsv($fp, $header); // Header
@@ -294,14 +383,18 @@ class regions {
 				foreach ($zone->districts as $key3 => $district) {
 					//$count_biz += count($district->businesses);
 					foreach ($district->businesses as $key3 => $business) {
-						//~ echo $business->sn_no . "\n";
-						//~ echo $business->registration_no . "\n";
-						//~ echo $business->registration_date . "\n";
-						//~ echo $business->name . "\n";
-						//~ echo $business->name_eng . "\n";
-						//~ echo $business->address . "\n";
-						//~ echo $business->type_name;
 						
+						// TODO: INCLUDE Translated address
+						$trans = '';
+						if (array_key_exists($business->address, $this->translations_array)) {
+							try {
+								$trans = $this->translations_array[ $business->address ]->data->translations[0]->translatedText;
+							} catch ($e) {
+								$trans = '';
+							}
+						}
+						
+						// If limit by year.
 						if ($year) {
 							$rd = explode('-', $business->registration_date);
 							if (count($rd) != 3) continue; // Skip if the date is invalid.
@@ -310,8 +403,10 @@ class regions {
 							} 
 						}
 						
-						$count_biz++; // Increment
+						// Increment count
+						$count_biz++;
 						
+						// $fields CSV array
 						$fields = array(
 							$region->title,
 							$region->title_en,
@@ -324,9 +419,11 @@ class regions {
 							$business->name,
 							$business->name_eng,
 							$business->address,
+							$trans, // TRANSLATION IF AVAILABLE
 							$business->type_name
 						);
 						
+						// Write array to CSV
 						fputcsv($fp, $fields);
 					}
 				}
