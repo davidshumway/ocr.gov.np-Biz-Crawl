@@ -12,5 +12,7 @@ The program will reuse the cached files on any subsequent runs. To clear the cac
 
 When an API key is provided, the program will attempt to translate all unique business addresses to English. In addition, the program will find the geolocation of regions and local regions. The furthest level in for locations is about the city or village level, with some businesses only coming up with a county geolocation. Precise geocoding is not available. Also, the geolocation is automated so it is really just a best guess and may not always be correct. The number of unique geocoded requests is about 3,500.
 
+The website also categorizes the businesses. The file business-categories-translated.csv contains the categories including translation to English, or without English if no API key is provided. The most categories assigned to one business is 42. The total number of businesses with at least one category is 119,914.
+
 As of April 30, 2015, the scrape produces 127,543 business registered in total, and 43,903 businesses registered since 2068. There are about 16,000 unique addresses and 112,000 duplicate addresses.
 
