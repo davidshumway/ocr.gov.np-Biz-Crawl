@@ -1,0 +1,476 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Search Result</title>
+<link type="text/css" rel="stylesheet" href="./includes/style.css"/>
+<link type="text/css" rel="stylesheet" href="./scripts/ui/themes/cupertino/jquery-ui-1.7.1.css"/>
+<script src="./scripts/jquery-1.7.2.js"></script>
+<script src="./scripts/jquery.validate.js"></script>
+<!--<script src="./scripts/ui/jquery-ui-1.7.1.min.js"></script>-->
+</head>
+
+<body>
+<div align="center">
+	<div id="main_container">
+    	<div id="header_container">
+            <span style="float:right">
+            	<a href="./../" class="goback">Go back to home</a>
+            </span>
+        </div><!--header_container-->
+        <div style="clear:both"></div>
+        <div id="body_container">
+		<link type="text/css" rel="stylesheet" href="./scripts/jqgrid/src/css/ui.jqgrid.css"/>
+<script src="./scripts/jqgrid/js/i18n/grid.locale-en.js"></script>
+<script src="./scripts/jqgrid/js/jquery.jqGrid.min.js"></script>
+<script language="javascript">
+$(document).ready(function(){
+   $("#list47").jqGrid({ data: [{"sn_no":1,"registration_no":"44834","registration_date":"2063-12-8","name":"\u0905\u0938\u094d\u0935\u093f\u0928 \u0915\u0947\u0935\u0932 \u0928\u0947\u091f\u0935\u0930\u094d\u0915","name_eng":"Asbin Cable Net-Work.","address":"\u0938\u0924\u093f\u0938\u094d\u0935\u093e\u0930\u093e-\u0967, \u0924\u0928\u0939\u0941, \u0917\u0923\u094d\u0921\u0915\u0940 ","type_name":"\u092a\u094d\u0930\u093e\u0907\u092d\u0947\u091f >> \u092c\u0939\u0941\u0932>>\u0938\u092e\u094d\u092a\u0941\u0930\u094d\u0923 \u0928\u0947\u092a\u093e\u0932\u0940 \u0938\u094d\u0935\u093e\u092e\u093f\u0924\u094d\u0935(\u092a\u094d\u0930\u093e\u0907\u092d\u0947\u091f)"},{"sn_no":2,"registration_no":"33169","registration_date":"2061-11-19","name":"\u0938\u094d\u0928\u0947\u0939  \u092a\u094d\u0930\u093f\u0928\u094d\u091f\u093f\u0919  \u092a\u094d\u0930\u0947\u0938","name_eng":"SNEHA PRINTING PRESS","address":"\u092a\u0943\u0925\u094d\u0935\u0940\u0928\u093e\u0930\u093e\u092f\u0923 \u0928.\u092a\u093e.,-3, \u0917\u094b\u0930\u0916\u093e, \u0917\u0923\u094d\u0921\u0915\u0940","type_name":"\u092a\u094d\u0930\u093e\u0907\u092d\u0947\u091f >> \u090f\u0915\u0932"},{"sn_no":3,"registration_no":"6909","registration_date":"2054-3-2","name":"\u092e\u0941\u0915\u094d\u0924\u093f\u0928\u093e\u0925 \u0926\u0930\u094d\u0936\u0928","name_eng":"MUKTI NATH DARSHAN","address":"\u092a\u094b\u0916\u0930\u093e \u0909\u092a \u092e.\u0928.\u092a\u093e.-\u096f,\u0915\u093e\u0938\u094d\u0915\u0940,\u0917\u0923\u094d\u0921\u0915\u0940","type_name":"\u092a\u094d\u0930\u093e\u0907\u092d\u0947\u091f >> \u092c\u0939\u0941\u0932>>\u0938\u092e\u094d\u092a\u0941\u0930\u094d\u0923 \u0928\u0947\u092a\u093e\u0932\u0940 \u0938\u094d\u0935\u093e\u092e\u093f\u0924\u094d\u0935(\u092a\u094d\u0930\u093e\u0907\u092d\u0947\u091f)"},{"sn_no":4,"registration_no":"4880","registration_date":"2048-8-9","name":"\u0939\u094b\u091f\u0932 \u092f\u0924\u093f","name_eng":"Hotel Yati","address":"\u0938\u093f\u0926\u094d\u0918\u093e\u0930\u094d\u0925\u0928\u0917\u0930 \u0928.\u092a\u093e.-\u096b,\u0930\u0941\u092a\u0928\u094d\u0926\u0947\u0939\u0940,\u0932\u0941\u092e\u094d\u092c\u093f\u0928\u0940","type_name":"\u092a\u094d\u0930\u093e\u0907\u092d\u0947\u091f >> \u092c\u0939\u0941\u0932>>\u0938\u092e\u094d\u092a\u0941\u0930\u094d\u0923 \u0928\u0947\u092a\u093e\u0932\u0940 \u0938\u094d\u0935\u093e\u092e\u093f\u0924\u094d\u0935(\u092a\u094d\u0930\u093e\u0907\u092d\u0947\u091f)"},{"sn_no":5,"registration_no":"946","registration_date":"2062-10-17","name":"\u0938\u0947\u0935\u093e \u0935\u093f\u0915\u093e\u0936 \u092c\u0948\u0915\u0902","name_eng":"Sewa Bikash Bank","address":"\u092c\u0941\u091f\u0935\u0932 \u0928.\u092a\u093e.-\u096e,\u0930\u0941\u092a\u0928\u094d\u0926\u0947\u0939\u0940,\u0932\u0941\u092e\u094d\u092c\u093f\u0928\u0940","type_name":"\u092a\u094d\u0930\u093e\u0907\u092d\u0947\u091f >> \u092c\u0939\u0941\u0932>>\u0938\u092e\u094d\u092a\u0941\u0930\u094d\u0923 \u0928\u0947\u092a\u093e\u0932\u0940 \u0938\u094d\u0935\u093e\u092e\u093f\u0924\u094d\u0935(\u092a\u094d\u0930\u093e\u0907\u092d\u0947\u091f)"},{"sn_no":6,"registration_no":"66331","registration_date":"2066-6-1","name":"\u0905\u0928\u094d\u0928 \u092a\u0941\u0937\u094d\u092a\u092e \u0938\u0935 \u0930\u0947\u092e\u093f\u091f\u0947\u0928\u094d\u0938 \u0915\u092e\u094d\u092a\u0928\u0940","name_eng":"Anna Pushpam Sub Remittance Company","address":"\u0926\u0930\u0935\u093e\u0919-\u0967, \u092e\u094d\u092f\u093e\u0917\u094d\u0926\u0940, \u0927\u094c\u0932\u093e\u0917\u0940\u0930\u0940 ","type_name":"\u092a\u094d\u0930\u093e\u0907\u092d\u0947\u091f >> \u090f\u0915\u0932"},{"sn_no":7,"registration_no":"1294","registration_date":"2068-1-27","name":"\u090f\u0915\u0924\u093e \u0935\u093f\u0915\u093e\u0938 \u092c\u0948\u0902\u0915","name_eng":"Ekata Bikas Bank","address":"\u092c\u0941\u091f\u0935\u0932 \u0928.\u092a\u093e.-\u096e, \u0930\u0941\u092a\u0928\u094d\u0926\u0947\u0939\u0940, \u0932\u0941\u092e\u094d\u092c\u093f\u0928\u0940 ","type_name":"\u092a\u092c\u094d\u0932\u093f\u0915 >> \u0917\u0948\u0930 \u0938\u0930\u0915\u093e\u0930\u0940>>\u0938\u092e\u094d\u092a\u0942\u0930\u094d\u0923 \u0928\u0947\u092a\u093e\u0932\u0940 \u0938\u094d\u0935\u093e\u092e\u093f\u0924\u094d\u0935(\u092a\u092c\u094d\u0932\u093f\u0915)"},{"sn_no":8,"registration_no":"114996","registration_date":"2070-4-24","name":"\u0907.\u092a\u093f.\u090f\u0938. \u0930\u0947\u092e\u093f\u091f","name_eng":"E.P.S. Remit","address":"\u092a\u094b\u0916\u0930\u093e \u0909\u092a \u092e.\u0928.\u092a\u093e.-\u0967\u0967,\u0915\u093e\u0938\u094d\u0915\u0940,\u0917\u0923\u094d\u0921\u0915\u0940","type_name":"\u092a\u094d\u0930\u093e\u0907\u092d\u0947\u091f >> \u092c\u0939\u0941\u0932>>\u0938\u092e\u094d\u092a\u0941\u0930\u094d\u0923 \u0928\u0947\u092a\u093e\u0932\u0940 \u0938\u094d\u0935\u093e\u092e\u093f\u0924\u094d\u0935(\u092a\u094d\u0930\u093e\u0907\u092d\u0947\u091f)"},{"sn_no":9,"registration_no":"111580","registration_date":"2070-1-3","name":"\u090f.\u092c\u093f.\u090f\u0938. \u092a\u092c\u094d\u0932\u093f\u0915\u0947\u0936\u0928","name_eng":"A.B.S. Publication","address":"\u0915\u093e\u0938\u094d\u0915\u0940,\u0917\u0923\u094d\u0921\u0915\u0940","type_name":"\u092a\u094d\u0930\u093e\u0907\u092d\u0947\u091f >> \u092c\u0939\u0941\u0932>>\u0938\u092e\u094d\u092a\u0941\u0930\u094d\u0923 \u0928\u0947\u092a\u093e\u0932\u0940 \u0938\u094d\u0935\u093e\u092e\u093f\u0924\u094d\u0935(\u092a\u094d\u0930\u093e\u0907\u092d\u0947\u091f)"},{"sn_no":10,"registration_no":"114817","registration_date":"2070-4-21","name":"\u0917\u093f\u092d \u090f\u0923\u094d\u0921 \u091f\u0947\u0915 \u0938\u0935 \u092e\u0928\u0940 \u091f\u094d\u0930\u093e\u0928\u094d\u0938\u092b\u0930","name_eng":"Give & Take Sub Money Transfer","address":"\u0915\u093e\u0938\u094d\u0915\u0940,\u0917\u0923\u094d\u0921\u0915\u0940","type_name":"\u092a\u094d\u0930\u093e\u0907\u092d\u0947\u091f >> \u090f\u0915\u0932"},{"sn_no":11,"registration_no":"128090","registration_date":"2071-7-21","name":"\u0905\u0928\u0941\u0937\u094d\u0915\u093e \u0938\u0935 \u092e\u0928\u0940 \u090f\u0915\u094d\u0938\u091a\u0947\u0928\u094d\u091c","name_eng":"Anushka Sub Money Exchange","address":"\u0938\u0928\u094d\u0927\u0940\u0916\u0930\u094d\u0915-\u0967,\u0905\u0930\u094d\u0918\u093e\u0916\u093e\u0902\u091a\u0940,\u0932\u0941\u092e\u094d\u092c\u093f\u0928\u0940","type_name":"\u092a\u094d\u0930\u093e\u0907\u092d\u0947\u091f >> \u090f\u0915\u0932"},{"sn_no":12,"registration_no":"133927","registration_date":"2071-12-12","name":"\u0906\u0930. \u090f\u0928. \u0913 \u0938\u0935 \u092e\u0928\u0940 \u091f\u094d\u0930\u093e\u0928\u094d\u0938\u092b\u0930","name_eng":"R.N.O Sab Money Transfer","address":"\u0930\u0941\u0926\u094d\u0930\u092a\u0941\u0930-\u096c,\u0930\u0941\u092a\u0928\u094d\u0926\u0947\u0939\u0940,\u0932\u0941\u092e\u094d\u092c\u093f\u0928\u0940","type_name":"\u092a\u094d\u0930\u093e\u0907\u092d\u0947\u091f >> \u090f\u0915\u0932"}], height:'auto',datatype: "local", rowNum: 50, rowList: [50,100,150],
+   colNames:['Sn. No.','Registration No.','Registration Date', 'Name', 'Company Type', 'Address'], 
+   colModel:[ 
+		{name:'sn_no',index:'sn_no', sorttype:"int",width:'60'}, 
+		{name:'registration_no',index:'registration_no',width:'105'}, 
+		{name:'registration_date',index:'registration_date', sorttype:"date",width:'110'}, 
+		{name:'name_eng',index:'name_eng',width:'250'}, 
+//		{name:'name',index:'name',width:'175'}, 
+		{name:'type_name',index:'type_name',width:'150'}, 
+		{name:'address',index:'address',width:'235'}
+		//{name:'objective',index:'objective',width:'250'}
+		], 
+	pager: "#plist47", 
+	viewrecords: true,
+	caption:"Search Results" 
+	}); 
+   $('#form_search').validate();
+   //$('.date').datepicker({dateFormat:'yy-mm-dd'}); 
+      $('#div_search').hide();
+   });
+function get_zones(region)
+{
+	region_id = region.split(',');
+	$.post('ajax_page.php',{'task':'getZone','region':region_id[1]},function(data){
+		var html = '<option value="">Select</option>';
+		$('#district').html(html);
+		for(i=0;i<data.length;i++)
+		{
+			html+= "<option value='"+data[i].id+"'>"+data[i].title_en+"</option>";
+		}
+		$('#zone').html(html);
+	},'json');
+}
+function get_districts(zone_id)
+{
+	$.post('ajax_page.php',{'task':'getDistrict','zone':zone_id},function(data){
+		var html = '<option value="">Select</option>';
+		for(i=0;i<data.length;i++)
+		{
+			html+= "<option value='"+data[i].id+"'>"+data[i].title_en+"</option>";
+		}
+		$('#district').html(html);
+	},'json');
+}
+</script>			
+            <span style="float:left;">
+			<h3><a href='javascript:void(0)' onclick="$('#div_search').slideToggle('slow');">Advanced Search</a></h3> 
+			<p style="font:11px/14px tahoma;">Search for registered companies data. All fields are optional. Please use filter below to customize your search.</p>
+			</span>
+			<a href="#" onClick="window.open('help.jpg', 'WindowC', 'width=953, height=760,scrollbars=yes');" class="helping">Advance Search Help</a>
+			<div style="clear:both"></div>
+			
+			<div id = 'div_search'>
+            <form name="form_search" id="form_search" method="post">
+                <table width="100%">
+                    <tr>
+                        <td>Registration No.</td>
+                        <td colspan="2"><input type="text" name="reg_no" id="reg_no" value="" /></td>
+                    </tr>
+                    <tr>
+                        <td>Company Name</td>
+                        <td colspan="2"><input type="text" name="company_name" id="company_name" value="" /></td>
+                    </tr>
+                    <tr>
+                        <td>Registration Date</td>
+                        <td>From<input size="10" type="text" class="date" name="reg_date_from" id="reg_date_from" value="" />(yyyy-mm-dd /  e.g. 2066-05-10)</td>
+                        <td>To<input size="10" type="text" class="date" name="reg_date_to" id="reg_date_to" value="" />(yyyy-mm-dd /  e.g. 2066-05-10)</td>
+                    </tr>
+                    <tr>
+                        <td>Company Type</td>
+                        <td colspan="2">
+                                                        <select name="company_type" id="company_type">
+								<option value="">Select</option>
+                                <option  value="2,7,8,10,11,12,19">पब्लिक</option>
+								<option   value="4,20,21,22,23,26">प्राइभेट</option>
+								<option   value="6">मुनाफा वितरण नगर्ने</option>
+								<option   value="24,30,31">विदेशी कार्यालय</option>								
+                                                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Region</td>
+                        <td colspan="2">
+                                                        <select onchange="get_zones(this.value)" name="region" id="region">
+                                <option value="">Select</option>
+                                                                    <option  value="region,1">Far-Western Development Region</option>
+                                                                        <option  value="region,2">Mid-Western Development Region</option>
+                                                                        <option  selected='selected'  value="region,3">Western Development Region</option>
+                                                                        <option  value="region,4">Central Development Region</option>
+                                                                        <option  value="region,5">Eastern Development Region</option>
+                                                                        <option  value="region,6">Unknown</option>
+                                                                </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Zone</td>
+                        <td colspan="2">  
+                            <select name="zone" onchange="get_districts(this.value)" id="zone">
+                                <option value="">Select</option>
+                                										<option  value="6">Dhaulagiri</option>
+																				<option  value="7">Gandaki</option>
+																				<option  value="8">Lumbini</option>
+										                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>District</td>
+                        <td colspan="2">    
+                            <select name="district" id="district">
+                                <option value="">Select</option>
+                                                            </select>
+                        </td>
+                    </tr>
+					<tr>
+                        <td>Objective</td>
+                        <td colspan="2">    
+                            <select name="objective" id="objective" style="width:325px">
+                                <option value="">Select</option>
+                                                                    <option  value="9909">0001 - legal consultancy</option>
+                                                                        <option  value="9908">0003 - Education consultancy and tuition, language</option>
+                                                                        <option  value="9907">0004 - Web site related works </option>
+                                                                        <option  value="9906">0005 - Cargo and courier related works</option>
+                                                                        <option  value="9905">0006 - Entertainment services</option>
+                                                                        <option  value="9904">0008 - International Jobs</option>
+                                                                        <option  value="9903">0009 - Handicraft related jobs</option>
+                                                                        <option  value="111">0111 - खाद्य वस्तुहरु जस्तै धान, सुर्ति, भटमास, जडीवुटी, तोरी, रवर आदिको खेती गर्ने। </option>
+                                                                        <option  value="112">0112 - सागसव्जी, फूल नर्सरी आदिको खेती गर्ने। </option>
+                                                                        <option  value="113">0113 - फलफूल, मसला र चिया कफि आदिको खेती गर्ने। </option>
+                                                                        <option  value="121">0121 - पशुपालन, दूध उत्पादन र पशु पोषण कार्य गर्ने। </option>
+                                                                        <option  value="122">0122 - खरायो, सुंगुर, लौकाट, कुखुरा, हांस, सुगा, गोही, मौरी, रेशम किरा पालन गर्ने। </option>
+                                                                        <option  value="130">0130 - खाद्य पदार्थको खेती गर्ने र पशु पंक्षी पालन (मिश्रित) खाद्य पदार्थ र पशुपालन गर्ने। </option>
+                                                                        <option  value="140">0140 - कृषि सेवा, पशु हेरचाह, नष्ल सुधार एवं प्रजनन्, किटनाशक औषधी छर्ने सेवा। </option>
+                                                                        <option  value="200">0200 - वन उत्पादन, दाउरा काट्ने र संकलन गर्ने, वन विकास गर्ने। </option>
+                                                                        <option  value="500">0500 - माछा पालन, माछा मार्ने, भूरा उत्पादन गर्ने । </option>
+                                                                        <option  value="1010">1010 - कोइला खानी, कोइला उत्खनन ढुवानी र स्टोर गर्ने। </option>
+                                                                        <option  value="1020">1020 - लीग्नाइट (वाउन कोइला ) संकलन गर्ने , ढुवानी गर्ने , विकेट वनाउने  </option>
+                                                                        <option  value="1030">1030 - पीटको उत्खनन् गर्ने , संकलन गर्ने  </option>
+                                                                        <option  value="1110">1110 - प्राकृतिक ग्यांस र कच्चा पेट्रोलको उत्खनन। </option>
+                                                                        <option  value="1120">1120 - सुल्क लिएर वा करारमा पेट्रोलियम पदार्थ वा ग्यांस उत्खन्न गर्ने वा ड्रीलिङ गर्ने ,पेट्रोलियम पदार्थकुवा को संरक्षण गर्ने, ड्रलीङका सामान आपूर्ति गर्ने ।</option>
+                                                                        <option  value="1200">1200 - यूरेनियम वा थोरियमको धाउ उत्खनन् गर्ने  </option>
+                                                                        <option  value="1310">1310 - फलामको धाउ (कच्चा फलाम) उत्खनन गर्ने। </option>
+                                                                        <option  value="1320">1320 - गैह्र फलाम जन्य धातु जस्तै सुन,  चाँदी, तामा आलमोनियको उत्खनन गर्ने। </option>
+                                                                        <option  value="1410">1410 - ढुङ्गा वालुवा, माटो चुन खरि आदिको उत्पादन गर्ने । </option>
+                                                                        <option  value="1421">1421 - रासायनिक र खनिज मल जस्तै सोडियम, नाइट्रिट, सल्फर उत्खनन गर्ने। </option>
+                                                                        <option  value="1422">1422 - खानीवाट वा सौर्य किरणवाट नून वनाउने , तालवाट वा प्रकृतिको तातो पानीवाट नून निकाल्ने काम </option>
+                                                                        <option  value="1429">1429 - नूनको उत्पादन गर्ने। </option>
+                                                                        <option  value="1511">1511 - वध शाला सन्चालन, मासुको प्रशोधन गर्ने, हाड, छाला, उन आदिको उत्पादन गर्ने। </option>
+                                                                        <option  value="1512">1512 - माछाको मासु प्रशोधन गर्ने, प्याक गर्ने कार्यहरु। </option>
+                                                                        <option  value="1513">1513 - फलफूल र तरकारीको प्रशोधन, संरक्षण र प्याक गर्ने कार्यहरु। </option>
+                                                                        <option  value="1514">1514 - तेल वोसो आदि उत्पादन गर्ने प्रतिष्ठानहरु / क्रृयाकलापहरु। </option>
+                                                                        <option  value="1520">1520 - दुग्ध पदार्थको प्रशोधन, धुलो दूधको उत्पादन, दुग्ध पदार्थवाट वन्ने अन्य वस्तुहरुको उत्पादन। </option>
+                                                                        <option  value="1531">1531 - धान कुट्ने, गंहु, मकै पिस्ने, पिठो उत्पादन गर्ने मिलहरु / क्रृयाकलापहरु।</option>
+                                                                        <option  value="1532">1532 - स्टार्च, मकैको तेल, ग्लूकोज आदि उत्पादन गर्ने प्रतिष्ठानहरु वा क्रृयाकलापहरु। </option>
+                                                                        <option  value="1533">1533 - पशु आहार वा पशु  दाना उत्पादन गर्ने प्रतिष्ठानहरु। </option>
+                                                                        <option  value="1541">1541 - पाउरोटी,केक, दुनेाट, विस्कुट आदि उत्पादन गर्ने क्रृयाकलापहरु। </option>
+                                                                        <option  value="1542">1542 - चिनी, चाकु, खुदो, वनाउने क्रृयाकलापहरु। </option>
+                                                                        <option  value="1543">1543 - कोका, मिठाई चुइगम आदि उत्पादन गर्ने क्रृयाकलापहरु। </option>
+                                                                        <option  value="1544">1544 - चाउ चाउ, म्याकरोनी, उत्पादन गर्ने क्रृयाकलापहरु। </option>
+                                                                        <option  value="1549">1549 - चिया, कफि, मासुको सुप, कृत्रिम मह उत्पादन गर्ने क्रृयाकलापहरु। </option>
+                                                                        <option  value="1551">1551 - अल्कोहल जन्य पदार्थहरु जस्तै   व्हीस्की , व्राण्डी , रक्सी , स्प्रीड, लिक्वाएर आदि वनाउने , स्याउ नास्पति आदि फलफूलवाठ रक्सी प्रशोधन गर्ने , ती वस्तुहरुमा लेवल लगाउने। </option>
+                                                                        <option  value="1552">1552 - अंगुरवाट रक्सी वनाउने कृयाकलापहरु। </option>
+                                                                        <option  value="1553">1553 - अन्नवाट जांड वा वियर उत्पादन गर्ने प्रतिष्ठान / क्रियाकलापहरु। </option>
+                                                                        <option  value="1554">1554 - हल्का पेय पदार्थ जस्तै कोका कोला, मिरिण्डा, मिनरल वाटर उत्पादन गर्ने प्रतिष्ठान / क्रियाकलापहरु। </option>
+                                                                        <option  value="1600">1600 - चुरोट विडी खैनी जस्ता सुर्ति जन्य पदार्थको उत्पादन गर्ने प्रतिष्ठान / क्रियाकलापहरु। </option>
+                                                                        <option  value="1711">1711 - धागो कात्ने र कपडा वुन्ने  प्रतिष्ठान / क्रियाकलापहरु। </option>
+                                                                        <option  value="1712">1712 - कपडा रंगाउने , कपडामा चित्र छाप्ने , कपडा प्याक गर्ने। </option>
+                                                                        <option  value="1721">1721 - पाल, कम्वल, सिरक, डसना, पर्दा सिलिपिङ्गव्याग उत्पादन गर्ने प्रतिष्ठान / क्रियाकलापहरु। </option>
+                                                                        <option  value="1722">1722 - कार्पेट, रग, म्याट आदि उत्पादन गर्ने प्रतिष्ठान / क्रियाकलापहरु। </option>
+                                                                        <option  value="1723">1723 - डोरी, नाम्लो, सुतली, जाली आदिको उत्पादन गर्ने प्रतिष्ठान / क्रियाकलापहरु। </option>
+                                                                        <option  value="1729">1729 - कपडाको ब्वाच वा विल्ला वनाउने , नेपाली महिलाले लगाउने धागो , रीवन , इम्व्राइडरी , धातुको धागो , प्लाष्टिकको धागो उत्पादन गर्ने।  </option>
+                                                                        <option  value="1730">1730 - कपडाको जाली , टी सर्ट , जर्सी , सुइटर आदि वुन्ने , सीरानी  तन्ना आदिमा फेवरीक पेन्टीङ गर्ने। </option>
+                                                                        <option  value="1810">1810 - टेलरिङ सप जस्तै चोलो , कमीज , पाइण्ट , कोट , टोप , टाई आदि सिलाउने कृयाकलापहरु। </option>
+                                                                        <option  value="1820">1820 - भूवादार कपडाको संगरोगन र कांटछांट गर्ने  जस्तै   रग , म्याट , ज्याकेट आदि रंगाउने कृयाकलापहरु। </option>
+                                                                        <option  value="1911">1911 - छालाका सामान रंगाउने र काटछाट गर्ने जस्तै   छाला रंगाउने , काटछाट गर्ने , छालको सिट तयार गर्ने।  </option>
+                                                                        <option  value="1912">1912 - छालाको व्याग, सुटकेश उत्पादन गर्ने। </option>
+                                                                        <option  value="1920">1920 - जुत्ता वा चप्पल उत्पादन गर्ने प्रतिष्ठान / क्रियाकलापहरु। </option>
+                                                                        <option  value="2010">2010 - काठ चिर्ने तथा रण्डा लगाउने प्रतिष्ठान वा क्रियाकलापहरु। </option>
+                                                                        <option  value="2021">2021 - काठका पाताला सामान बनाउने जस्तै  काठका पातला फल्याक वनाउने , काठका पातला टुक्रा मिलाएर वोर्ड वनाउने लेमिनेटेड कार्ड बनाउने कृयाकलापहरु   </option>
+                                                                        <option  value="2022">2022 - काठका झया्ल, ढोका, भर्‍याङ (फर्निचर वाहेक) वनाउने प्रतिष्ठान / क्रियाकलापहरु। </option>
+                                                                        <option  value="2023">2023 - काठका भाँडा, ठेकी, ड्रम आदि उत्पादन गर्ने प्रतिष्ठान / क्रियाकलापहरु। </option>
+                                                                        <option  value="2029">2029 - सुकुल, चकटी, काठका जुत्ता आदि उत्पादन गर्ने प्रतिष्ठान / क्रियाकलापहरु। </option>
+                                                                        <option  value="2101">2101 - कागज, पेपरवोर्ड, उत्पादन गर्ने प्रतिष्ठान / क्रियाकलापहरु। </option>
+                                                                        <option  value="2102">2102 - कागजको वाकस, आदि वनाउने उत्पादन गर्ने प्रतिष्ठान / क्रियाकलापहरु। </option>
+                                                                        <option  value="2109">2109 - कार्वन पेपर, ट्रेसिङ्ग पेपर, ट्वाईलेट पेपर, नेपकिन पेपर, कप प्लेट आदि उत्पादन गर्ने प्रतिष्ठान / क्रियाकलापहरु। </option>
+                                                                        <option  value="2211">2211 - पुस्तक, नक्शा, एटलस अदि प्रकाशन गर्ने प्रतिष्ठान / क्रियाकलापहरु। </option>
+                                                                        <option  value="2212">2212 - समाचार पत्र, पत्रिका कार्टुन प्रकाशित गर्ने प्रतिष्ठान / क्रियाकलापहरु। </option>
+                                                                        <option  value="2213">2213 - अडियो क्यासेट प्रकाशित गर्ने प्रतिष्ठान / क्रियाकलापहरु। </option>
+                                                                        <option  value="2219">2219 - फोटो, पोष्टकार्ड, चित्र आदि प्रकाशित गर्ने प्रतिष्ठान / क्रियाकलापहरु। </option>
+                                                                        <option  value="2221">2221 - अखवार, किताव, चेक, नोट, राजश्व टिकट, हुलाक टिकट छाप्ने प्रतिष्ठान / क्रियाकलापहरु। </option>
+                                                                        <option  value="2222">2222 - इलेक्ट्रो टाइपिङ्ग, पिन्ट्रीङ्ग ल्पेट, रवर स्ट्याम्प निकाल्ने प्रतिष्ठान / क्रियाकलापहरु। </option>
+                                                                        <option  value="2230">2230 - स्रव्य दृश्य टेप, फ्ल्पी, फिल्म डुप्लिकेटिङ्ग निकाल्ने प्रतिष्ठान / क्रियाकलापहरु। </option>
+                                                                        <option  value="2320">2320 - पेट्रोलीयम पदार्थको रिफाइन गर्ने जस्तै   तरल इन्धन तयार गर्ने  कृयाकलापहरु </option>
+                                                                        <option  value="2411">2411 - आधारभूत रसायन तयार गर्ने जस्तै   इनरजेनिक एसिड , </option>
+                                                                        <option  value="2412">2412 - रसायनिक मल जस्तै  ड्राइ यूरिया , नाइट्रोजन कम्पाउण्ड , एमोनिया आदि बनाउने कृयाकलापहरु। </option>
+                                                                        <option  value="2413">2413 - कच्चा प्लायष्टक , सेन्थेठिक र रबर जस्तै  पोलीकार्वोनेट , प्राकृतिक रबर,सेन्थेटिक रबर बनाउने कृयाकलापहरु </option>
+                                                                        <option  value="2421">2421 - किटनाशक औषधी, कृषि जन्य रासायनिक पदार्थ उत्पादन गर्ने प्रतिष्ठान / क्रियाकलापहरु। </option>
+                                                                        <option  value="2422">2422 - रङ, वार्निस, इनामेल, चक आदि उत्पादन गर्ने क्रियाकलापहरु </option>
+                                                                        <option  value="2423">2423 - औषधी वनाउने क्रियाकलापहरु </option>
+                                                                        <option  value="2424">2424 - सावुन, टुथपेष्ट, स्याम्पु, पालिस, अत्तर आदि उत्पादन गर्ने क्रियाकलापहरु </option>
+                                                                        <option  value="2429">2429 - अन्य रसायनिक बस्तुहरुको उत्पाद जस्तै विष्फोक पदार्थ, फोटो धुलाउने रसायन, लेख्ने र छाप्ने मसी, आयोडिन युक्त नून बनाउने कृयाकलापहरु।</option>
+                                                                        <option  value="2430">2430 - सिन्थेटिक, नाइलन, पोलिष्टर आदिको कृत्रिम रेशा वनाउने क्रियाकलापहरु </option>
+                                                                        <option  value="2511">2511 - रवरका टायर, ट्यूव उत्पादन गर्ने र रिसोलिङ्ग गर्ने प्रतिष्ठान तथा क्रियाकलापहरु </option>
+                                                                        <option  value="2519">2519 - पाइप, रवर कार्पेट, जुत्ताका तलुवा उत्पादन गर्ने क्रियाकलापहरु </option>
+                                                                        <option  value="2520">2520 - प्लाष्टिकका भाँडा वर्तन, टेवल कुर्सि, झ्याल, ढोका, फर्निचर, झोला आदि वनाउने क्रियाकलापहरु </option>
+                                                                        <option  value="2610">2610 - शिशा तथा काँचका वोतल, प्लेट, ऐना, चुरा, टेवुलमा राख्ने शिशा आदि वनाउने क्रियाकलापहरु </option>
+                                                                        <option  value="2691">2691 - माटाका भाँडाहरु, माटाका मुर्तिहरु, माटाका गहनाहरु आदि उत्पादन गर्ने क्रियाकलापहरु। </option>
+                                                                        <option  value="2692">2692 - माटाका इँटा, टायल, पाइपहरु आदि उत्पादन गर्ने क्रियाकलापहरु। </option>
+                                                                        <option  value="2693">2693 - विषेश प्रकारका इट , टाएल , माटाको चुलो , व्लक आदि बनाउने कृयाकलापहरु। </option>
+                                                                        <option  value="2694">2694 - सिमेन्ट, चुन, प्लाष्टर, आदि उत्पादन गर्ने क्रियाकलापहरु। </option>
+                                                                        <option  value="2695">2695 - सिमेन्ट, कन्कि्रट, आदिवाट वनाउने हयूम पाइप, ब्लक, रिङ्ग आदि वनाउने प्रतिष्ठानहरु वा क्रियाकलापहरु। </option>
+                                                                        <option  value="2696">2696 - ढुङ्गा, रोडा आदि वनाउने प्रतिष्ठानहरु वा  क्रियाकलापहरु। </option>
+                                                                        <option  value="2699">2699 - अन्यत्र उल्लेख नभएका गैह्र धातु  जन्य बस्तुहरु जस्तै ग्राफाइट , खनिज अभ्रक बनाउने कृयाकलापहरु।  </option>
+                                                                        <option  value="2710">2710 - फलाम वा स्टीलका रड, ड्रम, पाता, तार, प्लेट आदि वनाउने प्रतिष्ठानहरु वा क्रियाकलापहरु। </option>
+                                                                        <option  value="2720">2720 - वहुमुल्य धातु जस्तै सुन चाँदी तामा, आदि वनाउने प्रतिष्ठानहरु वा क्रियाकलापहरु। </option>
+                                                                        <option  value="2731">2731 - ढलुवा फलाम वाट किटका भाँडाकुडा  वनाउने प्रतिष्ठानहरु वा क्रियाकलापहरु। </option>
+                                                                        <option  value="2732">2732 - ढलुवा फलाम वाट किटका भाँडाकुडा  वाहेक अन्य सामान वनाउने प्रतिष्ठानहरु वा क्रियाकलापहरु। </option>
+                                                                        <option  value="2811">2811 - फलामका ढोका, झयाल, ग्रील, सटर आदि वनाउने प्रतिष्ठानहरु वा क्रियाकलापहरु। </option>
+                                                                        <option  value="2812">2812 - धातुका ट्याँकी, सिलीण्डर, कन्टेनर, आदि वनाउने प्रतिष्ठानहरु वा क्रियाकलापहरु। </option>
+                                                                        <option  value="2891">2891 - धातुका सामान गलाउने, पिट्ने, धातुको रड वनाउने , धातुलाइ धलो वनाउने प्रतिष्ठानहरु वा क्रियाकलापहरु। </option>
+                                                                        <option  value="2892">2892 - धातुका वस्तुहरु रंगाउने वा त्यसमा लेख्ने क्रियाकलापहरु। </option>
+                                                                        <option  value="2893">2893 - घरायसी हाते सामानहरु जस्तै हसिंया, कुटो, वन्चरो, चक्कु, कोदालो आदि वनाउने  क्रियाकलापहरु। </option>
+                                                                        <option  value="2899">2899 - सियो, सानो तार, किला आदि वनाउने प्रतिष्ठानहरु वा क्रियाकलापहरु। </option>
+                                                                        <option  value="2911">2911 - पानी घट्ट, टर्वाइन, सोलर वर्क आदि वनाउने प्रतिष्ठानहरु वा क्रियाकलापहरु। </option>
+                                                                        <option  value="2912">2912 - पम्प, वासर, भल्भ आदि वनाउने प्रतिष्ठानहरु वा क्रियाकलापहरु। </option>
+                                                                        <option  value="2913">2913 - क्लच, गेअर, चेन आदि वनाउने प्रतिष्ठानहरु वा क्रियाकलापहरु। </option>
+                                                                        <option  value="2914">2914 - स्टोभ, वर्नर आदि वनाउने प्रतिष्ठानहरु वा क्रियाकलापहरु। </option>
+                                                                        <option  value="2915">2915 - सामान उचाल्ने वा समाउने मेशिन वनाउने प्रतिष्ठानहरु वा क्रियाकलापहरु। </option>
+                                                                        <option  value="2919">2919 - अन्य मेशिनहरु जस्तै  पंखा ,  तौलेने मेशिन , छर्कने , छाप्ने , ए. सि , आदि प्रतिष्ठानहरु वा क्रियाकलापहरु। </option>
+                                                                        <option  value="2921">2921 - कृषि, पशु, र वन संवन्धि कम गर्ने साधनहरु जस्तै थेशर, कंरौती पशु आहार आदि वनाउने  क्रियाकलापहरु। </option>
+                                                                        <option  value="2922">2922 - मेशिनका पार्टपूर्जा वनाउने जस्तै   पीध्ने , पे्रस गर्ने , चिल्याउने पुर्जा बनाउने प्रतिष्ठानहरु वा क्रियाकलापहरु। </option>
+                                                                        <option  value="2923">2923 - धातुका मेशिनका सामान वा पार्टपूजा वनाउने प्रतिष्ठानहरु वा क्रियाकलापहरु। </option>
+                                                                        <option  value="2924">2924 - खानी तथा उत्खनन् को काममा प्रयोग हुने मेशिन उत्पादन गर्ने प्रतिष्ठानहरु वा क्रियाकलापहरु। </option>
+                                                                        <option  value="2925">2925 - खाद्य , पेय र सुर्ति जन्य वस्तु उत्पादन  गर्ने मेशिन जस्तै चुरोट वनाउने मेशिन , चिज वनाउने मेशिन , दूध प्रशोधन गर्ने मेशिन वनाउने प्रतिष्ठानहरु वा क्रियाकलापहरु। </option>
+                                                                        <option  value="2926">2926 - कपडा वा छालाका वस्तुहरु जस्तै तान, धागो कात्ने चर्खा आदि वनाउने प्रतिष्ठानहरु वा क्रियाकलापहरु। </option>
+                                                                        <option  value="2927">2927 - वारुद, गोली, वन्दुक आदि वनाउने प्रतिष्ठानहरु वा क्रियाकलापहरु। </option>
+                                                                        <option  value="2929">2929 - विषेश उद्धेश्यका मेशिनहरु जस्तै   कपडा काट्ने मेशिन , टाएर वनाउने मेशीन वनाउने प्रतिष्ठानहरु। </option>
+                                                                        <option  value="2930">2930 - अन्यत्र उल्ख नगरिएका घरेलु उपकरणहरु जस्तै रेफि्रजीरेटर , पंखा , कुकर ,  हिटर , भ्याकुम क्लीनर , फलफूलको रस निचर्ने मेशिन वनाउने प्रतिष्ठानहरु वा क्रियाकलापहरु। </option>
+                                                                        <option  value="3000">3000 - फोटोकपी, टाइपराइटर, कम्प्युटरु, प्रीन्टर, क्यालकुलेटर आदि वनाउने प्रतिष्ठानहरु वा क्रियाकलापहरु। </option>
+                                                                        <option  value="3110">3110 - जेनेटर, ट्रान्सफर्मर, व्याट्री चार्जर आदि वनाउने प्रतिष्ठानहरु वा क्रियाकलापहरु। </option>
+                                                                        <option  value="3120">3120 - विजुलीको स्विच, एम्पीयर मिटर, मिटर फ्युज आदि वनाउने प्रतिष्ठानहरु वा क्रियाकलापहरु। </option>
+                                                                        <option  value="3130">3130 - विजुलीको वाइरीङ्गको तार आदि वनाउने प्रतिष्ठानहरु वा क्रियाकलापहरु। </option>
+                                                                        <option  value="3140">3140 - सवै प्रकारका व्याट्री वनाउने प्रतिष्ठानहरु वा क्रियाकलापहरु। </option>
+                                                                        <option  value="3150">3150 - विजुली वत्तिका सामान जस्तै विजुलीको चिम,इन्फ्रा रेड चिम, फिलामेण्ट, अल्ट्राभाइलेट आदि वनाउने कार्यहरु।  </option>
+                                                                        <option  value="3190">3190 - अन्यत्र उल्लेख नभएका विजुलीका सामान जस्तै  इलेक्ट्रीक कम्प्रेशर , वाइरिङ सेट , चोक वनाउने कार्यहरु। </option>
+                                                                        <option  value="3210">3210 - विद्युतिय भल्भ , ट्यूव र विद्युतिय अन्य सामान जस्तै  फोटो क्याथोड , माइक्रो मोडल वनाउने  कार्यहरु।   </option>
+                                                                        <option  value="3220">3220 - रेडीयो, टेलीभिजन, क्यामरा, टेलिफोन आदि बनाउने क्रियाकलापहरु। </option>
+                                                                        <option  value="3230">3230 - विभिन्न प्रकारका रिसिभरहरु जस्तै यएर फोन, क्यासेट, टेप आदि वनाउने प्रतिष्ठानहरु वा क्रियाकलापहरु। </option>
+                                                                        <option  value="3311">3311 - मेडीकल,सर्जिकल,अर्थोपेडिक कार्यमा प्रयोग हुने सामान वनाउने प्रतिष्ठानहरु वा क्रियाकलापहरु। </option>
+                                                                        <option  value="3312">3312 - मापन गर्ने र नियन्त्रण गर्ने सामानहरु जस्तै थर्मोमिटर, व्यारोमिटर, मेजरिड टेप आदि वनाउने क्रियाकलापहरु। </option>
+                                                                        <option  value="3313">3313 - औद्योगिक नियन्त्रण गर्ने वस्तुहरु जस्तै :  प्रेशर, तापक्रम, कन्ट्रोल चार्ट आदि वनाउने क्रियाकलापहरु। </option>
+                                                                        <option  value="3320">3320 - चस्मा,क्यामरा, वाइनाकुलर, टेलीस्कोप आदि वनाउने प्रतिष्ठानहरु वा क्रियाकलापहरु। </option>
+                                                                        <option  value="3330">3330 - घडी, घडीका पूर्जा, घडीको चेन ( मेटलको ) आदि वनाउने प्रतिष्ठानहरु वा क्रियाकलापहरु। </option>
+                                                                        <option  value="3420">3420 - मोटरको वडी बनाउने क्रियाकलापहरु। </option>
+                                                                        <option  value="3599">3599 - टाँगा, गाडा, रिक्सा आदि वनाउने  क्रियाकलापहरु। </option>
+                                                                        <option  value="3610">3610 - घरायसी, कार्यालय, प्रयोगशाला आदिमा प्रयोगहुन फर्नीचर वनाउने प्रतिष्ठानहरु वा क्रियाकलापहरु। </option>
+                                                                        <option  value="3691">3691 - सुन, चाँदी, हीरा आदिका गहना  वनाउने क्रियाकलापहरु। </option>
+                                                                        <option  value="3692">3692 - हार्विन, तवला, पियानो, मादल आदि वनाउने प्रतिष्ठानहरु वा क्रियाकलापहरु। </option>
+                                                                        <option  value="3693">3693 - खेलकुदका सामान जस्तै स्पोर्ट शुज, वल, पन्जा, बोट  आदि वनाउने प्रतिष्ठानहरु वा क्रियाकलापहरु। </option>
+                                                                        <option  value="3694">3694 - खेलौना र खेलका सामान जस्तै पुतली, खेलौना, खेलौना मोटर, तास आदि वनाउने क्रियाकलापहरु। </option>
+                                                                        <option  value="3699">3699 - छाता, टांक, कांइयो, व्रुस आदि वनाउने क्रियाकलापहरु। </option>
+                                                                        <option  value="3710">3710 - खेर फालेका धातु वा धातुका टुक्रा पुनः प्रयोग गरी सामान वनाउने क्रियाकलापहरु। </option>
+                                                                        <option  value="3720">3720 - खेर फालेका कपडा र कपडाका टुक्रा पुनः प्रयोग गरी सामान वनाउने क्रियाकलापहरु। </option>
+                                                                        <option  value="4010">4010 - विद्युत उत्पादन,संकलन र वितरण गर्ने प्रतिष्ठान वा क्रियाकलापहरु। </option>
+                                                                        <option  value="4020">4020 - ग्यांसका उत्पादन तथा वितरण जस्तै घर , उद्योग र अन्य प्रयागकर्तालाइ ग्यांस वितरण गर्ने कार्यहरु।   </option>
+                                                                        <option  value="4100">4100 - पानीको संकलन  शुद्धिकरण र वितरण गर्ने प्रतिष्ठान वा क्रियाकलापहरु। </option>
+                                                                        <option  value="4510">4510 - निर्माण स्थलको तयारी कार्य जस्तै साइट सम्म गर्ने वा वनाउने कार्यहरु। </option>
+                                                                        <option  value="4520">4520 - पुल, ढल, सडक, नहर,भवन आदि बनाउन  प्रतिष्ठान वा क्रियाकलापहरु। </option>
+                                                                        <option  value="4530">4530 - भवन वनाउदा विद्युत , पानी , इन्सुलेशन कार्य , दूरसंचारका उपकरण जडान गर्ने  कार्यहरु। </option>
+                                                                        <option  value="4540">4540 - डकर्मी, सिकर्मी र ल्पम्बिड गर्ने क्रियाकलापहरु। </option>
+                                                                        <option  value="4550">4550 - निर्माण गर्ने वा भत्काउने प्रयोजनका लगि डोजर , क्रेन , लरी आदि अप्रेटर सहित भाडामा लगाउने कार्यहरु। </option>
+                                                                        <option  value="5010">5010 - मोटर, भेहिकलको थोक र खुद्रा विक्री गर्ने प्रतिष्ठान वा क्रियाकलापहरु। </option>
+                                                                        <option  value="5020">5020 - मोटर, भेहिकलको मर्मत र सर्भिसिड गर्ने प्रतिष्ठान वा क्रियाकलापहरु। </option>
+                                                                        <option  value="5030">5030 - मोटर, भेहिकलको पार्ट  पूर्जाको  विक्री गर्ने प्रतिष्ठान वा क्रियाकलापहरु। </option>
+                                                                        <option  value="5040">5040 - मोटर, मोटरसाइकलको थोक र खुद्रा विक्री गर्ने प्रतिष्ठान वा क्रियाकलापहरु। </option>
+                                                                        <option  value="5050">5050 - पेट्रोलीयम पदार्थ ( पेट्रोल, डिजेल, मोबिल ) को थोक विक्री गर्ने क्रियाकलापहरु। </option>
+                                                                        <option  value="5110">5110 - शुल्क लिइ वा करारका आधारमा गरिने थोक विक्री गर्ने कार्यहरु।  </option>
+                                                                        <option  value="5121">5121 - अप्रशोधित खाद्य बस्तु र जीवीत पशुपंगीको विक्री गर्ने क्रियाकलापहरु। </option>
+                                                                        <option  value="5122">5122 - प्रशोधित खाद्यन्न, फलफूल, तरकारी,चिया,कफी,सूर्ति आदिको विक्री गर्ने क्रियाकलापहरु। </option>
+                                                                        <option  value="5131">5131 - कपडा, लुगा, जुत्ताको थोक विक्री गर्ने क्रियाकलापहरु। </option>
+                                                                        <option  value="5139">5139 - घरायसी सामान जस्तै :  छाला, औषधी, कस्मेटीक सामान, इलेक्ट्रेानिक वस्तु, इलेक्ट्रीकल (विजुली) का वस्तु, पत्रीका, पुस्तक, गहना, घडी आदिको थोक विक्री गर्ने क्रियाकलापहरु। </option>
+                                                                        <option  value="5141">5141 - ठोस, तरल र ग्याँस जस्ता इन्धनको थोक विक्री गर्ने क्रियाकलापहरु। </option>
+                                                                        <option  value="5142">5142 - कच्चा धातुको थोक विक्री कार्य  </option>
+                                                                        <option  value="5143">5143 - हार्डवयर, चुन, सिमेण्टको थोक विक्री गर्ने क्रियाकलापहरु। </option>
+                                                                        <option  value="5149">5149 - रसायनिक मल, अन्य मध्यबर्ति वस्तुको थोक विक्री गर्ने क्रियाकलापहरु। </option>
+                                                                        <option  value="5150">5150 - कृषि औजार, कार्यालय सामान, काठ आदिको थोक विक्री गर्ने क्रियाकलापहरु। </option>
+                                                                        <option  value="5190">5190 - अन्य सामानको थोक विक्री जस्तै एउटै वस्तु समुहको विक्री गर्दा कुल आम्दानीको ५० प्रतिशत भन्दा कम आन्दानी हुने सामानको थोक विक्री गर्ने कार्यहरु। </option>
+                                                                        <option  value="5211">5211 - खाद्यान्न, सूर्ति, चिया, फर्निचर आदिको खुद्रा विक्री गर्ने क्रियाकलापहरु। </option>
+                                                                        <option  value="5219">5219 - सामान्य पसलमा अन्य सामानको खुद्रा विक्री कार्य जस्ते  हार्डवयर , पर्निचर, कपडा, गहना , कसमेटिक आदि   </option>
+                                                                        <option  value="5220">5220 - विशिष्टीकरण गरिएका वस्तु जस्ते दूध, तरकारी ,फुल , रक्सी , चुरोट आदिको सुद्रा वीक्री कार्य। </option>
+                                                                        <option  value="5231">5231 - औषधि, कसमेटिक, सफाइ, बाथरुमको सामान आदिको खुद्रा विक्री गर्ने क्रियाकलापहरु। </option>
+                                                                        <option  value="5232">5232 - कपडा, पोशाक, जुत्ता, यात्राका सामान आदिको खुद्रा विक्री गर्ने क्रियाकलापहरु। </option>
+                                                                        <option  value="5233">5233 - फर्निचर, मेशिन, विजुलीका सामान आदिको खुद्रा विक्री गर्ने क्रियाकलापहरु। </option>
+                                                                        <option  value="5234">5234 - हार्डवयर, चुन,रंग आदिको खुद्रा विक्री गर्ने क्रियाकलापहरु। </option>
+                                                                        <option  value="5239">5239 - कार्पैट, घडी, गहना, किताव, पत्रीका, स्टेसनरी सामान,सफाइका  सामान, कम्प्यूटर, क्याल्कुलेटर,  आदिको खुद्रा विक्री गर्ने क्रियाकलापहरु। </option>
+                                                                        <option  value="5240">5240 - सेकेण्ड हाइण्डका सामान  आदिको विक्री गर्ने क्रियाकलापहरु। </option>
+                                                                        <option  value="5252">5252 - सडक पेटी, सार्बजनिक स्थल, घुम्ती पसल आदिमा खुद्रा विक्री गर्ने क्रियाकलापहरु। </option>
+                                                                        <option  value="5259">5259 - हाटबजार, मेलामा वा भण्डिङ मेशिन द्धारा खुद्रा विक्री गर्ने क्रियाकलापहरु। </option>
+                                                                        <option  value="5260">5260 - स्टोभ, छाता, मैनटोल, प्रेशर कुकर मर्मत गर्ने क्रियाकलापहरु। </option>
+                                                                        <option  value="5510">5510 - होटल,लज, रेष्टुराँ, बार, क्याफे आदिको संचालन गर्ने क्रियाकलापहरु। </option>
+                                                                        <option  value="5520">5520 - क्याटरीङ्ग सेवा प्रदान गर्ने क्रियाकलापहरु। </option>
+                                                                        <option  value="6010">6010 - रेल यातायात संचालन गर्ने क्रियाकलापहरु। </option>
+                                                                        <option  value="6021">6021 - बस, ट्रली बस, केबुल कार संचालन गर्ने क्रियाकलापहरु। </option>
+                                                                        <option  value="6022">6022 - टाँगा, रिक्सा, टयाम्पू संचालन गर्ने क्रियाकलापहरु। </option>
+                                                                        <option  value="6023">6023 - ट्रान्स्पोर्ट कंपनी, चौरी,गधा, खच्चर,गोरु गाडा,ठेल गाडा आदि वाट सामान वासार पसार गर्ने क्रियाकलापहरु। </option>
+                                                                        <option  value="6120">6120 - डुङ्गा,नौका, राफ्टीङ्ग, जल यातायातका साधन संचालन गर्ने क्रियाकलापहरु। </option>
+                                                                        <option  value="6210">6210 - हवाइ जहाज, हेलीकप्टर, यएर ग्लाइडर, हट एअर वेलुनिङ्ग आदि संचालन गर्ने क्रियाकलापहरु। </option>
+                                                                        <option  value="6301">6301 - कार्गो सेवा जस्तै यात्री वा व्यापारिक सामान लोड अन लोड गर्ने क्रियाकलापहरु। </option>
+                                                                        <option  value="6302">6302 - गोदाम, भण्डार आदिको संचालन गर्ने क्रियाकलापहरु। </option>
+                                                                        <option  value="6303">6303 - बस, रेल, हवाइ स्टेशन आदिमा सामान वसार पसार गर्न सहयोग गर्ने क्रियाकलापहरु।  </option>
+                                                                        <option  value="6304">6304 - ट्राभल एजेन्सी, पर्यटन, ट्रेकिङ्ग सेवा संचालन गर्ने क्रियाकलापहरु। </option>
+                                                                        <option  value="6309">6309 - भंसार एजेण्ट सम्बन्धी सेवा संचालन गर्ने क्रियाकलापहरु। </option>
+                                                                        <option  value="6411">6411 - चिठ्ठी पत्र, पार्सल, वुक पोष्ट, आदान प्रदान गर्ने र फीलाटेली सेवा संचालन गर्ने क्रियाकलापहरु। </option>
+                                                                        <option  value="6412">6412 - कुरिएर सेवा, द्रत डेलिभरी सेवा संचालन गर्ने क्रियाकलापहरु। </option>
+                                                                        <option  value="6420">6420 - टेलीफोन, फयाक्सको  संचालन तथा मर्मत गर्ने क्रियाकलापहरु। </option>
+                                                                        <option  selected='selected'  value="6511">6511 - नोट प्रकाशन, मुद्रा निष्काशन, अन्य मौद्रीक संस्था संग समन्वय गर्ने क्रियाकलापहरु। </option>
+                                                                        <option  value="6519">6519 - बाणिज्य बैंकहरु, मनी चेन्जरहरु सम्बन्धी काम गर्ने प्रतिष्ठान वा  क्रियाकलापहरु। </option>
+                                                                        <option  value="6591">6591 - लीजीङ्ग सम्बन्धी सेवा संचालन गर्ने क्रियाकलापहरु। </option>
+                                                                        <option  value="6592">6592 - कर्जा प्रदान गर्ने संस्थाहरु जस्तै :  NIDC, ग्रामिण विकास बैंक, कृषि विकास वैंक सम्बन्धी क्रियाकलापहरु। </option>
+                                                                        <option  value="6601">6601 - जीवन बीमा सम्बन्धी क्रियाकलापहरु जस्तै बिमा संस्थान, वीमा समिति आदि। </option>
+                                                                        <option  value="6602">6602 - निवृत्त कोष संचालन गर्ने क्रियाकलापहरु जस्तै कौषी तोषा खाना, रक्षा कन्ट्रोलर, कर्मचारी संचय केाष आदि। </option>
+                                                                        <option  value="6603">6603 - निर्जीवन वीमा संचालन गर्ने क्रियाकलापहरु जस्तै बीमा कंपनीहरु, कर्जा संरक्षण निगम आदि। </option>
+                                                                        <option  value="6711">6711 - वित्तिय वजार संवन्धी क्रियाकलापहरु जस्तै नागरीक लगानी कोष, शेयर मार्केट, NIDC क्यापीटल मार्केट आदि। </option>
+                                                                        <option  value="6712">6712 - सेक्युरीटी संवन्धी क्रियाकलापहरु जस्तै शेयर दलाल कंपनीहरु, दोस्रो वजार कार्यक्रमहरु आदि। </option>
+                                                                        <option  value="6719">6719 - बैँकर्स क्लव, दलाली संघ , आर्थिक सल्लाहकार संघ आदि सम्बन्धी कृयाकलापहरु। </option>
+                                                                        <option  value="6720">6720 - बीमा , पेन्सन , उद्धार सम्बन्धी सहायक कृयाकलापहरु। </option>
+                                                                        <option  value="7010">7010 - रियल स्टेट र भाडा संवन्धी संचालन गर्ने क्रियाकलापहरु। </option>
+                                                                        <option  value="7020">7020 - रियलस्टेट सम्बन्धी कृयाकलापहरु। </option>
+                                                                        <option  value="7111">7111 - चालकविना सवारिका साधनहरु जस्तै कार , भ्यान , लरी , कन्टेनर ट्रक आदि भाडामा दिने कृयाकलपहरु। </option>
+                                                                        <option  value="7112">7112 - जल यातायातका साधनहरु जस्तै डुगा, पटला आदि भाडामा दिने कृयाकलपहरु। </option>
+                                                                        <option  value="7113">7113 - पाइलटविना हवाइ यातायतका साधन जस्तै हेकप्टर हवाइजहाज आदि भाडामा दिने कृयाकलपहरु। </option>
+                                                                        <option  value="7121">7121 - कृषि सम्बन्धी मेशिन वा उपकरण जस्तै ट्याकटर , थेसर , स्प्रे मेशिन भाडामा दिने कृयाकलपहरु। </option>
+                                                                        <option  value="7122">7122 - निर्माण एवं सीभिल इन्जीनियरिङ सम्बन्धी सामनहरु जस्तै क्रेन , डोजर , लरी आदि भाडामा दिने कृयाकलपहरु  </option>
+                                                                        <option  value="7123">7123 - कार्यलय सम्बन्धी सामाग्री जस्तै टाइपराइटर , डुप्लीकेटिङ मेशिन भाडामा दिने कृयाकलपहरु। </option>
+                                                                        <option  value="7129">7129 - अन्धत्र उल्लेख नभएका सामान जस्तै टरवाइन , टेलिभिजन आदि भाडामा दिने कृयाकलपहरु। </option>
+                                                                        <option  value="7130">7130 - साईकल, संगीतका सामान ( वाजा) भिडियो टेप जस्ता सामान भाडामा दिने क्रियाकलापहरु। </option>
+                                                                        <option  value="7210">7210 - कम्प्युटरको हार्डवेयर परामर्श सेवा प्रदान गर्ने क्रियाकलापहरु। </option>
+                                                                        <option  value="7220">7220 - कम्प्युटरको सफ्टवेरको परामर्श सेवा प्रदान गर्ने क्रियाकलापहरु। </option>
+                                                                        <option  value="7230">7230 - डाटा प्रशोधन र डाटा वेस संवन्धी क्रियाकलापहरु। </option>
+                                                                        <option  value="7240">7240 - डाटा वेश जस्तै आर्थिक , तथ्यांक , कम्पूटर आकडा सम्बन्धी कृयाकलपहरु। </option>
+                                                                        <option  value="7250">7250 - कम्पुटिङ मेशिन मर्मत जस्तै कम्पुटर आदि मर्मत  सम्बन्धी कृयाकलपहरु। </option>
+                                                                        <option  value="7290">7290 - अन्यत्र वर्गिकरणमा नपरेका कम्पुटर सम्बन्धी अन्य कृयाकलपहरु। </option>
+                                                                        <option  value="7310">7310 - प्राकृतिक विज्ञान र इन्जिनियरीङ्ग विषयमा अनुसंन्धान गर्ने संवन्धी क्रियाकलापहरु। </option>
+                                                                        <option  value="7320">7320 - सामाजिक विज्ञान ( कानुन, समाजशास्त्र, अर्थशास्त्र ) विषयमा अनुसंन्धान गर्ने संवन्धी क्रियाकलापहरु। </option>
+                                                                        <option  value="7411">7411 - कानुन, वहश पैरवी, कानुनी परामर्श, वकालत गर्ने संवन्धी क्रियाकलापहरु। </option>
+                                                                        <option  value="7412">7412 - लेखा परिक्षण गर्ने, व्यवसायीक लेखा तयार गर्ने क्रियाकलापहरु। </option>
+                                                                        <option  value="7413">7413 - वजार अनुसन्धान, जनमत सर्भेक्षण आदि गर्ने क्रियाकलापहरु। </option>
+                                                                        <option  value="7414">7414 - व्यवसाय र वजार सम्वन्धी परामर्श सेवा प्रदान गर्ने क्रियाकलापहरु। </option>
+                                                                        <option  value="7421">7421 - भवन कला, इन्जिनियरीङ्ग सन्वन्धी सेवा प्रदान गर्ने क्रियाकलापहरु। </option>
+                                                                        <option  value="7422">7422 - प्रबिधिक परिक्षण , गुणस्तर र विष्लेशण जस्ते बलियोपना ,शुद्धता परिक्षण आदि कृयाकलपहरु। </option>
+                                                                        <option  value="7430">7430 - विज्ञापन एजेन्सी सम्वन्धी क्रियाकलापहरु। </option>
+                                                                        <option  value="7491">7491 - श्रमिक भर्ति एवं करार (वैदेशिक रोजगार कम्पनी आदि ) सम्वन्धी क्रियाकलापहरु। </option>
+                                                                        <option  value="7492">7492 - सुरक्षा गार्ड, अपराध अन्वेषण सम्वन्धी क्रियाकलापहरु। </option>
+                                                                        <option  value="7493">7493 - भवनको सफाइ सम्बन्धी कृयाकलपहरु। </option>
+                                                                        <option  value="7494">7494 - फोटोग्राफी सम्वन्धी क्रियाकलापहरु। </option>
+                                                                        <option  value="7495">7495 - प्याकिङ्ग सम्वन्धी क्रियाकलापहरु। </option>
+                                                                        <option  value="7499">7499 - अन्यत्र वर्गिकरणमा नपरेका कृयाकलपहरु जस्तै  फेशन डिजाइन , भाषनुवाद  </option>
+                                                                        <option  value="7511">7511 - सार्वजनिक सैवा सम्बन्धी जस्तै मन्त्रालय,  विभाग, सामान्य सेवा प्रदान गर्ने कार्यालय,  सभिति,  प्रधिकरण, कंपनि,  भन्सार,  कर,  आदिमा काम गर्ने कृयाकलपहरु।  </option>
+                                                                        <option  value="7512">7512 - सामाजिक सेवा सम्वन्धी क्रियाकलापहरु। </option>
+                                                                        <option  value="7513">7513 - व्यपार व्यवसाय जस्तै थोक व्यापार , खुद्रा व्यार , कृषि वजार आदि सम्बन्धी कृयाकलपहरु। </option>
+                                                                        <option  value="7514">7514 - सरकार वा कर्मचारीको सेवासंग संम्बन्धी कार्यहरु जस्तै कर्मचारी सेवा संचालन सम्बन्धी कृयाकलपहरु। </option>
+                                                                        <option  value="7521">7521 - कुटनीति, परराष्ट्र सम्वन्ध, अन्तराष्टि्रय वित्तिय एवं व्यापार सम्वन्धी क्रियाकलापहरु। </option>
+                                                                        <option  value="7522">7522 - सैनिक सुरक्षा, सैनिक यातायात तथा सन्चार सम्वन्धी क्रियाकलापहरु। </option>
+                                                                        <option  value="7523">7523 - प्रहरी, सार्वजनिक शान्ति सुरक्षा, ट्राफिक सम्वन्धी क्रियाकलापहरु। </option>
+                                                                        <option  value="7530">7530 - सामाजिक सुरक्षा प्रदान गर्ने जस्तै वीमा , निबृत्रिभरण, उद्धार कार्य सम्बन्धी कृयाकलपहरु।   </option>
+                                                                        <option  value="8010">8010 - प्राथमिक विद्यालय सम्वन्धी क्रियाकलापहरु। </option>
+                                                                        <option  value="8021">8021 - निम्न माध्यामिक एवं माध्यामिक विद्यालय सम्वन्धी क्रियाकलापहरु। </option>
+                                                                        <option  value="8022">8022 - प्राविधिक एवं व्यवसायीक स्कूल सम्वन्धी क्रियाकलापहरु। </option>
+                                                                        <option  value="8030">8030 - उच्च शिक्षा प्रदान गर्ने क्याम्पस, इन्स्टिच्यूट, विश्वविद्यालय सम्वन्धी क्रियाकलापहरु। </option>
+                                                                        <option  value="8090">8090 - प्रौढ शिक्षा तथा अन्य शिक्षा दिने सम्वन्धी क्रियाकलापहरु। </option>
+                                                                        <option  value="8511">8511 - अस्पताल सम्वन्धी क्रियाकलापहरु। </option>
+                                                                        <option  value="8512">8512 - क्लिनिक सम्वन्धी क्रियाकलापहरु। </option>
+                                                                        <option  value="8519">8519 - एक्यूपन्चर, व्यायामशाला, प्रयोगशाला, आयूर्वेद औषधालय, ल्वड वैंक, होमियोप्याथी, स्वास्थ्य चौकी सम्वन्धी क्रियाकलापहरु। </option>
+                                                                        <option  value="8520">8520 - पशु स्वास्थ्य (Veterinary) सम्वन्धी क्रियाकलापहरु। </option>
+                                                                        <option  value="8531">8531 - वृद्धाश्रम, प्रसुती गृह सम्वन्धी क्रियाकलापहरु। </option>
+                                                                        <option  value="8532">8532 - आवाश रहित सामाजिक कार्य जस्तै शरणर्थिको व्यावस्था,दैवी प्रकोप सम्बन्धी कृयाकलपहरु। </option>
+                                                                        <option  value="9000">9000 - ढल निकास, फोहोर संकलन, सरसफाई सम्वन्धी क्रियाकलापहरु। </option>
+                                                                        <option  value="9111">9111 - व्यावसायीक तथा रोजगार सम्वन्धी संस्थाहरु जस्तै FNCCI, रोजगार परिषद् सम्वन्धी क्रियाकलापहरु। </option>
+                                                                        <option  value="9112">9112 - पेशागत संस्थाहरु जस्तै पत्रकार संघ, प्राध्यापक संघ, आदि सम्वन्धी क्रियाकलापहरु। </option>
+                                                                        <option  value="9120">9120 - ट्रेड यूनियन सम्वन्धी क्रियाकलापहरु। </option>
+                                                                        <option  value="9191">9191 - धार्मिक संस्थाका क्रियाकलापहरु जस्तै मन्दीर, चर्च, गुम्वा, मस्जीद आदि। </option>
+                                                                        <option  value="9192">9192 - राजनैतिक संस्थाका क्रियाकलापहरु जस्तै राजनैतिक संघ संस्थाहरु आदि। </option>
+                                                                        <option  value="9199">9199 - परोपकार, च्यारीटि, रोटरी क्लव सम्वन्धी क्रियाकलापहरु। </option>
+                                                                        <option  value="9211">9211 - भिडियो फिल्म, चलचित्र, डकुमेन्ट्री वनाउने सम्वन्धी क्रियाकलापहरु। </option>
+                                                                        <option  value="9212">9212 - चलचित्र हल, नाट्यशाला, प्रर्दशनी सम्वन्धी क्रियाकलापहरु। </option>
+                                                                        <option  value="9213">9213 - रेडियो टेलिभिजन प्रशारण , टेपमा रेकर्ड गर्ने सम्बन्धी कृयाकलपहरु।  </option>
+                                                                        <option  value="9214">9214 - नाट्यकला , संगित, चित्रकारी , मूर्तिकार , लेखक आदि सम्बन्धी कृयाकलपहरु। </option>
+                                                                        <option  value="9219">9219 - डिस्को, सर्कस, आदि सन्चालन गर्ने सम्वन्धी क्रियाकलापहरु। </option>
+                                                                        <option  value="9220">9220 - खवर, फोटोचित्र, कार्टुन, आदि जस्ता समाचार एजेन्सी सम्वन्धी क्रियाकलापहरु। </option>
+                                                                        <option  value="9231">9231 - पुस्तकालय, म्यूजीयम, पुरातत्व आदि सम्वन्धी क्रियाकलापहरु। </option>
+                                                                        <option  value="9232">9232 - संग्रहालय , ऐतिहासिक स्थल , सांकृतिक स्थल आदिको संरक्षण गर्ने कृयाकलपहरु। </option>
+                                                                        <option  value="9233">9233 - वनस्पती उद्यान, चिडिया घर, वन्यजन्तु आरक्ष, निकुन्ज सम्वन्धी क्रियाकलापहरु। </option>
+                                                                        <option  value="9241">9241 - फूटवल, गोल्फ, भलिवल, टेनिस जस्ता खेल सम्वन्धी क्रियाकलापहरु। </option>
+                                                                        <option  value="9249">9249 - पार्क, क्यासिनो सम्वन्धी क्रियाकलापहरु। </option>
+                                                                        <option  value="9301">9301 - लाउण्ड्री, ड्राई ल्कीनर, लुगा मर्मत गर्ने सम्वन्धी क्रियाकलापहरु। </option>
+                                                                        <option  value="9302">9302 - कपाल, दाह्री काट्ने, मसाज गर्ने सम्वन्धी क्रियाकलापहरु। </option>
+                                                                        <option  value="9303">9303 - लास गाड्ने, जलाउने, सडाउने सम्वन्धी क्रियाकलापहरु। </option>
+                                                                        <option  value="9309">9309 - भारी वोक्ने, जुत्ता मर्मत गर्ने सम्वन्धी क्रियाकलापहरु। </option>
+                                                                        <option  value="9500">9500 - निजी नोकर, माली, भान्छे, वच्चा हेर्ने, गेटपाले, घोडा हेर्ने सम्वन्धी क्रियाकलापहरु। </option>
+                                                                        <option  value="9901">9898 - Export Import Related works</option>
+                                                                        <option  value="9902">9899 - Communication related works</option>
+                                                                        <option  value="9900">9900 - UNDP, ILO, UN आदि जस्ता नेपाल स्थित अन्तराष्टि्रय संघ संस्थामा काम गर्ने सम्वन्धी क्रियाकलापहरु। </option>
+                                                                </select>
+                        </td>
+                    </tr>
+					<tr>
+						<td>Company Person Gender</td>
+						<td colspan='2'>
+							<select name='gender' id='gender'>
+								<option value=''>All</option>
+								<option value='Male' >Male</option>
+								<option value='Female' >Female</option>
+							</select>
+						</td>
+					</tr>
+					<tr>
+						<td>Authorized Capital</td>
+						<td>From <input value="" type='text' name='a_capital_from' id='a_capital_from' class='number' /></td>
+						<td>To <input value="" type='text' name='a_capital_to' id='a_capital_to' class='number' /></td>						
+					</tr>
+					<tr>
+						<td>Issued Capital</td>
+						<td>From <input value="" type='text' name='i_capital_from' id='i_capital_from' class='number' /></td>
+						<td>To <input value="" type='text' name='i_capital_to' id='i_capital_to' class='number' /></td>						
+					</tr>
+					<tr>
+						<td>Paid Up Capital</td>
+						<td>From <input value="" type='text' name='p_capital_from' id='p_capital_from' class='number' /></td>
+						<td>To <input value="" type='text' name='p_capital_to' id='p_capital_to' class='number' /></td>						
+					</tr>
+                    <tr>
+                        <td colspan="10">
+                        <input type="submit" name="btn_submit" id="btn_submit" value="Search" />
+                        </td>
+                    </tr>
+                </table>
+            </form>
+			</div>
+			<table id="list47"></table>
+			<div id="plist47"></div>	
+
+    	</div><!--body_container-->
+        <div style="clear:both"></div>
+        <div id="footer">
+        	Copyright &copy; 2012 Office of the Company Registrar. All Rights Reserved. 		
+        </div>
+	</div><!--main_container-->
+</div><!--align center-->
+</body>
+</html>
