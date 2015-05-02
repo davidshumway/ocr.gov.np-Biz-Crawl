@@ -50,6 +50,8 @@ class regions {
 	
 	private $categories; // Categories object
 	
+	private $fusion_tables_id = 1000001; // Lat/Lng differentiation is necessary to show all points on Google's Fusion Tables. Seems to be a bug.
+	
 	//~ private $geo_folder; // Save geocoded addresses to this folder.
 	
 	function __construct($folder, $gapi_key = false) {
@@ -489,6 +491,8 @@ class regions {
 		}
 		
 		// Set business lat/lng for Regional and Local, if available.
+		// There is a bug with Fusion tables that means each Lat. Lng. must be different in order for all points to appear on a map.
+		// Adding $this->fusion_tables_id.
 		foreach ($this->regions as $key => $region) {
 			if ($region->title_en == 'Unknown') continue; // Unnecessary to geocode this.
 			foreach ($region->zones as $key2 => $zone) {
@@ -502,7 +506,8 @@ class regions {
 						{
 							try {
 								$loc = $this->locations_array[ $business->regional_location_string ];
-								$business->regional_lat_lng = $loc->lat.','.$loc->lng;
+								$business->regional_lat_lng = $loc->lat.','.$loc->lng . $this->fusion_tables_id;
+								$this->fusion_tables_id++;
 							} catch (Exception $e) {
 								$business->regional_lat_lng = ''; // None
 							}
@@ -515,7 +520,8 @@ class regions {
 						{
 							try {
 								$loc = $this->locations_array[ $business->local_location_string ];
-								$business->local_lat_lng = $loc->lat.','.$loc->lng;
+								$business->local_lat_lng = $loc->lat.','.$loc->lng . $this->fusion_tables_id;
+								$this->fusion_tables_id++;
 							} catch (Exception $e) {
 								$business->local_lat_lng = ''; // None
 							}
@@ -530,10 +536,6 @@ class regions {
 		unset($this->locations_array);
 		
 		// https://maps.googleapis.com/maps/api/geocode/json?address=Karkineta,parbat,Dhaulagiri,nepal
-		
-		// 2 results. 2nd is last try if 1st is not good.
-		// Url	http://open.mapquestapi.com/geocoding/v1/batch?key=Fmjtd%7Cluubnuuynl%2C7s%3Do5-9u1lh6&location=Pottsville,PA&location=Red%20Lion&location=19036&location=1090%20N%20Charlotte%20St,%20Lancaster,%20PA&thumbMaps=false&maxResults=2
-		// Returns		{"street":"","adminArea6":"","adminArea6Type":"Neighborhood","adminArea5":"Pottsville","adminArea5Type":"City","adminArea4":"Schuylkill County","adminArea4Type":"County","adminArea3":"PA","adminArea3Type":"State","adminArea1":"US","adminArea1Type":"Country","postalCode":"","geocodeQualityCode":"A5XAX","geocodeQuality":"CITY","dragPoint":false,"sideOfStreet":"N","linkId":"0","unknownInput":"","type":"s","latLng":{"lat":40.685132,"lng":-76.19537},"displayLatLng":{"lat":40.685132,"lng":-76.19537}}]
 		
 		// Facebook
 		//~ var u = 
