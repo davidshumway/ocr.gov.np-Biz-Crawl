@@ -1,0 +1,180 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Karki Gaun",
+               "short_name" : "Karki Gaun",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manakamana",
+               "short_name" : "Manakamana",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45000",
+               "short_name" : "45000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Karki Gaun, Manakamana 45000, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.0050491,
+                  "lng" : 85.175736
+               },
+               "southwest" : {
+                  "lat" : 27.9960024,
+                  "lng" : 85.1679039
+               }
+            },
+            "location" : {
+               "lat" : 27.9999848,
+               "lng" : 85.1725618
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.0050491,
+                  "lng" : 85.175736
+               },
+               "southwest" : {
+                  "lat" : 27.9960024,
+                  "lng" : 85.1679039
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJB-fnuGvb6jkR-sZs3z4LM5Q",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Karki Gaau Bus Stop",
+               "short_name" : "Karki Gaau Bus Stop",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Manakamana",
+               "short_name" : "Manakamana",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45000",
+               "short_name" : "45000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Karki Gaau Bus Stop, Manakamana 45000, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.9999077,
+               "lng" : 85.17314229999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.0012566802915,
+                  "lng" : 85.17449128029151
+               },
+               "southwest" : {
+                  "lat" : 27.99855871970849,
+                  "lng" : 85.17179331970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJQxZr6Gvb6jkREGl4D0ldjU4",
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shree Karki Manakamana Lower Secondary School Chap Dada",
+               "short_name" : "Shree Karki Manakamana Lower Secondary School Chap Dada",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Manakamana",
+               "short_name" : "Manakamana",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45000",
+               "short_name" : "45000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Shree Karki Manakamana Lower Secondary School Chap Dada, Manakamana 45000, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.9881985,
+               "lng" : 85.1742715
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.9895474802915,
+                  "lng" : 85.17562048029151
+               },
+               "southwest" : {
+                  "lat" : 27.9868495197085,
+                  "lng" : 85.17292251970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ5c21XXHb6jkR_MiARQPKCYw",
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

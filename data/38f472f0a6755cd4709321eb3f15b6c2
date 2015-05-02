@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sukrauli",
+               "short_name" : "Sukrauli",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lumbini",
+               "short_name" : "Lumbini",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sukrauli, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.5434365,
+                  "lng" : 83.6453533
+               },
+               "southwest" : {
+                  "lat" : 27.5081954,
+                  "lng" : 83.5994338
+               }
+            },
+            "location" : {
+               "lat" : 27.54,
+               "lng" : 83.63
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.5434365,
+                  "lng" : 83.6453533
+               },
+               "southwest" : {
+                  "lat" : 27.5081954,
+                  "lng" : 83.5994338
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJjfrOmxonlDkRr0P_kjj4Pcg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dipayal Silgadhi",
+               "short_name" : "Dipayal Silgadhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seti",
+               "short_name" : "Seti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10800",
+               "short_name" : "10800",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dipayal Silgadhi 10800, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.311474,
+                  "lng" : 81.0230541
+               },
+               "southwest" : {
+                  "lat" : 29.2193021,
+                  "lng" : 80.8475303
+               }
+            },
+            "location" : {
+               "lat" : 29.266667,
+               "lng" : 80.93333299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.311474,
+                  "lng" : 81.0230541
+               },
+               "southwest" : {
+                  "lat" : 29.2193021,
+                  "lng" : 80.8475303
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJRUHB3_zQozkRjhri0df6ybU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

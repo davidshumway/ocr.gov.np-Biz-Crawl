@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jethal",
+               "short_name" : "Jethal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jethal, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.7,
+               "lng" : 85.92
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7013489802915,
+                  "lng" : 85.9213489802915
+               },
+               "southwest" : {
+                  "lat" : 27.6986510197085,
+                  "lng" : 85.91865101970849
+               }
+            }
+         },
+         "place_id" : "ChIJzTvgCOi36zkR4UBLyOFdJ_Y",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

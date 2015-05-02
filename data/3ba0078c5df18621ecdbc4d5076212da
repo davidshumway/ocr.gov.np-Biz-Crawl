@@ -1,0 +1,121 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Arjun Chaupari",
+               "short_name" : "Arjun Chaupari",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Gandaki",
+               "short_name" : "Gandaki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33800",
+               "short_name" : "33800",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Arjun Chaupari, 33800, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.0963098,
+                  "lng" : 83.7796683
+               },
+               "southwest" : {
+                  "lat" : 28.0913502,
+                  "lng" : 83.7737674
+               }
+            },
+            "location" : {
+               "lat" : 28.0944758,
+               "lng" : 83.7746827
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.0963098,
+                  "lng" : 83.7796683
+               },
+               "southwest" : {
+                  "lat" : 28.0913502,
+                  "lng" : 83.7737674
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJD4-yZjnDlTkReQrb9LdKKBg",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Arjun Chaupari",
+               "short_name" : "Arjun Chaupari",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gandaki",
+               "short_name" : "Gandaki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Arjun Chaupari, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.1121872,
+                  "lng" : 83.79933369999999
+               },
+               "southwest" : {
+                  "lat" : 28.0453567,
+                  "lng" : 83.7148761
+               }
+            },
+            "location" : {
+               "lat" : 28.08,
+               "lng" : 83.75999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.1121872,
+                  "lng" : 83.79933369999999
+               },
+               "southwest" : {
+                  "lat" : 28.0453567,
+                  "lng" : 83.7148761
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJMZuBj7HclTkRshCAEyCKZpw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

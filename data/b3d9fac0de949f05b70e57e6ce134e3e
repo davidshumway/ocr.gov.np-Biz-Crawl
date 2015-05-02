@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Malahi",
+               "short_name" : "Malahi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44500",
+               "short_name" : "44500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Malahi 44500, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.952633,
+                  "lng" : 85.34300519999999
+               },
+               "southwest" : {
+                  "lat" : 26.9311335,
+                  "lng" : 85.32436269999999
+               }
+            },
+            "location" : {
+               "lat" : 26.94,
+               "lng" : 85.34
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.952633,
+                  "lng" : 85.34300519999999
+               },
+               "southwest" : {
+                  "lat" : 26.9311335,
+                  "lng" : 85.32436269999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJjdtCupqZ7DkRRX2QnOaD5Zg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

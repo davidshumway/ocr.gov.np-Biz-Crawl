@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nepal police",
+               "short_name" : "Nepal police",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Airport Road",
+               "short_name" : "Airport Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pipara Simara",
+               "short_name" : "Pipara Simara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44400",
+               "short_name" : "44400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nepal police, Airport Road, Pipara Simara 44400, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.1639554,
+               "lng" : 84.97713979999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.1653043802915,
+                  "lng" : 84.9784887802915
+               },
+               "southwest" : {
+                  "lat" : 27.1626064197085,
+                  "lng" : 84.97579081970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJtyaQ0IhU6zkRHAoeaq1BRX8",
+         "types" : [ "police", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

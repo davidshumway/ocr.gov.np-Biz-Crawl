@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Silanga",
+               "short_name" : "Silanga",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mahakali",
+               "short_name" : "Mahakali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10200",
+               "short_name" : "10200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Silanga 10200, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.43,
+               "lng" : 80.58
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.4313489802915,
+                  "lng" : 80.58134898029151
+               },
+               "southwest" : {
+                  "lat" : 29.4286510197085,
+                  "lng" : 80.57865101970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJVbg5S7ZpoTkRTWZMxLzw2e4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

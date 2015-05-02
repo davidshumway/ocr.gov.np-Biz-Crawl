@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fakhel",
+               "short_name" : "Fakhel",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fakhel, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6660952,
+                  "lng" : 85.24296679999999
+               },
+               "southwest" : {
+                  "lat" : 27.5738851,
+                  "lng" : 85.1793381
+               }
+            },
+            "location" : {
+               "lat" : 27.62,
+               "lng" : 85.20999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6660952,
+                  "lng" : 85.24296679999999
+               },
+               "southwest" : {
+                  "lat" : 27.5738851,
+                  "lng" : 85.1793381
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJj9n32Ow86zkRcJhBem6ASs0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

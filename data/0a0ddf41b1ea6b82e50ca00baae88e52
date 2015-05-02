@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gokuleshwor",
+               "short_name" : "Gokuleshwor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mahakali",
+               "short_name" : "Mahakali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gokuleshwor, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.71574949999999,
+                  "lng" : 80.5695248
+               },
+               "southwest" : {
+                  "lat" : 29.653188,
+                  "lng" : 80.5172539
+               }
+            },
+            "location" : {
+               "lat" : 29.6880239,
+               "lng" : 80.54940069999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.71574949999999,
+                  "lng" : 80.5695248
+               },
+               "southwest" : {
+                  "lat" : 29.653188,
+                  "lng" : 80.5172539
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJPVAXBdROoTkRRGjGTxZ1TB8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

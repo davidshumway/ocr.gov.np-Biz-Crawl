@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mayalpokhari",
+               "short_name" : "Mayalpokhari",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lumbini",
+               "short_name" : "Lumbini",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32600",
+               "short_name" : "32600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mayalpokhari 32600, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.1984183,
+                  "lng" : 83.0862523
+               },
+               "southwest" : {
+                  "lat" : 28.1522653,
+                  "lng" : 83.0516624
+               }
+            },
+            "location" : {
+               "lat" : 28.18,
+               "lng" : 83.06999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.1984183,
+                  "lng" : 83.0862523
+               },
+               "southwest" : {
+                  "lat" : 28.1522653,
+                  "lng" : 83.0516624
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJe_Ek-3k3ljkRzLYD-l3gyKA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

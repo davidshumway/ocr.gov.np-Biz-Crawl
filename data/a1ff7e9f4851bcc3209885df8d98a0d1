@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Indrapur",
+               "short_name" : "Indrapur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21900",
+               "short_name" : "21900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Indrapur 21900, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.083333,
+               "lng" : 81.59999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.0846819802915,
+                  "lng" : 81.6013489802915
+               },
+               "southwest" : {
+                  "lat" : 28.0819840197085,
+                  "lng" : 81.5986510197085
+               }
+            }
+         },
+         "place_id" : "ChIJgyK4cNRgmDkRHxM8Ju7s4vg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Digam",
+               "short_name" : "Digam",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lumbini",
+               "short_name" : "Lumbini",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32600",
+               "short_name" : "32600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Digam 32600, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.0194843,
+                  "lng" : 83.3970451
+               },
+               "southwest" : {
+                  "lat" : 27.9476301,
+                  "lng" : 83.3498384
+               }
+            },
+            "location" : {
+               "lat" : 27.98,
+               "lng" : 83.36999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.0194843,
+                  "lng" : 83.3970451
+               },
+               "southwest" : {
+                  "lat" : 27.9476301,
+                  "lng" : 83.3498384
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJGc6Byg5vljkRORez51sK1Ec",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

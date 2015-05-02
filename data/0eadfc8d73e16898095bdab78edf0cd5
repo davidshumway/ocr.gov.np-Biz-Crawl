@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Patarasi",
+               "short_name" : "Patarasi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karnali",
+               "short_name" : "Karnali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Patarasi, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.4884709,
+                  "lng" : 82.5820827
+               },
+               "southwest" : {
+                  "lat" : 29.2300136,
+                  "lng" : 82.31497759999999
+               }
+            },
+            "location" : {
+               "lat" : 29.34,
+               "lng" : 82.5
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.4884709,
+                  "lng" : 82.5820827
+               },
+               "southwest" : {
+                  "lat" : 29.2300136,
+                  "lng" : 82.31497759999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJQ4kL2p7bvDkRRa_7jtN_BDo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

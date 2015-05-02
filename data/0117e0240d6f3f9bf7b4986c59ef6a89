@@ -1,0 +1,65 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Toli",
+               "short_name" : "Toli",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21600",
+               "short_name" : "21600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Toli 21600, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.95471899999999,
+                  "lng" : 81.81570049999999
+               },
+               "southwest" : {
+                  "lat" : 28.8654969,
+                  "lng" : 81.7575933
+               }
+            },
+            "location" : {
+               "lat" : 28.9172746,
+               "lng" : 81.7841703
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.95471899999999,
+                  "lng" : 81.81570049999999
+               },
+               "southwest" : {
+                  "lat" : 28.8654969,
+                  "lng" : 81.7575933
+               }
+            }
+         },
+         "place_id" : "ChIJN6rqtUnpojkRDEn6xW9ILds",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

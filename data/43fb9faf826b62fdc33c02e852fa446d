@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kotjahari",
+               "short_name" : "Kotjahari",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rapti",
+               "short_name" : "Rapti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "22000",
+               "short_name" : "22000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kotjahari 22000, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6752268,
+                  "lng" : 82.2630501
+               },
+               "southwest" : {
+                  "lat" : 28.637794,
+                  "lng" : 82.2021103
+               }
+            },
+            "location" : {
+               "lat" : 28.66,
+               "lng" : 82.23999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6752268,
+                  "lng" : 82.2630501
+               },
+               "southwest" : {
+                  "lat" : 28.637794,
+                  "lng" : 82.2021103
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJvaAi-0BNvTkRYc7FOv9jN0g",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

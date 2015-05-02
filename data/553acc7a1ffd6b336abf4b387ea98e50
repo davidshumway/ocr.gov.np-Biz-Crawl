@@ -1,0 +1,60 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mugu Karnali",
+               "short_name" : "Mugu Karnali",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Karnali",
+               "short_name" : "Karnali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mugu Karnali, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.5954481,
+                  "lng" : 82.13077430000001
+               },
+               "southwest" : {
+                  "lat" : 29.5782905,
+                  "lng" : 82.09325550000001
+               }
+            },
+            "location" : {
+               "lat" : 29.5868693,
+               "lng" : 82.11201489999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.5954481,
+                  "lng" : 82.13077430000001
+               },
+               "southwest" : {
+                  "lat" : 29.5782905,
+                  "lng" : 82.09325550000001
+               }
+            }
+         },
+         "place_id" : "ChIJ_-yq0ZBJozkRvDg5b_mH2-o",
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

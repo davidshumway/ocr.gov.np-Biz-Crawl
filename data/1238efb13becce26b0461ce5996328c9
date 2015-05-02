@@ -1,0 +1,66 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kotdanda",
+               "short_name" : "Kotdanda",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karnali",
+               "short_name" : "Karnali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21100",
+               "short_name" : "21100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kotdanda 21100, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.5727105,
+                  "lng" : 81.88565249999999
+               },
+               "southwest" : {
+                  "lat" : 29.5140937,
+                  "lng" : 81.81827539999999
+               }
+            },
+            "location" : {
+               "lat" : 29.533333,
+               "lng" : 81.858333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.5727105,
+                  "lng" : 81.88565249999999
+               },
+               "southwest" : {
+                  "lat" : 29.5140937,
+                  "lng" : 81.81827539999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ3_svfFEVozkRWM8ZFWPhuG8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

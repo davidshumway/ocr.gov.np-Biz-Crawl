@@ -1,0 +1,65 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Narakot",
+               "short_name" : "Narakot",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karnali",
+               "short_name" : "Karnali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21200",
+               "short_name" : "21200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Narakot 21200, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.3725267,
+                  "lng" : 82.0513057
+               },
+               "southwest" : {
+                  "lat" : 29.3206043,
+                  "lng" : 81.9742299
+               }
+            },
+            "location" : {
+               "lat" : 29.34,
+               "lng" : 82.02
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.3725267,
+                  "lng" : 82.0513057
+               },
+               "southwest" : {
+                  "lat" : 29.3206043,
+                  "lng" : 81.9742299
+               }
+            }
+         },
+         "place_id" : "ChIJb28JsD4lozkR_TrU_IVIEpQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

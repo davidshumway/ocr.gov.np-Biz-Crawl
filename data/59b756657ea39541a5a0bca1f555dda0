@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Duradanda",
+               "short_name" : "Duradanda",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gandaki",
+               "short_name" : "Gandaki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33600",
+               "short_name" : "33600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Duradanda 33600, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.1829859,
+                  "lng" : 84.3840982
+               },
+               "southwest" : {
+                  "lat" : 28.1448866,
+                  "lng" : 84.3301965
+               }
+            },
+            "location" : {
+               "lat" : 28.16,
+               "lng" : 84.36999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.1829859,
+                  "lng" : 84.3840982
+               },
+               "southwest" : {
+                  "lat" : 28.1448866,
+                  "lng" : 84.3301965
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJvcB-HKEMlTkR70hR1LMz3bk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

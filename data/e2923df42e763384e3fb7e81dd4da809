@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Udaipur Bus Stop",
+               "short_name" : "Udaipur Bus Stop",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Nepalgunj",
+               "short_name" : "Nepalgunj",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21900",
+               "short_name" : "21900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Udaipur Bus Stop, Nepalgunj 21900, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.0430652,
+               "lng" : 81.6323876
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.0444141802915,
+                  "lng" : 81.6337365802915
+               },
+               "southwest" : {
+                  "lat" : 28.0417162197085,
+                  "lng" : 81.63103861970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJaZCWwYldmDkRtc7E2-jRzto",
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

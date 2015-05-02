@@ -1,0 +1,66 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Patalekhet",
+               "short_name" : "Patalekhet",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dhawalagiri",
+               "short_name" : "Dhawalagiri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33200",
+               "short_name" : "33200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Patalekhet 33200, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.4137103,
+                  "lng" : 83.5517978
+               },
+               "southwest" : {
+                  "lat" : 28.3819617,
+                  "lng" : 83.5082388
+               }
+            },
+            "location" : {
+               "lat" : 28.4,
+               "lng" : 83.53333300000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.4137103,
+                  "lng" : 83.5517978
+               },
+               "southwest" : {
+                  "lat" : 28.3819617,
+                  "lng" : 83.5082388
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ1XNOQesGljkRVRfahtPp8QI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

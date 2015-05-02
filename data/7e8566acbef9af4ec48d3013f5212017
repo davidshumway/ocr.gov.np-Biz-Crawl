@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sirsiya Khalwatola",
+               "short_name" : "Sirsiya Khalwatola",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44300",
+               "short_name" : "44300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sirsiya Khalwatola 44300, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.0679728,
+                  "lng" : 84.7693678
+               },
+               "southwest" : {
+                  "lat" : 27.0465968,
+                  "lng" : 84.7532102
+               }
+            },
+            "location" : {
+               "lat" : 27.0556394,
+               "lng" : 84.7602807
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.0679728,
+                  "lng" : 84.7693678
+               },
+               "southwest" : {
+                  "lat" : 27.0465968,
+                  "lng" : 84.7532102
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJn9NE5xlYkzkRVlyuJZsXQYo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

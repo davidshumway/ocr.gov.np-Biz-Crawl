@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mudabhara",
+               "short_name" : "Mudabhara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seti",
+               "short_name" : "Seti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10800",
+               "short_name" : "10800",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mudabhara 10800, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.21,
+               "lng" : 80.84999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.21134898029149,
+                  "lng" : 80.8513489802915
+               },
+               "southwest" : {
+                  "lat" : 29.2086510197085,
+                  "lng" : 80.84865101970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJnZkRQWPWozkRkc6-PNYYnFU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bungamati",
+               "short_name" : "Bungamati",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bungamati, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6331628,
+                  "lng" : 85.31222820000001
+               },
+               "southwest" : {
+                  "lat" : 27.6068688,
+                  "lng" : 85.29005169999999
+               }
+            },
+            "location" : {
+               "lat" : 27.62,
+               "lng" : 85.3
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6331628,
+                  "lng" : 85.31222820000001
+               },
+               "southwest" : {
+                  "lat" : 27.6068688,
+                  "lng" : 85.29005169999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJJ1YXU7AX6zkRuJfEbSNdkDg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

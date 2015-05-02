@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sunarpani",
+               "short_name" : "Sunarpani",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45400",
+               "short_name" : "45400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sunarpani 45400, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.36,
+               "lng" : 86.09999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.3613489802915,
+                  "lng" : 86.1013489802915
+               },
+               "southwest" : {
+                  "lat" : 27.3586510197085,
+                  "lng" : 86.0986510197085
+               }
+            }
+         },
+         "place_id" : "ChIJsWPr9IPl6zkRg9GNUieR0GE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

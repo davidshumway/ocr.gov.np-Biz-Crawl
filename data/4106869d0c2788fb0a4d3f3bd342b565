@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Charikot - Lamabagar Road",
+               "short_name" : "Charikot - Lamabagar Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lamabagar",
+               "short_name" : "Lamabagar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dolakha",
+               "short_name" : "Dolakha",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45500",
+               "short_name" : "45500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Charikot - Lamabagar Road, Lamabagar 45500, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.9198194,
+                  "lng" : 86.2105028
+               },
+               "southwest" : {
+                  "lat" : 27.9189495,
+                  "lng" : 86.20966589999999
+               }
+            },
+            "location" : {
+               "lat" : 27.9193522,
+               "lng" : 86.2101253
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.9207334302915,
+                  "lng" : 86.2114333302915
+               },
+               "southwest" : {
+                  "lat" : 27.9180354697085,
+                  "lng" : 86.20873536970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJNfE31YLF6zkRGZ7nEA7xNAc",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

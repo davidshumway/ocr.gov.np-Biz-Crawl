@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kotila",
+               "short_name" : "Kotila",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seti",
+               "short_name" : "Seti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10600",
+               "short_name" : "10600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kotila 10600, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.5061759,
+                  "lng" : 81.69364929999999
+               },
+               "southwest" : {
+                  "lat" : 29.458507,
+                  "lng" : 81.6176892
+               }
+            },
+            "location" : {
+               "lat" : 29.49,
+               "lng" : 81.66
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.5061759,
+                  "lng" : 81.69364929999999
+               },
+               "southwest" : {
+                  "lat" : 29.458507,
+                  "lng" : 81.6176892
+               }
+            }
+         },
+         "place_id" : "ChIJiazuoAcNozkRV9A0BMG-4D4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

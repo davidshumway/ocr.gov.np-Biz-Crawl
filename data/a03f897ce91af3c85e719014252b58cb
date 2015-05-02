@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Laharepauwa",
+               "short_name" : "Laharepauwa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Laharepauwa, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.0300727,
+                  "lng" : 85.22309299999999
+               },
+               "southwest" : {
+                  "lat" : 27.9724964,
+                  "lng" : 85.1802206
+               }
+            },
+            "location" : {
+               "lat" : 27.983333,
+               "lng" : 85.18333299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.0300727,
+                  "lng" : 85.22309299999999
+               },
+               "southwest" : {
+                  "lat" : 27.9724964,
+                  "lng" : 85.1802206
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJTVJCF5fc6jkRdHkFRS6JBJo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

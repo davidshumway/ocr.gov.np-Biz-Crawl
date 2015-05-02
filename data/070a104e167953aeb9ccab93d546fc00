@@ -1,0 +1,70 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "East-West Highway",
+               "short_name" : "H01",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Amlekhganj",
+               "short_name" : "Amlekhganj",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44400",
+               "short_name" : "44400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "East-West Highway, Amlekhganj 44400, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.3218371,
+                  "lng" : 85.00472379999999
+               },
+               "southwest" : {
+                  "lat" : 27.2908932,
+                  "lng" : 84.99045160000001
+               }
+            },
+            "location" : {
+               "lat" : 27.3063652,
+               "lng" : 84.9975877
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.3218371,
+                  "lng" : 85.00472379999999
+               },
+               "southwest" : {
+                  "lat" : 27.2908932,
+                  "lng" : 84.99045160000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJs_5lTJ5T6zkRhXkEW-DnHBk",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

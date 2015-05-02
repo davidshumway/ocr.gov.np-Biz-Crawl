@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pyuthan",
+               "short_name" : "Pyuthan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rapti",
+               "short_name" : "Rapti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "22300",
+               "short_name" : "22300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Pyuthan 22300, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.1732636,
+                  "lng" : 82.95870769999999
+               },
+               "southwest" : {
+                  "lat" : 28.0425916,
+                  "lng" : 82.7767467
+               }
+            },
+            "location" : {
+               "lat" : 28.1,
+               "lng" : 82.86666699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.1732636,
+                  "lng" : 82.95870769999999
+               },
+               "southwest" : {
+                  "lat" : 28.0425916,
+                  "lng" : 82.7767467
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJWVRp_oK1lzkRWPBTJyclwZY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

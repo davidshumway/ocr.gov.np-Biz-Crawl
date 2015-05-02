@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Katunje",
+               "short_name" : "Katunje",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Katunje, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6739129,
+                  "lng" : 85.4260826
+               },
+               "southwest" : {
+                  "lat" : 27.6495104,
+                  "lng" : 85.39329529999999
+               }
+            },
+            "location" : {
+               "lat" : 27.66,
+               "lng" : 85.41
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6739129,
+                  "lng" : 85.4260826
+               },
+               "southwest" : {
+                  "lat" : 27.6495104,
+                  "lng" : 85.39329529999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJk34x4YIa6zkRm2hI76UmxaQ",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

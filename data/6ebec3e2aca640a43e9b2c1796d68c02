@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sonamai",
+               "short_name" : "Sonamai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45700",
+               "short_name" : "45700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sonamai 45700, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.8818373,
+                  "lng" : 85.8250652
+               },
+               "southwest" : {
+                  "lat" : 26.819201,
+                  "lng" : 85.78157039999999
+               }
+            },
+            "location" : {
+               "lat" : 26.8466453,
+               "lng" : 85.8025373
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8818373,
+                  "lng" : 85.8250652
+               },
+               "southwest" : {
+                  "lat" : 26.819201,
+                  "lng" : 85.78157039999999
+               }
+            }
+         },
+         "place_id" : "ChIJ05QiECBv7DkR80kvHHjCuQA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

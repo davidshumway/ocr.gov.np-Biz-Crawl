@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dumariya",
+               "short_name" : "Dumariya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45800",
+               "short_name" : "45800",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dumariya 45800, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.821281,
+                  "lng" : 85.42539599999999
+               },
+               "southwest" : {
+                  "lat" : 26.8046283,
+                  "lng" : 85.3966856
+               }
+            },
+            "location" : {
+               "lat" : 26.8110395,
+               "lng" : 85.4117608
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.821281,
+                  "lng" : 85.42539599999999
+               },
+               "southwest" : {
+                  "lat" : 26.8046283,
+                  "lng" : 85.3966856
+               }
+            }
+         },
+         "place_id" : "ChIJK4aqESGS7DkREnkYaRQtd1U",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

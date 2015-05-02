@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kumroj",
+               "short_name" : "Kumroj",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44200",
+               "short_name" : "44200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kumroj, 44200, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.5891645,
+                  "lng" : 84.5832252
+               },
+               "southwest" : {
+                  "lat" : 27.5473937,
+                  "lng" : 84.513874
+               }
+            },
+            "location" : {
+               "lat" : 27.57,
+               "lng" : 84.55
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.5891645,
+                  "lng" : 84.5832252
+               },
+               "southwest" : {
+                  "lat" : 27.5473937,
+                  "lng" : 84.513874
+               }
+            }
+         },
+         "place_id" : "ChIJL8SoORHplDkR6BsY5mw3hw0",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,55 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Suda",
+               "short_name" : "Suda",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mahakali",
+               "short_name" : "Mahakali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10400",
+               "short_name" : "10400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Suda 10400, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.99,
+               "lng" : 80.22999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.99134898029149,
+                  "lng" : 80.2313489802915
+               },
+               "southwest" : {
+                  "lat" : 28.9886510197085,
+                  "lng" : 80.22865101970849
+               }
+            }
+         },
+         "place_id" : "ChIJL_GPTyCpoTkRrzkwd6Ao9ss",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

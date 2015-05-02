@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Janaki Nagar",
+               "short_name" : "Janaki Nagar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Janaki Nagar, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.064487,
+                  "lng" : 85.5620947
+               },
+               "southwest" : {
+                  "lat" : 26.9641994,
+                  "lng" : 85.48963760000001
+               }
+            },
+            "location" : {
+               "lat" : 27.033333,
+               "lng" : 85.52499999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.064487,
+                  "lng" : 85.5620947
+               },
+               "southwest" : {
+                  "lat" : 26.9641994,
+                  "lng" : 85.48963760000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJn_E1a1aB7DkRMjAEq_EUppg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

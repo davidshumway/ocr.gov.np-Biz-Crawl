@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dakshinkali",
+               "short_name" : "Dakshinkali",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dakshinkali, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6573969,
+                  "lng" : 85.2951626
+               },
+               "southwest" : {
+                  "lat" : 27.5702796,
+                  "lng" : 85.2218391
+               }
+            },
+            "location" : {
+               "lat" : 27.583333,
+               "lng" : 85.25
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6573969,
+                  "lng" : 85.2951626
+               },
+               "southwest" : {
+                  "lat" : 27.5702796,
+                  "lng" : 85.2218391
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ3-4AM4c96zkRWHQOPrJZZ7U",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

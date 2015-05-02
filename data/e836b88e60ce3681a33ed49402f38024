@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gundu",
+               "short_name" : "Gundu",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gundu, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6604105,
+                  "lng" : 85.43086769999999
+               },
+               "southwest" : {
+                  "lat" : 27.6201972,
+                  "lng" : 85.39479729999999
+               }
+            },
+            "location" : {
+               "lat" : 27.6412431,
+               "lng" : 85.41434099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6604105,
+                  "lng" : 85.43086769999999
+               },
+               "southwest" : {
+                  "lat" : 27.6201972,
+                  "lng" : 85.39479729999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJd9Dm9HAQ6zkRJ_uKG0JCUj0",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

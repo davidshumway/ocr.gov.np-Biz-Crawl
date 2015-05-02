@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Parwanipur",
+               "short_name" : "Parwanipur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Parwanipur, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.1800649,
+                  "lng" : 85.81200419999999
+               },
+               "southwest" : {
+                  "lat" : 27.0459721,
+                  "lng" : 85.6674762
+               }
+            },
+            "location" : {
+               "lat" : 27.116667,
+               "lng" : 85.74166699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.1800649,
+                  "lng" : 85.81200419999999
+               },
+               "southwest" : {
+                  "lat" : 27.0459721,
+                  "lng" : 85.6674762
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJDfAA54uH6zkR3iPziVxt1zo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

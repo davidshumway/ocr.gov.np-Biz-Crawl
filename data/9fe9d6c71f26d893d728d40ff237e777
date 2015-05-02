@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sonpur",
+               "short_name" : "Sonpur",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Rapti",
+               "short_name" : "Rapti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sonpur, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.9261707,
+                  "lng" : 82.6298905
+               },
+               "southwest" : {
+                  "lat" : 27.8329283,
+                  "lng" : 82.5509261
+               }
+            },
+            "location" : {
+               "lat" : 27.88,
+               "lng" : 82.60000000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.9261707,
+                  "lng" : 82.6298905
+               },
+               "southwest" : {
+                  "lat" : 27.8329283,
+                  "lng" : 82.5509261
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ0zASXuOilzkRBO3dSl3IMeo",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

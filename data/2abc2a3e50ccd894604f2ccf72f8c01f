@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dhamaura",
+               "short_name" : "Dhamaura",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45700",
+               "short_name" : "45700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dhamaura 45700, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.8308815,
+                  "lng" : 85.8463124
+               },
+               "southwest" : {
+                  "lat" : 26.7554495,
+                  "lng" : 85.8065525
+               }
+            },
+            "location" : {
+               "lat" : 26.79,
+               "lng" : 85.83
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8308815,
+                  "lng" : 85.8463124
+               },
+               "southwest" : {
+                  "lat" : 26.7554495,
+                  "lng" : 85.8065525
+               }
+            }
+         },
+         "place_id" : "ChIJY9jo-W1p7DkR8lSGODaTv2Y",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

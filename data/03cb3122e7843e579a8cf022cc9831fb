@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hekuli",
+               "short_name" : "Hekuli",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rapti",
+               "short_name" : "Rapti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "22412",
+               "short_name" : "22412",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hekuli 22412, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.12165,
+                  "lng" : 82.25309369999999
+               },
+               "southwest" : {
+                  "lat" : 28.0687236,
+                  "lng" : 82.1609974
+               }
+            },
+            "location" : {
+               "lat" : 28.1,
+               "lng" : 82.20999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.12165,
+                  "lng" : 82.25309369999999
+               },
+               "southwest" : {
+                  "lat" : 28.0687236,
+                  "lng" : 82.1609974
+               }
+            }
+         },
+         "place_id" : "ChIJd-D_K-QfmDkRJ5e4f046OjQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

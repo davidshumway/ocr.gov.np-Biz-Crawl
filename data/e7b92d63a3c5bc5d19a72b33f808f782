@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dandakharka",
+               "short_name" : "Dandakharka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dandakharka, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.5468609,
+                  "lng" : 86.05895509999999
+               },
+               "southwest" : {
+                  "lat" : 27.4978225,
+                  "lng" : 85.9864712
+               }
+            },
+            "location" : {
+               "lat" : 27.52,
+               "lng" : 86.02
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.5468609,
+                  "lng" : 86.05895509999999
+               },
+               "southwest" : {
+                  "lat" : 27.4978225,
+                  "lng" : 85.9864712
+               }
+            }
+         },
+         "place_id" : "ChIJDWkOVjvC6zkRI_H5qpg-PBI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

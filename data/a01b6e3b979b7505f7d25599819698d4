@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kuwakot",
+               "short_name" : "Kuwakot",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gandaki",
+               "short_name" : "Gandaki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kuwakot, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.9377824,
+                  "lng" : 83.8296532
+               },
+               "southwest" : {
+                  "lat" : 27.8783788,
+                  "lng" : 83.7551737
+               }
+            },
+            "location" : {
+               "lat" : 27.91,
+               "lng" : 83.78999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.9377824,
+                  "lng" : 83.8296532
+               },
+               "southwest" : {
+                  "lat" : 27.8783788,
+                  "lng" : 83.7551737
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJZ2OpEkXOlTkRCm_GCPW0I0Y",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ranipauwa",
+               "short_name" : "Ranipauwa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dhawalagiri",
+               "short_name" : "Dhawalagiri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33100",
+               "short_name" : "33100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ranipauwa 33100, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.8173415,
+                  "lng" : 83.86693059999999
+               },
+               "southwest" : {
+                  "lat" : 28.813807,
+                  "lng" : 83.85875519999999
+               }
+            },
+            "location" : {
+               "lat" : 28.8153987,
+               "lng" : 83.86287519999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.8173415,
+                  "lng" : 83.86693059999999
+               },
+               "southwest" : {
+                  "lat" : 28.813807,
+                  "lng" : 83.85875519999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJrd7S2x0UvjkR5indnY5wnRQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

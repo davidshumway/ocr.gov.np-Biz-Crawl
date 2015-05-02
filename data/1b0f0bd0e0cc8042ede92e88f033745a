@@ -1,0 +1,56 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dhakari",
+               "short_name" : "Dhakari",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seti",
+               "short_name" : "Seti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10700",
+               "short_name" : "10700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dhakari 10700, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 29,
+               "lng" : 81.27
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.0013489802915,
+                  "lng" : 81.27134898029151
+               },
+               "southwest" : {
+                  "lat" : 28.9986510197085,
+                  "lng" : 81.26865101970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJV7kxmd5OojkRqAHNUlaJcdo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sisaniya",
+               "short_name" : "Sisaniya",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Sisahaniya",
+               "short_name" : "Sisahaniya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rapti",
+               "short_name" : "Rapti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "22400",
+               "short_name" : "22400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sisaniya, Sisahaniya 22400, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.8613495,
+                  "lng" : 82.6561117
+               },
+               "southwest" : {
+                  "lat" : 27.8361161,
+                  "lng" : 82.63988959999999
+               }
+            },
+            "location" : {
+               "lat" : 27.8490112,
+               "lng" : 82.6456434
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.8613495,
+                  "lng" : 82.6561117
+               },
+               "southwest" : {
+                  "lat" : 27.8361161,
+                  "lng" : 82.63988959999999
+               }
+            }
+         },
+         "place_id" : "ChIJ15i0UPWjlzkRTpi5tsEH4CU",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

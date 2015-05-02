@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Khalanga",
+               "short_name" : "Khalanga",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Khalanga, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.8507862,
+                  "lng" : 80.54651079999999
+               },
+               "southwest" : {
+                  "lat" : 29.8466787,
+                  "lng" : 80.5389515
+               }
+            },
+            "location" : {
+               "lat" : 29.8489045,
+               "lng" : 80.5431505
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.8507862,
+                  "lng" : 80.54651079999999
+               },
+               "southwest" : {
+                  "lat" : 29.8466787,
+                  "lng" : 80.5389515
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJHddN1J20pjkR6Ge6gkXoQto",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

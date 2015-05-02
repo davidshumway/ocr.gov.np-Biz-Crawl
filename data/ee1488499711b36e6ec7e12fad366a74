@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Maternity Ward",
+               "short_name" : "Maternity Ward",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "National Medical College",
+               "short_name" : "National Medical College",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Birgunj",
+               "short_name" : "Birgunj",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44400",
+               "short_name" : "44400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Maternity Ward, National Medical College, Birgunj 44400, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.0111714,
+                  "lng" : 84.8968184
+               },
+               "southwest" : {
+                  "lat" : 27.0106123,
+                  "lng" : 84.8964696
+               }
+            },
+            "location" : {
+               "lat" : 27.0108902,
+               "lng" : 84.8966463
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.0122408302915,
+                  "lng" : 84.89799298029151
+               },
+               "southwest" : {
+                  "lat" : 27.0095428697085,
+                  "lng" : 84.8952950197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJyQpQ2F9UkzkRlv3GORS1uPU",
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

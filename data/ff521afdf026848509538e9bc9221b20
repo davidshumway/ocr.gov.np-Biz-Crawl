@@ -1,0 +1,56 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shree Jenith English Boarding School,Ghamir-Gulmi Nepal",
+               "short_name" : "Shree Jenith English Boarding School,Ghamir-Gulmi Nepal",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Lumbini",
+               "short_name" : "Lumbini",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32600",
+               "short_name" : "32600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Shree Jenith English Boarding School,Ghamir-Gulmi Nepal, 32600, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.1826406,
+               "lng" : 83.144593
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.1839895802915,
+                  "lng" : 83.14594198029151
+               },
+               "southwest" : {
+                  "lat" : 28.1812916197085,
+                  "lng" : 83.14324401970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJQyFoMCI5ljkReYaR5-uRwac",
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

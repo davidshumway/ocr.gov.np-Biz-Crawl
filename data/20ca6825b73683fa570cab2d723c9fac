@@ -1,0 +1,66 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kakani",
+               "short_name" : "Kakani",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44900",
+               "short_name" : "44900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kakani 44900, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.8476521,
+                  "lng" : 85.29725069999999
+               },
+               "southwest" : {
+                  "lat" : 27.7930727,
+                  "lng" : 85.1918508
+               }
+            },
+            "location" : {
+               "lat" : 27.816667,
+               "lng" : 85.266667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.8476521,
+                  "lng" : 85.29725069999999
+               },
+               "southwest" : {
+                  "lat" : 27.7930727,
+                  "lng" : 85.1918508
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJm6wvEjog6zkRdFhcszAk5bY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Narayanpur",
+               "short_name" : "Narayanpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rapti",
+               "short_name" : "Rapti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Narayanpur, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.0845513,
+                  "lng" : 82.45488170000002
+               },
+               "southwest" : {
+                  "lat" : 28.0184993,
+                  "lng" : 82.3876762
+               }
+            },
+            "location" : {
+               "lat" : 28.04,
+               "lng" : 82.42
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.0845513,
+                  "lng" : 82.45488170000002
+               },
+               "southwest" : {
+                  "lat" : 28.0184993,
+                  "lng" : 82.3876762
+               }
+            }
+         },
+         "place_id" : "ChIJuVt4d_qSlzkRvQVDUAMx4EQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

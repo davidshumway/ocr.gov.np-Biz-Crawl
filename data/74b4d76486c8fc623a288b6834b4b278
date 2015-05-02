@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sunkuda",
+               "short_name" : "Sunkuda",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seti",
+               "short_name" : "Seti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sunkuda, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.5459825,
+                  "lng" : 80.9112167
+               },
+               "southwest" : {
+                  "lat" : 29.4423633,
+                  "lng" : 80.8168889
+               }
+            },
+            "location" : {
+               "lat" : 29.5,
+               "lng" : 80.86999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.5459825,
+                  "lng" : 80.9112167
+               },
+               "southwest" : {
+                  "lat" : 29.4423633,
+                  "lng" : 80.8168889
+               }
+            }
+         },
+         "place_id" : "ChIJ37l-oo3gozkRezhdI5WSBB0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

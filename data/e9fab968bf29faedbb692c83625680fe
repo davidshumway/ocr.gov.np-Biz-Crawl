@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Laxminiya",
+               "short_name" : "Laxminiya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Laxminiya, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.1168113,
+                  "lng" : 85.23773659999999
+               },
+               "southwest" : {
+                  "lat" : 27.0100601,
+                  "lng" : 85.1774647
+               }
+            },
+            "location" : {
+               "lat" : 27.0630033,
+               "lng" : 85.2153062
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.1168113,
+                  "lng" : 85.23773659999999
+               },
+               "southwest" : {
+                  "lat" : 27.0100601,
+                  "lng" : 85.1774647
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJYWBNm-ig7DkRTjQgFjP1G94",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

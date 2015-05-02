@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bachhauli",
+               "short_name" : "Bachhauli",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44200",
+               "short_name" : "44200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bachhauli, 44200, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6028565,
+                  "lng" : 84.5466615
+               },
+               "southwest" : {
+                  "lat" : 27.5486113,
+                  "lng" : 84.46589469999999
+               }
+            },
+            "location" : {
+               "lat" : 27.583333,
+               "lng" : 84.516667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6028565,
+                  "lng" : 84.5466615
+               },
+               "southwest" : {
+                  "lat" : 27.5486113,
+                  "lng" : 84.46589469999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJgQYLStjulDkRCvzM7pDvyvs",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

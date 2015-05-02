@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nepalgunj",
+               "short_name" : "Nepalgunj",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nepalgunj, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.1339125,
+                  "lng" : 81.70171739999999
+               },
+               "southwest" : {
+                  "lat" : 28.0017525,
+                  "lng" : 81.5571784
+               }
+            },
+            "location" : {
+               "lat" : 28.05,
+               "lng" : 81.61666699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.1339125,
+                  "lng" : 81.70171739999999
+               },
+               "southwest" : {
+                  "lat" : 28.0017525,
+                  "lng" : 81.5571784
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJdeH4MFpnmDkRkZiMghNAwJM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

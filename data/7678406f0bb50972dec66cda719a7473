@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jhaukhel",
+               "short_name" : "Jhaukhel",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jhaukhel, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7062132,
+                  "lng" : 85.44067389999999
+               },
+               "southwest" : {
+                  "lat" : 27.6786636,
+                  "lng" : 85.4189157
+               }
+            },
+            "location" : {
+               "lat" : 27.69,
+               "lng" : 85.42999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7062132,
+                  "lng" : 85.44067389999999
+               },
+               "southwest" : {
+                  "lat" : 27.6786636,
+                  "lng" : 85.4189157
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJxT95J88a6zkRWfpiCZAAyf4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

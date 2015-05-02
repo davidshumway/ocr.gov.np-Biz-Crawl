@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tinthana",
+               "short_name" : "Tinthana",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44600",
+               "short_name" : "44600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tinthana 44600, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6920593,
+                  "lng" : 85.27710209999999
+               },
+               "southwest" : {
+                  "lat" : 27.6794616,
+                  "lng" : 85.2610517
+               }
+            },
+            "location" : {
+               "lat" : 27.6846408,
+               "lng" : 85.2683668
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6920593,
+                  "lng" : 85.27710209999999
+               },
+               "southwest" : {
+                  "lat" : 27.6794616,
+                  "lng" : 85.2610517
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ76WghJ4i6zkRZpzPXgfU5H0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,135 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jalakanya School",
+               "short_name" : "Jalakanya School",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Jalkanya",
+               "short_name" : "Jalkanya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45900",
+               "short_name" : "45900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jalakanya School, Jalkanya 45900, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.3045388,
+                  "lng" : 85.9451115
+               },
+               "southwest" : {
+                  "lat" : 27.3041098,
+                  "lng" : 85.9446287
+               }
+            },
+            "location" : {
+               "lat" : 27.3042585,
+               "lng" : 85.9449056
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.3056732802915,
+                  "lng" : 85.9462190802915
+               },
+               "southwest" : {
+                  "lat" : 27.3029753197085,
+                  "lng" : 85.94352111970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJG-cluVjt6zkR6_MhyKcebO8",
+         "types" : [ "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jalakanya Health Post",
+               "short_name" : "Jalakanya Health Post",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Jalkanya",
+               "short_name" : "Jalkanya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45900",
+               "short_name" : "45900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jalakanya Health Post, Jalkanya 45900, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.3040049,
+                  "lng" : 85.9459591
+               },
+               "southwest" : {
+                  "lat" : 27.3034329,
+                  "lng" : 85.94528319999999
+               }
+            },
+            "location" : {
+               "lat" : 27.3037269,
+               "lng" : 85.9455442
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.3050678802915,
+                  "lng" : 85.9469701302915
+               },
+               "southwest" : {
+                  "lat" : 27.3023699197085,
+                  "lng" : 85.94427216970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJZ2OgrVjt6zkRORtuBPnqHbc",
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

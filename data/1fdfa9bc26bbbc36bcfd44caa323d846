@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kuika",
+               "short_name" : "Kuika",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seti",
+               "short_name" : "Seti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10700",
+               "short_name" : "10700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kuika 10700, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.1259976,
+                  "lng" : 81.40628799999999
+               },
+               "southwest" : {
+                  "lat" : 29.062547,
+                  "lng" : 81.34006979999999
+               }
+            },
+            "location" : {
+               "lat" : 29.09,
+               "lng" : 81.36999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.1259976,
+                  "lng" : 81.40628799999999
+               },
+               "southwest" : {
+                  "lat" : 29.062547,
+                  "lng" : 81.34006979999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ0ZQTA_hSojkRcYhH0zVj-Lg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dumkibas",
+               "short_name" : "Dumkibas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lumbini",
+               "short_name" : "Lumbini",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dumkibas, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6225547,
+                  "lng" : 83.90241619999999
+               },
+               "southwest" : {
+                  "lat" : 27.553786,
+                  "lng" : 83.8404465
+               }
+            },
+            "location" : {
+               "lat" : 27.5881704,
+               "lng" : 83.8714313
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6225547,
+                  "lng" : 83.90241619999999
+               },
+               "southwest" : {
+                  "lat" : 27.553786,
+                  "lng" : 83.8404465
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJBRgZd_c5lDkRQX2nmU8fXUE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

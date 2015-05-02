@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barainiya",
+               "short_name" : "Barainiya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Barainiya, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.9984985,
+                  "lng" : 84.9230865
+               },
+               "southwest" : {
+                  "lat" : 26.9731461,
+                  "lng" : 84.89748760000001
+               }
+            },
+            "location" : {
+               "lat" : 26.98,
+               "lng" : 84.91
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9984985,
+                  "lng" : 84.9230865
+               },
+               "southwest" : {
+                  "lat" : 26.9731461,
+                  "lng" : 84.89748760000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJc2ol9GNTkzkRLhcqplDoxHQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

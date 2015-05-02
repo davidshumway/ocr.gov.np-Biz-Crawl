@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chandika",
+               "short_name" : "Chandika",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seti",
+               "short_name" : "Seti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10700",
+               "short_name" : "10700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chandika 10700, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.19,
+               "lng" : 81.22999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.1913489802915,
+                  "lng" : 81.23134898029149
+               },
+               "southwest" : {
+                  "lat" : 29.1886510197085,
+                  "lng" : 81.22865101970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJlbAsJ2i0ozkRZMEzM8ioXT4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

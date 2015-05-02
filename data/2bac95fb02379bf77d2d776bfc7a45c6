@@ -1,0 +1,60 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kalikot",
+               "short_name" : "Kalikot",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Karnali",
+               "short_name" : "Karnali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kalikot, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.4484174,
+                  "lng" : 82.0571423
+               },
+               "southwest" : {
+                  "lat" : 28.96234149999999,
+                  "lng" : 81.4634514
+               }
+            },
+            "location" : {
+               "lat" : 29.2088617,
+               "lng" : 81.73494199999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.4484174,
+                  "lng" : 82.0571423
+               },
+               "southwest" : {
+                  "lat" : 28.96234149999999,
+                  "lng" : 81.4634514
+               }
+            }
+         },
+         "place_id" : "ChIJVz6G2NMdozkR7M2oValTxyg",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

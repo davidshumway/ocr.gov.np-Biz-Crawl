@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pipra",
+               "short_name" : "Pipra",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45700",
+               "short_name" : "45700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Pipra 45700, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.7175274,
+                  "lng" : 85.86683789999999
+               },
+               "southwest" : {
+                  "lat" : 26.6703029,
+                  "lng" : 85.83389919999999
+               }
+            },
+            "location" : {
+               "lat" : 26.6952249,
+               "lng" : 85.85374179999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.7175274,
+                  "lng" : 85.86683789999999
+               },
+               "southwest" : {
+                  "lat" : 26.6703029,
+                  "lng" : 85.83389919999999
+               }
+            }
+         },
+         "place_id" : "ChIJ-5WUInlB7DkRfNwxzqlhjSg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

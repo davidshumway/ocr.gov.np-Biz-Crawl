@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tribhuwan Higher Secondary School",
+               "short_name" : "Tribhuwan Higher Secondary School",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Bhimdatta",
+               "short_name" : "Bhimdatta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mahakali",
+               "short_name" : "Mahakali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10400",
+               "short_name" : "10400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tribhuwan Higher Secondary School, Bhimdatta 10400, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.01266519999999,
+               "lng" : 80.1549089
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.01401418029149,
+                  "lng" : 80.15625788029151
+               },
+               "southwest" : {
+                  "lat" : 29.0113162197085,
+                  "lng" : 80.1535599197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJyeAtg02qoTkRS04VCiMRbic",
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

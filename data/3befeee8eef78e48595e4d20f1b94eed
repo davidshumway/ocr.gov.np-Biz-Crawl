@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tokha",
+               "short_name" : "Tokha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tokha, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.8145989,
+                  "lng" : 85.34996819999999
+               },
+               "southwest" : {
+                  "lat" : 27.7345669,
+                  "lng" : 85.30734389999999
+               }
+            },
+            "location" : {
+               "lat" : 27.7700747,
+               "lng" : 85.3291291
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.8145989,
+                  "lng" : 85.34996819999999
+               },
+               "southwest" : {
+                  "lat" : 27.7345669,
+                  "lng" : 85.30734389999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJg3l1JcAe6zkR6Sx1Ayga4jE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

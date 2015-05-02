@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mumrakot",
+               "short_name" : "Mumrakot",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karnali",
+               "short_name" : "Karnali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mumrakot, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.3710308,
+                  "lng" : 81.64335249999999
+               },
+               "southwest" : {
+                  "lat" : 29.2576485,
+                  "lng" : 81.530056
+               }
+            },
+            "location" : {
+               "lat" : 29.316667,
+               "lng" : 81.583333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.3710308,
+                  "lng" : 81.64335249999999
+               },
+               "southwest" : {
+                  "lat" : 29.2576485,
+                  "lng" : 81.530056
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJI_VlERUGozkR7Cp2iAYSh7A",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

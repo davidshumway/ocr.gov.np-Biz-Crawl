@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jhalaripipaladi",
+               "short_name" : "Jhalaripipaladi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mahakali",
+               "short_name" : "Mahakali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jhalaripipaladi, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.047466,
+                  "lng" : 80.46103479999999
+               },
+               "southwest" : {
+                  "lat" : 28.7813515,
+                  "lng" : 80.2982141
+               }
+            },
+            "location" : {
+               "lat" : 28.9573578,
+               "lng" : 80.38813329999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.047466,
+                  "lng" : 80.46103479999999
+               },
+               "southwest" : {
+                  "lat" : 28.7813515,
+                  "lng" : 80.2982141
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJSYu7WHijoTkRSDZDa6H1Bt0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

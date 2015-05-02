@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bheri River",
+               "short_name" : "Bheri River",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bheri River, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.7821607,
+                  "lng" : 82.74916519999999
+               },
+               "southwest" : {
+                  "lat" : 28.4227485,
+                  "lng" : 81.25861039999999
+               }
+            },
+            "location" : {
+               "lat" : 28.6024546,
+               "lng" : 82.0038878
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.7821607,
+                  "lng" : 82.74916519999999
+               },
+               "southwest" : {
+                  "lat" : 28.4227485,
+                  "lng" : 81.25861039999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJR9Woq19DvTkR3NjGmGKX2WA",
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

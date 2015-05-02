@@ -1,0 +1,250 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sindhupalchok Bus Stop",
+               "short_name" : "Sindhupalchok Bus Stop",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Araniko Highway",
+               "short_name" : "H03",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sangachok",
+               "short_name" : "Sangachok",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sindhupalchok Bus Stop, Araniko Highway, Sangachok, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.6642115,
+               "lng" : 85.72313190000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.66556048029151,
+                  "lng" : 85.72448088029152
+               },
+               "southwest" : {
+                  "lat" : 27.6628625197085,
+                  "lng" : 85.72178291970852
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJj6ekSoKl6zkR1oWuCziNJsU",
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sindhupalchok District Hospital",
+               "short_name" : "Sindhupalchok District Hospital",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Chautara-Nawalpur Road",
+               "short_name" : "Chautara-Nawalpur Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chautara",
+               "short_name" : "Chautara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45301",
+               "short_name" : "45301",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sindhupalchok District Hospital, Chautara-Nawalpur Road, Chautara 45301, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7815405,
+                  "lng" : 85.71145629999999
+               },
+               "southwest" : {
+                  "lat" : 27.7800123,
+                  "lng" : 85.71043970000001
+               }
+            },
+            "location" : {
+               "lat" : 27.7807669,
+               "lng" : 85.71104559999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7821253802915,
+                  "lng" : 85.71229698029151
+               },
+               "southwest" : {
+                  "lat" : 27.7794274197085,
+                  "lng" : 85.70959901970851
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ882Lkjus6zkRG-2U3BPduMk",
+         "types" : [ "hospital", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shree Ratna Rajya Higher Secondary School, Baramchi-9, Chanaute, Sindhupalchok, Nepal",
+               "short_name" : "Shree Ratna Rajya Higher Secondary School, Baramchi-9, Chanaute, Sindhupalchok, Nepal",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Baramchi",
+               "short_name" : "Baramchi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shree Ratna Rajya Higher Secondary School, Baramchi-9, Chanaute, Sindhupalchok, Nepal, Baramchi, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.8734543,
+               "lng" : 85.7597253
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.8748032802915,
+                  "lng" : 85.7610742802915
+               },
+               "southwest" : {
+                  "lat" : 27.8721053197085,
+                  "lng" : 85.75837631970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJh1iavKVS6jkR08ds0YPzFHY",
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "District Administration Office Sindhupalchok",
+               "short_name" : "District Administration Office Sindhupalchok",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Chautara-Nawalpur Road",
+               "short_name" : "Chautara-Nawalpur Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chautara",
+               "short_name" : "Chautara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45300",
+               "short_name" : "45300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "District Administration Office Sindhupalchok, Chautara-Nawalpur Road, Chautara 45300, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7793193,
+                  "lng" : 85.7128
+               },
+               "southwest" : {
+                  "lat" : 27.7783274,
+                  "lng" : 85.7114321
+               }
+            },
+            "location" : {
+               "lat" : 27.778968,
+               "lng" : 85.71200779999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7801723302915,
+                  "lng" : 85.71346503029152
+               },
+               "southwest" : {
+                  "lat" : 27.7774743697085,
+                  "lng" : 85.7107670697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJBa3lDzus6zkRm13ZJnhEOxU",
+         "types" : [ "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

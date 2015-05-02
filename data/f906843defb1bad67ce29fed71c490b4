@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kureli",
+               "short_name" : "Kureli",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rapti",
+               "short_name" : "Rapti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kureli, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.5110867,
+                  "lng" : 82.66010279999999
+               },
+               "southwest" : {
+                  "lat" : 28.4211458,
+                  "lng" : 82.55573269999999
+               }
+            },
+            "location" : {
+               "lat" : 28.47,
+               "lng" : 82.58999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5110867,
+                  "lng" : 82.66010279999999
+               },
+               "southwest" : {
+                  "lat" : 28.4211458,
+                  "lng" : 82.55573269999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJlX1WIIbflzkR57Qsjgc4c0w",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

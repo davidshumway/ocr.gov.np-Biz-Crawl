@@ -1,0 +1,71 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rautahat",
+               "short_name" : "Rautahat",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Gaur",
+               "short_name" : "Gaur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44500",
+               "short_name" : "44500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rautahat, Gaur 44500, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.7653168,
+                  "lng" : 85.2831637
+               },
+               "southwest" : {
+                  "lat" : 26.7536581,
+                  "lng" : 85.266137
+               }
+            },
+            "location" : {
+               "lat" : 26.7580974,
+               "lng" : 85.27612739999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.7653168,
+                  "lng" : 85.2831637
+               },
+               "southwest" : {
+                  "lat" : 26.7536581,
+                  "lng" : 85.266137
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJm692OnuV7DkRjKvW-F4XU9o",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

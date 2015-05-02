@@ -1,0 +1,66 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Samundradevi",
+               "short_name" : "Samundradevi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44900",
+               "short_name" : "44900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Samundradevi 44900, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.863588,
+                  "lng" : 85.36454189999999
+               },
+               "southwest" : {
+                  "lat" : 27.809681,
+                  "lng" : 85.3022289
+               }
+            },
+            "location" : {
+               "lat" : 27.83,
+               "lng" : 85.34999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.863588,
+                  "lng" : 85.36454189999999
+               },
+               "southwest" : {
+                  "lat" : 27.809681,
+                  "lng" : 85.3022289
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJk-OTkSIe6zkRv17n2uoONUg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

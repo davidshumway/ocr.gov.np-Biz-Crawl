@@ -1,0 +1,65 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Martadi",
+               "short_name" : "Martadi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seti",
+               "short_name" : "Seti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10600",
+               "short_name" : "10600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Martadi 10600, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.5187245,
+                  "lng" : 81.59271240000001
+               },
+               "southwest" : {
+                  "lat" : 29.3852414,
+                  "lng" : 81.45212169999999
+               }
+            },
+            "location" : {
+               "lat" : 29.44694399999999,
+               "lng" : 81.486667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.5187245,
+                  "lng" : 81.59271240000001
+               },
+               "southwest" : {
+                  "lat" : 29.3852414,
+                  "lng" : 81.45212169999999
+               }
+            }
+         },
+         "place_id" : "ChIJ1bRsT-OgozkRYabGoMuA58w",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

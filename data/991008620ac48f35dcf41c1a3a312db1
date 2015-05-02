@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chhinchu",
+               "short_name" : "Chhinchu",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21700",
+               "short_name" : "21700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chhinchu, 21700, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.4766134,
+                  "lng" : 81.75227169999999
+               },
+               "southwest" : {
+                  "lat" : 28.4302038,
+                  "lng" : 81.6823196
+               }
+            },
+            "location" : {
+               "lat" : 28.4561562,
+               "lng" : 81.7239979
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.4766134,
+                  "lng" : 81.75227169999999
+               },
+               "southwest" : {
+                  "lat" : 28.4302038,
+                  "lng" : 81.6823196
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJQaD5IhedojkRUngu7e688zk",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

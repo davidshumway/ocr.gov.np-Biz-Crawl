@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Marbu",
+               "short_name" : "Marbu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45500",
+               "short_name" : "45500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Marbu 45500, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.79,
+               "lng" : 86.34999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7913489802915,
+                  "lng" : 86.3513489802915
+               },
+               "southwest" : {
+                  "lat" : 27.7886510197085,
+                  "lng" : 86.3486510197085
+               }
+            }
+         },
+         "place_id" : "ChIJcWNdMVp56TkR_igXMdsm2VM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

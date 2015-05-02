@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dapcha",
+               "short_name" : "Dapcha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45200",
+               "short_name" : "45200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dapcha 45200, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.564591,
+                  "lng" : 85.61006070000001
+               },
+               "southwest" : {
+                  "lat" : 27.5258174,
+                  "lng" : 85.5810927
+               }
+            },
+            "location" : {
+               "lat" : 27.55,
+               "lng" : 85.59999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.564591,
+                  "lng" : 85.61006070000001
+               },
+               "southwest" : {
+                  "lat" : 27.5258174,
+                  "lng" : 85.5810927
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJPVBl23MK6zkRHFtlXncQMKA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

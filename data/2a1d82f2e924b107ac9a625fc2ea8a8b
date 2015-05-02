@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dhading",
+               "short_name" : "Dhading",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dhading, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.3122395,
+                  "lng" : 85.2116776
+               },
+               "southwest" : {
+                  "lat" : 27.6549463,
+                  "lng" : 84.60622789999999
+               }
+            },
+            "location" : {
+               "lat" : 27.9711357,
+               "lng" : 84.8984775
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.3122395,
+                  "lng" : 85.2116776
+               },
+               "southwest" : {
+                  "lat" : 27.6549463,
+                  "lng" : 84.60622789999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJUZZao3DUlDkRQgK6fIMjhrM",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

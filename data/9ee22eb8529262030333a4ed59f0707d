@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rajpur",
+               "short_name" : "Rajpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rapti",
+               "short_name" : "Rapti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rajpur, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.9731028,
+                  "lng" : 82.41016399999999
+               },
+               "southwest" : {
+                  "lat" : 27.7462904,
+                  "lng" : 82.06598269999999
+               }
+            },
+            "location" : {
+               "lat" : 27.833333,
+               "lng" : 82.216667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.9731028,
+                  "lng" : 82.41016399999999
+               },
+               "southwest" : {
+                  "lat" : 27.7462904,
+                  "lng" : 82.06598269999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ_Rc1aeMnmDkR41ZqM6Ib11k",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

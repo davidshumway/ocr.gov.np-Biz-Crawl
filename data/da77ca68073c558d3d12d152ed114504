@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sipalkavre",
+               "short_name" : "Sipalkavre",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sipalkavre, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.8684441,
+                  "lng" : 85.6900119
+               },
+               "southwest" : {
+                  "lat" : 27.8013488,
+                  "lng" : 85.63250529999999
+               }
+            },
+            "location" : {
+               "lat" : 27.84,
+               "lng" : 85.66
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.8684441,
+                  "lng" : 85.6900119
+               },
+               "southwest" : {
+                  "lat" : 27.8013488,
+                  "lng" : 85.63250529999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ57OXNT6r6zkRO0QLX7LtbZI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

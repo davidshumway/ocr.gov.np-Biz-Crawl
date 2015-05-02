@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tansen",
+               "short_name" : "Tansen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lumbini",
+               "short_name" : "Lumbini",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32500",
+               "short_name" : "32500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tansen 32500, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.879256,
+                  "lng" : 83.5779227
+               },
+               "southwest" : {
+                  "lat" : 27.8302717,
+                  "lng" : 83.50424769999999
+               }
+            },
+            "location" : {
+               "lat" : 27.866667,
+               "lng" : 83.55
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.879256,
+                  "lng" : 83.5779227
+               },
+               "southwest" : {
+                  "lat" : 27.8302717,
+                  "lng" : 83.50424769999999
+               }
+            }
+         },
+         "place_id" : "ChIJHSu4QHB_ljkRiERcgLkrFLc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

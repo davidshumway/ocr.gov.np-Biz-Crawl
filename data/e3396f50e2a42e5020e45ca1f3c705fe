@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rakam",
+               "short_name" : "Rakam",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rakam, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.54864,
+                  "lng" : 82.0271444
+               },
+               "southwest" : {
+                  "lat" : 28.4772169,
+                  "lng" : 81.9848298
+               }
+            },
+            "location" : {
+               "lat" : 28.52,
+               "lng" : 82.00999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.54864,
+                  "lng" : 82.0271444
+               },
+               "southwest" : {
+                  "lat" : 28.4772169,
+                  "lng" : 81.9848298
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJJ5oBcGamojkRe-a0dJWW4G8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Makwanpur",
+               "short_name" : "Makwanpur",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Makwanpur, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7658869,
+                  "lng" : 85.5062485
+               },
+               "southwest" : {
+                  "lat" : 27.1673061,
+                  "lng" : 84.6606444
+               }
+            },
+            "location" : {
+               "lat" : 27.5546357,
+               "lng" : 85.02334599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7658869,
+                  "lng" : 85.5062485
+               },
+               "southwest" : {
+                  "lat" : 27.1673061,
+                  "lng" : 84.6606444
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJhzbu3PLLlDkRxiYuqXdKf70",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

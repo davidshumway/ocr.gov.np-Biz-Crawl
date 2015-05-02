@@ -1,0 +1,56 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mugu",
+               "short_name" : "Mugu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karnali",
+               "short_name" : "Karnali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21100",
+               "short_name" : "21100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mugu 21100, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.866667,
+               "lng" : 82.61666699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.8680159802915,
+                  "lng" : 82.61801598029149
+               },
+               "southwest" : {
+                  "lat" : 29.8653180197085,
+                  "lng" : 82.61531801970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJwZ4UEM6evDkRef0l1psNCL4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

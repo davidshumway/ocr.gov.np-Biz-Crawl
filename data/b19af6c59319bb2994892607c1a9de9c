@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ward Police Station 4",
+               "short_name" : "Ward Police Station 4",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Hetauda",
+               "short_name" : "Hetauda",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44107",
+               "short_name" : "44107",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ward Police Station 4, Hetauda 44107, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.4246022,
+               "lng" : 85.03220019999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.4259511802915,
+                  "lng" : 85.0335491802915
+               },
+               "southwest" : {
+                  "lat" : 27.4232532197085,
+                  "lng" : 85.0308512197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJCTzIFIVJ6zkR9zkNvuiefnQ",
+         "types" : [ "police", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

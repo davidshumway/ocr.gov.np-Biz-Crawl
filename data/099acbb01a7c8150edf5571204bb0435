@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kerbani",
+               "short_name" : "Kerbani",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Sunwal",
+               "short_name" : "Sunwal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lumbini",
+               "short_name" : "Lumbini",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32900",
+               "short_name" : "32900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kerbani, Sunwal 32900, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.616667,
+               "lng" : 83.583333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6180159802915,
+                  "lng" : 83.58468198029151
+               },
+               "southwest" : {
+                  "lat" : 27.6153180197085,
+                  "lng" : 83.5819840197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJHSn2u5mCljkRqCnx5-vzpe0",
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

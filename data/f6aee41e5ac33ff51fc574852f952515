@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kalleri",
+               "short_name" : "Kalleri",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45100",
+               "short_name" : "45100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kalleri 45100, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.8521675,
+                  "lng" : 85.02194879999999
+               },
+               "southwest" : {
+                  "lat" : 27.8017664,
+                  "lng" : 84.9071503
+               }
+            },
+            "location" : {
+               "lat" : 27.833333,
+               "lng" : 84.93333299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.8521675,
+                  "lng" : 85.02194879999999
+               },
+               "southwest" : {
+                  "lat" : 27.8017664,
+                  "lng" : 84.9071503
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJOXRHF5wq6zkREEoPiSNNWFM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

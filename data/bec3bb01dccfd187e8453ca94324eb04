@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hikila",
+               "short_name" : "Hikila",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mahakali",
+               "short_name" : "Mahakali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10100",
+               "short_name" : "10100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hikila 10100, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.910231,
+                  "lng" : 80.61454309999999
+               },
+               "southwest" : {
+                  "lat" : 29.8996006,
+                  "lng" : 80.6040608
+               }
+            },
+            "location" : {
+               "lat" : 29.9037384,
+               "lng" : 80.6084072
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.910231,
+                  "lng" : 80.61454309999999
+               },
+               "southwest" : {
+                  "lat" : 29.8996006,
+                  "lng" : 80.6040608
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJkUxqNT2ypjkRtiL2FnDo6ok",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

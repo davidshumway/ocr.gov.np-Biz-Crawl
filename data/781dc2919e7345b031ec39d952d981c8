@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kushmishera",
+               "short_name" : "Kushmishera",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dhawalagiri",
+               "short_name" : "Dhawalagiri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33300",
+               "short_name" : "33300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kushmishera 33300, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.2171384,
+                  "lng" : 83.6472845
+               },
+               "southwest" : {
+                  "lat" : 28.1762145,
+                  "lng" : 83.58501439999999
+               }
+            },
+            "location" : {
+               "lat" : 28.2,
+               "lng" : 83.61999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.2171384,
+                  "lng" : 83.6472845
+               },
+               "southwest" : {
+                  "lat" : 28.1762145,
+                  "lng" : 83.58501439999999
+               }
+            }
+         },
+         "place_id" : "ChIJFSyru0vglTkRv5oBCXekNyE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

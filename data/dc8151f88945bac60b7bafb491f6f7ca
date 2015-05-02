@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pakhapani",
+               "short_name" : "Pakhapani",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rapti",
+               "short_name" : "Rapti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pakhapani, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.5313732,
+                  "lng" : 82.4442387
+               },
+               "southwest" : {
+                  "lat" : 28.4340532,
+                  "lng" : 82.3712826
+               }
+            },
+            "location" : {
+               "lat" : 28.47,
+               "lng" : 82.42
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5313732,
+                  "lng" : 82.4442387
+               },
+               "southwest" : {
+                  "lat" : 28.4340532,
+                  "lng" : 82.3712826
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJL2qi-WtYvTkRniLRAzIw0-Y",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

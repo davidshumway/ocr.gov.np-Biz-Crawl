@@ -1,0 +1,65 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ramche",
+               "short_name" : "Ramche",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45000",
+               "short_name" : "45000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ramche 45000, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.0563781,
+                  "lng" : 85.24772639999999
+               },
+               "southwest" : {
+                  "lat" : 28.0232349,
+                  "lng" : 85.1933528
+               }
+            },
+            "location" : {
+               "lat" : 28.05,
+               "lng" : 85.22999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.0563781,
+                  "lng" : 85.24772639999999
+               },
+               "southwest" : {
+                  "lat" : 28.0232349,
+                  "lng" : 85.1933528
+               }
+            }
+         },
+         "place_id" : "ChIJFUm4wDXD6jkR-gdagp_eGjQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

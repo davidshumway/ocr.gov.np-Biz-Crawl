@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dhital",
+               "short_name" : "Dhital",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gandaki",
+               "short_name" : "Gandaki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33700",
+               "short_name" : "33700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dhital 33700, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.3234224,
+                  "lng" : 83.9185954
+               },
+               "southwest" : {
+                  "lat" : 28.2889634,
+                  "lng" : 83.86756889999999
+               }
+            },
+            "location" : {
+               "lat" : 28.31,
+               "lng" : 83.89
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.3234224,
+                  "lng" : 83.9185954
+               },
+               "southwest" : {
+                  "lat" : 28.2889634,
+                  "lng" : 83.86756889999999
+               }
+            }
+         },
+         "place_id" : "ChIJpzrspwHtlTkRd3NkP2CVRl4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

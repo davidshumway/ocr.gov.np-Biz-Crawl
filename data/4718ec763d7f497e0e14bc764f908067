@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mangalpur",
+               "short_name" : "Mangalpur",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mangalpur, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7025278,
+                  "lng" : 84.3808365
+               },
+               "southwest" : {
+                  "lat" : 27.6360144,
+                  "lng" : 84.31766499999999
+               }
+            },
+            "location" : {
+               "lat" : 27.67,
+               "lng" : 84.34999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7025278,
+                  "lng" : 84.3808365
+               },
+               "southwest" : {
+                  "lat" : 27.6360144,
+                  "lng" : 84.31766499999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJZ9irRX75lDkRRu1ptXosSaA",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

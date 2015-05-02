@@ -1,0 +1,56 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Koteli",
+               "short_name" : "Koteli",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mahakali",
+               "short_name" : "Mahakali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10300",
+               "short_name" : "10300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Koteli 10300, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.35,
+               "lng" : 80.64999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.3513489802915,
+                  "lng" : 80.6513489802915
+               },
+               "southwest" : {
+                  "lat" : 29.3486510197085,
+                  "lng" : 80.6486510197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJg9VX--tloTkRSUbP-TIqEx0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

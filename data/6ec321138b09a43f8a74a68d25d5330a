@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mahankal",
+               "short_name" : "Mahankal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mahankal, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.89,
+               "lng" : 85.50999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.8913489802915,
+                  "lng" : 85.51134898029149
+               },
+               "southwest" : {
+                  "lat" : 27.8886510197085,
+                  "lng" : 85.50865101970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ-WZoK9D96jkRiTg6XyJQkVE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

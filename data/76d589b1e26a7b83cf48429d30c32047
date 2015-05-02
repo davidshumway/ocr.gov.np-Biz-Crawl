@@ -1,0 +1,60 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lubhu",
+               "short_name" : "Lubhu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lubhu, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6547942,
+                  "lng" : 85.38923989999999
+               },
+               "southwest" : {
+                  "lat" : 27.6206725,
+                  "lng" : 85.3604435
+               }
+            },
+            "location" : {
+               "lat" : 27.6397038,
+               "lng" : 85.3678783
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6547942,
+                  "lng" : 85.38923989999999
+               },
+               "southwest" : {
+                  "lat" : 27.6206725,
+                  "lng" : 85.3604435
+               }
+            }
+         },
+         "place_id" : "ChIJ_9e1JbwQ6zkREgCRgirQRFM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

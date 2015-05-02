@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Khadadevi",
+               "short_name" : "Khadadevi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45400",
+               "short_name" : "45400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Khadadevi 45400, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.5026378,
+                  "lng" : 85.9684039
+               },
+               "southwest" : {
+                  "lat" : 27.4625856,
+                  "lng" : 85.9023141
+               }
+            },
+            "location" : {
+               "lat" : 27.478886,
+               "lng" : 85.9406745
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.5026378,
+                  "lng" : 85.9684039
+               },
+               "southwest" : {
+                  "lat" : 27.4625856,
+                  "lng" : 85.9023141
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJIfTwJqzq6zkRx8Z6onj0INY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

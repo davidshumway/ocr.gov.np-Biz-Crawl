@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Darkha",
+               "short_name" : "Darkha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45100",
+               "short_name" : "45100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Darkha 45100, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.07,
+               "lng" : 85.00999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.0713489802915,
+                  "lng" : 85.0113489802915
+               },
+               "southwest" : {
+                  "lat" : 28.0686510197085,
+                  "lng" : 85.00865101970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJn5EjIjPM6jkRbg0Df-evyhE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

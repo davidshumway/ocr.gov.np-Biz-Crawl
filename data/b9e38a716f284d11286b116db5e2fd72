@@ -1,0 +1,56 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gatlang",
+               "short_name" : "Gatlang",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45000",
+               "short_name" : "45000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gatlang 45000, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.3,
+               "lng" : 85.19
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.3013489802915,
+                  "lng" : 85.19134898029149
+               },
+               "southwest" : {
+                  "lat" : 28.2986510197085,
+                  "lng" : 85.18865101970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJuVtC16y-6jkRnDCIDz1F4Oc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

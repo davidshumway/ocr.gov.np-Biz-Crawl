@@ -1,0 +1,65 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kapan",
+               "short_name" : "Kapan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44600",
+               "short_name" : "44600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kapan 44600, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7538295,
+                  "lng" : 85.38198709999999
+               },
+               "southwest" : {
+                  "lat" : 27.722094,
+                  "lng" : 85.3455305
+               }
+            },
+            "location" : {
+               "lat" : 27.74,
+               "lng" : 85.36999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7538295,
+                  "lng" : 85.38198709999999
+               },
+               "southwest" : {
+                  "lat" : 27.722094,
+                  "lng" : 85.3455305
+               }
+            }
+         },
+         "place_id" : "ChIJhwmgvuUb6zkRl05VQqkCz3A",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,66 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gotikhel",
+               "short_name" : "Gotikhel",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44700",
+               "short_name" : "44700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gotikhel 44700, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.5217451,
+                  "lng" : 85.4222202
+               },
+               "southwest" : {
+                  "lat" : 27.4719528,
+                  "lng" : 85.37741659999999
+               }
+            },
+            "location" : {
+               "lat" : 27.5,
+               "lng" : 85.39999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.5217451,
+                  "lng" : 85.4222202
+               },
+               "southwest" : {
+                  "lat" : 27.4719528,
+                  "lng" : 85.37741659999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ4Y8JJN4S6zkR8YIhf29_GuM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

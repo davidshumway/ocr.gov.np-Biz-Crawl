@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Phutung",
+               "short_name" : "Phutung",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44600",
+               "short_name" : "44600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Phutung 44600, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7775726,
+                  "lng" : 85.318923
+               },
+               "southwest" : {
+                  "lat" : 27.7589659,
+                  "lng" : 85.30505049999999
+               }
+            },
+            "location" : {
+               "lat" : 27.77,
+               "lng" : 85.31
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7775726,
+                  "lng" : 85.318923
+               },
+               "southwest" : {
+                  "lat" : 27.7589659,
+                  "lng" : 85.30505049999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJB44dcykf6zkRr9QYpjfYe0A",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

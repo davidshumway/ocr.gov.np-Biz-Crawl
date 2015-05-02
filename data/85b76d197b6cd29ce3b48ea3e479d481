@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Huti",
+               "short_name" : "Huti",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mahakali",
+               "short_name" : "Mahakali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10100",
+               "short_name" : "10100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Huti 10100, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.933143,
+                  "lng" : 80.6057024
+               },
+               "southwest" : {
+                  "lat" : 29.9005959,
+                  "lng" : 80.5699109
+               }
+            },
+            "location" : {
+               "lat" : 29.91999999999999,
+               "lng" : 80.59
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.933143,
+                  "lng" : 80.6057024
+               },
+               "southwest" : {
+                  "lat" : 29.9005959,
+                  "lng" : 80.5699109
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJN1-fKH6xpjkRmFKZLnEzvDE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

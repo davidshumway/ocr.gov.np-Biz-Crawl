@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lisankhu",
+               "short_name" : "Lisankhu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lisankhu, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6929143,
+                  "lng" : 85.88454729999999
+               },
+               "southwest" : {
+                  "lat" : 27.6123258,
+                  "lng" : 85.81259970000001
+               }
+            },
+            "location" : {
+               "lat" : 27.66,
+               "lng" : 85.84999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6929143,
+                  "lng" : 85.88454729999999
+               },
+               "southwest" : {
+                  "lat" : 27.6123258,
+                  "lng" : 85.81259970000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJewex4h-66zkR1nF2Qnp147I",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

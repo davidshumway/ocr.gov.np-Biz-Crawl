@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pamka",
+               "short_name" : "Pamka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21700",
+               "short_name" : "21700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Pamka 21700, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.5702007,
+                  "lng" : 81.87226290000001
+               },
+               "southwest" : {
+                  "lat" : 28.5325797,
+                  "lng" : 81.7981911
+               }
+            },
+            "location" : {
+               "lat" : 28.5494121,
+               "lng" : 81.82790109999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5702007,
+                  "lng" : 81.87226290000001
+               },
+               "southwest" : {
+                  "lat" : 28.5325797,
+                  "lng" : 81.7981911
+               }
+            }
+         },
+         "place_id" : "ChIJj-01Fu-YojkRECurdaUNQVQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

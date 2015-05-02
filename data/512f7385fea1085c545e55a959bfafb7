@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Siudi",
+               "short_name" : "Siudi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seti",
+               "short_name" : "Seti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10700",
+               "short_name" : "10700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Siudi 10700, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.15,
+               "lng" : 81.11
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.1513489802915,
+                  "lng" : 81.11134898029151
+               },
+               "southwest" : {
+                  "lat" : 29.1486510197085,
+                  "lng" : 81.1086510197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJe85ZlRnLozkRoQBaY7N4CiU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

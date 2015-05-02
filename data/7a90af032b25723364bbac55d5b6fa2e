@@ -1,0 +1,591 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bagmati Road",
+               "short_name" : "Bagmati Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pashupatinath",
+               "short_name" : "Pashupatinath",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kathmandu",
+               "short_name" : "Kathmandu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44600",
+               "short_name" : "44600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bagmati Road, Kathmandu 44600, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7098967,
+                  "lng" : 85.3546073
+               },
+               "southwest" : {
+                  "lat" : 27.7064612,
+                  "lng" : 85.35096679999999
+               }
+            },
+            "location" : {
+               "lat" : 27.7080275,
+               "lng" : 85.35409
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7098967,
+                  "lng" : 85.3546073
+               },
+               "southwest" : {
+                  "lat" : 27.7064612,
+                  "lng" : 85.35096679999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ39mJl38Z6zkRU_f6-sDVa48",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Khadka Bhadrakali Road",
+               "short_name" : "Khadka Bhadrakali Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bansbari",
+               "short_name" : "Bansbari",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kathmandu",
+               "short_name" : "Kathmandu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44600",
+               "short_name" : "44600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Khadka Bhadrakali Road, Kathmandu 44600, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.751144,
+                  "lng" : 85.34575719999999
+               },
+               "southwest" : {
+                  "lat" : 27.7489885,
+                  "lng" : 85.3454153
+               }
+            },
+            "location" : {
+               "lat" : 27.7500991,
+               "lng" : 85.3454153
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7514152302915,
+                  "lng" : 85.34693523029151
+               },
+               "southwest" : {
+                  "lat" : 27.7487172697085,
+                  "lng" : 85.3442372697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJH_MTK1MZ6zkRfyRLoIqo6Zs",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Khadka Bhadrakali Marg",
+               "short_name" : "Khadka Bhadrakali Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mahankal",
+               "short_name" : "Mahankal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44600",
+               "short_name" : "44600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Khadka Bhadrakali Marg, Mahankal 44600, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7626987,
+                  "lng" : 85.36621029999999
+               },
+               "southwest" : {
+                  "lat" : 27.7612396,
+                  "lng" : 85.36078739999999
+               }
+            },
+            "location" : {
+               "lat" : 27.7616169,
+               "lng" : 85.3638029
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7633181302915,
+                  "lng" : 85.36621029999999
+               },
+               "southwest" : {
+                  "lat" : 27.7606201697085,
+                  "lng" : 85.36078739999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ51uxpQUc6zkR_6ruBKUfOf8",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Khadka Bhadrakali",
+               "short_name" : "Khadka Bhadrakali",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44600",
+               "short_name" : "44600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Khadka Bhadrakali 44600, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7674818,
+                  "lng" : 85.3539205
+               },
+               "southwest" : {
+                  "lat" : 27.7486644,
+                  "lng" : 85.33527380000001
+               }
+            },
+            "location" : {
+               "lat" : 27.76,
+               "lng" : 85.34
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7674818,
+                  "lng" : 85.3539205
+               },
+               "southwest" : {
+                  "lat" : 27.7486644,
+                  "lng" : 85.33527380000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ3XQYCLIe6zkRwxY8p4xmvkE",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bagmati Marg",
+               "short_name" : "Bagmati Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kathmandu",
+               "short_name" : "Kathmandu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44600",
+               "short_name" : "44600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bagmati Marg, Kathmandu 44600, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6938142,
+                  "lng" : 85.31136119999999
+               },
+               "southwest" : {
+                  "lat" : 27.6927,
+                  "lng" : 85.3054195
+               }
+            },
+            "location" : {
+               "lat" : 27.6936224,
+               "lng" : 85.3082596
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6946060802915,
+                  "lng" : 85.31136119999999
+               },
+               "southwest" : {
+                  "lat" : 27.6919081197085,
+                  "lng" : 85.3054195
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJcbnj_00Y6zkRkgZ84n7_zwo",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bagmati Marg",
+               "short_name" : "Bagmati Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tripureshwor",
+               "short_name" : "Tripureshwor",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kathmandu",
+               "short_name" : "Kathmandu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44600",
+               "short_name" : "44600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bagmati Marg, Kathmandu 44600, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6927,
+                  "lng" : 85.31219449999999
+               },
+               "southwest" : {
+                  "lat" : 27.6924818,
+                  "lng" : 85.31136119999999
+               }
+            },
+            "location" : {
+               "lat" : 27.6925909,
+               "lng" : 85.3117779
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6939398802915,
+                  "lng" : 85.31312683029151
+               },
+               "southwest" : {
+                  "lat" : 27.6912419197085,
+                  "lng" : 85.31042886970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJVd_YS00Y6zkRrSXFYn0vFOk",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bagmati Marg",
+               "short_name" : "Bagmati Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Teku",
+               "short_name" : "Teku",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kathmandu",
+               "short_name" : "Kathmandu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44600",
+               "short_name" : "44600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bagmati Marg, Kathmandu 44600, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6932637,
+                  "lng" : 85.3054195
+               },
+               "southwest" : {
+                  "lat" : 27.6927726,
+                  "lng" : 85.30294769999999
+               }
+            },
+            "location" : {
+               "lat" : 27.6931614,
+               "lng" : 85.3042035
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6943671302915,
+                  "lng" : 85.30553258029151
+               },
+               "southwest" : {
+                  "lat" : 27.6916691697085,
+                  "lng" : 85.30283461970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJzaWZUUUY6zkRmSgAO4LdzQU",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Khadka Gaun",
+               "short_name" : "Khadka Gaun",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Purano Naikap",
+               "short_name" : "Purano Naikap",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44600",
+               "short_name" : "44600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Khadka Gaun, Purano Naikap 44600, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6964863,
+                  "lng" : 85.2746344
+               },
+               "southwest" : {
+                  "lat" : 27.6936364,
+                  "lng" : 85.26742460000001
+               }
+            },
+            "location" : {
+               "lat" : 27.694593,
+               "lng" : 85.2706304
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6964863,
+                  "lng" : 85.2746344
+               },
+               "southwest" : {
+                  "lat" : 27.6936364,
+                  "lng" : 85.26742460000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJi8dm9YIi6zkRL5F7chGK2dM",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Khadka Niwas",
+               "short_name" : "Khadka Niwas",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Imadol",
+               "short_name" : "Imadol",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Khadka Niwas, Imadol, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.6621091,
+               "lng" : 85.3394929
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6634580802915,
+                  "lng" : 85.34084188029149
+               },
+               "southwest" : {
+                  "lat" : 27.6607601197085,
+                  "lng" : 85.33814391970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJO1ukKuIZ6zkRLEXmHOPiGyE",
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

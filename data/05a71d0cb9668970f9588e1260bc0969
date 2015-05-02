@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Khungri",
+               "short_name" : "Khungri",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rapti",
+               "short_name" : "Rapti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Khungri, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.2612977,
+                  "lng" : 82.70237449999999
+               },
+               "southwest" : {
+                  "lat" : 28.1856335,
+                  "lng" : 82.62933249999999
+               }
+            },
+            "location" : {
+               "lat" : 28.23,
+               "lng" : 82.67999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.2612977,
+                  "lng" : 82.70237449999999
+               },
+               "southwest" : {
+                  "lat" : 28.1856335,
+                  "lng" : 82.62933249999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJm1fPJmjElzkRMq66OyRr3Ro",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

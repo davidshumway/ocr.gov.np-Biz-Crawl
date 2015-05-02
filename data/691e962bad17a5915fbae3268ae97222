@@ -1,0 +1,71 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kitini Higher Secondary School",
+               "short_name" : "Kitini Higher Secondary School",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Godawari",
+               "short_name" : "Godawari",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44709",
+               "short_name" : "44709",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kitini Higher Secondary School, Godawari 44709, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6093643,
+                  "lng" : 85.3562003
+               },
+               "southwest" : {
+                  "lat" : 27.6090436,
+                  "lng" : 85.3555968
+               }
+            },
+            "location" : {
+               "lat" : 27.6092071,
+               "lng" : 85.3558529
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6105529302915,
+                  "lng" : 85.35724753029152
+               },
+               "southwest" : {
+                  "lat" : 27.6078549697085,
+                  "lng" : 85.35454956970851
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJf7JeOysR6zkR4FAOUBwcQhY",
+         "types" : [ "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

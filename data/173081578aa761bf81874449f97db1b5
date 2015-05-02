@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Phoksundo",
+               "short_name" : "Phoksundo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karnali",
+               "short_name" : "Karnali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21400",
+               "short_name" : "21400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Phoksundo 21400, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.3656452,
+                  "lng" : 83.1007575
+               },
+               "southwest" : {
+                  "lat" : 29.0423637,
+                  "lng" : 82.73786539999999
+               }
+            },
+            "location" : {
+               "lat" : 29.2,
+               "lng" : 82.89
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.3656452,
+                  "lng" : 83.1007575
+               },
+               "southwest" : {
+                  "lat" : 29.0423637,
+                  "lng" : 82.73786539999999
+               }
+            }
+         },
+         "place_id" : "ChIJzZbh252qvTkRb4po1c1A7Yo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

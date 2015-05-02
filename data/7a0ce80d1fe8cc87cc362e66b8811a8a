@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nirdosh",
+               "short_name" : "Nirdosh",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Jana Jyoti Road",
+               "short_name" : "Jana Jyoti Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pragatinagar",
+               "short_name" : "Pragatinagar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lumbini",
+               "short_name" : "Lumbini",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33000",
+               "short_name" : "33000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nirdosh, Jana Jyoti Road, Pragatinagar 33000, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.6700173,
+               "lng" : 84.1776538
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6713662802915,
+                  "lng" : 84.17900278029151
+               },
+               "southwest" : {
+                  "lat" : 27.6686683197085,
+                  "lng" : 84.17630481970851
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJbRayHS9RlDkRA5e18x2bVWE",
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

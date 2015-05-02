@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chandani Secondary School",
+               "short_name" : "Chandani Secondary School",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Melamchi-Helambu Road",
+               "short_name" : "Melamchi-Helambu Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jaisithok",
+               "short_name" : "Jaisithok",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45310",
+               "short_name" : "45310",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chandani Secondary School, Melamchi-Helambu Road, Jaisithok 45310, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6806375,
+                  "lng" : 85.6270713
+               },
+               "southwest" : {
+                  "lat" : 27.6801387,
+                  "lng" : 85.6263658
+               }
+            },
+            "location" : {
+               "lat" : 27.6803739,
+               "lng" : 85.62670439999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.68173708029151,
+                  "lng" : 85.62806753029152
+               },
+               "southwest" : {
+                  "lat" : 27.6790391197085,
+                  "lng" : 85.6253695697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJmRnBim2o6zkRv79F4QrMV_Y",
+         "types" : [ "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

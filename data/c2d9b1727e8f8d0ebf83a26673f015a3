@@ -1,0 +1,126 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nuwakot",
+               "short_name" : "Nuwakot",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bidur",
+               "short_name" : "Bidur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44900",
+               "short_name" : "44900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nuwakot, Bidur 44900, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.926512,
+                  "lng" : 85.17481339999999
+               },
+               "southwest" : {
+                  "lat" : 27.90922,
+                  "lng" : 85.1579474
+               }
+            },
+            "location" : {
+               "lat" : 27.9194201,
+               "lng" : 85.1660825
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.926512,
+                  "lng" : 85.17481339999999
+               },
+               "southwest" : {
+                  "lat" : 27.90922,
+                  "lng" : 85.1579474
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJwdD_xmvZ6jkRFrQTO2iZQ4w",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nuwakot",
+               "short_name" : "Nuwakot",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nuwakot, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.0968181,
+                  "lng" : 85.4207612
+               },
+               "southwest" : {
+                  "lat" : 27.7370227,
+                  "lng" : 84.9404526
+               }
+            },
+            "location" : {
+               "lat" : 27.8866393,
+               "lng" : 85.14793639999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.0968181,
+                  "lng" : 85.4207612
+               },
+               "southwest" : {
+                  "lat" : 27.7370227,
+                  "lng" : 84.9404526
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJxZZyHUrZ6jkR4Wbyk-_xK_U",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Huwas",
+               "short_name" : "Huwas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dhawalagiri",
+               "short_name" : "Dhawalagiri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33400",
+               "short_name" : "33400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Huwas 33400, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.05,
+               "lng" : 83.67
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.0513489802915,
+                  "lng" : 83.6713489802915
+               },
+               "southwest" : {
+                  "lat" : 28.0486510197085,
+                  "lng" : 83.66865101970849
+               }
+            }
+         },
+         "place_id" : "ChIJsYy18lDZlTkRRNo9v-xkGtU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

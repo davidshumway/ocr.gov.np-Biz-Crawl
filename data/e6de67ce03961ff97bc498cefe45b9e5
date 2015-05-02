@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Doramba",
+               "short_name" : "Doramba",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45400",
+               "short_name" : "45400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Doramba 45400, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.5571342,
+                  "lng" : 85.9707212
+               },
+               "southwest" : {
+                  "lat" : 27.4971562,
+                  "lng" : 85.905844
+               }
+            },
+            "location" : {
+               "lat" : 27.53,
+               "lng" : 85.94
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.5571342,
+                  "lng" : 85.9707212
+               },
+               "southwest" : {
+                  "lat" : 27.4971562,
+                  "lng" : 85.905844
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJw37IunTA6zkRhteDrzc_4C0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

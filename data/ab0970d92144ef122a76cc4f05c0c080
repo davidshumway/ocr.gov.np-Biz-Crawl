@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dadeldhura",
+               "short_name" : "Dadeldhura",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Mahakali",
+               "short_name" : "Mahakali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dadeldhura, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.4306274,
+                  "lng" : 80.7855605
+               },
+               "southwest" : {
+                  "lat" : 28.9961295,
+                  "lng" : 80.17307269999999
+               }
+            },
+            "location" : {
+               "lat" : 29.2188245,
+               "lng" : 80.49938569999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.4306274,
+                  "lng" : 80.7855605
+               },
+               "southwest" : {
+                  "lat" : 28.9961295,
+                  "lng" : 80.17307269999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJbwlLPvpyoTkRnbqvRURo5g0",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

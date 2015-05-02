@@ -1,0 +1,60 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Raniyapur",
+               "short_name" : "Raniyapur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Raniyapur, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.1915345,
+                  "lng" : 81.60674569999999
+               },
+               "southwest" : {
+                  "lat" : 28.1386048,
+                  "lng" : 81.55498969999999
+               }
+            },
+            "location" : {
+               "lat" : 28.17,
+               "lng" : 81.58
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.1915345,
+                  "lng" : 81.60674569999999
+               },
+               "southwest" : {
+                  "lat" : 28.1386048,
+                  "lng" : 81.55498969999999
+               }
+            }
+         },
+         "place_id" : "ChIJFWMskL1jmDkR3Sm2cQ4Kf3o",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

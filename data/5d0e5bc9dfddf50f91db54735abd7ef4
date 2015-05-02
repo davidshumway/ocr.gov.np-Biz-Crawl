@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gothatar",
+               "short_name" : "Gothatar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44600",
+               "short_name" : "44600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gothatar, 44600, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7183331,
+                  "lng" : 85.39144999999999
+               },
+               "southwest" : {
+                  "lat" : 27.6900264,
+                  "lng" : 85.36969169999999
+               }
+            },
+            "location" : {
+               "lat" : 27.7,
+               "lng" : 85.38
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7183331,
+                  "lng" : 85.39144999999999
+               },
+               "southwest" : {
+                  "lat" : 27.6900264,
+                  "lng" : 85.36969169999999
+               }
+            }
+         },
+         "place_id" : "ChIJ4d4wgUsa6zkR8iUwUg6qg3U",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

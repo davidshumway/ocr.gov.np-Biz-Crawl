@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sankhu",
+               "short_name" : "Sankhu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44700",
+               "short_name" : "44700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sankhu 44700, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.5302699,
+                  "lng" : 85.36312579999999
+               },
+               "southwest" : {
+                  "lat" : 27.4928165,
+                  "lng" : 85.3055763
+               }
+            },
+            "location" : {
+               "lat" : 27.5125077,
+               "lng" : 85.3291291
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.5302699,
+                  "lng" : 85.36312579999999
+               },
+               "southwest" : {
+                  "lat" : 27.4928165,
+                  "lng" : 85.3055763
+               }
+            }
+         },
+         "place_id" : "ChIJr8OktIwU6zkRjj9gdtRkBPo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

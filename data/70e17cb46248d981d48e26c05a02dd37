@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Janakitola",
+               "short_name" : "Janakitola",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44300",
+               "short_name" : "44300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Janakitola 44300, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.1524779,
+                  "lng" : 84.70300999999999
+               },
+               "southwest" : {
+                  "lat" : 27.1248889,
+                  "lng" : 84.6796774
+               }
+            },
+            "location" : {
+               "lat" : 27.133333,
+               "lng" : 84.683333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.1524779,
+                  "lng" : 84.70300999999999
+               },
+               "southwest" : {
+                  "lat" : 27.1248889,
+                  "lng" : 84.6796774
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJz76hps-mlDkRSEQeuMrYFTw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bhelhi",
+               "short_name" : "Bhelhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bhelhi, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.8819329,
+                  "lng" : 85.6049699
+               },
+               "southwest" : {
+                  "lat" : 26.8630437,
+                  "lng" : 85.5752658
+               }
+            },
+            "location" : {
+               "lat" : 26.8725151,
+               "lng" : 85.589507
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8819329,
+                  "lng" : 85.6049699
+               },
+               "southwest" : {
+                  "lat" : 26.8630437,
+                  "lng" : 85.5752658
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJkXK5EDSI7DkReXGNGM09mSM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

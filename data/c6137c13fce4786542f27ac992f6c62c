@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lamidada",
+               "short_name" : "Lamidada",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45500",
+               "short_name" : "45500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lamidada 45500, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.73,
+               "lng" : 86.14
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7313489802915,
+                  "lng" : 86.1413489802915
+               },
+               "southwest" : {
+                  "lat" : 27.7286510197085,
+                  "lng" : 86.13865101970849
+               }
+            }
+         },
+         "place_id" : "ChIJvfcZ-_3Q6zkRGYuZrxjJH3E",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

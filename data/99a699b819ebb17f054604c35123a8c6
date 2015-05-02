@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sauraha Pharsatikar",
+               "short_name" : "Sauraha Pharsatikar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lumbini",
+               "short_name" : "Lumbini",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sauraha Pharsatikar, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6432379,
+                  "lng" : 83.43214990000001
+               },
+               "southwest" : {
+                  "lat" : 27.6036172,
+                  "lng" : 83.37528709999999
+               }
+            },
+            "location" : {
+               "lat" : 27.6304883,
+               "lng" : 83.4029738
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6432379,
+                  "lng" : 83.43214990000001
+               },
+               "southwest" : {
+                  "lat" : 27.6036172,
+                  "lng" : 83.37528709999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJIwU5kXWPljkRWco6dAZXb5A",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

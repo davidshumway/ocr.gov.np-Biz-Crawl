@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kumpur",
+               "short_name" : "Kumpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kumpur, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.8681029,
+                  "lng" : 84.94362820000001
+               },
+               "southwest" : {
+                  "lat" : 27.7977803,
+                  "lng" : 84.8347091
+               }
+            },
+            "location" : {
+               "lat" : 27.83,
+               "lng" : 84.86999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.8681029,
+                  "lng" : 84.94362820000001
+               },
+               "southwest" : {
+                  "lat" : 27.7977803,
+                  "lng" : 84.8347091
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ1eGnBfQqlTkRXhQSXFZk_Wo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

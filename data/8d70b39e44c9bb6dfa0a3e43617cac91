@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gamhariya",
+               "short_name" : "Gamhariya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45800",
+               "short_name" : "45800",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gamhariya 45800, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.8963486,
+                  "lng" : 85.5777494
+               },
+               "southwest" : {
+                  "lat" : 26.8690088,
+                  "lng" : 85.5389807
+               }
+            },
+            "location" : {
+               "lat" : 26.883333,
+               "lng" : 85.575
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8963486,
+                  "lng" : 85.5777494
+               },
+               "southwest" : {
+                  "lat" : 26.8690088,
+                  "lng" : 85.5389807
+               }
+            }
+         },
+         "place_id" : "ChIJJdZxPveI7DkRQKd38yl7r1E",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

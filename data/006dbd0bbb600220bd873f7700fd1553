@@ -1,0 +1,55 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Amarpur",
+               "short_name" : "Amarpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lumbini",
+               "short_name" : "Lumbini",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32600",
+               "short_name" : "32600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Amarpur 32600, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.15,
+               "lng" : 83.17
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.1513489802915,
+                  "lng" : 83.17134898029151
+               },
+               "southwest" : {
+                  "lat" : 28.1486510197085,
+                  "lng" : 83.16865101970851
+               }
+            }
+         },
+         "place_id" : "ChIJzdefK0o_ljkRWGC6mnY0vnk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

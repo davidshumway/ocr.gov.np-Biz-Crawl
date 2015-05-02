@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kubinde",
+               "short_name" : "Kubinde",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Chautara",
+               "short_name" : "Chautara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kubinde, Chautara, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7781328,
+                  "lng" : 85.7638908
+               },
+               "southwest" : {
+                  "lat" : 27.7682032,
+                  "lng" : 85.752883
+               }
+            },
+            "location" : {
+               "lat" : 27.7736066,
+               "lng" : 85.75769249999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7781328,
+                  "lng" : 85.7638908
+               },
+               "southwest" : {
+                  "lat" : 27.7682032,
+                  "lng" : 85.752883
+               }
+            }
+         },
+         "place_id" : "ChIJxXHCcfut6zkRDKAfr4uLDUY",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

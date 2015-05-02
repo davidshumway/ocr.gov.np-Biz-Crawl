@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bharatpur",
+               "short_name" : "Bharatpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bharatpur, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7590441,
+                  "lng" : 84.49757009999999
+               },
+               "southwest" : {
+                  "lat" : 27.5570995,
+                  "lng" : 84.3140173
+               }
+            },
+            "location" : {
+               "lat" : 27.683333,
+               "lng" : 84.43333299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7590441,
+                  "lng" : 84.49757009999999
+               },
+               "southwest" : {
+                  "lat" : 27.5570995,
+                  "lng" : 84.3140173
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJMdV44Df7lDkR9wKnLpIiP5c",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

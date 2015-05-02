@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dhading",
+               "short_name" : "Dhading",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Sunaula Bazar",
+               "short_name" : "Sunaula Bazar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45100",
+               "short_name" : "45100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dhading, Sunaula Bazar 45100, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.86397,
+               "lng" : 84.914497
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.8653189802915,
+                  "lng" : 84.91584598029149
+               },
+               "southwest" : {
+                  "lat" : 27.8626210197085,
+                  "lng" : 84.91314801970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJCwG31ugqlTkRZEaqCDUdN98",
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

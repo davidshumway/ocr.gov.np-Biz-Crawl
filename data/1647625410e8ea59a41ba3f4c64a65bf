@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kalika",
+               "short_name" : "Kalika",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kalika, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7178391,
+                  "lng" : 85.7986736
+               },
+               "southwest" : {
+                  "lat" : 27.6747491,
+                  "lng" : 85.73018069999999
+               }
+            },
+            "location" : {
+               "lat" : 27.7,
+               "lng" : 85.77
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7178391,
+                  "lng" : 85.7986736
+               },
+               "southwest" : {
+                  "lat" : 27.6747491,
+                  "lng" : 85.73018069999999
+               }
+            }
+         },
+         "place_id" : "ChIJ0XwPXzuw6zkR8aQQoTHceH0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

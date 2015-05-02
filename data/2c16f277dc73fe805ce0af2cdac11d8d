@@ -1,0 +1,66 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tribhuvan Campus Belatari, Nawalparasi",
+               "short_name" : "Tribhuvan Campus Belatari, Nawalparasi",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Triveni Road",
+               "short_name" : "Triveni Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pratappur",
+               "short_name" : "Pratappur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lumbini",
+               "short_name" : "Lumbini",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33007",
+               "short_name" : "33007",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tribhuvan Campus Belatari, Nawalparasi, Triveni Road, Pratappur 33007, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.4571069,
+               "lng" : 83.826094
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.4584558802915,
+                  "lng" : 83.82744298029151
+               },
+               "southwest" : {
+                  "lat" : 27.4557579197085,
+                  "lng" : 83.8247450197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJb40fgMo9lDkReINVIEQiT9g",
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

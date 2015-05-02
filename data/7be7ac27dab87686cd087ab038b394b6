@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Narethanti",
+               "short_name" : "Narethanti",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dhawalagiri",
+               "short_name" : "Dhawalagiri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33300",
+               "short_name" : "33300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Narethanti 33300, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.2492011,
+                  "lng" : 83.4792709
+               },
+               "southwest" : {
+                  "lat" : 28.2142645,
+                  "lng" : 83.4377289
+               }
+            },
+            "location" : {
+               "lat" : 28.24,
+               "lng" : 83.45999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.2492011,
+                  "lng" : 83.4792709
+               },
+               "southwest" : {
+                  "lat" : 28.2142645,
+                  "lng" : 83.4377289
+               }
+            }
+         },
+         "place_id" : "ChIJwaEGpdYNljkRTy68YpHLCWw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

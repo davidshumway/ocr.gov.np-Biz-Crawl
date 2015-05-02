@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tilicho Peak",
+               "short_name" : "Tilicho Peak",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Annapurna Conservation Area",
+               "short_name" : "Annapurna Conservation Area",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Narchyang",
+               "short_name" : "Narchyang",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dhawalagiri",
+               "short_name" : "Dhawalagiri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33200",
+               "short_name" : "33200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tilicho Peak, Annapurna Conservation Area, Narchyang 33200, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.684444,
+               "lng" : 83.80444399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6857929802915,
+                  "lng" : 83.8057929802915
+               },
+               "southwest" : {
+                  "lat" : 28.6830950197085,
+                  "lng" : 83.80309501970849
+               }
+            }
+         },
+         "place_id" : "ChIJYTHg5vcavjkRCeEVQw0OpjU",
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bardibas",
+               "short_name" : "Bardibas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bardibas, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.1460147,
+                  "lng" : 85.9453516
+               },
+               "southwest" : {
+                  "lat" : 26.9014437,
+                  "lng" : 85.7952269
+               }
+            },
+            "location" : {
+               "lat" : 26.98,
+               "lng" : 85.89999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.1460147,
+                  "lng" : 85.9453516
+               },
+               "southwest" : {
+                  "lat" : 26.9014437,
+                  "lng" : 85.7952269
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJt0fPWwhz7DkRM1ACSL56_4U",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

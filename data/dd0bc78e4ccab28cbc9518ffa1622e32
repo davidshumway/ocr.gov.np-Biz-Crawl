@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sadepani",
+               "short_name" : "Sadepani",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seti",
+               "short_name" : "Seti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10900",
+               "short_name" : "10900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sadepani 10900, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.7,
+               "lng" : 81
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.7013489802915,
+                  "lng" : 81.00134898029151
+               },
+               "southwest" : {
+                  "lat" : 28.6986510197085,
+                  "lng" : 80.99865101970849
+               }
+            }
+         },
+         "place_id" : "ChIJq-hMZJ0XojkRToNn7lnqtWQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

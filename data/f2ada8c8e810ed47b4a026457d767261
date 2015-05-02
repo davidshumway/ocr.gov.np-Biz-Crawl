@@ -1,0 +1,65 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thecho",
+               "short_name" : "Thecho",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44700",
+               "short_name" : "44700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Thecho 44700, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6262662,
+                  "lng" : 85.33239309999999
+               },
+               "southwest" : {
+                  "lat" : 27.6065128,
+                  "lng" : 85.3097544
+               }
+            },
+            "location" : {
+               "lat" : 27.62,
+               "lng" : 85.31999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6262662,
+                  "lng" : 85.33239309999999
+               },
+               "southwest" : {
+                  "lat" : 27.6065128,
+                  "lng" : 85.3097544
+               }
+            }
+         },
+         "place_id" : "ChIJlaBybQMX6zkRUZLsfJ5ZtUw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

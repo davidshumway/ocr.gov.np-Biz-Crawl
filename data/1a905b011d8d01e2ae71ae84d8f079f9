@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gwagha",
+               "short_name" : "Gwagha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lumbini",
+               "short_name" : "Lumbini",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gwagha, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.1191188,
+                  "lng" : 83.5110552
+               },
+               "southwest" : {
+                  "lat" : 28.078886,
+                  "lng" : 83.44958960000001
+               }
+            },
+            "location" : {
+               "lat" : 28.1,
+               "lng" : 83.47999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.1191188,
+                  "lng" : 83.5110552
+               },
+               "southwest" : {
+                  "lat" : 28.078886,
+                  "lng" : 83.44958960000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJuyCMBwpzljkR9vYd9Q7u7ng",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

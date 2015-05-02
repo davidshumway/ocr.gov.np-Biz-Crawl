@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bhorle",
+               "short_name" : "Bhorle",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bhorle, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.026758,
+                  "lng" : 85.2718878
+               },
+               "southwest" : {
+                  "lat" : 27.971852,
+                  "lng" : 85.2323627
+               }
+            },
+            "location" : {
+               "lat" : 28.0010885,
+               "lng" : 85.24637229999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.026758,
+                  "lng" : 85.2718878
+               },
+               "southwest" : {
+                  "lat" : 27.971852,
+                  "lng" : 85.2323627
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJW5xzz2zd6jkRr91jgSGWElY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

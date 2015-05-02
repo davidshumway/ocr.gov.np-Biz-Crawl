@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jagatradevi",
+               "short_name" : "Jagatradevi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gandaki",
+               "short_name" : "Gandaki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33800",
+               "short_name" : "33800",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jagatradevi 33800, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.9533545,
+                  "lng" : 83.68603709999999
+               },
+               "southwest" : {
+                  "lat" : 27.921431,
+                  "lng" : 83.61501229999999
+               }
+            },
+            "location" : {
+               "lat" : 27.94,
+               "lng" : 83.64999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.9533545,
+                  "lng" : 83.68603709999999
+               },
+               "southwest" : {
+                  "lat" : 27.921431,
+                  "lng" : 83.61501229999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ7T4VDBTXlTkR2PYvkE6LIxE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

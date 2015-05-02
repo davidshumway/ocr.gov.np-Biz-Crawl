@@ -1,0 +1,135 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jeetpur-Parsauna Road",
+               "short_name" : "Jeetpur-Parsauna Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manaharwa",
+               "short_name" : "Manaharwa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44400",
+               "short_name" : "44400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jeetpur-Parsauna Road, Manaharwa 44400, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.1140778,
+                  "lng" : 85.0498626
+               },
+               "southwest" : {
+                  "lat" : 27.1124519,
+                  "lng" : 85.04627379999999
+               }
+            },
+            "location" : {
+               "lat" : 27.1132792,
+               "lng" : 85.0482653
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.1146138302915,
+                  "lng" : 85.0498626
+               },
+               "southwest" : {
+                  "lat" : 27.1119158697085,
+                  "lng" : 85.04627379999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJtXToIUFW6zkRAcRhG943H8A",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jeetpur-Parsauna Road",
+               "short_name" : "Jeetpur-Parsauna Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dumarwana",
+               "short_name" : "Dumarwana",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44400",
+               "short_name" : "44400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jeetpur-Parsauna Road, Dumarwana 44400, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.1257851,
+                  "lng" : 84.9906233
+               },
+               "southwest" : {
+                  "lat" : 27.1253125,
+                  "lng" : 84.9869071
+               }
+            },
+            "location" : {
+               "lat" : 27.1255846,
+               "lng" : 84.9889429
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.1268977802915,
+                  "lng" : 84.9906233
+               },
+               "southwest" : {
+                  "lat" : 27.1241998197085,
+                  "lng" : 84.9869071
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJK8N9na5V6zkRmHMMs17gwcE",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

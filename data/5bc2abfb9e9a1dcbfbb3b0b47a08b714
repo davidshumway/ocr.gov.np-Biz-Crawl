@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mahuwa",
+               "short_name" : "Mahuwa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lumbini",
+               "short_name" : "Lumbini",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32800",
+               "short_name" : "32800",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mahuwa 32800, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.6,
+               "lng" : 82.98999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6013489802915,
+                  "lng" : 82.99134898029149
+               },
+               "southwest" : {
+                  "lat" : 27.59865101970849,
+                  "lng" : 82.98865101970848
+               }
+            }
+         },
+         "place_id" : "ChIJVfkutoP8ljkRXnefmkkvtzI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

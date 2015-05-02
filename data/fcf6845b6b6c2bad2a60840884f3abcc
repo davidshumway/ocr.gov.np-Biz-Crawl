@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chainpur",
+               "short_name" : "Chainpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seti",
+               "short_name" : "Seti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10500",
+               "short_name" : "10500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chainpur 10500, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.6370381,
+                  "lng" : 81.2303352
+               },
+               "southwest" : {
+                  "lat" : 29.5479052,
+                  "lng" : 81.1558342
+               }
+            },
+            "location" : {
+               "lat" : 29.55,
+               "lng" : 81.2
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.6370381,
+                  "lng" : 81.2303352
+               },
+               "southwest" : {
+                  "lat" : 29.5479052,
+                  "lng" : 81.1558342
+               }
+            }
+         },
+         "place_id" : "ChIJd06jm_uUozkRED7CgEWullw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

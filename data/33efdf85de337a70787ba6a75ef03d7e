@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pina",
+               "short_name" : "Pina",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karnali",
+               "short_name" : "Karnali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pina, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.5267907,
+                  "lng" : 82.2379875
+               },
+               "southwest" : {
+                  "lat" : 29.4043853,
+                  "lng" : 82.0759393
+               }
+            },
+            "location" : {
+               "lat" : 29.45,
+               "lng" : 82.14999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.5267907,
+                  "lng" : 82.2379875
+               },
+               "southwest" : {
+                  "lat" : 29.4043853,
+                  "lng" : 82.0759393
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJDR2hMXY0ozkRDFAGrGZrqvw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

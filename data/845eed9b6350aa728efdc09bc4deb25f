@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bardia National Park",
+               "short_name" : "Bardia National Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bardia National Park, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6556955,
+                  "lng" : 81.6781998
+               },
+               "southwest" : {
+                  "lat" : 28.2534352,
+                  "lng" : 81.21285229999999
+               }
+            },
+            "location" : {
+               "lat" : 28.3648644,
+               "lng" : 81.5596427
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6556955,
+                  "lng" : 81.6781998
+               },
+               "southwest" : {
+                  "lat" : 28.2534352,
+                  "lng" : 81.21285229999999
+               }
+            }
+         },
+         "place_id" : "ChIJ42z-w95-ojkRBRp5vtD9t4I",
+         "types" : [ "natural_feature", "park", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

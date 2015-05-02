@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yamunadanda",
+               "short_name" : "Yamunadanda",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45314",
+               "short_name" : "45314",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Yamunadanda 45314, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7351425,
+                  "lng" : 85.8214402
+               },
+               "southwest" : {
+                  "lat" : 27.7087211,
+                  "lng" : 85.77101469999999
+               }
+            },
+            "location" : {
+               "lat" : 27.72,
+               "lng" : 85.78999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7351425,
+                  "lng" : 85.8214402
+               },
+               "southwest" : {
+                  "lat" : 27.7087211,
+                  "lng" : 85.77101469999999
+               }
+            }
+         },
+         "place_id" : "ChIJl9XaQ0yw6zkREmYimewUBLo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

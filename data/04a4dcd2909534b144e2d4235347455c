@@ -1,0 +1,110 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pragatinagar - Rampur Highway",
+               "short_name" : "Pragatinagar - Rampur Hwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lumbini",
+               "short_name" : "Lumbini",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pragatinagar - Rampur Highway, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.8671934,
+                  "lng" : 84.1970462
+               },
+               "southwest" : {
+                  "lat" : 27.670623,
+                  "lng" : 83.9693078
+               }
+            },
+            "location" : {
+               "lat" : 27.7748673,
+               "lng" : 84.11641089999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.8671934,
+                  "lng" : 84.1970462
+               },
+               "southwest" : {
+                  "lat" : 27.670623,
+                  "lng" : 83.9693078
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ-QHxA1lRlDkR4WvTm5_9VWs",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rampur Khadauna",
+               "short_name" : "Rampur Khadauna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lumbini",
+               "short_name" : "Lumbini",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33007",
+               "short_name" : "33007",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rampur Khadauna 33007, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.45,
+               "lng" : 83.716667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.4513489802915,
+                  "lng" : 83.7180159802915
+               },
+               "southwest" : {
+                  "lat" : 27.4486510197085,
+                  "lng" : 83.71531801970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJk1sWMFQilDkRf8lhF1FOKa8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Karauta",
+               "short_name" : "Karauta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lumbini",
+               "short_name" : "Lumbini",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32900",
+               "short_name" : "32900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Karauta 32900, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.36,
+               "lng" : 83.28999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.3613489802915,
+                  "lng" : 83.2913489802915
+               },
+               "southwest" : {
+                  "lat" : 27.3586510197085,
+                  "lng" : 83.2886510197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJS6WUb7S_ljkRVERKqRfDCLQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

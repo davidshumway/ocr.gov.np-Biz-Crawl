@@ -1,0 +1,76 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Baglung Bhagwati Temple",
+               "short_name" : "Baglung Bhagwati Temple",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Bhagawati Path",
+               "short_name" : "Bhagawati Path",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Baglung Bazar",
+               "short_name" : "Baglung Bazar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Darling",
+               "short_name" : "Darling",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dhawalagiri",
+               "short_name" : "Dhawalagiri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33300",
+               "short_name" : "33300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Baglung Bhagwati Temple, Bhagawati Path, Darling 33300, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.2555142,
+               "lng" : 83.613553
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.2568631802915,
+                  "lng" : 83.61490198029149
+               },
+               "southwest" : {
+                  "lat" : 28.2541652197085,
+                  "lng" : 83.61220401970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ4ct3ABjilTkRARTaFqCdgqE",
+         "types" : [
+            "point_of_interest",
+            "hindu_temple",
+            "place_of_worship",
+            "establishment"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bilaspur",
+               "short_name" : "Bilaspur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bilaspur",
+               "short_name" : "Bilaspur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chhattisgarh",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bilaspur, Chhattisgarh, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.1111478,
+                  "lng" : 82.2141266
+               },
+               "southwest" : {
+                  "lat" : 22.0148537,
+                  "lng" : 82.06306459999999
+               }
+            },
+            "location" : {
+               "lat" : 22.0796251,
+               "lng" : 82.1391412
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.1111478,
+                  "lng" : 82.2141266
+               },
+               "southwest" : {
+                  "lat" : 22.0148537,
+                  "lng" : 82.06306459999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJp7aaexELKDoRr3ysnp3488Y",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

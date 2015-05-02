@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jitpur Phedi",
+               "short_name" : "Jitpur Phedi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jitpur Phedi, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.802146,
+                  "lng" : 85.29896749999999
+               },
+               "southwest" : {
+                  "lat" : 27.7633047,
+                  "lng" : 85.25218959999999
+               }
+            },
+            "location" : {
+               "lat" : 27.78,
+               "lng" : 85.28
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.802146,
+                  "lng" : 85.29896749999999
+               },
+               "southwest" : {
+                  "lat" : 27.7633047,
+                  "lng" : 85.25218959999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJg6a2p2Mf6zkR2ILBWSGYZYo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

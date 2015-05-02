@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bandipur",
+               "short_name" : "Bandipur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gandaki",
+               "short_name" : "Gandaki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bandipur, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.9699949,
+                  "lng" : 84.45808409999999
+               },
+               "southwest" : {
+                  "lat" : 27.8419603,
+                  "lng" : 84.3461609
+               }
+            },
+            "location" : {
+               "lat" : 27.933333,
+               "lng" : 84.41666699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.9699949,
+                  "lng" : 84.45808409999999
+               },
+               "southwest" : {
+                  "lat" : 27.8419603,
+                  "lng" : 84.3461609
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJHaaV2e8ElTkRIwZZHdEZI8w",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

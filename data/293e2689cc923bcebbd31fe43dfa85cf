@@ -1,0 +1,115 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bhaktapur",
+               "short_name" : "Bhaktapur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bhaktapur, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6911937,
+                  "lng" : 85.44888689999999
+               },
+               "southwest" : {
+                  "lat" : 27.6636022,
+                  "lng" : 85.40004640000001
+               }
+            },
+            "location" : {
+               "lat" : 27.672222,
+               "lng" : 85.427778
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6911937,
+                  "lng" : 85.44888689999999
+               },
+               "southwest" : {
+                  "lat" : 27.6636022,
+                  "lng" : 85.40004640000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJoWuAQq4a6zkRgl5OQHngSVQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Changunarayan",
+               "short_name" : "Changunarayan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Changunarayan, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7277293,
+                  "lng" : 85.47722039999999
+               },
+               "southwest" : {
+                  "lat" : 27.6769023,
+                  "lng" : 85.39619739999999
+               }
+            },
+            "location" : {
+               "lat" : 27.716667,
+               "lng" : 85.429722
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7277293,
+                  "lng" : 85.47722039999999
+               },
+               "southwest" : {
+                  "lat" : 27.6769023,
+                  "lng" : 85.39619739999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJlbK8HCwb6zkRb8JeDMqLumc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mahadevpuri",
+               "short_name" : "Mahadevpuri",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mahadevpuri, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.2760953,
+                  "lng" : 81.9043636
+               },
+               "southwest" : {
+                  "lat" : 28.0806893,
+                  "lng" : 81.7121887
+               }
+            },
+            "location" : {
+               "lat" : 28.18,
+               "lng" : 81.81
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.2760953,
+                  "lng" : 81.9043636
+               },
+               "southwest" : {
+                  "lat" : 28.0806893,
+                  "lng" : 81.7121887
+               }
+            }
+         },
+         "place_id" : "ChIJpxWcXURsmDkRstjTJ-_Fyjo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

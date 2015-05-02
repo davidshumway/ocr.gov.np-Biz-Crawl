@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Narayanpur",
+               "short_name" : "Narayanpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seti",
+               "short_name" : "Seti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10901",
+               "short_name" : "10901",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Narayanpur 10901, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.47,
+               "lng" : 81.08
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.47134898029151,
+                  "lng" : 81.08134898029149
+               },
+               "southwest" : {
+                  "lat" : 28.4686510197085,
+                  "lng" : 81.07865101970849
+               }
+            }
+         },
+         "place_id" : "ChIJ74nv2_4LojkRoJJhAtqw1Vw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

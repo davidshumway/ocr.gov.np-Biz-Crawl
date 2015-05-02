@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kalyanpur",
+               "short_name" : "Kalyanpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kalyanpur, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.4746181,
+                  "lng" : 84.3679619
+               },
+               "southwest" : {
+                  "lat" : 27.3758832,
+                  "lng" : 84.29775239999999
+               }
+            },
+            "location" : {
+               "lat" : 27.4467739,
+               "lng" : 84.34368809999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.4746181,
+                  "lng" : 84.3679619
+               },
+               "southwest" : {
+                  "lat" : 27.3758832,
+                  "lng" : 84.29775239999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJnQgu_JT0lDkRw4nSDnLVqIs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

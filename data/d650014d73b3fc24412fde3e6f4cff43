@@ -1,0 +1,70 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ichangu Narayan Temple",
+               "short_name" : "Ichangu Narayan Temple",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Ichangunarayan",
+               "short_name" : "Ichangunarayan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44600",
+               "short_name" : "44600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ichangu Narayan Temple, Ichangunarayan 44600, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7301587,
+                  "lng" : 85.26417640000001
+               },
+               "southwest" : {
+                  "lat" : 27.7297956,
+                  "lng" : 85.26374179999999
+               }
+            },
+            "location" : {
+               "lat" : 27.729976,
+               "lng" : 85.2639605
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7313261302915,
+                  "lng" : 85.2653080802915
+               },
+               "southwest" : {
+                  "lat" : 27.7286281697085,
+                  "lng" : 85.2626101197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJB6xaqA0i6zkRqLSDsQhzv4w",
+         "types" : [ "hindu_temple", "place_of_worship", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

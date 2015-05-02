@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lapsephedi",
+               "short_name" : "Lapsephedi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lapsephedi, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7842647,
+                  "lng" : 85.51792139999999
+               },
+               "southwest" : {
+                  "lat" : 27.7332622,
+                  "lng" : 85.4602431
+               }
+            },
+            "location" : {
+               "lat" : 27.766667,
+               "lng" : 85.5
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7842647,
+                  "lng" : 85.51792139999999
+               },
+               "southwest" : {
+                  "lat" : 27.7332622,
+                  "lng" : 85.4602431
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ_QV74ocD6zkReROAyOb3ul0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

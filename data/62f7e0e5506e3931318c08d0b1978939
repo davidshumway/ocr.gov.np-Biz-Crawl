@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gunjanagar",
+               "short_name" : "Gunjanagar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44200",
+               "short_name" : "44200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gunjanagar, 44200, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6653613,
+                  "lng" : 84.31594849999999
+               },
+               "southwest" : {
+                  "lat" : 27.5958587,
+                  "lng" : 84.26942819999999
+               }
+            },
+            "location" : {
+               "lat" : 27.65,
+               "lng" : 84.3
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6653613,
+                  "lng" : 84.31594849999999
+               },
+               "southwest" : {
+                  "lat" : 27.5958587,
+                  "lng" : 84.26942819999999
+               }
+            }
+         },
+         "place_id" : "ChIJ43ODwSL4lDkRwMFcVb1KVCU",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

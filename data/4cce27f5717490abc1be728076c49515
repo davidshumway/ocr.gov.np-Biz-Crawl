@@ -1,0 +1,56 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Payal",
+               "short_name" : "Payal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seti",
+               "short_name" : "Seti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10700",
+               "short_name" : "10700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Payal 10700, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.17,
+               "lng" : 81.19
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.1713489802915,
+                  "lng" : 81.19134898029151
+               },
+               "southwest" : {
+                  "lat" : 29.1686510197085,
+                  "lng" : 81.1886510197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJAzrHwAu1ozkR4J5b67nG4Ok",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

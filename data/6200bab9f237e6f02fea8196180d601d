@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sonaul",
+               "short_name" : "Sonaul",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45700",
+               "short_name" : "45700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sonaul 45700, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.770844,
+                  "lng" : 85.774118
+               },
+               "southwest" : {
+                  "lat" : 26.7422547,
+                  "lng" : 85.7447961
+               }
+            },
+            "location" : {
+               "lat" : 26.766667,
+               "lng" : 85.766667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.770844,
+                  "lng" : 85.774118
+               },
+               "southwest" : {
+                  "lat" : 26.7422547,
+                  "lng" : 85.7447961
+               }
+            }
+         },
+         "place_id" : "ChIJg8I-At5n7DkRq_yOWnrT4A8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

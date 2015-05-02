@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tulsipur",
+               "short_name" : "Tulsipur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rapti",
+               "short_name" : "Rapti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tulsipur, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.2493523,
+                  "lng" : 82.40020749999999
+               },
+               "southwest" : {
+                  "lat" : 28.0310764,
+                  "lng" : 82.20056529999999
+               }
+            },
+            "location" : {
+               "lat" : 28.127778,
+               "lng" : 82.29555599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.2493523,
+                  "lng" : 82.40020749999999
+               },
+               "southwest" : {
+                  "lat" : 28.0310764,
+                  "lng" : 82.20056529999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJMYyIZ4D0lzkRBEGp5wE__fA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

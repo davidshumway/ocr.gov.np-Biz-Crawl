@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sahare",
+               "short_name" : "Sahare",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sahare, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.5220875,
+                  "lng" : 86.14355209999999
+               },
+               "southwest" : {
+                  "lat" : 27.4740057,
+                  "lng" : 86.0939741
+               }
+            },
+            "location" : {
+               "lat" : 27.5,
+               "lng" : 86.11999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.5220875,
+                  "lng" : 86.14355209999999
+               },
+               "southwest" : {
+                  "lat" : 27.4740057,
+                  "lng" : 86.0939741
+               }
+            }
+         },
+         "place_id" : "ChIJrRl3x2Pd6zkRLweb7oMws7Y",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

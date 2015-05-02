@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gajehada",
+               "short_name" : "Gajehada",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lumbini",
+               "short_name" : "Lumbini",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32800",
+               "short_name" : "32800",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gajehada 32800, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6885634,
+                  "lng" : 83.1921244
+               },
+               "southwest" : {
+                  "lat" : 27.6400824,
+                  "lng" : 83.14482099999999
+               }
+            },
+            "location" : {
+               "lat" : 27.67,
+               "lng" : 83.17
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6885634,
+                  "lng" : 83.1921244
+               },
+               "southwest" : {
+                  "lat" : 27.6400824,
+                  "lng" : 83.14482099999999
+               }
+            }
+         },
+         "place_id" : "ChIJP_6jJfjzljkRU-zJh0VqmEg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

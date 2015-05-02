@@ -1,0 +1,66 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pothiyahi",
+               "short_name" : "Pothiyahi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44500",
+               "short_name" : "44500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Pothiyahi 44500, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.9562514,
+                  "lng" : 85.3042298
+               },
+               "southwest" : {
+                  "lat" : 26.9226809,
+                  "lng" : 85.28446339999999
+               }
+            },
+            "location" : {
+               "lat" : 26.94,
+               "lng" : 85.3
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9562514,
+                  "lng" : 85.3042298
+               },
+               "southwest" : {
+                  "lat" : 26.9226809,
+                  "lng" : 85.28446339999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJsUPztkOY7DkRDIESm726Jm0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

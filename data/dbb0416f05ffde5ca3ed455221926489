@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sigaudi",
+               "short_name" : "Sigaudi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sigaudi, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.0351595,
+                  "lng" : 81.4868402
+               },
+               "southwest" : {
+                  "lat" : 28.9565966,
+                  "lng" : 81.4103222
+               }
+            },
+            "location" : {
+               "lat" : 29,
+               "lng" : 81.45
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.0351595,
+                  "lng" : 81.4868402
+               },
+               "southwest" : {
+                  "lat" : 28.9565966,
+                  "lng" : 81.4103222
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJXWHscCFXojkRd-rlnnRhaec",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

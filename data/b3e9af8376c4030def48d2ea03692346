@@ -1,0 +1,55 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kalika",
+               "short_name" : "Kalika",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21600",
+               "short_name" : "21600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kalika 21600, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.93,
+               "lng" : 81.89000000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.9313489802915,
+                  "lng" : 81.89134898029153
+               },
+               "southwest" : {
+                  "lat" : 28.9286510197085,
+                  "lng" : 81.88865101970852
+               }
+            }
+         },
+         "place_id" : "ChIJ95HRMV3CojkRY7YT56CWntQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

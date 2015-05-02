@@ -1,0 +1,65 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Arkhale",
+               "short_name" : "Arkhale",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lumbini",
+               "short_name" : "Lumbini",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32600",
+               "short_name" : "32600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Arkhale 32600, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.1159723,
+                  "lng" : 83.28701009999999
+               },
+               "southwest" : {
+                  "lat" : 28.0659972,
+                  "lng" : 83.20066450000002
+               }
+            },
+            "location" : {
+               "lat" : 28.083333,
+               "lng" : 83.233333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.1159723,
+                  "lng" : 83.28701009999999
+               },
+               "southwest" : {
+                  "lat" : 28.0659972,
+                  "lng" : 83.20066450000002
+               }
+            }
+         },
+         "place_id" : "ChIJd5uOUK1BljkRcb4xSdEV1VA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

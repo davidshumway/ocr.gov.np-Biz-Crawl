@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tikathali",
+               "short_name" : "Tikathali",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tikathali, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.669086,
+                  "lng" : 85.36462779999999
+               },
+               "southwest" : {
+                  "lat" : 27.6476857,
+                  "lng" : 85.3521396
+               }
+            },
+            "location" : {
+               "lat" : 27.66,
+               "lng" : 85.36
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.669086,
+                  "lng" : 85.36462779999999
+               },
+               "southwest" : {
+                  "lat" : 27.6476857,
+                  "lng" : 85.3521396
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJn2SOZqoQ6zkR1dtq4T1EKzA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

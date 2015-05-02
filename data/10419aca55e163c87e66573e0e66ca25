@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Parsa",
+               "short_name" : "Parsa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Parsa, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.9024242,
+                  "lng" : 85.6531852
+               },
+               "southwest" : {
+                  "lat" : 26.8677525,
+                  "lng" : 85.61950209999999
+               }
+            },
+            "location" : {
+               "lat" : 26.883333,
+               "lng" : 85.63333299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9024242,
+                  "lng" : 85.6531852
+               },
+               "southwest" : {
+                  "lat" : 26.8677525,
+                  "lng" : 85.61950209999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJxfFBPONi7DkRlYiIrQRvQs8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

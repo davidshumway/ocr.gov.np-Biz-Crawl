@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ratnanagar",
+               "short_name" : "Ratnanagar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44200",
+               "short_name" : "44200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ratnanagar 44200, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6810008,
+                  "lng" : 84.561695
+               },
+               "southwest" : {
+                  "lat" : 27.5485269,
+                  "lng" : 84.4656305
+               }
+            },
+            "location" : {
+               "lat" : 27.583333,
+               "lng" : 84.5
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6810008,
+                  "lng" : 84.561695
+               },
+               "southwest" : {
+                  "lat" : 27.5485269,
+                  "lng" : 84.4656305
+               }
+            }
+         },
+         "place_id" : "ChIJlzLuKKXolDkRg53OpK1Xfq0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

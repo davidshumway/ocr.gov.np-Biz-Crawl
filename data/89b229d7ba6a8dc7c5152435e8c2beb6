@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bajhang",
+               "short_name" : "Bajhang",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Seti",
+               "short_name" : "Seti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bajhang, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.0572085,
+                  "lng" : 81.5633584
+               },
+               "southwest" : {
+                  "lat" : 29.3860641,
+                  "lng" : 80.7474519
+               }
+            },
+            "location" : {
+               "lat" : 29.776669,
+               "lng" : 81.2518833
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.0572085,
+                  "lng" : 81.5633584
+               },
+               "southwest" : {
+                  "lat" : 29.3860641,
+                  "lng" : 80.7474519
+               }
+            }
+         },
+         "place_id" : "ChIJ3a8Tj-KMozkRNVPqf1F7bfs",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

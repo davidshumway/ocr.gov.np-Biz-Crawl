@@ -1,0 +1,65 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Satakhani",
+               "short_name" : "Satakhani",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21700",
+               "short_name" : "21700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Satakhani 21700, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.5807531,
+                  "lng" : 81.80308339999999
+               },
+               "southwest" : {
+                  "lat" : 28.4944928,
+                  "lng" : 81.6882421
+               }
+            },
+            "location" : {
+               "lat" : 28.5270554,
+               "lng" : 81.7458845
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5807531,
+                  "lng" : 81.80308339999999
+               },
+               "southwest" : {
+                  "lat" : 28.4944928,
+                  "lng" : 81.6882421
+               }
+            }
+         },
+         "place_id" : "ChIJNaU5HJibojkRoCQxkbkipAg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

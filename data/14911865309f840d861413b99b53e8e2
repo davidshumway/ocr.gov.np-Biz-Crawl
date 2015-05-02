@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Malikarjun",
+               "short_name" : "Malikarjun",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mahakali",
+               "short_name" : "Mahakali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10100",
+               "short_name" : "10100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Malikarjun 10100, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.75,
+               "lng" : 80.48999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.7513489802915,
+                  "lng" : 80.49134898029151
+               },
+               "southwest" : {
+                  "lat" : 29.7486510197085,
+                  "lng" : 80.48865101970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJG2kg9EhKoTkR4VLcWYTzOho",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

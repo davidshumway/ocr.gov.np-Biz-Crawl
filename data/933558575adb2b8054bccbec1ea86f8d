@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Beladevipur",
+               "short_name" : "Beladevipur",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Seti",
+               "short_name" : "Seti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10900",
+               "short_name" : "10900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Beladevipur, 10900, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.8069256,
+                  "lng" : 80.66162109999999
+               },
+               "southwest" : {
+                  "lat" : 28.7276251,
+                  "lng" : 80.57441709999999
+               }
+            },
+            "location" : {
+               "lat" : 28.76,
+               "lng" : 80.63
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.8069256,
+                  "lng" : 80.66162109999999
+               },
+               "southwest" : {
+                  "lat" : 28.7276251,
+                  "lng" : 80.57441709999999
+               }
+            }
+         },
+         "place_id" : "ChIJaz8jaGKSoTkRVS8juSFxzHs",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

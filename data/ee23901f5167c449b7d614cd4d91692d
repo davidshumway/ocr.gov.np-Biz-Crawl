@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thawang",
+               "short_name" : "Thawang",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rapti",
+               "short_name" : "Rapti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Thawang, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.5273766,
+                  "lng" : 82.7661038
+               },
+               "southwest" : {
+                  "lat" : 28.441827,
+                  "lng" : 82.6577855
+               }
+            },
+            "location" : {
+               "lat" : 28.48,
+               "lng" : 82.72
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5273766,
+                  "lng" : 82.7661038
+               },
+               "southwest" : {
+                  "lat" : 28.441827,
+                  "lng" : 82.6577855
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJExJ1ZaFivTkRURoth5EvMmk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

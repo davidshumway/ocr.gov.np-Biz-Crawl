@@ -1,0 +1,71 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Laxmipur Shreepur Link Road",
+               "short_name" : "Laxmipur Shreepur Link Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gokulpur",
+               "short_name" : "Gokulpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mahakali",
+               "short_name" : "Mahakali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10400",
+               "short_name" : "10400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Laxmipur Shreepur Link Road, Gokulpur 10400, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6809886,
+                  "lng" : 80.39327179999999
+               },
+               "southwest" : {
+                  "lat" : 28.6644771,
+                  "lng" : 80.3780606
+               }
+            },
+            "location" : {
+               "lat" : 28.6717745,
+               "lng" : 80.3852127
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6809886,
+                  "lng" : 80.39327179999999
+               },
+               "southwest" : {
+                  "lat" : 28.6644771,
+                  "lng" : 80.3780606
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJFQ1sAOjAoTkRdDtSetcZZiY",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

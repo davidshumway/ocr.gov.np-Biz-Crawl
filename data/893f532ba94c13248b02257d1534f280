@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mangaltar",
+               "short_name" : "Mangaltar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45200",
+               "short_name" : "45200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mangaltar 45200, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.500316,
+                  "lng" : 85.75039389999999
+               },
+               "southwest" : {
+                  "lat" : 27.4381361,
+                  "lng" : 85.68872449999999
+               }
+            },
+            "location" : {
+               "lat" : 27.47,
+               "lng" : 85.73999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.500316,
+                  "lng" : 85.75039389999999
+               },
+               "southwest" : {
+                  "lat" : 27.4381361,
+                  "lng" : 85.68872449999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJLcUeMvGY6zkR3qdy0nUlmu0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

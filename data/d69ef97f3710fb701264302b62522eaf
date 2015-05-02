@@ -1,0 +1,128 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Basatpur",
+               "short_name" : "Basatpur",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Pipra Basantapur",
+               "short_name" : "Pipra Basantapur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44400",
+               "short_name" : "44400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Basatpur, Pipra Basantapur 44400, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.0039926,
+                  "lng" : 85.1219524
+               },
+               "southwest" : {
+                  "lat" : 26.998955,
+                  "lng" : 85.1178539
+               }
+            },
+            "location" : {
+               "lat" : 27.0014136,
+               "lng" : 85.1203819
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.0039926,
+                  "lng" : 85.1219524
+               },
+               "southwest" : {
+                  "lat" : 26.998955,
+                  "lng" : 85.1178539
+               }
+            }
+         },
+         "place_id" : "ChIJ-7ELzw6m7DkRRXoNTGNRT_Q",
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Basatpur",
+               "short_name" : "Basatpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44400",
+               "short_name" : "44400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Basatpur 44400, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.9699142,
+                  "lng" : 85.00063059999999
+               },
+               "southwest" : {
+                  "lat" : 26.9369729,
+                  "lng" : 84.96987229999999
+               }
+            },
+            "location" : {
+               "lat" : 26.966667,
+               "lng" : 84.983333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9699142,
+                  "lng" : 85.00063059999999
+               },
+               "southwest" : {
+                  "lat" : 26.9369729,
+                  "lng" : 84.96987229999999
+               }
+            }
+         },
+         "place_id" : "ChIJPUJIhVCs7DkR_RTXFU8-3n0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

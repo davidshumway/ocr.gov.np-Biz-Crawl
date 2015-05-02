@@ -1,0 +1,125 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mithileshwor Nikas",
+               "short_name" : "Mithileshwor Nikas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45600",
+               "short_name" : "45600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mithileshwor Nikas 45600, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.8130897,
+                  "lng" : 86.0337358
+               },
+               "southwest" : {
+                  "lat" : 26.7702883,
+                  "lng" : 85.9968004
+               }
+            },
+            "location" : {
+               "lat" : 26.7851259,
+               "lng" : 86.01470839999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8130897,
+                  "lng" : 86.0337358
+               },
+               "southwest" : {
+                  "lat" : 26.7702883,
+                  "lng" : 85.9968004
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJs2_U4yYU7DkR21SuxYGmqy8",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mithileshwor Mauwahi",
+               "short_name" : "Mithileshwor Mauwahi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45600",
+               "short_name" : "45600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mithileshwor Mauwahi 45600, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.8057534,
+                  "lng" : 86.027997
+               },
+               "southwest" : {
+                  "lat" : 26.7790323,
+                  "lng" : 86.00102609999999
+               }
+            },
+            "location" : {
+               "lat" : 26.7970329,
+               "lng" : 86.0198103
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8057534,
+                  "lng" : 86.027997
+               },
+               "southwest" : {
+                  "lat" : 26.7790323,
+                  "lng" : 86.00102609999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJJZobwIMW7DkRkJ4yv1lmJuk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

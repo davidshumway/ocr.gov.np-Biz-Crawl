@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Balambu",
+               "short_name" : "Balambu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44600",
+               "short_name" : "44600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Balambu 44600, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7049596,
+                  "lng" : 85.2606869
+               },
+               "southwest" : {
+                  "lat" : 27.6877462,
+                  "lng" : 85.2389716
+               }
+            },
+            "location" : {
+               "lat" : 27.7,
+               "lng" : 85.25
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7049596,
+                  "lng" : 85.2606869
+               },
+               "southwest" : {
+                  "lat" : 27.6877462,
+                  "lng" : 85.2389716
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJRapsb_Mi6zkRl18GVYS0evk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,55 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jhalari",
+               "short_name" : "Jhalari",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mahakali",
+               "short_name" : "Mahakali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10400",
+               "short_name" : "10400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jhalari 10400, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.96,
+               "lng" : 80.39
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.9613489802915,
+                  "lng" : 80.39134898029151
+               },
+               "southwest" : {
+                  "lat" : 28.9586510197085,
+                  "lng" : 80.38865101970849
+               }
+            }
+         },
+         "place_id" : "ChIJMcWcTsCjoTkRWqO-5CFcnkM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

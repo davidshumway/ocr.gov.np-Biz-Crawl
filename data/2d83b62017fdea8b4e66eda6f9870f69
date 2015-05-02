@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mirge",
+               "short_name" : "Mirge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45500",
+               "short_name" : "45500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mirge 45500, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.62,
+               "lng" : 86.14999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6213489802915,
+                  "lng" : 86.1513489802915
+               },
+               "southwest" : {
+                  "lat" : 27.6186510197085,
+                  "lng" : 86.1486510197085
+               }
+            }
+         },
+         "place_id" : "ChIJhR2kVrnb6zkRvV7StBiuqd0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

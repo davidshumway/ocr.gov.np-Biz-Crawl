@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Deulekh",
+               "short_name" : "Deulekh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seti",
+               "short_name" : "Seti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10500",
+               "short_name" : "10500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Deulekh 10500, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.533333,
+               "lng" : 80.833333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.5346819802915,
+                  "lng" : 80.83468198029151
+               },
+               "southwest" : {
+                  "lat" : 29.5319840197085,
+                  "lng" : 80.83198401970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ04QxjLjhozkRNPw0UL_9B0s",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

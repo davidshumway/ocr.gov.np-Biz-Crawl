@@ -1,0 +1,80 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ward No.11 Panauti Office",
+               "short_name" : "Ward No.11 Panauti Office",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Dalinchok Road",
+               "short_name" : "Dalinchok Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dalinchok",
+               "short_name" : "Dalinchok",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Panauti",
+               "short_name" : "Panauti",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45209",
+               "short_name" : "45209",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ward No.11 Panauti Office, Dalinchok Road, Panauti 45209, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.5919412,
+                  "lng" : 85.527187
+               },
+               "southwest" : {
+                  "lat" : 27.5918843,
+                  "lng" : 85.5270168
+               }
+            },
+            "location" : {
+               "lat" : 27.5919128,
+               "lng" : 85.52710189999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.5932617302915,
+                  "lng" : 85.5284508802915
+               },
+               "southwest" : {
+                  "lat" : 27.5905637697085,
+                  "lng" : 85.52575291970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJJbypCEkJ6zkRQWAF-S_G1l0",
+         "types" : [ "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

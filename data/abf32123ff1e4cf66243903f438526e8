@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bhawani",
+               "short_name" : "Bhawani",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21600",
+               "short_name" : "21600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bhawani 21600, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.9543811,
+                  "lng" : 81.77280669999999
+               },
+               "southwest" : {
+                  "lat" : 28.9093661,
+                  "lng" : 81.72718759999999
+               }
+            },
+            "location" : {
+               "lat" : 28.93,
+               "lng" : 81.75
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.9543811,
+                  "lng" : 81.77280669999999
+               },
+               "southwest" : {
+                  "lat" : 28.9093661,
+                  "lng" : 81.72718759999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJv35LDeLuojkRtW1EtIp4p9Y",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,55 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Naubasta",
+               "short_name" : "Naubasta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21904",
+               "short_name" : "21904",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Naubasta 21904, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.25,
+               "lng" : 81.66
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.2513489802915,
+                  "lng" : 81.66134898029151
+               },
+               "southwest" : {
+                  "lat" : 28.2486510197085,
+                  "lng" : 81.65865101970849
+               }
+            }
+         },
+         "place_id" : "ChIJP1a0aMN6mDkRomX4Sx6PU9M",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

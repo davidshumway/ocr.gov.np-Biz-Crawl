@@ -1,0 +1,65 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Harisiddhi",
+               "short_name" : "Harisiddhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44700",
+               "short_name" : "44700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Harisiddhi 44700, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6479898,
+                  "lng" : 85.3544998
+               },
+               "southwest" : {
+                  "lat" : 27.6303113,
+                  "lng" : 85.3341365
+               }
+            },
+            "location" : {
+               "lat" : 27.64,
+               "lng" : 85.34999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6479898,
+                  "lng" : 85.3544998
+               },
+               "southwest" : {
+                  "lat" : 27.6303113,
+                  "lng" : 85.3341365
+               }
+            }
+         },
+         "place_id" : "ChIJSWGIK0YX6zkR92ls5kkTrnw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

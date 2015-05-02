@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Khokana",
+               "short_name" : "Khokana",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Khokana, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6565998,
+                  "lng" : 85.30591969999999
+               },
+               "southwest" : {
+                  "lat" : 27.6304253,
+                  "lng" : 85.2821766
+               }
+            },
+            "location" : {
+               "lat" : 27.64,
+               "lng" : 85.28999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6565998,
+                  "lng" : 85.30591969999999
+               },
+               "southwest" : {
+                  "lat" : 27.6304253,
+                  "lng" : 85.2821766
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJF58z3pUX6zkRCdGwBe-ErCw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kalaphanta",
+               "short_name" : "Kalaphanta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21900",
+               "short_name" : "21900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kalaphanta 21900, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.92,
+               "lng" : 81.89000000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.9213489802915,
+                  "lng" : 81.89134898029153
+               },
+               "southwest" : {
+                  "lat" : 27.9186510197085,
+                  "lng" : 81.88865101970852
+               }
+            }
+         },
+         "place_id" : "ChIJHZx6iF84mDkRMv318bxsnkI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

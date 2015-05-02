@@ -1,0 +1,65 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jharuwarasi",
+               "short_name" : "Jharuwarasi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44700",
+               "short_name" : "44700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jharuwarasi 44700, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6271174,
+                  "lng" : 85.35080910000001
+               },
+               "southwest" : {
+                  "lat" : 27.6014875,
+                  "lng" : 85.32802099999999
+               }
+            },
+            "location" : {
+               "lat" : 27.615424,
+               "lng" : 85.3420486
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6271174,
+                  "lng" : 85.35080910000001
+               },
+               "southwest" : {
+                  "lat" : 27.6014875,
+                  "lng" : 85.32802099999999
+               }
+            }
+         },
+         "place_id" : "ChIJpemeDCcX6zkRD65oNUKF0Vs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

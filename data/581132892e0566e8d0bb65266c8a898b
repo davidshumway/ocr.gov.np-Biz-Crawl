@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sindhupalchok",
+               "short_name" : "Sindhupalchok",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sindhupalchok, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.2113904,
+                  "lng" : 86.063633
+               },
+               "southwest" : {
+                  "lat" : 27.6293227,
+                  "lng" : 85.37861819999999
+               }
+            },
+            "location" : {
+               "lat" : 27.9512034,
+               "lng" : 85.684578
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.2113904,
+                  "lng" : 86.063633
+               },
+               "southwest" : {
+                  "lat" : 27.6293227,
+                  "lng" : 85.37861819999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJtSiH0rNT6jkRkNDJxBXYiRg",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

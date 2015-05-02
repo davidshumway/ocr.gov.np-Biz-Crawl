@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Okharpauwa",
+               "short_name" : "Okharpauwa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44900",
+               "short_name" : "44900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Okharpauwa 44900, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.8162287,
+                  "lng" : 85.2785397
+               },
+               "southwest" : {
+                  "lat" : 27.7717347,
+                  "lng" : 85.2170849
+               }
+            },
+            "location" : {
+               "lat" : 27.8,
+               "lng" : 85.25
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.8162287,
+                  "lng" : 85.2785397
+               },
+               "southwest" : {
+                  "lat" : 27.7717347,
+                  "lng" : 85.2170849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJu1E7sM8h6zkReBfl6B7BwJE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

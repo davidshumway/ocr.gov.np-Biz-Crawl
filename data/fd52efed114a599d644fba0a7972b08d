@@ -1,0 +1,66 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Syalakhadi",
+               "short_name" : "Syalakhadi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rapti",
+               "short_name" : "Rapti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "22000",
+               "short_name" : "22000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Syalakhadi 22000, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.8663238,
+                  "lng" : 82.62911800000001
+               },
+               "southwest" : {
+                  "lat" : 28.738463,
+                  "lng" : 82.4079323
+               }
+            },
+            "location" : {
+               "lat" : 28.8,
+               "lng" : 82.50999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.8663238,
+                  "lng" : 82.62911800000001
+               },
+               "southwest" : {
+                  "lat" : 28.738463,
+                  "lng" : 82.4079323
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJbyuTrPhAvTkRyqNYorzzLdo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

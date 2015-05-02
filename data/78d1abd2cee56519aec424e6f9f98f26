@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sonigama",
+               "short_name" : "Sonigama",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45600",
+               "short_name" : "45600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sonigama 45600, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.7473457,
+                  "lng" : 86.06517130000002
+               },
+               "southwest" : {
+                  "lat" : 26.7185061,
+                  "lng" : 86.02217139999999
+               }
+            },
+            "location" : {
+               "lat" : 26.73,
+               "lng" : 86.05
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.7473457,
+                  "lng" : 86.06517130000002
+               },
+               "southwest" : {
+                  "lat" : 26.7185061,
+                  "lng" : 86.02217139999999
+               }
+            }
+         },
+         "place_id" : "ChIJAcEdnIM97DkRXH84g4L6MWQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

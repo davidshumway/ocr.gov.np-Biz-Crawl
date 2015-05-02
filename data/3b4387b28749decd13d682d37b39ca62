@@ -1,0 +1,116 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aanboo Khaireni Police Station",
+               "short_name" : "Aanboo Khaireni Police Station",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Prithvi Highway",
+               "short_name" : "H04",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Aanbu Khaireni",
+               "short_name" : "Aanbu Khaireni",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gandaki",
+               "short_name" : "Gandaki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aanboo Khaireni Police Station, Prithvi Highway, Aanbu Khaireni, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.900099,
+               "lng" : 84.5375741
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.9014479802915,
+                  "lng" : 84.53892308029151
+               },
+               "southwest" : {
+                  "lat" : 27.8987500197085,
+                  "lng" : 84.5362251197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJNTi9trAelTkRP7GyJANCBRk",
+         "types" : [ "police", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aanboo Khaireni Chok Bus Stop",
+               "short_name" : "Aanboo Khaireni Chok Bus Stop",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Prithvi Highway",
+               "short_name" : "H04",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Aanbu Khaireni",
+               "short_name" : "Aanbu Khaireni",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gandaki",
+               "short_name" : "Gandaki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aanboo Khaireni Chok Bus Stop, Prithvi Highway, Aanbu Khaireni, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.9008643,
+               "lng" : 84.5363495
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.9022132802915,
+                  "lng" : 84.53769848029151
+               },
+               "southwest" : {
+                  "lat" : 27.8995153197085,
+                  "lng" : 84.53500051970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ0ycm6bAelTkRbW-hdEY2uh4",
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

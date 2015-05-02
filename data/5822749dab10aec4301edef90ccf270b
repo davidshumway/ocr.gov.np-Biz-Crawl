@@ -1,0 +1,66 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gairigaun",
+               "short_name" : "Gairigaun",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rapti",
+               "short_name" : "Rapti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "22100",
+               "short_name" : "22100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gairigaun 22100, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.3483526,
+                  "lng" : 82.53873840000001
+               },
+               "southwest" : {
+                  "lat" : 28.2798935,
+                  "lng" : 82.4579715
+               }
+            },
+            "location" : {
+               "lat" : 28.3158068,
+               "lng" : 82.50775929999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.3483526,
+                  "lng" : 82.53873840000001
+               },
+               "southwest" : {
+                  "lat" : 28.2798935,
+                  "lng" : 82.4579715
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJOwWcxULmlzkR970yf7MFmMI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

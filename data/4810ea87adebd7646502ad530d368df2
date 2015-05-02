@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Khalanga",
+               "short_name" : "Khalanga",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rapti",
+               "short_name" : "Rapti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "22200",
+               "short_name" : "22200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Khalanga 22200, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.3937411,
+                  "lng" : 82.2177315
+               },
+               "southwest" : {
+                  "lat" : 28.3406476,
+                  "lng" : 82.1334456
+               }
+            },
+            "location" : {
+               "lat" : 28.38,
+               "lng" : 82.17999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.3937411,
+                  "lng" : 82.2177315
+               },
+               "southwest" : {
+                  "lat" : 28.3406476,
+                  "lng" : 82.1334456
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ_00l_o8BmDkR0jIsJFCfvXk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

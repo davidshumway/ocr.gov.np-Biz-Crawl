@@ -1,0 +1,70 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shri Jan Kalyan Prathmik Vidyalay",
+               "short_name" : "Shri Jan Kalyan Prathmik Vidyalay",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "At Hasulya - 1/K Gaon, District Kailali, Nepal",
+               "short_name" : "at Hasulya - 1/K Gaon, District Kailali, Nepal",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Seti",
+               "short_name" : "Seti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10900",
+               "short_name" : "10900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Shri Jan Kalyan Prathmik Vidyalay, At Hasulya - 1/K Gaon, District Kailali, Nepal, 10900, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.5945877,
+                  "lng" : 80.7610828
+               },
+               "southwest" : {
+                  "lat" : 28.5938553,
+                  "lng" : 80.7604015
+               }
+            },
+            "location" : {
+               "lat" : 28.5942184,
+               "lng" : 80.7607589
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5955704802915,
+                  "lng" : 80.76209113029149
+               },
+               "southwest" : {
+                  "lat" : 28.59287251970849,
+                  "lng" : 80.75939316970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJh0H_hP72oTkROgf3zCR3Sdg",
+         "types" : [ "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

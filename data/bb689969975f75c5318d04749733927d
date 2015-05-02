@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hemantabada",
+               "short_name" : "Hemantabada",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seti",
+               "short_name" : "Seti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10500",
+               "short_name" : "10500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hemantabada 10500, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.52999999999999,
+               "lng" : 81.20999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.53134898029149,
+                  "lng" : 81.2113489802915
+               },
+               "southwest" : {
+                  "lat" : 29.52865101970849,
+                  "lng" : 81.2086510197085
+               }
+            }
+         },
+         "place_id" : "ChIJ3Vk6r6eVozkRDj9GQQsaQsM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

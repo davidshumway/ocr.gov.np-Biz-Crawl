@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lal Parsa",
+               "short_name" : "Lal Parsa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44300",
+               "short_name" : "44300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lal Parsa 44300, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.1155519,
+                  "lng" : 84.91887419999999
+               },
+               "southwest" : {
+                  "lat" : 27.0800195,
+                  "lng" : 84.89315049999999
+               }
+            },
+            "location" : {
+               "lat" : 27.1,
+               "lng" : 84.91666699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.1155519,
+                  "lng" : 84.91887419999999
+               },
+               "southwest" : {
+                  "lat" : 27.0800195,
+                  "lng" : 84.89315049999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJGT1qPI6qlDkR-iKM6PDVzC0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,56 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chainpur",
+               "short_name" : "Chainpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45100",
+               "short_name" : "45100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chainpur 45100, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.97,
+               "lng" : 84.81
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.9713489802915,
+                  "lng" : 84.81134898029151
+               },
+               "southwest" : {
+                  "lat" : 27.9686510197085,
+                  "lng" : 84.80865101970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJkUjRJ6ovlTkROLA7yrwCQuY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

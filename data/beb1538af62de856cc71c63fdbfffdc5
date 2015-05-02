@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Matihani",
+               "short_name" : "Matihani",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Matihani, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.6295374,
+                  "lng" : 85.85445279999999
+               },
+               "southwest" : {
+                  "lat" : 26.6036346,
+                  "lng" : 85.828575
+               }
+            },
+            "location" : {
+               "lat" : 26.61,
+               "lng" : 85.84999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.6295374,
+                  "lng" : 85.85445279999999
+               },
+               "southwest" : {
+                  "lat" : 26.6036346,
+                  "lng" : 85.828575
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJXXDN9xhE7DkR0GskvxZGtjA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

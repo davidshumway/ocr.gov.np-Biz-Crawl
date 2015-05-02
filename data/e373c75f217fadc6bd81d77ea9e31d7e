@@ -1,0 +1,119 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Banke National Park",
+               "short_name" : "Banke National Park",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Kohalpur",
+               "short_name" : "Kohalpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21904",
+               "short_name" : "21904",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Banke National Park, Kohalpur 21904, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.2276507,
+               "lng" : 81.7072105
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.2289996802915,
+                  "lng" : 81.70855948029151
+               },
+               "southwest" : {
+                  "lat" : 28.2263017197085,
+                  "lng" : 81.70586151970851
+               }
+            }
+         },
+         "place_id" : "ChIJH7U2GeRvmDkR91u60dS6Gws",
+         "types" : [ "point_of_interest", "natural_feature", "park", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Banke National Park",
+               "short_name" : "Banke National Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21900",
+               "short_name" : "21900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Banke National Park, 21900, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.3382301,
+                  "lng" : 82.19799039999999
+               },
+               "southwest" : {
+                  "lat" : 27.9834874,
+                  "lng" : 81.6603471
+               }
+            },
+            "location" : {
+               "lat" : 28.1608587,
+               "lng" : 81.92916869999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.3382301,
+                  "lng" : 82.19799039999999
+               },
+               "southwest" : {
+                  "lat" : 27.9834874,
+                  "lng" : 81.6603471
+               }
+            }
+         },
+         "place_id" : "ChIJ2c5NDYVxmDkRHWi_QtsfaJI",
+         "types" : [ "natural_feature", "park", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

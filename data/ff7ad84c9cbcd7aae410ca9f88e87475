@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tripurakot",
+               "short_name" : "Tripurakot",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karnali",
+               "short_name" : "Karnali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21400",
+               "short_name" : "21400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tripurakot 21400, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.1065764,
+                  "lng" : 82.9048062
+               },
+               "southwest" : {
+                  "lat" : 28.9733802,
+                  "lng" : 82.77717579999999
+               }
+            },
+            "location" : {
+               "lat" : 29.03,
+               "lng" : 82.84999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.1065764,
+                  "lng" : 82.9048062
+               },
+               "southwest" : {
+                  "lat" : 28.9733802,
+                  "lng" : 82.77717579999999
+               }
+            }
+         },
+         "place_id" : "ChIJGbHDVaIIvTkRkCPothj4t64",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

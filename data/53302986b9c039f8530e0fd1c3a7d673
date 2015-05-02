@@ -1,0 +1,65 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nuwakot",
+               "short_name" : "Nuwakot",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rapti",
+               "short_name" : "Rapti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "22000",
+               "short_name" : "22000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nuwakot 22000, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6284526,
+                  "lng" : 82.3660469
+               },
+               "southwest" : {
+                  "lat" : 28.5790949,
+                  "lng" : 82.28339199999999
+               }
+            },
+            "location" : {
+               "lat" : 28.61,
+               "lng" : 82.31999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6284526,
+                  "lng" : 82.3660469
+               },
+               "southwest" : {
+                  "lat" : 28.5790949,
+                  "lng" : 82.28339199999999
+               }
+            }
+         },
+         "place_id" : "ChIJaVr47JhRvTkRLHTqn6bKKC4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

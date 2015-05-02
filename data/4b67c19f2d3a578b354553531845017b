@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hati Bangai",
+               "short_name" : "Hati Bangai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lumbini",
+               "short_name" : "Lumbini",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32900",
+               "short_name" : "32900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hati Bangai 32900, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.53,
+               "lng" : 83.42999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.5313489802915,
+                  "lng" : 83.43134898029149
+               },
+               "southwest" : {
+                  "lat" : 27.5286510197085,
+                  "lng" : 83.42865101970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJFSOehnyaljkRn_wK9D71FJI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

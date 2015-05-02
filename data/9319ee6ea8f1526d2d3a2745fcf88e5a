@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jhangajholi Ratmati",
+               "short_name" : "Jhangajholi Ratmati",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45900",
+               "short_name" : "45900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jhangajholi Ratmati 45900, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.375,
+               "lng" : 85.891667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.37634898029151,
+                  "lng" : 85.89301598029151
+               },
+               "southwest" : {
+                  "lat" : 27.3736510197085,
+                  "lng" : 85.8903180197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJRTmvqXWT6zkRln61LeTm3no",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

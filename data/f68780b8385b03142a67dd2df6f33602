@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dasarathpur",
+               "short_name" : "Dasarathpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21700",
+               "short_name" : "21700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dasarathpur 21700, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.4905323,
+                  "lng" : 81.82157979999999
+               },
+               "southwest" : {
+                  "lat" : 28.4512605,
+                  "lng" : 81.776991
+               }
+            },
+            "location" : {
+               "lat" : 28.4669293,
+               "lng" : 81.806039
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.4905323,
+                  "lng" : 81.82157979999999
+               },
+               "southwest" : {
+                  "lat" : 28.4512605,
+                  "lng" : 81.776991
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJl5JJFWCeojkRQjXN_NNMEaU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

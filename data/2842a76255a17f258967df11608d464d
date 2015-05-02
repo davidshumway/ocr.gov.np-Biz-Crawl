@@ -1,0 +1,70 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kalimati Kalche Road",
+               "short_name" : "Kalimati Kalche Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kalimati Kalche",
+               "short_name" : "Kalimati Kalche",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rapti",
+               "short_name" : "Rapti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "22200",
+               "short_name" : "22200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kalimati Kalche Road, Kalimati Kalche 22200, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.3246572,
+                  "lng" : 82.02241599999999
+               },
+               "southwest" : {
+                  "lat" : 28.3046228,
+                  "lng" : 81.9372046
+               }
+            },
+            "location" : {
+               "lat" : 28.3233114,
+               "lng" : 81.97767379999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.3246572,
+                  "lng" : 82.02241599999999
+               },
+               "southwest" : {
+                  "lat" : 28.3046228,
+                  "lng" : 81.9372046
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJHdI2rwwPmDkRaZiemZhqfdM",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

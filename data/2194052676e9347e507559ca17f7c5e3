@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Banaganga Municipality Ward Office",
+               "short_name" : "Banaganga Municipality Ward Office",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Bhalawad",
+               "short_name" : "Bhalawad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lumbini",
+               "short_name" : "Lumbini",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32800",
+               "short_name" : "32800",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Banaganga Municipality Ward Office, Bhalawad 32800, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.7294542,
+               "lng" : 83.1182778
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7308031802915,
+                  "lng" : 83.1196267802915
+               },
+               "southwest" : {
+                  "lat" : 27.7281052197085,
+                  "lng" : 83.11692881970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJR33vk7X3ljkR5_5qNLztHBw",
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

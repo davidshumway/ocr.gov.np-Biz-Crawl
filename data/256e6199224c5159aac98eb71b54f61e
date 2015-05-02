@@ -1,0 +1,65 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lele",
+               "short_name" : "Lele",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44700",
+               "short_name" : "44700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lele 44700, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.5810249,
+                  "lng" : 85.37291049999999
+               },
+               "southwest" : {
+                  "lat" : 27.5360543,
+                  "lng" : 85.28952609999999
+               }
+            },
+            "location" : {
+               "lat" : 27.57,
+               "lng" : 85.34
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.5810249,
+                  "lng" : 85.37291049999999
+               },
+               "southwest" : {
+                  "lat" : 27.5360543,
+                  "lng" : 85.28952609999999
+               }
+            }
+         },
+         "place_id" : "ChIJ2zaEKiEU6zkRkegbD6sFCJ4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

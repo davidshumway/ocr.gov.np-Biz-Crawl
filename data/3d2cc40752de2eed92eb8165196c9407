@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Daman",
+               "short_name" : "Daman",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44100",
+               "short_name" : "44100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Daman, 44100, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6367176,
+                  "lng" : 85.1461029
+               },
+               "southwest" : {
+                  "lat" : 27.5789706,
+                  "lng" : 85.0231934
+               }
+            },
+            "location" : {
+               "lat" : 27.608139,
+               "lng" : 85.09436099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6367176,
+                  "lng" : 85.1461029
+               },
+               "southwest" : {
+                  "lat" : 27.5789706,
+                  "lng" : 85.0231934
+               }
+            }
+         },
+         "place_id" : "ChIJr8VG-Gov6zkRWDhHfP5BqjI",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

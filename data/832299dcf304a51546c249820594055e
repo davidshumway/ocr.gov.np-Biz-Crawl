@@ -1,0 +1,65 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sunakothi",
+               "short_name" : "Sunakothi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44700",
+               "short_name" : "44700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sunakothi 44700, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6447262,
+                  "lng" : 85.3265248
+               },
+               "southwest" : {
+                  "lat" : 27.6256382,
+                  "lng" : 85.3069867
+               }
+            },
+            "location" : {
+               "lat" : 27.64,
+               "lng" : 85.31999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6447262,
+                  "lng" : 85.3265248
+               },
+               "southwest" : {
+                  "lat" : 27.6256382,
+                  "lng" : 85.3069867
+               }
+            }
+         },
+         "place_id" : "ChIJ-X5kzXQX6zkR_L1AWYI4_2E",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

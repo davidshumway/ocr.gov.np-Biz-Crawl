@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ruru",
+               "short_name" : "Ruru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lumbini",
+               "short_name" : "Lumbini",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ruru, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.9625658,
+                  "lng" : 83.4466552
+               },
+               "southwest" : {
+                  "lat" : 27.930152,
+                  "lng" : 83.3929253
+               }
+            },
+            "location" : {
+               "lat" : 27.95,
+               "lng" : 83.42
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.9625658,
+                  "lng" : 83.4466552
+               },
+               "southwest" : {
+                  "lat" : 27.930152,
+                  "lng" : 83.3929253
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ-WyO4lJlljkRx2LtTIKnOWk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

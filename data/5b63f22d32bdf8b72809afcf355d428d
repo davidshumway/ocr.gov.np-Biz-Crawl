@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bhirkot",
+               "short_name" : "Bhirkot",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45500",
+               "short_name" : "45500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bhirkot 45500, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6098541,
+                  "lng" : 86.1271905
+               },
+               "southwest" : {
+                  "lat" : 27.5644197,
+                  "lng" : 86.0777521
+               }
+            },
+            "location" : {
+               "lat" : 27.59,
+               "lng" : 86.09999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6098541,
+                  "lng" : 86.1271905
+               },
+               "southwest" : {
+                  "lat" : 27.5644197,
+                  "lng" : 86.0777521
+               }
+            }
+         },
+         "place_id" : "ChIJt_LTQ6jc6zkRH7P4Qa-IiuQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

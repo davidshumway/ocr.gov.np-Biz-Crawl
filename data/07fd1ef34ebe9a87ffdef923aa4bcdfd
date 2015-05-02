@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hajariya",
+               "short_name" : "Hajariya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hajariya, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.0340461,
+                  "lng" : 85.44887989999999
+               },
+               "southwest" : {
+                  "lat" : 26.9706551,
+                  "lng" : 85.3857503
+               }
+            },
+            "location" : {
+               "lat" : 27,
+               "lng" : 85.408333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.0340461,
+                  "lng" : 85.44887989999999
+               },
+               "southwest" : {
+                  "lat" : 26.9706551,
+                  "lng" : 85.3857503
+               }
+            }
+         },
+         "place_id" : "ChIJt4qAlF6b7DkRByCi2VunGzE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

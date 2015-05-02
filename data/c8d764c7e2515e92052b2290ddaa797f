@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gaindakot",
+               "short_name" : "Gaindakot",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lumbini",
+               "short_name" : "Lumbini",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gaindakot, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7788033,
+                  "lng" : 84.431207
+               },
+               "southwest" : {
+                  "lat" : 27.6669578,
+                  "lng" : 84.2465383
+               }
+            },
+            "location" : {
+               "lat" : 27.73,
+               "lng" : 84.39
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7788033,
+                  "lng" : 84.431207
+               },
+               "southwest" : {
+                  "lat" : 27.6669578,
+                  "lng" : 84.2465383
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJgQCrEG_7lDkREKjlAVJHthE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

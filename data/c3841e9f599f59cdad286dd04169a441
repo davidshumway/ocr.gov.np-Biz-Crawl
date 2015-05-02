@@ -1,0 +1,51 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Khalte",
+               "short_name" : "Khalte",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gandaki",
+               "short_name" : "Gandaki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Khalte, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.833333,
+               "lng" : 84.3
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.8346819802915,
+                  "lng" : 84.30134898029151
+               },
+               "southwest" : {
+                  "lat" : 27.8319840197085,
+                  "lng" : 84.29865101970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJya7atkcAlTkRL_vIq32TnXc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

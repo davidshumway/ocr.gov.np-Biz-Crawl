@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Raghunathpur",
+               "short_name" : "Raghunathpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Raghunathpur, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.8580739,
+                  "lng" : 86.15502119999999
+               },
+               "southwest" : {
+                  "lat" : 26.7934621,
+                  "lng" : 86.08826630000002
+               }
+            },
+            "location" : {
+               "lat" : 26.8203682,
+               "lng" : 86.1191966
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8580739,
+                  "lng" : 86.15502119999999
+               },
+               "southwest" : {
+                  "lat" : 26.7934621,
+                  "lng" : 86.08826630000002
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ_QHcS5AZ7DkRsLyMD_R3LkQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

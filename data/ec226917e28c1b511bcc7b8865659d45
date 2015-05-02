@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dhulikhel",
+               "short_name" : "Dhulikhel",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dhulikhel, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6420213,
+                  "lng" : 85.58504099999999
+               },
+               "southwest" : {
+                  "lat" : 27.6063554,
+                  "lng" : 85.5320191
+               }
+            },
+            "location" : {
+               "lat" : 27.616667,
+               "lng" : 85.55
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6420213,
+                  "lng" : 85.58504099999999
+               },
+               "southwest" : {
+                  "lat" : 27.6063554,
+                  "lng" : 85.5320191
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJA0ey4OEI6zkRMgHX2pxy478",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

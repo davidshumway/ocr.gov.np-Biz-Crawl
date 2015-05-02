@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bhanu",
+               "short_name" : "Bhanu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gandaki",
+               "short_name" : "Gandaki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bhanu, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.0519848,
+                  "lng" : 84.46306229999999
+               },
+               "southwest" : {
+                  "lat" : 27.9524826,
+                  "lng" : 84.3698502
+               }
+            },
+            "location" : {
+               "lat" : 28.02,
+               "lng" : 84.42999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.0519848,
+                  "lng" : 84.46306229999999
+               },
+               "southwest" : {
+                  "lat" : 27.9524826,
+                  "lng" : 84.3698502
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJhwCpJ4sPlTkR0DhGPNj6eUc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tikapur",
+               "short_name" : "Tikapur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seti",
+               "short_name" : "Seti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tikapur, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.5570084,
+                  "lng" : 81.1694814
+               },
+               "southwest" : {
+                  "lat" : 28.4590707,
+                  "lng" : 81.04137899999999
+               }
+            },
+            "location" : {
+               "lat" : 28.5,
+               "lng" : 81.13333299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5570084,
+                  "lng" : 81.1694814
+               },
+               "southwest" : {
+                  "lat" : 28.4590707,
+                  "lng" : 81.04137899999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJmyDGNzEMojkRyASI1LcqZu8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,125 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Paiyupata",
+               "short_name" : "Paiyupata",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Paiyupata",
+               "short_name" : "Paiyupata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dhawalagiri",
+               "short_name" : "Dhawalagiri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33300",
+               "short_name" : "33300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Paiyupata, Paiyupata 33300, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.2285203,
+                  "lng" : 83.6582707
+               },
+               "southwest" : {
+                  "lat" : 28.2138864,
+                  "lng" : 83.64393699999999
+               }
+            },
+            "location" : {
+               "lat" : 28.219401,
+               "lng" : 83.6481429
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.2285203,
+                  "lng" : 83.6582707
+               },
+               "southwest" : {
+                  "lat" : 28.2138864,
+                  "lng" : 83.64393699999999
+               }
+            }
+         },
+         "place_id" : "ChIJrwJ7eRThlTkRtZVKWBevMDA",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Paiyupata",
+               "short_name" : "Paiyupata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dhawalagiri",
+               "short_name" : "Dhawalagiri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Paiyupata, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.2487475,
+                  "lng" : 83.66354939999999
+               },
+               "southwest" : {
+                  "lat" : 28.2058499,
+                  "lng" : 83.6155486
+               }
+            },
+            "location" : {
+               "lat" : 28.2277659,
+               "lng" : 83.6401633
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.2487475,
+                  "lng" : 83.66354939999999
+               },
+               "southwest" : {
+                  "lat" : 28.2058499,
+                  "lng" : 83.6155486
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJg6G5BHThlTkR7HFwHjVaN4o",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

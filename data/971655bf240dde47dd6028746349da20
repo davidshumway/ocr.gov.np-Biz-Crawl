@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gajarkot",
+               "short_name" : "Gajarkot",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gandaki",
+               "short_name" : "Gandaki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gajarkot, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.9153255,
+                  "lng" : 84.017601
+               },
+               "southwest" : {
+                  "lat" : 27.8535713,
+                  "lng" : 83.9364052
+               }
+            },
+            "location" : {
+               "lat" : 27.88,
+               "lng" : 83.97999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.9153255,
+                  "lng" : 84.017601
+               },
+               "southwest" : {
+                  "lat" : 27.8535713,
+                  "lng" : 83.9364052
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJX6fr_yq0lTkRd4pFonhEMkc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

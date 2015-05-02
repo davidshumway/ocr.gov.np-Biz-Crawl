@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mithila",
+               "short_name" : "Mithila",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mithila, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.0369036,
+                  "lng" : 86.00152519999999
+               },
+               "southwest" : {
+                  "lat" : 26.8640439,
+                  "lng" : 85.9066983
+               }
+            },
+            "location" : {
+               "lat" : 26.9508937,
+               "lng" : 85.95089229999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.0369036,
+                  "lng" : 86.00152519999999
+               },
+               "southwest" : {
+                  "lat" : 26.8640439,
+                  "lng" : 85.9066983
+               }
+            }
+         },
+         "place_id" : "ChIJzxscABEN7DkRh748ZsG5AA0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

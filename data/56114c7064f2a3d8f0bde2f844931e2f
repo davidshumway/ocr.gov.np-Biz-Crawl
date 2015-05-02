@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bhimeshwor",
+               "short_name" : "Bhimeshwor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45900",
+               "short_name" : "45900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bhimeshwor 45900, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.3380724,
+                  "lng" : 86.0203743
+               },
+               "southwest" : {
+                  "lat" : 27.2928502,
+                  "lng" : 85.95831869999999
+               }
+            },
+            "location" : {
+               "lat" : 27.3125,
+               "lng" : 85.99166699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.3380724,
+                  "lng" : 86.0203743
+               },
+               "southwest" : {
+                  "lat" : 27.2928502,
+                  "lng" : 85.95831869999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJn_eh0ozt6zkRf76f6CicUzA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

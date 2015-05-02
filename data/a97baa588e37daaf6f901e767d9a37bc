@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Birpur",
+               "short_name" : "Birpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lumbini",
+               "short_name" : "Lumbini",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32800",
+               "short_name" : "32800",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Birpur 32800, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6622445,
+                  "lng" : 82.87952899999999
+               },
+               "southwest" : {
+                  "lat" : 27.5927399,
+                  "lng" : 82.8358626
+               }
+            },
+            "location" : {
+               "lat" : 27.63,
+               "lng" : 82.86
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6622445,
+                  "lng" : 82.87952899999999
+               },
+               "southwest" : {
+                  "lat" : 27.5927399,
+                  "lng" : 82.8358626
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJrTDzcckDlzkRarYgZ4Fbhjg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

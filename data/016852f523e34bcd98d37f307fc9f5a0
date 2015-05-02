@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Arman",
+               "short_name" : "Arman",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dhawalagiri",
+               "short_name" : "Dhawalagiri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33200",
+               "short_name" : "33200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Arman 33200, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.38,
+               "lng" : 83.41
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.3813489802915,
+                  "lng" : 83.41134898029151
+               },
+               "southwest" : {
+                  "lat" : 28.3786510197085,
+                  "lng" : 83.4086510197085
+               }
+            }
+         },
+         "place_id" : "ChIJmbHU4yUbljkRtH0LUHncCV0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

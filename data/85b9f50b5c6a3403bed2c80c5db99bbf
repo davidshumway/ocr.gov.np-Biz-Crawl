@@ -1,0 +1,66 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bal Lila English Boarding School",
+               "short_name" : "Bal Lila English Boarding School",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Kewalpur Road",
+               "short_name" : "Kewalpur Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kumari",
+               "short_name" : "Kumari",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44900",
+               "short_name" : "44900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bal Lila English Boarding School, Kewalpur Road, Kumari 44900, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.7725084,
+               "lng" : 85.16558379999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7738573802915,
+                  "lng" : 85.1669327802915
+               },
+               "southwest" : {
+                  "lat" : 27.7711594197085,
+                  "lng" : 85.16423481970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJLc8-D-sm6zkRXngAtSePOMI",
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

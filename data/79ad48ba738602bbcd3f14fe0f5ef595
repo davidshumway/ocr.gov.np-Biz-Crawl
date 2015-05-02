@@ -1,0 +1,65 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jumrikanda",
+               "short_name" : "Jumrikanda",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rapti",
+               "short_name" : "Rapti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "22300",
+               "short_name" : "22300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jumrikanda 22300, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.188395,
+                  "lng" : 82.8533937
+               },
+               "southwest" : {
+                  "lat" : 28.1383021,
+                  "lng" : 82.78730399999999
+               }
+            },
+            "location" : {
+               "lat" : 28.17,
+               "lng" : 82.82000000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.188395,
+                  "lng" : 82.8533937
+               },
+               "southwest" : {
+                  "lat" : 28.1383021,
+                  "lng" : 82.78730399999999
+               }
+            }
+         },
+         "place_id" : "ChIJSYOI53vJlzkRIe9Awy0emvs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

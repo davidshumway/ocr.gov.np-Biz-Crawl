@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jinakhu",
+               "short_name" : "Jinakhu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45900",
+               "short_name" : "45900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jinakhu 45900, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.1352295,
+                  "lng" : 86.3061048
+               },
+               "southwest" : {
+                  "lat" : 27.056909,
+                  "lng" : 86.2077427
+               }
+            },
+            "location" : {
+               "lat" : 27.083333,
+               "lng" : 86.254167
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.1352295,
+                  "lng" : 86.3061048
+               },
+               "southwest" : {
+                  "lat" : 27.056909,
+                  "lng" : 86.2077427
+               }
+            }
+         },
+         "place_id" : "ChIJzbhEIp6q7jkR7m3Dv-7mo_I",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

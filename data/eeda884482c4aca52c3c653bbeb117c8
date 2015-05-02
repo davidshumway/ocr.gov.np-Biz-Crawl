@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dhanauji",
+               "short_name" : "Dhanauji",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45600",
+               "short_name" : "45600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dhanauji 45600, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.6970136,
+                  "lng" : 86.00266769999999
+               },
+               "southwest" : {
+                  "lat" : 26.6499518,
+                  "lng" : 85.96108409999999
+               }
+            },
+            "location" : {
+               "lat" : 26.67,
+               "lng" : 85.97999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.6970136,
+                  "lng" : 86.00266769999999
+               },
+               "southwest" : {
+                  "lat" : 26.6499518,
+                  "lng" : 85.96108409999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ0XyJ7Ok-7DkR51RXc2JQHd0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

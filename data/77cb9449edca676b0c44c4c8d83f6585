@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ramnagar",
+               "short_name" : "Ramnagar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ramnagar, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.0018622,
+                  "lng" : 85.8583635
+               },
+               "southwest" : {
+                  "lat" : 26.9194655,
+                  "lng" : 85.798962
+               }
+            },
+            "location" : {
+               "lat" : 26.95,
+               "lng" : 85.833333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.0018622,
+                  "lng" : 85.8583635
+               },
+               "southwest" : {
+                  "lat" : 26.9194655,
+                  "lng" : 85.798962
+               }
+            }
+         },
+         "place_id" : "ChIJe6jhSJhx7DkRvXxbVqPaIts",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

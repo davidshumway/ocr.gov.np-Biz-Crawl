@@ -1,0 +1,186 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Malekhu-Dhading Besi Road",
+               "short_name" : "F34",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45100",
+               "short_name" : "45100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Malekhu-Dhading Besi Road, 45100, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.9008148,
+                  "lng" : 84.8766924
+               },
+               "southwest" : {
+                  "lat" : 27.876098,
+                  "lng" : 84.8683628
+               }
+            },
+            "location" : {
+               "lat" : 27.8881833,
+               "lng" : 84.8723486
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.9008148,
+                  "lng" : 84.8766924
+               },
+               "southwest" : {
+                  "lat" : 27.876098,
+                  "lng" : 84.8683628
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJnbjqhBTWlDkR5yLDMoHnUl0",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Murali Bhanjyang",
+               "short_name" : "Murali Bhanjyang",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45100",
+               "short_name" : "45100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Murali Bhanjyang 45100, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.916667,
+               "lng" : 84.86666699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.9180159802915,
+                  "lng" : 84.86801598029149
+               },
+               "southwest" : {
+                  "lat" : 27.9153180197085,
+                  "lng" : 84.86531801970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJz2JhBforlTkRWq5P245RynE",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dhading Besi Rajmarga",
+               "short_name" : "Dhading Besi Rajmarga",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dhading Besi",
+               "short_name" : "Dhading Besi",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Nilkantha",
+               "short_name" : "Nilkantha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45100",
+               "short_name" : "45100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dhading Besi Rajmarga, Nilkantha 45100, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.912129,
+                  "lng" : 84.90212919999999
+               },
+               "southwest" : {
+                  "lat" : 27.9081297,
+                  "lng" : 84.8855894
+               }
+            },
+            "location" : {
+               "lat" : 27.9110499,
+               "lng" : 84.8940289
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.912129,
+                  "lng" : 84.90212919999999
+               },
+               "southwest" : {
+                  "lat" : 27.9081297,
+                  "lng" : 84.8855894
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJFyVij5wrlTkRPqCTjQl-k_U",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

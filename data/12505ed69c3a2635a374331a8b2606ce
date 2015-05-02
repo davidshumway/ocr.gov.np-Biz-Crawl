@@ -1,0 +1,70 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Devisthan Road",
+               "short_name" : "Devisthan Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Devisthan Phalewas",
+               "short_name" : "Devisthan Phalewas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dhawalagiri",
+               "short_name" : "Dhawalagiri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33400",
+               "short_name" : "33400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Devisthan Road, Devisthan Phalewas 33400, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.1770569,
+                  "lng" : 83.66124270000002
+               },
+               "southwest" : {
+                  "lat" : 28.1511918,
+                  "lng" : 83.638268
+               }
+            },
+            "location" : {
+               "lat" : 28.163413,
+               "lng" : 83.65124879999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.1770569,
+                  "lng" : 83.66124270000002
+               },
+               "southwest" : {
+                  "lat" : 28.1511918,
+                  "lng" : 83.638268
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ7egICprglTkRs49jmoDUAGg",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,55 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Basudevapur",
+               "short_name" : "Basudevapur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21900",
+               "short_name" : "21900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Basudevapur 21900, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.08,
+               "lng" : 81.67000000000002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.0813489802915,
+                  "lng" : 81.67134898029153
+               },
+               "southwest" : {
+                  "lat" : 28.0786510197085,
+                  "lng" : 81.66865101970852
+               }
+            }
+         },
+         "place_id" : "ChIJ0QRE7cdnmDkR3GTKFIj1kas",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

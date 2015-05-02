@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dumara",
+               "short_name" : "Dumara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lumbini",
+               "short_name" : "Lumbini",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32800",
+               "short_name" : "32800",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dumara 32800, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.52,
+               "lng" : 83.13
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.5213489802915,
+                  "lng" : 83.13134898029151
+               },
+               "southwest" : {
+                  "lat" : 27.5186510197085,
+                  "lng" : 83.12865101970849
+               }
+            }
+         },
+         "place_id" : "ChIJWaAxiPjuljkRWjzi8Rg1QZ0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

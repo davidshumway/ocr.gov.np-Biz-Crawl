@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ratnapur",
+               "short_name" : "Ratnapur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gandaki",
+               "short_name" : "Gandaki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ratnapur, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.9236302,
+                  "lng" : 83.8772249
+               },
+               "southwest" : {
+                  "lat" : 27.8732243,
+                  "lng" : 83.826499
+               }
+            },
+            "location" : {
+               "lat" : 27.9,
+               "lng" : 83.84999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.9236302,
+                  "lng" : 83.8772249
+               },
+               "southwest" : {
+                  "lat" : 27.8732243,
+                  "lng" : 83.826499
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ0fb-OLPOlTkRfuV3Fzfm-t0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

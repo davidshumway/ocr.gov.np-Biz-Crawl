@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Salyan",
+               "short_name" : "Salyan",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Rapti",
+               "short_name" : "Rapti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Salyan, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6225762,
+                  "lng" : 82.3996925
+               },
+               "southwest" : {
+                  "lat" : 28.1350475,
+                  "lng" : 81.72300349999999
+               }
+            },
+            "location" : {
+               "lat" : 28.3524811,
+               "lng" : 82.12783999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6225762,
+                  "lng" : 82.3996925
+               },
+               "southwest" : {
+                  "lat" : 28.1350475,
+                  "lng" : 81.72300349999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJdQgOSSB1mDkRg2-EKiPYu3A",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,70 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rolpa Airport",
+               "short_name" : "Rolpa Airport",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Wadachaur",
+               "short_name" : "Wadachaur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rapti",
+               "short_name" : "Rapti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "22100",
+               "short_name" : "22100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rolpa Airport, Wadachaur 22100, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.2681156,
+                  "lng" : 82.7581699
+               },
+               "southwest" : {
+                  "lat" : 28.2656209,
+                  "lng" : 82.754436
+               }
+            },
+            "location" : {
+               "lat" : 28.2669486,
+               "lng" : 82.7564478
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.2682172302915,
+                  "lng" : 82.7581699
+               },
+               "southwest" : {
+                  "lat" : 28.2655192697085,
+                  "lng" : 82.754436
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJQ839IL7PlzkRrMYImb_ol-U",
+         "types" : [ "airport", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

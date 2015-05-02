@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nisi",
+               "short_name" : "Nisi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dhawalagiri",
+               "short_name" : "Dhawalagiri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33300",
+               "short_name" : "33300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nisi 33300, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.4100489,
+                  "lng" : 83.01220189999999
+               },
+               "southwest" : {
+                  "lat" : 28.4030277,
+                  "lng" : 83.00005659999999
+               }
+            },
+            "location" : {
+               "lat" : 28.4069244,
+               "lng" : 83.0059224
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.4100489,
+                  "lng" : 83.01220189999999
+               },
+               "southwest" : {
+                  "lat" : 28.4030277,
+                  "lng" : 83.00005659999999
+               }
+            }
+         },
+         "place_id" : "ChIJYwZah04pljkRmcogEY4PXgE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

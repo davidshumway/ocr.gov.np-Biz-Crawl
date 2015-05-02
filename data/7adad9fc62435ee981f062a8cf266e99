@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kunathari",
+               "short_name" : "Kunathari",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21700",
+               "short_name" : "21700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kunathari 21700, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.7359418,
+                  "lng" : 81.5640451
+               },
+               "southwest" : {
+                  "lat" : 28.5978236,
+                  "lng" : 81.4041424
+               }
+            },
+            "location" : {
+               "lat" : 28.69,
+               "lng" : 81.50999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.7359418,
+                  "lng" : 81.5640451
+               },
+               "southwest" : {
+                  "lat" : 28.5978236,
+                  "lng" : 81.4041424
+               }
+            }
+         },
+         "place_id" : "ChIJAeWe9DliojkRUKP6qAlKhF0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dhikpur",
+               "short_name" : "Dhikpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rapti",
+               "short_name" : "Rapti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dhikpur, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.0732299,
+                  "lng" : 82.3982334
+               },
+               "southwest" : {
+                  "lat" : 28.0151843,
+                  "lng" : 82.33274449999999
+               }
+            },
+            "location" : {
+               "lat" : 28.04,
+               "lng" : 82.36999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.0732299,
+                  "lng" : 82.3982334
+               },
+               "southwest" : {
+                  "lat" : 28.0151843,
+                  "lng" : 82.33274449999999
+               }
+            }
+         },
+         "place_id" : "ChIJPyt5MHaNlzkRjJ9TBclKVCM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

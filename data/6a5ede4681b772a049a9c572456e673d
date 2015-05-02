@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gauri Sankar",
+               "short_name" : "Gauri Sankar",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Gaurishankar Conservation Area",
+               "short_name" : "Gaurishankar Conservation Area",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Gauri Sankar",
+               "short_name" : "Gauri Sankar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45500",
+               "short_name" : "45500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gauri Sankar, Gaurishankar Conservation Area, Gauri Sankar 45500, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.95,
+               "lng" : 86.33333329999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.95134898029151,
+                  "lng" : 86.3346822802915
+               },
+               "southwest" : {
+                  "lat" : 27.9486510197085,
+                  "lng" : 86.33198431970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJbW0Mj16B6TkRRntZizeuw0Q",
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

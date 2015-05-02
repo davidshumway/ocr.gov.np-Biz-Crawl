@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sarlahi",
+               "short_name" : "Sarlahi",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sarlahi, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.1919682,
+                  "lng" : 85.7893182
+               },
+               "southwest" : {
+                  "lat" : 26.7504391,
+                  "lng" : 85.3078938
+               }
+            },
+            "location" : {
+               "lat" : 26.9627141,
+               "lng" : 85.56121
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.1919682,
+                  "lng" : 85.7893182
+               },
+               "southwest" : {
+                  "lat" : 26.7504391,
+                  "lng" : 85.3078938
+               }
+            }
+         },
+         "place_id" : "ChIJe1zpVfCG7DkRl_fR7vRN-7Q",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

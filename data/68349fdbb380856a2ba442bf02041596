@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sipadol",
+               "short_name" : "Sipadol",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sipadol, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6663876,
+                  "lng" : 85.44681070000001
+               },
+               "southwest" : {
+                  "lat" : 27.6233153,
+                  "lng" : 85.4231214
+               }
+            },
+            "location" : {
+               "lat" : 27.65,
+               "lng" : 85.44
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6663876,
+                  "lng" : 85.44681070000001
+               },
+               "southwest" : {
+                  "lat" : 27.6233153,
+                  "lng" : 85.4231214
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJszz1tx0Q6zkR_B25ZEsuTRY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

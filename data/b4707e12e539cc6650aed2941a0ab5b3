@@ -1,0 +1,66 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rangkhani",
+               "short_name" : "Rangkhani",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dhawalagiri",
+               "short_name" : "Dhawalagiri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33300",
+               "short_name" : "33300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rangkhani 33300, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.1621124,
+                  "lng" : 83.5891718
+               },
+               "southwest" : {
+                  "lat" : 28.1254679,
+                  "lng" : 83.531397
+               }
+            },
+            "location" : {
+               "lat" : 28.15,
+               "lng" : 83.56
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.1621124,
+                  "lng" : 83.5891718
+               },
+               "southwest" : {
+                  "lat" : 28.1254679,
+                  "lng" : 83.531397
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJQYETei11ljkRNMKGzeE66pw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

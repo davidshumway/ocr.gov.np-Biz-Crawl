@@ -1,0 +1,120 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nepal Telecom, Kalaiya, Bara",
+               "short_name" : "Nepal Telecom, Kalaiya, Bara",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Birgunj-Kalaiya Road",
+               "short_name" : "F18",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kalaiya",
+               "short_name" : "Kalaiya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44400",
+               "short_name" : "44400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nepal Telecom, Kalaiya, Bara, Birgunj-Kalaiya Road, Kalaiya 44400, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.0322244,
+               "lng" : 85.0012636
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.0335733802915,
+                  "lng" : 85.0026125802915
+               },
+               "southwest" : {
+                  "lat" : 27.0308754197085,
+                  "lng" : 84.99991461970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJiWB24LWr7DkRfrtMzqZOHJk",
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "madrsa ainul islam,viswa bara",
+               "short_name" : "madrsa ainul islam,viswa bara",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Hardiya",
+               "short_name" : "Hardiya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44400",
+               "short_name" : "44400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "madrsa ainul islam,viswa bara, Hardiya 44400, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9335486,
+               "lng" : 85.0437713
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9348975802915,
+                  "lng" : 85.04512028029151
+               },
+               "southwest" : {
+                  "lat" : 26.93219961970849,
+                  "lng" : 85.04242231970851
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJEQrPBmiu7DkRLAZMX1wfWyc",
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

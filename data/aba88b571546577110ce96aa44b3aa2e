@@ -1,0 +1,66 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Garayala",
+               "short_name" : "Garayala",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rapti",
+               "short_name" : "Rapti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "22000",
+               "short_name" : "22000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Garayala 22000, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.7160335,
+                  "lng" : 82.41402630000002
+               },
+               "southwest" : {
+                  "lat" : 28.6438204,
+                  "lng" : 82.27618219999999
+               }
+            },
+            "location" : {
+               "lat" : 28.68,
+               "lng" : 82.33000000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.7160335,
+                  "lng" : 82.41402630000002
+               },
+               "southwest" : {
+                  "lat" : 28.6438204,
+                  "lng" : 82.27618219999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJo2dJ3VJOvTkRQwKCwbrg2-Y",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

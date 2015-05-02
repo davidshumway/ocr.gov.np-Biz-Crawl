@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tatopani",
+               "short_name" : "Tatopani",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45301",
+               "short_name" : "45301",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tatopani 45301, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.98,
+               "lng" : 85.92999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.9813489802915,
+                  "lng" : 85.9313489802915
+               },
+               "southwest" : {
+                  "lat" : 27.9786510197085,
+                  "lng" : 85.9286510197085
+               }
+            }
+         },
+         "place_id" : "ChIJicGuJeBJ6jkRvPyeiv8-0d4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

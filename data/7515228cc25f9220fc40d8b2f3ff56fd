@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jumla",
+               "short_name" : "Jumla",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Karnali",
+               "short_name" : "Karnali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jumla, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.5025904,
+                  "lng" : 82.5604534
+               },
+               "southwest" : {
+                  "lat" : 28.9652703,
+                  "lng" : 81.8269444
+               }
+            },
+            "location" : {
+               "lat" : 29.2787765,
+               "lng" : 82.12783999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.5025904,
+                  "lng" : 82.5604534
+               },
+               "southwest" : {
+                  "lat" : 28.9652703,
+                  "lng" : 81.8269444
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJUUHyjtYqozkR-cl2aWtwnww",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

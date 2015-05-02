@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Auraha",
+               "short_name" : "Auraha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44300",
+               "short_name" : "44300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Auraha 44300, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.1289887,
+                  "lng" : 84.7800591
+               },
+               "southwest" : {
+                  "lat" : 27.094566,
+                  "lng" : 84.73432480000001
+               }
+            },
+            "location" : {
+               "lat" : 27.12,
+               "lng" : 84.75999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.1289887,
+                  "lng" : 84.7800591
+               },
+               "southwest" : {
+                  "lat" : 27.094566,
+                  "lng" : 84.73432480000001
+               }
+            }
+         },
+         "place_id" : "ChIJHYmiHs6nlDkRQav0APpbR5U",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

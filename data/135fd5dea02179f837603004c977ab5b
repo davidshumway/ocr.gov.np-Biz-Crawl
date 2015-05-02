@@ -1,0 +1,56 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alital",
+               "short_name" : "Alital",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mahakali",
+               "short_name" : "Mahakali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10300",
+               "short_name" : "10300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alital 10300, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.09,
+               "lng" : 80.48999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.0913489802915,
+                  "lng" : 80.49134898029151
+               },
+               "southwest" : {
+                  "lat" : 29.0886510197085,
+                  "lng" : 80.48865101970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJnUhV63p1oTkR4lci-F-5Fyw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

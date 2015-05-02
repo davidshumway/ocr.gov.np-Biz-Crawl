@@ -1,0 +1,115 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aanandaban",
+               "short_name" : "Aanandaban",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lumbini",
+               "short_name" : "Lumbini",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aanandaban, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6458989,
+                  "lng" : 83.48201759999999
+               },
+               "southwest" : {
+                  "lat" : 27.6056708,
+                  "lng" : 83.4333515
+               }
+            },
+            "location" : {
+               "lat" : 27.63,
+               "lng" : 83.45999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6458989,
+                  "lng" : 83.48201759999999
+               },
+               "southwest" : {
+                  "lat" : 27.6056708,
+                  "lng" : 83.4333515
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJryfKpgCFljkRdhyBFUu6yAE",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tilottama",
+               "short_name" : "Tilottama",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lumbini",
+               "short_name" : "Lumbini",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tilottama, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6725826,
+                  "lng" : 83.55162609999999
+               },
+               "southwest" : {
+                  "lat" : 27.5501333,
+                  "lng" : 83.4135246
+               }
+            },
+            "location" : {
+               "lat" : 27.6192898,
+               "lng" : 83.4750241
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6725826,
+                  "lng" : 83.55162609999999
+               },
+               "southwest" : {
+                  "lat" : 27.5501333,
+                  "lng" : 83.4135246
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJzfGoSeuEljkRAbMnPUbffvs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

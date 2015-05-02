@@ -1,0 +1,75 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mahadevsthan",
+               "short_name" : "Mahadevsthan",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "New Baneshwor",
+               "short_name" : "New Baneshwor",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kathmandu",
+               "short_name" : "Kathmandu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44600",
+               "short_name" : "44600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mahadevsthan, Kathmandu 44600, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6992721,
+                  "lng" : 85.34744979999999
+               },
+               "southwest" : {
+                  "lat" : 27.6925685,
+                  "lng" : 85.3358775
+               }
+            },
+            "location" : {
+               "lat" : 27.6966187,
+               "lng" : 85.34140269999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6992721,
+                  "lng" : 85.34744979999999
+               },
+               "southwest" : {
+                  "lat" : 27.6925685,
+                  "lng" : 85.3358775
+               }
+            }
+         },
+         "place_id" : "ChIJbSsvXpoZ6zkRnSjzz0GChFI",
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

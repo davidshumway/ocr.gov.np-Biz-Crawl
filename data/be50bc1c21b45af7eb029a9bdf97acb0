@@ -1,0 +1,65 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nallu",
+               "short_name" : "Nallu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44700",
+               "short_name" : "44700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nallu 44700, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.5593408,
+                  "lng" : 85.36746029999999
+               },
+               "southwest" : {
+                  "lat" : 27.5385278,
+                  "lng" : 85.32003879999999
+               }
+            },
+            "location" : {
+               "lat" : 27.55,
+               "lng" : 85.34
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.5593408,
+                  "lng" : 85.36746029999999
+               },
+               "southwest" : {
+                  "lat" : 27.5385278,
+                  "lng" : 85.32003879999999
+               }
+            }
+         },
+         "place_id" : "ChIJT7497hEU6zkRZZ1Ge8CfwRo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sangla",
+               "short_name" : "Sangla",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sangla, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.8161528,
+                  "lng" : 85.33063899999999
+               },
+               "southwest" : {
+                  "lat" : 27.7721524,
+                  "lng" : 85.3047181
+               }
+            },
+            "location" : {
+               "lat" : 27.8,
+               "lng" : 85.31999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.8161528,
+                  "lng" : 85.33063899999999
+               },
+               "southwest" : {
+                  "lat" : 27.7721524,
+                  "lng" : 85.3047181
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJpSQsvP4e6zkRIV757hBpZbw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

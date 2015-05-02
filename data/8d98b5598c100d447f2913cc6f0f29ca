@@ -1,0 +1,66 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sakhuawa",
+               "short_name" : "Sakhuawa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44500",
+               "short_name" : "44500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sakhuawa 44500, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.9071495,
+                  "lng" : 85.31068999999999
+               },
+               "southwest" : {
+                  "lat" : 26.8724794,
+                  "lng" : 85.2792492
+               }
+            },
+            "location" : {
+               "lat" : 26.883333,
+               "lng" : 85.3
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9071495,
+                  "lng" : 85.31068999999999
+               },
+               "southwest" : {
+                  "lat" : 26.8724794,
+                  "lng" : 85.2792492
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJWUbkrpaX7DkRo5lxfYUx2HQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

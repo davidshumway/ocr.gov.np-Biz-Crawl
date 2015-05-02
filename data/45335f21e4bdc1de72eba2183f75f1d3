@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ranipokhari",
+               "short_name" : "Ranipokhari",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gandaki",
+               "short_name" : "Gandaki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ranipokhari, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.9763245,
+                  "lng" : 84.17068
+               },
+               "southwest" : {
+                  "lat" : 27.9138846,
+                  "lng" : 84.11111339999999
+               }
+            },
+            "location" : {
+               "lat" : 27.9472091,
+               "lng" : 84.14878999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.9763245,
+                  "lng" : 84.17068
+               },
+               "southwest" : {
+                  "lat" : 27.9138846,
+                  "lng" : 84.11111339999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ6xyx67-vlTkRgVOxIVHC08o",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

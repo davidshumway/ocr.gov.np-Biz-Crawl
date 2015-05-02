@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Waling",
+               "short_name" : "Waling",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gandaki",
+               "short_name" : "Gandaki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33801",
+               "short_name" : "33801",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Waling 33801, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.02547,
+                  "lng" : 83.82559780000001
+               },
+               "southwest" : {
+                  "lat" : 27.9536198,
+                  "lng" : 83.7117004
+               }
+            },
+            "location" : {
+               "lat" : 27.988889,
+               "lng" : 83.76750000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.02547,
+                  "lng" : 83.82559780000001
+               },
+               "southwest" : {
+                  "lat" : 27.9536198,
+                  "lng" : 83.7117004
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJE415hUvFlTkReHYGuk9mIEc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

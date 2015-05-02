@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lekhnath",
+               "short_name" : "Lekhnath",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gandaki",
+               "short_name" : "Gandaki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lekhnath, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.2169872,
+                  "lng" : 84.145124
+               },
+               "southwest" : {
+                  "lat" : 28.0747067,
+                  "lng" : 84.0007782
+               }
+            },
+            "location" : {
+               "lat" : 28.1484247,
+               "lng" : 84.0801613
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.2169872,
+                  "lng" : 84.145124
+               },
+               "southwest" : {
+                  "lat" : 28.0747067,
+                  "lng" : 84.0007782
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ_UzGYRO9lTkRODGbB66wqfo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

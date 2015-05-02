@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Suryamati",
+               "short_name" : "Suryamati",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44900",
+               "short_name" : "44900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Suryamati 44900, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.89,
+               "lng" : 85.2
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.8913489802915,
+                  "lng" : 85.20134898029151
+               },
+               "southwest" : {
+                  "lat" : 27.8886510197085,
+                  "lng" : 85.19865101970851
+               }
+            }
+         },
+         "place_id" : "ChIJq1fAIdje6jkRJ75dQ0cWIDE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

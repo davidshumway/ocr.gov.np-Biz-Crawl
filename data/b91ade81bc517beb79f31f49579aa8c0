@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nainhi",
+               "short_name" : "Nainhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nainhi, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.6614906,
+                  "lng" : 85.7861839
+               },
+               "southwest" : {
+                  "lat" : 26.6322337,
+                  "lng" : 85.74901659999999
+               }
+            },
+            "location" : {
+               "lat" : 26.65,
+               "lng" : 85.77
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.6614906,
+                  "lng" : 85.7861839
+               },
+               "southwest" : {
+                  "lat" : 26.6322337,
+                  "lng" : 85.74901659999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJUwetF1ND7DkRhJbyEyBuEBs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

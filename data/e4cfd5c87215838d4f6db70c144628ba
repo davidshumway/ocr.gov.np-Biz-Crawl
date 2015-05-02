@@ -1,0 +1,120 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Byas",
+               "short_name" : "Byas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gandaki",
+               "short_name" : "Gandaki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Byas, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.0356222,
+                  "lng" : 84.3447877
+               },
+               "southwest" : {
+                  "lat" : 27.916615,
+                  "lng" : 84.2160415
+               }
+            },
+            "location" : {
+               "lat" : 27.9733,
+               "lng" : 84.26779999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.0356222,
+                  "lng" : 84.3447877
+               },
+               "southwest" : {
+                  "lat" : 27.916615,
+                  "lng" : 84.2160415
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJdyGv3oAHlTkR-536N2FpszM",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Damauli",
+               "short_name" : "Damauli",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gandaki",
+               "short_name" : "Gandaki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33900",
+               "short_name" : "33900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Damauli 33900, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.9807966,
+                  "lng" : 84.2732048
+               },
+               "southwest" : {
+                  "lat" : 27.9691421,
+                  "lng" : 84.26188599999999
+               }
+            },
+            "location" : {
+               "lat" : 27.9740228,
+               "lng" : 84.26606869999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.9807966,
+                  "lng" : 84.2732048
+               },
+               "southwest" : {
+                  "lat" : 27.9691421,
+                  "lng" : 84.26188599999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ5ZEaKxyolTkRWhChdQNI8HA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

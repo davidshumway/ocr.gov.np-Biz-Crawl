@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Putalibazar",
+               "short_name" : "Putalibazar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gandaki",
+               "short_name" : "Gandaki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33800",
+               "short_name" : "33800",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Putalibazar 33800, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.1460219,
+                  "lng" : 83.90964749999999
+               },
+               "southwest" : {
+                  "lat" : 28.0465309,
+                  "lng" : 83.7907934
+               }
+            },
+            "location" : {
+               "lat" : 28.0994,
+               "lng" : 83.87169999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.1460219,
+                  "lng" : 83.90964749999999
+               },
+               "southwest" : {
+                  "lat" : 28.0465309,
+                  "lng" : 83.7907934
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ3b2LFBLBlTkRKBv00ItMknQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Radhapur",
+               "short_name" : "Radhapur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21900",
+               "short_name" : "21900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Radhapur 21900, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.07,
+               "lng" : 81.53
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.0713489802915,
+                  "lng" : 81.53134898029151
+               },
+               "southwest" : {
+                  "lat" : 28.0686510197085,
+                  "lng" : 81.52865101970851
+               }
+            }
+         },
+         "place_id" : "ChIJCx3hUjpgmDkR7Z9iyXWlzAA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

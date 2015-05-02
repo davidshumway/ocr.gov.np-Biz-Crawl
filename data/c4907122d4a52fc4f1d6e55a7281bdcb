@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Patihani",
+               "short_name" : "Patihani",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44200",
+               "short_name" : "44200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Patihani 44200, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6081808,
+                  "lng" : 84.3886471
+               },
+               "southwest" : {
+                  "lat" : 27.5597212,
+                  "lng" : 84.3332863
+               }
+            },
+            "location" : {
+               "lat" : 27.59,
+               "lng" : 84.36000000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6081808,
+                  "lng" : 84.3886471
+               },
+               "southwest" : {
+                  "lat" : 27.5597212,
+                  "lng" : 84.3332863
+               }
+            }
+         },
+         "place_id" : "ChIJ6-ebE9HwlDkR4vIh9CSaYDE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

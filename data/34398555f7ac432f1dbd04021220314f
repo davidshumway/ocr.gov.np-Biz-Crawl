@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thankot",
+               "short_name" : "Thankot",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Thankot, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7036678,
+                  "lng" : 85.23133279999999
+               },
+               "southwest" : {
+                  "lat" : 27.6764024,
+                  "lng" : 85.1889539
+               }
+            },
+            "location" : {
+               "lat" : 27.686766,
+               "lng" : 85.2023569
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7036678,
+                  "lng" : 85.23133279999999
+               },
+               "southwest" : {
+                  "lat" : 27.6764024,
+                  "lng" : 85.1889539
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJse95VA4j6zkR0w8DKffXjqI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

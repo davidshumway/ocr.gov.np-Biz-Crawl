@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tosi",
+               "short_name" : "Tosi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seti",
+               "short_name" : "Seti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10700",
+               "short_name" : "10700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tosi 10700, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.99,
+               "lng" : 81.36999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.99134898029149,
+                  "lng" : 81.3713489802915
+               },
+               "southwest" : {
+                  "lat" : 28.9886510197085,
+                  "lng" : 81.36865101970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ-SEfeU9QojkR_TjpZZ13IhM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

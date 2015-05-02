@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Titihiriya",
+               "short_name" : "Titihiriya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Titihiriya, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.2226972,
+                  "lng" : 81.5879166
+               },
+               "southwest" : {
+                  "lat" : 28.1579788,
+                  "lng" : 81.5152932
+               }
+            },
+            "location" : {
+               "lat" : 28.166667,
+               "lng" : 81.533333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.2226972,
+                  "lng" : 81.5879166
+               },
+               "southwest" : {
+                  "lat" : 28.1579788,
+                  "lng" : 81.5152932
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJs5PZ1ORimDkR6TFGJZSTgvY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

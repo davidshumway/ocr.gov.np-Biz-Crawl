@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Banepa",
+               "short_name" : "Banepa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Banepa, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6490067,
+                  "lng" : 85.54010869999999
+               },
+               "southwest" : {
+                  "lat" : 27.6178396,
+                  "lng" : 85.50839429999999
+               }
+            },
+            "location" : {
+               "lat" : 27.633333,
+               "lng" : 85.516667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6490067,
+                  "lng" : 85.54010869999999
+               },
+               "southwest" : {
+                  "lat" : 27.6178396,
+                  "lng" : 85.50839429999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJUzuisTMP6zkRVIrzvZIL7Og",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

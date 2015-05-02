@@ -1,0 +1,70 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rupakot",
+               "short_name" : "Rupakot",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kaski",
+               "short_name" : "Kaski",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Gandaki",
+               "short_name" : "Gandaki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33700",
+               "short_name" : "33700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rupakot 33700, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.1758362,
+                  "lng" : 84.18630109999999
+               },
+               "southwest" : {
+                  "lat" : 28.1291817,
+                  "lng" : 84.1090535
+               }
+            },
+            "location" : {
+               "lat" : 28.15,
+               "lng" : 84.13333299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.1758362,
+                  "lng" : 84.18630109999999
+               },
+               "southwest" : {
+                  "lat" : 28.1291817,
+                  "lng" : 84.1090535
+               }
+            }
+         },
+         "place_id" : "ChIJ31IYX1OilTkRk_jnQek43MM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

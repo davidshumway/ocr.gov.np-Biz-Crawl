@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Keshavtar",
+               "short_name" : "Keshavtar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gandaki",
+               "short_name" : "Gandaki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Keshavtar, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.9389863,
+                  "lng" : 84.37004329999999
+               },
+               "southwest" : {
+                  "lat" : 27.8771887,
+                  "lng" : 84.30873869999999
+               }
+            },
+            "location" : {
+               "lat" : 27.92,
+               "lng" : 84.33999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.9389863,
+                  "lng" : 84.37004329999999
+               },
+               "southwest" : {
+                  "lat" : 27.8771887,
+                  "lng" : 84.30873869999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJh7YrsLYGlTkRXGmW-iOD0CI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

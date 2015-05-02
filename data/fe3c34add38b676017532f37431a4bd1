@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sahare",
+               "short_name" : "Sahare",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sahare, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.4467324,
+                  "lng" : 81.9566346
+               },
+               "southwest" : {
+                  "lat" : 28.3589274,
+                  "lng" : 81.8424368
+               }
+            },
+            "location" : {
+               "lat" : 28.383333,
+               "lng" : 81.89999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.4467324,
+                  "lng" : 81.9566346
+               },
+               "southwest" : {
+                  "lat" : 28.3589274,
+                  "lng" : 81.8424368
+               }
+            }
+         },
+         "place_id" : "ChIJzYma-PAKmDkRnAW1CEON7Uw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

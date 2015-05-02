@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jupu",
+               "short_name" : "Jupu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seti",
+               "short_name" : "Seti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10700",
+               "short_name" : "10700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jupu 10700, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.1646224,
+                  "lng" : 81.3195563
+               },
+               "southwest" : {
+                  "lat" : 29.1196617,
+                  "lng" : 81.2851811
+               }
+            },
+            "location" : {
+               "lat" : 29.15,
+               "lng" : 81.3
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.1646224,
+                  "lng" : 81.3195563
+               },
+               "southwest" : {
+                  "lat" : 29.1196617,
+                  "lng" : 81.2851811
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJNyCYRtGyozkRioxefDfhfJA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

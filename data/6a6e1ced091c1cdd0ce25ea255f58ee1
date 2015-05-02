@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bhatauliya",
+               "short_name" : "Bhatauliya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45700",
+               "short_name" : "45700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bhatauliya 45700, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.6885772,
+                  "lng" : 85.7840623
+               },
+               "southwest" : {
+                  "lat" : 26.6705522,
+                  "lng" : 85.7500117
+               }
+            },
+            "location" : {
+               "lat" : 26.68,
+               "lng" : 85.77
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.6885772,
+                  "lng" : 85.7840623
+               },
+               "southwest" : {
+                  "lat" : 26.6705522,
+                  "lng" : 85.7500117
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJwcENvyxD7DkRHwu9xeVwloE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

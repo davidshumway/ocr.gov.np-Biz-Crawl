@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chyama",
+               "short_name" : "Chyama",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45500",
+               "short_name" : "45500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chyama 45500, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.5517123,
+                  "lng" : 86.15531100000001
+               },
+               "southwest" : {
+                  "lat" : 27.5101555,
+                  "lng" : 86.12392899999999
+               }
+            },
+            "location" : {
+               "lat" : 27.53,
+               "lng" : 86.14
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.5517123,
+                  "lng" : 86.15531100000001
+               },
+               "southwest" : {
+                  "lat" : 27.5101555,
+                  "lng" : 86.12392899999999
+               }
+            }
+         },
+         "place_id" : "ChIJz7A4SKbd6zkR7EufSocEEMg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

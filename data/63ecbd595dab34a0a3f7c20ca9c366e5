@@ -1,0 +1,146 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "district veterinary office myagdi",
+               "short_name" : "district veterinary office myagdi",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Arthunge",
+               "short_name" : "Arthunge",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Beni",
+               "short_name" : "Beni",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dhawalagiri",
+               "short_name" : "Dhawalagiri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33200",
+               "short_name" : "33200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "district veterinary office myagdi, Beni 33200, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.34247,
+                  "lng" : 83.56227199999999
+               },
+               "southwest" : {
+                  "lat" : 28.3423461,
+                  "lng" : 83.5620158
+               }
+            },
+            "location" : {
+               "lat" : 28.342399,
+               "lng" : 83.5621007
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.3437570302915,
+                  "lng" : 83.56349288029151
+               },
+               "southwest" : {
+                  "lat" : 28.3410590697085,
+                  "lng" : 83.5607949197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJn8MyRNoHljkR1qgOs94w2-g",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "District Forest Office, Myagdi",
+               "short_name" : "District Forest Office, Myagdi",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Arthunge",
+               "short_name" : "Arthunge",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Beni",
+               "short_name" : "Beni",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dhawalagiri",
+               "short_name" : "Dhawalagiri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33200",
+               "short_name" : "33200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "District Forest Office, Myagdi, Beni 33200, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.3424453,
+                  "lng" : 83.56249320000001
+               },
+               "southwest" : {
+                  "lat" : 28.3421065,
+                  "lng" : 83.56205589999999
+               }
+            },
+            "location" : {
+               "lat" : 28.3422251,
+               "lng" : 83.56226719999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.3436248802915,
+                  "lng" : 83.56362353029151
+               },
+               "southwest" : {
+                  "lat" : 28.3409269197085,
+                  "lng" : 83.5609255697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ3eQhRtoHljkR1g-bVc2e3u4",
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

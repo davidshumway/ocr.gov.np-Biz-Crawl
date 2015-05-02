@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bahrabise",
+               "short_name" : "Bahrabise",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45302",
+               "short_name" : "45302",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bahrabise 45302, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.8164944,
+                  "lng" : 85.9480834
+               },
+               "southwest" : {
+                  "lat" : 27.7776202,
+                  "lng" : 85.8910059
+               }
+            },
+            "location" : {
+               "lat" : 27.8002782,
+               "lng" : 85.91512109999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.8164944,
+                  "lng" : 85.9480834
+               },
+               "southwest" : {
+                  "lat" : 27.7776202,
+                  "lng" : 85.8910059
+               }
+            }
+         },
+         "place_id" : "ChIJhXD1tMi16zkRib90hC2ivDY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

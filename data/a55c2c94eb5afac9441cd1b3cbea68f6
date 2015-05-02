@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shantipur",
+               "short_name" : "Shantipur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shantipur, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.8767188,
+                  "lng" : 85.9453475
+               },
+               "southwest" : {
+                  "lat" : 26.831237,
+                  "lng" : 85.91515249999999
+               }
+            },
+            "location" : {
+               "lat" : 26.86,
+               "lng" : 85.92999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8767188,
+                  "lng" : 85.9453475
+               },
+               "southwest" : {
+                  "lat" : 26.831237,
+                  "lng" : 85.91515249999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJoxBJZLVs7DkRKFLXBQhfIDc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

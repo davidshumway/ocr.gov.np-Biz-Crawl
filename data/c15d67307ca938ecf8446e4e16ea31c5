@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rakam Karnali",
+               "short_name" : "Rakam Karnali",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21600",
+               "short_name" : "21600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rakam Karnali 21600, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.06,
+               "lng" : 81.45999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.0613489802915,
+                  "lng" : 81.4613489802915
+               },
+               "southwest" : {
+                  "lat" : 29.0586510197085,
+                  "lng" : 81.4586510197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJT1C17SVUojkRh9EdNO9d8L4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

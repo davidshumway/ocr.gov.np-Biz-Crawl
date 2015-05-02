@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hadahade",
+               "short_name" : "Hadahade",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lumbini",
+               "short_name" : "Lumbini",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32600",
+               "short_name" : "32600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hadahade 32600, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.1153667,
+                  "lng" : 83.13959609999999
+               },
+               "southwest" : {
+                  "lat" : 28.0768651,
+                  "lng" : 83.06741239999999
+               }
+            },
+            "location" : {
+               "lat" : 28.1,
+               "lng" : 83.11
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.1153667,
+                  "lng" : 83.13959609999999
+               },
+               "southwest" : {
+                  "lat" : 28.0768651,
+                  "lng" : 83.06741239999999
+               }
+            }
+         },
+         "place_id" : "ChIJRQHy475HljkRnNkshBrqEg0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

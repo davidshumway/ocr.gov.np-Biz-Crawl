@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Manahari",
+               "short_name" : "Manahari",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Manahari, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6093014,
+                  "lng" : 84.8972328
+               },
+               "southwest" : {
+                  "lat" : 27.4156848,
+                  "lng" : 84.71318099999999
+               }
+            },
+            "location" : {
+               "lat" : 27.55,
+               "lng" : 84.78999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6093014,
+                  "lng" : 84.8972328
+               },
+               "southwest" : {
+                  "lat" : 27.4156848,
+                  "lng" : 84.71318099999999
+               }
+            }
+         },
+         "place_id" : "ChIJhZm9id_IlDkRvMMhCl6FZX8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

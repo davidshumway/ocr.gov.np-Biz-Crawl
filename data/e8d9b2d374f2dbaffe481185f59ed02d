@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Piladi",
+               "short_name" : "Piladi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21600",
+               "short_name" : "21600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Piladi 21600, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.68,
+               "lng" : 81.72999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6813489802915,
+                  "lng" : 81.7313489802915
+               },
+               "southwest" : {
+                  "lat" : 28.6786510197085,
+                  "lng" : 81.72865101970849
+               }
+            }
+         },
+         "place_id" : "ChIJfcHW0J6RojkRfq2K5zW8X-g",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

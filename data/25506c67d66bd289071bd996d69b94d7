@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bade Gaun",
+               "short_name" : "Bade Gaun",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bade Gaun, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.804955,
+                  "lng" : 85.6507014
+               },
+               "southwest" : {
+                  "lat" : 27.7584817,
+                  "lng" : 85.57250979999999
+               }
+            },
+            "location" : {
+               "lat" : 27.78,
+               "lng" : 85.61
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.804955,
+                  "lng" : 85.6507014
+               },
+               "southwest" : {
+                  "lat" : 27.7584817,
+                  "lng" : 85.57250979999999
+               }
+            }
+         },
+         "place_id" : "ChIJL8hymQ2q6zkR76En_UJwKLo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

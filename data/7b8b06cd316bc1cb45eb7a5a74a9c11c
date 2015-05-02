@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Baitadi",
+               "short_name" : "Baitadi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mahakali",
+               "short_name" : "Mahakali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10200",
+               "short_name" : "10200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Baitadi 10200, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.5296536,
+                  "lng" : 80.47749019999999
+               },
+               "southwest" : {
+                  "lat" : 29.5114211,
+                  "lng" : 80.4604148
+               }
+            },
+            "location" : {
+               "lat" : 29.5185787,
+               "lng" : 80.46880609999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.5296536,
+                  "lng" : 80.47749019999999
+               },
+               "southwest" : {
+                  "lat" : 29.5114211,
+                  "lng" : 80.4604148
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJfQm9Y7xAoTkR6u0h5SwWnFo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

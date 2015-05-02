@@ -1,0 +1,66 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kirtipur",
+               "short_name" : "Kirtipur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44600",
+               "short_name" : "44600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kirtipur 44600, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6914466,
+                  "lng" : 85.2993858
+               },
+               "southwest" : {
+                  "lat" : 27.6443474,
+                  "lng" : 85.2485593
+               }
+            },
+            "location" : {
+               "lat" : 27.678056,
+               "lng" : 85.276944
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6914466,
+                  "lng" : 85.2993858
+               },
+               "southwest" : {
+                  "lat" : 27.6443474,
+                  "lng" : 85.2485593
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ73eD1xIY6zkRO1QI2d58wwg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

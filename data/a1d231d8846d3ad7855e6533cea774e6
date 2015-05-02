@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jeetpur",
+               "short_name" : "Jeetpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44300",
+               "short_name" : "44300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jeetpur 44300, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.1962219,
+                  "lng" : 84.7420295
+               },
+               "southwest" : {
+                  "lat" : 27.1580696,
+                  "lng" : 84.6996546
+               }
+            },
+            "location" : {
+               "lat" : 27.1774547,
+               "lng" : 84.7237198
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.1962219,
+                  "lng" : 84.7420295
+               },
+               "southwest" : {
+                  "lat" : 27.1580696,
+                  "lng" : 84.6996546
+               }
+            }
+         },
+         "place_id" : "ChIJlbhxai-klDkRqvZdI6mCfJk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

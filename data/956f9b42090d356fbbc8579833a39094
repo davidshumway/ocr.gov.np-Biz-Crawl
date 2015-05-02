@@ -1,0 +1,70 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bauniya Bazar",
+               "short_name" : "Bauniya Bazar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Dododhara",
+               "short_name" : "Dododhara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seti",
+               "short_name" : "Seti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10900",
+               "short_name" : "10900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bauniya Bazar, Dododhara 10900, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6642318,
+                  "lng" : 81.05406060000001
+               },
+               "southwest" : {
+                  "lat" : 28.6533111,
+                  "lng" : 81.04228020000001
+               }
+            },
+            "location" : {
+               "lat" : 28.6579204,
+               "lng" : 81.04924459999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6642318,
+                  "lng" : 81.05406060000001
+               },
+               "southwest" : {
+                  "lat" : 28.6533111,
+                  "lng" : 81.04228020000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJB7x8fMsWojkRLuerr2MHaoM",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

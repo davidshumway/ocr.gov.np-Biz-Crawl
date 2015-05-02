@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dudhauli",
+               "short_name" : "Dudhauli",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dudhauli, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.0325236,
+                  "lng" : 86.3515091
+               },
+               "southwest" : {
+                  "lat" : 26.9196208,
+                  "lng" : 86.20851519999999
+               }
+            },
+            "location" : {
+               "lat" : 26.9713287,
+               "lng" : 86.26664629999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.0325236,
+                  "lng" : 86.3515091
+               },
+               "southwest" : {
+                  "lat" : 26.9196208,
+                  "lng" : 86.20851519999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJGWy1xEio7jkRjfMq6BB1jz0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

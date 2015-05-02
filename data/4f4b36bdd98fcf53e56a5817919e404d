@@ -1,0 +1,56 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lunkhu Deurali",
+               "short_name" : "Lunkhu Deurali",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dhawalagiri",
+               "short_name" : "Dhawalagiri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33400",
+               "short_name" : "33400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lunkhu Deurali 33400, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.11,
+               "lng" : 83.67999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.1113489802915,
+                  "lng" : 83.6813489802915
+               },
+               "southwest" : {
+                  "lat" : 28.1086510197085,
+                  "lng" : 83.6786510197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ5SbNAdXdlTkRns955dlJhZw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,71 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Trushuli-Nuwakot-Bidur-Tokha-Gangabu Road",
+               "short_name" : "Trushuli-Nuwakot-Bidur-Tokha-Gangabu Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sunkhani",
+               "short_name" : "Sunkhani",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44900",
+               "short_name" : "44900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Trushuli-Nuwakot-Bidur-Tokha-Gangabu Road, Sunkhani 44900, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.846324,
+                  "lng" : 85.3212243
+               },
+               "southwest" : {
+                  "lat" : 27.8322499,
+                  "lng" : 85.31456709999999
+               }
+            },
+            "location" : {
+               "lat" : 27.8381084,
+               "lng" : 85.31499620000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.846324,
+                  "lng" : 85.3212243
+               },
+               "southwest" : {
+                  "lat" : 27.8322499,
+                  "lng" : 85.31456709999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJI9pnDiwe6zkRYV1Jhau8Xng",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

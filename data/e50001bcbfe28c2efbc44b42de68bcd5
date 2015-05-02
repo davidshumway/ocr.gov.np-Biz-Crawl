@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Salyan",
+               "short_name" : "Salyan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dhawalagiri",
+               "short_name" : "Dhawalagiri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Salyan, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.3001486,
+                  "lng" : 83.815899
+               },
+               "southwest" : {
+                  "lat" : 28.2612221,
+                  "lng" : 83.7619972
+               }
+            },
+            "location" : {
+               "lat" : 28.28,
+               "lng" : 83.78999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.3001486,
+                  "lng" : 83.815899
+               },
+               "southwest" : {
+                  "lat" : 28.2612221,
+                  "lng" : 83.7619972
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJx2vhpRbvlTkRBc9BohL7zQg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

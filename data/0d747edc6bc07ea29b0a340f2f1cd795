@@ -1,0 +1,56 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rampur Bilaspur",
+               "short_name" : "Rampur Bilaspur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mahakali",
+               "short_name" : "Mahakali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10400",
+               "short_name" : "10400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rampur Bilaspur 10400, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.73,
+               "lng" : 80.31
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.7313489802915,
+                  "lng" : 80.31134898029151
+               },
+               "southwest" : {
+                  "lat" : 28.7286510197085,
+                  "lng" : 80.30865101970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJi8qALEW4oTkRSaeobibHBjw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

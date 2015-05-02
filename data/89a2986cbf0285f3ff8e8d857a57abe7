@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chandragiri",
+               "short_name" : "Chandragiri",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chandragiri, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7264936,
+                  "lng" : 85.27776449999999
+               },
+               "southwest" : {
+                  "lat" : 27.6452195,
+                  "lng" : 85.1886588
+               }
+            },
+            "location" : {
+               "lat" : 27.6903167,
+               "lng" : 85.22048509999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7264936,
+                  "lng" : 85.27776449999999
+               },
+               "southwest" : {
+                  "lat" : 27.6452195,
+                  "lng" : 85.1886588
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJiTAfbOIi6zkRaDngtBVwEnY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mahottari",
+               "short_name" : "Mahottari",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45700",
+               "short_name" : "45700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mahottari 45700, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.7159126,
+                  "lng" : 85.8484393
+               },
+               "southwest" : {
+                  "lat" : 26.6716714,
+                  "lng" : 85.8068061
+               }
+            },
+            "location" : {
+               "lat" : 26.6943279,
+               "lng" : 85.8230251
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.7159126,
+                  "lng" : 85.8484393
+               },
+               "southwest" : {
+                  "lat" : 26.6716714,
+                  "lng" : 85.8068061
+               }
+            }
+         },
+         "place_id" : "ChIJ2XKcsDVC7DkR4sq8AM6WMh8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

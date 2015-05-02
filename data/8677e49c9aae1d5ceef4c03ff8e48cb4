@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rupandehi",
+               "short_name" : "Rupandehi",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lumbini",
+               "short_name" : "Lumbini",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rupandehi, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.8216942,
+                  "lng" : 83.64226339999999
+               },
+               "southwest" : {
+                  "lat" : 27.3338788,
+                  "lng" : 83.1621265
+               }
+            },
+            "location" : {
+               "lat" : 27.6264239,
+               "lng" : 83.37893889999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.8216942,
+                  "lng" : 83.64226339999999
+               },
+               "southwest" : {
+                  "lat" : 27.3338788,
+                  "lng" : 83.1621265
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJs2VZS16ZljkRRn3iLkKd1Ow",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Irkhu",
+               "short_name" : "Irkhu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Irkhu, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7670639,
+                  "lng" : 85.77472689999999
+               },
+               "southwest" : {
+                  "lat" : 27.7186368,
+                  "lng" : 85.7221126
+               }
+            },
+            "location" : {
+               "lat" : 27.74,
+               "lng" : 85.73999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7670639,
+                  "lng" : 85.77472689999999
+               },
+               "southwest" : {
+                  "lat" : 27.7186368,
+                  "lng" : 85.7221126
+               }
+            }
+         },
+         "place_id" : "ChIJedbYzFiu6zkRKYPftJgqDjY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

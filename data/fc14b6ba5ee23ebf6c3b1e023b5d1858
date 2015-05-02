@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rangsi",
+               "short_name" : "Rangsi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rapti",
+               "short_name" : "Rapti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "22100",
+               "short_name" : "22100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rangsi 22100, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.479405,
+                  "lng" : 82.58628849999999
+               },
+               "southwest" : {
+                  "lat" : 28.4052172,
+                  "lng" : 82.5059509
+               }
+            },
+            "location" : {
+               "lat" : 28.45,
+               "lng" : 82.566667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.479405,
+                  "lng" : 82.58628849999999
+               },
+               "southwest" : {
+                  "lat" : 28.4052172,
+                  "lng" : 82.5059509
+               }
+            }
+         },
+         "place_id" : "ChIJ7zrC3kDglzkRuIZOYP67dUo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

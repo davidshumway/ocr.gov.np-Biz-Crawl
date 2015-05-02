@@ -1,0 +1,65 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ralukadevi",
+               "short_name" : "Ralukadevi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44900",
+               "short_name" : "44900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ralukadevi 44900, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.9678344,
+                  "lng" : 85.3672347
+               },
+               "southwest" : {
+                  "lat" : 27.9209759,
+                  "lng" : 85.3034735
+               }
+            },
+            "location" : {
+               "lat" : 27.95,
+               "lng" : 85.34
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.9678344,
+                  "lng" : 85.3672347
+               },
+               "southwest" : {
+                  "lat" : 27.9209759,
+                  "lng" : 85.3034735
+               }
+            }
+         },
+         "place_id" : "ChIJNVulgbbm6jkRGd-8i0GhQyE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ramnagar",
+               "short_name" : "Ramnagar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lumbini",
+               "short_name" : "Lumbini",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ramnagar, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6217943,
+                  "lng" : 83.73032560000001
+               },
+               "southwest" : {
+                  "lat" : 27.546024,
+                  "lng" : 83.665266
+               }
+            },
+            "location" : {
+               "lat" : 27.59,
+               "lng" : 83.7
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6217943,
+                  "lng" : 83.73032560000001
+               },
+               "southwest" : {
+                  "lat" : 27.546024,
+                  "lng" : 83.665266
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJLfxIOPMllDkRTQxoYumgK74",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chorni",
+               "short_name" : "Chorni",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chorni, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.1616707,
+                  "lng" : 84.9552691
+               },
+               "southwest" : {
+                  "lat" : 27.0835001,
+                  "lng" : 84.9126474
+               }
+            },
+            "location" : {
+               "lat" : 27.1240033,
+               "lng" : 84.9453357
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.1616707,
+                  "lng" : 84.9552691
+               },
+               "southwest" : {
+                  "lat" : 27.0835001,
+                  "lng" : 84.9126474
+               }
+            }
+         },
+         "place_id" : "ChIJUW5ElLGqlDkRFw_dNgBy4fk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

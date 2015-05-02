@@ -1,0 +1,66 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Baseri",
+               "short_name" : "Baseri",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Ghyalchok",
+               "short_name" : "Ghyalchok",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gandaki",
+               "short_name" : "Gandaki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Baseri, Ghyalchok, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.8425958,
+                  "lng" : 84.77532509999999
+               },
+               "southwest" : {
+                  "lat" : 27.8301105,
+                  "lng" : 84.7669458
+               }
+            },
+            "location" : {
+               "lat" : 27.8342953,
+               "lng" : 84.773985
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.8425958,
+                  "lng" : 84.77532509999999
+               },
+               "southwest" : {
+                  "lat" : 27.8301105,
+                  "lng" : 84.7669458
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ20bKCv0nlTkRTHTr0HhIeyw",
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Balkot",
+               "short_name" : "Balkot",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Balkot, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6726209,
+                  "lng" : 85.387845
+               },
+               "southwest" : {
+                  "lat" : 27.6568469,
+                  "lng" : 85.36080849999999
+               }
+            },
+            "location" : {
+               "lat" : 27.666667,
+               "lng" : 85.36666699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6726209,
+                  "lng" : 85.387845
+               },
+               "southwest" : {
+                  "lat" : 27.6568469,
+                  "lng" : 85.36080849999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJJ-hYFQsa6zkRp5toqqI3Mrg",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

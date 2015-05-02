@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pataura",
+               "short_name" : "Pataura",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44500",
+               "short_name" : "44500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Pataura 44500, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.9451876,
+                  "lng" : 85.24060129999999
+               },
+               "southwest" : {
+                  "lat" : 26.9121304,
+                  "lng" : 85.19573849999999
+               }
+            },
+            "location" : {
+               "lat" : 26.93,
+               "lng" : 85.22
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9451876,
+                  "lng" : 85.24060129999999
+               },
+               "southwest" : {
+                  "lat" : 26.9121304,
+                  "lng" : 85.19573849999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJlfemfT2j7DkRzu49acQam_k",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

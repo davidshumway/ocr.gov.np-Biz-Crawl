@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sundarpur",
+               "short_name" : "Sundarpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sundarpur, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.9121303,
+                  "lng" : 85.76690019999999
+               },
+               "southwest" : {
+                  "lat" : 26.8636647,
+                  "lng" : 85.6879855
+               }
+            },
+            "location" : {
+               "lat" : 26.9,
+               "lng" : 85.73333300000002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9121303,
+                  "lng" : 85.76690019999999
+               },
+               "southwest" : {
+                  "lat" : 26.8636647,
+                  "lng" : 85.6879855
+               }
+            }
+         },
+         "place_id" : "ChIJY5-Yuhtl7DkRrvGut3lk_1o",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

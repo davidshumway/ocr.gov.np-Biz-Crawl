@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Napa",
+               "short_name" : "Napa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Napa County",
+               "short_name" : "Napa County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Napa, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.3508341,
+                  "lng" : -122.2221959
+               },
+               "southwest" : {
+                  "lat" : 38.221091,
+                  "lng" : -122.357721
+               }
+            },
+            "location" : {
+               "lat" : 38.2975381,
+               "lng" : -122.286865
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.3508341,
+                  "lng" : -122.254922
+               },
+               "southwest" : {
+                  "lat" : 38.227516,
+                  "lng" : -122.357721
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ797y-Of_hIARJceEMzqfYtY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

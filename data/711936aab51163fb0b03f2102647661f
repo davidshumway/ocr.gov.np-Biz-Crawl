@@ -1,0 +1,71 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Banepa-RabiOpi Road",
+               "short_name" : "Banepa-RabiOpi Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Banepa",
+               "short_name" : "Banepa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45210",
+               "short_name" : "45210",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Banepa-RabiOpi Road, Banepa 45210, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6315848,
+                  "lng" : 85.5238763
+               },
+               "southwest" : {
+                  "lat" : 27.6315532,
+                  "lng" : 85.5238743
+               }
+            },
+            "location" : {
+               "lat" : 27.6315848,
+               "lng" : 85.5238763
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6329179802915,
+                  "lng" : 85.5252242802915
+               },
+               "southwest" : {
+                  "lat" : 27.6302200197085,
+                  "lng" : 85.52252631970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJPehh8s0I6zkRnR7szIdAt0g",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

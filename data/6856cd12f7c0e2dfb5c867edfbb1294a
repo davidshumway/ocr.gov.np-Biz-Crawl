@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sheshnarayan",
+               "short_name" : "Sheshnarayan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44600",
+               "short_name" : "44600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sheshnarayan 44600, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6470774,
+                  "lng" : 85.2767157
+               },
+               "southwest" : {
+                  "lat" : 27.6118884,
+                  "lng" : 85.24654629999999
+               }
+            },
+            "location" : {
+               "lat" : 27.63,
+               "lng" : 85.27
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6470774,
+                  "lng" : 85.2767157
+               },
+               "southwest" : {
+                  "lat" : 27.6118884,
+                  "lng" : 85.24654629999999
+               }
+            }
+         },
+         "place_id" : "ChIJTzW6nGg96zkRNEzyeryT4w0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

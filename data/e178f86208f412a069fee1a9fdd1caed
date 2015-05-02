@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Karyabinayak",
+               "short_name" : "Karyabinayak",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Karyabinayak, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6654753,
+                  "lng" : 85.31952110000002
+               },
+               "southwest" : {
+                  "lat" : 27.5718966,
+                  "lng" : 85.2792558
+               }
+            },
+            "location" : {
+               "lat" : 27.5934549,
+               "lng" : 85.29810999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6654753,
+                  "lng" : 85.31952110000002
+               },
+               "southwest" : {
+                  "lat" : 27.5718966,
+                  "lng" : 85.2792558
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ_1bYCLIX6zkRVTqdiA6S8zE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

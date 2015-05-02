@@ -1,0 +1,60 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Udarapur",
+               "short_name" : "Udarapur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Udarapur, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.1540438,
+                  "lng" : 81.5727139
+               },
+               "southwest" : {
+                  "lat" : 28.0996194,
+                  "lng" : 81.4986421
+               }
+            },
+            "location" : {
+               "lat" : 28.13,
+               "lng" : 81.53
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.1540438,
+                  "lng" : 81.5727139
+               },
+               "southwest" : {
+                  "lat" : 28.0996194,
+                  "lng" : 81.4986421
+               }
+            }
+         },
+         "place_id" : "ChIJn0GsrfdhmDkRM-vrbdOuoLI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

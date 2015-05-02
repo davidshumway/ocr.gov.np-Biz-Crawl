@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mahendrakot",
+               "short_name" : "Mahendrakot",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lumbini",
+               "short_name" : "Lumbini",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32809",
+               "short_name" : "32809",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mahendrakot 32809, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7319328,
+                  "lng" : 83.0515765
+               },
+               "southwest" : {
+                  "lat" : 27.6780557,
+                  "lng" : 82.99089429999999
+               }
+            },
+            "location" : {
+               "lat" : 27.71,
+               "lng" : 83.05
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7319328,
+                  "lng" : 83.0515765
+               },
+               "southwest" : {
+                  "lat" : 27.6780557,
+                  "lng" : 82.99089429999999
+               }
+            }
+         },
+         "place_id" : "ChIJxZSiN-L4ljkRj6RNfkNn9cM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

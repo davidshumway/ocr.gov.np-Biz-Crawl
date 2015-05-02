@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Maharajganj",
+               "short_name" : "Maharajganj",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lumbini",
+               "short_name" : "Lumbini",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32800",
+               "short_name" : "32800",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Maharajganj 32800, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.56,
+               "lng" : 82.97
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.5613489802915,
+                  "lng" : 82.97134898029151
+               },
+               "southwest" : {
+                  "lat" : 27.5586510197085,
+                  "lng" : 82.9686510197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJafdTycr8ljkRkbZRCJUGuxA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

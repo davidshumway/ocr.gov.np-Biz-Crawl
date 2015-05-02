@@ -1,0 +1,60 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Khairang",
+               "short_name" : "Khairang",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Khairang, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6921911,
+                  "lng" : 84.8946217
+               },
+               "southwest" : {
+                  "lat" : 27.6240898,
+                  "lng" : 84.800051
+               }
+            },
+            "location" : {
+               "lat" : 27.66,
+               "lng" : 84.85000000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6921911,
+                  "lng" : 84.8946217
+               },
+               "southwest" : {
+                  "lat" : 27.6240898,
+                  "lng" : 84.800051
+               }
+            }
+         },
+         "place_id" : "ChIJWel79PHRlDkRlkUDU83AQH8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

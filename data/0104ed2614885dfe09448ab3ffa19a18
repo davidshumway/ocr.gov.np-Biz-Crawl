@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Geta",
+               "short_name" : "Geta",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Seti",
+               "short_name" : "Seti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Geta, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.81437099999999,
+                  "lng" : 80.59480189999999
+               },
+               "southwest" : {
+                  "lat" : 28.7337216,
+                  "lng" : 80.53480619999999
+               }
+            },
+            "location" : {
+               "lat" : 28.78,
+               "lng" : 80.57000000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.81437099999999,
+                  "lng" : 80.59480189999999
+               },
+               "southwest" : {
+                  "lat" : 28.7337216,
+                  "lng" : 80.53480619999999
+               }
+            }
+         },
+         "place_id" : "ChIJv8ec9JeToTkRYJQUgbmgD1g",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

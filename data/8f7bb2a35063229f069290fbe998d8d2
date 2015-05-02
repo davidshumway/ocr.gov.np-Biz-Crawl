@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Parbatipur",
+               "short_name" : "Parbatipur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44200",
+               "short_name" : "44200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Parbatipur 44200, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6144173,
+                  "lng" : 84.3447018
+               },
+               "southwest" : {
+                  "lat" : 27.5815573,
+                  "lng" : 84.3037604
+               }
+            },
+            "location" : {
+               "lat" : 27.6,
+               "lng" : 84.33
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6144173,
+                  "lng" : 84.3447018
+               },
+               "southwest" : {
+                  "lat" : 27.5815573,
+                  "lng" : 84.3037604
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJD7l9Jmr3lDkRijVs0SbmnHc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

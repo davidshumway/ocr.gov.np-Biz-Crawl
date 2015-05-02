@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dukuchhap",
+               "short_name" : "Dukuchhap",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dukuchhap, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6046061,
+                  "lng" : 85.30883779999999
+               },
+               "southwest" : {
+                  "lat" : 27.5729223,
+                  "lng" : 85.2789688
+               }
+            },
+            "location" : {
+               "lat" : 27.59,
+               "lng" : 85.28999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6046061,
+                  "lng" : 85.30883779999999
+               },
+               "southwest" : {
+                  "lat" : 27.5729223,
+                  "lng" : 85.2789688
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ5-d9E0AW6zkRLawamN-97iI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

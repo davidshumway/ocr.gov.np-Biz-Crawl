@@ -1,0 +1,66 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hansapur",
+               "short_name" : "Hansapur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gandaki",
+               "short_name" : "Gandaki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33700",
+               "short_name" : "33700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hansapur 33700, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.211466,
+                  "lng" : 84.2110634
+               },
+               "southwest" : {
+                  "lat" : 28.1648649,
+                  "lng" : 84.1415404
+               }
+            },
+            "location" : {
+               "lat" : 28.19,
+               "lng" : 84.17999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.211466,
+                  "lng" : 84.2110634
+               },
+               "southwest" : {
+                  "lat" : 28.1648649,
+                  "lng" : 84.1415404
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ45nZd66YlTkRcmS2yEwrHbI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

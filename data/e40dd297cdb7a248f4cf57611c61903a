@@ -1,0 +1,71 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Musikot Airport",
+               "short_name" : "Musikot Airport",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Musikot",
+               "short_name" : "Musikot",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rapti",
+               "short_name" : "Rapti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "22000",
+               "short_name" : "22000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Musikot Airport (RUK), Musikot 22000, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6390652,
+                  "lng" : 82.4517221
+               },
+               "southwest" : {
+                  "lat" : 28.6332884,
+                  "lng" : 82.44828889999999
+               }
+            },
+            "location" : {
+               "lat" : 28.6364188,
+               "lng" : 82.45005660000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6390652,
+                  "lng" : 82.4517221
+               },
+               "southwest" : {
+                  "lat" : 28.6332884,
+                  "lng" : 82.44828889999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJO36atzlbvTkR0MiqCVo678o",
+         "types" : [ "airport", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

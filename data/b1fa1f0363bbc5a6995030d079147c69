@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Narku",
+               "short_name" : "Narku",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karnali",
+               "short_name" : "Karnali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Narku, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.0893269,
+                  "lng" : 82.66010279999999
+               },
+               "southwest" : {
+                  "lat" : 28.9854688,
+                  "lng" : 82.4153566
+               }
+            },
+            "location" : {
+               "lat" : 29.07,
+               "lng" : 82.55
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.0893269,
+                  "lng" : 82.66010279999999
+               },
+               "southwest" : {
+                  "lat" : 28.9854688,
+                  "lng" : 82.4153566
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJwdi798AivTkRCp3yT4_FGDI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

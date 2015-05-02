@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bharse",
+               "short_name" : "Bharse",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lumbini",
+               "short_name" : "Lumbini",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32600",
+               "short_name" : "32600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bharse 32600, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.0960608,
+                  "lng" : 83.49150179999999
+               },
+               "southwest" : {
+                  "lat" : 28.0456976,
+                  "lng" : 83.3949422
+               }
+            },
+            "location" : {
+               "lat" : 28.07,
+               "lng" : 83.45999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.0960608,
+                  "lng" : 83.49150179999999
+               },
+               "southwest" : {
+                  "lat" : 28.0456976,
+                  "lng" : 83.3949422
+               }
+            }
+         },
+         "place_id" : "ChIJE9wOkEByljkR7DGozajnwc0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

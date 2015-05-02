@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Krishnapur",
+               "short_name" : "Krishnapur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mahakali",
+               "short_name" : "Mahakali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Krishnapur, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.037336,
+                  "lng" : 80.5274677
+               },
+               "southwest" : {
+                  "lat" : 28.796471,
+                  "lng" : 80.3903962
+               }
+            },
+            "location" : {
+               "lat" : 28.91,
+               "lng" : 80.45
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.037336,
+                  "lng" : 80.5274677
+               },
+               "southwest" : {
+                  "lat" : 28.796471,
+                  "lng" : 80.3903962
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJjREPsgmYoTkRpUl1vMrraQI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

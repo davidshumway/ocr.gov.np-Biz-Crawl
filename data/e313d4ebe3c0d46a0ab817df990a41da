@@ -1,0 +1,55 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Malarani",
+               "short_name" : "Malarani",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21700",
+               "short_name" : "21700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Malarani 21700, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.36,
+               "lng" : 81.94
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.3613489802915,
+                  "lng" : 81.94134898029151
+               },
+               "southwest" : {
+                  "lat" : 28.3586510197085,
+                  "lng" : 81.9386510197085
+               }
+            }
+         },
+         "place_id" : "ChIJDS8r3-gLmDkRR6miO9SLxXI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

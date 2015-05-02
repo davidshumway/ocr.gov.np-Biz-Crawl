@@ -1,0 +1,66 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Simikot",
+               "short_name" : "Simikot",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karnali",
+               "short_name" : "Karnali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21000",
+               "short_name" : "21000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Simikot 21000, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.04324119999999,
+                  "lng" : 81.87415129999999
+               },
+               "southwest" : {
+                  "lat" : 29.94660519999999,
+                  "lng" : 81.80162440000001
+               }
+            },
+            "location" : {
+               "lat" : 29.971667,
+               "lng" : 81.82083299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.04324119999999,
+                  "lng" : 81.87415129999999
+               },
+               "southwest" : {
+                  "lat" : 29.94660519999999,
+                  "lng" : 81.80162440000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJsXAi2TafpDkRJMScZt085Zs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

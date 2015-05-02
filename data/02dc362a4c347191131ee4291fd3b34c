@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hariharpur",
+               "short_name" : "Hariharpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21700",
+               "short_name" : "21700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hariharpur 21700, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.59,
+               "lng" : 81.48999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5913489802915,
+                  "lng" : 81.49134898029151
+               },
+               "southwest" : {
+                  "lat" : 28.5886510197085,
+                  "lng" : 81.48865101970848
+               }
+            }
+         },
+         "place_id" : "ChIJRREs8jR9ojkRBgmCgY-zsBo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

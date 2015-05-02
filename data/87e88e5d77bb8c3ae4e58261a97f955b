@@ -1,0 +1,56 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ridikot",
+               "short_name" : "Ridikot",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seti",
+               "short_name" : "Seti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10700",
+               "short_name" : "10700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ridikot 10700, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.216667,
+               "lng" : 81.216667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.2180159802915,
+                  "lng" : 81.21801598029151
+               },
+               "southwest" : {
+                  "lat" : 29.2153180197085,
+                  "lng" : 81.21531801970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ0x-00Si0ozkRO1v-6euS3eg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rugin",
+               "short_name" : "Rugin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seti",
+               "short_name" : "Seti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10600",
+               "short_name" : "10600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rugin 10600, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.59,
+               "lng" : 81.72
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.5913489802915,
+                  "lng" : 81.72134898029151
+               },
+               "southwest" : {
+                  "lat" : 29.5886510197085,
+                  "lng" : 81.7186510197085
+               }
+            }
+         },
+         "place_id" : "ChIJYdPoFLttozkRx8yo_Ci9i5Q",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

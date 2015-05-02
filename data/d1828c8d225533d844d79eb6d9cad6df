@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dhamilikuwa",
+               "short_name" : "Dhamilikuwa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gandaki",
+               "short_name" : "Gandaki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dhamilikuwa, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.1222555,
+                  "lng" : 84.4951844
+               },
+               "southwest" : {
+                  "lat" : 28.0557343,
+                  "lng" : 84.45108890000002
+               }
+            },
+            "location" : {
+               "lat" : 28.09,
+               "lng" : 84.47
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.1222555,
+                  "lng" : 84.4951844
+               },
+               "southwest" : {
+                  "lat" : 28.0557343,
+                  "lng" : 84.45108890000002
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJjVZgnYYRlTkR_wuJezQ9X_Q",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

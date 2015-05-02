@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dulegauda",
+               "short_name" : "Dulegauda",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gandaki",
+               "short_name" : "Gandaki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dulegauda, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.1081747,
+                  "lng" : 84.10789489999999
+               },
+               "southwest" : {
+                  "lat" : 28.019939,
+                  "lng" : 84.06412109999999
+               }
+            },
+            "location" : {
+               "lat" : 28.07,
+               "lng" : 84.08999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.1081747,
+                  "lng" : 84.10789489999999
+               },
+               "southwest" : {
+                  "lat" : 28.019939,
+                  "lng" : 84.06412109999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJYQn_Hm27lTkRnCG9UpbljCo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

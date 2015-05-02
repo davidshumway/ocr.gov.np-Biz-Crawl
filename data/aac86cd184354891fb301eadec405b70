@@ -1,0 +1,56 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mahadevtar",
+               "short_name" : "Mahadevtar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44202",
+               "short_name" : "44202",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mahadevtar 44200, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.583333,
+               "lng" : 84.716667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.5846819802915,
+                  "lng" : 84.7180159802915
+               },
+               "southwest" : {
+                  "lat" : 27.5819840197085,
+                  "lng" : 84.71531801970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJJXFb7lvElDkRBfut3JL1XbQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

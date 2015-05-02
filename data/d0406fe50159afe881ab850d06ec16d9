@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gajul",
+               "short_name" : "Gajul",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rapti",
+               "short_name" : "Rapti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "22100",
+               "short_name" : "22100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gajul 22100, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.3778083,
+                  "lng" : 82.73408879999999
+               },
+               "southwest" : {
+                  "lat" : 28.2748292,
+                  "lng" : 82.6673555
+               }
+            },
+            "location" : {
+               "lat" : 28.32,
+               "lng" : 82.7
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.3778083,
+                  "lng" : 82.73408879999999
+               },
+               "southwest" : {
+                  "lat" : 28.2748292,
+                  "lng" : 82.6673555
+               }
+            }
+         },
+         "place_id" : "ChIJxWW0iejalzkRR_VvTEUIdwY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

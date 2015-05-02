@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bada Khola",
+               "short_name" : "Bada Khola",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21600",
+               "short_name" : "21600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bada Khola 21600, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.88,
+               "lng" : 81.67000000000002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.8813489802915,
+                  "lng" : 81.67134898029153
+               },
+               "southwest" : {
+                  "lat" : 28.8786510197085,
+                  "lng" : 81.66865101970852
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJe2dp7R_yojkRKW8zm6HfqvY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

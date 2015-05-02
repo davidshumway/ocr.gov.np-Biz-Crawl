@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lamjung",
+               "short_name" : "Lamjung",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Gandaki",
+               "short_name" : "Gandaki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lamjung, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.481819,
+                  "lng" : 84.6313763
+               },
+               "southwest" : {
+                  "lat" : 28.0659215,
+                  "lng" : 84.15235509999999
+               }
+            },
+            "location" : {
+               "lat" : 28.2765491,
+               "lng" : 84.3542049
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.481819,
+                  "lng" : 84.6313763
+               },
+               "southwest" : {
+                  "lat" : 28.0659215,
+                  "lng" : 84.15235509999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ3xDRrq6mlTkRJipZJKu2D-4",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

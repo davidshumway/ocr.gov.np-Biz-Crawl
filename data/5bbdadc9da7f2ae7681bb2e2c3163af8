@@ -1,0 +1,190 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Khalanga",
+               "short_name" : "Khalanga",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rapti",
+               "short_name" : "Rapti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "22200",
+               "short_name" : "22200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Khalanga 22200, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.3937411,
+                  "lng" : 82.2177315
+               },
+               "southwest" : {
+                  "lat" : 28.3406476,
+                  "lng" : 82.1334456
+               }
+            },
+            "location" : {
+               "lat" : 28.38,
+               "lng" : 82.17999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.3937411,
+                  "lng" : 82.2177315
+               },
+               "southwest" : {
+                  "lat" : 28.3406476,
+                  "lng" : 82.1334456
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ_00l_o8BmDkR0jIsJFCfvXk",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rapti Highway",
+               "short_name" : "H11",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rapti",
+               "short_name" : "Rapti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "22200",
+               "short_name" : "22200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rapti Highway, 22200, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.4315503,
+                  "lng" : 82.2293122
+               },
+               "southwest" : {
+                  "lat" : 28.3314653,
+                  "lng" : 82.17850519999999
+               }
+            },
+            "location" : {
+               "lat" : 28.3788072,
+               "lng" : 82.1926866
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.4315503,
+                  "lng" : 82.2293122
+               },
+               "southwest" : {
+                  "lat" : 28.3314653,
+                  "lng" : 82.17850519999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ88ySZGz_lzkRSHUB12jkRLE",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "H 11",
+               "short_name" : "H 11",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chhayakshetra",
+               "short_name" : "Chhayakshetra",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rapti",
+               "short_name" : "Rapti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "22200",
+               "short_name" : "22200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "H 11, Chhayakshetra 22200, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.3314653,
+                  "lng" : 82.23464009999999
+               },
+               "southwest" : {
+                  "lat" : 28.3102317,
+                  "lng" : 82.22762879999999
+               }
+            },
+            "location" : {
+               "lat" : 28.3208349,
+               "lng" : 82.23093759999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.3314653,
+                  "lng" : 82.23464009999999
+               },
+               "southwest" : {
+                  "lat" : 28.3102317,
+                  "lng" : 82.22762879999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJIaliqfT4lzkRq6sBHJQfc6A",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

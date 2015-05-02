@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Deurali",
+               "short_name" : "Deurali",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44900",
+               "short_name" : "44900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Deurali 44900, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.9862539,
+                  "lng" : 85.1268767
+               },
+               "southwest" : {
+                  "lat" : 27.9530322,
+                  "lng" : 85.0503588
+               }
+            },
+            "location" : {
+               "lat" : 27.98,
+               "lng" : 85.08999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.9862539,
+                  "lng" : 85.1268767
+               },
+               "southwest" : {
+                  "lat" : 27.9530322,
+                  "lng" : 85.0503588
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJwbod04TQ6jkRql-nv5Wai30",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

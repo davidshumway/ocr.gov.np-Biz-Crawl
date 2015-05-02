@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rajghat",
+               "short_name" : "Rajghat",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rajghat, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.0743091,
+                  "lng" : 85.4748558
+               },
+               "southwest" : {
+                  "lat" : 27.0075761,
+                  "lng" : 85.402278
+               }
+            },
+            "location" : {
+               "lat" : 27.05,
+               "lng" : 85.43333299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.0743091,
+                  "lng" : 85.4748558
+               },
+               "southwest" : {
+                  "lat" : 27.0075761,
+                  "lng" : 85.402278
+               }
+            }
+         },
+         "place_id" : "ChIJlUh-BiyD7DkRJlodmpgcgzU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

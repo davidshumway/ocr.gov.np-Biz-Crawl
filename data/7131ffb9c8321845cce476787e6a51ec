@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rukum",
+               "short_name" : "Rukum",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Rapti",
+               "short_name" : "Rapti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rukum, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.9862196,
+                  "lng" : 83.131485
+               },
+               "southwest" : {
+                  "lat" : 28.4342796,
+                  "lng" : 82.1739578
+               }
+            },
+            "location" : {
+               "lat" : 28.7434423,
+               "lng" : 82.4752757
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.9862196,
+                  "lng" : 83.131485
+               },
+               "southwest" : {
+                  "lat" : 28.4342796,
+                  "lng" : 82.1739578
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ2QSF-uBxvTkRjih4YH1GASU",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

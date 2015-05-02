@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bhurtung",
+               "short_name" : "Bhurtung",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dhawalagiri",
+               "short_name" : "Dhawalagiri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bhurtung, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.1267972,
+                  "lng" : 83.54330060000001
+               },
+               "southwest" : {
+                  "lat" : 28.0779632,
+                  "lng" : 83.49506389999999
+               }
+            },
+            "location" : {
+               "lat" : 28.116667,
+               "lng" : 83.516667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.1267972,
+                  "lng" : 83.54330060000001
+               },
+               "southwest" : {
+                  "lat" : 28.0779632,
+                  "lng" : 83.49506389999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJi_upAIl0ljkRpZTh8d-99cI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

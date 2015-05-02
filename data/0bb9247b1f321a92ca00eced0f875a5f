@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mahankal",
+               "short_name" : "Mahankal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44600",
+               "short_name" : "44600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mahankal 44600, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7679755,
+                  "lng" : 85.3660869
+               },
+               "southwest" : {
+                  "lat" : 27.7228158,
+                  "lng" : 85.3448009
+               }
+            },
+            "location" : {
+               "lat" : 27.75,
+               "lng" : 85.34999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7679755,
+                  "lng" : 85.3660869
+               },
+               "southwest" : {
+                  "lat" : 27.7228158,
+                  "lng" : 85.3448009
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ3_J4j_0b6zkR4DLOnJzbilk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

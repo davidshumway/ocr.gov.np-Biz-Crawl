@@ -1,0 +1,70 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dolpa Airport",
+               "short_name" : "Dolpa Airport",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Juphal",
+               "short_name" : "Juphal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karnali",
+               "short_name" : "Karnali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21401",
+               "short_name" : "21401",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dolpa Airport (DOP), Juphal 21401, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.9883475,
+                  "lng" : 82.8205258
+               },
+               "southwest" : {
+                  "lat" : 28.9830522,
+                  "lng" : 82.81634150000001
+               }
+            },
+            "location" : {
+               "lat" : 28.9857202,
+               "lng" : 82.81844839999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.9883475,
+                  "lng" : 82.8205258
+               },
+               "southwest" : {
+                  "lat" : 28.9830522,
+                  "lng" : 82.81634150000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ71poBtMOvTkRl4R7jOootFc",
+         "types" : [ "airport", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

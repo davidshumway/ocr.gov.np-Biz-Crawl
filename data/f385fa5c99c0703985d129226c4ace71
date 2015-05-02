@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bairiya",
+               "short_name" : "Bairiya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bairiya, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.8041292,
+                  "lng" : 85.26060630000001
+               },
+               "southwest" : {
+                  "lat" : 26.7765432,
+                  "lng" : 85.22941230000001
+               }
+            },
+            "location" : {
+               "lat" : 26.79,
+               "lng" : 85.25
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8041292,
+                  "lng" : 85.26060630000001
+               },
+               "southwest" : {
+                  "lat" : 26.7765432,
+                  "lng" : 85.22941230000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJlxTyL2y-7DkRjoE1ILhQuYI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

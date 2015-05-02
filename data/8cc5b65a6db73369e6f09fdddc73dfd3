@@ -1,0 +1,55 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Malika",
+               "short_name" : "Malika",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dhawalagiri",
+               "short_name" : "Dhawalagiri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33200",
+               "short_name" : "33200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Malika 33200, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.31,
+               "lng" : 83.56999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.3113489802915,
+                  "lng" : 83.5713489802915
+               },
+               "southwest" : {
+                  "lat" : 28.3086510197085,
+                  "lng" : 83.56865101970848
+               }
+            }
+         },
+         "place_id" : "ChIJh-UCbEAIljkR-nYscuirv1M",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

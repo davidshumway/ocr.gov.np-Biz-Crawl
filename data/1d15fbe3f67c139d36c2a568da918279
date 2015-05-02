@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bhaktipur",
+               "short_name" : "Bhaktipur",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bhaktipur, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.0356695,
+                  "lng" : 85.73585899999999
+               },
+               "southwest" : {
+                  "lat" : 26.9217625,
+                  "lng" : 85.6286994
+               }
+            },
+            "location" : {
+               "lat" : 26.966667,
+               "lng" : 85.66666699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.0356695,
+                  "lng" : 85.73585899999999
+               },
+               "southwest" : {
+                  "lat" : 26.9217625,
+                  "lng" : 85.6286994
+               }
+            }
+         },
+         "place_id" : "ChIJ4Zpj-3d87DkRgKCYiBD66vU",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

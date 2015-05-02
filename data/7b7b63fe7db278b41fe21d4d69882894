@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kanda",
+               "short_name" : "Kanda",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seti",
+               "short_name" : "Seti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10500",
+               "short_name" : "10500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kanda 10500, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.766667,
+               "lng" : 81.28333300000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.7680159802915,
+                  "lng" : 81.28468198029152
+               },
+               "southwest" : {
+                  "lat" : 29.7653180197085,
+                  "lng" : 81.28198401970852
+               }
+            }
+         },
+         "place_id" : "ChIJxQ5PZsWOozkR9JNz4PdLJVI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

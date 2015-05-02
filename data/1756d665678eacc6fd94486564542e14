@@ -1,0 +1,66 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mulpani",
+               "short_name" : "Mulpani",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44600",
+               "short_name" : "44600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mulpani, 44600, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7227019,
+                  "lng" : 85.41350849999999
+               },
+               "southwest" : {
+                  "lat" : 27.6968283,
+                  "lng" : 85.38668629999999
+               }
+            },
+            "location" : {
+               "lat" : 27.71,
+               "lng" : 85.39999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7227019,
+                  "lng" : 85.41350849999999
+               },
+               "southwest" : {
+                  "lat" : 27.6968283,
+                  "lng" : 85.38668629999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJz_8wvgEb6zkRXSpy04wXSu8",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

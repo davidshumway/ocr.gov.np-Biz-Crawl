@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kabilas",
+               "short_name" : "Kabilas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kabilas, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.824389,
+                  "lng" : 84.52638399999999
+               },
+               "southwest" : {
+                  "lat" : 27.7110007,
+                  "lng" : 84.43027499999999
+               }
+            },
+            "location" : {
+               "lat" : 27.79,
+               "lng" : 84.47999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.824389,
+                  "lng" : 84.52638399999999
+               },
+               "southwest" : {
+                  "lat" : 27.7110007,
+                  "lng" : 84.43027499999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJNxOQJ5HilDkRbsw07FS_BXM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

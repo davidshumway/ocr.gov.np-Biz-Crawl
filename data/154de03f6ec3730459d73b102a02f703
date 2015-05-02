@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Harpur",
+               "short_name" : "Harpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44300",
+               "short_name" : "44300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Harpur 44300, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.175467,
+                  "lng" : 84.8886751
+               },
+               "southwest" : {
+                  "lat" : 27.1328355,
+                  "lng" : 84.84305619999999
+               }
+            },
+            "location" : {
+               "lat" : 27.16,
+               "lng" : 84.86
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.175467,
+                  "lng" : 84.8886751
+               },
+               "southwest" : {
+                  "lat" : 27.1328355,
+                  "lng" : 84.84305619999999
+               }
+            }
+         },
+         "place_id" : "ChIJh_C3wOerlDkRIxS8p_Y-nxA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

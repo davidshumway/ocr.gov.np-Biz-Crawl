@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chame",
+               "short_name" : "Chame",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Manang",
+               "short_name" : "Manang",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Gandaki",
+               "short_name" : "Gandaki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chame, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.5919877,
+                  "lng" : 84.3139745
+               },
+               "southwest" : {
+                  "lat" : 28.4565854,
+                  "lng" : 84.16681779999999
+               }
+            },
+            "location" : {
+               "lat" : 28.551944,
+               "lng" : 84.24083299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5919877,
+                  "lng" : 84.3139745
+               },
+               "southwest" : {
+                  "lat" : 28.4565854,
+                  "lng" : 84.16681779999999
+               }
+            }
+         },
+         "place_id" : "ChIJOwqsrIIqvjkR5LqaS24uh3w",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

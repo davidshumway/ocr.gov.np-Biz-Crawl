@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sakhi",
+               "short_name" : "Sakhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rapti",
+               "short_name" : "Rapti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "22100",
+               "short_name" : "22100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sakhi 22100, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.2619026,
+                  "lng" : 82.5607538
+               },
+               "southwest" : {
+                  "lat" : 28.1775763,
+                  "lng" : 82.5021316
+               }
+            },
+            "location" : {
+               "lat" : 28.23,
+               "lng" : 82.53
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.2619026,
+                  "lng" : 82.5607538
+               },
+               "southwest" : {
+                  "lat" : 28.1775763,
+                  "lng" : 82.5021316
+               }
+            }
+         },
+         "place_id" : "ChIJx-mqcrvplzkRSqjuB1jgDHA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

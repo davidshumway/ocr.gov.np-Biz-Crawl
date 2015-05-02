@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mustang District Court",
+               "short_name" : "Mustang District Court",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Kaagbeni Sadak कागबेनी सडक",
+               "short_name" : "Kaagbeni Sadak कागबेनी सडक",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jomsom",
+               "short_name" : "Jomsom",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dhawalagiri",
+               "short_name" : "Dhawalagiri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33100",
+               "short_name" : "33100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mustang District Court, Annapurna Conservation Area, Kaagbeni Sadak कागबेनी सडक, Jomsom 33100, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.7836199,
+                  "lng" : 83.7315756
+               },
+               "southwest" : {
+                  "lat" : 28.7832343,
+                  "lng" : 83.73110629999999
+               }
+            },
+            "location" : {
+               "lat" : 28.7834696,
+               "lng" : 83.7313278
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.7847760802915,
+                  "lng" : 83.7326899302915
+               },
+               "southwest" : {
+                  "lat" : 28.7820781197085,
+                  "lng" : 83.72999196970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJz5r4ukIOvjkRDWNjW1BK3v4",
+         "types" : [ "courthouse", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

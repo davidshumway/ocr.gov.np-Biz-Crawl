@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Marpha",
+               "short_name" : "Marpha",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dhawalagiri",
+               "short_name" : "Dhawalagiri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33100",
+               "short_name" : "33100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Marpha, 33100, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.756204,
+                  "lng" : 83.6926795
+               },
+               "southwest" : {
+                  "lat" : 28.730591,
+                  "lng" : 83.6716199
+               }
+            },
+            "location" : {
+               "lat" : 28.7442125,
+               "lng" : 83.68005119999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.756204,
+                  "lng" : 83.6926795
+               },
+               "southwest" : {
+                  "lat" : 28.730591,
+                  "lng" : 83.6716199
+               }
+            }
+         },
+         "place_id" : "ChIJuT4I2zMPvjkR1-vvIbMq_as",
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

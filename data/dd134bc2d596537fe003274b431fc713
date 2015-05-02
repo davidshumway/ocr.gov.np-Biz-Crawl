@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sindhukot",
+               "short_name" : "Sindhukot",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sindhukot, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.8494923,
+                  "lng" : 85.5519961
+               },
+               "southwest" : {
+                  "lat" : 27.8008933,
+                  "lng" : 85.50105569999999
+               }
+            },
+            "location" : {
+               "lat" : 27.83,
+               "lng" : 85.52
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.8494923,
+                  "lng" : 85.5519961
+               },
+               "southwest" : {
+                  "lat" : 27.8008933,
+                  "lng" : 85.50105569999999
+               }
+            }
+         },
+         "place_id" : "ChIJWchoeJcB6zkRVmcO2sQRQi4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

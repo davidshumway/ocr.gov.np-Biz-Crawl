@@ -1,0 +1,56 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Katunge",
+               "short_name" : "Katunge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45100",
+               "short_name" : "45100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Katunge 45100, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.983333,
+               "lng" : 84.91666699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.9846819802915,
+                  "lng" : 84.91801598029149
+               },
+               "southwest" : {
+                  "lat" : 27.9819840197085,
+                  "lng" : 84.91531801970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJYUMv1RktlTkRt-f6E0nJobE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

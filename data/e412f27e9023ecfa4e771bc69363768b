@@ -1,0 +1,65 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Peugha",
+               "short_name" : "Peugha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rapti",
+               "short_name" : "Rapti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "22000",
+               "short_name" : "22000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Peugha 22000, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6160213,
+                  "lng" : 82.41385459999999
+               },
+               "southwest" : {
+                  "lat" : 28.5673362,
+                  "lng" : 82.3520565
+               }
+            },
+            "location" : {
+               "lat" : 28.6,
+               "lng" : 82.38000000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6160213,
+                  "lng" : 82.41385459999999
+               },
+               "southwest" : {
+                  "lat" : 28.5673362,
+                  "lng" : 82.3520565
+               }
+            }
+         },
+         "place_id" : "ChIJz70pO4RQvTkRTGQDMU0AH2Y",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

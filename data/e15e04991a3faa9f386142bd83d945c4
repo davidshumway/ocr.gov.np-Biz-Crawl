@@ -1,0 +1,65 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Deupur",
+               "short_name" : "Deupur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dhawalagiri",
+               "short_name" : "Dhawalagiri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33400",
+               "short_name" : "33400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Deupur 33400, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.307838,
+                  "lng" : 83.7648512
+               },
+               "southwest" : {
+                  "lat" : 28.2699158,
+                  "lng" : 83.72712849999999
+               }
+            },
+            "location" : {
+               "lat" : 28.29,
+               "lng" : 83.75
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.307838,
+                  "lng" : 83.7648512
+               },
+               "southwest" : {
+                  "lat" : 28.2699158,
+                  "lng" : 83.72712849999999
+               }
+            }
+         },
+         "place_id" : "ChIJCQJVQJnllTkRNUa_qi9Dp5s",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

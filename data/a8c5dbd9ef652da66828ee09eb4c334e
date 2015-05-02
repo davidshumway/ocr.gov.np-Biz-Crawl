@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dhunche",
+               "short_name" : "Dhunche",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45000",
+               "short_name" : "45000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dhunche 45000, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.1219527,
+                  "lng" : 85.3266907
+               },
+               "southwest" : {
+                  "lat" : 28.089549,
+                  "lng" : 85.275364
+               }
+            },
+            "location" : {
+               "lat" : 28.1079892,
+               "lng" : 85.29810999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.1219527,
+                  "lng" : 85.3266907
+               },
+               "southwest" : {
+                  "lat" : 28.089549,
+                  "lng" : 85.275364
+               }
+            }
+         },
+         "place_id" : "ChIJSRo5j_Dp6jkRGj9GhMGGUlw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

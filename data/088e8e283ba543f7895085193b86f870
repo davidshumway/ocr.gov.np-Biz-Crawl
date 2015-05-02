@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Buddha Jyoti Higher Secondary School",
+               "short_name" : "Buddha Jyoti Higher Secondary School",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Kapilvastu",
+               "short_name" : "Kapilvastu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lumbini",
+               "short_name" : "Lumbini",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32800",
+               "short_name" : "32800",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Buddha Jyoti Higher Secondary School, Kapilvastu 32800, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.5531183,
+               "lng" : 83.0603605
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.5544672802915,
+                  "lng" : 83.0617094802915
+               },
+               "southwest" : {
+                  "lat" : 27.55176931970849,
+                  "lng" : 83.05901151970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJI5rsh0jlljkROcJjF13Dq3Y",
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

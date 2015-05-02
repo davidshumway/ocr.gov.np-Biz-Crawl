@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Karapu",
+               "short_name" : "Karapu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gandaki",
+               "short_name" : "Gandaki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33600",
+               "short_name" : "33600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Karapu 33600, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.2,
+               "lng" : 84.23999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.2013489802915,
+                  "lng" : 84.24134898029151
+               },
+               "southwest" : {
+                  "lat" : 28.1986510197085,
+                  "lng" : 84.2386510197085
+               }
+            }
+         },
+         "place_id" : "ChIJsYwZvJeflTkRmliJIiGksJs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

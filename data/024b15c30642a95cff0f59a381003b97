@@ -1,0 +1,65 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nibuwatar",
+               "short_name" : "Nibuwatar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44100",
+               "short_name" : "44100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nibuwatar 44100, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.5462997,
+                  "lng" : 85.12838429999999
+               },
+               "southwest" : {
+                  "lat" : 27.4754628,
+                  "lng" : 85.0586642
+               }
+            },
+            "location" : {
+               "lat" : 27.5160414,
+               "lng" : 85.0908671
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.5462997,
+                  "lng" : 85.12838429999999
+               },
+               "southwest" : {
+                  "lat" : 27.4754628,
+                  "lng" : 85.0586642
+               }
+            }
+         },
+         "place_id" : "ChIJiU6GgRk36zkRa97MNdIK83A",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

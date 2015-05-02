@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Salkot",
+               "short_name" : "Salkot",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Salkot, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.8526051,
+                  "lng" : 81.52293209999999
+               },
+               "southwest" : {
+                  "lat" : 28.7710446,
+                  "lng" : 81.40839099999999
+               }
+            },
+            "location" : {
+               "lat" : 28.81,
+               "lng" : 81.47
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.8526051,
+                  "lng" : 81.52293209999999
+               },
+               "southwest" : {
+                  "lat" : 28.7710446,
+                  "lng" : 81.40839099999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJEX0H8lFeojkR0psajeunv8s",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

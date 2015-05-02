@@ -1,0 +1,65 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chandannath",
+               "short_name" : "Chandannath",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karnali",
+               "short_name" : "Karnali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21200",
+               "short_name" : "21200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chandannath 21200, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.3634759,
+                  "lng" : 82.2167015
+               },
+               "southwest" : {
+                  "lat" : 29.2423717,
+                  "lng" : 82.08915709999999
+               }
+            },
+            "location" : {
+               "lat" : 29.3031459,
+               "lng" : 82.1496049
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.3634759,
+                  "lng" : 82.2167015
+               },
+               "southwest" : {
+                  "lat" : 29.2423717,
+                  "lng" : 82.08915709999999
+               }
+            }
+         },
+         "place_id" : "ChIJxXew1fcsozkRoxwF60sFRHQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

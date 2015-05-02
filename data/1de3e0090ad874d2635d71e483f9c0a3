@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Muktinath",
+               "short_name" : "Muktinath",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dhawalagiri",
+               "short_name" : "Dhawalagiri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Muktinath, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.8376252,
+                  "lng" : 83.93760669999999
+               },
+               "southwest" : {
+                  "lat" : 28.7642027,
+                  "lng" : 83.75648269999999
+               }
+            },
+            "location" : {
+               "lat" : 28.816667,
+               "lng" : 83.870833
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.8376252,
+                  "lng" : 83.93760669999999
+               },
+               "southwest" : {
+                  "lat" : 28.7642027,
+                  "lng" : 83.75648269999999
+               }
+            }
+         },
+         "place_id" : "ChIJkaGX-tsTvjkRoGClu2wmheU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

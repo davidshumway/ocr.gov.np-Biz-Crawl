@@ -1,0 +1,191 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sankhu-Bhotechour Road",
+               "short_name" : "Sankhu-Bhotechour Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lapsephedi",
+               "short_name" : "Lapsephedi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44600",
+               "short_name" : "44600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sankhu-Bhotechour Road, Lapsephedi 44600, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7803822,
+                  "lng" : 85.50178529999999
+               },
+               "southwest" : {
+                  "lat" : 27.7494683,
+                  "lng" : 85.49364210000002
+               }
+            },
+            "location" : {
+               "lat" : 27.7648378,
+               "lng" : 85.4977888
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7803822,
+                  "lng" : 85.50178529999999
+               },
+               "southwest" : {
+                  "lat" : 27.7494683,
+                  "lng" : 85.49364210000002
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ75cWkYwD6zkRIVs3fI9Vdv8",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sankhu - Melamchi Road",
+               "short_name" : "Sankhu - Melamchi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Naglebhare",
+               "short_name" : "Naglebhare",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sankhu - Melamchi Road, Naglebhare, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7678195,
+                  "lng" : 85.5552122
+               },
+               "southwest" : {
+                  "lat" : 27.7502612,
+                  "lng" : 85.4966039
+               }
+            },
+            "location" : {
+               "lat" : 27.7627209,
+               "lng" : 85.52370650000002
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7678195,
+                  "lng" : 85.5552122
+               },
+               "southwest" : {
+                  "lat" : 27.7502612,
+                  "lng" : 85.4966039
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJJZ1pHUoB6zkRFRbgDs3D76U",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sankhu to Melamchi-Helambhu connecting Road",
+               "short_name" : "Sankhu to Melamchi-Helambhu connecting road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Naglebhare",
+               "short_name" : "Naglebhare",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sankhu to Melamchi-Helambhu connecting Road, Naglebhare, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.781493,
+                  "lng" : 85.5705421
+               },
+               "southwest" : {
+                  "lat" : 27.7663546,
+                  "lng" : 85.55473499999999
+               }
+            },
+            "location" : {
+               "lat" : 27.7740082,
+               "lng" : 85.5623174
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.781493,
+                  "lng" : 85.5705421
+               },
+               "southwest" : {
+                  "lat" : 27.7663546,
+                  "lng" : 85.55473499999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJS1QdQ9gA6zkRJnD2uFP0L-w",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Khairenitar",
+               "short_name" : "Khairenitar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gandaki",
+               "short_name" : "Gandaki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Khairenitar, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.0830368,
+                  "lng" : 84.1646291
+               },
+               "southwest" : {
+                  "lat" : 28.0073604,
+                  "lng" : 84.0832614
+               }
+            },
+            "location" : {
+               "lat" : 28.05,
+               "lng" : 84.11999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.0830368,
+                  "lng" : 84.1646291
+               },
+               "southwest" : {
+                  "lat" : 28.0073604,
+                  "lng" : 84.0832614
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJK01oe8GklTkRfra-P-uuYvo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ranibas",
+               "short_name" : "Ranibas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45900",
+               "short_name" : "45900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ranibas 45900, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.0968785,
+                  "lng" : 86.075456
+               },
+               "southwest" : {
+                  "lat" : 27.0178048,
+                  "lng" : 85.9683608
+               }
+            },
+            "location" : {
+               "lat" : 27.05,
+               "lng" : 86.033333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.0968785,
+                  "lng" : 86.075456
+               },
+               "southwest" : {
+                  "lat" : 27.0178048,
+                  "lng" : 85.9683608
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJT76lXWUJ7DkR3dcmsu_YPOA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

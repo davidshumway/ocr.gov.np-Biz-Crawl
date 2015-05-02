@@ -1,0 +1,116 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Padma Pokhari",
+               "short_name" : "Padma Pokhari",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44100",
+               "short_name" : "44100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Padma Pokhari 44100, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.583333,
+               "lng" : 84.983333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.5846819802915,
+                  "lng" : 84.98468198029151
+               },
+               "southwest" : {
+                  "lat" : 27.5819840197085,
+                  "lng" : 84.98198401970851
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ30CQOacz6zkRdmXSw2HuYoU",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Padam Pokhari",
+               "short_name" : "Padam Pokhari",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Hetauda",
+               "short_name" : "Hetauda",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Padam Pokhari, Hetauda, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.4532165,
+                  "lng" : 85.0106942
+               },
+               "southwest" : {
+                  "lat" : 27.3549152,
+                  "lng" : 84.936503
+               }
+            },
+            "location" : {
+               "lat" : 27.4061671,
+               "lng" : 84.96614900000002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.4532165,
+                  "lng" : 85.0106942
+               },
+               "southwest" : {
+                  "lat" : 27.3549152,
+                  "lng" : 84.936503
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJPx2RifxK6zkRnXi9REN7nVQ",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

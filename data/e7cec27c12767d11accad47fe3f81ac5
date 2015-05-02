@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ganapur",
+               "short_name" : "Ganapur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21900",
+               "short_name" : "21900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ganapur 21900, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.13,
+               "lng" : 81.64999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.1313489802915,
+                  "lng" : 81.6513489802915
+               },
+               "southwest" : {
+                  "lat" : 28.1286510197085,
+                  "lng" : 81.6486510197085
+               }
+            }
+         },
+         "place_id" : "ChIJY-W_rH1mmDkRL72vdizi4_M",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

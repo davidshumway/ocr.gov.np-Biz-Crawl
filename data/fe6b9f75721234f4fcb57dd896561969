@@ -1,0 +1,130 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lamosangu-Ramechhap Highway",
+               "short_name" : "F032",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45400",
+               "short_name" : "45400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lamosangu-Ramechhap Highway, 45400, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.4770121,
+                  "lng" : 86.1194015
+               },
+               "southwest" : {
+                  "lat" : 27.4597992,
+                  "lng" : 86.1125995
+               }
+            },
+            "location" : {
+               "lat" : 27.468702,
+               "lng" : 86.11504550000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.4770121,
+                  "lng" : 86.1194015
+               },
+               "southwest" : {
+                  "lat" : 27.4597992,
+                  "lng" : 86.1125995
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJXSV30J7o6zkRup_gt5pumy0",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lamosangu-Ramechhap Highway",
+               "short_name" : "F032",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gelu",
+               "short_name" : "Gelu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45400",
+               "short_name" : "45400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lamosangu-Ramechhap Highway, Gelu 45400, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.4818093,
+                  "lng" : 86.1169446
+               },
+               "southwest" : {
+                  "lat" : 27.4759317,
+                  "lng" : 86.11432139999999
+               }
+            },
+            "location" : {
+               "lat" : 27.479168,
+               "lng" : 86.1158288
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.4818093,
+                  "lng" : 86.1169819802915
+               },
+               "southwest" : {
+                  "lat" : 27.4759317,
+                  "lng" : 86.11428401970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ7VkHQ5Pn6zkRQW5mW_KlgDc",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

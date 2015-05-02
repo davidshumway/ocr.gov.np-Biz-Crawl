@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sundarijal",
+               "short_name" : "Sundarijal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sundarijal, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.8181265,
+                  "lng" : 85.47088629999999
+               },
+               "southwest" : {
+                  "lat" : 27.7519875,
+                  "lng" : 85.386343
+               }
+            },
+            "location" : {
+               "lat" : 27.7908946,
+               "lng" : 85.4272402
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.8181265,
+                  "lng" : 85.47088629999999
+               },
+               "southwest" : {
+                  "lat" : 27.7519875,
+                  "lng" : 85.386343
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ7cvJysgc6zkRu04P8FpFhrM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

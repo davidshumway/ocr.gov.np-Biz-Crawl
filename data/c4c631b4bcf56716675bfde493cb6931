@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dolakha",
+               "short_name" : "Dolakha",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dolakha, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.1958841,
+                  "lng" : 86.5488337
+               },
+               "southwest" : {
+                  "lat" : 27.4259473,
+                  "lng" : 85.78571319999999
+               }
+            },
+            "location" : {
+               "lat" : 27.7784288,
+               "lng" : 86.17517590000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.1958841,
+                  "lng" : 86.5488337
+               },
+               "southwest" : {
+                  "lat" : 27.4259473,
+                  "lng" : 85.78571319999999
+               }
+            }
+         },
+         "place_id" : "ChIJXRIlqY_T6zkRbNWpejJqKpM",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

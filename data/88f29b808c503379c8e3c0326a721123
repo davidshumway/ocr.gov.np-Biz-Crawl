@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ilam Pokhari",
+               "short_name" : "Ilam Pokhari",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gandaki",
+               "short_name" : "Gandaki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ilam Pokhari, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.249806,
+                  "lng" : 84.61352339999999
+               },
+               "southwest" : {
+                  "lat" : 28.1398159,
+                  "lng" : 84.55086709999999
+               }
+            },
+            "location" : {
+               "lat" : 28.18,
+               "lng" : 84.58999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.249806,
+                  "lng" : 84.61352339999999
+               },
+               "southwest" : {
+                  "lat" : 28.1398159,
+                  "lng" : 84.55086709999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ4QZwA8tqlTkRhyP5roRZ2_8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

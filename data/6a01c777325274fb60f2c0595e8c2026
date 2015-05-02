@@ -1,0 +1,60 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Koilabas",
+               "short_name" : "Koilabas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rapti",
+               "short_name" : "Rapti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Koilabas, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7426442,
+                  "lng" : 82.6153851
+               },
+               "southwest" : {
+                  "lat" : 27.6771434,
+                  "lng" : 82.45771409999999
+               }
+            },
+            "location" : {
+               "lat" : 27.697222,
+               "lng" : 82.526111
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7426442,
+                  "lng" : 82.6153851
+               },
+               "southwest" : {
+                  "lat" : 27.6771434,
+                  "lng" : 82.45771409999999
+               }
+            }
+         },
+         "place_id" : "ChIJ1deK-Qx1lzkRW7cJz0Mh4VY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

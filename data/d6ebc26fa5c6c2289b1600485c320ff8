@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kushadevi",
+               "short_name" : "Kushadevi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kushadevi, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6161665,
+                  "lng" : 85.49345959999999
+               },
+               "southwest" : {
+                  "lat" : 27.5550796,
+                  "lng" : 85.3857422
+               }
+            },
+            "location" : {
+               "lat" : 27.58,
+               "lng" : 85.45999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6161665,
+                  "lng" : 85.49345959999999
+               },
+               "southwest" : {
+                  "lat" : 27.5550796,
+                  "lng" : 85.3857422
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJTflf2T4O6zkRARZnRnGBnBI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

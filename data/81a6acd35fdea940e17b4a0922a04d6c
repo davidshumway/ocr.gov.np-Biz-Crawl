@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dogadi",
+               "short_name" : "Dogadi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seti",
+               "short_name" : "Seti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dogadi, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.4601511,
+                  "lng" : 81.32972719999999
+               },
+               "southwest" : {
+                  "lat" : 29.3869242,
+                  "lng" : 81.2508488
+               }
+            },
+            "location" : {
+               "lat" : 29.43,
+               "lng" : 81.28
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.4601511,
+                  "lng" : 81.32972719999999
+               },
+               "southwest" : {
+                  "lat" : 29.3869242,
+                  "lng" : 81.2508488
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJqWiop2S8ozkRVIY9L01sP4s",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

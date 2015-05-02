@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nagarkot",
+               "short_name" : "Nagarkot",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nagarkot, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7309072,
+                  "lng" : 85.5280066
+               },
+               "southwest" : {
+                  "lat" : 27.6979682,
+                  "lng" : 85.4706717
+               }
+            },
+            "location" : {
+               "lat" : 27.7236,
+               "lng" : 85.5247
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7309072,
+                  "lng" : 85.5280066
+               },
+               "southwest" : {
+                  "lat" : 27.6979682,
+                  "lng" : 85.4706717
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJA-LODCoE6zkRppd26Jpy44k",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

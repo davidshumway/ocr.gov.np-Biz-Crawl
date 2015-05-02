@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chhaling",
+               "short_name" : "Chhaling",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chhaling, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7204605,
+                  "lng" : 85.4768086
+               },
+               "southwest" : {
+                  "lat" : 27.6828441,
+                  "lng" : 85.43354990000002
+               }
+            },
+            "location" : {
+               "lat" : 27.7,
+               "lng" : 85.45999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7204605,
+                  "lng" : 85.4768086
+               },
+               "southwest" : {
+                  "lat" : 27.6828441,
+                  "lng" : 85.43354990000002
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJXauvrSMF6zkRa5tYQA5h6e4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

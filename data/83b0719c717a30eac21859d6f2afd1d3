@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Khatiwada",
+               "short_name" : "Khatiwada",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seti",
+               "short_name" : "Seti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10800",
+               "short_name" : "10800",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Khatiwada 10800, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.31,
+               "lng" : 80.97
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.31134898029149,
+                  "lng" : 80.97134898029151
+               },
+               "southwest" : {
+                  "lat" : 29.3086510197085,
+                  "lng" : 80.9686510197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJT4cIpbzaozkR2nfyRfj6etk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

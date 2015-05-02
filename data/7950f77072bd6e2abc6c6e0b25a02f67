@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sisakhani",
+               "short_name" : "Sisakhani",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45200",
+               "short_name" : "45200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sisakhani 45200, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.5143233,
+                  "lng" : 85.6623316
+               },
+               "southwest" : {
+                  "lat" : 27.4529512,
+                  "lng" : 85.61924449999999
+               }
+            },
+            "location" : {
+               "lat" : 27.4788072,
+               "lng" : 85.6460561
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.5143233,
+                  "lng" : 85.6623316
+               },
+               "southwest" : {
+                  "lat" : 27.4529512,
+                  "lng" : 85.61924449999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJRcxPWCqg6zkRh_0Un5nAOPE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,65 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Taman",
+               "short_name" : "Taman",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dhawalagiri",
+               "short_name" : "Dhawalagiri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33300",
+               "short_name" : "33300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Taman, 33300, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.39712,
+                  "lng" : 83.25615409999999
+               },
+               "southwest" : {
+                  "lat" : 28.3926463,
+                  "lng" : 83.2473136
+               }
+            },
+            "location" : {
+               "lat" : 28.3945882,
+               "lng" : 83.2512698
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.39712,
+                  "lng" : 83.25615409999999
+               },
+               "southwest" : {
+                  "lat" : 28.3926463,
+                  "lng" : 83.2473136
+               }
+            }
+         },
+         "place_id" : "ChIJn_2staAYljkRULBlDbp10CE",
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

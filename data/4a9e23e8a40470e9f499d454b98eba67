@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chainpur",
+               "short_name" : "Chainpur",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Khairahani",
+               "short_name" : "Khairahani",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44200",
+               "short_name" : "44200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chainpur, Khairahani 44200, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6841362,
+                  "lng" : 84.60099219999999
+               },
+               "southwest" : {
+                  "lat" : 27.6065838,
+                  "lng" : 84.5343877
+               }
+            },
+            "location" : {
+               "lat" : 27.65,
+               "lng" : 84.58000000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6841362,
+                  "lng" : 84.60099219999999
+               },
+               "southwest" : {
+                  "lat" : 27.6065838,
+                  "lng" : 84.5343877
+               }
+            }
+         },
+         "place_id" : "ChIJJZhGpzXmlDkRR3nJx3ebkaA",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

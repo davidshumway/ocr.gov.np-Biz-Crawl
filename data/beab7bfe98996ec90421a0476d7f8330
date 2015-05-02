@@ -1,0 +1,66 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Timure",
+               "short_name" : "Timure",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45000",
+               "short_name" : "45000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Timure, 45000, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.2585194,
+                  "lng" : 85.37012109999999
+               },
+               "southwest" : {
+                  "lat" : 28.2492955,
+                  "lng" : 85.3653144
+               }
+            },
+            "location" : {
+               "lat" : 28.2540595,
+               "lng" : 85.3672327
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.2585194,
+                  "lng" : 85.37012109999999
+               },
+               "southwest" : {
+                  "lat" : 28.2492955,
+                  "lng" : 85.3653144
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJPYMArW-T6jkRH_SV4VFQYco",
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

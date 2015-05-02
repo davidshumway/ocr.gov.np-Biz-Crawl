@@ -1,0 +1,65 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Syalapakha",
+               "short_name" : "Syalapakha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rapti",
+               "short_name" : "Rapti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "22000",
+               "short_name" : "22000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Syalapakha 22000, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6734948,
+                  "lng" : 82.58045199999999
+               },
+               "southwest" : {
+                  "lat" : 28.6107469,
+                  "lng" : 82.44166369999999
+               }
+            },
+            "location" : {
+               "lat" : 28.64,
+               "lng" : 82.52
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6734948,
+                  "lng" : 82.58045199999999
+               },
+               "southwest" : {
+                  "lat" : 28.6107469,
+                  "lng" : 82.44166369999999
+               }
+            }
+         },
+         "place_id" : "ChIJ8fJ3c9BcvTkRpsALsF0yi-s",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

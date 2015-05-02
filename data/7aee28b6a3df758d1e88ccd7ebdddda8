@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tamti",
+               "short_name" : "Tamti",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karnali",
+               "short_name" : "Karnali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tamti, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.2176541,
+                  "lng" : 82.1724988
+               },
+               "southwest" : {
+                  "lat" : 28.9714278,
+                  "lng" : 82.0128536
+               }
+            },
+            "location" : {
+               "lat" : 29.09,
+               "lng" : 82.08999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.2176541,
+                  "lng" : 82.1724988
+               },
+               "southwest" : {
+                  "lat" : 28.9714278,
+                  "lng" : 82.0128536
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJhcjB6irRojkRk-8FD8sWnE8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

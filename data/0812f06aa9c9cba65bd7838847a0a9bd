@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jimali",
+               "short_name" : "Jimali",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rapti",
+               "short_name" : "Rapti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "22200",
+               "short_name" : "22200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jimali 22200, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.529488,
+                  "lng" : 82.25691329999999
+               },
+               "southwest" : {
+                  "lat" : 28.4816305,
+                  "lng" : 82.195673
+               }
+            },
+            "location" : {
+               "lat" : 28.5,
+               "lng" : 82.22999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.529488,
+                  "lng" : 82.25691329999999
+               },
+               "southwest" : {
+                  "lat" : 28.4816305,
+                  "lng" : 82.195673
+               }
+            }
+         },
+         "place_id" : "ChIJmT_GW9dUvTkRr4ncUhwg7Vo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

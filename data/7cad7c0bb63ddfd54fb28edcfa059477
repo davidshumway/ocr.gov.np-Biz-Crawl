@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Manohara",
+               "short_name" : "Manohara",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Lokanthali",
+               "short_name" : "Lokanthali",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Madhyapur Thimi",
+               "short_name" : "Madhyapur Thimi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44600",
+               "short_name" : "44600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Manohara, Madhyapur Thimi 44600, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6827506,
+                  "lng" : 85.36179539999999
+               },
+               "southwest" : {
+                  "lat" : 27.6679236,
+                  "lng" : 85.35216079999999
+               }
+            },
+            "location" : {
+               "lat" : 27.6751904,
+               "lng" : 85.35690219999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6827506,
+                  "lng" : 85.36179539999999
+               },
+               "southwest" : {
+                  "lat" : 27.6679236,
+                  "lng" : 85.35216079999999
+               }
+            }
+         },
+         "place_id" : "ChIJFWopox0a6zkR97ZhZsEeVtk",
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

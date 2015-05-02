@@ -1,0 +1,115 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rupandehi College",
+               "short_name" : "Rupandehi College",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Siddharthanagar",
+               "short_name" : "Siddharthanagar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lumbini",
+               "short_name" : "Lumbini",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32900",
+               "short_name" : "32900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rupandehi College, Siddharthanagar 32900, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.5203702,
+               "lng" : 83.4586582
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.5217191802915,
+                  "lng" : 83.46000718029151
+               },
+               "southwest" : {
+                  "lat" : 27.5190212197085,
+                  "lng" : 83.45730921970851
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJN23no06aljkRyVUrMRDVvhc",
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bhim hospital",
+               "short_name" : "Bhim hospital",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Siddharthanagar",
+               "short_name" : "Siddharthanagar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lumbini",
+               "short_name" : "Lumbini",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32900",
+               "short_name" : "32900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bhim hospital, Siddharthanagar 32900, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.505764,
+               "lng" : 83.4540957
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.5071129802915,
+                  "lng" : 83.45544468029149
+               },
+               "southwest" : {
+                  "lat" : 27.5044150197085,
+                  "lng" : 83.45274671970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJlaK9mDCaljkRLVO2id51W0I",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

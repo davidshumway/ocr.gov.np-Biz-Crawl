@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dunai",
+               "short_name" : "Dunai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karnali",
+               "short_name" : "Karnali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21400",
+               "short_name" : "21400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dunai 21400, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.9837151,
+                  "lng" : 82.9548454
+               },
+               "southwest" : {
+                  "lat" : 28.8276813,
+                  "lng" : 82.817173
+               }
+            },
+            "location" : {
+               "lat" : 28.933333,
+               "lng" : 82.89999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.9837151,
+                  "lng" : 82.9548454
+               },
+               "southwest" : {
+                  "lat" : 28.8276813,
+                  "lng" : 82.817173
+               }
+            }
+         },
+         "place_id" : "ChIJz7lGOQwKvTkRz07vFf4NSoU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

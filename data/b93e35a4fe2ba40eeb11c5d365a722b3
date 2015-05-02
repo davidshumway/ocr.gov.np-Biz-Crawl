@@ -1,0 +1,66 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Phukot",
+               "short_name" : "Phukot",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karnali",
+               "short_name" : "Karnali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21300",
+               "short_name" : "21300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Phukot 21300, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.3388999,
+                  "lng" : 81.68300619999999
+               },
+               "southwest" : {
+                  "lat" : 29.2200886,
+                  "lng" : 81.6144705
+               }
+            },
+            "location" : {
+               "lat" : 29.30250509999999,
+               "lng" : 81.6637765
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.3388999,
+                  "lng" : 81.68300619999999
+               },
+               "southwest" : {
+                  "lat" : 29.2200886,
+                  "lng" : 81.6144705
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJkW62bPYEozkRHv8ssncZ9Eo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

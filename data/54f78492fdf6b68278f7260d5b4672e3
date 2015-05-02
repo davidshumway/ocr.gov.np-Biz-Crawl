@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sima",
+               "short_name" : "Sima",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sima, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.693143,
+                  "lng" : 82.04230439999999
+               },
+               "southwest" : {
+                  "lat" : 28.6361085,
+                  "lng" : 81.879521
+               }
+            },
+            "location" : {
+               "lat" : 28.66,
+               "lng" : 81.95
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.693143,
+                  "lng" : 82.04230439999999
+               },
+               "southwest" : {
+                  "lat" : 28.6361085,
+                  "lng" : 81.879521
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJEXDe0f28ojkR-HjHIdKkTBE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

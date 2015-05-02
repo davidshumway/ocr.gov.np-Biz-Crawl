@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Narayansthan",
+               "short_name" : "Narayansthan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dhawalagiri",
+               "short_name" : "Dhawalagiri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Narayansthan, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.2313183,
+                  "lng" : 83.674407
+               },
+               "southwest" : {
+                  "lat" : 28.1983804,
+                  "lng" : 83.6567689
+               }
+            },
+            "location" : {
+               "lat" : 28.216667,
+               "lng" : 83.66666699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.2313183,
+                  "lng" : 83.674407
+               },
+               "southwest" : {
+                  "lat" : 28.1983804,
+                  "lng" : 83.6567689
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ_3J1XDrhlTkRmlHMhHpKheg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

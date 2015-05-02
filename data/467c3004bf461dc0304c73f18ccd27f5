@@ -1,0 +1,80 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nepal Cold Storage & Ice Industries (P) Ltd.",
+               "short_name" : "Nepal Cold Storage & Ice Industries (P) Ltd.",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "त्रिभुवन राजपथ",
+               "short_name" : "त्रिभुवन राजपथ",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Parwanipur",
+               "short_name" : "Parwanipur",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Lipanimal",
+               "short_name" : "Lipanimal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44300",
+               "short_name" : "44300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nepal Cold Storage & Ice Industries (P) Ltd., त्रिभुवन राजपथ, Lipanimal 44300, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.0689425,
+                  "lng" : 84.9163932
+               },
+               "southwest" : {
+                  "lat" : 27.0682403,
+                  "lng" : 84.9154786
+               }
+            },
+            "location" : {
+               "lat" : 27.0685914,
+               "lng" : 84.91593589999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.0699403802915,
+                  "lng" : 84.9172848802915
+               },
+               "southwest" : {
+                  "lat" : 27.0672424197085,
+                  "lng" : 84.9145869197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJAwA97WhVkzkR4ADbvNxdFxg",
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

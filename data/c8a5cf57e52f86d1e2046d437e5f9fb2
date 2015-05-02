@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Righa",
+               "short_name" : "Righa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dhawalagiri",
+               "short_name" : "Dhawalagiri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Righa, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.2332467,
+                  "lng" : 83.35672629999999
+               },
+               "southwest" : {
+                  "lat" : 28.1891703,
+                  "lng" : 83.28134539999999
+               }
+            },
+            "location" : {
+               "lat" : 28.2,
+               "lng" : 83.33
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.2332467,
+                  "lng" : 83.35672629999999
+               },
+               "southwest" : {
+                  "lat" : 28.1891703,
+                  "lng" : 83.28134539999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJFeZYFBQUljkRCS1Wr5QOdHU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

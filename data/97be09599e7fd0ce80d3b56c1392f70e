@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Murtiya",
+               "short_name" : "Murtiya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45800",
+               "short_name" : "45800",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Murtiya 45800, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.0392556,
+                  "lng" : 85.4988336
+               },
+               "southwest" : {
+                  "lat" : 26.9609614,
+                  "lng" : 85.4640399
+               }
+            },
+            "location" : {
+               "lat" : 27,
+               "lng" : 85.483333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.0392556,
+                  "lng" : 85.4988336
+               },
+               "southwest" : {
+                  "lat" : 26.9609614,
+                  "lng" : 85.4640399
+               }
+            }
+         },
+         "place_id" : "ChIJkzQMfXuE7DkRIuHhsB2NWi4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

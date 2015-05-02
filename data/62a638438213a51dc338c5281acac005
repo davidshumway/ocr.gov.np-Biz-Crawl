@@ -1,0 +1,56 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santapur",
+               "short_name" : "Santapur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44500",
+               "short_name" : "44500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Santapur 44500, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.016667,
+               "lng" : 85.2
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.0180159802915,
+                  "lng" : 85.20134898029151
+               },
+               "southwest" : {
+                  "lat" : 27.0153180197085,
+                  "lng" : 85.19865101970851
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJIZ2XHkah7DkR8_LK7nK0E1Y",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Malu",
+               "short_name" : "Malu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45500",
+               "short_name" : "45500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Malu 45500, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.5390416,
+                  "lng" : 86.1252166
+               },
+               "southwest" : {
+                  "lat" : 27.5000875,
+                  "lng" : 86.0846186
+               }
+            },
+            "location" : {
+               "lat" : 27.52,
+               "lng" : 86.09999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.5390416,
+                  "lng" : 86.1252166
+               },
+               "southwest" : {
+                  "lat" : 27.5000875,
+                  "lng" : 86.0846186
+               }
+            }
+         },
+         "place_id" : "ChIJ3--DMzjd6zkRU_MEvayo7dc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

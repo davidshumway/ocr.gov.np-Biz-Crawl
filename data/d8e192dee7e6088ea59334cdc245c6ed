@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thakani",
+               "short_name" : "Thakani",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Thakani, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.8912807,
+                  "lng" : 85.5090809
+               },
+               "southwest" : {
+                  "lat" : 27.8175953,
+                  "lng" : 85.4505444
+               }
+            },
+            "location" : {
+               "lat" : 27.85,
+               "lng" : 85.47999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.8912807,
+                  "lng" : 85.5090809
+               },
+               "southwest" : {
+                  "lat" : 27.8175953,
+                  "lng" : 85.4505444
+               }
+            }
+         },
+         "place_id" : "ChIJEXVQyYH96jkRTQBkLPgFlF4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

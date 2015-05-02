@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dododhara",
+               "short_name" : "Dododhara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seti",
+               "short_name" : "Seti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10900",
+               "short_name" : "10900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dododhara 10900, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.7621667,
+                  "lng" : 81.07974519999999
+               },
+               "southwest" : {
+                  "lat" : 28.6154561,
+                  "lng" : 81.0216379
+               }
+            },
+            "location" : {
+               "lat" : 28.69,
+               "lng" : 81.05
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.7621667,
+                  "lng" : 81.07974519999999
+               },
+               "southwest" : {
+                  "lat" : 28.6154561,
+                  "lng" : 81.0216379
+               }
+            }
+         },
+         "place_id" : "ChIJCVFBB-0WojkRMoI5VqxaoJs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

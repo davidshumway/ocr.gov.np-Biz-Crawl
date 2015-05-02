@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Duwakot",
+               "short_name" : "Duwakot",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Duwakot, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7131661,
+                  "lng" : 85.4247522
+               },
+               "southwest" : {
+                  "lat" : 27.6775614,
+                  "lng" : 85.39629939999999
+               }
+            },
+            "location" : {
+               "lat" : 27.7,
+               "lng" : 85.41
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7131661,
+                  "lng" : 85.4247522
+               },
+               "southwest" : {
+                  "lat" : 27.6775614,
+                  "lng" : 85.39629939999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJdbU9QO8a6zkRmpKzy4h9FVM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

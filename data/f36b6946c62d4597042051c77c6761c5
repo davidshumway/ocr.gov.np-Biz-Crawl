@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ugratara Janagal",
+               "short_name" : "Ugratara Janagal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ugratara Janagal, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6481039,
+                  "lng" : 85.52573199999999
+               },
+               "southwest" : {
+                  "lat" : 27.6113752,
+                  "lng" : 85.50109859999999
+               }
+            },
+            "location" : {
+               "lat" : 27.6384166,
+               "lng" : 85.5071469
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6481039,
+                  "lng" : 85.52573199999999
+               },
+               "southwest" : {
+                  "lat" : 27.6113752,
+                  "lng" : 85.50109859999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJEzTllC8P6zkRw5XqTjwtINk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

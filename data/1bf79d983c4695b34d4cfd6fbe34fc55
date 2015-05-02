@@ -1,0 +1,70 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Way to Basa",
+               "short_name" : "Way to Basa",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ramgram",
+               "short_name" : "Ramgram",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lumbini",
+               "short_name" : "Lumbini",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33007",
+               "short_name" : "33007",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Way to Basa, Ramgram 33007, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.5575101,
+                  "lng" : 83.7256783
+               },
+               "southwest" : {
+                  "lat" : 27.5295106,
+                  "lng" : 83.7077843
+               }
+            },
+            "location" : {
+               "lat" : 27.5423861,
+               "lng" : 83.7178096
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.5575101,
+                  "lng" : 83.7256783
+               },
+               "southwest" : {
+                  "lat" : 27.5295106,
+                  "lng" : 83.7077843
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ64ZaJVQklDkRs2Do7hJPEL0",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

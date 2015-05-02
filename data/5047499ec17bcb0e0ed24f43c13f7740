@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sekham",
+               "short_name" : "Sekham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gandaki",
+               "short_name" : "Gandaki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33800",
+               "short_name" : "33800",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sekham 33800, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.9438011,
+                  "lng" : 83.9132309
+               },
+               "southwest" : {
+                  "lat" : 27.8876771,
+                  "lng" : 83.84799960000001
+               }
+            },
+            "location" : {
+               "lat" : 27.92,
+               "lng" : 83.88
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.9438011,
+                  "lng" : 83.9132309
+               },
+               "southwest" : {
+                  "lat" : 27.8876771,
+                  "lng" : 83.84799960000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJl4Wi9g_JlTkRWGObO_9fFIs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

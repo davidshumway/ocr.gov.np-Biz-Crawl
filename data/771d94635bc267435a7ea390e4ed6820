@@ -1,0 +1,66 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Trishuli Karate Do Jo",
+               "short_name" : "Trishuli Karate Do Jo",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Trishuli",
+               "short_name" : "Trishuli",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bidur",
+               "short_name" : "Bidur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44900",
+               "short_name" : "44900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Trishuli Karate Do Jo, Bidur 44900, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.9254029,
+               "lng" : 85.14220829999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.9267518802915,
+                  "lng" : 85.1435572802915
+               },
+               "southwest" : {
+                  "lat" : 27.92405391970849,
+                  "lng" : 85.14085931970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ8eq7cYTZ6jkRVnv_7mJPl0g",
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

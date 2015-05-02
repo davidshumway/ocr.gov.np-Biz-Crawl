@@ -1,0 +1,76 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bihun-Hatiya Health-Post",
+               "short_name" : "Bihun-Hatiya Health-Post",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Hatiya Deurali marga",
+               "short_name" : "Hatiya Deurali marga",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Harichaur",
+               "short_name" : "Harichaur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dhawalagiri",
+               "short_name" : "Dhawalagiri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33300",
+               "short_name" : "33300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bihun-Hatiya Health-Post, Hatiya Deurali marga, Harichaur 33300, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.257142,
+                  "lng" : 83.5049719
+               },
+               "southwest" : {
+                  "lat" : 28.2569719,
+                  "lng" : 83.50469289999999
+               }
+            },
+            "location" : {
+               "lat" : 28.2570494,
+               "lng" : 83.50483349999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.2584059302915,
+                  "lng" : 83.50618138029151
+               },
+               "southwest" : {
+                  "lat" : 28.2557079697085,
+                  "lng" : 83.50348341970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJO8yGhbQOljkRmKhcpLWXeoA",
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

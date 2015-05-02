@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Betakuiya",
+               "short_name" : "Betakuiya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lumbini",
+               "short_name" : "Lumbini",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32900",
+               "short_name" : "32900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Betakuiya 32900, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.42,
+               "lng" : 83.31999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.4213489802915,
+                  "lng" : 83.3213489802915
+               },
+               "southwest" : {
+                  "lat" : 27.4186510197085,
+                  "lng" : 83.31865101970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJnaUAp8aVljkR8UeAPLj6juc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

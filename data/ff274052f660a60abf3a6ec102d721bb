@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Palanchok Bhagawati Road",
+               "short_name" : "F071",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Palanchok Bhagawati Road, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6682808,
+                  "lng" : 85.6851652
+               },
+               "southwest" : {
+                  "lat" : 27.6105338,
+                  "lng" : 85.62788089999999
+               }
+            },
+            "location" : {
+               "lat" : 27.6422458,
+               "lng" : 85.66406289999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6682808,
+                  "lng" : 85.6851652
+               },
+               "southwest" : {
+                  "lat" : 27.6105338,
+                  "lng" : 85.62788089999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJQySCrtin6zkRY6ID2l5ZtLc",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

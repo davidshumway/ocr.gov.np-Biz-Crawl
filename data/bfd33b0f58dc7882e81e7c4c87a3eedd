@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lulang",
+               "short_name" : "Lulang",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dhawalagiri",
+               "short_name" : "Dhawalagiri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33200",
+               "short_name" : "33200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lulang 33200, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.53,
+               "lng" : 83.22
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5313489802915,
+                  "lng" : 83.22134898029151
+               },
+               "southwest" : {
+                  "lat" : 28.52865101970849,
+                  "lng" : 83.2186510197085
+               }
+            }
+         },
+         "place_id" : "ChIJ0USBC-2KvTkRIfc0OBSsplU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Matela",
+               "short_name" : "Matela",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seti",
+               "short_name" : "Seti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10500",
+               "short_name" : "10500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Matela 10500, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.5,
+               "lng" : 81.09999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.5013489802915,
+                  "lng" : 81.1013489802915
+               },
+               "southwest" : {
+                  "lat" : 29.4986510197085,
+                  "lng" : 81.09865101970848
+               }
+            }
+         },
+         "place_id" : "ChIJ5bJa93LqozkRm5XjKF4ndFA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

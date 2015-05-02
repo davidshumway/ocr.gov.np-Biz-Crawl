@@ -1,0 +1,65 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Koiralakot",
+               "short_name" : "Koiralakot",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seti",
+               "short_name" : "Seti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10500",
+               "short_name" : "10500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Koiralakot 10500, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.4804017,
+                  "lng" : 81.09965790000001
+               },
+               "southwest" : {
+                  "lat" : 29.4265158,
+                  "lng" : 81.02442739999999
+               }
+            },
+            "location" : {
+               "lat" : 29.46,
+               "lng" : 81.06
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.4804017,
+                  "lng" : 81.09965790000001
+               },
+               "southwest" : {
+                  "lat" : 29.4265158,
+                  "lng" : 81.02442739999999
+               }
+            }
+         },
+         "place_id" : "ChIJW962eDDCozkRnS8Ac2iSRL0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

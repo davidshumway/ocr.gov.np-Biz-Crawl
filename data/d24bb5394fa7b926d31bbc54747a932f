@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thirpu",
+               "short_name" : "Thirpu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karnali",
+               "short_name" : "Karnali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Thirpu, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.3332133,
+                  "lng" : 81.880803
+               },
+               "southwest" : {
+                  "lat" : 29.2184032,
+                  "lng" : 81.7474651
+               }
+            },
+            "location" : {
+               "lat" : 29.3,
+               "lng" : 81.8125
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.3332133,
+                  "lng" : 81.880803
+               },
+               "southwest" : {
+                  "lat" : 29.2184032,
+                  "lng" : 81.7474651
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJG8bIiiQZozkRgy3KOPW9qK4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

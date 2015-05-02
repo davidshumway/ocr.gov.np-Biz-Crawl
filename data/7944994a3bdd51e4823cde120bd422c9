@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ramghat",
+               "short_name" : "Ramghat",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21700",
+               "short_name" : "21700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ramghat, 21700, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.5093147,
+                  "lng" : 81.7664901
+               },
+               "southwest" : {
+                  "lat" : 28.46648,
+                  "lng" : 81.70620749999999
+               }
+            },
+            "location" : {
+               "lat" : 28.5,
+               "lng" : 81.716667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5093147,
+                  "lng" : 81.7664901
+               },
+               "southwest" : {
+                  "lat" : 28.46648,
+                  "lng" : 81.70620749999999
+               }
+            }
+         },
+         "place_id" : "ChIJMbWfI1ycojkR1Xd0VcYw2q4",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

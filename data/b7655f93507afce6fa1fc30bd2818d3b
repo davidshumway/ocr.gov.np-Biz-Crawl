@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mainpur Pakaha",
+               "short_name" : "Mainpur Pakaha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44300",
+               "short_name" : "44300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mainpur Pakaha 44300, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.042243,
+                  "lng" : 84.75656429999999
+               },
+               "southwest" : {
+                  "lat" : 27.016021,
+                  "lng" : 84.7360601
+               }
+            },
+            "location" : {
+               "lat" : 27.0315854,
+               "lng" : 84.74461459999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.042243,
+                  "lng" : 84.75656429999999
+               },
+               "southwest" : {
+                  "lat" : 27.016021,
+                  "lng" : 84.7360601
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ6zpQtExYkzkRgTnuRCgAgEA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Melamchi",
+               "short_name" : "Melamchi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Melamchi, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.8715124,
+                  "lng" : 85.6490936
+               },
+               "southwest" : {
+                  "lat" : 27.7438835,
+                  "lng" : 85.5008345
+               }
+            },
+            "location" : {
+               "lat" : 27.83,
+               "lng" : 85.56
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.8715124,
+                  "lng" : 85.6490936
+               },
+               "southwest" : {
+                  "lat" : 27.7438835,
+                  "lng" : 85.5008345
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ9cZ5-0YA6zkR-IZ5CiXXlEc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

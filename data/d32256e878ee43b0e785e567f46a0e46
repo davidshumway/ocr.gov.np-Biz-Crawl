@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sitalpati",
+               "short_name" : "Sitalpati",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sitalpati, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.3895634,
+                  "lng" : 85.98364939999999
+               },
+               "southwest" : {
+                  "lat" : 27.3371193,
+                  "lng" : 85.8994388
+               }
+            },
+            "location" : {
+               "lat" : 27.361609,
+               "lng" : 85.9406745
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.3895634,
+                  "lng" : 85.98364939999999
+               },
+               "southwest" : {
+                  "lat" : 27.3371193,
+                  "lng" : 85.8994388
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJEwITacXs6zkRSKP8IeJJ8ps",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

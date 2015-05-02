@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Syuchatar",
+               "short_name" : "Syuchatar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44600",
+               "short_name" : "44600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Syuchatar 44600, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7160914,
+                  "lng" : 85.28227319999999
+               },
+               "southwest" : {
+                  "lat" : 27.6908624,
+                  "lng" : 85.2497006
+               }
+            },
+            "location" : {
+               "lat" : 27.7009536,
+               "lng" : 85.27483400000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7160914,
+                  "lng" : 85.28227319999999
+               },
+               "southwest" : {
+                  "lat" : 27.6908624,
+                  "lng" : 85.2497006
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJSfMSX4ci6zkRdsH5vYk0yp0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

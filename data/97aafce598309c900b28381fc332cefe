@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thaprek",
+               "short_name" : "Thaprek",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gandaki",
+               "short_name" : "Gandaki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Thaprek, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.1107488,
+                  "lng" : 84.1958714
+               },
+               "southwest" : {
+                  "lat" : 28.0525151,
+                  "lng" : 84.10059919999999
+               }
+            },
+            "location" : {
+               "lat" : 28.09,
+               "lng" : 84.14999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.1107488,
+                  "lng" : 84.1958714
+               },
+               "southwest" : {
+                  "lat" : 28.0525151,
+                  "lng" : 84.10059919999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ7fSDr4ajlTkRHY04tTK4LPI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

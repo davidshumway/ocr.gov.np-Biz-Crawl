@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jagatpur",
+               "short_name" : "Jagatpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44200",
+               "short_name" : "44200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jagatpur 44200, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.5842199,
+                  "lng" : 84.34311389999999
+               },
+               "southwest" : {
+                  "lat" : 27.5501714,
+                  "lng" : 84.26011559999999
+               }
+            },
+            "location" : {
+               "lat" : 27.57,
+               "lng" : 84.31000000000002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.5842199,
+                  "lng" : 84.34311389999999
+               },
+               "southwest" : {
+                  "lat" : 27.5501714,
+                  "lng" : 84.26011559999999
+               }
+            }
+         },
+         "place_id" : "ChIJrVB0eFL2lDkRgY00T-0f_rg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,65 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ghermu",
+               "short_name" : "Ghermu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gandaki",
+               "short_name" : "Gandaki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33600",
+               "short_name" : "33600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ghermu 33600, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.3904187,
+                  "lng" : 84.433279
+               },
+               "southwest" : {
+                  "lat" : 28.3646676,
+                  "lng" : 84.40117839999999
+               }
+            },
+            "location" : {
+               "lat" : 28.377956,
+               "lng" : 84.412014
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.3904187,
+                  "lng" : 84.433279
+               },
+               "southwest" : {
+                  "lat" : 28.3646676,
+                  "lng" : 84.40117839999999
+               }
+            }
+         },
+         "place_id" : "ChIJqSfdV596lTkRUEk0958ATnY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

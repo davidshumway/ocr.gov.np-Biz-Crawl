@@ -1,0 +1,66 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chaudhari",
+               "short_name" : "Chaudhari",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seti",
+               "short_name" : "Seti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10500",
+               "short_name" : "10500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chaudhari 10500, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.532093,
+                  "lng" : 81.0539533
+               },
+               "southwest" : {
+                  "lat" : 29.4787577,
+                  "lng" : 81.01060869999999
+               }
+            },
+            "location" : {
+               "lat" : 29.49,
+               "lng" : 81.03999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.532093,
+                  "lng" : 81.0539533
+               },
+               "southwest" : {
+                  "lat" : 29.4787577,
+                  "lng" : 81.01060869999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJa8v5EfnpozkRgKiTgb-dVC0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

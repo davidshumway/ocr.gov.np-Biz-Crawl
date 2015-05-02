@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dhangadhi",
+               "short_name" : "Dhangadhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seti",
+               "short_name" : "Seti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dhangadhi, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.7559214,
+                  "lng" : 80.6738948
+               },
+               "southwest" : {
+                  "lat" : 28.6349314,
+                  "lng" : 80.53819659999999
+               }
+            },
+            "location" : {
+               "lat" : 28.68333299999999,
+               "lng" : 80.59999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.7559214,
+                  "lng" : 80.6738948
+               },
+               "southwest" : {
+                  "lat" : 28.6349314,
+                  "lng" : 80.53819659999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJN8xC-w_toTkRHLEkp3CU6H8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

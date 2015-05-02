@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sirutar",
+               "short_name" : "Sirutar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sirutar, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6606482,
+                  "lng" : 85.394733
+               },
+               "southwest" : {
+                  "lat" : 27.6423634,
+                  "lng" : 85.3693485
+               }
+            },
+            "location" : {
+               "lat" : 27.6560167,
+               "lng" : 85.3743339
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6606482,
+                  "lng" : 85.394733
+               },
+               "southwest" : {
+                  "lat" : 27.6423634,
+                  "lng" : 85.3693485
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJawTIDJoQ6zkR56gHbAABYrg",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

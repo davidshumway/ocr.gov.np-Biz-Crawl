@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kalika",
+               "short_name" : "Kalika",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karnali",
+               "short_name" : "Karnali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kalika, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.0500172,
+                  "lng" : 82.6310922
+               },
+               "southwest" : {
+                  "lat" : 28.970602,
+                  "lng" : 82.4965953
+               }
+            },
+            "location" : {
+               "lat" : 29.02,
+               "lng" : 82.58
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.0500172,
+                  "lng" : 82.6310922
+               },
+               "southwest" : {
+                  "lat" : 28.970602,
+                  "lng" : 82.4965953
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJlbqex-UXvTkRZ81rskuu7ro",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

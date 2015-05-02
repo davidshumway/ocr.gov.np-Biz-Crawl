@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Faparbari",
+               "short_name" : "Faparbari",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Faparbari, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.3950515,
+                  "lng" : 85.4697544
+               },
+               "southwest" : {
+                  "lat" : 27.2635744,
+                  "lng" : 85.2785021
+               }
+            },
+            "location" : {
+               "lat" : 27.3089194,
+               "lng" : 85.37562489999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.3950515,
+                  "lng" : 85.4697544
+               },
+               "southwest" : {
+                  "lat" : 27.2635744,
+                  "lng" : 85.2785021
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJqV_V6Lxv6zkRP1GjyG0xmDs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

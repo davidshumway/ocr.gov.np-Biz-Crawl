@@ -1,0 +1,135 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "World Peace Stupa Access Road",
+               "short_name" : "World Peace Stupa Access Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pokhara",
+               "short_name" : "Pokhara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gandaki",
+               "short_name" : "Gandaki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33700",
+               "short_name" : "33700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "World Peace Stupa Access Road, Pokhara 33700, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.200391,
+                  "lng" : 83.95311009999999
+               },
+               "southwest" : {
+                  "lat" : 28.191685,
+                  "lng" : 83.93791659999999
+               }
+            },
+            "location" : {
+               "lat" : 28.1978174,
+               "lng" : 83.94530449999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.200391,
+                  "lng" : 83.95311009999999
+               },
+               "southwest" : {
+                  "lat" : 28.191685,
+                  "lng" : 83.93791659999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJj0QSzDuVlTkRZmsr6VcNHG4",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "World Peace Pagoda Access 2nd Road",
+               "short_name" : "World Peace Pagoda Access 2nd Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pumdi Bhumdi",
+               "short_name" : "Pumdi Bhumdi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gandaki",
+               "short_name" : "Gandaki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33700",
+               "short_name" : "33700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "World Peace Pagoda Access 2nd Road, Pumdi Bhumdi 33700, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.2007599,
+                  "lng" : 83.95036499999999
+               },
+               "southwest" : {
+                  "lat" : 28.1991826,
+                  "lng" : 83.94668639999999
+               }
+            },
+            "location" : {
+               "lat" : 28.1999871,
+               "lng" : 83.9485433
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.2013202302915,
+                  "lng" : 83.95036499999999
+               },
+               "southwest" : {
+                  "lat" : 28.1986222697085,
+                  "lng" : 83.94668639999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJPWcmvzyVlTkRGC3jeC2MDFU",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

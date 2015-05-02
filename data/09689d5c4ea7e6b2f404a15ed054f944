@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bharatpur",
+               "short_name" : "Bharatpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bharatpur, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.9633329,
+                  "lng" : 85.7783305
+               },
+               "southwest" : {
+                  "lat" : 26.9146166,
+                  "lng" : 85.7158189
+               }
+            },
+            "location" : {
+               "lat" : 26.916667,
+               "lng" : 85.766667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9633329,
+                  "lng" : 85.7783305
+               },
+               "southwest" : {
+                  "lat" : 26.9146166,
+                  "lng" : 85.7158189
+               }
+            }
+         },
+         "place_id" : "ChIJp6pZPr967DkR3IXeGprqeX4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

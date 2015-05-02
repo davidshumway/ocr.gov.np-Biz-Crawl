@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jaleshwor",
+               "short_name" : "Jaleshwor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jaleshwor, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.680374,
+                  "lng" : 85.82497389999999
+               },
+               "southwest" : {
+                  "lat" : 26.6245285,
+                  "lng" : 85.76555239999999
+               }
+            },
+            "location" : {
+               "lat" : 26.633333,
+               "lng" : 85.8
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.680374,
+                  "lng" : 85.82497389999999
+               },
+               "southwest" : {
+                  "lat" : 26.6245285,
+                  "lng" : 85.76555239999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ15Uw1npD7DkRiBZJ_YbvBEo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

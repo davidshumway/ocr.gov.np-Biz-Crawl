@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Suryabinayak",
+               "short_name" : "Suryabinayak",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Suryabinayak, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6737931,
+                  "lng" : 85.4927515
+               },
+               "southwest" : {
+                  "lat" : 27.6225927,
+                  "lng" : 85.3915921
+               }
+            },
+            "location" : {
+               "lat" : 27.6451028,
+               "lng" : 85.44271529999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6737931,
+                  "lng" : 85.4927515
+               },
+               "southwest" : {
+                  "lat" : 27.6225927,
+                  "lng" : 85.3915921
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJnUk3SqYa6zkRdt1KI6yUx3c",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

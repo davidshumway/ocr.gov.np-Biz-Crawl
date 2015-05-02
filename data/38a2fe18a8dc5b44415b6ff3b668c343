@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pigauna",
+               "short_name" : "Pigauna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45700",
+               "short_name" : "45700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Pigauna 45700, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.6674493,
+                  "lng" : 85.8421254
+               },
+               "southwest" : {
+                  "lat" : 26.6424615,
+                  "lng" : 85.81885989999999
+               }
+            },
+            "location" : {
+               "lat" : 26.66,
+               "lng" : 85.83
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.6674493,
+                  "lng" : 85.8421254
+               },
+               "southwest" : {
+                  "lat" : 26.6424615,
+                  "lng" : 85.81885989999999
+               }
+            }
+         },
+         "place_id" : "ChIJk6k-CO1D7DkRg99M7Gae_1A",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

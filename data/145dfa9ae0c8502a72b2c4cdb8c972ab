@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Melung",
+               "short_name" : "Melung",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45500",
+               "short_name" : "45500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Melung 45500, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.532332,
+                  "lng" : 86.09318019999999
+               },
+               "southwest" : {
+                  "lat" : 27.4969089,
+                  "lng" : 86.0483229
+               }
+            },
+            "location" : {
+               "lat" : 27.51,
+               "lng" : 86.06999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.532332,
+                  "lng" : 86.09318019999999
+               },
+               "southwest" : {
+                  "lat" : 27.4969089,
+                  "lng" : 86.0483229
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJlyfbVJTC6zkRvTiZ8sTgun4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

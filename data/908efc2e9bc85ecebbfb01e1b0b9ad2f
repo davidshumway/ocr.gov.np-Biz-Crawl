@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sankhu to Melamchi-Helambhu connecting Road",
+               "short_name" : "Sankhu to Melamchi-Helambhu connecting road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Naglebhare",
+               "short_name" : "Naglebhare",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sankhu to Melamchi-Helambhu connecting Road, Naglebhare, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.781493,
+                  "lng" : 85.5705421
+               },
+               "southwest" : {
+                  "lat" : 27.7663546,
+                  "lng" : 85.55473499999999
+               }
+            },
+            "location" : {
+               "lat" : 27.7740082,
+               "lng" : 85.5623174
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.781493,
+                  "lng" : 85.5705421
+               },
+               "southwest" : {
+                  "lat" : 27.7663546,
+                  "lng" : 85.55473499999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJS1QdQ9gA6zkRJnD2uFP0L-w",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

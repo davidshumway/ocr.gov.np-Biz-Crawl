@@ -1,0 +1,140 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Syangja Mirmi Sadak",
+               "short_name" : "F131",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Shreekrishna Gandaki",
+               "short_name" : "Shreekrishna Gandaki",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gandaki",
+               "short_name" : "Gandaki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33800",
+               "short_name" : "33800",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Syangja Mirmi Sadak, Shreekrishna Gandaki 33800, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.9636461,
+                  "lng" : 83.6149526
+               },
+               "southwest" : {
+                  "lat" : 27.9416468,
+                  "lng" : 83.59606500000001
+               }
+            },
+            "location" : {
+               "lat" : 27.9510823,
+               "lng" : 83.6006033
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.9636461,
+                  "lng" : 83.6149526
+               },
+               "southwest" : {
+                  "lat" : 27.9416468,
+                  "lng" : 83.59606500000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ4_JS55fXlTkRURDH7fifKBE",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Syangja Mirmi Road",
+               "short_name" : "Syangja Mirmi Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Balam Beltari",
+               "short_name" : "Balam Beltari",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Shreekrishna Gandaki",
+               "short_name" : "Shreekrishna Gandaki",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gandaki",
+               "short_name" : "Gandaki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33800",
+               "short_name" : "33800",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Syangja Mirmi Road, Shreekrishna Gandaki 33800, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.9461326,
+                  "lng" : 83.60627079999999
+               },
+               "southwest" : {
+                  "lat" : 27.9278659,
+                  "lng" : 83.5985488
+               }
+            },
+            "location" : {
+               "lat" : 27.9369704,
+               "lng" : 83.6026713
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.9461326,
+                  "lng" : 83.60627079999999
+               },
+               "southwest" : {
+                  "lat" : 27.9278659,
+                  "lng" : 83.5985488
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ4xa_V9vXlTkR_FEhfTblb30",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

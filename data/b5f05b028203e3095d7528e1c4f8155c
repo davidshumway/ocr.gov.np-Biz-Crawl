@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shivaraj",
+               "short_name" : "Shivaraj",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lumbini",
+               "short_name" : "Lumbini",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shivaraj, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7955784,
+                  "lng" : 82.9254055
+               },
+               "southwest" : {
+                  "lat" : 27.568243,
+                  "lng" : 82.8029251
+               }
+            },
+            "location" : {
+               "lat" : 27.72,
+               "lng" : 82.88
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7955784,
+                  "lng" : 82.9254055
+               },
+               "southwest" : {
+                  "lat" : 27.568243,
+                  "lng" : 82.8029251
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJlVcNOqkBlzkR5tWa7j-A4wM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

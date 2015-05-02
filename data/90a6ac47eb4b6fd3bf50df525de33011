@@ -1,0 +1,66 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fatuha Maheshpur",
+               "short_name" : "Fatuha Maheshpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44500",
+               "short_name" : "44500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Fatuha Maheshpur 44500, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.8477506,
+                  "lng" : 85.29018189999999
+               },
+               "southwest" : {
+                  "lat" : 26.8170549,
+                  "lng" : 85.2515325
+               }
+            },
+            "location" : {
+               "lat" : 26.83,
+               "lng" : 85.28
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8477506,
+                  "lng" : 85.29018189999999
+               },
+               "southwest" : {
+                  "lat" : 26.8170549,
+                  "lng" : 85.2515325
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJL6lD4x6W7DkRxQVEX0HKwi0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

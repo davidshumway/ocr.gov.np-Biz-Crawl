@@ -1,0 +1,60 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Godamchaur",
+               "short_name" : "Godamchaur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Godamchaur, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6339992,
+                  "lng" : 85.3807211
+               },
+               "southwest" : {
+                  "lat" : 27.6081046,
+                  "lng" : 85.35173189999999
+               }
+            },
+            "location" : {
+               "lat" : 27.62,
+               "lng" : 85.36999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6339992,
+                  "lng" : 85.3807211
+               },
+               "southwest" : {
+                  "lat" : 27.6081046,
+                  "lng" : 85.35173189999999
+               }
+            }
+         },
+         "place_id" : "ChIJzy_AL9AQ6zkR75EpO3SMHRc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

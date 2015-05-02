@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dang",
+               "short_name" : "Dang",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Rapti",
+               "short_name" : "Rapti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dang, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.2364225,
+                  "lng" : 82.8001785
+               },
+               "southwest" : {
+                  "lat" : 27.6505369,
+                  "lng" : 81.98410029999999
+               }
+            },
+            "location" : {
+               "lat" : 27.9903597,
+               "lng" : 82.30177279999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.2364225,
+                  "lng" : 82.8001785
+               },
+               "southwest" : {
+                  "lat" : 27.6505369,
+                  "lng" : 81.98410029999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJdViz2yuQlzkRu0m8ai7_lm0",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

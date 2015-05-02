@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dhanauri",
+               "short_name" : "Dhanauri",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rapti",
+               "short_name" : "Rapti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dhanauri, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.1616868,
+                  "lng" : 82.1918106
+               },
+               "southwest" : {
+                  "lat" : 28.1058183,
+                  "lng" : 82.11379049999999
+               }
+            },
+            "location" : {
+               "lat" : 28.13,
+               "lng" : 82.14999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.1616868,
+                  "lng" : 82.1918106
+               },
+               "southwest" : {
+                  "lat" : 28.1058183,
+                  "lng" : 82.11379049999999
+               }
+            }
+         },
+         "place_id" : "ChIJ0-SkhegemDkR38Poq_JN7WI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

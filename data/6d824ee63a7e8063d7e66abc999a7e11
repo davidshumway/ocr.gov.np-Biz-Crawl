@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jyamire",
+               "short_name" : "Jyamire",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jyamire, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.8725416,
+                  "lng" : 85.6503582
+               },
+               "southwest" : {
+                  "lat" : 27.8208403,
+                  "lng" : 85.57740219999999
+               }
+            },
+            "location" : {
+               "lat" : 27.85,
+               "lng" : 85.61
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.8725416,
+                  "lng" : 85.6503582
+               },
+               "southwest" : {
+                  "lat" : 27.8208403,
+                  "lng" : 85.57740219999999
+               }
+            }
+         },
+         "place_id" : "ChIJT5CwyrGq6zkRsKOCTUJWdCc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

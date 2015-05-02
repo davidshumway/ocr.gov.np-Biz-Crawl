@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hansapur",
+               "short_name" : "Hansapur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lumbini",
+               "short_name" : "Lumbini",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hansapur, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.1121873,
+                  "lng" : 83.10187329999999
+               },
+               "southwest" : {
+                  "lat" : 28.0333494,
+                  "lng" : 83.0251409
+               }
+            },
+            "location" : {
+               "lat" : 28.083333,
+               "lng" : 83.083333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.1121873,
+                  "lng" : 83.10187329999999
+               },
+               "southwest" : {
+                  "lat" : 28.0333494,
+                  "lng" : 83.0251409
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJCxJtaIpIljkRyBUklDXK4VQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

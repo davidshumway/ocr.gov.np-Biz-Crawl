@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ghoreta",
+               "short_name" : "Ghoreta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21700",
+               "short_name" : "21700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ghoreta 21700, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.63,
+               "lng" : 81.95999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6313489802915,
+                  "lng" : 81.96134898029149
+               },
+               "southwest" : {
+                  "lat" : 28.6286510197085,
+                  "lng" : 81.95865101970848
+               }
+            }
+         },
+         "place_id" : "ChIJ13rP3lC7ojkRQzpgyPseZRk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

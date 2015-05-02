@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kanchanpur",
+               "short_name" : "Kanchanpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kanchanpur, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.2332466,
+                  "lng" : 82.0198487
+               },
+               "southwest" : {
+                  "lat" : 28.0322509,
+                  "lng" : 81.76518919999999
+               }
+            },
+            "location" : {
+               "lat" : 28.12,
+               "lng" : 81.92
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.2332466,
+                  "lng" : 82.0198487
+               },
+               "southwest" : {
+                  "lat" : 28.0322509,
+                  "lng" : 81.76518919999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJn1G4Y5QUmDkRFO6WvCiksNg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

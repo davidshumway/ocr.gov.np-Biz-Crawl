@@ -1,0 +1,70 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dehimandu",
+               "short_name" : "Dehimandu",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Baitadi",
+               "short_name" : "Baitadi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mahakali",
+               "short_name" : "Mahakali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10200",
+               "short_name" : "10200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dehimandu, Baitadi 10200, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.5314771,
+                  "lng" : 80.4735446
+               },
+               "southwest" : {
+                  "lat" : 29.5151582,
+                  "lng" : 80.457151
+               }
+            },
+            "location" : {
+               "lat" : 29.52,
+               "lng" : 80.45999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.5314771,
+                  "lng" : 80.4735446
+               },
+               "southwest" : {
+                  "lat" : 29.5151582,
+                  "lng" : 80.457151
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJy5T5z6RAoTkRyuUmCwRXt5Y",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

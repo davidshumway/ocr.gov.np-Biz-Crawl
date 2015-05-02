@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dahakhani",
+               "short_name" : "Dahakhani",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44200",
+               "short_name" : "44200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dahakhani 44200, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.77,
+               "lng" : 84.55
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7713489802915,
+                  "lng" : 84.55134898029151
+               },
+               "southwest" : {
+                  "lat" : 27.7686510197085,
+                  "lng" : 84.54865101970849
+               }
+            }
+         },
+         "place_id" : "ChIJBfZtwwnhlDkRbbQwkcdLtJU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

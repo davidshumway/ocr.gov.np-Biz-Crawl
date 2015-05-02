@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bhimdatta",
+               "short_name" : "Bhimdatta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mahakali",
+               "short_name" : "Mahakali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bhimdatta, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.1374683,
+                  "lng" : 80.24379739999999
+               },
+               "southwest" : {
+                  "lat" : 28.8948831,
+                  "lng" : 80.1040649
+               }
+            },
+            "location" : {
+               "lat" : 28.9872803,
+               "lng" : 80.1651854
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.1374683,
+                  "lng" : 80.24379739999999
+               },
+               "southwest" : {
+                  "lat" : 28.8948831,
+                  "lng" : 80.1040649
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ0_EUvquuoTkRvoyld1zylmo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

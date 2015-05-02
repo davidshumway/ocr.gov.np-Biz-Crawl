@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Garuda",
+               "short_name" : "Garuda",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44500",
+               "short_name" : "44500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Garuda 44500, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.9864443,
+                  "lng" : 85.34300519999999
+               },
+               "southwest" : {
+                  "lat" : 26.9046644,
+                  "lng" : 85.2844661
+               }
+            },
+            "location" : {
+               "lat" : 26.9486851,
+               "lng" : 85.3084516
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9864443,
+                  "lng" : 85.34300519999999
+               },
+               "southwest" : {
+                  "lat" : 26.9046644,
+                  "lng" : 85.2844661
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJD2uLbq2Z7DkRb45eC4KyblI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

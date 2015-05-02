@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tamsariya",
+               "short_name" : "Tamsariya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lumbini",
+               "short_name" : "Lumbini",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33000",
+               "short_name" : "33000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tamsariya 33000, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.5944704,
+                  "lng" : 84.021399
+               },
+               "southwest" : {
+                  "lat" : 27.5888984,
+                  "lng" : 84.01326659999999
+               }
+            },
+            "location" : {
+               "lat" : 27.5902542,
+               "lng" : 84.0147594
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.5944704,
+                  "lng" : 84.021399
+               },
+               "southwest" : {
+                  "lat" : 27.5888984,
+                  "lng" : 84.01326659999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJDVF88AlGlDkRVNgbqm-D_Os",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

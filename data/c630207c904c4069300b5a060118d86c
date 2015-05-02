@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sitapur",
+               "short_name" : "Sitapur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lumbini",
+               "short_name" : "Lumbini",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32700",
+               "short_name" : "32700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sitapur 32700, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.913126,
+                  "lng" : 83.1642294
+               },
+               "southwest" : {
+                  "lat" : 27.8344841,
+                  "lng" : 83.10504910000002
+               }
+            },
+            "location" : {
+               "lat" : 27.876765,
+               "lng" : 83.1273705
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.913126,
+                  "lng" : 83.1642294
+               },
+               "southwest" : {
+                  "lat" : 27.8344841,
+                  "lng" : 83.10504910000002
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJqxE-8EpaljkR-reumw_Nj8A",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

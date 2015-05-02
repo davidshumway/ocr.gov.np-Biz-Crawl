@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lamatola",
+               "short_name" : "Lamatola",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seti",
+               "short_name" : "Seti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10500",
+               "short_name" : "10500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lamatola 10500, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.48,
+               "lng" : 81.14999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.4813489802915,
+                  "lng" : 81.1513489802915
+               },
+               "southwest" : {
+                  "lat" : 29.4786510197085,
+                  "lng" : 81.14865101970848
+               }
+            }
+         },
+         "place_id" : "ChIJL5UWVhDAozkR9J1N_VIsRHw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

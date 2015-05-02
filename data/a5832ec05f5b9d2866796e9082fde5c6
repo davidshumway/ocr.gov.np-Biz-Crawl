@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Humla",
+               "short_name" : "Humla",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Karnali",
+               "short_name" : "Karnali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Humla, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.4238096,
+                  "lng" : 82.7256775
+               },
+               "southwest" : {
+                  "lat" : 29.47547,
+                  "lng" : 81.2631227
+               }
+            },
+            "location" : {
+               "lat" : 30.0051731,
+               "lng" : 81.9534815
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.4238096,
+                  "lng" : 82.7256775
+               },
+               "southwest" : {
+                  "lat" : 29.47547,
+                  "lng" : 81.2631227
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJZdBMUcNbozkRWEEoFp19oAc",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

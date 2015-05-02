@@ -1,0 +1,66 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dhapakhel",
+               "short_name" : "Dhapakhel",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44700",
+               "short_name" : "44700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dhapakhel 44700, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6507389,
+                  "lng" : 85.33690439999999
+               },
+               "southwest" : {
+                  "lat" : 27.6218823,
+                  "lng" : 85.3239013
+               }
+            },
+            "location" : {
+               "lat" : 27.63,
+               "lng" : 85.33
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6507389,
+                  "lng" : 85.33690439999999
+               },
+               "southwest" : {
+                  "lat" : 27.6218823,
+                  "lng" : 85.3239013
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJUy73R2sX6zkR18U4No77dVA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

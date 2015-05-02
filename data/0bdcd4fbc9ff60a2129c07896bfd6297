@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Karthali",
+               "short_name" : "Karthali",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Karthali, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.830765,
+                  "lng" : 86.00797179999999
+               },
+               "southwest" : {
+                  "lat" : 27.7799363,
+                  "lng" : 85.9111118
+               }
+            },
+            "location" : {
+               "lat" : 27.8074776,
+               "lng" : 85.9611082
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.830765,
+                  "lng" : 86.00797179999999
+               },
+               "southwest" : {
+                  "lat" : 27.7799363,
+                  "lng" : 85.9111118
+               }
+            }
+         },
+         "place_id" : "ChIJL2KWHpW16zkRvLYOSnKTCgo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

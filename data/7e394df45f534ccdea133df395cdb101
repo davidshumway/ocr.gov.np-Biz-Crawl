@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Danchhi",
+               "short_name" : "Danchhi",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44600",
+               "short_name" : "44600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Danchhi, 44600, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7388079,
+                  "lng" : 85.431726
+               },
+               "southwest" : {
+                  "lat" : 27.7158826,
+                  "lng" : 85.4002476
+               }
+            },
+            "location" : {
+               "lat" : 27.73,
+               "lng" : 85.41
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7388079,
+                  "lng" : 85.431726
+               },
+               "southwest" : {
+                  "lat" : 27.7158826,
+                  "lng" : 85.4002476
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJsQ8N7BUb6zkRpHATWLLXz6k",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

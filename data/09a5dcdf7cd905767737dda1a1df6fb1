@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bageshwori Multiple Campus",
+               "short_name" : "Bageshwori Multiple Campus",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "H 12",
+               "short_name" : "H 12",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kohalpur",
+               "short_name" : "Kohalpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21904",
+               "short_name" : "21904",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bageshwori Multiple Campus, H 12, Kohalpur 21904, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.1922507,
+                  "lng" : 81.69061839999999
+               },
+               "southwest" : {
+                  "lat" : 28.1909954,
+                  "lng" : 81.68899829999999
+               }
+            },
+            "location" : {
+               "lat" : 28.191695,
+               "lng" : 81.6899583
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.1929720302915,
+                  "lng" : 81.6911573302915
+               },
+               "southwest" : {
+                  "lat" : 28.1902740697085,
+                  "lng" : 81.68845936970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJO-AzFX5lmDkRGpRgo-sarqI",
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

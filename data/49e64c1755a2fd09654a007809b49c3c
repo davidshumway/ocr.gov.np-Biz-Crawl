@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Parbat",
+               "short_name" : "Parbat",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Dhawalagiri",
+               "short_name" : "Dhawalagiri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Parbat, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.3665556,
+                  "lng" : 83.8037109
+               },
+               "southwest" : {
+                  "lat" : 27.9978877,
+                  "lng" : 83.5562611
+               }
+            },
+            "location" : {
+               "lat" : 28.178049,
+               "lng" : 83.69865679999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.3665556,
+                  "lng" : 83.8037109
+               },
+               "southwest" : {
+                  "lat" : 27.9978877,
+                  "lng" : 83.5562611
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJle8TiDTnlTkRaPwx3mP2h9Y",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

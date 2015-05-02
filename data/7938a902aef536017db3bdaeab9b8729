@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kaseni",
+               "short_name" : "Kaseni",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lumbini",
+               "short_name" : "Lumbini",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32500",
+               "short_name" : "32500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kaseni 32500, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.8290572,
+                  "lng" : 83.6405468
+               },
+               "southwest" : {
+                  "lat" : 27.7356554,
+                  "lng" : 83.57707499999999
+               }
+            },
+            "location" : {
+               "lat" : 27.78,
+               "lng" : 83.61
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.8290572,
+                  "lng" : 83.6405468
+               },
+               "southwest" : {
+                  "lat" : 27.7356554,
+                  "lng" : 83.57707499999999
+               }
+            }
+         },
+         "place_id" : "ChIJuQt2obQqlDkRA94Z_0u3Mb4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

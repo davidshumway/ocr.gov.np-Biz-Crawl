@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dolpa",
+               "short_name" : "Dolpa",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Karnali",
+               "short_name" : "Karnali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dolpa, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.7034119,
+                  "lng" : 83.667755
+               },
+               "southwest" : {
+                  "lat" : 28.6990202,
+                  "lng" : 82.374115
+               }
+            },
+            "location" : {
+               "lat" : 29.0538532,
+               "lng" : 83.0790865
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.7034119,
+                  "lng" : 83.667755
+               },
+               "southwest" : {
+                  "lat" : 28.6990202,
+                  "lng" : 82.374115
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJR8dB8ExUvDkRym4n9Wl2w8c",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,70 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Surkhet Airport",
+               "short_name" : "Surkhet Airport",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Birendranagar",
+               "short_name" : "Birendranagar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21700",
+               "short_name" : "21700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Surkhet Airport (SKH), Birendranagar 21700, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.5897974,
+                  "lng" : 81.6376556
+               },
+               "southwest" : {
+                  "lat" : 28.5794813,
+                  "lng" : 81.6331924
+               }
+            },
+            "location" : {
+               "lat" : 28.584616,
+               "lng" : 81.635688
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5897974,
+                  "lng" : 81.6376556
+               },
+               "southwest" : {
+                  "lat" : 28.5794813,
+                  "lng" : 81.6331924
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJrTTBsJCFojkRhg6LVnqa1TE",
+         "types" : [ "airport", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

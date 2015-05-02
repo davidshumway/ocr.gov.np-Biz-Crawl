@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sisahaniya",
+               "short_name" : "Sisahaniya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rapti",
+               "short_name" : "Rapti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "22400",
+               "short_name" : "22400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sisahaniya 22400, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.9187764,
+                  "lng" : 82.6930617
+               },
+               "southwest" : {
+                  "lat" : 27.8193411,
+                  "lng" : 82.60911949999999
+               }
+            },
+            "location" : {
+               "lat" : 27.87,
+               "lng" : 82.66
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.9187764,
+                  "lng" : 82.6930617
+               },
+               "southwest" : {
+                  "lat" : 27.8193411,
+                  "lng" : 82.60911949999999
+               }
+            }
+         },
+         "place_id" : "ChIJy3iKmHiklzkRfhBWHnNTCvI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

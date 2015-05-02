@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Manakamana",
+               "short_name" : "Manakamana",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gandaki",
+               "short_name" : "Gandaki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Manakamana, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.9235544,
+                  "lng" : 84.6102619
+               },
+               "southwest" : {
+                  "lat" : 27.8579728,
+                  "lng" : 84.5400523
+               }
+            },
+            "location" : {
+               "lat" : 27.8943323,
+               "lng" : 84.5693859
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.9235544,
+                  "lng" : 84.6102619
+               },
+               "southwest" : {
+                  "lat" : 27.8579728,
+                  "lng" : 84.5400523
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJQ6iWOSIflTkRqHnXqoPek58",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

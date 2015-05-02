@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Judibela",
+               "short_name" : "Judibela",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Judibela, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.1974602,
+                  "lng" : 85.44564799999999
+               },
+               "southwest" : {
+                  "lat" : 27.1020182,
+                  "lng" : 85.3705851
+               }
+            },
+            "location" : {
+               "lat" : 27.15,
+               "lng" : 85.39999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.1974602,
+                  "lng" : 85.44564799999999
+               },
+               "southwest" : {
+                  "lat" : 27.1020182,
+                  "lng" : 85.3705851
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJOfcy_xxj6zkRZX3z7Yun3jU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Latikoili",
+               "short_name" : "Latikoili",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21700",
+               "short_name" : "21700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Latikoili 21700, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.5732912,
+                  "lng" : 81.6774702
+               },
+               "southwest" : {
+                  "lat" : 28.5062974,
+                  "lng" : 81.54632079999999
+               }
+            },
+            "location" : {
+               "lat" : 28.55,
+               "lng" : 81.64
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5732912,
+                  "lng" : 81.6774702
+               },
+               "southwest" : {
+                  "lat" : 28.5062974,
+                  "lng" : 81.54632079999999
+               }
+            }
+         },
+         "place_id" : "ChIJA6fSByWEojkRD9gXbxXDuls",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

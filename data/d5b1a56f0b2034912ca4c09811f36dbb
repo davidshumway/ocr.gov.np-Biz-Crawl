@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bariyarpur",
+               "short_name" : "Bariyarpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44400",
+               "short_name" : "44400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bariyarpur 44400, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.0141572,
+                  "lng" : 85.06450339999999
+               },
+               "southwest" : {
+                  "lat" : 26.9740198,
+                  "lng" : 85.02386389999999
+               }
+            },
+            "location" : {
+               "lat" : 26.983333,
+               "lng" : 85.05
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.0141572,
+                  "lng" : 85.06450339999999
+               },
+               "southwest" : {
+                  "lat" : 26.9740198,
+                  "lng" : 85.02386389999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJd34txzSp7DkRgDC5_LQSeKg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

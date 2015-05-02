@@ -1,0 +1,71 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "District Education Office, Kanchanpur",
+               "short_name" : "District Education Office, Kanchanpur",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Bhimdatta",
+               "short_name" : "Bhimdatta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mahakali",
+               "short_name" : "Mahakali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10400",
+               "short_name" : "10400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "District Education Office, Kanchanpur, Bhimdatta 10400, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.9657514,
+                  "lng" : 80.18343689999999
+               },
+               "southwest" : {
+                  "lat" : 28.9651811,
+                  "lng" : 80.18300239999999
+               }
+            },
+            "location" : {
+               "lat" : 28.9654647,
+               "lng" : 80.18323459999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.96681523029149,
+                  "lng" : 80.18456863029149
+               },
+               "southwest" : {
+                  "lat" : 28.9641172697085,
+                  "lng" : 80.18187066970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJjWdqoACsoTkRuVTXVMrmiKk",
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

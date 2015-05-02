@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Devdaha",
+               "short_name" : "Devdaha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lumbini",
+               "short_name" : "Lumbini",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Devdaha, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7291215,
+                  "lng" : 83.63368029999999
+               },
+               "southwest" : {
+                  "lat" : 27.5677105,
+                  "lng" : 83.49403459999999
+               }
+            },
+            "location" : {
+               "lat" : 27.68,
+               "lng" : 83.56999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7291215,
+                  "lng" : 83.63368029999999
+               },
+               "southwest" : {
+                  "lat" : 27.5677105,
+                  "lng" : 83.49403459999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJo4i8WzqCljkRiX-g3KhvSHY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

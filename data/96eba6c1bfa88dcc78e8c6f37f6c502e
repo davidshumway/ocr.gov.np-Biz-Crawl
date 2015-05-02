@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Udasipur",
+               "short_name" : "Udasipur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seti",
+               "short_name" : "Seti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10900",
+               "short_name" : "10900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Udasipur 10900, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.67,
+               "lng" : 80.83
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6713489802915,
+                  "lng" : 80.83134898029151
+               },
+               "southwest" : {
+                  "lat" : 28.6686510197085,
+                  "lng" : 80.82865101970849
+               }
+            }
+         },
+         "place_id" : "ChIJzz6dLz8eojkRY3NTVZloLvI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

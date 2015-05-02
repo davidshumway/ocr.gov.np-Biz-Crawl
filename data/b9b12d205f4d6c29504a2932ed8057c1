@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Phasku",
+               "short_name" : "Phasku",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Phasku, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6285624,
+                  "lng" : 86.0754776
+               },
+               "southwest" : {
+                  "lat" : 27.5961629,
+                  "lng" : 85.9894753
+               }
+            },
+            "location" : {
+               "lat" : 27.6161695,
+               "lng" : 86.0274622
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6285624,
+                  "lng" : 86.0754776
+               },
+               "southwest" : {
+                  "lat" : 27.5961629,
+                  "lng" : 85.9894753
+               }
+            }
+         },
+         "place_id" : "ChIJreWUiT_E6zkRxLZRp5OpnzQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

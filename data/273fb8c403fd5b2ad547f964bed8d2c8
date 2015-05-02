@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Taruka",
+               "short_name" : "Taruka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Taruka, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.9098648,
+                  "lng" : 85.03005979999999
+               },
+               "southwest" : {
+                  "lat" : 27.8325488,
+                  "lng" : 84.98832449999999
+               }
+            },
+            "location" : {
+               "lat" : 27.87,
+               "lng" : 85.00999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.9098648,
+                  "lng" : 85.03005979999999
+               },
+               "southwest" : {
+                  "lat" : 27.8325488,
+                  "lng" : 84.98832449999999
+               }
+            }
+         },
+         "place_id" : "ChIJtY9Jas_V6jkRFaWxKGDkpqY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

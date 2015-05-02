@@ -1,0 +1,121 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Darsing Dahathum",
+               "short_name" : "Darsing Dahathum",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gandaki",
+               "short_name" : "Gandaki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Darsing Dahathum, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.063195,
+                  "lng" : 83.8220788
+               },
+               "southwest" : {
+                  "lat" : 28.0102399,
+                  "lng" : 83.77298359999999
+               }
+            },
+            "location" : {
+               "lat" : 28.03,
+               "lng" : 83.8
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.063195,
+                  "lng" : 83.8220788
+               },
+               "southwest" : {
+                  "lat" : 28.0102399,
+                  "lng" : 83.77298359999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJbff0FPfElTkRG2rNqsjTLQY",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dahathum Higher Secondary School",
+               "short_name" : "Dahathum Higher Secondary School",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Siddartha Rajmarg",
+               "short_name" : "Siddartha Rajmarg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Darsing Dahathum",
+               "short_name" : "Darsing Dahathum",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gandaki",
+               "short_name" : "Gandaki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33801",
+               "short_name" : "33801",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dahathum Higher Secondary School, Siddartha Rajmarg, Darsing Dahathum 33801, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.0242577,
+               "lng" : 83.78028449999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.02560668029151,
+                  "lng" : 83.7816334802915
+               },
+               "southwest" : {
+                  "lat" : 28.0229087197085,
+                  "lng" : 83.7789355197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ-5wvnd7ElTkRK4rJgWOpkaI",
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

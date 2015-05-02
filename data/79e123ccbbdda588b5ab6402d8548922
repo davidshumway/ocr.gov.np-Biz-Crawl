@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sindhuli",
+               "short_name" : "Sindhuli",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sindhuli, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.4206906,
+                  "lng" : 86.38541219999999
+               },
+               "southwest" : {
+                  "lat" : 26.9304112,
+                  "lng" : 85.4044533
+               }
+            },
+            "location" : {
+               "lat" : 27.2568824,
+               "lng" : 85.971322
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.4206906,
+                  "lng" : 86.38541219999999
+               },
+               "southwest" : {
+                  "lat" : 26.9304112,
+                  "lng" : 85.4044533
+               }
+            }
+         },
+         "place_id" : "ChIJYz5XLKiS6zkRyGcDAZT3wSA",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

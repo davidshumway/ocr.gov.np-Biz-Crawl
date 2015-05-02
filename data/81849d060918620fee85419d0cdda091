@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Argali",
+               "short_name" : "Argali",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lumbini",
+               "short_name" : "Lumbini",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Argali, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.9401236,
+                  "lng" : 83.50296019999999
+               },
+               "southwest" : {
+                  "lat" : 27.9117608,
+                  "lng" : 83.41901779999999
+               }
+            },
+            "location" : {
+               "lat" : 27.92,
+               "lng" : 83.47
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.9401236,
+                  "lng" : 83.50296019999999
+               },
+               "southwest" : {
+                  "lat" : 27.9117608,
+                  "lng" : 83.41901779999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJTZ7R7_Z6ljkRB3hVoWXpDpI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

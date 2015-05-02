@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kunchok",
+               "short_name" : "Kunchok",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kunchok, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.8148622,
+                  "lng" : 85.6769657
+               },
+               "southwest" : {
+                  "lat" : 27.7516078,
+                  "lng" : 85.64186099999999
+               }
+            },
+            "location" : {
+               "lat" : 27.79,
+               "lng" : 85.66
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.8148622,
+                  "lng" : 85.6769657
+               },
+               "southwest" : {
+                  "lat" : 27.7516078,
+                  "lng" : 85.64186099999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJC-caL8Gr6zkRmPPxZbdIXKc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

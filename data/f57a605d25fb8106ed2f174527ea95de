@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tansen Municipality Building",
+               "short_name" : "Tansen Municipality Building",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Tundikhel Road",
+               "short_name" : "Tundikhel Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tansen",
+               "short_name" : "Tansen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lumbini",
+               "short_name" : "Lumbini",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32500",
+               "short_name" : "32500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tansen Municipality Building, Tundikhel Road, Tansen 32500, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.8661063,
+                  "lng" : 83.54890639999999
+               },
+               "southwest" : {
+                  "lat" : 27.8657933,
+                  "lng" : 83.5485283
+               }
+            },
+            "location" : {
+               "lat" : 27.8659498,
+               "lng" : 83.5487174
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.8672987802915,
+                  "lng" : 83.55006633029151
+               },
+               "southwest" : {
+                  "lat" : 27.8646008197085,
+                  "lng" : 83.54736836970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJa0-KbtV-ljkR4YJ3xhxxsKs",
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

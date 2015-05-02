@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Siddhipur",
+               "short_name" : "Siddhipur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Siddhipur, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6531027,
+                  "lng" : 85.36493899999999
+               },
+               "southwest" : {
+                  "lat" : 27.6330773,
+                  "lng" : 85.3519893
+               }
+            },
+            "location" : {
+               "lat" : 27.6452134,
+               "lng" : 85.3575479
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6531027,
+                  "lng" : 85.36493899999999
+               },
+               "southwest" : {
+                  "lat" : 27.6330773,
+                  "lng" : 85.3519893
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ59emo7IQ6zkRtQEgWacIPPk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

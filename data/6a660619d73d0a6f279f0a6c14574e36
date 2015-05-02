@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hetauda",
+               "short_name" : "Hetauda",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hetauda, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.5259172,
+                  "lng" : 85.1875323
+               },
+               "southwest" : {
+                  "lat" : 27.3161439,
+                  "lng" : 84.88865779999999
+               }
+            },
+            "location" : {
+               "lat" : 27.416667,
+               "lng" : 85.033333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.5259172,
+                  "lng" : 85.1875323
+               },
+               "southwest" : {
+                  "lat" : 27.3161439,
+                  "lng" : 84.88865779999999
+               }
+            }
+         },
+         "place_id" : "ChIJF8lG7XxJ6zkRqzJFeiyQuK8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bagmati Road",
+               "short_name" : "Bagmati Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pashupatinath",
+               "short_name" : "Pashupatinath",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kathmandu",
+               "short_name" : "Kathmandu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44600",
+               "short_name" : "44600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bagmati Road, Kathmandu 44600, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7098967,
+                  "lng" : 85.3546073
+               },
+               "southwest" : {
+                  "lat" : 27.7064612,
+                  "lng" : 85.35096679999999
+               }
+            },
+            "location" : {
+               "lat" : 27.7080275,
+               "lng" : 85.35409
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7098967,
+                  "lng" : 85.3546073
+               },
+               "southwest" : {
+                  "lat" : 27.7064612,
+                  "lng" : 85.35096679999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ39mJl38Z6zkRU_f6-sDVa48",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

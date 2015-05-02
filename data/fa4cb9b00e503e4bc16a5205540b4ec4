@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Halkhori",
+               "short_name" : "Halkhori",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45700",
+               "short_name" : "45700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Halkhori 45700, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.6894434,
+                  "lng" : 85.77623559999999
+               },
+               "southwest" : {
+                  "lat" : 26.6553924,
+                  "lng" : 85.73783189999999
+               }
+            },
+            "location" : {
+               "lat" : 26.67,
+               "lng" : 85.75999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.6894434,
+                  "lng" : 85.77623559999999
+               },
+               "southwest" : {
+                  "lat" : 26.6553924,
+                  "lng" : 85.73783189999999
+               }
+            }
+         },
+         "place_id" : "ChIJGYzdZZJc7DkRH5OU8y87u-s",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

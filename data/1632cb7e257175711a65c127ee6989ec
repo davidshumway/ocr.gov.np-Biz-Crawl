@@ -1,0 +1,70 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Narayangarh",
+               "short_name" : "Narayangarh",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bharatpur",
+               "short_name" : "Bharatpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44200",
+               "short_name" : "44200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Narayangarh, Bharatpur 44200, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7056245,
+                  "lng" : 84.44010260000002
+               },
+               "southwest" : {
+                  "lat" : 27.6877347,
+                  "lng" : 84.4145894
+               }
+            },
+            "location" : {
+               "lat" : 27.6988907,
+               "lng" : 84.43039589999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7056245,
+                  "lng" : 84.44010260000002
+               },
+               "southwest" : {
+                  "lat" : 27.6877347,
+                  "lng" : 84.4145894
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJB2Q18Ef7lDkRaoaluga_vNE",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gitanagar",
+               "short_name" : "Gitanagar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44200",
+               "short_name" : "44200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gitanagar 44200, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6354821,
+                  "lng" : 84.4331074
+               },
+               "southwest" : {
+                  "lat" : 27.5816334,
+                  "lng" : 84.3763733
+               }
+            },
+            "location" : {
+               "lat" : 27.61,
+               "lng" : 84.39999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6354821,
+                  "lng" : 84.4331074
+               },
+               "southwest" : {
+                  "lat" : 27.5816334,
+                  "lng" : 84.3763733
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJK6tvyGXwlDkRc4kGBnUFKPI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

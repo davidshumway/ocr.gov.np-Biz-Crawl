@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lamatar",
+               "short_name" : "Lamatar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lamatar, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6448726,
+                  "lng" : 85.4151392
+               },
+               "southwest" : {
+                  "lat" : 27.6088463,
+                  "lng" : 85.37102229999999
+               }
+            },
+            "location" : {
+               "lat" : 27.62,
+               "lng" : 85.39999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6448726,
+                  "lng" : 85.4151392
+               },
+               "southwest" : {
+                  "lat" : 27.6088463,
+                  "lng" : 85.37102229999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJFxtN8fMQ6zkRkuoHfv7zvhQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

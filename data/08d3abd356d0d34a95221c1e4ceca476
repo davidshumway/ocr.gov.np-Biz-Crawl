@@ -1,0 +1,76 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kalikot Heli Port",
+               "short_name" : "Kalikot Heli Port",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Bazar Bato, Manma, Kalikot",
+               "short_name" : "Bazar Bato, Manma, Kalikot",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manma",
+               "short_name" : "Manma",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karnali",
+               "short_name" : "Karnali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21300",
+               "short_name" : "21300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kalikot Heli Port, Bazar Bato, Manma, Kalikot, Manma 21300, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.1528921,
+                  "lng" : 81.60608859999999
+               },
+               "southwest" : {
+                  "lat" : 29.1526649,
+                  "lng" : 81.6058311
+               }
+            },
+            "location" : {
+               "lat" : 29.1527809,
+               "lng" : 81.6059685
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.1541274802915,
+                  "lng" : 81.6073088302915
+               },
+               "southwest" : {
+                  "lat" : 29.1514295197085,
+                  "lng" : 81.60461086970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJT3q8pv_9ojkRAnUfrkMYBgw",
+         "types" : [ "airport", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

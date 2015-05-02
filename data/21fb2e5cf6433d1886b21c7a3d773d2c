@@ -1,0 +1,66 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Amargadhi",
+               "short_name" : "Amargadhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mahakali",
+               "short_name" : "Mahakali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10300",
+               "short_name" : "10300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Amargadhi 10300, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.3196127,
+                  "lng" : 80.6078912
+               },
+               "southwest" : {
+                  "lat" : 29.29680389999999,
+                  "lng" : 80.5743475
+               }
+            },
+            "location" : {
+               "lat" : 29.3,
+               "lng" : 80.57972199999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.3196127,
+                  "lng" : 80.6078912
+               },
+               "southwest" : {
+                  "lat" : 29.29680389999999,
+                  "lng" : 80.5743475
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJBy46qK1voTkR8HrHJADOZKc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

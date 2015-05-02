@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tatopani",
+               "short_name" : "Tatopani",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dhawalagiri",
+               "short_name" : "Dhawalagiri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33200",
+               "short_name" : "33200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tatopani 33200, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.5118975,
+                  "lng" : 83.6550173
+               },
+               "southwest" : {
+                  "lat" : 28.4716197,
+                  "lng" : 83.57493989999999
+               }
+            },
+            "location" : {
+               "lat" : 28.5,
+               "lng" : 83.63333299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5118975,
+                  "lng" : 83.6550173
+               },
+               "southwest" : {
+                  "lat" : 28.4716197,
+                  "lng" : 83.57493989999999
+               }
+            }
+         },
+         "place_id" : "ChIJf2el7Lj_lTkRVafWVNNHL-Y",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

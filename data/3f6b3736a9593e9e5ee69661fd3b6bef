@@ -1,0 +1,66 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Taratal",
+               "short_name" : "Taratal",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21800",
+               "short_name" : "21800",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Taratal, 21800, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.2557928,
+                  "lng" : 81.28592979999999
+               },
+               "southwest" : {
+                  "lat" : 28.239707,
+                  "lng" : 81.2695576
+               }
+            },
+            "location" : {
+               "lat" : 28.2455307,
+               "lng" : 81.27665979999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.2557928,
+                  "lng" : 81.28592979999999
+               },
+               "southwest" : {
+                  "lat" : 28.239707,
+                  "lng" : 81.2695576
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJAc2N3TSamDkRq9eLPQKygY4",
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

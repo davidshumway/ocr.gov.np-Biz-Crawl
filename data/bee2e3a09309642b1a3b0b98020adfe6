@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Janakinagar",
+               "short_name" : "Janakinagar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seti",
+               "short_name" : "Seti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10901",
+               "short_name" : "10901",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Janakinagar 10901, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6038144,
+                  "lng" : 81.1182833
+               },
+               "southwest" : {
+                  "lat" : 28.5676,
+                  "lng" : 81.0628366
+               }
+            },
+            "location" : {
+               "lat" : 28.59,
+               "lng" : 81.09
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6038144,
+                  "lng" : 81.1182833
+               },
+               "southwest" : {
+                  "lat" : 28.5676,
+                  "lng" : 81.0628366
+               }
+            }
+         },
+         "place_id" : "ChIJX0BPsRYSojkRt5Bz_c2HKFs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

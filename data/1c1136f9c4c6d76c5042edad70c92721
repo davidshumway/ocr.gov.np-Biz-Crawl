@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lipani Birta",
+               "short_name" : "Lipani Birta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lipani Birta, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.0868565,
+                  "lng" : 84.9360123
+               },
+               "southwest" : {
+                  "lat" : 27.0613806,
+                  "lng" : 84.89300829999999
+               }
+            },
+            "location" : {
+               "lat" : 27.08,
+               "lng" : 84.92
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.0868565,
+                  "lng" : 84.9360123
+               },
+               "southwest" : {
+                  "lat" : 27.0613806,
+                  "lng" : 84.89300829999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJHbDXlWZVkzkRwSEdukKxvnk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

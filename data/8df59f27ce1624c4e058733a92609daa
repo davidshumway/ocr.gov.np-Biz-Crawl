@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Naubise",
+               "short_name" : "Naubise",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Naubise, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7377445,
+                  "lng" : 85.19978999999999
+               },
+               "southwest" : {
+                  "lat" : 27.6697322,
+                  "lng" : 85.1158476
+               }
+            },
+            "location" : {
+               "lat" : 27.716667,
+               "lng" : 85.14999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7377445,
+                  "lng" : 85.19978999999999
+               },
+               "southwest" : {
+                  "lat" : 27.6697322,
+                  "lng" : 85.1158476
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJy1kR-lEk6zkRXLtNtH76GKI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

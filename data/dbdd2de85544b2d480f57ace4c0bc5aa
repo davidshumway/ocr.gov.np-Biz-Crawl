@@ -1,0 +1,331 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Godavari Road",
+               "short_name" : "Godavari Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Thaiba",
+               "short_name" : "Thaiba",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44700",
+               "short_name" : "44700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Godavari Road, Thaiba 44700, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6270795,
+                  "lng" : 85.34772719999999
+               },
+               "southwest" : {
+                  "lat" : 27.6265545,
+                  "lng" : 85.34676019999999
+               }
+            },
+            "location" : {
+               "lat" : 27.6268546,
+               "lng" : 85.3471684
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6281659802915,
+                  "lng" : 85.3485926802915
+               },
+               "southwest" : {
+                  "lat" : 27.62546801970849,
+                  "lng" : 85.3458947197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJMc6trDEX6zkRZphgcTE8koQ",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Satdobato-Godavari Road",
+               "short_name" : "F24",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Satdobato",
+               "short_name" : "Satdobato",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Patan",
+               "short_name" : "Patan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44700",
+               "short_name" : "44700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Satdobato-Godavari Road, Patan 44700, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6586909,
+                  "lng" : 85.33047000000001
+               },
+               "southwest" : {
+                  "lat" : 27.65104,
+                  "lng" : 85.3248327
+               }
+            },
+            "location" : {
+               "lat" : 27.6551909,
+               "lng" : 85.3278122
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6586909,
+                  "lng" : 85.33047000000001
+               },
+               "southwest" : {
+                  "lat" : 27.65104,
+                  "lng" : 85.3248327
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJyeokuWMX6zkRsVb8c5t4Oxg",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Satdobato-Godavari Road",
+               "short_name" : "F24",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Harisiddhi",
+               "short_name" : "Harisiddhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44700",
+               "short_name" : "44700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Satdobato-Godavari Road, Harisiddhi 44700, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6424493,
+                  "lng" : 85.3395687
+               },
+               "southwest" : {
+                  "lat" : 27.6395913,
+                  "lng" : 85.338385
+               }
+            },
+            "location" : {
+               "lat" : 27.6412525,
+               "lng" : 85.3388832
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6424493,
+                  "lng" : 85.3403258302915
+               },
+               "southwest" : {
+                  "lat" : 27.6395913,
+                  "lng" : 85.3376278697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJf5G0UUEX6zkR07Z4cyfvl2M",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Satdobato-Godavari Road",
+               "short_name" : "F24",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Godawari",
+               "short_name" : "Godawari",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Satdobato-Godavari Road, Godawari, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6260369,
+                  "lng" : 85.37633719999999
+               },
+               "southwest" : {
+                  "lat" : 27.5953527,
+                  "lng" : 85.34713479999999
+               }
+            },
+            "location" : {
+               "lat" : 27.6089527,
+               "lng" : 85.35962839999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6260369,
+                  "lng" : 85.37633719999999
+               },
+               "southwest" : {
+                  "lat" : 27.5953527,
+                  "lng" : 85.34713479999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJwwYXACkR6zkR715wgRfapbI",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Godavari Kunda",
+               "short_name" : "Godavari Kunda",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Godawari",
+               "short_name" : "Godawari",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44709",
+               "short_name" : "44709",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Godavari Kunda, Godawari 44709, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.5986332,
+                  "lng" : 85.3866285
+               },
+               "southwest" : {
+                  "lat" : 27.5979025,
+                  "lng" : 85.38607309999999
+               }
+            },
+            "location" : {
+               "lat" : 27.5983331,
+               "lng" : 85.38651659999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.5996168302915,
+                  "lng" : 85.38769978029148
+               },
+               "southwest" : {
+                  "lat" : 27.5969188697085,
+                  "lng" : 85.38500181970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJpVtzJA4R6zkRngf7tjpJVKY",
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

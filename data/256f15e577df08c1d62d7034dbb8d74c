@@ -1,0 +1,55 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Manikapur",
+               "short_name" : "Manikapur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21900",
+               "short_name" : "21900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Manikapur 21900, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.1,
+               "lng" : 81.66666699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.1013489802915,
+                  "lng" : 81.66801598029149
+               },
+               "southwest" : {
+                  "lat" : 28.09865101970849,
+                  "lng" : 81.66531801970848
+               }
+            }
+         },
+         "place_id" : "ChIJCwOcn0lmmDkRJEVHIoOcWTE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

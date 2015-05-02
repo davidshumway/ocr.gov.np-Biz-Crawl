@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pokhariya",
+               "short_name" : "Pokhariya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44300",
+               "short_name" : "44300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Pokhariya 44300, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.1173067,
+                  "lng" : 84.7913659
+               },
+               "southwest" : {
+                  "lat" : 27.0381448,
+                  "lng" : 84.7227699
+               }
+            },
+            "location" : {
+               "lat" : 27.08,
+               "lng" : 84.75
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.1173067,
+                  "lng" : 84.7913659
+               },
+               "southwest" : {
+                  "lat" : 27.0381448,
+                  "lng" : 84.7227699
+               }
+            }
+         },
+         "place_id" : "ChIJMwKMigdYkzkRTYK8tRVTe5M",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

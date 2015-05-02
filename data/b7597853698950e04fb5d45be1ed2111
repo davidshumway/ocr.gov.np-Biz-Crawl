@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thumi",
+               "short_name" : "Thumi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gandaki",
+               "short_name" : "Gandaki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Thumi, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.13,
+               "lng" : 84.81999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.1313489802915,
+                  "lng" : 84.8213489802915
+               },
+               "southwest" : {
+                  "lat" : 28.1286510197085,
+                  "lng" : 84.81865101970848
+               }
+            }
+         },
+         "place_id" : "ChIJq357dN42lTkRzikntkh7bSw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

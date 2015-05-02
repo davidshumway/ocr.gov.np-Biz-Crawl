@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bigu",
+               "short_name" : "Bigu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45500",
+               "short_name" : "45500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bigu 45500, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.84,
+               "lng" : 86.06
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.84134898029151,
+                  "lng" : 86.06134898029151
+               },
+               "southwest" : {
+                  "lat" : 27.8386510197085,
+                  "lng" : 86.05865101970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJNTVOexnN6zkRQn9qib1-Hgw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

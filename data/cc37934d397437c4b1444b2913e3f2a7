@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shaktikhor",
+               "short_name" : "Shaktikhor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shaktikhor, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7736902,
+                  "lng" : 84.63751329999999
+               },
+               "southwest" : {
+                  "lat" : 27.6750532,
+                  "lng" : 84.5391083
+               }
+            },
+            "location" : {
+               "lat" : 27.73,
+               "lng" : 84.58999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7736902,
+                  "lng" : 84.63751329999999
+               },
+               "southwest" : {
+                  "lat" : 27.6750532,
+                  "lng" : 84.5391083
+               }
+            }
+         },
+         "place_id" : "ChIJoXCCPDDnlDkRrRppvpASDyU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

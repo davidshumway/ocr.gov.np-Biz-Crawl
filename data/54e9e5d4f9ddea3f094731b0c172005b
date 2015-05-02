@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Palpa",
+               "short_name" : "Palpa",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lumbini",
+               "short_name" : "Lumbini",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Palpa, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.9574864,
+                  "lng" : 84.0083312
+               },
+               "southwest" : {
+                  "lat" : 27.7127103,
+                  "lng" : 83.26666829999999
+               }
+            },
+            "location" : {
+               "lat" : 27.8252522,
+               "lng" : 83.63484299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.9574864,
+                  "lng" : 84.0083312
+               },
+               "southwest" : {
+                  "lat" : 27.7127103,
+                  "lng" : 83.26666829999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJM-iObF60lTkRLhRzcuZ15FA",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

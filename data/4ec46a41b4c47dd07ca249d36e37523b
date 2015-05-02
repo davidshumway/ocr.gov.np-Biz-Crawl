@@ -1,0 +1,131 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "shree kakani ganesh school",
+               "short_name" : "shree kakani ganesh school",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Kakani Park Marg",
+               "short_name" : "Kakani Park Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kakani",
+               "short_name" : "Kakani",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44900",
+               "short_name" : "44900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "shree kakani ganesh school, Kakani Park Marg, Kakani 44900, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.8138042,
+               "lng" : 85.2714908
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.8151531802915,
+                  "lng" : 85.27283978029151
+               },
+               "southwest" : {
+                  "lat" : 27.8124552197085,
+                  "lng" : 85.2701418197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJd1NiQycg6zkRupsj4jQQXBw",
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ganesh Higher Secondary School",
+               "short_name" : "Ganesh Higher Secondary School",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Haldekalika",
+               "short_name" : "Haldekalika",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44902",
+               "short_name" : "44902",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ganesh Higher Secondary School, Haldekalika 44902, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.9226538,
+                  "lng" : 85.2501029
+               },
+               "southwest" : {
+                  "lat" : 27.9218243,
+                  "lng" : 85.24914260000001
+               }
+            },
+            "location" : {
+               "lat" : 27.9222287,
+               "lng" : 85.24968819999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.9235880302915,
+                  "lng" : 85.25097173029151
+               },
+               "southwest" : {
+                  "lat" : 27.92089006970849,
+                  "lng" : 85.2482737697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ6TW04mze6jkRwWXO698VUhs",
+         "types" : [ "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

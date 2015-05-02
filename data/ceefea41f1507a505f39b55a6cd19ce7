@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Parsa",
+               "short_name" : "Parsa",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Parsa, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.4468198,
+                  "lng" : 85.012293
+               },
+               "southwest" : {
+                  "lat" : 26.9709787,
+                  "lng" : 84.4811727
+               }
+            },
+            "location" : {
+               "lat" : 27.173588,
+               "lng" : 84.8567932
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.4468198,
+                  "lng" : 85.012293
+               },
+               "southwest" : {
+                  "lat" : 26.9709787,
+                  "lng" : 84.4811727
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJw7hUcqSllDkRpMkI9s05B-g",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dharmasthali",
+               "short_name" : "Dharmasthali",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44600",
+               "short_name" : "44600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dharmasthali 44600, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7721523,
+                  "lng" : 85.3039885
+               },
+               "southwest" : {
+                  "lat" : 27.7498606,
+                  "lng" : 85.2927876
+               }
+            },
+            "location" : {
+               "lat" : 27.76,
+               "lng" : 85.3
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7721523,
+                  "lng" : 85.3039885
+               },
+               "southwest" : {
+                  "lat" : 27.7498606,
+                  "lng" : 85.2927876
+               }
+            }
+         },
+         "place_id" : "ChIJUc2ngzcf6zkRDnbyz-7imbA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

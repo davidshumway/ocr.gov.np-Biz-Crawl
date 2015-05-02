@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Daijee",
+               "short_name" : "Daijee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mahakali",
+               "short_name" : "Mahakali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Daijee, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.0659228,
+                  "lng" : 80.34503470000001
+               },
+               "southwest" : {
+                  "lat" : 28.9135925,
+                  "lng" : 80.24002089999999
+               }
+            },
+            "location" : {
+               "lat" : 29,
+               "lng" : 80.3
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.0659228,
+                  "lng" : 80.34503470000001
+               },
+               "southwest" : {
+                  "lat" : 28.9135925,
+                  "lng" : 80.24002089999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJX9ZwRBGmoTkRsfQkM2FD_uU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

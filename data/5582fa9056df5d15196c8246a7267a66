@@ -1,0 +1,70 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dang Airport",
+               "short_name" : "Dang Airport",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Tulsipur",
+               "short_name" : "Tulsipur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rapti",
+               "short_name" : "Rapti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "22412",
+               "short_name" : "22412",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dang Airport (DNP), Tulsipur 22412, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.1159817,
+                  "lng" : 82.29708719999999
+               },
+               "southwest" : {
+                  "lat" : 28.1071386,
+                  "lng" : 82.29029589999999
+               }
+            },
+            "location" : {
+               "lat" : 28.1113829,
+               "lng" : 82.294308
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.1159817,
+                  "lng" : 82.29708719999999
+               },
+               "southwest" : {
+                  "lat" : 28.1071386,
+                  "lng" : 82.29029589999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJP_r4CZn0lzkRbbasZ-ykc0w",
+         "types" : [ "airport", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

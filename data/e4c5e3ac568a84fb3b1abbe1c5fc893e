@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Majuwa",
+               "short_name" : "Majuwa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Majuwa, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.4753796,
+                  "lng" : 85.9453798
+               },
+               "southwest" : {
+                  "lat" : 27.419205,
+                  "lng" : 85.8866501
+               }
+            },
+            "location" : {
+               "lat" : 27.45,
+               "lng" : 85.91
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.4753796,
+                  "lng" : 85.9453798
+               },
+               "southwest" : {
+                  "lat" : 27.419205,
+                  "lng" : 85.8866501
+               }
+            }
+         },
+         "place_id" : "ChIJd4Wu3NOU6zkRT3cbvti2x1I",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

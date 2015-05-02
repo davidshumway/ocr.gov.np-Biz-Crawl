@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kurtha",
+               "short_name" : "Kurtha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kurtha, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.7845144,
+                  "lng" : 85.911946
+               },
+               "southwest" : {
+                  "lat" : 26.7396509,
+                  "lng" : 85.8793826
+               }
+            },
+            "location" : {
+               "lat" : 26.76,
+               "lng" : 85.89999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.7845144,
+                  "lng" : 85.911946
+               },
+               "southwest" : {
+                  "lat" : 26.7396509,
+                  "lng" : 85.8793826
+               }
+            }
+         },
+         "place_id" : "ChIJ7531PvNq7DkRUHdW8A3FulE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

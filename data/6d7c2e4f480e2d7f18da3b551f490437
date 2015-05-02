@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kajeri",
+               "short_name" : "Kajeri",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rapti",
+               "short_name" : "Rapti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "22200",
+               "short_name" : "22200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kajeri 22200, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.4635226,
+                  "lng" : 82.1912098
+               },
+               "southwest" : {
+                  "lat" : 28.3865301,
+                  "lng" : 82.12172989999999
+               }
+            },
+            "location" : {
+               "lat" : 28.42,
+               "lng" : 82.16000000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.4635226,
+                  "lng" : 82.1912098
+               },
+               "southwest" : {
+                  "lat" : 28.3865301,
+                  "lng" : 82.12172989999999
+               }
+            }
+         },
+         "place_id" : "ChIJEytyP5MAmDkRT7Awn_1Cd1A",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Laxmipur",
+               "short_name" : "Laxmipur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rapti",
+               "short_name" : "Rapti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "22200",
+               "short_name" : "22200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Laxmipur 22200, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.345331,
+                  "lng" : 82.1514701
+               },
+               "southwest" : {
+                  "lat" : 28.2516205,
+                  "lng" : 82.0801448
+               }
+            },
+            "location" : {
+               "lat" : 28.29,
+               "lng" : 82.11999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.345331,
+                  "lng" : 82.1514701
+               },
+               "southwest" : {
+                  "lat" : 28.2516205,
+                  "lng" : 82.0801448
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJkey5q48EmDkRNPDrh97P-8w",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

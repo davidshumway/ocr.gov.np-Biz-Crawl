@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bhirkot",
+               "short_name" : "Bhirkot",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gandaki",
+               "short_name" : "Gandaki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bhirkot, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 28,
+               "lng" : 84.53
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.0013489802915,
+                  "lng" : 84.5313489802915
+               },
+               "southwest" : {
+                  "lat" : 27.9986510197085,
+                  "lng" : 84.52865101970849
+               }
+            }
+         },
+         "place_id" : "ChIJORw-WPwZlTkR3erAHVWRKfo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

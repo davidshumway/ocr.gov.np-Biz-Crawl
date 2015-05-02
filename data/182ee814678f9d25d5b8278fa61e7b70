@@ -1,0 +1,71 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Prithvi Highway",
+               "short_name" : "H04",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Byas",
+               "short_name" : "Byas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gandaki",
+               "short_name" : "Gandaki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33900",
+               "short_name" : "33900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Prithvi Highway, Byas 33900, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.9800575,
+                  "lng" : 84.4758154
+               },
+               "southwest" : {
+                  "lat" : 27.9308596,
+                  "lng" : 84.25936999999999
+               }
+            },
+            "location" : {
+               "lat" : 27.9765835,
+               "lng" : 84.2674808
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.9800575,
+                  "lng" : 84.4758154
+               },
+               "southwest" : {
+                  "lat" : 27.9308596,
+                  "lng" : 84.25936999999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ3WrnjVgElTkRIt4IBaeoeTk",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

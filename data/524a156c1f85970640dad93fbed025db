@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Parsauni Bus Stop",
+               "short_name" : "Parsauni Bus Stop",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Birgunj-Kalaiya Road",
+               "short_name" : "Birgunj-Kalaiya Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Prasauni",
+               "short_name" : "Prasauni",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44400",
+               "short_name" : "44400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Parsauni Bus Stop, Birgunj-Kalaiya Road, Prasauni 44400, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.0315626,
+               "lng" : 84.9306799
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.0329115802915,
+                  "lng" : 84.93202888029151
+               },
+               "southwest" : {
+                  "lat" : 27.03021361970849,
+                  "lng" : 84.92933091970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJNUSDbtdUkzkRAVwOpqDM2WU",
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

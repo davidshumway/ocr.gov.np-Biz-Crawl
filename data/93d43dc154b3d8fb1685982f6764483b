@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Malakheti",
+               "short_name" : "Malakheti",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Seti",
+               "short_name" : "Seti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Malakheti, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.8742911,
+                  "lng" : 80.59896479999999
+               },
+               "southwest" : {
+                  "lat" : 28.7945154,
+                  "lng" : 80.5026628
+               }
+            },
+            "location" : {
+               "lat" : 28.84,
+               "lng" : 80.56
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.8742911,
+                  "lng" : 80.59896479999999
+               },
+               "southwest" : {
+                  "lat" : 28.7945154,
+                  "lng" : 80.5026628
+               }
+            }
+         },
+         "place_id" : "ChIJRXCDbeuWoTkRMiY6sxq2dCE",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

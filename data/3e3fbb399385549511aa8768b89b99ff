@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Doti",
+               "short_name" : "Doti",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dipayal Silgadhi",
+               "short_name" : "Dipayal Silgadhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seti",
+               "short_name" : "Seti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10800",
+               "short_name" : "10800",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Doti, Dipayal Silgadhi 10800, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.266667,
+               "lng" : 80.983333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.2680159802915,
+                  "lng" : 80.9846819802915
+               },
+               "southwest" : {
+                  "lat" : 29.2653180197085,
+                  "lng" : 80.98198401970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ8e8pWSbQozkRGbMNjrzqno4",
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

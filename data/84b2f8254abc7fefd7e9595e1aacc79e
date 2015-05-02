@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gutu",
+               "short_name" : "Gutu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gutu, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.92566919999999,
+                  "lng" : 81.35230059999999
+               },
+               "southwest" : {
+                  "lat" : 28.807377,
+                  "lng" : 81.2691306
+               }
+            },
+            "location" : {
+               "lat" : 28.87,
+               "lng" : 81.31
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.92566919999999,
+                  "lng" : 81.35230059999999
+               },
+               "southwest" : {
+                  "lat" : 28.807377,
+                  "lng" : 81.2691306
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJQYH4uZtEojkRFo66rgqN4oQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

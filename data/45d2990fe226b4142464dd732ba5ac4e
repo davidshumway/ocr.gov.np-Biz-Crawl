@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Binayak",
+               "short_name" : "Binayak",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seti",
+               "short_name" : "Seti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10700",
+               "short_name" : "10700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Binayak 10700, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.1315457,
+                  "lng" : 81.42553559999999
+               },
+               "southwest" : {
+                  "lat" : 29.0751875,
+                  "lng" : 81.36780379999999
+               }
+            },
+            "location" : {
+               "lat" : 29.11,
+               "lng" : 81.39
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.1315457,
+                  "lng" : 81.42553559999999
+               },
+               "southwest" : {
+                  "lat" : 29.0751875,
+                  "lng" : 81.36780379999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJY1yZDg9TojkRjig8OGPxrn4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,180 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Melamchi-Talamarang Road",
+               "short_name" : "Melamchi-Talamarang Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Talramarang",
+               "short_name" : "Talramarang",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Melamchi-Talamarang Road, Talramarang, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.8622672,
+                  "lng" : 85.54658889999999
+               },
+               "southwest" : {
+                  "lat" : 27.8535477,
+                  "lng" : 85.5426112
+               }
+            },
+            "location" : {
+               "lat" : 27.8577949,
+               "lng" : 85.5441575
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.8622672,
+                  "lng" : 85.54658889999999
+               },
+               "southwest" : {
+                  "lat" : 27.8535477,
+                  "lng" : 85.5426112
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ1W-QQSH-6jkRE8OkJ4GhvPA",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Melamchi-Talamarang Road",
+               "short_name" : "Melamchi-Talamarang Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Melamchi",
+               "short_name" : "Melamchi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Melamchi-Talamarang Road, Melamchi, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.8342731,
+                  "lng" : 85.56788640000001
+               },
+               "southwest" : {
+                  "lat" : 27.8342168,
+                  "lng" : 85.5678508
+               }
+            },
+            "location" : {
+               "lat" : 27.8342731,
+               "lng" : 85.5678508
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.8355939302915,
+                  "lng" : 85.56921758029151
+               },
+               "southwest" : {
+                  "lat" : 27.8328959697085,
+                  "lng" : 85.5665196197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJtWqM7TYA6zkRxd1SEKcxB8s",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Melamchi-Talamarang Road",
+               "short_name" : "Melamchi-Talamarang Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sindhukot",
+               "short_name" : "Sindhukot",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sindhupalchok",
+               "short_name" : "Sindhupalchok",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Melamchi-Talamarang Road, Sindhukot, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.8438941,
+               "lng" : 85.55724029999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.8452430802915,
+                  "lng" : 85.5585892802915
+               },
+               "southwest" : {
+                  "lat" : 27.8425451197085,
+                  "lng" : 85.55589131970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJUarxONIB6zkRcWIFec_uJ3w",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

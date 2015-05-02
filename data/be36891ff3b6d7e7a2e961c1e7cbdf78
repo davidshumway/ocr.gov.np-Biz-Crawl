@@ -1,0 +1,66 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mahakali",
+               "short_name" : "Mahakali",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44900",
+               "short_name" : "44900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mahakali 44900, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.8890048,
+                  "lng" : 85.39947509999999
+               },
+               "southwest" : {
+                  "lat" : 27.8603252,
+                  "lng" : 85.3381919
+               }
+            },
+            "location" : {
+               "lat" : 27.88,
+               "lng" : 85.36999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.8890048,
+                  "lng" : 85.39947509999999
+               },
+               "southwest" : {
+                  "lat" : 27.8603252,
+                  "lng" : 85.3381919
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJU9v4zDzi6jkRpuKJ48gYAT4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

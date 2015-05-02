@@ -1,0 +1,66 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bhauneli Mandau",
+               "short_name" : "Bhauneli Mandau",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Chaukham",
+               "short_name" : "Chaukham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mahakali",
+               "short_name" : "Mahakali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10200",
+               "short_name" : "10200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bhauneli Mandau, Chaukham 10200, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.5038556,
+               "lng" : 80.77779289999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.5052045802915,
+                  "lng" : 80.77914188029149
+               },
+               "southwest" : {
+                  "lat" : 29.5025066197085,
+                  "lng" : 80.77644391970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJFfyNRaVfoTkRtkzNEiYfR9U",
+         "types" : [
+            "point_of_interest",
+            "hindu_temple",
+            "place_of_worship",
+            "establishment"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

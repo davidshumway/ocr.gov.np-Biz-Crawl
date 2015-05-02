@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Muzaffarpur",
+               "short_name" : "Muzaffarpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Muzaffarpur",
+               "short_name" : "Muzaffarpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bihar",
+               "short_name" : "BR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Muzaffarpur, Bihar, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.1651448,
+                  "lng" : 85.43174739999999
+               },
+               "southwest" : {
+                  "lat" : 26.0756724,
+                  "lng" : 85.34068119999999
+               }
+            },
+            "location" : {
+               "lat" : 26.1208876,
+               "lng" : 85.3647201
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.1651448,
+                  "lng" : 85.43174739999999
+               },
+               "southwest" : {
+                  "lat" : 26.0756724,
+                  "lng" : 85.34068119999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJKVUXo-gQ7TkRnXUPaBnZwgc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

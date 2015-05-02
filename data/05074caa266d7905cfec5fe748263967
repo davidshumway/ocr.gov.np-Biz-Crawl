@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tribhuvan Ambote",
+               "short_name" : "Tribhuvan Ambote",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45900",
+               "short_name" : "45900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tribhuvan Ambote 45900, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.1,
+               "lng" : 86.18333299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.1013489802915,
+                  "lng" : 86.1846819802915
+               },
+               "southwest" : {
+                  "lat" : 27.09865101970849,
+                  "lng" : 86.18198401970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJI_qkt7cA7DkR3IazrwdknsI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

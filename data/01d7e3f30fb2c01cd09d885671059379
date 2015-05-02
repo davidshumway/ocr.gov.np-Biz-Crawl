@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Makhanaha",
+               "short_name" : "Makhanaha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45600",
+               "short_name" : "45600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Makhanaha 45600, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.820545,
+                  "lng" : 86.0917585
+               },
+               "southwest" : {
+                  "lat" : 26.7717036,
+                  "lng" : 86.05994629999999
+               }
+            },
+            "location" : {
+               "lat" : 26.8,
+               "lng" : 86.08
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.820545,
+                  "lng" : 86.0917585
+               },
+               "southwest" : {
+                  "lat" : 26.7717036,
+                  "lng" : 86.05994629999999
+               }
+            }
+         },
+         "place_id" : "ChIJJXEov3EX7DkRpTmfrSgkG8Q",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

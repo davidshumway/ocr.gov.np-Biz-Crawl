@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Phopli",
+               "short_name" : "Phopli",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rapti",
+               "short_name" : "Rapti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Phopli, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.233776,
+                  "lng" : 82.8948498
+               },
+               "southwest" : {
+                  "lat" : 28.1564654,
+                  "lng" : 82.81365390000001
+               }
+            },
+            "location" : {
+               "lat" : 28.2,
+               "lng" : 82.86
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.233776,
+                  "lng" : 82.8948498
+               },
+               "southwest" : {
+                  "lat" : 28.1564654,
+                  "lng" : 82.81365390000001
+               }
+            }
+         },
+         "place_id" : "ChIJU_SzJoXLlzkRvigjIHD-fAE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

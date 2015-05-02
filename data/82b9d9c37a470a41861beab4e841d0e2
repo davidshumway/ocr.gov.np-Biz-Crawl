@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tathali",
+               "short_name" : "Tathali",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tathali, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6766114,
+                  "lng" : 85.50006879999999
+               },
+               "southwest" : {
+                  "lat" : 27.6562767,
+                  "lng" : 85.4420042
+               }
+            },
+            "location" : {
+               "lat" : 27.67,
+               "lng" : 85.47
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6766114,
+                  "lng" : 85.50006879999999
+               },
+               "southwest" : {
+                  "lat" : 27.6562767,
+                  "lng" : 85.4420042
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJQaoROnwF6zkRTw7hLY_qZCg",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

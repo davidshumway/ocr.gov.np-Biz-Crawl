@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Malumela",
+               "short_name" : "Malumela",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seti",
+               "short_name" : "Seti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10500",
+               "short_name" : "10500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Malumela 10500, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.49,
+               "lng" : 81.09
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.4913489802915,
+                  "lng" : 81.09134898029151
+               },
+               "southwest" : {
+                  "lat" : 29.4886510197085,
+                  "lng" : 81.08865101970851
+               }
+            }
+         },
+         "place_id" : "ChIJa7cQ2AnqozkRj6KL_X4lXrw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sapahi",
+               "short_name" : "Sapahi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sapahi, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.1799373,
+                  "lng" : 85.2061724
+               },
+               "southwest" : {
+                  "lat" : 27.0654876,
+                  "lng" : 85.1294973
+               }
+            },
+            "location" : {
+               "lat" : 27.13,
+               "lng" : 85.17999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.1799373,
+                  "lng" : 85.2061724
+               },
+               "southwest" : {
+                  "lat" : 27.0654876,
+                  "lng" : 85.1294973
+               }
+            }
+         },
+         "place_id" : "ChIJnR44dWSn7DkRD8shLWN5jsw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

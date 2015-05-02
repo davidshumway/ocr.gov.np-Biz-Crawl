@@ -1,0 +1,65 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Magma",
+               "short_name" : "Magma",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rapti",
+               "short_name" : "Rapti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "22000",
+               "short_name" : "22000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Magma 22000, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.7772137,
+                  "lng" : 82.4705029
+               },
+               "southwest" : {
+                  "lat" : 28.6926205,
+                  "lng" : 82.36038219999999
+               }
+            },
+            "location" : {
+               "lat" : 28.72,
+               "lng" : 82.44
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.7772137,
+                  "lng" : 82.4705029
+               },
+               "southwest" : {
+                  "lat" : 28.6926205,
+                  "lng" : 82.36038219999999
+               }
+            }
+         },
+         "place_id" : "ChIJMQJQR9ZFvTkRHMOsO58m1X0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,66 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sangrampur",
+               "short_name" : "Sangrampur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44500",
+               "short_name" : "44500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sangrampur 44500, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.9825986,
+                  "lng" : 85.3810295
+               },
+               "southwest" : {
+                  "lat" : 26.9426925,
+                  "lng" : 85.3558087
+               }
+            },
+            "location" : {
+               "lat" : 26.95,
+               "lng" : 85.36999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9825986,
+                  "lng" : 85.3810295
+               },
+               "southwest" : {
+                  "lat" : 26.9426925,
+                  "lng" : 85.3558087
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJxf_jHzKa7DkR8jKzvJhc-SA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

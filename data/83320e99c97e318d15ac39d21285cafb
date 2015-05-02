@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Durgauli",
+               "short_name" : "Durgauli",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seti",
+               "short_name" : "Seti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Durgauli, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.5771353,
+                  "lng" : 81.18913649999999
+               },
+               "southwest" : {
+                  "lat" : 28.5232666,
+                  "lng" : 81.0804749
+               }
+            },
+            "location" : {
+               "lat" : 28.56,
+               "lng" : 81.14
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5771353,
+                  "lng" : 81.18913649999999
+               },
+               "southwest" : {
+                  "lat" : 28.5232666,
+                  "lng" : 81.0804749
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJcX3RaWwNojkR0maMEihHbg0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

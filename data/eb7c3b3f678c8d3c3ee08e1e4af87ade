@@ -1,0 +1,65 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ikudol",
+               "short_name" : "Ikudol",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44700",
+               "short_name" : "44700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ikudol 44700, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.5010771,
+                  "lng" : 85.34484399999999
+               },
+               "southwest" : {
+                  "lat" : 27.4632711,
+                  "lng" : 85.2933024
+               }
+            },
+            "location" : {
+               "lat" : 27.48,
+               "lng" : 85.31999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.5010771,
+                  "lng" : 85.34484399999999
+               },
+               "southwest" : {
+                  "lat" : 27.4632711,
+                  "lng" : 85.2933024
+               }
+            }
+         },
+         "place_id" : "ChIJ9abwrdAU6zkRzHCuKDDmK8c",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

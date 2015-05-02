@@ -1,0 +1,110 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Likhu River",
+               "short_name" : "Likhu River",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Likhu River, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.8983922,
+                  "lng" : 85.2576828
+               },
+               "southwest" : {
+                  "lat" : 27.8830494,
+                  "lng" : 85.21656949999999
+               }
+            },
+            "location" : {
+               "lat" : 27.8907208,
+               "lng" : 85.23712619999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.8983922,
+                  "lng" : 85.2576828
+               },
+               "southwest" : {
+                  "lat" : 27.8830494,
+                  "lng" : 85.21656949999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJp0_Gq1Pe6jkRiBGnHTH_C0s",
+         "types" : [ "natural_feature", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tadi-Likhu Confluence",
+               "short_name" : "Tadi-Likhu Confluence",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Khanigaun",
+               "short_name" : "Khanigaun",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tadi-Likhu Confluence, Khanigaun, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.8985595,
+               "lng" : 85.2162199
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.8999084802915,
+                  "lng" : 85.21756888029149
+               },
+               "southwest" : {
+                  "lat" : 27.8972105197085,
+                  "lng" : 85.21487091970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJT6hGyeXe6jkRSQ88_6Hvd6A",
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

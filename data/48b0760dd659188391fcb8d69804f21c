@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alau",
+               "short_name" : "Alau",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Alau, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.0402555,
+                  "lng" : 84.8493943
+               },
+               "southwest" : {
+                  "lat" : 27.0113065,
+                  "lng" : 84.81967809999999
+               }
+            },
+            "location" : {
+               "lat" : 27.03,
+               "lng" : 84.83999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.0402555,
+                  "lng" : 84.8493943
+               },
+               "southwest" : {
+                  "lat" : 27.0113065,
+                  "lng" : 84.81967809999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJoxFnt45WkzkR5_hCsPH073s",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

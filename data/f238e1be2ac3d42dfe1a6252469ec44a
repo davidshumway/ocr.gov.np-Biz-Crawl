@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hiledevi",
+               "short_name" : "Hiledevi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45400",
+               "short_name" : "45400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hiledevi 45400, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.5219354,
+                  "lng" : 85.89742179999999
+               },
+               "southwest" : {
+                  "lat" : 27.471039,
+                  "lng" : 85.8366965
+               }
+            },
+            "location" : {
+               "lat" : 27.5,
+               "lng" : 85.86999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.5219354,
+                  "lng" : 85.89742179999999
+               },
+               "southwest" : {
+                  "lat" : 27.471039,
+                  "lng" : 85.8366965
+               }
+            }
+         },
+         "place_id" : "ChIJs5uwiS6-6zkRGx-pAEFuVuc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

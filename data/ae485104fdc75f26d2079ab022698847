@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Parroha",
+               "short_name" : "Parroha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lumbini",
+               "short_name" : "Lumbini",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32900",
+               "short_name" : "32900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Parroha 32900, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.7,
+               "lng" : 83.36
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7013489802915,
+                  "lng" : 83.36134898029151
+               },
+               "southwest" : {
+                  "lat" : 27.6986510197085,
+                  "lng" : 83.3586510197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJkfQ2ixSJljkRRW0-d4QKpRw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

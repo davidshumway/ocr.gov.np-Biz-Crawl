@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dhirapur",
+               "short_name" : "Dhirapur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45700",
+               "short_name" : "45700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dhirapur 45700, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.6630306,
+                  "lng" : 85.8725738
+               },
+               "southwest" : {
+                  "lat" : 26.6138818,
+                  "lng" : 85.8360302
+               }
+            },
+            "location" : {
+               "lat" : 26.6363795,
+               "lng" : 85.85374179999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.6630306,
+                  "lng" : 85.8725738
+               },
+               "southwest" : {
+                  "lat" : 26.6138818,
+                  "lng" : 85.8360302
+               }
+            }
+         },
+         "place_id" : "ChIJ2ynDFFRB7DkRqvbRlyGoWtI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

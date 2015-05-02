@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nirmal Basti",
+               "short_name" : "Nirmal Basti",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44300",
+               "short_name" : "44300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nirmal Basti 44300, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.3387644,
+                  "lng" : 84.70363759999999
+               },
+               "southwest" : {
+                  "lat" : 27.2229265,
+                  "lng" : 84.61790069999999
+               }
+            },
+            "location" : {
+               "lat" : 27.266667,
+               "lng" : 84.683333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.3387644,
+                  "lng" : 84.70363759999999
+               },
+               "southwest" : {
+                  "lat" : 27.2229265,
+                  "lng" : 84.61790069999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJjQcpqcO8lDkRW7uvxAhFhv0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

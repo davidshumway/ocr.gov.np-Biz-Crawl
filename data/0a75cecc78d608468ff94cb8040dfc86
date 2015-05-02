@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Budhanilkantha",
+               "short_name" : "Budhanilkantha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Budhanilkantha, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.8137271,
+                  "lng" : 85.3887409
+               },
+               "southwest" : {
+                  "lat" : 27.7217664,
+                  "lng" : 85.33331699999999
+               }
+            },
+            "location" : {
+               "lat" : 27.778056,
+               "lng" : 85.362222
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.8137271,
+                  "lng" : 85.3887409
+               },
+               "southwest" : {
+                  "lat" : 27.7217664,
+                  "lng" : 85.33331699999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJb6AweyUc6zkRU-cO3oiagQk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dharapani",
+               "short_name" : "Dharapani",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gandaki",
+               "short_name" : "Gandaki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dharapani, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.5628179,
+                  "lng" : 84.5983315
+               },
+               "southwest" : {
+                  "lat" : 28.4213725,
+                  "lng" : 84.26818369999999
+               }
+            },
+            "location" : {
+               "lat" : 28.5,
+               "lng" : 84.52
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5628179,
+                  "lng" : 84.5983315
+               },
+               "southwest" : {
+                  "lat" : 28.4213725,
+                  "lng" : 84.26818369999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJPWtc-S59lTkRrwqh5mG66AQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

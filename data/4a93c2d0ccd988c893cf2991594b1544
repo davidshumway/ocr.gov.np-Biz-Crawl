@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Malta",
+               "short_name" : "Malta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Malta, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.5259314,
+                  "lng" : 85.27843229999999
+               },
+               "southwest" : {
+                  "lat" : 27.4952148,
+                  "lng" : 85.23437969999999
+               }
+            },
+            "location" : {
+               "lat" : 27.5100652,
+               "lng" : 85.25672369999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.5259314,
+                  "lng" : 85.27843229999999
+               },
+               "southwest" : {
+                  "lat" : 27.4952148,
+                  "lng" : 85.23437969999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJN7x9-cs_6zkRblK4KhoXi2M",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

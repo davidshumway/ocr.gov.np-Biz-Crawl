@@ -1,0 +1,66 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dumariya",
+               "short_name" : "Dumariya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44515",
+               "short_name" : "44515",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dumariya 44515, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.085118,
+                  "lng" : 85.3836367
+               },
+               "southwest" : {
+                  "lat" : 27.0228549,
+                  "lng" : 85.3228646
+               }
+            },
+            "location" : {
+               "lat" : 27.05,
+               "lng" : 85.34999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.085118,
+                  "lng" : 85.3836367
+               },
+               "southwest" : {
+                  "lat" : 27.0228549,
+                  "lng" : 85.3228646
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ80qTF3-e7DkRKOv2_xiBb3g",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

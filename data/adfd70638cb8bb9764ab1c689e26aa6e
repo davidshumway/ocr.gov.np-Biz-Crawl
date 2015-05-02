@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chisapani",
+               "short_name" : "Chisapani",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45400",
+               "short_name" : "45400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chisapani 45400, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.430823,
+                  "lng" : 86.08144279999999
+               },
+               "southwest" : {
+                  "lat" : 27.3990892,
+                  "lng" : 86.0268116
+               }
+            },
+            "location" : {
+               "lat" : 27.42,
+               "lng" : 86.06
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.430823,
+                  "lng" : 86.08144279999999
+               },
+               "southwest" : {
+                  "lat" : 27.3990892,
+                  "lng" : 86.0268116
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJdTfrotno6zkRu8WMmA97h_0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

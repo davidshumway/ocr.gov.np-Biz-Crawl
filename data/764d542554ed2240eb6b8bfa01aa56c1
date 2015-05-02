@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Laduk",
+               "short_name" : "Laduk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45500",
+               "short_name" : "45500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Laduk 45500, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.77,
+               "lng" : 86.16
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7713489802915,
+                  "lng" : 86.16134898029151
+               },
+               "southwest" : {
+                  "lat" : 27.7686510197085,
+                  "lng" : 86.15865101970849
+               }
+            }
+         },
+         "place_id" : "ChIJIetyiFvR6zkR-ag1gzLIOZc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

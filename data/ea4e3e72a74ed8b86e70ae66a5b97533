@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Palungtar",
+               "short_name" : "Palungtar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gandaki",
+               "short_name" : "Gandaki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Palungtar, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.087883,
+                  "lng" : 84.56348419999999
+               },
+               "southwest" : {
+                  "lat" : 27.9461897,
+                  "lng" : 84.41860179999999
+               }
+            },
+            "location" : {
+               "lat" : 28.0138308,
+               "lng" : 84.490753
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.087883,
+                  "lng" : 84.56348419999999
+               },
+               "southwest" : {
+                  "lat" : 27.9461897,
+                  "lng" : 84.41860179999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJZXyEsOIQlTkRX3nOI6f1KI4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

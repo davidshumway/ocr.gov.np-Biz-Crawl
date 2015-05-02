@@ -1,0 +1,125 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Padampur",
+               "short_name" : "Padampur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44200",
+               "short_name" : "44200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Padampur 44200, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.5661722,
+                  "lng" : 84.5769341
+               },
+               "southwest" : {
+                  "lat" : 27.5285336,
+                  "lng" : 84.4737657
+               }
+            },
+            "location" : {
+               "lat" : 27.5410698,
+               "lng" : 84.5064881
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.5661722,
+                  "lng" : 84.5769341
+               },
+               "southwest" : {
+                  "lat" : 27.5285336,
+                  "lng" : 84.4737657
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJX08p4qzulDkRodaum-tTWSk",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Padampur",
+               "short_name" : "Padampur",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Jutpani",
+               "short_name" : "Jutpani",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Padampur, Jutpani, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7083029,
+                  "lng" : 84.5392799
+               },
+               "southwest" : {
+                  "lat" : 27.6651521,
+                  "lng" : 84.482975
+               }
+            },
+            "location" : {
+               "lat" : 27.6818735,
+               "lng" : 84.5169757
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7083029,
+                  "lng" : 84.5392799
+               },
+               "southwest" : {
+                  "lat" : 27.6651521,
+                  "lng" : 84.482975
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJxfjULdTllDkRj0M7OQL0YNk",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

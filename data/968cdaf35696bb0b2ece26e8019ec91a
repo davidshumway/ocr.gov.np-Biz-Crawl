@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kabilas",
+               "short_name" : "Kabilas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44900",
+               "short_name" : "44900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kabilas 44900, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.9172217,
+                  "lng" : 85.29660699999999
+               },
+               "southwest" : {
+                  "lat" : 27.8722381,
+                  "lng" : 85.25643819999999
+               }
+            },
+            "location" : {
+               "lat" : 27.883333,
+               "lng" : 85.283333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.9172217,
+                  "lng" : 85.29660699999999
+               },
+               "southwest" : {
+                  "lat" : 27.8722381,
+                  "lng" : 85.25643819999999
+               }
+            }
+         },
+         "place_id" : "ChIJETdruobg6jkR1aDi_DUFqHw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

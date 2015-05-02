@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gugauli",
+               "short_name" : "Gugauli",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lumbini",
+               "short_name" : "Lumbini",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gugauli, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7761393,
+                  "lng" : 82.8177738
+               },
+               "southwest" : {
+                  "lat" : 27.6065075,
+                  "lng" : 82.69658079999999
+               }
+            },
+            "location" : {
+               "lat" : 27.69,
+               "lng" : 82.75
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7761393,
+                  "lng" : 82.8177738
+               },
+               "southwest" : {
+                  "lat" : 27.6065075,
+                  "lng" : 82.69658079999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJxwnCfMwHlzkRrf_Zp4JkSpk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

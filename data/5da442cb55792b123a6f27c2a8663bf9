@@ -1,0 +1,55 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chamunda",
+               "short_name" : "Chamunda",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21600",
+               "short_name" : "21600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chamunda 21600, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.96,
+               "lng" : 81.58
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.9613489802915,
+                  "lng" : 81.58134898029151
+               },
+               "southwest" : {
+                  "lat" : 28.9586510197085,
+                  "lng" : 81.5786510197085
+               }
+            }
+         },
+         "place_id" : "ChIJ4Y5nDGf3ojkRkuSvaZQ9Oyg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Haraiya",
+               "short_name" : "Haraiya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44400",
+               "short_name" : "44400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Haraiya 44400, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.1677582,
+                  "lng" : 85.11147699999999
+               },
+               "southwest" : {
+                  "lat" : 27.0330463,
+                  "lng" : 85.0525717
+               }
+            },
+            "location" : {
+               "lat" : 27.09,
+               "lng" : 85.08999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.1677582,
+                  "lng" : 85.11147699999999
+               },
+               "southwest" : {
+                  "lat" : 27.0330463,
+                  "lng" : 85.0525717
+               }
+            }
+         },
+         "place_id" : "ChIJix-PIOpX6zkRFHc5wXv_SaU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

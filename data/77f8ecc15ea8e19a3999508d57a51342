@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Limgha",
+               "short_name" : "Limgha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lumbini",
+               "short_name" : "Lumbini",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32600",
+               "short_name" : "32600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Limgha 32600, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.0495609,
+                  "lng" : 83.50343239999999
+               },
+               "southwest" : {
+                  "lat" : 27.9959172,
+                  "lng" : 83.45051769999999
+               }
+            },
+            "location" : {
+               "lat" : 28.02,
+               "lng" : 83.47999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.0495609,
+                  "lng" : 83.50343239999999
+               },
+               "southwest" : {
+                  "lat" : 27.9959172,
+                  "lng" : 83.45051769999999
+               }
+            }
+         },
+         "place_id" : "ChIJebYBPRFxljkRArrmUsKec6Q",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

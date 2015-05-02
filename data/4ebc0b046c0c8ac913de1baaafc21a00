@@ -1,0 +1,66 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Katahariya",
+               "short_name" : "Katahariya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44500",
+               "short_name" : "44500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Katahariya 44500, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.0011142,
+                  "lng" : 85.25290179999999
+               },
+               "southwest" : {
+                  "lat" : 26.954884,
+                  "lng" : 85.21860289999999
+               }
+            },
+            "location" : {
+               "lat" : 26.98,
+               "lng" : 85.22999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.0011142,
+                  "lng" : 85.25290179999999
+               },
+               "southwest" : {
+                  "lat" : 26.954884,
+                  "lng" : 85.21860289999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ71JEdzGi7DkRgtWvABtuHUo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

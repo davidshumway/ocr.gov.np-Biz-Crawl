@@ -50,17 +50,7 @@ class region {
 		$this->get_zones();
 		$this->get_districts();
 		$this->get_biz_in_district();
-		
-		//~ // Get biz in districts
-		//~ $this->get_biz_in_district();
 	}
-	//~ // Biz object
-	//~ $biz = new stdClass;
-	//~ $biz->reg_number = null;
-	//~ $biz->reg_date = null;
-	//~ $biz->name = null;
-	//~ $biz->company_type = null;
-	//~ $biz->address = null;
 	function get_biz_in_district_curl($zone_obj, $dist_obj, $date_start = '', $date_end = '') {
 		// Curl get businesses (POST)
 		$u =
@@ -120,26 +110,21 @@ class region {
 		if ($match) { // Has results
 			$d = json_decode($match[1]);
 		}
-		// Not this to test: if($match !== false && !empty($match))
 		return $d;
 	}
 	function get_biz_in_district() {
 		// Get businesses for each district
-		//~ $test_count = 0; //DEBUG
 		foreach ($this->zones as $key => $zone_obj) {
 			foreach ($zone_obj->districts as $key2 => $dist_obj) { // $zone_obj->districts is an array of district objects.
-				//~ if ($test_count > 2) exit; //DEBUG
-				//~ $test_count++; //DEBUG
 				
 				$content = $this->get_biz_in_district_curl($zone_obj, $dist_obj);
 				$d = $this->reg_biz($content->html);
 				
-				// If 0 business then exit?
-				// Test
-				if (count($d) == 0) { // || $tmp_fn == '59ab917722f064dabab931ee51a8b1f0'
+				// If 0 businesses then the page probably did not load.
+				// So break it up request into many pieces.
+				if (count($d) == 0) {
 					// Timeout on page is 30 seconds.
 					// If blank, this must go through year-registered sets.
-					// Where each set is something like 10 years.
 					echo '(Num. businesses=0! Going to try separating the query by registration year!)'."\n";
 					
 					// Loop through 1-year intervals. From 1900 to present.
@@ -159,8 +144,22 @@ class region {
 							die('0 BUSINESSES FOUND!');
 						$tmp_biz = array_merge($tmp_biz, $d);
 					}
-					//~ echo ' ->(Sum district businesses='.count($tmp_biz).')'. "\n";
 					$d = $tmp_biz;
+				}
+				
+				// Add the following properties to each business:
+				// address_api_translate
+				// regional_lat,regional_lng
+				// local_lat,local_lng
+				// regional_location_string,local_location_string
+				foreach ($d as $key => $business) {
+					$business->address_api_translate = '';
+					$business->regional_lat = '';
+					$business->regional_lng = '';
+					$business->local_lat = '';
+					$business->local_lng = '';
+					$business->regional_location_string = ''; // Help match to a region's lat/lng
+					$business->local_location_string = ''; // Help match to a local area's lat/lng
 				}
 				
 				// Set $dist_obj->businesses
@@ -168,6 +167,8 @@ class region {
 				echo '(Num. businesses='.count($d).')'. "\n";
 			}
 		}
+		
+		
 	}
 	function get_districts() {
 		// Get districts in each zone.
@@ -236,10 +237,19 @@ class region {
  */
 class regions {
 	private $regions;
-	private $data_folder;
+	
 	private $folder; // Root folder
+	
+	private $data_folder; // Folder for translations and scrape of ocr.gov.np.
+	
+	//~ private $geo_folder; // Save geocoded addresses to this folder.
+	
 	private $gapi_key; // Google API key for translate.
+	
 	private $translations_array = array(); // Translations associative array.
+	
+	private $locations_array = array(); // Locations associative array.
+	
 	function __construct($folder, $gapi_key = false) {
 		$this->folder = $folder; // Set $this->folder
 		// CHECK: Folder ends with "/".
@@ -262,13 +272,6 @@ class regions {
 		// Set gapi_key
 		$this->gapi_key = $gapi_key;
 		
-		//~ // Make a "data" dir if it does not exist.
-		//~ $this->data_folder = $folder . 'data/';
-		//~ if (!file_exists($this->data_folder)) {
-			//~ if (!mkdir($this->data_folder)) {
-				//~ die('ERROR: Could not create the folder '.$this->data_folder);
-			//~ }
-		//~ }
 		// Init. regions.
 		$this->build_regions();
 		
@@ -277,11 +280,178 @@ class regions {
 		// Put all translations into the file translations.json.
 		$this->translate();
 		
+		// Geocode approximate addresses.
+		$this->geocode_approximate();
+		
+		// TODO: Save to a MySQL database.
+		// TODO: Add businesses to a Google Map.
+		// TODO: Consider integrating with the Google Places API.
+		
 		// Save businesses to disk as CSV
 		$this->csv();
 		
 		// Save 2-year-old or less businesses to disk as CSV
 		$this->csv(2068);
+		
+		//~ // Make a "geo" data dir if it does not exist.
+		//~ $this->geo_folder = $folder . 'geo/';
+		//~ if (!file_exists($this->geo_folder)) {
+			//~ if (!mkdir($this->geo_folder)) {
+				//~ die('ERROR: Could not create the folder '.$this->geo_folder);
+			//~ }
+		//~ }
+	}
+	function geocode_approximate() {
+		// If MapQuest: Geocode up to 100 locations per request
+		$addresses_to_geocode = array(); // Associative array.
+		foreach ($this->regions as $key => $region) {
+			if ($region->title_en == 'Unknown') continue; // Unnecessary to geocode this.
+			foreach ($region->zones as $key2 => $zone) {
+				foreach ($zone->districts as $key3 => $district) {
+					foreach ($district->businesses as $key3 => $business) {
+						// E.g. If biz address="Karkineta 4, Mountain, Dhaulagiri"
+						// and Zone=Dhaulagiri and District=Parbat
+						// then perform a geocode search for both "Karkineta,Parbat,Dhaulagiri"
+						// and "Parbat,Dhaulagiri". Basically take up to the first space
+						// of the address as this is typically the city/town.
+						
+						// District+Zone+Country
+						$dz = $district->title_en.','.$zone->title_en.',Nepal';
+						
+						// By default, geocode the District+Zone+Country for every business.
+						$addresses_to_geocode[ $dz ] = true;
+						
+						// Set the businesses regional and local location string IDs.
+						$business->regional_location_string = $dz;
+						$business->local_location_string = ''; // Default is "".
+						
+						// Next try a city geocode. Has translated?
+						if ($business->address_api_translate != '') {
+							$x = $business->address_api_translate;
+							// By the first word from left with two or more characters. 
+							preg_match('/^[^a-z]*([a-z]{2,})/i', $x, $m); // Use preg_match.
+							if (!empty($m[1])) {
+								$business->local_location_string = $m[1] . ',' . $dz; // Update the business' local location string ID.
+								$addresses_to_geocode[ $business->local_location_string ] = true;
+							}
+							// By any number of words prior to a comma.
+							//~ preg_match('/^[^a-z]*([^,]{3,})/i', $x, $m); // Use preg_match.
+							//~ if (!empty($m[1])) {
+								//~ $m[1] = preg_replace('/[^a-z ]/i', '', $m[1]); // Replace non-word, non-space characters.
+								//~ $m[1] = trim($m[1]);
+								//~ $addresses_to_geocode[ $m[1] . ',' . $dz ] = true;
+							//~ }
+							// By explode.
+							//~ $x = preg_replace('/^[^a-z]*/i', '', $x); // Remove any non-word characters that start the address.
+							//~ $c = explode(' ',$x); // Explode by space.
+							//~ if (count($c) > 0) {
+								//~ // Trim comma
+								//~ // Add city. Only if strlen() is >= 3
+								//~ if (strlen($c[0])
+								//~ $addresses_to_geocode[ $c[0] . ',' . $dz ] = true;
+							//~ }
+						}
+					}
+				}
+			}
+		}
+		echo 'Retrieving geocoding. "." denotes a new geocode to retrieve. Duplicate and cached geocoding not displayed.'.
+			"\n".'Number of addresses to geocode:'.count($addresses_to_geocode)."\n";
+		
+		// CURL
+		// Set $this->locations_array
+		foreach ($addresses_to_geocode as $address => $v) {
+			$ufilename =
+				'https://maps.googleapis.com/maps/api/geocode/json'.
+				'?address='.urlencode($address);
+			$u = 'https://maps.googleapis.com/maps/api/geocode/json'.
+				'?address='.urlencode($address).'&key='.urlencode($this->gapi_key); // This will allow using a key but to keep the same filename.
+			$opts = new StdClass;
+			$opts->url = $u;
+			$opts->filename = md5($ufilename);
+			$opts->request_to_file = true;
+			$opts->request_from_file = true;
+			$opts->folder = $this->tmp_folder;
+			$content = curl_get($opts); // status,html
+			if (property_exists($content, 'isCached')) {
+				//~ echo '*'; // Is cached.
+			} else {
+				echo '.';
+				if ($content->status != 200) {
+					die('status != 200, =' . $content->status);
+				}
+			}
+			$d = json_decode($content->html);
+			if (count($d->results) > 0 && $d->results[0]->geometry && $d->results[0]->geometry->location) {
+				$d = $d->results[0]->geometry->location; // Just the lat/lng.
+			} else {
+				$d = false;
+			}
+			$this->locations_array[ $address ] = $d;
+		}
+		
+		// Set business lat/lng for Regional and Local, if available.
+		foreach ($this->regions as $key => $region) {
+			if ($region->title_en == 'Unknown') continue; // Unnecessary to geocode this.
+			foreach ($region->zones as $key2 => $zone) {
+				foreach ($zone->districts as $key3 => $district) {
+					foreach ($district->businesses as $key3 => $business) {
+						if 	(
+							$business->regional_location_string != '' &&
+							array_key_exists($business->regional_location_string, $this->locations_array) &&
+							$this->locations_array[ $business->regional_location_string ]
+							)
+						{
+							try {
+								$loc = $this->locations_array[ $business->regional_location_string ];
+								$business->regional_lat = $loc->lat;
+								$business->regional_lng = $loc->lng;
+							} catch (Exception $e) {
+								$business->regional_lat = ''; // None
+								$business->regional_lng = ''; // None
+							}
+						}
+						if 	(
+							$business->local_location_string != '' &&
+							array_key_exists($business->local_location_string, $this->locations_array) &&
+							$this->locations_array[ $business->local_location_string ]
+							)
+						{
+							try {
+								$loc = $this->locations_array[ $business->local_location_string ];
+								$business->local_lat = $loc->lat;
+								$business->local_lng = $loc->lng;
+							} catch (Exception $e) {
+								$business->local_lat = ''; // None
+								$business->local_lng = ''; // None
+							}
+						}
+					}
+				}
+			}
+		}
+		
+		// Delete addresses_to_geocode & locations_array.
+		unset($addresses_to_geocode);
+		unset($this->locations_array);
+		//~ exit;
+		
+		
+		// https://maps.googleapis.com/maps/api/geocode/json?address=Karkineta,parbat,Dhaulagiri,nepal
+		
+		// 2 results. 2nd is last try if 1st is not good.
+		// Url	http://open.mapquestapi.com/geocoding/v1/batch?key=Fmjtd%7Cluubnuuynl%2C7s%3Do5-9u1lh6&location=Pottsville,PA&location=Red%20Lion&location=19036&location=1090%20N%20Charlotte%20St,%20Lancaster,%20PA&thumbMaps=false&maxResults=2
+		// Returns		{"street":"","adminArea6":"","adminArea6Type":"Neighborhood","adminArea5":"Pottsville","adminArea5Type":"City","adminArea4":"Schuylkill County","adminArea4Type":"County","adminArea3":"PA","adminArea3Type":"State","adminArea1":"US","adminArea1Type":"Country","postalCode":"","geocodeQualityCode":"A5XAX","geocodeQuality":"CITY","dragPoint":false,"sideOfStreet":"N","linkId":"0","unknownInput":"","type":"s","latLng":{"lat":40.685132,"lng":-76.19537},"displayLatLng":{"lat":40.685132,"lng":-76.19537}}]
+		
+		// Facebook
+		//~ var u = 
+			//~ 'https://graph.facebook.com/search'+
+			//~ '?q='+encodeURIComponent(v)+'&type=page'+ // not &type=user
+			//~ '&fields=category,id,name,likes,talking_about_count,location,link,website,cover,phone'+ //
+			//~ '&limit=10'+
+			//~ '&center='+lat+','+lng+ //
+			//~ '&distance=30000'+ // 30k ~ 19mi
+			//~ '&access_token='; //+KEY
 	}
 	function translate() {
 		// Translate?
@@ -291,7 +461,7 @@ class regions {
 		} else {
 			echo
 				'Downloading Google translations for business addresses.'."\n".
-				'"*" denotes a cached query, "." denotes a non-cached query, "d" denotes a duplicate address'."\n";
+				'"." denotes a non-cached query. Cached and duplicate addresses are not shown.'."\n";
 		}
 		// The result is e.g.:
 		//~ {
@@ -321,7 +491,7 @@ class regions {
 						
 						// Do not translate if key already exists.
 						if (array_key_exists($business->address, $this->translations_array)) {
-							echo 'd';
+							// No output here.
 							$count_dup_trans++;
 							continue;
 						}
@@ -330,6 +500,7 @@ class regions {
 						$count_trans++;
 						
 						// Translate
+						// TODO: Make the filename not include the "key". (Not dependent on this.)
 						$u =
 							'https://www.googleapis.com/language/translate/v2'.
 							'?key='.urlencode($this->gapi_key).
@@ -343,7 +514,7 @@ class regions {
 						$opts->folder = $this->tmp_folder;
 						$content = curl_get($opts); // status,html
 						if (property_exists($content, 'isCached')) {
-							echo '*'; // Is cached.
+							// Is cached. No output here.
 						} else {
 							echo '.';
 							if ($content->status != 200) {
@@ -352,6 +523,15 @@ class regions {
 						}
 						$d = json_decode($content->html);
 						$this->translations_array[ $business->address ] = $d;
+						
+						// Add details to this object.
+						try {
+							$trans = $this->translations_array[ $business->address ]->data->translations[0]->translatedText;
+							$business->address_api_translate = $trans;
+						} catch (Exception $e) {
+							print_r($this->translations_array[ $business->address ]);
+							die('Caught exception: '.  $e->getMessage(). "\n");
+						}
 					}
 				}
 			}
@@ -359,10 +539,8 @@ class regions {
 		echo "\n";
 		echo 'Number of unique addresses translated:' . $count_trans . "\n"; //15769
 		echo 'Number of dupliate addresses found:' . $count_dup_trans . "\n";//111774
-		
-		// Load translations.json and parse.
-		// Re-run csv() when any translations are not cached (!isCached).
-		// Otherwise the first run of csv() included all translations.
+		// Delete the translations array to free memory
+		unset($this->translations_array);
 	}
 	function csv($year = false) {
 		$now = date('F.d.Y');
@@ -382,26 +560,20 @@ class regions {
 			'Name-English',
 			'Address',
 			'Address-English Translated', // TRANSLATION IF AVAILABLE
-			'Type'
+			'Type',
+			'Regional Lat.',
+			'Regional Lng.',
+			'Local Lat.',
+			'Local Lng.',
+			'Regional Match String',
+			'Local Match String'
 		);
 		fputcsv($fp, $header); // Header
 		$count_biz = 0;
 		foreach ($this->regions as $key => $region) {
 			foreach ($region->zones as $key2 => $zone) {
 				foreach ($zone->districts as $key3 => $district) {
-					//$count_biz += count($district->businesses);
 					foreach ($district->businesses as $key3 => $business) {
-						
-						// TODO: INCLUDE Translated address
-						$trans = '';
-						if (array_key_exists($business->address, $this->translations_array)) {
-							try {
-								$trans = $this->translations_array[ $business->address ]->data->translations[0]->translatedText;
-							} catch (Exception $e) {
-								print_r($this->translations_array[ $business->address ]);
-								die('Caught exception: '.  $e->getMessage(). "\n");
-							}
-						}
 						
 						// If limit by year.
 						if ($year) {
@@ -428,8 +600,14 @@ class regions {
 							$business->name,
 							$business->name_eng,
 							$business->address,
-							$trans, // TRANSLATION IF AVAILABLE
-							$business->type_name
+							$business->address_api_translate, // TRANSLATION IF AVAILABLE
+							$business->type_name,
+							$business->regional_lat, // RETRIEVED IF AVAILABLE
+							$business->regional_lng, // RETRIEVED IF AVAILABLE
+							$business->local_lat, // RETRIEVED IF AVAILABLE
+							$business->local_lng, // RETRIEVED IF AVAILABLE
+							$business->regional_location_string, // RETRIEVED IF AVAILABLE
+							$business->local_location_string // RETRIEVED IF AVAILABLE
 						);
 						
 						// Write array to CSV

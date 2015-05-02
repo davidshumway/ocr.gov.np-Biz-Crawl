@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rimi",
+               "short_name" : "Rimi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karnali",
+               "short_name" : "Karnali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rimi, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.15961949999999,
+                  "lng" : 82.57118229999999
+               },
+               "southwest" : {
+                  "lat" : 29.0807761,
+                  "lng" : 82.4266434
+               }
+            },
+            "location" : {
+               "lat" : 29.1272972,
+               "lng" : 82.50775929999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.15961949999999,
+                  "lng" : 82.57118229999999
+               },
+               "southwest" : {
+                  "lat" : 29.0807761,
+                  "lng" : 82.4266434
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJYczcglkfvTkR4slLrQ8IZoE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

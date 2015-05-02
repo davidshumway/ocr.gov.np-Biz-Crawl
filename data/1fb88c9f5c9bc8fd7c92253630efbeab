@@ -1,0 +1,80 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "The Garden School",
+               "short_name" : "The Garden School",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Uttar Behedi Marg",
+               "short_name" : "Uttar Behedi Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Uttar Behandi",
+               "short_name" : "Uttar Behandi",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Dhangadhi",
+               "short_name" : "Dhangadhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seti",
+               "short_name" : "Seti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10900",
+               "short_name" : "10900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "The Garden School, Uttar Behedi Marg, Dhangadhi 10900, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.7100067,
+                  "lng" : 80.5749321
+               },
+               "southwest" : {
+                  "lat" : 28.7095691,
+                  "lng" : 80.5744117
+               }
+            },
+            "location" : {
+               "lat" : 28.7098659,
+               "lng" : 80.57465719999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.7111368802915,
+                  "lng" : 80.57602088029151
+               },
+               "southwest" : {
+                  "lat" : 28.7084389197085,
+                  "lng" : 80.5733229197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJW6fhY87soTkR8nztXhlB42I",
+         "types" : [ "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chaughada",
+               "short_name" : "Chaughada",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44900",
+               "short_name" : "44900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chaughada 44900, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.9103957,
+                  "lng" : 85.263176
+               },
+               "southwest" : {
+                  "lat" : 27.8949597,
+                  "lng" : 85.2204323
+               }
+            },
+            "location" : {
+               "lat" : 27.9,
+               "lng" : 85.25999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.9103957,
+                  "lng" : 85.263176
+               },
+               "southwest" : {
+                  "lat" : 27.8949597,
+                  "lng" : 85.2204323
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJk4ZST0Xe6jkRQv97OJLO5NI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

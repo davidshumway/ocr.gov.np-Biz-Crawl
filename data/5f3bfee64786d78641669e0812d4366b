@@ -1,0 +1,56 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pusakot Chhiudi",
+               "short_name" : "Pusakot Chhiudi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21600",
+               "short_name" : "21600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Pusakot Chhiudi 21600, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.82,
+               "lng" : 81.61999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.8213489802915,
+                  "lng" : 81.62134898029149
+               },
+               "southwest" : {
+                  "lat" : 28.8186510197085,
+                  "lng" : 81.61865101970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJUQzl_W3zojkRyp3vjLpsKSI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

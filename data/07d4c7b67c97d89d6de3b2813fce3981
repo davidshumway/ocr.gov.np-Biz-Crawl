@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Puraina",
+               "short_name" : "Puraina",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21900",
+               "short_name" : "21900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Puraina 21900, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.04,
+               "lng" : 81.66
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.0413489802915,
+                  "lng" : 81.66134898029151
+               },
+               "southwest" : {
+                  "lat" : 28.0386510197085,
+                  "lng" : 81.65865101970849
+               }
+            }
+         },
+         "place_id" : "ChIJ7f90nmRdmDkRPcF59RAGu3A",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

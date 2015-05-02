@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sisne",
+               "short_name" : "Sisne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rapti",
+               "short_name" : "Rapti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sisne, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.8670753,
+                  "lng" : 82.7667045
+               },
+               "southwest" : {
+                  "lat" : 28.713399,
+                  "lng" : 82.5621699
+               }
+            },
+            "location" : {
+               "lat" : 28.79,
+               "lng" : 82.66
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.8670753,
+                  "lng" : 82.7667045
+               },
+               "southwest" : {
+                  "lat" : 28.713399,
+                  "lng" : 82.5621699
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ23l5UmFsvTkR4nsA5q0U6tg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

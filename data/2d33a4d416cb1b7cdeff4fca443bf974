@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gumtha",
+               "short_name" : "Gumtha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karnali",
+               "short_name" : "Karnali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gumtha, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.5160357,
+                  "lng" : 81.9235039
+               },
+               "southwest" : {
+                  "lat" : 29.4433349,
+                  "lng" : 81.8504621
+               }
+            },
+            "location" : {
+               "lat" : 29.466667,
+               "lng" : 81.88333299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.5160357,
+                  "lng" : 81.9235039
+               },
+               "southwest" : {
+                  "lat" : 29.4433349,
+                  "lng" : 81.8504621
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJKUbPFTg-ozkRmzM5ZZg2fD4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

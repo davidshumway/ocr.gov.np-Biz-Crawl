@@ -1,0 +1,191 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chapali Bhadrakali",
+               "short_name" : "Chapali Bhadrakali",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44600",
+               "short_name" : "44600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chapali Bhadrakali 44600, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7994127,
+                  "lng" : 85.38947589999999
+               },
+               "southwest" : {
+                  "lat" : 27.7637223,
+                  "lng" : 85.3623533
+               }
+            },
+            "location" : {
+               "lat" : 27.78,
+               "lng" : 85.38
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7994127,
+                  "lng" : 85.38947589999999
+               },
+               "southwest" : {
+                  "lat" : 27.7637223,
+                  "lng" : 85.3623533
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ60WwnkAc6zkRCncNBoq2abE",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bhangal",
+               "short_name" : "Bhangal",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mahankal",
+               "short_name" : "Mahankal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44600",
+               "short_name" : "44600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bhangal, Mahankal 44600, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7668172,
+                  "lng" : 85.36158089999999
+               },
+               "southwest" : {
+                  "lat" : 27.76114,
+                  "lng" : 85.35572289999999
+               }
+            },
+            "location" : {
+               "lat" : 27.7630069,
+               "lng" : 85.35819360000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7668172,
+                  "lng" : 85.36158089999999
+               },
+               "southwest" : {
+                  "lat" : 27.76114,
+                  "lng" : 85.35572289999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJhSSEFQMc6zkR9n0J9BV792o",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chapali Bus Stop",
+               "short_name" : "Chapali Bus Stop",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Budhanilkantha Road",
+               "short_name" : "Budhanilkantha Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Budhanilkantha",
+               "short_name" : "Budhanilkantha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44600",
+               "short_name" : "44600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chapali Bus Stop, Budhanilkantha Road, Budhanilkantha 44600, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.7676109,
+               "lng" : 85.3558302
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7689598802915,
+                  "lng" : 85.35717918029151
+               },
+               "southwest" : {
+                  "lat" : 27.7662619197085,
+                  "lng" : 85.3544812197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJw_26yR4c6zkRCDc2saNZUs0",
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

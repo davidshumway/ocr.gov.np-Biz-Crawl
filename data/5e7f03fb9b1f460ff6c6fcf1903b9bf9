@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nawalpur",
+               "short_name" : "Nawalpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nawalpur, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.8413149,
+                  "lng" : 85.6514311
+               },
+               "southwest" : {
+                  "lat" : 27.7829737,
+                  "lng" : 85.60061929999999
+               }
+            },
+            "location" : {
+               "lat" : 27.81,
+               "lng" : 85.63
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.8413149,
+                  "lng" : 85.6514311
+               },
+               "southwest" : {
+                  "lat" : 27.7829737,
+                  "lng" : 85.60061929999999
+               }
+            }
+         },
+         "place_id" : "ChIJlRBaUvSq6zkRzHAMiVnUaHQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

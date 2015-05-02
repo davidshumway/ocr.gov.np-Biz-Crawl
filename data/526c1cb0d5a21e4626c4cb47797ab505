@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Panauti",
+               "short_name" : "Panauti",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Panauti, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6219082,
+                  "lng" : 85.5596353
+               },
+               "southwest" : {
+                  "lat" : 27.5474888,
+                  "lng" : 85.4869581
+               }
+            },
+            "location" : {
+               "lat" : 27.583333,
+               "lng" : 85.516667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6219082,
+                  "lng" : 85.5596353
+               },
+               "southwest" : {
+                  "lat" : 27.5474888,
+                  "lng" : 85.4869581
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJVfP-rLMO6zkRq0kb0b3_duA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

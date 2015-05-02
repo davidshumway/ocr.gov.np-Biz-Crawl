@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lalbandi",
+               "short_name" : "Lalbandi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lalbandi, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.1298565,
+                  "lng" : 85.6984219
+               },
+               "southwest" : {
+                  "lat" : 27.0022291,
+                  "lng" : 85.5880746
+               }
+            },
+            "location" : {
+               "lat" : 27.058333,
+               "lng" : 85.63333299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.1298565,
+                  "lng" : 85.6984219
+               },
+               "southwest" : {
+                  "lat" : 27.0022291,
+                  "lng" : 85.5880746
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ38p4o0x-7DkR3qcKE0kNoyQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

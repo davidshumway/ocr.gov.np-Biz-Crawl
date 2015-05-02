@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rim",
+               "short_name" : "Rim",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rapti",
+               "short_name" : "Rapti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rim, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.2902488,
+                  "lng" : 82.406559
+               },
+               "southwest" : {
+                  "lat" : 28.2433036,
+                  "lng" : 82.30287539999999
+               }
+            },
+            "location" : {
+               "lat" : 28.27,
+               "lng" : 82.34999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.2902488,
+                  "lng" : 82.406559
+               },
+               "southwest" : {
+                  "lat" : 28.2433036,
+                  "lng" : 82.30287539999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJi3PULnfwlzkRaQJKgWJps3c",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gulariya",
+               "short_name" : "Gulariya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gulariya, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.2876788,
+                  "lng" : 81.38671889999999
+               },
+               "southwest" : {
+                  "lat" : 28.1309603,
+                  "lng" : 81.2810612
+               }
+            },
+            "location" : {
+               "lat" : 28.233056,
+               "lng" : 81.333056
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.2876788,
+                  "lng" : 81.38671889999999
+               },
+               "southwest" : {
+                  "lat" : 28.1309603,
+                  "lng" : 81.2810612
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJw3eogO2amDkRjGcm2LKaQvk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

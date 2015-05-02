@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gumba",
+               "short_name" : "Gumba",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gumba, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.06,
+               "lng" : 85.83
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.06134898029151,
+                  "lng" : 85.83134898029151
+               },
+               "southwest" : {
+                  "lat" : 28.0586510197085,
+                  "lng" : 85.8286510197085
+               }
+            }
+         },
+         "place_id" : "ChIJxx43kPJF6jkRQ47UdXTZxRQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

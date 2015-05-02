@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rauwahi",
+               "short_name" : "Rauwahi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44400",
+               "short_name" : "44400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rauwahi 44400, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.9732716,
+                  "lng" : 85.0343032
+               },
+               "southwest" : {
+                  "lat" : 26.9567427,
+                  "lng" : 85.012805
+               }
+            },
+            "location" : {
+               "lat" : 26.97,
+               "lng" : 85.03
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9732716,
+                  "lng" : 85.0343032
+               },
+               "southwest" : {
+                  "lat" : 26.9567427,
+                  "lng" : 85.012805
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJuxH_zp-u7DkR45DBpurgpUI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

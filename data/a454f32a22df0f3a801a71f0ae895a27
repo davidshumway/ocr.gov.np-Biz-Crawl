@@ -1,0 +1,56 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mehelkuna",
+               "short_name" : "Mehelkuna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21700",
+               "short_name" : "21700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mehelkuna 21700, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.42,
+               "lng" : 81.84999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.4213489802915,
+                  "lng" : 81.8513489802915
+               },
+               "southwest" : {
+                  "lat" : 28.41865101970849,
+                  "lng" : 81.8486510197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJj9qUflt1mDkRw2iPJn-tB2U",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

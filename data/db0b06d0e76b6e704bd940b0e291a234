@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mali",
+               "short_name" : "Mali",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45500",
+               "short_name" : "45500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mali 45500, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6752432,
+                  "lng" : 86.29996779999999
+               },
+               "southwest" : {
+                  "lat" : 27.5906101,
+                  "lng" : 86.23825549999999
+               }
+            },
+            "location" : {
+               "lat" : 27.63,
+               "lng" : 86.27
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6752432,
+                  "lng" : 86.29996779999999
+               },
+               "southwest" : {
+                  "lat" : 27.5906101,
+                  "lng" : 86.23825549999999
+               }
+            }
+         },
+         "place_id" : "ChIJ_xYWV3Bi6TkRWln46PT9P7k",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

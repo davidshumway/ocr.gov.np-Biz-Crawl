@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Banke",
+               "short_name" : "Banke",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Banke, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.3821881,
+                  "lng" : 82.2033119
+               },
+               "southwest" : {
+                  "lat" : 27.8588074,
+                  "lng" : 81.4796734
+               }
+            },
+            "location" : {
+               "lat" : 28.1460573,
+               "lng" : 81.77870209999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.3821881,
+                  "lng" : 82.2033119
+               },
+               "southwest" : {
+                  "lat" : 27.8588074,
+                  "lng" : 81.4796734
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJr_vYHABvmDkR9Y_4AkOrAA0",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

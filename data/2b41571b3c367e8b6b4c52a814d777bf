@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Galdha",
+               "short_name" : "Galdha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lumbini",
+               "short_name" : "Lumbini",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32500",
+               "short_name" : "32500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Galdha 32500, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.82845,
+                  "lng" : 83.92696389999999
+               },
+               "southwest" : {
+                  "lat" : 27.7756457,
+                  "lng" : 83.868556
+               }
+            },
+            "location" : {
+               "lat" : 27.783333,
+               "lng" : 83.91666699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.82845,
+                  "lng" : 83.92696389999999
+               },
+               "southwest" : {
+                  "lat" : 27.7756457,
+                  "lng" : 83.868556
+               }
+            }
+         },
+         "place_id" : "ChIJq5eOf9DKlTkRsQ4Fyh7LaIU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

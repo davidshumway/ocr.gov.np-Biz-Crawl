@@ -1,0 +1,65 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Maranthana",
+               "short_name" : "Maranthana",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rapti",
+               "short_name" : "Rapti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "22300",
+               "short_name" : "22300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Maranthana 22300, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.1289168,
+                  "lng" : 82.9602529
+               },
+               "southwest" : {
+                  "lat" : 28.0859901,
+                  "lng" : 82.8741646
+               }
+            },
+            "location" : {
+               "lat" : 28.11,
+               "lng" : 82.91
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.1289168,
+                  "lng" : 82.9602529
+               },
+               "southwest" : {
+                  "lat" : 28.0859901,
+                  "lng" : 82.8741646
+               }
+            }
+         },
+         "place_id" : "ChIJqyuJQKhKljkRNr4i8dLkLak",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

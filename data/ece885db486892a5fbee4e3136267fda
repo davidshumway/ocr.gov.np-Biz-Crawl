@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saurpani",
+               "short_name" : "Saurpani",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gandaki",
+               "short_name" : "Gandaki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saurpani, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.14,
+               "lng" : 84.72
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.1413489802915,
+                  "lng" : 84.72134898029151
+               },
+               "southwest" : {
+                  "lat" : 28.1386510197085,
+                  "lng" : 84.71865101970849
+               }
+            }
+         },
+         "place_id" : "ChIJ2RS3oxo5lTkRdRlv4Vhhq9Y",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kalyanpur",
+               "short_name" : "Kalyanpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44900",
+               "short_name" : "44900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kalyanpur 44900, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.9671143,
+                  "lng" : 85.1361895
+               },
+               "southwest" : {
+                  "lat" : 27.9198003,
+                  "lng" : 85.06525049999999
+               }
+            },
+            "location" : {
+               "lat" : 27.9375883,
+               "lng" : 85.1012477
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.9671143,
+                  "lng" : 85.1361895
+               },
+               "southwest" : {
+                  "lat" : 27.9198003,
+                  "lng" : 85.06525049999999
+               }
+            }
+         },
+         "place_id" : "ChIJhfk8g6_Q6jkRl2UftbUK7FU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

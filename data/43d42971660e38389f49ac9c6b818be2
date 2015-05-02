@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thapapur",
+               "short_name" : "Thapapur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seti",
+               "short_name" : "Seti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10901",
+               "short_name" : "10901",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Thapapur 10901, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.5426082,
+                  "lng" : 81.0469579
+               },
+               "southwest" : {
+                  "lat" : 28.4554863,
+                  "lng" : 80.9836578
+               }
+            },
+            "location" : {
+               "lat" : 28.5,
+               "lng" : 81.02
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5426082,
+                  "lng" : 81.0469579
+               },
+               "southwest" : {
+                  "lat" : 28.4554863,
+                  "lng" : 80.9836578
+               }
+            }
+         },
+         "place_id" : "ChIJ7_0m-BAPojkR37vqx71MKqQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

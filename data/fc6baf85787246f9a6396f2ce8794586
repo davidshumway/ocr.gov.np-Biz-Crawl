@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Maidi",
+               "short_name" : "Maidi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Maidi, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.9276116,
+                  "lng" : 84.8299026
+               },
+               "southwest" : {
+                  "lat" : 27.857138,
+                  "lng" : 84.7360039
+               }
+            },
+            "location" : {
+               "lat" : 27.9,
+               "lng" : 84.78999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.9276116,
+                  "lng" : 84.8299026
+               },
+               "southwest" : {
+                  "lat" : 27.857138,
+                  "lng" : 84.7360039
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJOXB9wpkolTkRgz9192P-uWI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

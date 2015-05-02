@@ -1,0 +1,70 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shree Nepal Rastriya Higher Sec .School,Piparpati,Pachrauta,Bara ,Nepal",
+               "short_name" : "Shree Nepal Rastriya Higher Sec .School,Piparpati,Pachrauta,Bara ,Nepal",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Piparpati Parchrouwa",
+               "short_name" : "Piparpati Parchrouwa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44400",
+               "short_name" : "44400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Shree Nepal Rastriya Higher Sec .School,Piparpati,Pachrauta,Bara ,Nepal, Piparpati Parchrouwa 44400, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.8676307,
+                  "lng" : 85.0767249
+               },
+               "southwest" : {
+                  "lat" : 26.8664773,
+                  "lng" : 85.0755394
+               }
+            },
+            "location" : {
+               "lat" : 26.867054,
+               "lng" : 85.0761321
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8684029802915,
+                  "lng" : 85.0774811302915
+               },
+               "southwest" : {
+                  "lat" : 26.8657050197085,
+                  "lng" : 85.0747831697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJdZi-eUWw7DkRUnZCNkY1DJM",
+         "types" : [ "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

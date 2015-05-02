@@ -1,0 +1,116 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kurgha Parbat",
+               "short_name" : "Kurgha Parbat",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dhawalagiri",
+               "short_name" : "Dhawalagiri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33400",
+               "short_name" : "33400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kurgha Parbat 33400, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.1477436,
+                  "lng" : 83.65410799999999
+               },
+               "southwest" : {
+                  "lat" : 28.1362019,
+                  "lng" : 83.6388517
+               }
+            },
+            "location" : {
+               "lat" : 28.1420353,
+               "lng" : 83.64415319999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.1477436,
+                  "lng" : 83.65410799999999
+               },
+               "southwest" : {
+                  "lat" : 28.1362019,
+                  "lng" : 83.6388517
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJteJ3kC_elTkRQ0ejdkuuHQ4",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kurgha",
+               "short_name" : "Kurgha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dhawalagiri",
+               "short_name" : "Dhawalagiri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33400",
+               "short_name" : "33400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kurgha 33400, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.13,
+               "lng" : 83.66
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.1313489802915,
+                  "lng" : 83.66134898029151
+               },
+               "southwest" : {
+                  "lat" : 28.1286510197085,
+                  "lng" : 83.6586510197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJUyckyhTelTkROexQyMeRVJ8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dhaulagiri",
+               "short_name" : "Dhaulagiri",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Mudi",
+               "short_name" : "Mudi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dhawalagiri",
+               "short_name" : "Dhawalagiri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33200",
+               "short_name" : "33200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dhaulagiri, Mudi 33200, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.6984652,
+               "lng" : 83.4873496
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6998141802915,
+                  "lng" : 83.4886985802915
+               },
+               "southwest" : {
+                  "lat" : 28.6971162197085,
+                  "lng" : 83.48600061970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJDZtku1P7vTkRO3Ho_tKROcQ",
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

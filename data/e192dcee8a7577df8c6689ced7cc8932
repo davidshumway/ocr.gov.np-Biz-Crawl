@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Amlekhganj Bus Stop",
+               "short_name" : "Amlekhganj Bus Stop",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "East-West Highway",
+               "short_name" : "H01",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Amlekhganj",
+               "short_name" : "Amlekhganj",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44400",
+               "short_name" : "44400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Amlekhganj Bus Stop, East-West Highway, Amlekhganj 44400, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.275315,
+               "lng" : 84.98972479999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.2766639802915,
+                  "lng" : 84.9910737802915
+               },
+               "southwest" : {
+                  "lat" : 27.2739660197085,
+                  "lng" : 84.98837581970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJF07-VIZN6zkRgrS1XUtG-t8",
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

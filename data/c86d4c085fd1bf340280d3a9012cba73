@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sirpa",
+               "short_name" : "Sirpa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rapti",
+               "short_name" : "Rapti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sirpa, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.2667408,
+                  "lng" : 82.8525782
+               },
+               "southwest" : {
+                  "lat" : 28.1862766,
+                  "lng" : 82.7758884
+               }
+            },
+            "location" : {
+               "lat" : 28.23,
+               "lng" : 82.82000000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.2667408,
+                  "lng" : 82.8525782
+               },
+               "southwest" : {
+                  "lat" : 28.1862766,
+                  "lng" : 82.7758884
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJNc6HN57OlzkRWUFPru3qYf4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

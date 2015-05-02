@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sonama",
+               "short_name" : "Sonama",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45700",
+               "short_name" : "45700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sonama 45700, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.8816867,
+                  "lng" : 85.7662873
+               },
+               "southwest" : {
+                  "lat" : 26.8336184,
+                  "lng" : 85.7312335
+               }
+            },
+            "location" : {
+               "lat" : 26.86,
+               "lng" : 85.75
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8816867,
+                  "lng" : 85.7662873
+               },
+               "southwest" : {
+                  "lat" : 26.8336184,
+                  "lng" : 85.7312335
+               }
+            }
+         },
+         "place_id" : "ChIJv_tiprtl7DkRGi2fdQ0WZw0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

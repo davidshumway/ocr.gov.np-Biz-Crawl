@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chitwan National Park",
+               "short_name" : "Chitwan National Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chitwan National Park, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6997027,
+                  "lng" : 84.9727676
+               },
+               "southwest" : {
+                  "lat" : 27.2292048,
+                  "lng" : 83.8823745
+               }
+            },
+            "location" : {
+               "lat" : 27.5,
+               "lng" : 84.66669999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6997027,
+                  "lng" : 84.9727676
+               },
+               "southwest" : {
+                  "lat" : 27.2292048,
+                  "lng" : 83.8823745
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJQ99ydzOwlDkRF6JjXT1goa8",
+         "types" : [ "natural_feature", "park", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

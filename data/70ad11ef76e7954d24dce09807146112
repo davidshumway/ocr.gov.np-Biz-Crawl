@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kohalpur",
+               "short_name" : "Kohalpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kohalpur, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.3149596,
+                  "lng" : 81.82737349999999
+               },
+               "southwest" : {
+                  "lat" : 28.120136,
+                  "lng" : 81.6309071
+               }
+            },
+            "location" : {
+               "lat" : 28.2,
+               "lng" : 81.68333299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.3149596,
+                  "lng" : 81.82737349999999
+               },
+               "southwest" : {
+                  "lat" : 28.120136,
+                  "lng" : 81.6309071
+               }
+            }
+         },
+         "place_id" : "ChIJXW6bIxBlmDkRMncoKZxDxpE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

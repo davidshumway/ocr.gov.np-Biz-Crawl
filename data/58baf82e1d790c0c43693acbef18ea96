@@ -1,0 +1,66 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Khumel",
+               "short_name" : "Khumel",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Rapti",
+               "short_name" : "Rapti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "22100",
+               "short_name" : "22100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Khumel, 22100, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.2891904,
+                  "lng" : 82.72507660000001
+               },
+               "southwest" : {
+                  "lat" : 28.243606,
+                  "lng" : 82.6165867
+               }
+            },
+            "location" : {
+               "lat" : 28.26,
+               "lng" : 82.66
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.2891904,
+                  "lng" : 82.72507660000001
+               },
+               "southwest" : {
+                  "lat" : 28.243606,
+                  "lng" : 82.6165867
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJIchkWr7ElzkR1-yCo9HvzsM",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

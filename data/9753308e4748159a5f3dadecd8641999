@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sarmujawa",
+               "short_name" : "Sarmujawa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sarmujawa, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.9030594,
+                  "lng" : 85.2026935
+               },
+               "southwest" : {
+                  "lat" : 26.8662954,
+                  "lng" : 85.1631819
+               }
+            },
+            "location" : {
+               "lat" : 26.88,
+               "lng" : 85.19
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9030594,
+                  "lng" : 85.2026935
+               },
+               "southwest" : {
+                  "lat" : 26.8662954,
+                  "lng" : 85.1631819
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJe9tNZl677DkReUmCEd7qn8g",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

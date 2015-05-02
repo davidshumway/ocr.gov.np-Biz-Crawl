@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dodhara",
+               "short_name" : "Dodhara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mahakali",
+               "short_name" : "Mahakali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dodhara, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.896724,
+                  "lng" : 80.10513779999999
+               },
+               "southwest" : {
+                  "lat" : 28.8239966,
+                  "lng" : 80.054412
+               }
+            },
+            "location" : {
+               "lat" : 28.86,
+               "lng" : 80.08000000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.896724,
+                  "lng" : 80.10513779999999
+               },
+               "southwest" : {
+                  "lat" : 28.8239966,
+                  "lng" : 80.054412
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ1Ys4mV5NoDkRIRU75VJcBCE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

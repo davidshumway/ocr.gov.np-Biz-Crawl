@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bhandara",
+               "short_name" : "Bhandara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44202",
+               "short_name" : "44202",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bhandara 44200, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6362697,
+                  "lng" : 84.6700618
+               },
+               "southwest" : {
+                  "lat" : 27.5710201,
+                  "lng" : 84.61065889999999
+               }
+            },
+            "location" : {
+               "lat" : 27.6,
+               "lng" : 84.64999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6362697,
+                  "lng" : 84.6700618
+               },
+               "southwest" : {
+                  "lat" : 27.5710201,
+                  "lng" : 84.61065889999999
+               }
+            }
+         },
+         "place_id" : "ChIJp0ZKfsHClDkRdejA3Hbz86M",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

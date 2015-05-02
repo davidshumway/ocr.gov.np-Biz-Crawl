@@ -1,0 +1,66 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saraswati Higher Secondary School Pipara Bhalohiya, Rautahat, Nepal",
+               "short_name" : "Saraswati Higher Secondary School Pipara Bhalohiya, Rautahat, Nepal",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Samanpur-Gaur Road",
+               "short_name" : "Samanpur-Gaur Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gangapipara",
+               "short_name" : "Gangapipara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44500",
+               "short_name" : "44500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Saraswati Higher Secondary School Pipara Bhalohiya, Rautahat, Nepal, Samanpur-Gaur Road, Gangapipara 44500, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8454771,
+               "lng" : 85.3300273
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8468260802915,
+                  "lng" : 85.33137628029151
+               },
+               "southwest" : {
+                  "lat" : 26.8441281197085,
+                  "lng" : 85.32867831970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ3yrgO-mW7DkR33qflVrVPfI",
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

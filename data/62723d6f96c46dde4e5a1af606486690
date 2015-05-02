@@ -1,0 +1,65 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lekhani",
+               "short_name" : "Lekhani",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dhawalagiri",
+               "short_name" : "Dhawalagiri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33300",
+               "short_name" : "33300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lekhani 33300, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.2511291,
+                  "lng" : 83.522358
+               },
+               "southwest" : {
+                  "lat" : 28.2018978,
+                  "lng" : 83.49480629999999
+               }
+            },
+            "location" : {
+               "lat" : 28.2217695,
+               "lng" : 83.5123514
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.2511291,
+                  "lng" : 83.522358
+               },
+               "southwest" : {
+                  "lat" : 28.2018978,
+                  "lng" : 83.49480629999999
+               }
+            }
+         },
+         "place_id" : "ChIJX978jfcLljkRsGGGWrNmjdk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

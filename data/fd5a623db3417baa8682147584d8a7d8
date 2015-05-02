@@ -1,0 +1,56 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chandani",
+               "short_name" : "Chandani",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mahakali",
+               "short_name" : "Mahakali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10400",
+               "short_name" : "10400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chandani 10400, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.93,
+               "lng" : 80.09
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.9313489802915,
+                  "lng" : 80.09134898029151
+               },
+               "southwest" : {
+                  "lat" : 28.9286510197085,
+                  "lng" : 80.08865101970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJC23j1DZToDkRL3jWLC14lRM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

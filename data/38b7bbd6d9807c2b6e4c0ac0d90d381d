@@ -1,0 +1,141 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Siva Mandir, Simikot Humla",
+               "short_name" : "Siva Mandir, Simikot Humla",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Mandir Maarga",
+               "short_name" : "Mandir Maarga",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Simikot",
+               "short_name" : "Simikot",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karnali",
+               "short_name" : "Karnali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21000",
+               "short_name" : "21000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Siva Mandir, Simikot Humla, Mandir Maarga, Simikot 21000, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.9661433,
+               "lng" : 81.8272381
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.96749228029149,
+                  "lng" : 81.82858708029151
+               },
+               "southwest" : {
+                  "lat" : 29.9647943197085,
+                  "lng" : 81.82588911970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ9QOsfByfpDkR-t5MMX0NuUc",
+         "types" : [
+            "point_of_interest",
+            "hindu_temple",
+            "place_of_worship",
+            "establishment"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Humla District Hospital",
+               "short_name" : "Humla District Hospital",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Simikot",
+               "short_name" : "Simikot",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Simikot",
+               "short_name" : "Simikot",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karnali",
+               "short_name" : "Karnali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21000",
+               "short_name" : "21000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Humla District Hospital, Simikot 21000, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.96785,
+                  "lng" : 81.8218535
+               },
+               "southwest" : {
+                  "lat" : 29.9664814,
+                  "lng" : 81.81991429999999
+               }
+            },
+            "location" : {
+               "lat" : 29.9671657,
+               "lng" : 81.8208839
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.9685146802915,
+                  "lng" : 81.82223288029151
+               },
+               "southwest" : {
+                  "lat" : 29.9658167197085,
+                  "lng" : 81.81953491970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJq7LgPeKepDkRtc1VyPfpyeo",
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

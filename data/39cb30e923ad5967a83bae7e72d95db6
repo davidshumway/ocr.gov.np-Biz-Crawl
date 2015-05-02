@@ -1,0 +1,66 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kusma",
+               "short_name" : "Kusma",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lumbini",
+               "short_name" : "Lumbini",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33007",
+               "short_name" : "33007",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kusma 33007, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.4922074,
+                  "lng" : 83.7040614
+               },
+               "southwest" : {
+                  "lat" : 27.4527607,
+                  "lng" : 83.6684418
+               }
+            },
+            "location" : {
+               "lat" : 27.48,
+               "lng" : 83.69
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.4922074,
+                  "lng" : 83.7040614
+               },
+               "southwest" : {
+                  "lat" : 27.4527607,
+                  "lng" : 83.6684418
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJVyQ0-twjlDkRCNiNx72u300",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

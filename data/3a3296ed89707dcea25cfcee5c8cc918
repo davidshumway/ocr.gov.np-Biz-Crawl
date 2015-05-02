@@ -1,0 +1,114 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Narayan Municipality",
+               "short_name" : "Narayan Municipality",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21600",
+               "short_name" : "21600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Narayan Municipality 21600, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.915884,
+                  "lng" : 81.77493109999999
+               },
+               "southwest" : {
+                  "lat" : 28.8010778,
+                  "lng" : 81.6752386
+               }
+            },
+            "location" : {
+               "lat" : 28.845278,
+               "lng" : 81.71388900000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.915884,
+                  "lng" : 81.77493109999999
+               },
+               "southwest" : {
+                  "lat" : 28.8010778,
+                  "lng" : 81.6752386
+               }
+            }
+         },
+         "place_id" : "ChIJ_YZZ36PtojkRdyLznFA-PHI",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dailekh",
+               "short_name" : "Dailekh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21600",
+               "short_name" : "21600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dailekh 21600, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.837761,
+               "lng" : 81.707977
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.8391099802915,
+                  "lng" : 81.7093259802915
+               },
+               "southwest" : {
+                  "lat" : 28.8364120197085,
+                  "lng" : 81.70662801970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJX-_2A57tojkRaYP4XXMXIm4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

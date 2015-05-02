@@ -1,0 +1,55 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jukot",
+               "short_name" : "Jukot",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seti",
+               "short_name" : "Seti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10600",
+               "short_name" : "10600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jukot 10600, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.45,
+               "lng" : 81.766667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.4513489802915,
+                  "lng" : 81.76801598029151
+               },
+               "southwest" : {
+                  "lat" : 29.4486510197085,
+                  "lng" : 81.7653180197085
+               }
+            }
+         },
+         "place_id" : "ChIJpzIj3-QTozkR11Ohbj0X3YE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

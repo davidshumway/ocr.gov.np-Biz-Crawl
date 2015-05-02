@@ -1,0 +1,55 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gurja",
+               "short_name" : "Gurja",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dhawalagiri",
+               "short_name" : "Dhawalagiri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33200",
+               "short_name" : "33200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gurja 33200, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.6,
+               "lng" : 83.233333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6013489802915,
+                  "lng" : 83.2346819802915
+               },
+               "southwest" : {
+                  "lat" : 28.5986510197085,
+                  "lng" : 83.23198401970849
+               }
+            }
+         },
+         "place_id" : "ChIJQcAt3aCMvTkRCHEZcbinaoo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

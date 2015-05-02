@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Malunga",
+               "short_name" : "Malunga",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gandaki",
+               "short_name" : "Gandaki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Malunga, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.9341332,
+                  "lng" : 83.6659957
+               },
+               "southwest" : {
+                  "lat" : 27.8992835,
+                  "lng" : 83.62170709999999
+               }
+            },
+            "location" : {
+               "lat" : 27.916667,
+               "lng" : 83.64999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.9341332,
+                  "lng" : 83.6659957
+               },
+               "southwest" : {
+                  "lat" : 27.8992835,
+                  "lng" : 83.62170709999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJZ_xqMgLXlTkReiSZs6LefKY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

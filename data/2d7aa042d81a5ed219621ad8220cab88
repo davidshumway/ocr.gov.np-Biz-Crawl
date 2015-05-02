@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Raipur",
+               "short_name" : "Raipur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Raipur",
+               "short_name" : "Raipur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chhattisgarh",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Raipur, Chhattisgarh, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 21.3341527,
+                  "lng" : 81.698915
+               },
+               "southwest" : {
+                  "lat" : 21.1896584,
+                  "lng" : 81.53923159999999
+               }
+            },
+            "location" : {
+               "lat" : 21.2513844,
+               "lng" : 81.62964130000002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.3341527,
+                  "lng" : 81.698915
+               },
+               "southwest" : {
+                  "lat" : 21.1896584,
+                  "lng" : 81.53923159999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJKYLiO6LdKDoRQOL5TyDhPhY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

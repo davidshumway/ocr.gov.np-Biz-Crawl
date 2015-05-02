@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mankha",
+               "short_name" : "Mankha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mankha, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7923895,
+                  "lng" : 85.87583529999999
+               },
+               "southwest" : {
+                  "lat" : 27.7512279,
+                  "lng" : 85.80837249999999
+               }
+            },
+            "location" : {
+               "lat" : 27.77,
+               "lng" : 85.83999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7923895,
+                  "lng" : 85.87583529999999
+               },
+               "southwest" : {
+                  "lat" : 27.7512279,
+                  "lng" : 85.80837249999999
+               }
+            }
+         },
+         "place_id" : "ChIJm4GznAC06zkRfK6Pn1VPH40",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

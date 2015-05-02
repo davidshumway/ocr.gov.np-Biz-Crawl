@@ -1,0 +1,60 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Badimalika",
+               "short_name" : "Badimalika",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seti",
+               "short_name" : "Seti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Badimalika, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.5340347,
+                  "lng" : 81.5921975
+               },
+               "southwest" : {
+                  "lat" : 29.3460452,
+                  "lng" : 81.382513
+               }
+            },
+            "location" : {
+               "lat" : 29.4473491,
+               "lng" : 81.49379929999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.5340347,
+                  "lng" : 81.5921975
+               },
+               "southwest" : {
+                  "lat" : 29.3460452,
+                  "lng" : 81.382513
+               }
+            }
+         },
+         "place_id" : "ChIJa2_QwbegozkRu7-S1JCkAI4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

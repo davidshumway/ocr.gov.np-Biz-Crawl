@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gairimudi",
+               "short_name" : "Gairimudi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gairimudi, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.623049,
+                  "lng" : 86.15982769999999
+               },
+               "southwest" : {
+                  "lat" : 27.5744821,
+                  "lng" : 86.07526299999999
+               }
+            },
+            "location" : {
+               "lat" : 27.6,
+               "lng" : 86.11999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.623049,
+                  "lng" : 86.15982769999999
+               },
+               "southwest" : {
+                  "lat" : 27.5744821,
+                  "lng" : 86.07526299999999
+               }
+            }
+         },
+         "place_id" : "ChIJISp0W2bb6zkR21L2OUni-uE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

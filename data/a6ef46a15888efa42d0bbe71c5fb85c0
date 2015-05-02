@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Auraiya",
+               "short_name" : "Auraiya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Auraiya, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.7902131,
+                  "lng" : 85.24010229999999
+               },
+               "southwest" : {
+                  "lat" : 26.7580698,
+                  "lng" : 85.21005749999999
+               }
+            },
+            "location" : {
+               "lat" : 26.78,
+               "lng" : 85.22999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.7902131,
+                  "lng" : 85.24010229999999
+               },
+               "southwest" : {
+                  "lat" : 26.7580698,
+                  "lng" : 85.21005749999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ-_TIjPm-7DkRcYPS_AiW0ck",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

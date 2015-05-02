@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Haripur",
+               "short_name" : "Haripur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Haripur, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.0423721,
+                  "lng" : 85.5961533
+               },
+               "southwest" : {
+                  "lat" : 27.0055866,
+                  "lng" : 85.54879099999999
+               }
+            },
+            "location" : {
+               "lat" : 27.033333,
+               "lng" : 85.583333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.0423721,
+                  "lng" : 85.5961533
+               },
+               "southwest" : {
+                  "lat" : 27.0055866,
+                  "lng" : 85.54879099999999
+               }
+            }
+         },
+         "place_id" : "ChIJlf8nZ8aA7DkRFdaj9sLzkbM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

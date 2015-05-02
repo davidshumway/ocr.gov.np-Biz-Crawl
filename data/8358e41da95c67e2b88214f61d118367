@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Salija",
+               "short_name" : "Salija",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dhawalagiri",
+               "short_name" : "Dhawalagiri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Salija, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.360143,
+                  "lng" : 83.6638445
+               },
+               "southwest" : {
+                  "lat" : 28.3136186,
+                  "lng" : 83.6100608
+               }
+            },
+            "location" : {
+               "lat" : 28.34,
+               "lng" : 83.64
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.360143,
+                  "lng" : 83.6638445
+               },
+               "southwest" : {
+                  "lat" : 28.3136186,
+                  "lng" : 83.6100608
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJl5nsSCvjlTkRxMbLblMoa1E",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

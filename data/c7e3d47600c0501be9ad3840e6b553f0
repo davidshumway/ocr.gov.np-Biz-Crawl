@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jiri",
+               "short_name" : "Jiri",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45500",
+               "short_name" : "45500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jiri 45500, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6744072,
+                  "lng" : 86.29889489999999
+               },
+               "southwest" : {
+                  "lat" : 27.561928,
+                  "lng" : 86.15066519999999
+               }
+            },
+            "location" : {
+               "lat" : 27.633333,
+               "lng" : 86.233333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6744072,
+                  "lng" : 86.29889489999999
+               },
+               "southwest" : {
+                  "lat" : 27.561928,
+                  "lng" : 86.15066519999999
+               }
+            }
+         },
+         "place_id" : "ChIJ-0k1wvfY6zkRWEihMi82hgw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

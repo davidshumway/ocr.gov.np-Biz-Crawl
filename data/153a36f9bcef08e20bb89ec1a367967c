@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hapur",
+               "short_name" : "Hapur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rapti",
+               "short_name" : "Rapti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hapur, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.1544979,
+                  "lng" : 82.4956512
+               },
+               "southwest" : {
+                  "lat" : 28.0562267,
+                  "lng" : 82.3793077
+               }
+            },
+            "location" : {
+               "lat" : 28.11,
+               "lng" : 82.44
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.1544979,
+                  "lng" : 82.4956512
+               },
+               "southwest" : {
+                  "lat" : 28.0562267,
+                  "lng" : 82.3793077
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJE3eRNdrslzkRQUv6bAqY2oA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

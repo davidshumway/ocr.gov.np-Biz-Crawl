@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aurahi",
+               "short_name" : "Aurahi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45700",
+               "short_name" : "45700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Aurahi 45700, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.9091502,
+                  "lng" : 85.84257869999999
+               },
+               "southwest" : {
+                  "lat" : 26.8716491,
+                  "lng" : 85.79448549999999
+               }
+            },
+            "location" : {
+               "lat" : 26.9,
+               "lng" : 85.833333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9091502,
+                  "lng" : 85.84257869999999
+               },
+               "southwest" : {
+                  "lat" : 26.8716491,
+                  "lng" : 85.79448549999999
+               }
+            }
+         },
+         "place_id" : "ChIJW1eyDkVu7DkRjXvKdC_aVrk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

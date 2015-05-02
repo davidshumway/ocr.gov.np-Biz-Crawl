@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Madhyapur Thimi",
+               "short_name" : "Madhyapur Thimi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Madhyapur Thimi, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7026262,
+                  "lng" : 85.4057662
+               },
+               "southwest" : {
+                  "lat" : 27.6677036,
+                  "lng" : 85.35207899999999
+               }
+            },
+            "location" : {
+               "lat" : 27.68,
+               "lng" : 85.386
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7026262,
+                  "lng" : 85.4057662
+               },
+               "southwest" : {
+                  "lat" : 27.6677036,
+                  "lng" : 85.35207899999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJZ6qAn0Ea6zkRXzEIFYS4iig",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

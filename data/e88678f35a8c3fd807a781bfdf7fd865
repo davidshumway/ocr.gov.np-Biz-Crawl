@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bhairabsthan",
+               "short_name" : "Bhairabsthan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lumbini",
+               "short_name" : "Lumbini",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32500",
+               "short_name" : "32500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bhairabsthan 32500, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.8826275,
+                  "lng" : 83.49347059999999
+               },
+               "southwest" : {
+                  "lat" : 27.8217014,
+                  "lng" : 83.4616113
+               }
+            },
+            "location" : {
+               "lat" : 27.85,
+               "lng" : 83.48333300000002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.8826275,
+                  "lng" : 83.49347059999999
+               },
+               "southwest" : {
+                  "lat" : 27.8217014,
+                  "lng" : 83.4616113
+               }
+            }
+         },
+         "place_id" : "ChIJL7o6AIZ7ljkRHSWTfSrxFvA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,118 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gamhariya",
+               "short_name" : "Gamhariya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gamhariya, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.9456765,
+                  "lng" : 85.3940839
+               },
+               "southwest" : {
+                  "lat" : 26.9050386,
+                  "lng" : 85.355806
+               }
+            },
+            "location" : {
+               "lat" : 26.93,
+               "lng" : 85.38
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9456765,
+                  "lng" : 85.3940839
+               },
+               "southwest" : {
+                  "lat" : 26.9050386,
+                  "lng" : 85.355806
+               }
+            }
+         },
+         "place_id" : "ChIJIbTxohOa7DkR2J5Pkun1eDY",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gamhariya",
+               "short_name" : "Gamhariya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44300",
+               "short_name" : "44300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gamhariya 44300, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.0927952,
+                  "lng" : 84.8438032
+               },
+               "southwest" : {
+                  "lat" : 27.0785326,
+                  "lng" : 84.825288
+               }
+            },
+            "location" : {
+               "lat" : 27.09,
+               "lng" : 84.83999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.0927952,
+                  "lng" : 84.8438032
+               },
+               "southwest" : {
+                  "lat" : 27.0785326,
+                  "lng" : 84.825288
+               }
+            }
+         },
+         "place_id" : "ChIJQ8BMQueplDkRsxPyERwZGzw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

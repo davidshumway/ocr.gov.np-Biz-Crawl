@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Syama",
+               "short_name" : "Syama",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45500",
+               "short_name" : "45500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Syama 45500, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.7,
+               "lng" : 86.33999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7013489802915,
+                  "lng" : 86.34134898029149
+               },
+               "southwest" : {
+                  "lat" : 27.6986510197085,
+                  "lng" : 86.33865101970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ1zLxnFd76TkR5-EkE5xwDDg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fulbari",
+               "short_name" : "Fulbari",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44200",
+               "short_name" : "44200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Fulbari 44200, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6560107,
+                  "lng" : 84.38075069999999
+               },
+               "southwest" : {
+                  "lat" : 27.6254445,
+                  "lng" : 84.3454742
+               }
+            },
+            "location" : {
+               "lat" : 27.64,
+               "lng" : 84.36999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6560107,
+                  "lng" : 84.38075069999999
+               },
+               "southwest" : {
+                  "lat" : 27.6254445,
+                  "lng" : 84.3454742
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJqdZDaBn6lDkRuTZy5p6tXFc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

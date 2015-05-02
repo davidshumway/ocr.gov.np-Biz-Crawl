@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ladabhir",
+               "short_name" : "Ladabhir",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45900",
+               "short_name" : "45900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ladabhir 45900, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.983333,
+               "lng" : 86.316667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9846819802915,
+                  "lng" : 86.31801598029151
+               },
+               "southwest" : {
+                  "lat" : 26.9819840197085,
+                  "lng" : 86.3153180197085
+               }
+            }
+         },
+         "place_id" : "ChIJ4aKNEeCo7jkR8GZodGvD-Ys",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

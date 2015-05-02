@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gelu",
+               "short_name" : "Gelu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45400",
+               "short_name" : "45400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gelu 45400, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.4825375,
+                  "lng" : 86.11521710000001
+               },
+               "southwest" : {
+                  "lat" : 27.4148239,
+                  "lng" : 86.0543203
+               }
+            },
+            "location" : {
+               "lat" : 27.45,
+               "lng" : 86.08
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.4825375,
+                  "lng" : 86.11521710000001
+               },
+               "southwest" : {
+                  "lat" : 27.4148239,
+                  "lng" : 86.0543203
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJZwcQjFfo6zkRyrkmRlGhqbc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

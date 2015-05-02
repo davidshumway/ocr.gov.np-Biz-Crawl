@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Prasauna",
+               "short_name" : "Prasauna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44400",
+               "short_name" : "44400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Prasauna 44400, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.0994095,
+                  "lng" : 85.1374488
+               },
+               "southwest" : {
+                  "lat" : 27.0712007,
+                  "lng" : 85.1019055
+               }
+            },
+            "location" : {
+               "lat" : 27.0864894,
+               "lng" : 85.12978439999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.0994095,
+                  "lng" : 85.1374488
+               },
+               "southwest" : {
+                  "lat" : 27.0712007,
+                  "lng" : 85.1019055
+               }
+            }
+         },
+         "place_id" : "ChIJS0LT8_On7DkRDcXd3pbHbWc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

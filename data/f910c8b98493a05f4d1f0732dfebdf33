@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gumdel",
+               "short_name" : "Gumdel",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45400",
+               "short_name" : "45400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gumdel 45400, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.71,
+               "lng" : 86.47999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7113489802915,
+                  "lng" : 86.4813489802915
+               },
+               "southwest" : {
+                  "lat" : 27.70865101970849,
+                  "lng" : 86.47865101970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJS4H1-elx6TkRcQOTkh71tgE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

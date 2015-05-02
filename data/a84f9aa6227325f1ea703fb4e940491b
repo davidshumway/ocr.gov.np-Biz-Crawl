@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thaiba",
+               "short_name" : "Thaiba",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Thaiba, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6330109,
+                  "lng" : 85.359714
+               },
+               "southwest" : {
+                  "lat" : 27.61128,
+                  "lng" : 85.33954369999999
+               }
+            },
+            "location" : {
+               "lat" : 27.62,
+               "lng" : 85.34999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6330109,
+                  "lng" : 85.359714
+               },
+               "southwest" : {
+                  "lat" : 27.61128,
+                  "lng" : 85.33954369999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJZ3GzeS4X6zkRM-6ksBEsoUU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

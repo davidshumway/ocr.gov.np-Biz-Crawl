@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thori",
+               "short_name" : "Thori",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Thori, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.3938193,
+                  "lng" : 84.706124
+               },
+               "southwest" : {
+                  "lat" : 27.3207433,
+                  "lng" : 84.4837972
+               }
+            },
+            "location" : {
+               "lat" : 27.36,
+               "lng" : 84.58999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.3938193,
+                  "lng" : 84.706124
+               },
+               "southwest" : {
+                  "lat" : 27.3207433,
+                  "lng" : 84.4837972
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJJ8M9vPyVlDkRsVfOSNOiTtc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

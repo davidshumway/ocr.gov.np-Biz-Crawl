@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Joshipur",
+               "short_name" : "Joshipur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seti",
+               "short_name" : "Seti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Joshipur, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.624196,
+                  "lng" : 81.0566139
+               },
+               "southwest" : {
+                  "lat" : 28.5138773,
+                  "lng" : 80.984645
+               }
+            },
+            "location" : {
+               "lat" : 28.55,
+               "lng" : 81.00999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.624196,
+                  "lng" : 81.0566139
+               },
+               "southwest" : {
+                  "lat" : 28.5138773,
+                  "lng" : 80.984645
+               }
+            }
+         },
+         "place_id" : "ChIJmZYLMicQojkRLdhY3MmIRtg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lumle",
+               "short_name" : "Lumle",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gandaki",
+               "short_name" : "Gandaki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lumle, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.4669559,
+                  "lng" : 83.89838220000001
+               },
+               "southwest" : {
+                  "lat" : 28.2930165,
+                  "lng" : 83.76813419999999
+               }
+            },
+            "location" : {
+               "lat" : 28.35,
+               "lng" : 83.83
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.4669559,
+                  "lng" : 83.89838220000001
+               },
+               "southwest" : {
+                  "lat" : 28.2930165,
+                  "lng" : 83.76813419999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJn6aI75DxlTkRpptOTDxDQlE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

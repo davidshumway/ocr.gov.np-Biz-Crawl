@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gurukhola",
+               "short_name" : "Gurukhola",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mahakali",
+               "short_name" : "Mahakali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10200",
+               "short_name" : "10200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gurukhola 10200, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.5233925,
+                  "lng" : 80.51523689999999
+               },
+               "southwest" : {
+                  "lat" : 29.4924678,
+                  "lng" : 80.4770207
+               }
+            },
+            "location" : {
+               "lat" : 29.52,
+               "lng" : 80.48999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.5233925,
+                  "lng" : 80.51523689999999
+               },
+               "southwest" : {
+                  "lat" : 29.4924678,
+                  "lng" : 80.4770207
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJv1RlGeNAoTkRLEGTO9jDSPY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Paterwa",
+               "short_name" : "Paterwa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Paterwa, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.8137192,
+                  "lng" : 86.1497828
+               },
+               "southwest" : {
+                  "lat" : 26.7776709,
+                  "lng" : 86.1000909
+               }
+            },
+            "location" : {
+               "lat" : 26.8,
+               "lng" : 86.11999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8137192,
+                  "lng" : 86.1497828
+               },
+               "southwest" : {
+                  "lat" : 26.7776709,
+                  "lng" : 86.1000909
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJw_g5v60Z7DkRYOmU438ucS8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

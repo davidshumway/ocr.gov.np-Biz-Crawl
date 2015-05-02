@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sisahaniya",
+               "short_name" : "Sisahaniya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44400",
+               "short_name" : "44400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sisahaniya 44400, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.0295675,
+                  "lng" : 84.9908085
+               },
+               "southwest" : {
+                  "lat" : 26.989303,
+                  "lng" : 84.96558880000001
+               }
+            },
+            "location" : {
+               "lat" : 27,
+               "lng" : 84.97999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.0295675,
+                  "lng" : 84.9908085
+               },
+               "southwest" : {
+                  "lat" : 26.989303,
+                  "lng" : 84.96558880000001
+               }
+            }
+         },
+         "place_id" : "ChIJTUDJb3ar7DkRv4BSs6f_UnE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

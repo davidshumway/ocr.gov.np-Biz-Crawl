@@ -1,0 +1,71 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Baijnath Temple",
+               "short_name" : "Baijnath Temple",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Sanfebagar",
+               "short_name" : "Sanfebagar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seti",
+               "short_name" : "Seti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10700",
+               "short_name" : "10700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Baijnath Temple, Sanfebagar 10700, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.2134379,
+                  "lng" : 81.20433390000001
+               },
+               "southwest" : {
+                  "lat" : 29.212944,
+                  "lng" : 81.20376539999999
+               }
+            },
+            "location" : {
+               "lat" : 29.213191,
+               "lng" : 81.20404959999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.2145399302915,
+                  "lng" : 81.20539863029151
+               },
+               "southwest" : {
+                  "lat" : 29.2118419697085,
+                  "lng" : 81.20270066970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJsbgEutO1ozkRJBjYzaFXXxw",
+         "types" : [ "hindu_temple", "place_of_worship", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

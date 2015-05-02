@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bhubaneshwar",
+               "short_name" : "Bhubaneshwar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Khordha",
+               "short_name" : "Khordha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Odisha",
+               "short_name" : "OD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bhubaneshwar, Odisha, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.4093164,
+                  "lng" : 85.9028721
+               },
+               "southwest" : {
+                  "lat" : 20.1924519,
+                  "lng" : 85.63703839999999
+               }
+            },
+            "location" : {
+               "lat" : 20.2960587,
+               "lng" : 85.8245398
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.4093164,
+                  "lng" : 85.9028721
+               },
+               "southwest" : {
+                  "lat" : 20.1924519,
+                  "lng" : 85.7380342
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJpQoX1dIJGToRqD-zaCsOWPw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,61 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bhumisthan",
+               "short_name" : "Bhumisthan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bhumisthan, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7774493,
+                  "lng" : 85.06751419999999
+               },
+               "southwest" : {
+                  "lat" : 27.6983861,
+                  "lng" : 84.99989029999999
+               }
+            },
+            "location" : {
+               "lat" : 27.74,
+               "lng" : 85.03
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7774493,
+                  "lng" : 85.06751419999999
+               },
+               "southwest" : {
+                  "lat" : 27.6983861,
+                  "lng" : 84.99989029999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJU-mviq0u6zkRJ9lpvmfg6JY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

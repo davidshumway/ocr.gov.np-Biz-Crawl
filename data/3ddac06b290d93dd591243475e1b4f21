@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rajapur",
+               "short_name" : "Rajapur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rajapur, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.4981139,
+                  "lng" : 81.1846733
+               },
+               "southwest" : {
+                  "lat" : 28.3714649,
+                  "lng" : 81.05901709999999
+               }
+            },
+            "location" : {
+               "lat" : 28.433333,
+               "lng" : 81.083333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.4981139,
+                  "lng" : 81.1846733
+               },
+               "southwest" : {
+                  "lat" : 28.3714649,
+                  "lng" : 81.05901709999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJUawYPcoLojkRSrtr42O3xlk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

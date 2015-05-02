@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dhapasi",
+               "short_name" : "Dhapasi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44600",
+               "short_name" : "44600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dhapasi 44600, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7575322,
+                  "lng" : 85.3407241
+               },
+               "southwest" : {
+                  "lat" : 27.7381623,
+                  "lng" : 85.3239442
+               }
+            },
+            "location" : {
+               "lat" : 27.75,
+               "lng" : 85.33
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7575322,
+                  "lng" : 85.3407241
+               },
+               "southwest" : {
+                  "lat" : 27.7381623,
+                  "lng" : 85.3239442
+               }
+            }
+         },
+         "place_id" : "ChIJCxhRzzUZ6zkRSE-QqmSEsJo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

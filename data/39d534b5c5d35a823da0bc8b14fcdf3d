@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gokarneshwor",
+               "short_name" : "Gokarneshwor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gokarneshwor, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.8173319,
+                  "lng" : 85.47163189999999
+               },
+               "southwest" : {
+                  "lat" : 27.7105805,
+                  "lng" : 85.36438380000001
+               }
+            },
+            "location" : {
+               "lat" : 27.733333,
+               "lng" : 85.38333299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.8173319,
+                  "lng" : 85.47163189999999
+               },
+               "southwest" : {
+                  "lat" : 27.7105805,
+                  "lng" : 85.36438380000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJWc7Us5sb6zkR9jo6m1XHa0k",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

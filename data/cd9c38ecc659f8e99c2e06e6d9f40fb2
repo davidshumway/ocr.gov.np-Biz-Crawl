@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dhanusadham",
+               "short_name" : "Dhanusadham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45600",
+               "short_name" : "45600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dhanusadham 45600, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.9628427,
+                  "lng" : 86.0958476
+               },
+               "southwest" : {
+                  "lat" : 26.8007883,
+                  "lng" : 85.99993859999999
+               }
+            },
+            "location" : {
+               "lat" : 26.84,
+               "lng" : 86.06999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9628427,
+                  "lng" : 86.0958476
+               },
+               "southwest" : {
+                  "lat" : 26.8007883,
+                  "lng" : 85.99993859999999
+               }
+            }
+         },
+         "place_id" : "ChIJw4Z3ussQ7DkRlBGiVIZPu8s",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

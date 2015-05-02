@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mahadev Than",
+               "short_name" : "Mahadev Than",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45900",
+               "short_name" : "45900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mahadev Than, 45900, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.2908429,
+               "lng" : 85.45795919999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.2921918802915,
+                  "lng" : 85.4593081802915
+               },
+               "southwest" : {
+                  "lat" : 27.28949391970849,
+                  "lng" : 85.45661021970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ_V9G1Apw6zkRnymPZZcc67g",
+         "types" : [
+            "point_of_interest",
+            "hindu_temple",
+            "place_of_worship",
+            "establishment"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

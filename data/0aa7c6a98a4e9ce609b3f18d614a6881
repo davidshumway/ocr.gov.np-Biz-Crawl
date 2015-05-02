@@ -1,0 +1,128 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gorkha",
+               "short_name" : "Gorkha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gandaki",
+               "short_name" : "Gandaki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gorkha, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.046531,
+                  "lng" : 84.67626559999999
+               },
+               "southwest" : {
+                  "lat" : 27.9392138,
+                  "lng" : 84.54786299999999
+               }
+            },
+            "location" : {
+               "lat" : 28,
+               "lng" : 84.63333299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.046531,
+                  "lng" : 84.67626559999999
+               },
+               "southwest" : {
+                  "lat" : 27.9392138,
+                  "lng" : 84.54786299999999
+               }
+            }
+         },
+         "place_id" : "ChIJS0JPG7gilTkR5EA7uydPnj0",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gorkha",
+               "short_name" : "Gorkha",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Tindhara",
+               "short_name" : "Tindhara",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Gorkha",
+               "short_name" : "Gorkha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gandaki",
+               "short_name" : "Gandaki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "34000",
+               "short_name" : "34000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gorkha, Gorkha 34000, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.0063185,
+                  "lng" : 84.63457339999999
+               },
+               "southwest" : {
+                  "lat" : 27.9884519,
+                  "lng" : 84.6139311
+               }
+            },
+            "location" : {
+               "lat" : 27.9972692,
+               "lng" : 84.62567399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.0063185,
+                  "lng" : 84.63457339999999
+               },
+               "southwest" : {
+                  "lat" : 27.9884519,
+                  "lng" : 84.6139311
+               }
+            }
+         },
+         "place_id" : "ChIJBRGxw84ilTkRyLgQM-VfNzI",
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
