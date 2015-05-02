@@ -154,10 +154,8 @@ class region {
 				// regional_location_string,local_location_string
 				foreach ($d as $key => $business) {
 					$business->address_api_translate = '';
-					$business->regional_lat = '';
-					$business->regional_lng = '';
-					$business->local_lat = '';
-					$business->local_lng = '';
+					$business->regional_lat_lng = '';
+					$business->local_lat_lng = '';
 					$business->regional_location_string = ''; // Help match to a region's lat/lng
 					$business->local_location_string = ''; // Help match to a local area's lat/lng
 				}
@@ -404,11 +402,9 @@ class regions {
 						{
 							try {
 								$loc = $this->locations_array[ $business->regional_location_string ];
-								$business->regional_lat = $loc->lat;
-								$business->regional_lng = $loc->lng;
+								$business->regional_lat_lng = $loc->lat.','.$loc->lng;
 							} catch (Exception $e) {
-								$business->regional_lat = ''; // None
-								$business->regional_lng = ''; // None
+								$business->regional_lat_lng = ''; // None
 							}
 						}
 						if 	(
@@ -419,11 +415,9 @@ class regions {
 						{
 							try {
 								$loc = $this->locations_array[ $business->local_location_string ];
-								$business->local_lat = $loc->lat;
-								$business->local_lng = $loc->lng;
+								$business->local_lat_lng = $loc->lat.','.$loc->lng;
 							} catch (Exception $e) {
-								$business->local_lat = ''; // None
-								$business->local_lng = ''; // None
+								$business->local_lat_lng = ''; // None
 							}
 						}
 					}
@@ -561,10 +555,8 @@ class regions {
 			'Address',
 			'Address-English Translated', // TRANSLATION IF AVAILABLE
 			'Type',
-			'Regional Lat.',
-			'Regional Lng.',
-			'Local Lat.',
-			'Local Lng.',
+			'Regional Lat./Lng.',
+			'Local Lat./Lng.',
 			'Regional Match String',
 			'Local Match String'
 		);
@@ -602,10 +594,8 @@ class regions {
 							$business->address,
 							$business->address_api_translate, // TRANSLATION IF AVAILABLE
 							$business->type_name,
-							$business->regional_lat, // RETRIEVED IF AVAILABLE
-							$business->regional_lng, // RETRIEVED IF AVAILABLE
-							$business->local_lat, // RETRIEVED IF AVAILABLE
-							$business->local_lng, // RETRIEVED IF AVAILABLE
+							$business->regional_lat_lng, // RETRIEVED IF AVAILABLE
+							$business->local_lat_lng, // RETRIEVED IF AVAILABLE
 							$business->regional_location_string, // RETRIEVED IF AVAILABLE
 							$business->local_location_string // RETRIEVED IF AVAILABLE
 						);
