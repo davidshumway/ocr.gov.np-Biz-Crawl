@@ -1,5 +1,121 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sagarmatha National Park",
+               "short_name" : "Sagarmatha National Park",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Namche VDC",
+               "short_name" : "Namche VDC",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56000",
+               "short_name" : "56000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sagarmatha National Park, Namche VDC 56000, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.1141754,
+                  "lng" : 86.9823435
+               },
+               "southwest" : {
+                  "lat" : 27.7510117,
+                  "lng" : 86.508844
+               }
+            },
+            "location" : {
+               "lat" : 27.9782604,
+               "lng" : 86.6611083
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.1141754,
+                  "lng" : 86.9823435
+               },
+               "southwest" : {
+                  "lat" : 27.7510117,
+                  "lng" : 86.508844
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJW_9Y6LlU6DkRvkeHfWBmlKc",
+         "types" : [ "natural_feature", "park", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sagarmatha, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.1078361,
+                  "lng" : 87.16970099999999
+               },
+               "southwest" : {
+                  "lat" : 26.4272311,
+                  "lng" : 86.1371271
+               }
+            },
+            "location" : {
+               "lat" : 27.3238263,
+               "lng" : 86.7416374
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.1078361,
+                  "lng" : 87.16970099999999
+               },
+               "southwest" : {
+                  "lat" : 26.4272311,
+                  "lng" : 86.1371271
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJZVtEz3k06TkRPW2pv5K0zsE",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

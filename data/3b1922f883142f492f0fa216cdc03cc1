@@ -1,5 +1,65 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tiwari Bhanjyang",
+               "short_name" : "Tiwari Bhanjyang",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Koshi",
+               "short_name" : "Koshi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "57000",
+               "short_name" : "57000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tiwari Bhanjyang 57000, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.2027703,
+                  "lng" : 87.1643471
+               },
+               "southwest" : {
+                  "lat" : 27.1531783,
+                  "lng" : 87.1121837
+               }
+            },
+            "location" : {
+               "lat" : 27.183333,
+               "lng" : 87.13333299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.2027703,
+                  "lng" : 87.1643471
+               },
+               "southwest" : {
+                  "lat" : 27.1531783,
+                  "lng" : 87.1121837
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ2wAblJzM6DkRq32lL3dDfGA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

@@ -1,5 +1,54 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pipariya",
+               "short_name" : "Pipariya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45800",
+               "short_name" : "45800",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Pipariya 45800, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.98,
+               "lng" : 85.52
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9813489802915,
+                  "lng" : 85.52134898029151
+               },
+               "southwest" : {
+                  "lat" : 26.9786510197085,
+                  "lng" : 85.5186510197085
+               }
+            }
+         },
+         "place_id" : "ChIJr0h7pyCE7DkRGWoM5IvEE0A",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

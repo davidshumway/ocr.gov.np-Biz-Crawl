@@ -1,5 +1,60 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Solukhumbu",
+               "short_name" : "Solukhumbu",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Solukhumbu, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.1264189,
+                  "lng" : 86.9505214
+               },
+               "southwest" : {
+                  "lat" : 27.3367762,
+                  "lng" : 86.3545132
+               }
+            },
+            "location" : {
+               "lat" : 27.7909733,
+               "lng" : 86.6611083
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.1264189,
+                  "lng" : 86.9505214
+               },
+               "southwest" : {
+                  "lat" : 27.3367762,
+                  "lng" : 86.3545132
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJb-S8mdoN6TkRtXIlDPQujDQ",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

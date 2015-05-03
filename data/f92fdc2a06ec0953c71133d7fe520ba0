@@ -1,5 +1,64 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Salleri",
+               "short_name" : "Salleri",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56000",
+               "short_name" : "56000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Salleri 56000, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.5497528,
+                  "lng" : 86.62788399999999
+               },
+               "southwest" : {
+                  "lat" : 27.469592,
+                  "lng" : 86.52256969999999
+               }
+            },
+            "location" : {
+               "lat" : 27.504444,
+               "lng" : 86.58638900000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.5497528,
+                  "lng" : 86.62788399999999
+               },
+               "southwest" : {
+                  "lat" : 27.469592,
+                  "lng" : 86.52256969999999
+               }
+            }
+         },
+         "place_id" : "ChIJKzSSG_k_6TkRK0Oy25uuWfU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

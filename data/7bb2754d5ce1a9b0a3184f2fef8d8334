@@ -1,5 +1,64 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bhogateni",
+               "short_name" : "Bhogateni",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Koshi",
+               "short_name" : "Koshi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56600",
+               "short_name" : "56600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bhogateni 56600, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.8258326,
+                  "lng" : 87.5062324
+               },
+               "southwest" : {
+                  "lat" : 26.7305863,
+                  "lng" : 87.40593919999999
+               }
+            },
+            "location" : {
+               "lat" : 26.78,
+               "lng" : 87.47
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8258326,
+                  "lng" : 87.5062324
+               },
+               "southwest" : {
+                  "lat" : 26.7305863,
+                  "lng" : 87.40593919999999
+               }
+            }
+         },
+         "place_id" : "ChIJwTQixv5d7zkROAYvnFxKdq0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

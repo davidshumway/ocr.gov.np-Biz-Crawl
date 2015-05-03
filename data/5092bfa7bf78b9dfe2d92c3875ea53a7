@@ -1,5 +1,60 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Itahara",
+               "short_name" : "Itahara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Koshi",
+               "short_name" : "Koshi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Itahara, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.5896018,
+                  "lng" : 87.6489258
+               },
+               "southwest" : {
+                  "lat" : 26.5046145,
+                  "lng" : 87.5881361
+               }
+            },
+            "location" : {
+               "lat" : 26.55,
+               "lng" : 87.61999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.5896018,
+                  "lng" : 87.6489258
+               },
+               "southwest" : {
+                  "lat" : 26.5046145,
+                  "lng" : 87.5881361
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJo3Qg19WF5TkRcvB0cqNf4-o",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

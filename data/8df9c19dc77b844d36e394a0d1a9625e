@@ -1,5 +1,121 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kalyanpur Jabadi",
+               "short_name" : "Kalyanpur Jabadi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56500",
+               "short_name" : "56500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kalyanpur Jabadi 56500, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.7801613,
+                  "lng" : 86.257031
+               },
+               "southwest" : {
+                  "lat" : 26.7428821,
+                  "lng" : 86.1989959
+               }
+            },
+            "location" : {
+               "lat" : 26.76,
+               "lng" : 86.22999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.7801613,
+                  "lng" : 86.257031
+               },
+               "southwest" : {
+                  "lat" : 26.7428821,
+                  "lng" : 86.1989959
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJXQ9br5Ef7DkRZN-X-BaqDcU",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kalyanpur Kalabanzar",
+               "short_name" : "Kalyanpur Kalabanzar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kalyanpur Kalabanzar, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.8493814,
+                  "lng" : 86.1820913
+               },
+               "southwest" : {
+                  "lat" : 26.8116055,
+                  "lng" : 86.1495334
+               }
+            },
+            "location" : {
+               "lat" : 26.83,
+               "lng" : 86.14999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8493814,
+                  "lng" : 86.1820913
+               },
+               "southwest" : {
+                  "lat" : 26.8116055,
+                  "lng" : 86.1495334
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ62bCi1AZ7DkRvmK7mPuiprQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

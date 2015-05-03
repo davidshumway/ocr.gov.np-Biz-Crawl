@@ -1,5 +1,55 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nundhaki",
+               "short_name" : "Nundhaki",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Koshi",
+               "short_name" : "Koshi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56900",
+               "short_name" : "56900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nundhaki 56900, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.32,
+               "lng" : 87.47
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.32134898029151,
+                  "lng" : 87.47134898029151
+               },
+               "southwest" : {
+                  "lat" : 27.3186510197085,
+                  "lng" : 87.4686510197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ0wmdXreo6DkR4jtkH2ZTnos",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

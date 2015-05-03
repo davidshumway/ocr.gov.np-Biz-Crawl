@@ -1,5 +1,69 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Salyan",
+               "short_name" : "Salyan",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Salyan Solu",
+               "short_name" : "Salyan Solu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56000",
+               "short_name" : "56000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Salyan, Salyan Solu 56000, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.3869533,
+                  "lng" : 86.62893
+               },
+               "southwest" : {
+                  "lat" : 27.3839287,
+                  "lng" : 86.62412880000001
+               }
+            },
+            "location" : {
+               "lat" : 27.3849308,
+               "lng" : 86.6264654
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.3869533,
+                  "lng" : 86.62893
+               },
+               "southwest" : {
+                  "lat" : 27.3839287,
+                  "lng" : 86.62412880000001
+               }
+            }
+         },
+         "place_id" : "ChIJEcgV4xs56TkRnksrXbmm-aw",
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

@@ -1,5 +1,54 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pyauli",
+               "short_name" : "Pyauli",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Koshi",
+               "short_name" : "Koshi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "57000",
+               "short_name" : "57000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Pyauli 57000, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.21,
+               "lng" : 87.16
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.2113489802915,
+                  "lng" : 87.16134898029151
+               },
+               "southwest" : {
+                  "lat" : 27.20865101970849,
+                  "lng" : 87.15865101970849
+               }
+            }
+         },
+         "place_id" : "ChIJOe3u05XL6DkRlj3-5QNT5ZE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

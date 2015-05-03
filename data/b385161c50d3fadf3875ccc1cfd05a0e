@@ -1,5 +1,60 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mouwa",
+               "short_name" : "Mouwa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mechi",
+               "short_name" : "Mechi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mouwa, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.0192959,
+                  "lng" : 87.61446479999999
+               },
+               "southwest" : {
+                  "lat" : 26.9584152,
+                  "lng" : 87.48601909999999
+               }
+            },
+            "location" : {
+               "lat" : 26.99,
+               "lng" : 87.55
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.0192959,
+                  "lng" : 87.61446479999999
+               },
+               "southwest" : {
+                  "lat" : 26.9584152,
+                  "lng" : 87.48601909999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJawTqeA345TkR6mWgRJN7zCg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

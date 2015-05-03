@@ -1,5 +1,70 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Premejung-Namsaling-Ilam Bypass",
+               "short_name" : "Premejung-Namsaling-Ilam Bypass",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fikkal",
+               "short_name" : "Fikkal",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Phikkal Bazar",
+               "short_name" : "Phikkal Bazar",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Suryodaya",
+               "short_name" : "Suryodaya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mechi",
+               "short_name" : "Mechi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "57312",
+               "short_name" : "57312",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mechi Highway, Suryodaya 57312, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8954637,
+               "lng" : 88.06814009999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8968126802915,
+                  "lng" : 88.06948908029149
+               },
+               "southwest" : {
+                  "lat" : 26.8941147197085,
+                  "lng" : 88.06679111970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ElbgpK7gpYfgpJrgpYAg4KSw4KS-4KSc4KSu4KS-4KSw4KWN4KSXLCDgpLjgpYLgpLDgpY3gpK_gpYvgpKbgpK8gNTczMTIsIOCkqOClh-CkquCkvuCksg",
+         "types" : [ "intersection" ]
+      }
+   ],
+   "status" : "OK"
 }

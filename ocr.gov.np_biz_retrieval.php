@@ -164,7 +164,7 @@ class regions {
 	 * https://developers.facebook.com/docs/graph-api/reference/page
 	 * 
 	 */
-	function facebook() {return;
+	function facebook() {//return;
 		if (!$this->fb_key) {
 			echo 'Skipping Facebook search.'."\n";
 		} else {
@@ -174,21 +174,56 @@ class regions {
 		// Make unique lat/lng object.
 		$all_locn = array(); // Assoc. array.
 		foreach ($this->locations_array as $address => $locn) {
-			$str = $locn->lat . ',' . $locn->lng;
-			$all_locn[ $str ] = $locn;
+			$str_lat_lng = $locn->lat . ',' . $locn->lng;
+			$all_locn[ $str_lat_lng ] = $locn;
 		}
 		// For each unique lat/lng location do a Facebook search for all businesses in the area.
 		// An asterisk seems to provide many results.
 		$info = ['category','id','name','likes','talking_about_count','were_here_count','location','link','phone','website','description','members','mission','general_info','products','hours','category_list','cover','emails','founded'];
-		$u =
-			'https://graph.facebook.com/search'.
-			'?q=*'.
-			'&type=place'.
-			'&fields='.urlencode(implode(',',$info)).
-			'&limit=5000000'.
-			'&center='.
-			'&distance=50000'. // Max if 50km
-			'&access_token='.urlencode($this->fb_key);
+		
+		// Iterate through all regional lat/lng pairs. May be unnecessary to go through the local pairs.
+		foreach($all_locn as $str_lat_lng => $locn) {
+			// Curl get businesses (POST)
+			$u =
+				'https://graph.facebook.com/search'.
+				'?q=*'.
+				'&type=place'.
+				'&fields='.urlencode(implode(',',$info)).
+				'&limit=5000'.
+				'&center='.urlencode($str_lat_lng).
+				'&distance=50000'. // Max. radius is 50km
+				'&access_token='.urlencode($this->fb_key);
+			//~ $u =
+				//~ 'region='.urlencode($region->post_id).
+				//~ '&zone='.
+				//~ '&district='.
+				//~ '&reg_no=&company_name='.
+				//~ '&reg_date_from='.
+				//~ '&reg_date_to='.
+				//~ '&company_type='.
+				//~ '&objective='.urlencode($num_ctg).
+				//~ '&gender=&a_capital_from=&a_capital_to=&i_capital_from='.
+				//~ '&i_capital_to=&p_capital_from=&p_capital_to=&btn_submit=Search';
+			$tmp_fn = md5('http://www.ocr.gov.np/search/advanced_search.php' . $u);
+			// Opts
+			$opts = new StdClass;
+			$opts->url = 'http://www.ocr.gov.np/search/advanced_search.php';
+			$opts->post = true;
+			$opts->post_str = $u;
+			$opts->filename = $tmp_fn;
+			$opts->request_to_file = true;
+			$opts->request_from_file = true;
+			$opts->folder = $this->tmp_folder;
+			$content = curl_get($opts); // status,html
+			if (property_exists($content, 'isCached')) {
+				// No output.
+			} else {
+				echo '.';
+				if ($content->status != 200) {
+					die('Status != 200. Status='.$content->status);
+				}
+			}
+		}
 	}
 	/**
 	 * function init_categories
@@ -519,20 +554,28 @@ class regions {
 		}
 		echo 'Retrieving geocoding. "." denotes a new geocode to retrieve. Duplicate and cached geocoding not displayed.'.
 			"\n".'Number of addresses to geocode:'.count($addresses_to_geocode)."\n";
-		
+		// Array of bad strings.
+		$arr_bad_str = [
+			'"error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console"',
+			'"error_message" : "You have exceeded your daily request quota for this API."'
+		];
+		// It may be necessary to turn this on/off based on the requirements of the search.
+		$use_key = true;
 		// CURL
-		// Set $this->locations_array
+		// Sets $this->locations_array
 		foreach ($addresses_to_geocode as $address => $v) {
 			$ufilename =
-				'https://maps.googleapis.com/maps/api/geocode/json'.
+				'https://maps.googleapis.com/maps/api/geocode/json'. // This will allow using a key but to keep the same filename.
 				'?address='.urlencode($address);
 			$u = 'https://maps.googleapis.com/maps/api/geocode/json'.
-				'?address='.urlencode($address).'&key='.urlencode($this->gapi_key); // This will allow using a key but to keep the same filename.
+				'?address='.urlencode($address);
+			if ($use_key)
+				$u .= '&key='.urlencode($this->gapi_key);
 			$opts = new StdClass;
 			$opts->url = $u;
 			$opts->filename = md5($ufilename);
-			$opts->overwrite_if_strpos = ['"error_message" : "You have exceeded your daily request quota for this API."'];
-			$opts->do_not_save_if_strpos = ['"error_message" : "You have exceeded your daily request quota for this API."'];
+			$opts->overwrite_if_strpos = $arr_bad_str;
+			$opts->do_not_save_if_strpos = $arr_bad_str;
 			$opts->request_to_file = true;
 			$opts->request_from_file = true;
 			$opts->folder = $this->tmp_folder;
@@ -552,13 +595,31 @@ class regions {
 				$d = false;
 			}
 			$this->locations_array[ $address ] = $d;
-			if (strpos($content->html, '"error_message" : "You have exceeded your daily request quota for this API."') !== false) {
-				echo 'ERROR MESSAGE FROM GOOGLE GEOCODE API IS:You have exceeded your daily request quota for this API.'."\n";
-				echo 'Exiting.'."\n";
-				exit;
+			// Has bad strings?
+			foreach ($arr_bad_str as $key => $str) {
+				if (strpos($content->html, $str) !== false) {
+					echo 'ERROR: GEOCODING RESPONSE CONTAINS:'.$str;
+					exit;
+				}
 			}
-			//~ // DEBUG
-			//~ if ($address == 'Jhapa,Mechi,Nepal') {
+			// DEBUG
+			//~ if ($address == 'Mahabharata,Dhankuta,Koshi,Nepal') {
+				//~ echo $content->html;
+				//~ exit;
+			//~ }
+			//~ if ($address == 'Bhojpur,Bhojpur,Koshi,Nepal') {
+				//~ echo $content->html;
+				//~ exit;
+			//~ }
+			//~ if ($address == 'Dhungesaghu,TapleJung,Mechi,Nepal') {
+				//~ echo $content->html;
+				//~ exit;
+			//~ }
+			//~ if ($address == 'PHIDIM,Pachthar,Mechi,Nepal') {
+				//~ echo $content->html;
+				//~ exit;
+			//~ }
+			//~ if ($address == ' Samalavuna,Ilam,Mechi,Nepal') {
 				//~ echo $content->html;
 				//~ exit;
 			//~ }
@@ -770,7 +831,7 @@ class regions {
 		}
 		// Echo num businesses
 		if ($year)
-			echo 'Total businesses (since '.$year.'):'.$count_biz."\n";
+			echo "\n".'Total businesses (since '.$year.'):'.$count_biz."\n";
 		else
 			echo 'Total businesses:'.$count_biz."\n";
 			

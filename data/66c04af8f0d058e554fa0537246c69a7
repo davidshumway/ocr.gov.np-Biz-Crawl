@@ -1,5 +1,54 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dhuseni",
+               "short_name" : "Dhuseni",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mechi",
+               "short_name" : "Mechi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "57300",
+               "short_name" : "57300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dhuseni 57300, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.916667,
+               "lng" : 87.783333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9180159802915,
+                  "lng" : 87.7846819802915
+               },
+               "southwest" : {
+                  "lat" : 26.9153180197085,
+                  "lng" : 87.78198401970849
+               }
+            }
+         },
+         "place_id" : "ChIJnW0-GSnp5TkRSZIyIEoCaGI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

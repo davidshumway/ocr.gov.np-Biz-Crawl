@@ -1,5 +1,60 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Malhaniya",
+               "short_name" : "Malhaniya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Malhaniya, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.6458536,
+                  "lng" : 86.54802509999999
+               },
+               "southwest" : {
+                  "lat" : 26.567685,
+                  "lng" : 86.49446279999999
+               }
+            },
+            "location" : {
+               "lat" : 26.6,
+               "lng" : 86.53
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.6458536,
+                  "lng" : 86.54802509999999
+               },
+               "southwest" : {
+                  "lat" : 26.567685,
+                  "lng" : 86.49446279999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJKVUKy0iS7jkRQu-XHlpxhiM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

@@ -1,5 +1,65 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Amtek",
+               "short_name" : "Amtek",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Koshi",
+               "short_name" : "Koshi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "57000",
+               "short_name" : "57000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Amtek, 57000, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.1756292,
+                  "lng" : 87.11617470000002
+               },
+               "southwest" : {
+                  "lat" : 27.1305701,
+                  "lng" : 87.06707949999999
+               }
+            },
+            "location" : {
+               "lat" : 27.1553094,
+               "lng" : 87.0923906
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.1756292,
+                  "lng" : 87.11617470000002
+               },
+               "southwest" : {
+                  "lat" : 27.1305701,
+                  "lng" : 87.06707949999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJc5uBOjDN6DkRisiqU3Z9dHs",
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

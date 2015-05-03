@@ -1,5 +1,65 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mangalbare",
+               "short_name" : "Mangalbare",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mechi",
+               "short_name" : "Mechi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "57300",
+               "short_name" : "57300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mangalbare 57300, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.9919954,
+                  "lng" : 87.85766599999999
+               },
+               "southwest" : {
+                  "lat" : 26.9129626,
+                  "lng" : 87.7991724
+               }
+            },
+            "location" : {
+               "lat" : 26.95,
+               "lng" : 87.83999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9919954,
+                  "lng" : 87.85766599999999
+               },
+               "southwest" : {
+                  "lat" : 26.9129626,
+                  "lng" : 87.7991724
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJQ4ad527o5TkRgd41xxPWteU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

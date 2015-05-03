@@ -1,5 +1,54 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ketuke",
+               "short_name" : "Ketuke",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56100",
+               "short_name" : "56100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ketuke 56100, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.25,
+               "lng" : 86.48999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.2513489802915,
+                  "lng" : 86.49134898029151
+               },
+               "southwest" : {
+                  "lat" : 27.2486510197085,
+                  "lng" : 86.4886510197085
+               }
+            }
+         },
+         "place_id" : "ChIJJeJbfMhO6TkRNcPC0Nz-AT8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

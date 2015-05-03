@@ -1,5 +1,71 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Siraha Municipality Office",
+               "short_name" : "Siraha Municipality Office",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Siraha",
+               "short_name" : "Siraha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56500",
+               "short_name" : "56500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Siraha Municipality Office, Siraha 56500, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.6554392,
+                  "lng" : 86.20552440000002
+               },
+               "southwest" : {
+                  "lat" : 26.6550411,
+                  "lng" : 86.20509269999999
+               }
+            },
+            "location" : {
+               "lat" : 26.6552402,
+               "lng" : 86.2053086
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.6565891302915,
+                  "lng" : 86.20665753029152
+               },
+               "southwest" : {
+                  "lat" : 26.6538911697085,
+                  "lng" : 86.20395956970852
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ1WI2fDIh7DkR7fnDhyShag8",
+         "types" : [ "city_hall", "local_government_office", "establishment" ]
+      }
+   ],
+   "status" : "OK"
 }

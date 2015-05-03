@@ -1,5 +1,131 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tingla School, Solukhumbu",
+               "short_name" : "Tingla School, Solukhumbu",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Tingla Tingnasa",
+               "short_name" : "Tingla Tingnasa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Solukhumbu",
+               "short_name" : "Solukhumbu",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56000",
+               "short_name" : "56000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tingla School, Solukhumbu, Tingla Tingnasa 56000, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.4302278,
+                  "lng" : 86.5997905
+               },
+               "southwest" : {
+                  "lat" : 27.4297565,
+                  "lng" : 86.5990771
+               }
+            },
+            "location" : {
+               "lat" : 27.4299794,
+               "lng" : 86.5994822
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.4313411302915,
+                  "lng" : 86.60078278029151
+               },
+               "southwest" : {
+                  "lat" : 27.4286431697085,
+                  "lng" : 86.59808481970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJXVLCbEc_6TkR3ROWeH_aC-o",
+         "types" : [ "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "District Hospital Phaplu, Solukhumbu",
+               "short_name" : "District Hospital Phaplu, Solukhumbu",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Salleri",
+               "short_name" : "Salleri",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56000",
+               "short_name" : "56000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "District Hospital Phaplu, Solukhumbu, Salleri 56000, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.5153129,
+               "lng" : 86.5858805
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.5166618802915,
+                  "lng" : 86.58722948029151
+               },
+               "southwest" : {
+                  "lat" : 27.5139639197085,
+                  "lng" : 86.58453151970851
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ13U-Z1EV6TkRXNxwFvqTSVQ",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
 }

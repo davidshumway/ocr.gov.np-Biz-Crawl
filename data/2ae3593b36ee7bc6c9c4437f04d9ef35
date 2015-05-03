@@ -1,5 +1,65 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kuntadevi",
+               "short_name" : "Kuntadevi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56100",
+               "short_name" : "56100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kuntadevi 56100, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.3418274,
+                  "lng" : 86.48714299999999
+               },
+               "southwest" : {
+                  "lat" : 27.2975602,
+                  "lng" : 86.4351295
+               }
+            },
+            "location" : {
+               "lat" : 27.32,
+               "lng" : 86.45999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.3418274,
+                  "lng" : 86.48714299999999
+               },
+               "southwest" : {
+                  "lat" : 27.2975602,
+                  "lng" : 86.4351295
+               }
+            }
+         },
+         "place_id" : "ChIJjdRyUoBF6TkRRnA6ccgoRu0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

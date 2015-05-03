@@ -1,5 +1,59 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Parewadin",
+               "short_name" : "Parewadin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Koshi",
+               "short_name" : "Koshi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Parewadin, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.0997057,
+                  "lng" : 87.42958550000002
+               },
+               "southwest" : {
+                  "lat" : 27.022469,
+                  "lng" : 87.3591184
+               }
+            },
+            "location" : {
+               "lat" : 27.06,
+               "lng" : 87.39999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.0997057,
+                  "lng" : 87.42958550000002
+               },
+               "southwest" : {
+                  "lat" : 27.022469,
+                  "lng" : 87.3591184
+               }
+            }
+         },
+         "place_id" : "ChIJv-aJdhxS7zkRfU7w5C_0wdQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

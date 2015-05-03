@@ -1,5 +1,255 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "District Education Office Sankhuwasabha",
+               "short_name" : "District Education Office Sankhuwasabha",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Jilla Prshasan Pokhari Bazar Road",
+               "short_name" : "Jilla Prshasan Pokhari Bazar Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Khandbari",
+               "short_name" : "Khandbari",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Koshi",
+               "short_name" : "Koshi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56900",
+               "short_name" : "56900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "District Education Office Sankhuwasabha, Jilla Prshasan Pokhari Bazar Road, Khandbari 56900, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.3862127,
+               "lng" : 87.20604209999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.3875616802915,
+                  "lng" : 87.2073910802915
+               },
+               "southwest" : {
+                  "lat" : 27.38486371970849,
+                  "lng" : 87.20469311970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJRURCDHTH6DkRjj13obD9ROs",
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sankhuwasabha Animal Hospital",
+               "short_name" : "Sankhuwasabha Animal Hospital",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Hospital Road",
+               "short_name" : "Hospital Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Khandbari",
+               "short_name" : "Khandbari",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Koshi",
+               "short_name" : "Koshi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56900",
+               "short_name" : "56900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sankhuwasabha Animal Hospital, Hospital Road, Khandbari 56900, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.3740301,
+               "lng" : 87.2078741
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.3753790802915,
+                  "lng" : 87.20922308029151
+               },
+               "southwest" : {
+                  "lat" : 27.3726811197085,
+                  "lng" : 87.20652511970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJIbZHyJvH6DkRVRvUy3wjpWk",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sankhuwasabha Tuberculosis Hospital",
+               "short_name" : "Sankhuwasabha Tuberculosis Hospital",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Hospital Road",
+               "short_name" : "Hospital Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Khandbari",
+               "short_name" : "Khandbari",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Koshi",
+               "short_name" : "Koshi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56900",
+               "short_name" : "56900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sankhuwasabha Tuberculosis Hospital, Hospital Road, Khandbari 56900, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.3733918,
+               "lng" : 87.20780429999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.3747407802915,
+                  "lng" : 87.2091532802915
+               },
+               "southwest" : {
+                  "lat" : 27.3720428197085,
+                  "lng" : 87.2064553197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJex_swpvH6DkR1wCy8riUGqg",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "District Police Station, Sankhuwasabha",
+               "short_name" : "District Police Station, Sankhuwasabha",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "DPO Road",
+               "short_name" : "DPO Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Khandbari",
+               "short_name" : "Khandbari",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Koshi",
+               "short_name" : "Koshi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56900",
+               "short_name" : "56900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "District Police Station, Sankhuwasabha, DPO Road, Khandbari 56900, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.3723343,
+                  "lng" : 87.20751729999999
+               },
+               "southwest" : {
+                  "lat" : 27.3709145,
+                  "lng" : 87.20698609999999
+               }
+            },
+            "location" : {
+               "lat" : 27.3716244,
+               "lng" : 87.2072517
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.3729733802915,
+                  "lng" : 87.20860068029151
+               },
+               "southwest" : {
+                  "lat" : 27.37027541970849,
+                  "lng" : 87.20590271970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ-dTQK5rH6DkR5KS9AvuEGxc",
+         "types" : [ "police", "establishment" ]
+      }
+   ],
+   "status" : "OK"
 }

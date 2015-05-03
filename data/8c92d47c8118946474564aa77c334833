@@ -1,5 +1,60 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Triyuga",
+               "short_name" : "Triyuga",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Triyuga, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.9018646,
+                  "lng" : 86.7734528
+               },
+               "southwest" : {
+                  "lat" : 26.6904106,
+                  "lng" : 86.545658
+               }
+            },
+            "location" : {
+               "lat" : 26.7919,
+               "lng" : 86.699
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9018646,
+                  "lng" : 86.7734528
+               },
+               "southwest" : {
+                  "lat" : 26.6904106,
+                  "lng" : 86.545658
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJV3NL1sHC7jkRpeKsTunvDfY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

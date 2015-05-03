@@ -1,5 +1,66 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sukhipur",
+               "short_name" : "Sukhipur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56500",
+               "short_name" : "56500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sukhipur 56500, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.7337605,
+                  "lng" : 86.3801364
+               },
+               "southwest" : {
+                  "lat" : 26.691883,
+                  "lng" : 86.31513840000001
+               }
+            },
+            "location" : {
+               "lat" : 26.71,
+               "lng" : 86.34999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.7337605,
+                  "lng" : 86.3801364
+               },
+               "southwest" : {
+                  "lat" : 26.691883,
+                  "lng" : 86.31513840000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJF08R-duY7jkRbsUuhtZ5A3c",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

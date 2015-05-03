@@ -1,5 +1,66 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Asanpur",
+               "short_name" : "Asanpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56500",
+               "short_name" : "56500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Asanpur 56500, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.8149113,
+                  "lng" : 86.35316
+               },
+               "southwest" : {
+                  "lat" : 26.7602288,
+                  "lng" : 86.31737799999999
+               }
+            },
+            "location" : {
+               "lat" : 26.79,
+               "lng" : 86.33
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8149113,
+                  "lng" : 86.35316
+               },
+               "southwest" : {
+                  "lat" : 26.7602288,
+                  "lng" : 86.31737799999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJA4FuAoeh7jkR28r7i4niJqU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

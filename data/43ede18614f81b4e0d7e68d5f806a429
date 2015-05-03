@@ -1,5 +1,55 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bhakanje",
+               "short_name" : "Bhakanje",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56000",
+               "short_name" : "56000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bhakanje 56000, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.59,
+               "lng" : 86.45999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.5913489802915,
+                  "lng" : 86.46134898029149
+               },
+               "southwest" : {
+                  "lat" : 27.5886510197085,
+                  "lng" : 86.45865101970848
+               }
+            }
+         },
+         "place_id" : "ChIJXzRLzClp6TkRGKEber3-ZYg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

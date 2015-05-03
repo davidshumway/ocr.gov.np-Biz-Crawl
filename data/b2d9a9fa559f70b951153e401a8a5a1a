@@ -1,5 +1,60 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Palapu",
+               "short_name" : "Palapu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Palapu, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.2935367,
+                  "lng" : 86.2994099
+               },
+               "southwest" : {
+                  "lat" : 27.2376894,
+                  "lng" : 86.2042237
+               }
+            },
+            "location" : {
+               "lat" : 27.27,
+               "lng" : 86.25999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.2935367,
+                  "lng" : 86.2994099
+               },
+               "southwest" : {
+                  "lat" : 27.2376894,
+                  "lng" : 86.2042237
+               }
+            }
+         },
+         "place_id" : "ChIJiW3tTn_96zkRk3Du22PAVaM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

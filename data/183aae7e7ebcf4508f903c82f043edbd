@@ -1,5 +1,65 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Itahari Bishnupur",
+               "short_name" : "Itahari Bishnupur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56400",
+               "short_name" : "56400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Itahari Bishnupur 56400, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.5307123,
+                  "lng" : 86.7626595
+               },
+               "southwest" : {
+                  "lat" : 26.4805787,
+                  "lng" : 86.71880809999999
+               }
+            },
+            "location" : {
+               "lat" : 26.51,
+               "lng" : 86.75
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.5307123,
+                  "lng" : 86.7626595
+               },
+               "southwest" : {
+                  "lat" : 26.4805787,
+                  "lng" : 86.71880809999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJObhYIHb67jkRHB6ntT0qv0s",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

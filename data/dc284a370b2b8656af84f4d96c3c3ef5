@@ -1,5 +1,70 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Road Department Office Ithari",
+               "short_name" : "Road Department Office Ithari",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Itahari",
+               "short_name" : "Itahari",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Koshi",
+               "short_name" : "Koshi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56705",
+               "short_name" : "56705",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Road Department Office Ithari, Itahari 56705, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.670044,
+                  "lng" : 87.2708524
+               },
+               "southwest" : {
+                  "lat" : 26.6676616,
+                  "lng" : 87.2668772
+               }
+            },
+            "location" : {
+               "lat" : 26.6688528,
+               "lng" : 87.2688648
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.6702017802915,
+                  "lng" : 87.2708524
+               },
+               "southwest" : {
+                  "lat" : 26.6675038197085,
+                  "lng" : 87.2668772
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJNRqklXts7zkRyYLJf4KxB9E",
+         "types" : [ "establishment" ]
+      }
+   ],
+   "status" : "OK"
 }

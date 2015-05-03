@@ -1,5 +1,59 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pokhariya",
+               "short_name" : "Pokhariya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Koshi",
+               "short_name" : "Koshi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pokhariya, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.4307513,
+                  "lng" : 87.3686563
+               },
+               "southwest" : {
+                  "lat" : 26.3967543,
+                  "lng" : 87.3501411
+               }
+            },
+            "location" : {
+               "lat" : 26.42,
+               "lng" : 87.36
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.4307513,
+                  "lng" : 87.3686563
+               },
+               "southwest" : {
+                  "lat" : 26.3967543,
+                  "lng" : 87.3501411
+               }
+            }
+         },
+         "place_id" : "ChIJX4THROp37zkRDSAC5CO5EBo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

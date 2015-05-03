@@ -1,5 +1,65 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Matsyapokhari",
+               "short_name" : "Matsyapokhari",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Koshi",
+               "short_name" : "Koshi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56900",
+               "short_name" : "56900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Matsyapokhari 56900, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.515427,
+                  "lng" : 87.2998525
+               },
+               "southwest" : {
+                  "lat" : 27.4391264,
+                  "lng" : 87.22208979999999
+               }
+            },
+            "location" : {
+               "lat" : 27.4873563,
+               "lng" : 87.2518824
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.515427,
+                  "lng" : 87.2998525
+               },
+               "southwest" : {
+                  "lat" : 27.4391264,
+                  "lng" : 87.22208979999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJQwtw0aq_6DkRXx-6kYUmLhw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

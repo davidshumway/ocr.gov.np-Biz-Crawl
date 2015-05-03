@@ -1,5 +1,65 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Patheka",
+               "short_name" : "Patheka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56200",
+               "short_name" : "56200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Patheka 56200, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.3040621,
+                  "lng" : 86.9124126
+               },
+               "southwest" : {
+                  "lat" : 27.2435653,
+                  "lng" : 86.8285561
+               }
+            },
+            "location" : {
+               "lat" : 27.28,
+               "lng" : 86.86999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.3040621,
+                  "lng" : 86.9124126
+               },
+               "southwest" : {
+                  "lat" : 27.2435653,
+                  "lng" : 86.8285561
+               }
+            }
+         },
+         "place_id" : "ChIJIRq1d64p6TkR_H6G-SXfSQs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

@@ -1,5 +1,105 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Makalu",
+               "short_name" : "Makalu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Koshi",
+               "short_name" : "Koshi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56900",
+               "short_name" : "56900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Makalu 56900, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.74,
+               "lng" : 87.15000000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7413489802915,
+                  "lng" : 87.15134898029152
+               },
+               "southwest" : {
+                  "lat" : 27.7386510197085,
+                  "lng" : 87.14865101970851
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ-7PK_iTy6DkRt6X3D8BpDe0",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Makalu",
+               "short_name" : "Makalu",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Koshi",
+               "short_name" : "Koshi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56900",
+               "short_name" : "56900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Makalu, 56900, China",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.8860217,
+               "lng" : 87.09118909999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.8873706802915,
+                  "lng" : 87.0925380802915
+               },
+               "southwest" : {
+                  "lat" : 27.88467271970849,
+                  "lng" : 87.08984011970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJH0HXfX5Y6DkRbAbpoRZHENs",
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
 }

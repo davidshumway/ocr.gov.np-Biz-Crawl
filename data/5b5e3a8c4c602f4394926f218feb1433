@@ -1,5 +1,125 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Arnamarampur",
+               "short_name" : "Arnamarampur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56500",
+               "short_name" : "56500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Arnamarampur 56500, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.7459889,
+                  "lng" : 86.2272074
+               },
+               "southwest" : {
+                  "lat" : 26.7154168,
+                  "lng" : 86.1955158
+               }
+            },
+            "location" : {
+               "lat" : 26.733333,
+               "lng" : 86.216667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.7459889,
+                  "lng" : 86.2272074
+               },
+               "southwest" : {
+                  "lat" : 26.7154168,
+                  "lng" : 86.1955158
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJbS5jjc0h7DkRPsf2GZD4L7M",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rampur Birta",
+               "short_name" : "Rampur Birta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56500",
+               "short_name" : "56500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rampur Birta 56500, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.8503758,
+                  "lng" : 86.2421205
+               },
+               "southwest" : {
+                  "lat" : 26.8216689,
+                  "lng" : 86.19489370000001
+               }
+            },
+            "location" : {
+               "lat" : 26.84,
+               "lng" : 86.22
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8503758,
+                  "lng" : 86.2421205
+               },
+               "southwest" : {
+                  "lat" : 26.8216689,
+                  "lng" : 86.19489370000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ6aG0zn8e7DkRp_cLeDs4iVI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

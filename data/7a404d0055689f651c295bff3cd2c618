@@ -1,5 +1,186 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pipra Pra.Pi",
+               "short_name" : "Pipra Pra.Pi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56500",
+               "short_name" : "56500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Pipra Pra.Pi 56500, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.6708841,
+                  "lng" : 86.32097879999999
+               },
+               "southwest" : {
+                  "lat" : 26.6404357,
+                  "lng" : 86.2794703
+               }
+            },
+            "location" : {
+               "lat" : 26.666667,
+               "lng" : 86.3
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.6708841,
+                  "lng" : 86.32097879999999
+               },
+               "southwest" : {
+                  "lat" : 26.6404357,
+                  "lng" : 86.2794703
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJW0Q_2imc7jkR2x7yiRWCghU",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pipra Pra.Dha",
+               "short_name" : "Pipra Pra.Dha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56500",
+               "short_name" : "56500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Pipra Pra.Dha 56500, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.7164792,
+                  "lng" : 86.41816589999999
+               },
+               "southwest" : {
+                  "lat" : 26.6854091,
+                  "lng" : 86.39182000000001
+               }
+            },
+            "location" : {
+               "lat" : 26.7,
+               "lng" : 86.39999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.7164792,
+                  "lng" : 86.41816589999999
+               },
+               "southwest" : {
+                  "lat" : 26.6854091,
+                  "lng" : 86.39182000000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJvT449NGZ7jkRRYXSgGYGuIE",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hulaki Sadak",
+               "short_name" : "Hulaki Sadak",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56500",
+               "short_name" : "56500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hulaki Sadak, 56500, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.6417704,
+                  "lng" : 86.25720389999999
+               },
+               "southwest" : {
+                  "lat" : 26.6407627,
+                  "lng" : 86.25216930000001
+               }
+            },
+            "location" : {
+               "lat" : 26.6413542,
+               "lng" : 86.25470319999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.6426155302915,
+                  "lng" : 86.25720389999999
+               },
+               "southwest" : {
+                  "lat" : 26.6399175697085,
+                  "lng" : 86.25216930000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJp62DLFQ87DkRq79dDQFeVO0",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
 }

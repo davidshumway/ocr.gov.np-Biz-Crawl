@@ -1,5 +1,61 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Katari",
+               "short_name" : "Katari",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Katari, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.0045376,
+                  "lng" : 86.4309883
+               },
+               "southwest" : {
+                  "lat" : 26.8638932,
+                  "lng" : 86.15615849999999
+               }
+            },
+            "location" : {
+               "lat" : 26.95,
+               "lng" : 86.36999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.0045376,
+                  "lng" : 86.4309883
+               },
+               "southwest" : {
+                  "lat" : 26.8638932,
+                  "lng" : 86.15615849999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJaU21_J-v7jkRO7-60rxHBiw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

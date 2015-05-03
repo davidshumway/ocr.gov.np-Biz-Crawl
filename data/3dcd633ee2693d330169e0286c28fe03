@@ -1,5 +1,54 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Raniban",
+               "short_name" : "Raniban",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56100",
+               "short_name" : "56100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Raniban 56100, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.35,
+               "lng" : 86.27
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.3513489802915,
+                  "lng" : 86.27134898029151
+               },
+               "southwest" : {
+                  "lat" : 27.34865101970849,
+                  "lng" : 86.2686510197085
+               }
+            }
+         },
+         "place_id" : "ChIJZwWus2VY6TkR7m0RyWvFnlE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

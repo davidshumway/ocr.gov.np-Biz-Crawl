@@ -1,5 +1,59 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Khijikati",
+               "short_name" : "Khijikati",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Khijikati, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.506292,
+                  "lng" : 86.363783
+               },
+               "southwest" : {
+                  "lat" : 27.4601486,
+                  "lng" : 86.29134189999999
+               }
+            },
+            "location" : {
+               "lat" : 27.4838586,
+               "lng" : 86.3326058
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.506292,
+                  "lng" : 86.363783
+               },
+               "southwest" : {
+                  "lat" : 27.4601486,
+                  "lng" : 86.29134189999999
+               }
+            }
+         },
+         "place_id" : "ChIJ39GE-A1e6TkREZ5T7lMjkwA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

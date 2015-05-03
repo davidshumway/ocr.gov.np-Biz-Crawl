@@ -1,5 +1,70 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Okhre",
+               "short_name" : "Okhre",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Change",
+               "short_name" : "Change",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mechi",
+               "short_name" : "Mechi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "57500",
+               "short_name" : "57500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Okhre, Change 57500, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.3251863,
+                  "lng" : 87.60008809999999
+               },
+               "southwest" : {
+                  "lat" : 27.3121081,
+                  "lng" : 87.5786305
+               }
+            },
+            "location" : {
+               "lat" : 27.3204271,
+               "lng" : 87.59147899999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.3251863,
+                  "lng" : 87.60008809999999
+               },
+               "southwest" : {
+                  "lat" : 27.3121081,
+                  "lng" : 87.5786305
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJaR1oST0D5jkRHPPw_xvhrZI",
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

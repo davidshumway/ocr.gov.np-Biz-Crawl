@@ -1,5 +1,60 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Premejung-Namsaling-Ilam Bypass",
+               "short_name" : "Premejung-Namsaling-Ilam Bypass",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mechi",
+               "short_name" : "Mechi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Premejung-Namsaling-Ilam Bypass, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.9155355,
+                  "lng" : 88.06814009999999
+               },
+               "southwest" : {
+                  "lat" : 26.8954637,
+                  "lng" : 88.0539557
+               }
+            },
+            "location" : {
+               "lat" : 26.9056353,
+               "lng" : 88.0610983
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9155355,
+                  "lng" : 88.06814009999999
+               },
+               "southwest" : {
+                  "lat" : 26.8954637,
+                  "lng" : 88.0539557
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJT87DD-bO5TkR8HklZhB3wvQ",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
 }

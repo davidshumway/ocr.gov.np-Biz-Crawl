@@ -1,5 +1,59 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Khanar",
+               "short_name" : "Khanar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Koshi",
+               "short_name" : "Koshi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Khanar, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.6522305,
+                  "lng" : 87.30191359999999
+               },
+               "southwest" : {
+                  "lat" : 26.6103518,
+                  "lng" : 87.2536808
+               }
+            },
+            "location" : {
+               "lat" : 26.63,
+               "lng" : 87.28
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.6522305,
+                  "lng" : 87.30191359999999
+               },
+               "southwest" : {
+                  "lat" : 26.6103518,
+                  "lng" : 87.2536808
+               }
+            }
+         },
+         "place_id" : "ChIJFY9h9rJt7zkRr8tTwecjDpo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

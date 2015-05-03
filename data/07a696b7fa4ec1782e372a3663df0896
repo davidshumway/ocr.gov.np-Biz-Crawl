@@ -1,5 +1,60 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bhadrapur",
+               "short_name" : "Bhadrapur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mechi",
+               "short_name" : "Mechi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bhadrapur, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.6159525,
+                  "lng" : 88.1070684
+               },
+               "southwest" : {
+                  "lat" : 26.4338411,
+                  "lng" : 88.0382108
+               }
+            },
+            "location" : {
+               "lat" : 26.5444,
+               "lng" : 88.09439999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.6159525,
+                  "lng" : 88.1070684
+               },
+               "southwest" : {
+                  "lat" : 26.4338411,
+                  "lng" : 88.0382108
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJdXsosmGu5TkRl0FnO3GEybc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

@@ -1,5 +1,55 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Risku",
+               "short_name" : "Risku",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56300",
+               "short_name" : "56300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Risku 56300, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.95,
+               "lng" : 86.45
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9513489802915,
+                  "lng" : 86.45134898029151
+               },
+               "southwest" : {
+                  "lat" : 26.9486510197085,
+                  "lng" : 86.44865101970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJQwSwjnqw7jkR1W35Tk4xudM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

@@ -1,5 +1,70 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Koshi Rajmarga",
+               "short_name" : "Koshi Rajmarga",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dhankuta",
+               "short_name" : "Dhankuta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Koshi",
+               "short_name" : "Koshi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56800",
+               "short_name" : "56800",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Koshi Rajmarga, Dhankuta 56800, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.9649784,
+                  "lng" : 87.3227376
+               },
+               "southwest" : {
+                  "lat" : 26.959217,
+                  "lng" : 87.3210065
+               }
+            },
+            "location" : {
+               "lat" : 26.9618861,
+               "lng" : 87.3219484
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9649784,
+                  "lng" : 87.32322103029151
+               },
+               "southwest" : {
+                  "lat" : 26.959217,
+                  "lng" : 87.32052306970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJSVwX2kJP7zkRnKPJDd7LlSE",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
 }

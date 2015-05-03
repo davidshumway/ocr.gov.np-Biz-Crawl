@@ -1,5 +1,60 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Phidim",
+               "short_name" : "Phidim",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mechi",
+               "short_name" : "Mechi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Phidim, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.1660844,
+                  "lng" : 87.80977249999999
+               },
+               "southwest" : {
+                  "lat" : 27.0647815,
+                  "lng" : 87.6876353
+               }
+            },
+            "location" : {
+               "lat" : 27.13,
+               "lng" : 87.77
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.1660844,
+                  "lng" : 87.80977249999999
+               },
+               "southwest" : {
+                  "lat" : 27.0647815,
+                  "lng" : 87.6876353
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJQXB6bxDi5TkRzTRF3Ly4Zy4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

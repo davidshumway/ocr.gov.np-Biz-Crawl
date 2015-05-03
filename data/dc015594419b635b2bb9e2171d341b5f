@@ -1,5 +1,60 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Damak",
+               "short_name" : "Damak",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mechi",
+               "short_name" : "Mechi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Damak, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.7499025,
+                  "lng" : 87.71673199999999
+               },
+               "southwest" : {
+                  "lat" : 26.5874526,
+                  "lng" : 87.6368236
+               }
+            },
+            "location" : {
+               "lat" : 26.6716598,
+               "lng" : 87.66797649999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.7499025,
+                  "lng" : 87.71673199999999
+               },
+               "southwest" : {
+                  "lat" : 26.5874526,
+                  "lng" : 87.6368236
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJR8WB0hSO5TkRPQ8Gd4XJ07A",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

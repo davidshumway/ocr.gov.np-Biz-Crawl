@@ -1,5 +1,64 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Diman",
+               "short_name" : "Diman",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56400",
+               "short_name" : "56400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Diman 56400, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.5941684,
+                  "lng" : 86.84939150000001
+               },
+               "southwest" : {
+                  "lat" : 26.562477,
+                  "lng" : 86.81807529999999
+               }
+            },
+            "location" : {
+               "lat" : 26.58,
+               "lng" : 86.83000000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.5941684,
+                  "lng" : 86.84939150000001
+               },
+               "southwest" : {
+                  "lat" : 26.562477,
+                  "lng" : 86.81807529999999
+               }
+            }
+         },
+         "place_id" : "ChIJmQPiHEzj7jkRtOxC0ud1CmI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

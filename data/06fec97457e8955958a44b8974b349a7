@@ -1,5 +1,126 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sitapur Pra.Da.",
+               "short_name" : "Sitapur Pra.Da.",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56500",
+               "short_name" : "56500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sitapur Pra.Da. 56500, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.8175145,
+                  "lng" : 86.27319399999999
+               },
+               "southwest" : {
+                  "lat" : 26.7817766,
+                  "lng" : 86.23043679999999
+               }
+            },
+            "location" : {
+               "lat" : 26.8001194,
+               "lng" : 86.24125429999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8175145,
+                  "lng" : 86.27319399999999
+               },
+               "southwest" : {
+                  "lat" : 26.7817766,
+                  "lng" : 86.23043679999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJs4WDgyke7DkR31Am0Zbnmbw",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sitapur Pra.Ra.",
+               "short_name" : "Sitapur Pra.Ra.",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56500",
+               "short_name" : "56500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sitapur Pra.Ra. 56500, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.6886492,
+                  "lng" : 86.45694279999999
+               },
+               "southwest" : {
+                  "lat" : 26.6467719,
+                  "lng" : 86.4132013
+               }
+            },
+            "location" : {
+               "lat" : 26.65,
+               "lng" : 86.41666699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.6886492,
+                  "lng" : 86.45694279999999
+               },
+               "southwest" : {
+                  "lat" : 26.6467719,
+                  "lng" : 86.4132013
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ8fgfOkiX7jkRTGDAAQwthpw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

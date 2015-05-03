@@ -1,5 +1,60 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gautampur",
+               "short_name" : "Gautampur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Koshi",
+               "short_name" : "Koshi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gautampur, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.5485987,
+                  "lng" : 87.1541333
+               },
+               "southwest" : {
+                  "lat" : 26.5004761,
+                  "lng" : 87.1194364
+               }
+            },
+            "location" : {
+               "lat" : 26.53,
+               "lng" : 87.14
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.5485987,
+                  "lng" : 87.1541333
+               },
+               "southwest" : {
+                  "lat" : 26.5004761,
+                  "lng" : 87.1194364
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJEysEUoIO7zkRVlJu0leDNqs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

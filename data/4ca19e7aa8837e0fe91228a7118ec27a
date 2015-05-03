@@ -1,5 +1,65 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jamuna",
+               "short_name" : "Jamuna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mechi",
+               "short_name" : "Mechi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "57300",
+               "short_name" : "57300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jamuna 57300, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.0677627,
+                  "lng" : 88.0549908
+               },
+               "southwest" : {
+                  "lat" : 27.0007139,
+                  "lng" : 87.96306609999999
+               }
+            },
+            "location" : {
+               "lat" : 27.016667,
+               "lng" : 87.98333300000002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.0677627,
+                  "lng" : 88.0549908
+               },
+               "southwest" : {
+                  "lat" : 27.0007139,
+                  "lng" : 87.96306609999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJJzqK7Pfa5TkRaTIH3bm7vdU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

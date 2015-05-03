@@ -1,5 +1,64 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Namsaling",
+               "short_name" : "Namsaling",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mechi",
+               "short_name" : "Mechi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "57300",
+               "short_name" : "57300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Namsaling 57300, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.9485648,
+                  "lng" : 88.02973519999999
+               },
+               "southwest" : {
+                  "lat" : 26.8879521,
+                  "lng" : 87.94720889999999
+               }
+            },
+            "location" : {
+               "lat" : 26.92,
+               "lng" : 87.98999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9485648,
+                  "lng" : 88.02973519999999
+               },
+               "southwest" : {
+                  "lat" : 26.8879521,
+                  "lng" : 87.94720889999999
+               }
+            }
+         },
+         "place_id" : "ChIJoZFm7KXF5TkRlcMiBPDI62Y",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

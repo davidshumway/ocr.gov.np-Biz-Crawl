@@ -1,5 +1,60 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shree Saraswati Higher Secondary School",
+               "short_name" : "Shree Saraswati Higher Secondary School",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Diktel Sadak",
+               "short_name" : "Diktel Sadak",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56200",
+               "short_name" : "56200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Shree Saraswati Higher Secondary School, Diktel Sadak, 56200, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.2238185,
+               "lng" : 86.6681385
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.2251674802915,
+                  "lng" : 86.66948748029151
+               },
+               "southwest" : {
+                  "lat" : 27.2224695197085,
+                  "lng" : 86.66678951970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJi5luXfwz6TkRPenQA54LDCQ",
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
 }

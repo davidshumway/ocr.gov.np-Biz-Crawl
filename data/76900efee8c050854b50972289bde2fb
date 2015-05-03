@@ -1,5 +1,60 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shantinagar",
+               "short_name" : "Shantinagar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mechi",
+               "short_name" : "Mechi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shantinagar, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.8020477,
+                  "lng" : 88.1255006
+               },
+               "southwest" : {
+                  "lat" : 26.6794152,
+                  "lng" : 88.0463862
+               }
+            },
+            "location" : {
+               "lat" : 26.74,
+               "lng" : 88.08999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8020477,
+                  "lng" : 88.1255006
+               },
+               "southwest" : {
+                  "lat" : 26.6794152,
+                  "lng" : 88.0463862
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ028sin625TkRoVYGm0SsXq0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

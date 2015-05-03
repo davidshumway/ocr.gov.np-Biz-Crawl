@@ -1,5 +1,65 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Biratnagar 13 Ward Office",
+               "short_name" : "Biratnagar 13 Ward Office",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Pipal Marg",
+               "short_name" : "Pipal Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Biratnagar",
+               "short_name" : "Biratnagar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Koshi",
+               "short_name" : "Koshi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56613",
+               "short_name" : "56613",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Biratnagar 13 Ward Office, Pipal Marg, Biratnagar 56613, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.4453517,
+               "lng" : 87.2813156
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.4467006802915,
+                  "lng" : 87.28266458029151
+               },
+               "southwest" : {
+                  "lat" : 26.4440027197085,
+                  "lng" : 87.27996661970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJeTvqDEp07zkRvv9DA1iRgVY",
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
 }

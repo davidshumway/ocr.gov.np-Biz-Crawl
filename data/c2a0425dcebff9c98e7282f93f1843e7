@@ -1,5 +1,55 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sautang",
+               "short_name" : "Sautang",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56000",
+               "short_name" : "56000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sautang 56000, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.4694,
+               "lng" : 86.7903
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.4707489802915,
+                  "lng" : 86.7916489802915
+               },
+               "southwest" : {
+                  "lat" : 27.4680510197085,
+                  "lng" : 86.78895101970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJNfxaW1Ii6TkRiimMfhPEsDc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

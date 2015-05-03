@@ -1,5 +1,60 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chhinnamasta",
+               "short_name" : "Chhinnamasta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chhinnamasta, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.4748757,
+                  "lng" : 86.73774709999999
+               },
+               "southwest" : {
+                  "lat" : 26.4261458,
+                  "lng" : 86.69538969999999
+               }
+            },
+            "location" : {
+               "lat" : 26.45,
+               "lng" : 86.72
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.4748757,
+                  "lng" : 86.73774709999999
+               },
+               "southwest" : {
+                  "lat" : 26.4261458,
+                  "lng" : 86.69538969999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ7_4o1RX37jkR47vqDwBcTDU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

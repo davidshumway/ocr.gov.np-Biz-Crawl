@@ -1,5 +1,255 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sagarmatha Rajmarg",
+               "short_name" : "Sagarmatha Rajmarg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Madhupati",
+               "short_name" : "Madhupati",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56400",
+               "short_name" : "56400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sagarmatha Rajmarg, Madhupati 56400, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.7105098,
+                  "lng" : 86.5351
+               },
+               "southwest" : {
+                  "lat" : 26.695615,
+                  "lng" : 86.5257354
+               }
+            },
+            "location" : {
+               "lat" : 26.7031766,
+               "lng" : 86.5307873
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.7105098,
+                  "lng" : 86.5351
+               },
+               "southwest" : {
+                  "lat" : 26.695615,
+                  "lng" : 86.5257354
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJKY5mclKU7jkRwhV08gdmx2o",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sagarmatha Rajmarg",
+               "short_name" : "Sagarmatha Rajmarg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56400",
+               "short_name" : "56400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sagarmatha Rajmarg, 56400, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.7385202,
+                  "lng" : 86.5353423
+               },
+               "southwest" : {
+                  "lat" : 26.7349596,
+                  "lng" : 86.5352731
+               }
+            },
+            "location" : {
+               "lat" : 26.7385202,
+               "lng" : 86.5353423
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.7385202,
+                  "lng" : 86.5366566802915
+               },
+               "southwest" : {
+                  "lat" : 26.7349596,
+                  "lng" : 86.53395871970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJkXXaq56V7jkRRVO-lxv4xcU",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "H09",
+               "short_name" : "H09",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56400",
+               "short_name" : "56400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "H09, 56400, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.7115017,
+                  "lng" : 86.5353906
+               },
+               "southwest" : {
+                  "lat" : 26.7105098,
+                  "lng" : 86.53509020000001
+               }
+            },
+            "location" : {
+               "lat" : 26.7115017,
+               "lng" : 86.5353906
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.7123547302915,
+                  "lng" : 86.53658938029152
+               },
+               "southwest" : {
+                  "lat" : 26.7096567697085,
+                  "lng" : 86.53389141970851
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJQZLzhquV7jkRax2_C0s1814",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Siraha Road",
+               "short_name" : "Siraha Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rajbiraj",
+               "short_name" : "Rajbiraj",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56400",
+               "short_name" : "56400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Siraha Road, Rajbiraj 56400, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.5377386,
+                  "lng" : 86.74835190000002
+               },
+               "southwest" : {
+                  "lat" : 26.5376042,
+                  "lng" : 86.7447799
+               }
+            },
+            "location" : {
+               "lat" : 26.537657,
+               "lng" : 86.74681840000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.5390203802915,
+                  "lng" : 86.74835190000002
+               },
+               "southwest" : {
+                  "lat" : 26.53632241970849,
+                  "lng" : 86.7447799
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJScjYnZz67jkRwe5k1mrdJKc",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
 }

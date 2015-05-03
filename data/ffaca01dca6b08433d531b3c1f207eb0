@@ -1,5 +1,60 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Panchkanya",
+               "short_name" : "Panchkanya",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Koshi",
+               "short_name" : "Koshi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Panchkanya, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.8714732,
+                  "lng" : 87.3537755
+               },
+               "southwest" : {
+                  "lat" : 26.7591379,
+                  "lng" : 87.2949184
+               }
+            },
+            "location" : {
+               "lat" : 26.783333,
+               "lng" : 87.316667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8714732,
+                  "lng" : 87.3537755
+               },
+               "southwest" : {
+                  "lat" : 26.7591379,
+                  "lng" : 87.2949184
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ95Bir0tC7zkRgUeYbp0OSjE",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

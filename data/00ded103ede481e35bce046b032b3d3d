@@ -1,5 +1,70 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Madheli Kabirsthan Guthi",
+               "short_name" : "Madheli Kabirsthan Guthi",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Madhelee",
+               "short_name" : "Madhelee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Koshi",
+               "short_name" : "Koshi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56709",
+               "short_name" : "56709",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Madheli Kabirsthan Guthi, Madhelee 56709, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.6171767,
+                  "lng" : 87.2466427
+               },
+               "southwest" : {
+                  "lat" : 26.6166492,
+                  "lng" : 87.2457898
+               }
+            },
+            "location" : {
+               "lat" : 26.616913,
+               "lng" : 87.24621619999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.6182619302915,
+                  "lng" : 87.2475652302915
+               },
+               "southwest" : {
+                  "lat" : 26.6155639697085,
+                  "lng" : 87.24486726970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ4fwoWBdt7zkR0VQRxNcaUOo",
+         "types" : [ "hindu_temple", "place_of_worship", "establishment" ]
+      }
+   ],
+   "status" : "OK"
 }

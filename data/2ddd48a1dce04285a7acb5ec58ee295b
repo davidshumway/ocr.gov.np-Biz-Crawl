@@ -1,5 +1,60 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mahendranagar",
+               "short_name" : "Mahendranagar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Koshi",
+               "short_name" : "Koshi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mahendranagar, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.7891189,
+                  "lng" : 87.1694756
+               },
+               "southwest" : {
+                  "lat" : 26.6905446,
+                  "lng" : 87.0333481
+               }
+            },
+            "location" : {
+               "lat" : 26.74,
+               "lng" : 87.11
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.7891189,
+                  "lng" : 87.1694756
+               },
+               "southwest" : {
+                  "lat" : 26.6905446,
+                  "lng" : 87.0333481
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ4ZOCxrQX7zkRVbcK_5ZZQIo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

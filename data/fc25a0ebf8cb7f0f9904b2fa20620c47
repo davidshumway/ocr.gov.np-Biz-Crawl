@@ -1,5 +1,61 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Morang",
+               "short_name" : "Morang",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Koshi",
+               "short_name" : "Koshi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Morang, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.904467,
+                  "lng" : 87.6987077
+               },
+               "southwest" : {
+                  "lat" : 26.3481534,
+                  "lng" : 87.2382851
+               }
+            },
+            "location" : {
+               "lat" : 26.6799002,
+               "lng" : 87.460397
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.904467,
+                  "lng" : 87.6987077
+               },
+               "southwest" : {
+                  "lat" : 26.3481534,
+                  "lng" : 87.2382851
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJUcxaRHhj7zkRLH37l99G-G4",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

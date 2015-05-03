@@ -1,5 +1,61 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dangraha",
+               "short_name" : "Dangraha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Koshi",
+               "short_name" : "Koshi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dangraha, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.611412,
+                  "lng" : 87.3535395
+               },
+               "southwest" : {
+                  "lat" : 26.5779775,
+                  "lng" : 87.28949369999999
+               }
+            },
+            "location" : {
+               "lat" : 26.59,
+               "lng" : 87.33
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.611412,
+                  "lng" : 87.3535395
+               },
+               "southwest" : {
+                  "lat" : 26.5779775,
+                  "lng" : 87.28949369999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJZyhY4iRu7zkR-f86MQM5ZFo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

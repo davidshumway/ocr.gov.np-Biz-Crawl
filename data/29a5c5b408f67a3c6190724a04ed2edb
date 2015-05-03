@@ -1,5 +1,55 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Panchakanya",
+               "short_name" : "Panchakanya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mechi",
+               "short_name" : "Mechi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "57300",
+               "short_name" : "57300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Panchakanya 57300, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.966667,
+               "lng" : 88.05
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9680159802915,
+                  "lng" : 88.05134898029149
+               },
+               "southwest" : {
+                  "lat" : 26.96531801970849,
+                  "lng" : 88.04865101970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ2RJLo9TP5TkRHvMiGV4EbLE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

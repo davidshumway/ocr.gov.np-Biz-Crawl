@@ -1,5 +1,64 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Juropani",
+               "short_name" : "Juropani",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mechi",
+               "short_name" : "Mechi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "57200",
+               "short_name" : "57200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Juropani 57200, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.5346335,
+                  "lng" : 87.75861739999999
+               },
+               "southwest" : {
+                  "lat" : 26.4750293,
+                  "lng" : 87.6788806
+               }
+            },
+            "location" : {
+               "lat" : 26.51,
+               "lng" : 87.70999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.5346335,
+                  "lng" : 87.75861739999999
+               },
+               "southwest" : {
+                  "lat" : 26.4750293,
+                  "lng" : 87.6788806
+               }
+            }
+         },
+         "place_id" : "ChIJg4LWmWeb5TkRECMom8XvEGc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

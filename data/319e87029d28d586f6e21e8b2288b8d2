@@ -1,5 +1,64 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jyamire",
+               "short_name" : "Jyamire",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56100",
+               "short_name" : "56100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jyamire, 56100, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.3187237,
+                  "lng" : 86.50304319999999
+               },
+               "southwest" : {
+                  "lat" : 27.2932124,
+                  "lng" : 86.4440345
+               }
+            },
+            "location" : {
+               "lat" : 27.3,
+               "lng" : 86.45
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.3187237,
+                  "lng" : 86.50304319999999
+               },
+               "southwest" : {
+                  "lat" : 27.2932124,
+                  "lng" : 86.4440345
+               }
+            }
+         },
+         "place_id" : "ChIJ2z47Y2VP6TkREN48koQhTrw",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

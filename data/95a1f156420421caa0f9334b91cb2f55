@@ -1,5 +1,65 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pidari",
+               "short_name" : "Pidari",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45800",
+               "short_name" : "45800",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Pidari 45800, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.0170199,
+                  "lng" : 85.5639669
+               },
+               "southwest" : {
+                  "lat" : 26.9794839,
+                  "lng" : 85.5258058
+               }
+            },
+            "location" : {
+               "lat" : 27,
+               "lng" : 85.55
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.0170199,
+                  "lng" : 85.5639669
+               },
+               "southwest" : {
+                  "lat" : 26.9794839,
+                  "lng" : 85.5258058
+               }
+            }
+         },
+         "place_id" : "ChIJ0Wi1X7iG7DkRiTNJXtCA40U",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

@@ -1,5 +1,60 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Myanglung",
+               "short_name" : "Myanglung",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Koshi",
+               "short_name" : "Koshi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Myanglung, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.2210521,
+                  "lng" : 87.6104737
+               },
+               "southwest" : {
+                  "lat" : 27.0626416,
+                  "lng" : 87.4539185
+               }
+            },
+            "location" : {
+               "lat" : 27.1,
+               "lng" : 87.53
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.2210521,
+                  "lng" : 87.6104737
+               },
+               "southwest" : {
+                  "lat" : 27.0626416,
+                  "lng" : 87.4539185
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ47KS9mBV7zkRXW_7Jooja4w",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

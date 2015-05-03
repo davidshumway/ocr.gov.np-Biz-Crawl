@@ -1,5 +1,121 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ramnagar Mirchaiya",
+               "short_name" : "Ramnagar Mirchaiya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56500",
+               "short_name" : "56500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ramnagar Mirchaiya 56500, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.8816413,
+                  "lng" : 86.27151219999999
+               },
+               "southwest" : {
+                  "lat" : 26.8093701,
+                  "lng" : 86.2155238
+               }
+            },
+            "location" : {
+               "lat" : 26.8385564,
+               "lng" : 86.24887319999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8816413,
+                  "lng" : 86.27151219999999
+               },
+               "southwest" : {
+                  "lat" : 26.8093701,
+                  "lng" : 86.2155238
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJu-DrYQ0e7DkRmafv2VaDYnk",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mirchaiya",
+               "short_name" : "Mirchaiya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mirchaiya, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.8858661,
+                  "lng" : 86.3408567
+               },
+               "southwest" : {
+                  "lat" : 26.7817766,
+                  "lng" : 86.1919109
+               }
+            },
+            "location" : {
+               "lat" : 26.84,
+               "lng" : 86.25
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8858661,
+                  "lng" : 86.3408567
+               },
+               "southwest" : {
+                  "lat" : 26.7817766,
+                  "lng" : 86.1919109
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJX1j_ha2g7jkRwGZbXBCdaN4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

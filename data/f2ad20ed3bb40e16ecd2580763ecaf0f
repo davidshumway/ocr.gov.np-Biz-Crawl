@@ -1,5 +1,55 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mabu",
+               "short_name" : "Mabu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mechi",
+               "short_name" : "Mechi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "57300",
+               "short_name" : "57300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mabu 57300, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.06,
+               "lng" : 87.97
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.0613489802915,
+                  "lng" : 87.97134898029151
+               },
+               "southwest" : {
+                  "lat" : 27.0586510197085,
+                  "lng" : 87.96865101970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJNSPoY9Tb5TkRCyG7JvJFhnc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

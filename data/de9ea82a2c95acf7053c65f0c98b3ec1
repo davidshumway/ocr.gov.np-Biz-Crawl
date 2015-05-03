@@ -1,5 +1,60 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Panchthar Bidya Mandir",
+               "short_name" : "Panchthar Bidya Mandir",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Aangsharang",
+               "short_name" : "Aangsharang",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mechi",
+               "short_name" : "Mechi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "57400",
+               "short_name" : "57400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Panchthar Bidya Mandir, Aangsharang 57400, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.0406842,
+               "lng" : 87.70744089999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.0420331802915,
+                  "lng" : 87.7087898802915
+               },
+               "southwest" : {
+                  "lat" : 27.03933521970849,
+                  "lng" : 87.7060919197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJj0MY1rnk5TkR4KrmA1lABPY",
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
 }

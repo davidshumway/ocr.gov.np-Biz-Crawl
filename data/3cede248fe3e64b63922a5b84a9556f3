@@ -1,5 +1,270 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Banaskhandi Mahadev Mandir",
+               "short_name" : "Banaskhandi Mahadev Mandir",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Devkota Marg",
+               "short_name" : "Devkota Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Biratnagar",
+               "short_name" : "Biratnagar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Koshi",
+               "short_name" : "Koshi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56613",
+               "short_name" : "56613",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Banaskhandi Mahadev Mandir, Devkota Marg, Biratnagar 56613, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.4589083,
+               "lng" : 87.2863984
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.4602572802915,
+                  "lng" : 87.28774738029151
+               },
+               "southwest" : {
+                  "lat" : 26.45755931970849,
+                  "lng" : 87.2850494197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJVUuKqz507zkRiI-0Vqx5lTI",
+         "types" : [
+            "point_of_interest",
+            "hindu_temple",
+            "place_of_worship",
+            "establishment"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hareshwar Mahadev Mandir",
+               "short_name" : "Hareshwar Mahadev Mandir",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Biratnagar Road",
+               "short_name" : "F062",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Banigama",
+               "short_name" : "Banigama",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Koshi",
+               "short_name" : "Koshi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56600",
+               "short_name" : "56600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hareshwar Mahadev Mandir, Biratnagar Road, Banigama 56600, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.6114572,
+               "lng" : 87.3710121
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.6128061802915,
+                  "lng" : 87.37236108029151
+               },
+               "southwest" : {
+                  "lat" : 26.6101082197085,
+                  "lng" : 87.36966311970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJexpTdpJv7zkRdYSNBPzRT2s",
+         "types" : [
+            "point_of_interest",
+            "hindu_temple",
+            "place_of_worship",
+            "establishment"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mahadev Prasad Mahabir Prasad Niwash Rangeli",
+               "short_name" : "Mahadev Prasad Mahabir Prasad Niwash Rangeli",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Pathri-Rangeli Road",
+               "short_name" : "Pathri-Rangeli Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rangeli",
+               "short_name" : "Rangeli",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Koshi",
+               "short_name" : "Koshi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56602",
+               "short_name" : "56602",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mahadev Prasad Mahabir Prasad Niwash Rangeli, Pathri-Rangeli Road, Rangeli 56602, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.4616085,
+                  "lng" : 87.49165040000001
+               },
+               "southwest" : {
+                  "lat" : 26.4614836,
+                  "lng" : 87.49143989999999
+               }
+            },
+            "location" : {
+               "lat" : 26.4615461,
+               "lng" : 87.49154519999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.4628950302915,
+                  "lng" : 87.4928941302915
+               },
+               "southwest" : {
+                  "lat" : 26.4601970697085,
+                  "lng" : 87.4901961697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ14NCkvF-7zkRFms9ROpd6R4",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kasheshwor Mahadev Mandir काशेश्वर महादेव मन्दिर Biratnagar 4",
+               "short_name" : "Kasheshwor Mahadev Mandir काशेश्वर महादेव मन्दिर Biratnagar 4",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "योद्धा मार्ग",
+               "short_name" : "योद्धा मार्ग",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "बिराटनगर",
+               "short_name" : "बिराटनगर",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "कोशी",
+               "short_name" : "कोशी",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56613",
+               "short_name" : "56613",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kasheshwor Mahadev Mandir काशेश्वर महादेव मन्दिर Biratnagar 4, योद्धा मार्ग, बिराटनगर 56613, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.4933972,
+               "lng" : 87.28698720000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.4947461802915,
+                  "lng" : 87.28833618029152
+               },
+               "southwest" : {
+                  "lat" : 26.4920482197085,
+                  "lng" : 87.28563821970852
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ2ZvJqPZz7zkRoed6YXTGr-c",
+         "types" : [
+            "point_of_interest",
+            "hindu_temple",
+            "place_of_worship",
+            "establishment"
+         ]
+      }
+   ],
+   "status" : "OK"
 }

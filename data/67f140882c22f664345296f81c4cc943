@@ -1,5 +1,130 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mangalbare - Jitpur Road",
+               "short_name" : "Mangalbare - Jitpur Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mangalbare",
+               "short_name" : "Mangalbare",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mechi",
+               "short_name" : "Mechi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "57300",
+               "short_name" : "57300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mangalbare - Jitpur Road, Mangalbare 57300, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.9333035,
+                  "lng" : 87.855767
+               },
+               "southwest" : {
+                  "lat" : 26.8990393,
+                  "lng" : 87.8442144
+               }
+            },
+            "location" : {
+               "lat" : 26.9152344,
+               "lng" : 87.85254669999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9333035,
+                  "lng" : 87.855767
+               },
+               "southwest" : {
+                  "lat" : 26.8990393,
+                  "lng" : 87.8442144
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJP9bF9dPp5TkRVI3Ma5P66SE",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jitpur",
+               "short_name" : "Jitpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mechi",
+               "short_name" : "Mechi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "57300",
+               "short_name" : "57300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jitpur 57300, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.91832,
+                  "lng" : 87.8532027
+               },
+               "southwest" : {
+                  "lat" : 26.823841,
+                  "lng" : 87.7687562
+               }
+            },
+            "location" : {
+               "lat" : 26.833333,
+               "lng" : 87.783333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.91832,
+                  "lng" : 87.8532027
+               },
+               "southwest" : {
+                  "lat" : 26.823841,
+                  "lng" : 87.7687562
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJLW4NK9Tr5TkRPZJKI6WUWNw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

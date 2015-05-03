@@ -1,5 +1,75 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mohanpur Road",
+               "short_name" : "Mohanpur Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dhangadi Siraha",
+               "short_name" : "Dhangadi Siraha",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Dhangadi",
+               "short_name" : "Dhangadi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56500",
+               "short_name" : "56500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mohanpur Road, Dhangadi 56500, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.7532181,
+                  "lng" : 86.40395699999999
+               },
+               "southwest" : {
+                  "lat" : 26.7237972,
+                  "lng" : 86.3999599
+               }
+            },
+            "location" : {
+               "lat" : 26.7389439,
+               "lng" : 86.4001384
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.7532181,
+                  "lng" : 86.40395699999999
+               },
+               "southwest" : {
+                  "lat" : 26.7237972,
+                  "lng" : 86.3999599
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJvemnbhKY7jkR-yZPds5ffLE",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
 }

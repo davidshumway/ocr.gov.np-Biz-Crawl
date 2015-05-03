@@ -1,5 +1,65 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shree Arunodaya Secondary Boarding School, Laxmipur-8,Ilam",
+               "short_name" : "Shree Arunodaya Secondary Boarding School, Laxmipur-8,Ilam",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Mechi Highway",
+               "short_name" : "Mechi Highway",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Laxmipura",
+               "short_name" : "Laxmipura",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mechi",
+               "short_name" : "Mechi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "57300",
+               "short_name" : "57300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Shree Arunodaya Secondary Boarding School, Laxmipur-8,Ilam, Mechi Highway, Laxmipura 57300, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8498038,
+               "lng" : 87.9833221
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8511527802915,
+                  "lng" : 87.98467108029151
+               },
+               "southwest" : {
+                  "lat" : 26.8484548197085,
+                  "lng" : 87.9819731197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJr-oXJEPG5TkRD0ALWmflGCQ",
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
 }

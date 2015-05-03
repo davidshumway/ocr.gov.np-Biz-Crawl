@@ -1,5 +1,60 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fatepur",
+               "short_name" : "Fatepur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fatepur, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.7661705,
+                  "lng" : 86.9737119
+               },
+               "southwest" : {
+                  "lat" : 26.6942136,
+                  "lng" : 86.8884619
+               }
+            },
+            "location" : {
+               "lat" : 26.72,
+               "lng" : 86.93000000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.7661705,
+                  "lng" : 86.9737119
+               },
+               "southwest" : {
+                  "lat" : 26.6942136,
+                  "lng" : 86.8884619
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJz5FLlKQf7zkRB2829AFCV4Q",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

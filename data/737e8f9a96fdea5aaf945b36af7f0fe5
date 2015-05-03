@@ -1,5 +1,55 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oyam",
+               "short_name" : "Oyam",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mechi",
+               "short_name" : "Mechi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "57400",
+               "short_name" : "57400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Oyam 57400, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.26,
+               "lng" : 87.89
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.2613489802915,
+                  "lng" : 87.89134898029151
+               },
+               "southwest" : {
+                  "lat" : 27.2586510197085,
+                  "lng" : 87.8886510197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJRwpvcHlz5jkRuS-KLP4K2h8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

@@ -1,5 +1,85 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ward Police Station",
+               "short_name" : "Ward Police Station",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Buddha Marg",
+               "short_name" : "Buddha Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bhanu Chowk",
+               "short_name" : "Bhanu Chowk",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Dharan",
+               "short_name" : "Dharan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sunsari",
+               "short_name" : "Sunsari",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Koshi",
+               "short_name" : "Koshi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56700",
+               "short_name" : "56700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ward Police Station, Buddha Marg, Dharan 56700, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.8107078,
+                  "lng" : 87.28492450000002
+               },
+               "southwest" : {
+                  "lat" : 26.8105833,
+                  "lng" : 87.28460939999999
+               }
+            },
+            "location" : {
+               "lat" : 26.8106568,
+               "lng" : 87.28477669999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8119945302915,
+                  "lng" : 87.28611593029152
+               },
+               "southwest" : {
+                  "lat" : 26.8092965697085,
+                  "lng" : 87.28341796970851
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJnYAMGJlB7zkRj505MTuHfjg",
+         "types" : [ "police", "establishment" ]
+      }
+   ],
+   "status" : "OK"
 }

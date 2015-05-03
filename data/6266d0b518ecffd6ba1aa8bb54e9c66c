@@ -1,5 +1,175 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Area Police Office Shivganj",
+               "short_name" : "Area Police Office Shivganj",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Shivagunj",
+               "short_name" : "Shivagunj",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mechi",
+               "short_name" : "Mechi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "57200",
+               "short_name" : "57200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Area Police Office Shivganj, Shivagunj 57200, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.5706662,
+               "lng" : 87.84079229999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.5720151802915,
+                  "lng" : 87.8421412802915
+               },
+               "southwest" : {
+                  "lat" : 26.5693172197085,
+                  "lng" : 87.83944331970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJyZOeehOY5TkRjaqUc-lUrtY",
+         "types" : [ "police", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shivganj Health Centre",
+               "short_name" : "Shivganj Health Centre",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Shivagunj",
+               "short_name" : "Shivagunj",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mechi",
+               "short_name" : "Mechi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "57200",
+               "short_name" : "57200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Shivganj Health Centre, Shivagunj 57200, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.5746392,
+               "lng" : 87.8394806
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.5759881802915,
+                  "lng" : 87.8408295802915
+               },
+               "southwest" : {
+                  "lat" : 26.5732902197085,
+                  "lng" : 87.83813161970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ8wS1pRaY5TkRE17tQLlijWU",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shree Brijeshwor Nath Temple, Shivganj",
+               "short_name" : "Shree Brijeshwor Nath Temple, Shivganj",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Shivagunj",
+               "short_name" : "Shivagunj",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mechi",
+               "short_name" : "Mechi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "57200",
+               "short_name" : "57200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Shree Brijeshwor Nath Temple, Shivganj, Shivagunj 57200, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.5693947,
+               "lng" : 87.8398722
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.5707436802915,
+                  "lng" : 87.84122118029151
+               },
+               "southwest" : {
+                  "lat" : 26.5680457197085,
+                  "lng" : 87.83852321970851
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ18j1oxSY5TkRBgncJuNIU94",
+         "types" : [
+            "point_of_interest",
+            "hindu_temple",
+            "place_of_worship",
+            "establishment"
+         ]
+      }
+   ],
+   "status" : "OK"
 }

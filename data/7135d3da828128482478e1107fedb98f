@@ -1,5 +1,70 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "ward no 6",
+               "short_name" : "ward no 6",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Budhabare",
+               "short_name" : "Budhabare",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mechi",
+               "short_name" : "Mechi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "57200",
+               "short_name" : "57200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "ward no 6, Budhabare 57200, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.7240237,
+                  "lng" : 88.0485489
+               },
+               "southwest" : {
+                  "lat" : 26.7213159,
+                  "lng" : 88.04811579999999
+               }
+            },
+            "location" : {
+               "lat" : 26.7228233,
+               "lng" : 88.0485489
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.7240237,
+                  "lng" : 88.04968133029151
+               },
+               "southwest" : {
+                  "lat" : 26.7213159,
+                  "lng" : 88.04698336970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJv2N74Ry35TkR-NIWPINt5Nk",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
 }

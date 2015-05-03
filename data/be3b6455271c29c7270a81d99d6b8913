@@ -1,5 +1,55 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Madhavpur",
+               "short_name" : "Madhavpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56100",
+               "short_name" : "56100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Madhavpur 56100, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.24,
+               "lng" : 86.44
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.2413489802915,
+                  "lng" : 86.44134898029151
+               },
+               "southwest" : {
+                  "lat" : 27.2386510197085,
+                  "lng" : 86.4386510197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJcQcgoWxO6TkRzwA8IZTwUpA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

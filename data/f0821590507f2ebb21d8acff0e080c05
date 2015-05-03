@@ -1,5 +1,59 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Arjundhara",
+               "short_name" : "Arjundhara",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mechi",
+               "short_name" : "Mechi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Arjundhara, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.7170745,
+                  "lng" : 88.0064428
+               },
+               "southwest" : {
+                  "lat" : 26.640746,
+                  "lng" : 87.9406644
+               }
+            },
+            "location" : {
+               "lat" : 26.68,
+               "lng" : 87.97
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.7170745,
+                  "lng" : 88.0064428
+               },
+               "southwest" : {
+                  "lat" : 26.640746,
+                  "lng" : 87.9406644
+               }
+            }
+         },
+         "place_id" : "ChIJGaWnJi265TkRwYva76PjRAY",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

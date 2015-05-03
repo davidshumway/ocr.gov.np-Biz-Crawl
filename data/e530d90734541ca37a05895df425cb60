@@ -1,5 +1,60 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pakhribas",
+               "short_name" : "Pakhribas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Koshi",
+               "short_name" : "Koshi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pakhribas, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.1280494,
+                  "lng" : 87.3245715
+               },
+               "southwest" : {
+                  "lat" : 27.0075199,
+                  "lng" : 87.17943190000001
+               }
+            },
+            "location" : {
+               "lat" : 27.04,
+               "lng" : 87.28999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.1280494,
+                  "lng" : 87.3245715
+               },
+               "southwest" : {
+                  "lat" : 27.0075199,
+                  "lng" : 87.17943190000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ9Yzr91tJ7zkRHIpzBgOn2oI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

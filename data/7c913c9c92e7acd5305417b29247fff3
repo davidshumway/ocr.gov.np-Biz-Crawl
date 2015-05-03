@@ -1,5 +1,60 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Garamani",
+               "short_name" : "Garamani",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mechi",
+               "short_name" : "Mechi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Garamani, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.6251712,
+                  "lng" : 88.049283
+               },
+               "southwest" : {
+                  "lat" : 26.5542228,
+                  "lng" : 87.95350669999999
+               }
+            },
+            "location" : {
+               "lat" : 26.59,
+               "lng" : 88.00999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.6251712,
+                  "lng" : 88.049283
+               },
+               "southwest" : {
+                  "lat" : 26.5542228,
+                  "lng" : 87.95350669999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ_7iW_E2l5TkR_aeq4SUmhsI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

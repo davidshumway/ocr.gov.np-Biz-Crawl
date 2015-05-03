@@ -1,5 +1,64 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gauradaha",
+               "short_name" : "Gauradaha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mechi",
+               "short_name" : "Mechi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "57200",
+               "short_name" : "57200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gauradaha 57200, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.6280964,
+                  "lng" : 87.74536739999999
+               },
+               "southwest" : {
+                  "lat" : 26.5179688,
+                  "lng" : 87.69253859999999
+               }
+            },
+            "location" : {
+               "lat" : 26.56,
+               "lng" : 87.72
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.6280964,
+                  "lng" : 87.74536739999999
+               },
+               "southwest" : {
+                  "lat" : 26.5179688,
+                  "lng" : 87.69253859999999
+               }
+            }
+         },
+         "place_id" : "ChIJWdPFKuua5TkR0o4NKf4OdIo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

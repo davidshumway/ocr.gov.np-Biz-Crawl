@@ -1,5 +1,75 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Road 1",
+               "short_name" : "Rd 1",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tarahara",
+               "short_name" : "Tarahara",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Hansposa",
+               "short_name" : "Hansposa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Koshi",
+               "short_name" : "Koshi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56705",
+               "short_name" : "56705",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Road 1, Hansposa 56705, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.6996674,
+                  "lng" : 87.2689506
+               },
+               "southwest" : {
+                  "lat" : 26.6989812,
+                  "lng" : 87.26879339999999
+               }
+            },
+            "location" : {
+               "lat" : 26.6990181,
+               "lng" : 87.2688019
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.7006732802915,
+                  "lng" : 87.2702209802915
+               },
+               "southwest" : {
+                  "lat" : 26.6979753197085,
+                  "lng" : 87.26752301970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ_auvhZhr7zkRBpD80s2szoQ",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
 }

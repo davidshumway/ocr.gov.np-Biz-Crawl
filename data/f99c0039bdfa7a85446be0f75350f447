@@ -1,5 +1,60 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sundarpur",
+               "short_name" : "Sundarpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Koshi",
+               "short_name" : "Koshi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sundarpur, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.7167297,
+                  "lng" : 87.35886359999999
+               },
+               "southwest" : {
+                  "lat" : 26.6581514,
+                  "lng" : 87.28690809999999
+               }
+            },
+            "location" : {
+               "lat" : 26.68,
+               "lng" : 87.33
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.7167297,
+                  "lng" : 87.35886359999999
+               },
+               "southwest" : {
+                  "lat" : 26.6581514,
+                  "lng" : 87.28690809999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJPSjp6DNp7zkRuEvgT5iZs1o",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

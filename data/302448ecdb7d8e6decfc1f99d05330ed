@@ -1,5 +1,55 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sundarpur",
+               "short_name" : "Sundarpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56300",
+               "short_name" : "56300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sundarpur 56300, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 26.74,
+               "lng" : 86.88000000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.7413489802915,
+                  "lng" : 86.88134898029152
+               },
+               "southwest" : {
+                  "lat" : 26.7386510197085,
+                  "lng" : 86.87865101970851
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJCUkkiWrg7jkRPfnLXQkQoQQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

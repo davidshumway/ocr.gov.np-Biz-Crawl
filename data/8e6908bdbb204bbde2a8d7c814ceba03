@@ -1,5 +1,60 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chainpur",
+               "short_name" : "Chainpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Koshi",
+               "short_name" : "Koshi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chainpur, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.4063669,
+                  "lng" : 87.45855329999999
+               },
+               "southwest" : {
+                  "lat" : 27.2112816,
+                  "lng" : 87.19728470000001
+               }
+            },
+            "location" : {
+               "lat" : 27.3,
+               "lng" : 87.32000000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.4063669,
+                  "lng" : 87.45855329999999
+               },
+               "southwest" : {
+                  "lat" : 27.2112816,
+                  "lng" : 87.19728470000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJYTLUutmw6DkRXjj0gHHsGrY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

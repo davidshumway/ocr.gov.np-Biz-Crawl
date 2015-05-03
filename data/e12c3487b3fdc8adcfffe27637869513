@@ -1,5 +1,54 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dhungesaghu",
+               "short_name" : "Dhungesaghu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mechi",
+               "short_name" : "Mechi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "57500",
+               "short_name" : "57500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dhungesaghu 57500, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.35,
+               "lng" : 87.56999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.3513489802915,
+                  "lng" : 87.5713489802915
+               },
+               "southwest" : {
+                  "lat" : 27.34865101970849,
+                  "lng" : 87.5686510197085
+               }
+            }
+         },
+         "place_id" : "ChIJ6Uupzy8d5jkRVOQSmbMJ5is",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

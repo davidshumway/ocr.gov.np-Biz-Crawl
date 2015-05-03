@@ -1,5 +1,59 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chimadi",
+               "short_name" : "Chimadi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Koshi",
+               "short_name" : "Koshi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chimadi, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.5175861,
+                  "lng" : 87.2110606
+               },
+               "southwest" : {
+                  "lat" : 26.4804072,
+                  "lng" : 87.15664389999999
+               }
+            },
+            "location" : {
+               "lat" : 26.5,
+               "lng" : 87.19
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.5175861,
+                  "lng" : 87.2110606
+               },
+               "southwest" : {
+                  "lat" : 26.4804072,
+                  "lng" : 87.15664389999999
+               }
+            }
+         },
+         "place_id" : "ChIJpyaSX4YM7zkRbcMCelaPC_A",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

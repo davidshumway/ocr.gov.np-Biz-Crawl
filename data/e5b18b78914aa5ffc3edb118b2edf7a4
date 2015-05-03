@@ -1,5 +1,45 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Koshi River",
+               "short_name" : "Koshi River",
+               "types" : [ "natural_feature", "establishment" ]
+            }
+         ],
+         "formatted_address" : "Koshi River",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.8262154,
+                  "lng" : 87.26650049999999
+               },
+               "southwest" : {
+                  "lat" : 25.396598,
+                  "lng" : 86.4182005
+               }
+            },
+            "location" : {
+               "lat" : 26.5459247,
+               "lng" : 86.93737159999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8262154,
+                  "lng" : 87.26650049999999
+               },
+               "southwest" : {
+                  "lat" : 25.396598,
+                  "lng" : 86.4182005
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJZcRvhqY68DkR4kE8ELsIX4E",
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
 }

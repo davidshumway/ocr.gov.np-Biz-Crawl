@@ -1,5 +1,70 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ilam Road",
+               "short_name" : "Ilam Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Danabari",
+               "short_name" : "Danabari",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mechi",
+               "short_name" : "Mechi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "57300",
+               "short_name" : "57300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ilam Road, Danabari 57300, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.7986767,
+                  "lng" : 87.90933609999999
+               },
+               "southwest" : {
+                  "lat" : 26.7759563,
+                  "lng" : 87.884744
+               }
+            },
+            "location" : {
+               "lat" : 26.7856949,
+               "lng" : 87.8993254
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.7986767,
+                  "lng" : 87.90933609999999
+               },
+               "southwest" : {
+                  "lat" : 26.7759563,
+                  "lng" : 87.884744
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ-9bSU4HA5TkR0ewADIq8zUE",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
 }

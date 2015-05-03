@@ -1,5 +1,59 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Theliya",
+               "short_name" : "Theliya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Theliya, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.7126554,
+                  "lng" : 86.88357619999999
+               },
+               "southwest" : {
+                  "lat" : 26.6073687,
+                  "lng" : 86.82340479999999
+               }
+            },
+            "location" : {
+               "lat" : 26.65,
+               "lng" : 86.86
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.7126554,
+                  "lng" : 86.88357619999999
+               },
+               "southwest" : {
+                  "lat" : 26.6073687,
+                  "lng" : 86.82340479999999
+               }
+            }
+         },
+         "place_id" : "ChIJO70-rVzh7jkR1tLTn72WoQQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

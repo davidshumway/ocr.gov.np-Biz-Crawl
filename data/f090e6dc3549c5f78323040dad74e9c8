@@ -1,5 +1,55 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Panchami",
+               "short_name" : "Panchami",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mechi",
+               "short_name" : "Mechi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "57400",
+               "short_name" : "57400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Panchami 57400, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.24,
+               "lng" : 87.78
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.2413489802915,
+                  "lng" : 87.7813489802915
+               },
+               "southwest" : {
+                  "lat" : 27.2386510197085,
+                  "lng" : 87.77865101970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJN-8p6_wL5jkR_fNohspcqNY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

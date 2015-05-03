@@ -1,5 +1,59 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Raniganj",
+               "short_name" : "Raniganj",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Raniganj, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.0587722,
+                  "lng" : 85.69941589999999
+               },
+               "southwest" : {
+                  "lat" : 27.0163998,
+                  "lng" : 85.62609499999999
+               }
+            },
+            "location" : {
+               "lat" : 27.041667,
+               "lng" : 85.64999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.0587722,
+                  "lng" : 85.69941589999999
+               },
+               "southwest" : {
+                  "lat" : 27.0163998,
+                  "lng" : 85.62609499999999
+               }
+            }
+         },
+         "place_id" : "ChIJQ4L-tZR-7DkR7eINuZ1rUQw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

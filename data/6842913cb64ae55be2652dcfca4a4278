@@ -1,5 +1,65 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Manpur",
+               "short_name" : "Manpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45800",
+               "short_name" : "45800",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Manpur 45800, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.9541248,
+                  "lng" : 85.44005679999999
+               },
+               "southwest" : {
+                  "lat" : 26.9137363,
+                  "lng" : 85.3860024
+               }
+            },
+            "location" : {
+               "lat" : 26.916667,
+               "lng" : 85.39999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9541248,
+                  "lng" : 85.44005679999999
+               },
+               "southwest" : {
+                  "lat" : 26.9137363,
+                  "lng" : 85.3860024
+               }
+            }
+         },
+         "place_id" : "ChIJC4oz8JSa7DkRgaypZN_ktYM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

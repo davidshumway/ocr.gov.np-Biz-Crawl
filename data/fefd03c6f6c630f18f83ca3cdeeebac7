@@ -1,5 +1,55 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mulkharka",
+               "short_name" : "Mulkharka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56100",
+               "short_name" : "56100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mulkharka 56100, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.27,
+               "lng" : 86.39000000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.2713489802915,
+                  "lng" : 86.39134898029153
+               },
+               "southwest" : {
+                  "lat" : 27.2686510197085,
+                  "lng" : 86.38865101970852
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJMb2VFk1Q6TkRNNZjY9zuxKk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

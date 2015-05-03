@@ -1,5 +1,80 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sunsari Multiple Campus",
+               "short_name" : "Sunsari Multiple Campus",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "East-West Highway",
+               "short_name" : "East-West Highway",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Inaruwa",
+               "short_name" : "Inaruwa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sunsari",
+               "short_name" : "Sunsari",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Koshi",
+               "short_name" : "Koshi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56710",
+               "short_name" : "56710",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sunsari Multiple Campus, East-West Highway, Inaruwa 56710, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.6081697,
+                  "lng" : 87.1397728
+               },
+               "southwest" : {
+                  "lat" : 26.6072007,
+                  "lng" : 87.1379596
+               }
+            },
+            "location" : {
+               "lat" : 26.6077315,
+               "lng" : 87.1390165
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.6090341802915,
+                  "lng" : 87.14021518029152
+               },
+               "southwest" : {
+                  "lat" : 26.6063362197085,
+                  "lng" : 87.13751721970851
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJL-ayposR7zkR5aQCSHPyqdc",
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
 }

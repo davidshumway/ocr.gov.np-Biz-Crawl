@@ -1,5 +1,130 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bhedetar - Rajarani - Rabi - Ranke",
+               "short_name" : "MERM",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Koshi",
+               "short_name" : "Koshi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bhedetar - Rajarani - Rabi - Ranke, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.8908611,
+                  "lng" : 87.43762649999999
+               },
+               "southwest" : {
+                  "lat" : 26.8462237,
+                  "lng" : 87.31989919999999
+               }
+            },
+            "location" : {
+               "lat" : 26.8695471,
+               "lng" : 87.38687879999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8908611,
+                  "lng" : 87.43762649999999
+               },
+               "southwest" : {
+                  "lat" : 26.8462237,
+                  "lng" : 87.31989919999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJSz6hXo5D7zkRejRcCMq5i9Y",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rajarani football ground",
+               "short_name" : "Rajarani football ground",
+               "types" : []
+            },
+            {
+               "long_name" : "Bhedetar - Rajarani - Rabi - Ranke",
+               "short_name" : "MERM",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rajarani",
+               "short_name" : "Rajarani",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Koshi",
+               "short_name" : "Koshi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56800",
+               "short_name" : "56800",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rajarani football ground, Bhedetar - Rajarani - Rabi - Ranke, Rajarani 56800, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.8823015,
+                  "lng" : 87.42925819999999
+               },
+               "southwest" : {
+                  "lat" : 26.8812632,
+                  "lng" : 87.42817459999999
+               }
+            },
+            "location" : {
+               "lat" : 26.8817824,
+               "lng" : 87.4287164
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8831313302915,
+                  "lng" : 87.4300653802915
+               },
+               "southwest" : {
+                  "lat" : 26.8804333697085,
+                  "lng" : 87.42736741970847
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJp3m5-ppb7zkRg9qMHhXLBrk",
+         "types" : []
+      }
+   ],
+   "status" : "OK"
 }

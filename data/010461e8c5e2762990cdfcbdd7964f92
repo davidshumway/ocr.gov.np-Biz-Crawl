@@ -1,5 +1,70 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Laksminiya",
+               "short_name" : "Laksminiya",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Belaha",
+               "short_name" : "Belaha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56500",
+               "short_name" : "56500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Laksminiya, Belaha 56500, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.7102702,
+                  "lng" : 86.22731209999999
+               },
+               "southwest" : {
+                  "lat" : 26.6963535,
+                  "lng" : 86.2034513
+               }
+            },
+            "location" : {
+               "lat" : 26.7022903,
+               "lng" : 86.2133085
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.7102702,
+                  "lng" : 86.22731209999999
+               },
+               "southwest" : {
+                  "lat" : 26.6963535,
+                  "lng" : 86.2034513
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJdxoBMqsh7DkRBcYoO1C1ATM",
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

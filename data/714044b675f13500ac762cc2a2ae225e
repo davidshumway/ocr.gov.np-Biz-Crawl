@@ -1,5 +1,125 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Joginiya-2",
+               "short_name" : "Joginiya-2",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56400",
+               "short_name" : "56400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Joginiya-2 56400, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.5344392,
+                  "lng" : 86.86691560000001
+               },
+               "southwest" : {
+                  "lat" : 26.5145465,
+                  "lng" : 86.843087
+               }
+            },
+            "location" : {
+               "lat" : 26.53,
+               "lng" : 86.86
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.5344392,
+                  "lng" : 86.86691560000001
+               },
+               "southwest" : {
+                  "lat" : 26.5145465,
+                  "lng" : 86.843087
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJG5KzaVb87jkRDlXOx_xEF_w",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Joginiya-1",
+               "short_name" : "Joginiya-1",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56400",
+               "short_name" : "56400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Joginiya-1 56400, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.546991,
+                  "lng" : 86.89781859999999
+               },
+               "southwest" : {
+                  "lat" : 26.5115715,
+                  "lng" : 86.84756089999999
+               }
+            },
+            "location" : {
+               "lat" : 26.53,
+               "lng" : 86.88000000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.546991,
+                  "lng" : 86.89781859999999
+               },
+               "southwest" : {
+                  "lat" : 26.5115715,
+                  "lng" : 86.84756089999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJOUb1hQj97jkRjUYhvXL1deo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

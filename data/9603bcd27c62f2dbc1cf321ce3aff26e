@@ -1,5 +1,60 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Odraha",
+               "short_name" : "Odraha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Odraha, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.7206864,
+                  "lng" : 86.9839016
+               },
+               "southwest" : {
+                  "lat" : 26.6953338,
+                  "lng" : 86.9494795
+               }
+            },
+            "location" : {
+               "lat" : 26.7,
+               "lng" : 86.9667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.7206864,
+                  "lng" : 86.9839016
+               },
+               "southwest" : {
+                  "lat" : 26.6953338,
+                  "lng" : 86.9494795
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJO1FuONse7zkR8cGjnfYTp3k",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

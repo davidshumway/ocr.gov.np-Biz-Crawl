@@ -1,5 +1,60 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yasam",
+               "short_name" : "Yasam",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Yasam, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.3995085,
+                  "lng" : 86.30241389999999
+               },
+               "southwest" : {
+                  "lat" : 27.3595332,
+                  "lng" : 86.22147560000001
+               }
+            },
+            "location" : {
+               "lat" : 27.3735382,
+               "lng" : 86.2641076
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.3995085,
+                  "lng" : 86.30241389999999
+               },
+               "southwest" : {
+                  "lat" : 27.3595332,
+                  "lng" : 86.22147560000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJQyli1phY6TkRzI4bLsgG9b8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

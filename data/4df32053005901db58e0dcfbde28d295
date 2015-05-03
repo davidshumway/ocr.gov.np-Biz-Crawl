@@ -1,5 +1,60 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console",
-   "results" : [],
-   "status" : "REQUEST_DENIED"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sambhunath",
+               "short_name" : "Sambhunath",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sambhunath, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.7102703,
+                  "lng" : 86.74658769999999
+               },
+               "southwest" : {
+                  "lat" : 26.5790249,
+                  "lng" : 86.6338492
+               }
+            },
+            "location" : {
+               "lat" : 26.61,
+               "lng" : 86.69
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.7102703,
+                  "lng" : 86.74658769999999
+               },
+               "southwest" : {
+                  "lat" : 26.5790249,
+                  "lng" : 86.6338492
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJibDobFvu7jkR7Iw-bnCBuEk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
 }
