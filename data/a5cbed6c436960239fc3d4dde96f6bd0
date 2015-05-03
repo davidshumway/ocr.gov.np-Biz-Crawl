@@ -1,5 +1,60 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "results" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Panchthar",
+               "short_name" : "Panchthar",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Mechi",
+               "short_name" : "Mechi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Panchthar, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.4906085,
+                  "lng" : 88.06383129999999
+               },
+               "southwest" : {
+                  "lat" : 26.8926792,
+                  "lng" : 87.50885009999999
+               }
+            },
+            "location" : {
+               "lat" : 27.2036401,
+               "lng" : 87.81567149999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.4906085,
+                  "lng" : 88.06383129999999
+               },
+               "southwest" : {
+                  "lat" : 26.8926792,
+                  "lng" : 87.50885009999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJN4kGATAK5jkRIbodMAw0leg",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

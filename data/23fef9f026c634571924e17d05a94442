@@ -1,5 +1,60 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "results" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sankhuwasabha",
+               "short_name" : "Sankhuwasabha",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Koshi",
+               "short_name" : "Koshi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sankhuwasabha, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.0193328,
+                  "lng" : 87.60575279999999
+               },
+               "southwest" : {
+                  "lat" : 27.172804,
+                  "lng" : 86.8816853
+               }
+            },
+            "location" : {
+               "lat" : 27.6141916,
+               "lng" : 87.14228949999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.0193328,
+                  "lng" : 87.60575279999999
+               },
+               "southwest" : {
+                  "lat" : 27.172804,
+                  "lng" : 86.8816853
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJLV5dvZeU6DkRpFoLyjtcAZo",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

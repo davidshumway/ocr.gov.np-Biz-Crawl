@@ -22,11 +22,15 @@ ini_set('pcre.backtrack_limit', 10485760);
 if (isset($argv[1])) {
 	// Folder = This is the location to save to, when necessary.
 	// Google API key. This is for translations.
-	$key = false;
+	$key1 = false;
+	$key2 = false;
 	if (isset($argv[2])) {
-		$key = $argv[2];
+		$key1 = $argv[2]; // Google API
+		if (isset($argv[3])) {
+			$key2 = $argv[3]; // Facebook API
+		}
 	}
-	new regions($argv[1], $key);
+	new regions($argv[1], $key1, $key2);
 }
 
 /**
@@ -50,11 +54,13 @@ class regions {
 	
 	private $categories; // Categories object
 	
-	private $fusion_tables_id = 1000001; // Lat/Lng differentiation is necessary to show all points on Google's Fusion Tables. Seems to be a bug.
+	private $fb_key; // Categories object
+	
+	//~ private $fusion_tables_id = 1000001; // Lat/Lng differentiation is necessary to show all points on Google's Fusion Tables. Seems to be a bug.
 	
 	//~ private $geo_folder; // Save geocoded addresses to this folder.
 	
-	function __construct($folder, $gapi_key = false) {
+	function __construct($folder, $gapi_key = false, $fb_key = false) {
 		
 		// Set $this->folder
 		$this->folder = $folder; 
@@ -98,12 +104,30 @@ class regions {
 		// Geocode approximate addresses.
 		$this->geocode_approximate();
 		
+		// Facebook, Google Places api.
+		
 		// Save businesses to disk as CSV
 		$this->csv();
 		
 		// Save 2-year-old or less businesses to disk as CSV
 		$this->csv(2068);
 		
+		// Check Facebook
+		$this->facebook();
+
+		
+		// https://maps.googleapis.com/maps/api/geocode/json?address=Karkineta,parbat,Dhaulagiri,nepal
+		
+		// Facebook
+		//~ var u = 
+			//~ 'https://graph.facebook.com/search'+
+			//~ '?q='+encodeURIComponent(v)+'&type=page'+ // not &type=user
+			//~ '&fields=category,id,name,likes,talking_about_count,location,link,website,cover,phone'+ //
+			//~ '&limit=10'+
+			//~ '&center='+lat+','+lng+ //
+			//~ '&distance=30000'+ // 30k ~ 19mi
+			//~ '&access_token='; //+KEY
+			
 		//~ // Make a "geo" data dir if it does not exist.
 		//~ $this->geo_folder = $folder . 'geo/';
 		//~ if (!file_exists($this->geo_folder)) {
@@ -127,6 +151,44 @@ class regions {
 		foreach ($this->regions as $key => $region) {
 			$this->regions[$key] = new region($region, $this->tmp_folder); // Set each region to a class object.
 		}
+	}
+	/**
+	 * function facebook
+	 * 
+	 * e.g.
+	 *  https://graph.facebook.com/search?q=*&type=place&fields=category,id,name,likes,talking_about_count,were_here_count,location,link,phone,website,description,members,mission,general_info,products,hours,category_list,cover,emails,founded&limit=5000000&center=27.702017,%2085.326436&distance=50000&access_token=
+	 * 
+	 * NOTE: "As a best practice, for large requests use a POST request instead of a GET request and add a method=GET parameter. If you do this, the POST will be interpreted as if it were a GET."
+	 * 
+	 * Reference is at:
+	 * https://developers.facebook.com/docs/graph-api/reference/page
+	 * 
+	 */
+	function facebook() {return;
+		if (!$this->fb_key) {
+			echo 'Skipping Facebook search.'."\n";
+		} else {
+			echo 'Starting Facebook search.'."\n";
+		}
+		//$this->locations_array {}->results[0]->geometry->location; // Just the lat/lng.
+		// Make unique lat/lng object.
+		$all_locn = array(); // Assoc. array.
+		foreach ($this->locations_array as $address => $locn) {
+			$str = $locn->lat . ',' . $locn->lng;
+			$all_locn[ $str ] = $locn;
+		}
+		// For each unique lat/lng location do a Facebook search for all businesses in the area.
+		// An asterisk seems to provide many results.
+		$info = ['category','id','name','likes','talking_about_count','were_here_count','location','link','phone','website','description','members','mission','general_info','products','hours','category_list','cover','emails','founded'];
+		$u =
+			'https://graph.facebook.com/search'.
+			'?q=*'.
+			'&type=place'.
+			'&fields='.urlencode(implode(',',$info)).
+			'&limit=5000000'.
+			'&center='.
+			'&distance=50000'. // Max if 50km
+			'&access_token='.urlencode($this->fb_key);
 	}
 	/**
 	 * function init_categories
@@ -469,6 +531,8 @@ class regions {
 			$opts = new StdClass;
 			$opts->url = $u;
 			$opts->filename = md5($ufilename);
+			$opts->overwrite_if_strpos = ['"error_message" : "You have exceeded your daily request quota for this API."'];
+			$opts->do_not_save_if_strpos = ['"error_message" : "You have exceeded your daily request quota for this API."'];
 			$opts->request_to_file = true;
 			$opts->request_from_file = true;
 			$opts->folder = $this->tmp_folder;
@@ -488,11 +552,22 @@ class regions {
 				$d = false;
 			}
 			$this->locations_array[ $address ] = $d;
+			if (strpos($content->html, '"error_message" : "You have exceeded your daily request quota for this API."') !== false) {
+				echo 'ERROR MESSAGE FROM GOOGLE GEOCODE API IS:You have exceeded your daily request quota for this API.'."\n";
+				echo 'Exiting.'."\n";
+				exit;
+			}
+			//~ // DEBUG
+			//~ if ($address == 'Jhapa,Mechi,Nepal') {
+				//~ echo $content->html;
+				//~ exit;
+			//~ }
 		}
 		
 		// Set business lat/lng for Regional and Local, if available.
-		// There is a bug with Fusion tables that means each Lat. Lng. must be different in order for all points to appear on a map.
-		// Adding $this->fusion_tables_id.
+		// There is a bug with Fusion tables that means each Lat./Lng. must be different in order for all points to appear on a map.
+		// So adding '000001', '000002', and so on would slightly differ the geocoding.
+		// However, it appears that altering the Lat/Lng does not make a difference. 
 		foreach ($this->regions as $key => $region) {
 			if ($region->title_en == 'Unknown') continue; // Unnecessary to geocode this.
 			foreach ($region->zones as $key2 => $zone) {
@@ -506,8 +581,7 @@ class regions {
 						{
 							try {
 								$loc = $this->locations_array[ $business->regional_location_string ];
-								$business->regional_lat_lng = $loc->lat.','.$loc->lng . $this->fusion_tables_id;
-								$this->fusion_tables_id++;
+								$business->regional_lat_lng = $loc->lat.','.$loc->lng;
 							} catch (Exception $e) {
 								$business->regional_lat_lng = ''; // None
 							}
@@ -520,8 +594,7 @@ class regions {
 						{
 							try {
 								$loc = $this->locations_array[ $business->local_location_string ];
-								$business->local_lat_lng = $loc->lat.','.$loc->lng . $this->fusion_tables_id;
-								$this->fusion_tables_id++;
+								$business->local_lat_lng = $loc->lat.','.$loc->lng;
 							} catch (Exception $e) {
 								$business->local_lat_lng = ''; // None
 							}
@@ -533,19 +606,7 @@ class regions {
 		
 		// Delete addresses_to_geocode & locations_array.
 		unset($addresses_to_geocode);
-		unset($this->locations_array);
-		
-		// https://maps.googleapis.com/maps/api/geocode/json?address=Karkineta,parbat,Dhaulagiri,nepal
-		
-		// Facebook
-		//~ var u = 
-			//~ 'https://graph.facebook.com/search'+
-			//~ '?q='+encodeURIComponent(v)+'&type=page'+ // not &type=user
-			//~ '&fields=category,id,name,likes,talking_about_count,location,link,website,cover,phone'+ //
-			//~ '&limit=10'+
-			//~ '&center='+lat+','+lng+ //
-			//~ '&distance=30000'+ // 30k ~ 19mi
-			//~ '&access_token='; //+KEY
+		//~ unset($this->locations_array); // Use later
 	}
 	function translate() {
 		// Translate?
@@ -963,14 +1024,35 @@ function curl_get($options) {
 		)
 	{
 		$file = $options->folder . $options->filename; 
-		if (property_exists($options, 'request_from_file') && file_exists($file)) {
+		if 	(
+			property_exists($options, 'request_from_file') &&
+			file_exists($file)
+			)
+		{
 			$fgc = file_get_contents($file);
 			$fgc = trim($fgc);
 			if ($fgc != '') { // Continue here if blank!
-				$return->isCached = true;
-				$return->html = $fgc;
-				$return->status = 200; // Echo 200 status.
-				return $return;
+				// Bad strings?
+				// Read from cache?
+				// $opts->overwrite_if_strpos = ['"error_message" : "You have exceeded your daily request quota for this API."'];
+				$read_from_cache = true;
+				if 	(
+					property_exists($options, 'overwrite_if_strpos')
+					)
+				{
+					foreach ($options->overwrite_if_strpos as $key=>$str) { // Array
+						if (strpos($fgc, $str) !== false) {
+							$read_from_cache = false;
+							break; // Unnecessary to continue here.
+						}
+					}
+				}
+				if ($read_from_cache) {
+					$return->isCached = true;
+					$return->html = $fgc;
+					$return->status = 200; // Echo 200 status.
+					return $return;
+				}
 			}
 		}
 	}
@@ -998,7 +1080,22 @@ function curl_get($options) {
 		property_exists($options, 'request_to_file') && $x == 200
 		)
 	{
-		file_put_contents($file, $r);
+		// Bad strings
+		$do_not_save = false;
+		if 	(
+			property_exists($options, 'do_not_save_if_strpos')
+			)
+		{
+			foreach ($options->do_not_save_if_strpos as $key=>$str) { // Array
+				if (strpos($r, $str) !== false) {
+					$do_not_save = true;
+					break; // Unnecessary to continue here.
+				}
+			}
+		}
+		if (!$do_not_save) {
+			file_put_contents($file, $r);
+		}
 	}
 	
 	// Return

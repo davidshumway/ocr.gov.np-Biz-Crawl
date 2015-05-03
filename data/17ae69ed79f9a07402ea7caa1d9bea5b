@@ -1,5 +1,60 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "results" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Terhathum",
+               "short_name" : "Terhathum",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Koshi",
+               "short_name" : "Koshi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Terhathum, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.3303713,
+                  "lng" : 87.73295399999999
+               },
+               "southwest" : {
+                  "lat" : 26.9751684,
+                  "lng" : 87.37246519999999
+               }
+            },
+            "location" : {
+               "lat" : 27.198391,
+               "lng" : 87.5000082
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.3303713,
+                  "lng" : 87.73295399999999
+               },
+               "southwest" : {
+                  "lat" : 26.9751684,
+                  "lng" : 87.37246519999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJlzZfrHUA5jkRYgbLWlKYBTs",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
 }

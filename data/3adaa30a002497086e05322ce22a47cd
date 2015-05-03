@@ -1,5 +1,59 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "results" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Solukhumbu",
+               "short_name" : "Solukhumbu",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Solukhumbu, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.1264189,
+                  "lng" : 86.9505214
+               },
+               "southwest" : {
+                  "lat" : 27.3367762,
+                  "lng" : 86.3545132
+               }
+            },
+            "location" : {
+               "lat" : 27.7909733,
+               "lng" : 86.6611083
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.1264189,
+                  "lng" : 86.9505214
+               },
+               "southwest" : {
+                  "lat" : 27.3367762,
+                  "lng" : 86.3545132
+               }
+            }
+         },
+         "place_id" : "ChIJb-S8mdoN6TkRtXIlDPQujDQ",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
 }
