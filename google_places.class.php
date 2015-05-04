@@ -1,8 +1,16 @@
 <?php
+/**
+ * 
+ * 
+ * TODO: Additional business searches:
+ * 	Hydropower or power factory or sub station or power grid or hydro or hydro station or generator or 
+ *  Building could also include....: "wood OR lumber OR hardware OR garden??? OR brick"
+ *  
+ * 
+ */
 class google_places  {
 	
 	private $arr_bad_str = array( // Array bad strings
-		'This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console',
 		'This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console',
 		'You have exceeded your daily request quota for this API.'
 	);
@@ -40,10 +48,58 @@ class google_places  {
 	 * 
 	 */
 	function __construct($regional_locations_array, $gapi_key, $tmp_folder) {
+		//~ echo ' '.count($regional_locations_array);exit;
 		$this->regional_locations_array = $regional_locations_array;
 		$this->gapi_key = $gapi_key;
 		$this->tmp_folder = $tmp_folder;
-		$this->google_places();
+		
+		// Building excavating
+		$fn = 'businesses-on-google-places.csv';
+		$types = [
+			'car_repair','electrician','general_contractor','hardware_store','home_goods_store','locksmith','moving_company','plumber','roofing_contractor'
+		];
+		$keywords = [
+			// TOOLS // ABOUT 1,250 of 4,375 are attributable to keywords
+			'construction OR cement OR mortar OR building OR "building supplies" OR materials OR tools OR contractor OR "power tools" OR "hand tools" OR "green building" OR "green home" OR builders OR "eco house" OR "sustainable construction" OR renovate OR roofing OR drill OR engineering OR machinery OR supplier OR engineer OR engineering'
+			
+			// There is limit about here.
+			//~ 'OR maintenance OR welder OR "heavy equipment" OR tractor OR "heavy truck" OR "semi truck" OR "dump truck" OR digger OR deere OR backhoe OR shovel OR wheelbarrow OR excavator OR ditch'
+		];
+		//~ $this->google_places($fn, $types, $keywords, $regional_locations_array);
+		
+		// Building excavating
+		$fn = 'businesses-on-google-places-types_only.csv';
+		$types = [
+			'car_repair','electrician','general_contractor','hardware_store','home_goods_store','locksmith','moving_company','plumber','roofing_contractor'
+		];
+		$keywords = [
+		];
+		$this->google_places($fn, $types, $keywords, $regional_locations_array);
+		//~ echo 'ROWS:'.count(explode("\n",file_get_contents($fn)));exit;
+		
+		// Building excavating
+		$fn = 'businesses-on-google-places-keywords_only.csv';
+		$types = [
+		];
+		$keywords = [
+			'construction OR cement OR mortar OR building OR "building supplies" OR materials OR tools OR contractor OR "power tools" OR "hand tools" OR "green building" OR "green home" OR builders OR "eco house" OR "sustainable construction" OR renovate OR roofing OR drill OR engineering OR machinery OR supplier OR engineer OR engineering'
+		];
+		$this->google_places($fn, $types, $keywords, $regional_locations_array);
+		
+		
+		// Tent materials
+		// Only 260 results.
+		$fn = 'businesses-on-google-places-tent.csv';
+		$types = [
+		];
+		$keywords = [
+			// TENT & MATERIALS, (limit after last word here).
+			'tent OR tents OR tenting OR tarp OR tarps OR tarpaulin OR tarpauline OR "building supplies" OR material OR fabric OR fabrics OR outdoor OR upholstery OR cotton OR textile OR textiles OR quilt OR shelter OR survival OR backpacking OR nylon OR silnylon OR hammock OR stakes OR camping OR tarptent OR canopy OR canopies OR weatherproof'
+		];
+		$this->google_places($fn, $types, $keywords, $regional_locations_array);
+		
+		// Kolkata
+		//~ $this->google_places();
 	}
 	/**
 	 * function google_places
@@ -58,7 +114,7 @@ class google_places  {
 	 * 
 	 * TODO: Add search keyword, e.g. "construction", and then search with no types.
 	 */
-	function google_places() {
+	function google_places($filename, $types, $keywords, $lat_lng_pairs) { // filename, types, keywords, lat_lng_pairs
 		if (!$this->gapi_key) {
 			echo 'Skipping Google Places search.'."\n";
 			return;
@@ -66,52 +122,57 @@ class google_places  {
 		// If still  here then start Google Place
 		echo 'Starting Google Places search.'."\n";
 		
-		// CSV
-		// ??? 'establishment','store','electronics_store'
+		// Reset the key index
+		$this->assoc_results_gpid = array();
 		
-		$csv = 'businesses-on-google-places.csv';
-		$this->fp = fopen($csv, 'w');
-		$types1 = [
-			'car_repair','electrician','general_contractor','hardware_store','home_goods_store','locksmith','moving_company','plumber','roofing_contractor'
-		];
-		$keywords = [
-			// TOOLS SEARCH:
-			'construction OR cement OR mortar OR building OR "building supplies" OR materials OR tools OR contractor OR "power tools" OR "hand tools" OR "green building","green home" OR builders OR "eco house" OR "sustainable construction" OR renovate OR roofing OR drill OR engineering OR machinery OR supplier OR engineer OR engineering OR maintenance OR welder OR "heavy equipment" OR tractor OR "heavy truck" OR "semi truck" OR "dump truck" OR digger OR deere OR backhoe OR shovel OR wheelbarrow OR excavator OR ditch'//,
-			//~ // TENT & MATERIALS SEARCH:
+		//~ // CSV
+		//~ // ??? 'establishment','store','electronics_store'
+		//~ 
+		//~ $csv = 'businesses-on-google-places.csv';
+		//~ $fp = fopen($csv, 'w');
+		//~ $types1 = [
+			//~ 'car_repair','electrician','general_contractor','hardware_store','home_goods_store','locksmith','moving_company','plumber','roofing_contractor'
+		//~ ];
+		//~ $keywords = [
+			//~ // TOOLS SEARCH:
+			//~ 'construction OR cement OR mortar OR building OR "building supplies" OR materials OR tools OR contractor OR "power tools" OR "hand tools" OR "green building" OR "green home" OR builders OR "eco house" OR "sustainable construction" OR renovate OR roofing OR drill OR engineering OR machinery OR supplier OR engineer OR engineering OR maintenance OR welder OR "heavy equipment" OR tractor OR "heavy truck" OR "semi truck" OR "dump truck" OR digger OR deere OR backhoe OR shovel OR wheelbarrow OR excavator OR ditch'//,
+			// TENT & MATERIALS SEARCH:
 			//~ 'tent OR tents OR tenting OR tarp OR tarps OR tarpaulin OR tarpauline OR "building supplies" OR material OR fabric OR fabrics OR outdoor OR upholstery OR cotton OR textile OR textiles OR quilt OR shelter OR survival OR backpacking OR nylon OR silnylon OR hammock OR stakes OR camping OR tarptent OR canopy OR canopies OR weatherproof'
-		];
-
+		//~ ];
+		
+		// Open
+		$fp = fopen($filename, 'w');
 		// Write header to CSV.
-		fputcsv($this->fp, $this->place_details_fields);
+		fputcsv($fp, $this->place_details_fields);
 		
 		// Loop regional lat/lng pairs
 		// $this->regional_locations_array
 		// String lat/lng.
-		foreach ($this->regional_locations_array as $address => $str_lat_lng) {
+		foreach ($lat_lng_pairs as $address => $str_lat_lng) {
 			// Loop types
-			foreach ($types1 as $key => $type) {
+			foreach ($types as $key => $type) {
 				
 				// Search for places
-				$d1 = $this->google_places_init_search($str_lat_lng, $type, $address, false); // 
+				$d1 = $this->google_places_init_search($fp, $str_lat_lng, $type, $address, false); // 
 				// Get the biz details for each search result, and write
-				$this->get_biz_and_write($d1);
+				$this->get_biz_and_write($d1, $fp);
 			}
 			// Loop keyword searches
 			foreach ($keywords as $key => $keyword) {
 				
 				// Search for places
-				$d1 = $this->google_places_init_search($str_lat_lng, '', $address, $keyword); // Set $keyword argument
+				$d1 = $this->google_places_init_search($fp, $str_lat_lng, '', $address, $keyword); // Set $keyword argument
 				// Get the biz details for each search result, and write
-				$this->get_biz_and_write($d1);
+				$this->get_biz_and_write($d1, $fp);
 			}
 		}
 		// Close fp.
-		fclose($this->fp);
+		fclose($fp);
 	}
 	/**
 	 * function get_biz_and_write
 	 */
-	function get_biz_and_write($search_results) { //=Array of objects {place_id:}
+	function get_biz_and_write($search_results, $file_handle) { //=Array of objects {place_id:}
 		// Loop search results
 		// Retrieve details on each place using its place_id
 		foreach ($search_results as $key1 => $gp) {
@@ -152,7 +213,7 @@ class google_places  {
 							array_push($arr_csv, ''); // Push blank here.
 				}
 			}
-			fputcsv($this->fp, $arr_csv); // Write CSV row to file.
+			fputcsv($file_handle, $arr_csv); // Write CSV row to file.
 		}
 	}
 	/**
@@ -160,7 +221,7 @@ class google_places  {
 	 * 
 	 * CURL requests.
 	 */
-	function google_places_init_search($str_lat_lng, $type, $address, $keywords = false, $radius=50000, $last_search=false) {
+	function google_places_init_search($file_handle, $str_lat_lng, $type, $address, $keywords = false, $radius=50000, $last_search=false) {
 		// Curl get businesses
 		// Opts
 		$tmp_fn =
@@ -190,12 +251,15 @@ class google_places  {
 				echo $u."\n";
 				die('-2-Status != 200. Status='.$content->status);
 			}
-		}
+		} 
+		//debug
+		//if (strpos($keywords, 'tenting') !== false) { echo $u;print_r($content);exit;}
+		//~ echo $u;print_r($content);exit;
 		$d = json_decode($content->html);
 		$this->check_response_bad_str($content->html); // Check for bad strings
 		$num_results = count($d->results);
 		$d = $d->results;
-		echo "\n".'Number of businesses near "'.$address.'" (r='.$radius.') is '.$num_results."\n";
+		echo "\n".'Number of businesses near "'.$address.'" (r='.$radius.') '.$str_lat_lng.' is '.$num_results."\n";
 		// Are there more than 200 results? If so then
 		// the only way to see more is split this query up.
 		// One method to possibly get more is to use smaller radius.
@@ -213,7 +277,7 @@ class google_places  {
 			//~ $radius -= ($radius > 5000) ? 5000 : 1000;
 			if ($radius > 0) {
 				$d = array_merge(
-					$this->google_places_init_search($str_lat_lng, $type, $address, $keywords, $radius, true),
+					$this->google_places_init_search($file_handle, $str_lat_lng, $type, $address, $keywords, $radius, true),
 					$d
 				);
 			}

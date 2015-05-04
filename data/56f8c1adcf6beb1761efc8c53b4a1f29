@@ -1,0 +1,94 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "640",
+            "short_name" : "640",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Lakeside Road",
+            "short_name" : "Lakeside Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Pokhara",
+            "short_name" : "Pokhara",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Gandaki",
+            "short_name" : "Gandaki",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Western Region",
+            "short_name" : "Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "33700",
+            "short_name" : "33700",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eLakeside Road 640\u003c/span\u003e, \u003cspan class=\"locality\"\u003ePokhara\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e33700\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Lakeside Road 640, Pokhara 33700, Nepal",
+      "formatted_phone_number" : "061-462088",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.216898,
+            "lng" : 83.95881799999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id" : "c65551646f872f6ebfef14c58b456a533dc8404a",
+      "international_phone_number" : "+977 61-462088",
+      "name" : "Hotel Mandap & Resturant",
+      "place_id" : "ChIJxR042uOUlTkRMbVLkKyBKLA",
+      "reference" : "CnRsAAAAlsdpv5rckBmHgQSgSNUAk2NQ9Nrua4P9hsEQjJSSoOIQzhUb4gl6wKqyqu4FOWpVszNYcWXGbQzxdgNQ-vh-euNMi84aZsmJPm7pyubE7iiEzGan4iFowQUctXGKHQOozb-eAs6gpng-ys53fGzTsxIQctlOaIKATlJKIxJIXOAE5xoU_W1RnQCdw84DpP9FgQ56Y8IhTMk",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Сергей Чепелев",
+            "author_url" : "https://plus.google.com/114474721515344110183",
+            "language" : "ru",
+            "rating" : 5,
+            "text" : "Хорошие условия как для Покары.  Персонал компетентный. ",
+            "time" : 1393473682
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Barbera Quist",
+            "author_url" : "https://plus.google.com/109568449425978427941",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1402348860
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "lodging", "establishment" ],
+      "url" : "https://plus.google.com/107981479050629279280/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 345,
+      "vicinity" : "Lakeside Road 640, Pokhara"
+   },
+   "status" : "OK"
+}

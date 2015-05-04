@@ -1,0 +1,62 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Bhaktapur Road",
+            "short_name" : "Bhaktapur Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Thimi",
+            "short_name" : "Thimi",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kathmandu",
+            "short_name" : "Kathmandu",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eBhaktapur Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKathmandu\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Bhaktapur Road, Kathmandu, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.683674,
+            "lng" : 85.37546399999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "7783d9f9d3fdff77b61b8e20b4164ce254d9f4e5",
+      "name" : "Janak Education Material Centre",
+      "place_id" : "ChIJWw6MVRUa6zkRjb7blDy3mgg",
+      "reference" : "CoQBcgAAAO4OmclULraIob6k-yXmEF8o-eQbxYGnFB2thGh_9bKtugYGjVwChd23B6zrXsn9_1k1Ste--1BeK7Hs9_Vc2MH7IETZuVDUjsoiQhMI31Sm9XWt6is_9XFyeRM-psNzRIlrDoUl7ZaiRJZuKvtKciAkhEajhIWWn3TeDF7fd9ViEhC6fE6DNSfxmVwu7n99BC8YGhTGgSYYa14mftqoAzoIl3JNX8IjRw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1344083752
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/109724497523532675629/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Bhaktapur Road, Kathmandu"
+   },
+   "status" : "OK"
+}

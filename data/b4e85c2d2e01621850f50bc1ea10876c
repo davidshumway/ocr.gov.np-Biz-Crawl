@@ -1,0 +1,120 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Sevoke Road",
+            "short_name" : "Sevoke Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Siliguri",
+            "short_name" : "Siliguri",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Darjeeling",
+            "short_name" : "Darjeeling",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "734001",
+            "short_name" : "734001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eSevoke Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eSiliguri\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e734001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Sevoke Road, Siliguri, West Bengal 734001, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.719706,
+            "lng" : 88.42589599999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "9f500526ef7802d6b865863d6b36482493967378",
+      "name" : "Shivam Enterprises",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 7:00 pm",
+            "Tuesday: 10:00 am – 7:00 pm",
+            "Wednesday: 10:00 am – 7:00 pm",
+            "Thursday: 10:00 am – 7:00 pm",
+            "Friday: 10:00 am – 7:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJK1Q7fRNB5DkR8X4beAKa-ZM",
+      "reference" : "CnRmAAAA9veddTmK2x-_HuXATcFqs-pzgcjOJ1J4Au9fFHqSYr0eAj7Y98lmFrUcO1b0s2ozuzdtJbQleAEDFHFuoz8pm0WlV8KcgGMrH_klp8pX7b9oIeWLvngL7Gs77HBLYiFPWYH8gRdprknL3JJl1_gVWxIQqfiZbpR6jnBn3tXjLPlu5BoUX_MBuxfhum0f4a8elnkfXNrZuew",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "establishment" ],
+      "url" : "https://plus.google.com/101541697268635199320/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Sevoke Road, Siliguri"
+   },
+   "status" : "OK"
+}

@@ -656,7 +656,6 @@ class regions {
 		// Array of bad strings.
 		$arr_bad_str = [
 			'This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console',
-			'This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console',
 			'You have exceeded your daily request quota for this API.'
 		];
 		// It may be necessary to turn this on/off based on the requirements of the search.

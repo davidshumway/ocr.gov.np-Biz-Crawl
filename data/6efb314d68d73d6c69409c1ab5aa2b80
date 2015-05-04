@@ -1,0 +1,71 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Ring Road",
+            "short_name" : "Ring Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Kathmandu",
+            "short_name" : "Kathmandu",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bagmati",
+            "short_name" : "Bagmati",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eRing Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKathmandu\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Ring Road, Kathmandu, Nepal",
+      "formatted_phone_number" : "0984-1307936",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.688211,
+            "lng" : 85.28951499999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "e9d767508c219a2473d1a530809db576243d2b9f",
+      "international_phone_number" : "+977 984-1307936",
+      "name" : "Atlas Engineering & Construction Co. Pvt. Ltd",
+      "place_id" : "ChIJGV7cbGkY6zkRA9YxSaRb-ZA",
+      "reference" : "CpQBgQAAAIo8LFKHEyXIbm5JSq0SO5A2Oe5EOcAu1E81qoPTl1Zvtk82XILTblIXlIW3s8OkxWjPBQQgbgDvEKBiq0p-MJu86LnHLlVjZGV2T4Ozvt7THH5KWZAToisqikVcE_LPAcR9bl6qMJFABlNS4WdaFs3N-jEa5J_9bWxp8CzVsysOG2O5agIXIG-SW_6aL9eNgxIQafgfrn2nF4RJhUaYBivMxxoUCgdLn5UXEtUJqwgEidBIWKAhFP4",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Tanka Kafle",
+            "author_url" : "https://plus.google.com/102946310143977173706",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Atlas is the best company in Nepal for building and construction",
+            "time" : 1391337069
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/114612219932617472394/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Ring Road, Kathmandu",
+      "website" : "http://www.atlasengco.com.np/"
+   },
+   "status" : "OK"
+}

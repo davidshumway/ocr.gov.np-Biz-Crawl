@@ -1,0 +1,54 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Main Road",
+            "short_name" : "Main Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Sitamarhi",
+            "short_name" : "Sitamarhi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eMain Road\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Main Road, Bihar, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.59391,
+            "lng" : 85.49567399999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+      "id" : "8a9703fc3c5cb804b74f5f96be50be8bd738a114",
+      "name" : "Rajendra Bhawan",
+      "photos" : [
+         {
+            "height" : 768,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CnRvAAAAOvKeVMmN432ah9TTQtzOgw3Ddnp_-UfTfQtiZafAQBFw5xwPNJcUAiM3nLjezC3cI8ZZghv-tUEWykHNjoCgcJ40wxbRQJQwk1dfE6yYvkXZsAI_DIavZIqkqHMXdROXW0YWr-U7O7Z2lfJ6AlaGnhIQWs-ihClhprk260K7YhhtNBoUSO2AMm3oKKORC_ZEZuCrgLRs4o4",
+            "width" : 1024
+         }
+      ],
+      "place_id" : "ChIJBWfVohnx7DkRbvTzccj6V0c",
+      "reference" : "CnRiAAAAozuWiz_O14xTe-Jq8Xbsv3FYqOHYZCUVZ4ejqo8xgoWVmWffkKNhjO3zj2oKNRsZgIZAgTdnEszKPz6cORApvzUd4fsPwvhecu90Tfy91Es1aEA6IkTS_VPn2NmuLhzBOpuu3uw37crTd2IzDrdeIxIQBLMYXaPOg6pVHXXmfzeL8RoUMa02mtO6MdHZNY-pRuwz-QSCWCM",
+      "scope" : "GOOGLE",
+      "types" : [ "city_hall", "local_government_office", "establishment" ],
+      "url" : "https://plus.google.com/117836885663162044486/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Main Road"
+   },
+   "status" : "OK"
+}

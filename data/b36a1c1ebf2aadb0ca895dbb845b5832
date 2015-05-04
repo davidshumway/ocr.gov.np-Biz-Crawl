@@ -1,0 +1,73 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "State Highway 12",
+            "short_name" : "SH 12",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Mirik",
+            "short_name" : "Mirik",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Darjeeling",
+            "short_name" : "Darjeeling",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "734214",
+            "short_name" : "734214",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eState Highway 12\u003c/span\u003e, \u003cspan class=\"locality\"\u003eMirik\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e734214\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "State Highway 12, Mirik, West Bengal 734214, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.881881,
+            "lng" : 88.189038
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "20c675a24ca9a768f6cb17fcac0677234d12f3b9",
+      "name" : "Mirik Power Station",
+      "place_id" : "ChIJl_3yXGAz5DkR768v58SdxUY",
+      "reference" : "CnRmAAAAx1Z6o-hWpprdz8M76LPcTGivM91b38pxcYKi65S0nJJyX8rJ7JflJp_mV657XD9F2JWUtGnxf90S1cqeJlC6HKX3_0LPYK8oirs1yfC0u2GAW1F1fc-M4zGNdj7OcpL9EX5Gwzz5AzIQSpZI-l6z8BIQwmMe-gjkq9xz3QJCHUGgrxoUHWVXJ3SOXxk3iCHEdaTXUhc51MQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Pranay Tamang",
+            "author_url" : "https://plus.google.com/105785123880608870524",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "",
+            "time" : 1372434840
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/106243619704948144739/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "State Highway 12, Mirik"
+   },
+   "status" : "OK"
+}

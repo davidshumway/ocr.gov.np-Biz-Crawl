@@ -1,0 +1,82 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Baghdol",
+            "short_name" : "Baghdol",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kathmandu",
+            "short_name" : "Kathmandu",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "Baghdol, \u003cspan class=\"locality\"\u003eKathmandu\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Baghdol, Kathmandu, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.66921,
+            "lng" : 85.304858
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "977b248cdc0b27b5c835571df3a217d6bef0ef24",
+      "name" : "Apartment Complex",
+      "photos" : [
+         {
+            "height" : 281,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/117114784463871692194\"\u003eSanskriti Rana\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAgwSAmZZy80eZcc5oS5SijnSjs_jLlanU0iNbpGd0evCCAkfQCXE8svoUGxztx3rEfH9J-6Qt10YrMuUTmkt4ivUrOg4DMfvnWQ5xMOPYUZ_qJ5hAEitYlrj4Ur4ioEwlXyhjUaIB-e3OOHXw9NIGlRIQdpt4_csx0KwzgGE0AtycmxoUyhl2xWrsd5qAiTupyPe3MM_1VXs",
+            "width" : 375
+         }
+      ],
+      "place_id" : "ChIJXfeF3C8Y6zkRu8kUOmF7vgQ",
+      "reference" : "CnRkAAAAZeiOm1U7iAfL3qUI2md_kP2l9GylPiC_92_ov4NENDzm4qFPbLNqgcg0JM-ob5gz7NP7KyLkDvgC1GUFn7hc4mMmpnjpi69Yh2hBelUBo4SQf7j7fsNs_RkTtWEEulTtBngsHDixTpcdNk1eaLCe_hIQxU6bOWjAzsA9ogUSuYuXWRoUuvRrUQSkkiZtmRSzhjvCo2wu3EE",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Subodh Raj Pyakurel",
+            "author_url" : "https://plus.google.com/107859012879462561514",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Kathmandu Residency, Bagdole",
+            "time" : 1375491514
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Sanskriti Rana",
+            "author_url" : "https://plus.google.com/117114784463871692194",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1381195836
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/107497148536756810521/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 345,
+      "vicinity" : "Kathmandu"
+   },
+   "status" : "OK"
+}

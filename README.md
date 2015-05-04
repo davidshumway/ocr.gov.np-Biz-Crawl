@@ -20,11 +20,17 @@ If a Facebook application API key is supplied then the program will retrieve all
 
 The data is on Google Fusion tables:
 
-Businesses on Google Places (~8,000): https://www.google.com/fusiontables/data?docid=1JC4o6Z078CYML0CVDVBK9OetK_q6MXkEBIFPyGoD#map:id=3
-The addition of "establishment", "electronics store", and "store" cause this search to be a bit broad.
-The search is based on the following business types. Filter by any of the following to make the search more narrow: 'Car Repair','Electrician','General Contractor','Hardware Store','Home Goods Store','Locksmith','Moving Company','Plumber','Roofing Contractor'```
+Businesses on Google Places (~4,000): https://www.google.com/fusiontables/data?docid=1JC4o6Z078CYML0CVDVBK9OetK_q6MXkEBIFPyGoD#map:id=3
+The search is based on the following business types: ```'Car Repair','Electrician','General Contractor','Hardware Store','Home Goods Store','Locksmith','Moving Company','Plumber','Roofing Contractor'```
+In addition, the program also across a set of keywords: ```'construction OR cement OR mortar OR building OR "building supplies" OR materials OR tools OR contractor OR "power tools" OR "hand tools" OR "green building" OR "green home" OR builders OR "eco house" OR "sustainable construction" OR renovate OR roofing OR drill OR engineering OR machinery OR supplier OR engineer OR engineering'```
+
+businesses-on-google-places-keywords_only: https://www.google.com/fusiontables/data?docid=1PM3J43hbt1JTpLnOWEMO0F--sOFeE9VzfWFOtE6b#map:id=3
+The keywords only portion of the above search.
+
+businesses-on-google-places-types_only: https://www.google.com/fusiontables/data?docid=1gyiRo3FPoNUXfqIfvsIeHVTpC8pahBGT_1PE3US9#map:id=3
+The types only portion of the above search.
 
 Facebook Places (~500): https://www.google.com/fusiontables/data?docid=1shrVLCEiy13cZJ5_EWggZ83ScF-92kYDf_-iEiDq
-
+This is a list of all Facebook places in the country.
 
 

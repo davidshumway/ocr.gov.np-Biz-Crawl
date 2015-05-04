@@ -1,0 +1,133 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Jorpati - 4, House #1",
+            "short_name" : "Jorpati - 4, House #1",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Chamunda Gate Road",
+            "short_name" : "Chamunda Gate Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Boudhanath (Boudha)",
+            "short_name" : "Boudhanath (Boudha)",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kathmandu",
+            "short_name" : "Kathmandu",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bagmati",
+            "short_name" : "Bagmati",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "44600",
+            "short_name" : "44600",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eChamunda Gate Road Jorpati - 4, House #1\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKathmandu\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e44600\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Chamunda Gate Road Jorpati - 4, House #1, Kathmandu 44600, Nepal",
+      "formatted_phone_number" : "01-4485525",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.724102,
+            "lng" : 85.37226099999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "00d388ab47f1dfc3e87f4d4f56f6165a2e421947",
+      "international_phone_number" : "+977 1-4485525",
+      "name" : "NPN Building",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 6:00 pm",
+            "Tuesday: 10:00 am – 6:00 pm",
+            "Wednesday: 10:00 am – 6:00 pm",
+            "Thursday: 10:00 am – 6:00 pm",
+            "Friday: 10:00 am – 6:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJfxGVz8Yb6zkRL5K4SRe5VGY",
+      "reference" : "CmRfAAAALhEL1zbKICidjqNB-ZWuOK3xSt_4UrjN4NbBhXnk-aTfgEulwGYiVYciwCKJTN2tbCwQFc77QFeYOUxezslhfOwmc_hUFENOHo-xmU5w-D-BuhiKFFtUVMYhM-leqUKoEhAV23T3CokLj1sXZ1l-XV8tGhT_hyuY4m015CxM1gslSenehWF1sw",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/106741017287070987104/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "Chamunda Gate Road Jorpati - 4, House #1, Kathmandu",
+      "website" : "http://www.npn.com.np/"
+   },
+   "status" : "OK"
+}

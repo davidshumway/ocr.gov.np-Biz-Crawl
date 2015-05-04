@@ -1,0 +1,126 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "East-West Highway",
+            "short_name" : "East-West Hwy",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Narayani",
+            "short_name" : "Narayani",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "44204",
+            "short_name" : "44204",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eEast-West Highway\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e44204\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "East-West Highway, 44204, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.610889,
+            "lng" : 84.56687700000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "cfd8fa3f1b8d39b0153e4965fd2d8721cca6b496",
+      "name" : "Nepal Redcross, Khairahani Branch",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 5:00 pm",
+            "Tuesday: 10:00 am – 5:00 pm",
+            "Wednesday: 10:00 am – 5:00 pm",
+            "Thursday: 10:00 am – 5:00 pm",
+            "Friday: 10:00 am – 5:00 pm",
+            "Saturday: Closed",
+            "Sunday: 10:00 am – 5:00 pm"
+         ]
+      },
+      "place_id" : "ChIJBT5fAGHolDkRmqzd7RaC5MQ",
+      "reference" : "CoQBdQAAAGqpQqkGBLj0gbQhesmPd3RS08TY7ZBEP_ESjAKjot2lZgITHpnYJRbks95XBdCtOBq5tv5QP04MRT5gsPl3slgEhNgTvLJEkfoyj-ve3F2fVNj8R3nC1wS4M9-nox-zgB-XgjuS428My8lZXHBFYN7_rNOQnYtf4ygvl5ewgYiWEhCXk5Q1M_cKnOCisAECVIZ2GhSKlgF3kjeVCI1o_eSFRsdKAFvL4A",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/111925213418254607237/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "East-West Highway",
+      "website" : "http://redcross.org/"
+   },
+   "status" : "OK"
+}

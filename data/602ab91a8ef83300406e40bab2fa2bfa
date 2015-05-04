@@ -1,0 +1,159 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Turkaulia",
+            "short_name" : "Turkaulia",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Purvi Champaran",
+            "short_name" : "Purvi Champaran",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "845437",
+            "short_name" : "845437",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eTurkaulia\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e845437\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Turkaulia, Bihar 845437, India",
+      "formatted_phone_number" : "1800 11 2011",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.60792,
+            "lng" : 84.829707
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "cf8ebb905256d870cdd06a524d1979cf9dd7bea2",
+      "international_phone_number" : "+91 1800 11 2011",
+      "name" : "Post Office",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 5:00 pm",
+            "Tuesday: 9:00 am – 5:00 pm",
+            "Wednesday: 9:00 am – 5:00 pm",
+            "Thursday: 9:00 am – 5:00 pm",
+            "Friday: 9:00 am – 5:00 pm",
+            "Saturday: 9:00 am – 5:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJjUx9RjMxkzkREEzUOPeKMso",
+      "reference" : "CmRfAAAAgwYlGNKiTtOue9gP3-xg5kWZ_ffUsb9hqvgIOnVIUiM1knHzjV-12QqXhmaXQJECfk-LAZ8wRwoXnyKPgyiMa439uxo_Uh4_l-zBQic6GjY66obpGM7pOhe-2L40kktCEhDubMZZST2lnf70NB0YFjZPGhQ2drEZDLbNlBY5a0k_ggURQDYEsA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Haidar A",
+            "author_url" : "https://plus.google.com/110406785550002325234",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "Sarishwa",
+            "time" : 1422549157
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Aditya Bhardwaj",
+            "author_url" : "https://plus.google.com/104561370099476427923",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "WOOOOOOOO",
+            "time" : 1409937125
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "post_office", "finance", "establishment" ],
+      "url" : "https://plus.google.com/117819664692581996171/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "Turkaulia",
+      "website" : "http://www.indiapost.gov.in"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,155 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Durbar Marg",
+            "short_name" : "Durbar Marg",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Kamaladi",
+            "short_name" : "Kamaladi",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Kathmandu",
+            "short_name" : "Kathmandu",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bagmati",
+            "short_name" : "Bagmati",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "44600",
+            "short_name" : "44600",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eDurbar Marg\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKathmandu\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e44600\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Durbar Marg, Kathmandu 44600, Nepal",
+      "formatted_phone_number" : "01-4221700",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.709317,
+            "lng" : 85.31725400000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "21b21fc90d432e6affe8009f92d71000d4c590e1",
+      "international_phone_number" : "+977 1-4221700",
+      "name" : "Nepal Telecom Customer Service Counter",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 5:00 pm",
+            "Tuesday: 10:00 am – 5:00 pm",
+            "Wednesday: 10:00 am – 5:00 pm",
+            "Thursday: 10:00 am – 5:00 pm",
+            "Friday: 10:00 am – 5:00 pm",
+            "Saturday: Closed",
+            "Sunday: 10:00 am – 5:00 pm"
+         ]
+      },
+      "place_id" : "ChIJbeumFgEZ6zkR22JdVutM74c",
+      "reference" : "CoQBegAAAEu0B_CSi1uAfS2TTKsmbKPGAGwJSC0OOXJgZNvPVSZuc2nnJGkOX_dVR8HqCDqs5xmPVXUbwSayK3sOIVvJXjexCLDQSCR7fciWKQzqTm_T4_85130LJfuxBd9yLOzIwO5OluF6d3kEQqBzJsUGf75Ux_PZ6JIe7W1unrVeXuN1EhCS-JUMfY1amSCjMzIDfbp1GhTzKs_18wr1keVOUV2KTp8JAdvTvg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Manish Mandal",
+            "author_url" : "https://plus.google.com/104130462416721252095",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1399422480
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/105890401230860541952/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Durbar Marg, Kathmandu",
+      "website" : "http://www.ntc.net.np/"
+   },
+   "status" : "OK"
+}

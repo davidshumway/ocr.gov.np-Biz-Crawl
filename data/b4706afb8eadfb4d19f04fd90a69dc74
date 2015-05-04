@@ -1,0 +1,83 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Bharatpur",
+            "short_name" : "Bharatpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Narayani",
+            "short_name" : "Narayani",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "44207",
+            "short_name" : "44207",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eBharatpur\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e44207\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Bharatpur 44207, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.667428,
+            "lng" : 84.43565
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "cb612e2a0d2298231bcac696e7bbea38c730f5fa",
+      "name" : "Volnepal",
+      "place_id" : "ChIJMZyuh9T6lDkRqpP-a0C2CFw",
+      "reference" : "CmRbAAAAySiRJN2P2M-ilRPIMzrC9LrY8pXUPIS55Q8YtRpPKnSSLfWI30kYGVoPHinbodrQ5Aid_VDOvO9-JBTNhkxVHmGu_rkCDbSy9TOduxS_qcQPYK_BmzsE96PorK4gJm1WEhCeMJI6J_Ub5h3tfv5nMaCkGhS4F08yLaG85feu-Yl8cAGu8dkHzQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Bindu Gurung",
+            "author_url" : "https://plus.google.com/101319186777394969919",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "Hi\n",
+            "time" : 1389197433
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Rajan Dhital",
+            "author_url" : "https://plus.google.com/116551518276077239766",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1396069107
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/118424146907853152002/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 345,
+      "vicinity" : "Bharatpur",
+      "website" : "http://www.volnepal.np.org/"
+   },
+   "status" : "OK"
+}
