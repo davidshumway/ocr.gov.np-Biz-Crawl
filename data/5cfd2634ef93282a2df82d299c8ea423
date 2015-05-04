@@ -1,0 +1,63 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "University Path",
+            "short_name" : "University Path",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Kuleshwor",
+            "short_name" : "Kuleshwor",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kathmandu",
+            "short_name" : "Kathmandu",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bagmati",
+            "short_name" : "Bagmati",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "44600",
+            "short_name" : "44600",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eUniversity Path\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKathmandu\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e44600\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "University Path, Kathmandu 44600, Nepal",
+      "formatted_phone_number" : "01-4280609",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.694421,
+            "lng" : 85.29867299999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "a17fbda36eef0514a2aa45354ba86eed216ce5c5",
+      "international_phone_number" : "+977 1-4280609",
+      "name" : "Car Vatika",
+      "place_id" : "ChIJ41pnXVsY6zkRvJ-QB6kZwHQ",
+      "reference" : "CmRdAAAAmLTWfWUS-u8aUk8M8BD3RbuKvzZPHRggzY2EnY0nj4FBGDTj-NqtbaIjOnyTNuko-qOnAJFf-F2-jcTL_xJ_EOclPKS81ermtRRAompLa8kwCw8gb3jNwZyfN8VyUa7KEhCNl9bpQ1DzR_Yn32GwsrU0GhS6SzOlz-EGTcMqEKXak1rDCO_IWg",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/108451145830284396993/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "University Path, Kathmandu"
+   },
+   "status" : "OK"
+}

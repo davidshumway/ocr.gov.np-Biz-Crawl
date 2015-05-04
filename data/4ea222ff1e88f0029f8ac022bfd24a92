@@ -1,0 +1,136 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Jawalakhel",
+            "short_name" : "Jawalakhel",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Lalitpur",
+            "short_name" : "Lalitpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bagmati",
+            "short_name" : "Bagmati",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "44600",
+            "short_name" : "44600",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Jawalakhel, \u003cspan class=\"locality\"\u003eLalitpur\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e44600\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Jawalakhel, Lalitpur 44600, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.676842,
+            "lng" : 85.310592
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "564d2613cfe4666a7eed6e1418f8b6c20fcfe620",
+      "name" : "Chameli Nursery",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 10:00 pm",
+            "Tuesday: 10:00 am – 10:00 pm",
+            "Wednesday: 10:00 am – 10:00 pm",
+            "Thursday: 10:00 am – 10:00 pm",
+            "Friday: 10:00 am – 10:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJy4o3ZDQY6zkR-rVq2w7a5I4",
+      "reference" : "CnRjAAAAeZUYRYQEjlfp4WHmzFrPc7PhKYSEvP0VoABpSQUOlFjuEQFD5XY-D12rE_2wV_hk2QpSDuS_CtITvF1dS8vNKAQsuQsBisVUWTHRlj7L0kZ2Ha9L_IuYYUNFDtSoVJYB7LOFlPPxOcOPZoJRCdsDrhIQ4Mg86rhQnEK5zpwm2MsWaBoUS-6vU8oNWNKP58i7-5-VkamHP8Y",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1305733829
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/112031640828660822410/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Lalitpur"
+   },
+   "status" : "OK"
+}

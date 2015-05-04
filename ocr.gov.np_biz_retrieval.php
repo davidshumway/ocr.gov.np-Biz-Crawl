@@ -50,7 +50,11 @@ class regions {
 	
 	private $translations_array = array(); // Translations associative array.
 	
-	private $locations_array = array(); // Locations associative array.
+	private $locations_array = array(); // All locations associative array.
+	
+	private $regional_locations_array = array(); // Regional locations associative array.
+	
+	private $all_lat_lng_pairs_array = array(); // All lat/lng pairs
 	
 	private $categories; // Categories object
 	
@@ -124,6 +128,14 @@ class regions {
 	/**
 	 * function build_regions
 	 */
+	function google_places() {
+		include 'google_places.class.php'; // Include class file
+		new google_places($this->regional_locations_array, $this->gapi_key, $this->tmp_folder);
+		//~ new google_places($this->all_lat_lng_pairs_array, $this->gapi_key, $this->tmp_folder);
+	}
+	/**
+	 * function build_regions
+	 */
 	function build_regions() {
 		$this->regions = [
 			['id'=>1,'title'=>'सुदुर-पश्चिमाञ्चल बिकास क्षेत्र','title_en'=>'Far-Western Development Region'],
@@ -157,6 +169,9 @@ class regions {
 			echo 'Starting Facebook search.'."\n";
 		}
 		
+		// Results associative array, for unique results. By FB id.
+		$assoc_results_fbid = array();
+		
 		// CSV
 		$csv = 'businesses-on-facebook.csv';
 		$fp = fopen($csv, 'w');
@@ -169,9 +184,6 @@ class regions {
 		
 		// Write header to CSV.
 		fputcsv($fp, $hd);
-		
-		// Results associative array, for unique results. By FB id.
-		$assoc_results_fbid = array();
 		
 		// For each unique lat/lng location do a Facebook search for all businesses in the area.
 		// An asterisk seems to provide many results.
@@ -302,223 +314,6 @@ class regions {
 		}
 		// Close fp.
 		fclose($fp);
-	}
-	/**
-	 * function google_places_init_search
-	 * 
-	 * CURL requests.
-	 */
-	function google_places_init_search($str_lat_lng, $type, $address) {
-		// Array bad strings
-		$arr_bad_str = array(
-			'This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console'
-		);
-		// Curl get businesses
-		// Opts
-		$tmp_fn =
-			'https://maps.googleapis.com/maps/api/place/radarsearch/json'.
-			'?sensor=false'.
-			'&radius=50000'.
-			'&types='.urlencode($type).//implode('|',$types1).
-			'&location='.urlencode($str_lat_lng);
-		$u = $tmp_fn . '&key='.urlencode($this->gapi_key);
-		$tmp_fn = md5($tmp_fn);
-		$opts = new StdClass;
-		$opts->url = $u;
-		$opts->filename = $tmp_fn;
-		$opts->overwrite_if_strpos = $arr_bad_str;
-		$opts->do_not_save_if_strpos = $arr_bad_str;
-		$opts->request_to_file = true;
-		$opts->request_from_file = true;
-		$opts->folder = $this->tmp_folder;
-		$content = curl_get($opts); // status,html
-		// Result
-		if (property_exists($content, 'isCached')) { // No output.
-		} else {
-			echo '.';
-			if ($content->status != 200) {
-				echo $content->html;
-				die('Status != 200. Status='.$content->status);
-			}
-		}
-		$d = json_decode($content->html);
-		// Has bad strings?
-		foreach ($arr_bad_str as $key => $str) {
-			if (strpos($content->html, $str) !== false) {
-				echo 'ERROR: RESPONSE CONTAINS:'.$str;
-				exit;
-			}
-		}
-		echo 'Number of businesses near "'.$address.'" is '.count($d->results)."\n";
-		if (count($d->results) == 200) {
-			echo 'WARNING:#>200'."\n";
-		}
-		return $d;
-	}
-	/**
-	 * function google_places_biz_profile
-	 * 
-	 * CURL requests.
-	 */
-	function google_places_biz_profile($place_id) {
-		// Array bad strings
-		$arr_bad_str = array(
-			'This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console'
-		);
-		// Curl get businesses
-		// https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJN1t_tDeuEmsRUsoyG83frY4&key=AddYourOwnKeyHere
-		// Opts
-		$tmp_fn =
-			'https://maps.googleapis.com/maps/api/place/details/json'.
-			'?placeid='.urlencode($place_id);
-		$u = $tmp_fn . '&key='.urlencode($this->gapi_key);
-		$tmp_fn = md5($tmp_fn);
-		$opts = new StdClass;
-		$opts->url = $u;
-		$opts->filename = $tmp_fn;
-		$opts->overwrite_if_strpos = $arr_bad_str;
-		$opts->do_not_save_if_strpos = $arr_bad_str;
-		$opts->request_to_file = true;
-		$opts->request_from_file = true;
-		$opts->folder = $this->tmp_folder;
-		$content = curl_get($opts); // status,html
-		// Result
-		if (property_exists($content, 'isCached')) { // No output.
-		} else {
-			echo '.';
-			if ($content->status != 200) {
-				echo $content->html;
-				die('Status != 200. Status='.$content->status);
-			}
-		}
-		$d = json_decode($content->html);
-		// Has bad strings?
-		foreach ($arr_bad_str as $key => $str) {
-			if (strpos($content->html, $str) !== false) {
-				echo 'ERROR: RESPONSE CONTAINS:'.$str;
-				exit;
-			}
-		}
-		//~ echo 'Number of businesses near "'.$address.'" is '.count($d->results)."\n";
-		//~ if (count($d->results) == 200) {
-			//~ echo 'WARNING:#>200'."\n";
-		//~ }
-		return $d;
-	}
-	/**
-	 * function google_places
-	 * 
-	 * Reference is at:
-	 * https://developers.google.com/maps/documentation/javascript/places
-	 * 
-	 * TODO: Add search keyword, e.g. "construction", and then search with no types.
-	 */
-	function google_places() {
-		if (!$this->gapi_key) {
-			echo 'Skipping Google Places search.'."\n";
-			return;
-		} else {
-			echo 'Starting Google Places search.'."\n";
-		}
-		
-		// CSV
-		$csv = 'businesses-on-google-places.csv';
-		$fp = fopen($csv, 'w');
-		$types1 = ['car_repair','electrician','general_contractor','hardware_store','home_goods_store','locksmith','moving_company','plumber','roofing_contractor','establishment','store','electronics_store'];
-		$hd   = [
-			'name',
-			'formatted_address',
-			'vicinity',
-			'formatted_phone_number',
-			'international_phone_number',
-			'location-lat-lng',
-			'permanently_closed',
-			'rating',
-			'types', // Returns an array of types
-			'url', // Google page
-			'website', // Business website, if available
-			'place_id'
-		];
-		
-		// Write header to CSV.
-		fputcsv($fp, $hd);
-		
-		// Results associative array, for unique results. By Google Places place_id.
-		$assoc_results_gpid = array();
-		
-		// For each unique lat/lng location do a Facebook search for all businesses in the area.
-		// Iterate through all regional lat/lng pairs. May be unnecessary to go through the local pairs.
-		$all_locn = array(); // Assoc. array.
-		foreach ($this->regions as $key => $region) {
-			if ($region->title_en == 'Unknown') continue; // Unnecessary to geocode this.
-			foreach ($region->zones as $key2 => $zone) {
-				foreach ($zone->districts as $key3 => $district) {
-					// District+Zone+Country
-					$dz = $district->title_en.','.$zone->title_en.',Nepal';
-					// Assoc. array.
-					$all_locn[ $dz ] = $this->locations_array[ $dz ];
-				}
-			}
-		}
-		// Loop locations
-		// $locn = $this->locations_array as $address => $locn{lat, lng}
-		foreach ($all_locn as $address => $locn) {
-			// String lat/lng.
-			$str_lat_lng = $locn->lat . ',' . $locn->lng;
-			// Loop types
-			foreach ($types1 as $key => $type) {
-				
-				// Search for places
-				$d1 = $this->google_places_init_search($str_lat_lng, $type, $address); // $d->results=Array of objects {place_id:}
-				
-				// Loop search results
-				// Retrieve details on each place using its place_id
-				foreach ($d1->results as $key2 => $gp) {
-					// Biz exists in output array?
-					if (array_key_exists($gp->place_id, $assoc_results_gpid))
-						continue;
-					else
-						$assoc_results_gpid[ $gp->place_id ] = true;
-					// Get biz
-					$biz = $this->google_places_biz_profile($gp->place_id);
-					$biz = $biz->result;
-					$arr_csv = array();// Output array
-					// Loop headers
-					foreach ($hd as $key3 => $header_type) {
-						switch($header_type) {
-							case 'location-lat-lng':
-								if 	(
-									$header_type == 'location-lat-lng' &&
-									property_exists($biz, 'geometry') && // Has geometry
-									property_exists($biz->geometry, 'location') // Has location
-									)
-								{
-									$ll = $biz->geometry->location->lat . ',' . $biz->geometry->location->lng;
-									array_push($arr_csv, $ll);
-								} else
-									array_push($arr_csv, ''); // Push blank here.
-								break;
-							case 'types':
-								if (property_exists($biz, 'types')) { // Array
-									array_push($arr_csv, implode(' / ', $biz->types)); // Push value.
-								} else
-									array_push($arr_csv, ''); // Push blank here.
-								break;
-							default:
-								if (property_exists($biz, $header_type)) 
-									array_push($arr_csv, $biz->$header_type); // Push value.
-								else
-									array_push($arr_csv, ''); // Push blank here.
-						}
-					}
-					fputcsv($fp, $arr_csv); // Write CSV row to file.
-				}
-				continue;
-			}
-		}
-		// Close fp.
-		fclose($fp);
-		exit;
 	}
 	/**
 	 * function init_categories
@@ -860,8 +655,9 @@ class regions {
 			"\n".'Number of addresses to geocode:'.count($addresses_to_geocode)."\n";
 		// Array of bad strings.
 		$arr_bad_str = [
-			'"error_message" : "This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console"',
-			'"error_message" : "You have exceeded your daily request quota for this API."'
+			'This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console',
+			'This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console',
+			'You have exceeded your daily request quota for this API.'
 		];
 		// It may be necessary to turn this on/off based on the requirements of the search.
 		$use_key = true;
@@ -884,8 +680,7 @@ class regions {
 			$opts->request_from_file = true;
 			$opts->folder = $this->tmp_folder;
 			$content = curl_get($opts); // status,html
-			if (property_exists($content, 'isCached')) {
-				//~ echo '*'; // Is cached.
+			if (property_exists($content, 'isCached')) { // Is cached.
 			} else {
 				echo '.';
 				if ($content->status != 200) {
@@ -895,6 +690,7 @@ class regions {
 			$d = json_decode($content->html);
 			if (count($d->results) > 0 && $d->results[0]->geometry && $d->results[0]->geometry->location) {
 				$d = $d->results[0]->geometry->location; // Just the lat/lng.
+				//~ $this->all_lat_lng_pairs_array[ $address ] = $d->lat.','.$d->lng; // This is not used currently.
 			} else {
 				$d = false;
 			}
@@ -906,42 +702,23 @@ class regions {
 					exit;
 				}
 			}
-			// DEBUG
-			//~ if ($address == 'Mahabharata,Dhankuta,Koshi,Nepal') {
-				//~ echo $content->html;
-				//~ exit;
-			//~ }
-			//~ if ($address == 'Bhojpur,Bhojpur,Koshi,Nepal') {
-				//~ echo $content->html;
-				//~ exit;
-			//~ }
-			//~ if ($address == 'Dhungesaghu,TapleJung,Mechi,Nepal') {
-				//~ echo $content->html;
-				//~ exit;
-			//~ }
-			//~ if ($address == 'PHIDIM,Pachthar,Mechi,Nepal') {
-				//~ echo $content->html;
-				//~ exit;
-			//~ }
-			//~ if ($address == ' Samalavuna,Ilam,Mechi,Nepal') {
-				//~ echo $content->html;
-				//~ exit;
-			//~ }
 		}
 		
-		// Set business lat/lng for Regional and Local, if available.
-		// There is a bug with Fusion tables that means each Lat./Lng. must be different in order for all points to appear on a map.
-		// So adding '000001', '000002', and so on would slightly differ the geocoding.
-		// However, it appears that altering the Lat/Lng does not make a difference. 
+		// Loop
+		// Set business lat/lng for Regional and Local
 		foreach ($this->regions as $key => $region) {
 			if ($region->title_en == 'Unknown') continue; // Unnecessary to geocode this.
 			foreach ($region->zones as $key2 => $zone) {
 				foreach ($zone->districts as $key3 => $district) {
+					$dz = $district->title_en.','.$zone->title_en.',Nepal';
+					$loc = $this->locations_array[ $dz ];
+					$this->regional_locations_array[ $dz ] = $loc->lat.','.$loc->lng; // Set regional locations array lat/lng.
+					
 					foreach ($district->businesses as $key3 => $business) {
 						if 	(
 							$business->regional_location_string != '' &&
 							array_key_exists($business->regional_location_string, $this->locations_array) &&
-							$this->locations_array[ $business->regional_location_string ]
+							$this->locations_array[ $dz ]
 							)
 						{
 							try {
