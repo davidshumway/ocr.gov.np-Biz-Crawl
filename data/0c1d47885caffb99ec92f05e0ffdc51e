@@ -1,0 +1,56 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Hospital Road",
+            "short_name" : "Hospital Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Gulariya",
+            "short_name" : "Gulariya",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bheri",
+            "short_name" : "Bheri",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Mid-Western Region",
+            "short_name" : "Mid-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "21800",
+            "short_name" : "21800",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eHospital Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eGulariya\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e21800\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Hospital Road, Gulariya 21800, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.202682,
+            "lng" : 81.345815
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "a78e18780a05e5c07c37f7ab59fb23c630fc240b",
+      "name" : "KC Medical",
+      "place_id" : "ChIJ8dWPY_uPmDkR_u6Ul5_PFfo",
+      "reference" : "CmReAAAAjkSljXOz8jnKd5FG2R55MKN_Neo04VNOue_aI2q9GztOUVbJmnPPTZZthuXe2nXsL1Ghs1II48edgIW-vdBcH6n9jD49rZsRHa2heGK8c-2g5M5lkMi8E17BA9PlCYYIEhB4SqS-MOe9VzuzyIiQoDYRGhQw5XXRwSa4a_V0Ysfq4Lf79adpmg",
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/102423900933953593598/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "Hospital Road, Gulariya"
+   },
+   "status" : "OK"
+}

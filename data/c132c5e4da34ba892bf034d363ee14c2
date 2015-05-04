@@ -1,0 +1,61 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "East-West Highway",
+            "short_name" : "East-West Highway",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Laxmimarga",
+            "short_name" : "Laxmimarga",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Belbari",
+            "short_name" : "Belbari",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Koshi",
+            "short_name" : "Koshi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Eastern Region",
+            "short_name" : "Eastern Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "56600",
+            "short_name" : "56600",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eEast-West Highway\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBelbari\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e56600\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "East-West Highway, Belbari 56600, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.665255,
+            "lng" : 87.440658
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "723d890b8f12e16003449ebff1b0b814171e3c08",
+      "name" : "ramesh florist",
+      "place_id" : "ChIJX65s1hdk7zkRIJls_UEcR9U",
+      "reference" : "CnRiAAAArnCym30Ae4bk-QjFSJwhZC3KiNqYZQlxk7GCyJpa7M08SZm3W27R93p_vxHqP8l_FcEI3HPBGrZ1KKRrzulopU38lL2L8QrGE7X-oib64pK2GAzjNy0Z5eK1zUvbZpqZ6gsmjKgKSk4NNq01JRkb0RIQ7r2QZidM4ip1cjOXGfj_SBoUYZjmCnMl8zSpuUfIbUCkcYQoppc",
+      "scope" : "GOOGLE",
+      "types" : [ "florist", "store", "establishment" ],
+      "url" : "https://plus.google.com/103577562358882788988/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "East-West Highway, Belbari"
+   },
+   "status" : "OK"
+}

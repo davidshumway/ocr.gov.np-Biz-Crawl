@@ -1,0 +1,68 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Darjeeling",
+            "short_name" : "Darjeeling",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "734101",
+            "short_name" : "734101",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "H. D. Lama Road, \u003cspan class=\"locality\"\u003eDarjeeling\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e734101\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "H. D. Lama Road, Darjeeling, 734101, India",
+      "formatted_phone_number" : "0354 225 3685",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.04237,
+            "lng" : 88.26555
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id" : "3d5ee16e175e867f73290b65ab78899e6bc057fd",
+      "international_phone_number" : "+91 354 225 3685",
+      "name" : "The Heritage",
+      "place_id" : "ChIJEVLqKpUu5DkRkV5cf_pOiBE",
+      "reference" : "CmRfAAAADaX4Fk6KzmyaJDTNcaIm7Zp_TluUkluhmoHgFKK2dNCTeR0Z0AhpCcg12zj7fcc0XAAfWRVf2i84tuMNsRkDlD9DEjrmfsVjGXXOYWDPB0kC6JKN3ovtI2EYBU5xbpOsEhDlP3JSEUeqYwXDi6ngpiPMGhSEdLuV9MbgfL0C--T4DY1nD3M3gw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "facilities"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "peter dangol",
+            "author_url" : "https://plus.google.com/114076987925091311125",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1339042050
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "lodging", "establishment" ],
+      "url" : "https://plus.google.com/105739305806333620014/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "H. D. Lama Road, Darjeeling"
+   },
+   "status" : "OK"
+}

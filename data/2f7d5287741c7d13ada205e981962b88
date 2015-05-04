@@ -1,0 +1,78 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Rail",
+            "short_name" : "Rail",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Dadeldhura",
+            "short_name" : "Dadeldhura",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Seti",
+            "short_name" : "Seti",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10800",
+            "short_name" : "10800",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eRail\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10800\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Rail 10800, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 29.265862,
+            "lng" : 80.74066999999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "5779955812c07d617463e22770a7ec6d7a69e863",
+      "name" : "Rail school",
+      "photos" : [
+         {
+            "height" : 720,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/108630636887710747907\"\u003eNavin Ojha\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRrAAAAfNjrLkvAFncEtlwaWZgoaupXwo9EguAoPd3BHURAiFSGdGZn_LqNJne6Q6lN6tyXaQ8Ompu7fuKMFRhj-epsg_8DxCcOZ1loBcMqbmKFj32T6UrLkhwj7-vDqjHR5NN9aldSqgb5jqoXc6WiTbtrmxIQpdfnaV2OHoZ1BQMjecW4PBoUkVRAie26KCn1sIQeE_DUyyc5F0Q",
+            "width" : 575
+         }
+      ],
+      "place_id" : "ChIJW5w0J7l8oTkRtDGTWWRgO-Y",
+      "reference" : "CmRfAAAABoLDeyzp_vY9jMKnkOvoM0lNgpkVIULyyhBAdY0_-3Sjx4t2S5WbljueJaOkRWj1i4O1holqsvNzixMkLpyHEjwmA2GE85Dzwnh9CE0b4SMUFTNxl9frr1X7xxzyqZ5UEhAWWPEbBH-Jl91AJ6EcLFeXGhQuSVTDusvey4ItBlpF6ACvIPaEKQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Navin Ojha",
+            "author_url" : "https://plus.google.com/108630636887710747907",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Very good\n",
+            "time" : 1360986778
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "school", "establishment" ],
+      "url" : "https://plus.google.com/100515242224898603215/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Rail"
+   },
+   "status" : "OK"
+}

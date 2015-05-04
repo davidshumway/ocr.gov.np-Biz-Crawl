@@ -1,0 +1,53 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "318国道",
+            "short_name" : "318国道",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Nyalam",
+            "short_name" : "Nyalam",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Xigaze",
+            "short_name" : "Xigaze",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Tibet",
+            "short_name" : "Tibet",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "China",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003eChina\u003c/span\u003e, \u003cspan class=\"region\"\u003eTibet\u003c/span\u003e, \u003cspan class=\"locality\"\u003eXigaze\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNyalam\u003c/span\u003e, \u003cspan class=\"street-address\"\u003e318国道\u003c/span\u003e",
+      "formatted_address" : "China, Tibet, Xigaze, Nyalam, 318国道",
+      "formatted_phone_number" : "0892 893 5050",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.986432,
+            "lng" : 85.983918
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id" : "6abc1cb55472b1612c095459ba2148275affb8ac",
+      "international_phone_number" : "+86 892 893 5050",
+      "name" : "Gama Restaurant",
+      "place_id" : "ChIJn_lkAO026jkRZb40kMxM4bA",
+      "reference" : "CnRjAAAAIKv9g2jHmNhJRSWlL8G1VTL1FzQ4PEXF_nXXpYAAdzrby4qvTcLvlVVlKScTiB_9f4WgNksJQda7d0iY8ExJURHibs677YPHzh-EMbyYxfsBJdyZ_Cn_wlrNX6bf8cRjI_-B02MyM3rDgUFvB_RDRhIQN3uFTS1kxuKXh1LgXlgVMBoUm7zewCz6v7E51uyXKhtdQyTaCRA",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "establishment" ],
+      "url" : "https://plus.google.com/118426012335927640213/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "318国道, Nyalam, Xigaze"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,88 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Lake Side",
+            "short_name" : "Lake Side",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Pokhara",
+            "short_name" : "Pokhara",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Gandaki",
+            "short_name" : "Gandaki",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Western Region",
+            "short_name" : "Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "33700",
+            "short_name" : "33700",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Lake Side, \u003cspan class=\"locality\"\u003ePokhara\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e33700\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Lake Side, Pokhara 33700, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.20663,
+            "lng" : 83.95938599999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id" : "cdf5adf4213aefdcce3a17e73f210264d1e7b921",
+      "name" : "Sacred Valley Inn",
+      "place_id" : "ChIJd3m18RuVlTkRDKxJ_Vs-AKA",
+      "reference" : "CnRlAAAA9d-Dg1bpyLeGosbLZmys6wK0GXY1MEHMGQ_7gODGfI_dHqyttD47QcMTr_KqEXXxfQSnhXBkBZCwEgB-T4aaHR7ZNE-LblIUCxgMVZYUkZ0qbDT9JwNo92tZnhH-CRxNL1qDyLfaaYngakP81BKLTxIQJKit-lpfLzVYWZOSAHhtjRoUlYCR8ONDEi0ZimoIdWQitCoHmZQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Jamie Aspinall",
+            "author_url" : "https://plus.google.com/115295517811173410397",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Fantastic place. They organised a trek for us - great price, no hassle",
+            "time" : 1403650457
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Anders Hälltorp",
+            "author_url" : "https://plus.google.com/114140801672830218751",
+            "language" : "sv",
+            "rating" : 4,
+            "text" : "Mycket prisvärt och bra",
+            "time" : 1359206743
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "lodging", "establishment" ],
+      "url" : "https://plus.google.com/111773391010872979512/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 345,
+      "vicinity" : "Lake Side, Pokhara",
+      "website" : "http://sacredvalleyinnnepal.com/"
+   },
+   "status" : "OK"
+}

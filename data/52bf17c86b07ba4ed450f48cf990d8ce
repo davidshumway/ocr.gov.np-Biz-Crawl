@@ -1,0 +1,154 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Pokhara",
+            "short_name" : "Pokhara",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Gandaki",
+            "short_name" : "Gandaki",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Western Region",
+            "short_name" : "Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003ePokhara\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Pokhara, Nepal",
+      "formatted_phone_number" : "061-526852",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.223809,
+            "lng" : 83.990898
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "582ad02f61b50456310d1d2d8dbd55ad8826decb",
+      "international_phone_number" : "+977 61-526852",
+      "name" : "Hello Mobile Care",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 6:30 pm",
+            "Tuesday: 10:00 am – 6:30 pm",
+            "Wednesday: 10:00 am – 6:30 pm",
+            "Thursday: 10:00 am – 6:30 pm",
+            "Friday: 10:00 am – 6:30 pm",
+            "Saturday: Closed",
+            "Sunday: 10:00 am – 6:30 pm"
+         ]
+      },
+      "place_id" : "ChIJjWCK2kiUlTkRLAYhoe5biTs",
+      "reference" : "CnRkAAAAKZOfJZdV9OQ_DmS1bgqaHiq-FxaEnS5aaAdQjTV3mAyNGREUdNkFpEKpq1nc9vya44EHrbGtYdcGjU68Ib-DTod2GBddsE0ZFzsfh99g2hU1jn_TGmWhgHO492g2pxc_nnf_TY3HBTtnX1hPB4EBWRIQbVUhzYFYQ_sfA_2YWJMaPRoUx-bpG1nTGsbob5HEO5b4fNSlnpE",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Sunits Adhikari",
+            "author_url" : "https://plus.google.com/109410132333815820049",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Really best solution ",
+            "time" : 1414332234
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Krishna Ale",
+            "author_url" : "https://plus.google.com/105892156463199068011",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Best Mobile care and solution with experts ",
+            "time" : 1368721906
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "store", "establishment" ],
+      "url" : "https://plus.google.com/114580899644215379760/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 345,
+      "vicinity" : "Pokhara",
+      "website" : "http://www.hellomobilecare.com/"
+   },
+   "status" : "OK"
+}

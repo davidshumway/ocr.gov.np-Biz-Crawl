@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "East-West Highway",
+            "short_name" : "East-West Hwy",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Mahakali",
+            "short_name" : "Mahakali",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Far-Western Region",
+            "short_name" : "Far-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10400",
+            "short_name" : "10400",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eEast-West Highway\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e10400\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "East-West Highway, 10400, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.905166,
+            "lng" : 80.347465
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "bb46aa92c3bfb46808d485d06ed62fedf3ea9b44",
+      "name" : "Pandey Medical",
+      "place_id" : "ChIJa8k89L6koTkR_0LA5PAtWLc",
+      "reference" : "CnRiAAAAEf2ZOUdU2f2qMPs2z7DB1i5rCTX8t76hTQyhm0tEuJ-xqpFEWCQV3xkDfNml-fxJM5dwdme5Mp-noXrLBrGOvtpZKciExoXokYpUjFiD5q5Ps1DTonqgxdS6hygYM74Z33gF_K-Iop34EqbY4ZWAvxIQLXpi_obWKFpRWtRgcEMWvRoUqMx-PYTsUf1qn6qwChxw3WjzT1A",
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/113096657773729695179/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "East-West Highway"
+   },
+   "status" : "OK"
+}

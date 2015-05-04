@@ -1,0 +1,61 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Namche Marg",
+            "short_name" : "Namche Marg",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Namche Bazar",
+            "short_name" : "Namche Bazar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Namche",
+            "short_name" : "Namche",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Sagarmatha",
+            "short_name" : "Sagarmatha",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Eastern Region",
+            "short_name" : "Eastern Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "56000",
+            "short_name" : "56000",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNamche Marg\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNamche\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e56000\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Namche Marg, Namche 56000, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.804497,
+            "lng" : 86.710337
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id" : "c00a7f01c97b9a8b460cc8a93957e80e66c0efce",
+      "name" : "Everest Bakery",
+      "place_id" : "ChIJ8bngotoI6TkRNfRXM0Ap0D4",
+      "reference" : "CnRhAAAABFoKTHx7n0vvQDiDlLHFBAurhaJTniiUsB4ZlT7_2mbhcNdouTYSCmcnj7Hhn0VcUM6HJiFmBqubojz8jEVXA3VlF_TU1vdylEzqxedql0o0W4UNoPgRdmleLTGDMPKnG1wqNVUQFhTLf9MgH-lIlRIQioZ6orc6r4rc4pWYXCa_cxoUjTyEVw1_nz-U7MQXba1bFtb--yU",
+      "scope" : "GOOGLE",
+      "types" : [ "bakery", "store", "food", "establishment" ],
+      "url" : "https://plus.google.com/109527817056728442409/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "Namche Marg, Namche"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,162 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Mohami Road",
+            "short_name" : "Mohami Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Thumka",
+            "short_name" : "Thumka",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Bhattarai Danda",
+            "short_name" : "Bhattarai Danda",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Sankhar",
+            "short_name" : "Sankhar",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Gandaki",
+            "short_name" : "Gandaki",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Western Region",
+            "short_name" : "Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eMohami Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eSankhar\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Mohami Road, Sankhar, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.887004,
+            "lng" : 83.931674
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "0ccc8168d2830b41a5240031cce3926686d213a2",
+      "name" : "Bhattarai Grocery",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0530"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0530"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0530"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0530"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0530"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0530"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0530"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 5:30 am – 8:30 pm",
+            "Tuesday: 5:30 am – 8:30 pm",
+            "Wednesday: 5:30 am – 8:30 pm",
+            "Thursday: 5:30 am – 8:30 pm",
+            "Friday: 5:30 am – 8:30 pm",
+            "Saturday: 5:30 am – 8:30 pm",
+            "Sunday: 5:30 am – 8:30 pm"
+         ]
+      },
+      "place_id" : "ChIJ3fE43P_JlTkRIHPOgui43hk",
+      "reference" : "CnRkAAAAvb2Ck4mx-5gG7ZLSUHH8XXqFQUYew07OhxFOXpyOlrZAFtj8Ilp14LHWR4onBosZVnTFz7mMpjPN69TUZ5qTMvC6pES_MflbBTguODxcuhMfWUoi8OJ38abhDuCrLW1Ek7tFBSdJ4Cas7J-C0IbzsBIQuJ5yt5IJTCnQ5mCJtSW87xoU7iuUEo92SZs4UnvFH4p4qajfaf0",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Pitambar Bhattarai",
+            "author_url" : "https://plus.google.com/103766819006985810785",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "for cheap and best products contact: Yubraj Bhattarai.",
+            "time" : 1417766138
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+      "url" : "https://plus.google.com/116538599960657223998/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Mohami Road, Sankhar"
+   },
+   "status" : "OK"
+}

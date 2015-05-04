@@ -1,0 +1,56 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "East-West Highway",
+            "short_name" : "East-West Highway",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Dhalkebar",
+            "short_name" : "Dhalkebar",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Janakpur",
+            "short_name" : "Janakpur",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "45600",
+            "short_name" : "45600",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eEast-West Highway\u003c/span\u003e, \u003cspan class=\"locality\"\u003eDhalkebar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e45600\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "East-West Highway, Dhalkebar 45600, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.929273,
+            "lng" : 85.959394
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "af35fabf75c14cc75fb5b3877148225c9bde5c27",
+      "name" : "Santoshi Medical",
+      "place_id" : "ChIJKY337GIN7DkREGaQf3q5v1w",
+      "reference" : "CnRjAAAAhXdpuZ8XpxC11vhfvhIADnRYnLowUoukG6sHt-qML7LiqFrbs6vcceqiPv4_RFtPtQoo1MXN6gv9FUe4jfgyBiH2hKhHGzPOo3HJSQmH6fq-DcuyMTX88VDuG0XZFMMz0NAzHuuMNPfo0bKbYtJnGxIQP-oT50pey9MaC8my-5h4rBoUWp1CrzzRnR6zC527vmL-iktA8UI",
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/117309740078617670384/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "East-West Highway, Dhalkebar"
+   },
+   "status" : "OK"
+}

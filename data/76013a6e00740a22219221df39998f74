@@ -1,0 +1,73 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Mahakali Highway",
+            "short_name" : "Mahakali Highway",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Amargadhi",
+            "short_name" : "Amargadhi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Mahakali",
+            "short_name" : "Mahakali",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Far-Western Region",
+            "short_name" : "Far-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10300",
+            "short_name" : "10300",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eMahakali Highway\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAmargadhi\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10300\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Mahakali Highway, Amargadhi 10300, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 29.304936,
+            "lng" : 80.589842
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "6990f2989fc03b3b993c467e2decccd37a00994f",
+      "name" : "HDCS-TEAM Hospital",
+      "place_id" : "ChIJb4ZilrJvoTkR97QJherkh7A",
+      "reference" : "CnRmAAAA2c_jWoNl1lD2jc4McN22yZDD9DDx6HR3-M5jgNV-_9cNz3O6sXollE5_WCVs4ChQsERVVLrWAjdRdBVV3rm6rOLYdXOUUQ1KFCQyaP737EjZGC46BgeYzueWzeWCG9ueJe-Dk40lGxwCDKYoAc0FWRIQNctQcvihDain1-l1Bz2oExoUP0RlHFIIo8Fr-sUhCIfhQZD_2y4",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Hari Ghimire",
+            "author_url" : "https://plus.google.com/117820548443734392797",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Excellent",
+            "time" : 1366893113
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "hospital", "establishment" ],
+      "url" : "https://plus.google.com/103352762165734385987/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Mahakali Highway, Amargadhi"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,76 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "East-West Highway",
+            "short_name" : "East-West Hwy",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Mahakali",
+            "short_name" : "Mahakali",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Far-Western Region",
+            "short_name" : "Far-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10400",
+            "short_name" : "10400",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eEast-West Highway\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e10400\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "East-West Highway, 10400, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.878432,
+            "lng" : 80.40536
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "0c8fbf1d4486a6ee9cb5d6c295630f1bb0d26332",
+      "name" : "Bohara Clinic",
+      "place_id" : "ChIJ3ZpSUNe8oTkRs9aXJb3ZVU0",
+      "reference" : "CmRgAAAAbeffZQjnZQEEv2a5QiRmiM4E1xLpiQzeB_7D5znmaBWlmIAuc49huM1afO2OeyP4_HlWRwvO0rfu-hli4f2NRW9EwxFoQIopIsPmj-3GB9OMGFu_m0VjejiOmNCEkyTcEhCo1r2NVHT7putEET0GZNfHGhR-GyIpWJEloZufCqIA-i9BipLkQw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Anjaan Bista",
+            "author_url" : "https://plus.google.com/117343558259839174528",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "i m local people of this place and it has been honor to be here ......and the service of this clinic is just awesome..even it;s not fully facilitated but the person who is running this medical store is  so kind and well mannered personality.....",
+            "time" : 1363496657
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/105554383446393038256/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "East-West Highway"
+   },
+   "status" : "OK"
+}

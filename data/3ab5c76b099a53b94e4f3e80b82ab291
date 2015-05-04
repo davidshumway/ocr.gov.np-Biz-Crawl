@@ -1,0 +1,62 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.499029,
+            "lng" : 82.79147
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id" : "488a44821e3a2a29ad7cc6d524e341102031667f",
+      "name" : "Mithas The Sweet Shop",
+      "place_id" : "ChIJj9zgi6YblzkR8F4EMMkBm3U",
+      "reference" : "CnRoAAAADUDCxUR7KiEjPEh4faU788tdyqN5hFSdterLT-y7LM59C76_zu3DkFtSTooSlzhynkz5Vv6y26CSWmrUyVimoVYm44uxMRAr6x2Eae0HpXg4EXjus1phsDAb3A_-_fkfUWgWEEf8RNqKCl5HrR93VxIQN9u8TkEFBJGvseHCql0mBxoUf-vjpK0MhZt5LtB5EusJWUdBIx4",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "K.k. Gupta",
+            "author_url" : "https://plus.google.com/110135334148890925525",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Nice shop",
+            "time" : 1429978354
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Anil Kumar",
+            "author_url" : "https://plus.google.com/101204052265329541901",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1419093890
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "bakery", "store", "food", "establishment" ],
+      "url" : "https://plus.google.com/102860036557419550284/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "Nepal"
+   },
+   "status" : "OK"
+}

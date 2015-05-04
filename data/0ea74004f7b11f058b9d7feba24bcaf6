@@ -1,0 +1,78 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Jaitar Road",
+            "short_name" : "Jaitar Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bhattarai Danda",
+            "short_name" : "Bhattarai Danda",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Sankhar",
+            "short_name" : "Sankhar",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Gandaki",
+            "short_name" : "Gandaki",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Western Region",
+            "short_name" : "Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "33800",
+            "short_name" : "33800",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eJaitar Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eSankhar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e33800\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Jaitar Road, Sankhar 33800, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.881032,
+            "lng" : 83.92822
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/pet-71.png",
+      "id" : "e1a8aae114e84ef29783b0a922fdceac30665952",
+      "name" : "Pig Farm",
+      "place_id" : "ChIJgU_sFAHKlTkRu_bYQ-2Ih5U",
+      "reference" : "CmRcAAAAL872_5Mb7iyMi-HYwY3TQznVNsBNOeU61LmtwaLlBgalP9naIiPtVCnLmM6jToPRwl2XVz5SRsNwBKvO8OnxRV51p5Kfq6XT4sTh3q3McbEA22wBH7k_c1d3apBtmBerEhDssXTkVnHM2MfXkbnk-QsEGhTHUkRMDw10tUfX98gsR6xITP51Rw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Pitambar Bhattarai",
+            "author_url" : "https://plus.google.com/103766819006985810785",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1420296846
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "pet_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/117089209471345550883/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Jaitar Road, Sankhar"
+   },
+   "status" : "OK"
+}

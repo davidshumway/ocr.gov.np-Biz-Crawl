@@ -1,0 +1,58 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Madhubani",
+            "short_name" : "Madhubani",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "NH-57,East-West Corridor, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "NH-57,East-West Corridor, Bihar, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.3058,
+            "lng" : 86.346287
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "9de23349620f5a835d4f637b4e3c181a521e3d20",
+      "name" : "Araria chowk",
+      "place_id" : "ChIJcWn0GSN87jkR1kmNuUK9Ub4",
+      "reference" : "CmRgAAAAnxWOMSWxfACrWmTWzpq763TzvdiglHpHfdiehc4fY1XIt4K0KIGBS-u4GI9nooXdG-ERS3lpQuy5y7CrTyam3zxxcJsPqZ_EulOdr6OGz22-DoehCmz1LHZSo00I2-fEEhBeopY9Ctd9p6ncDrJO4pHeGhQtWtX_o2NziJ_KBrtXyHz3u3lJoQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Sumant Kumar Mishra",
+            "author_url" : "https://plus.google.com/101117636242256790643",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Madhav",
+            "time" : 1383051673
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "bus_station", "transit_station", "establishment" ],
+      "url" : "https://plus.google.com/108575344773773789112/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "NH-57,East-West Corridor"
+   },
+   "status" : "OK"
+}

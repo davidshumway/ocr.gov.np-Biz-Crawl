@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "East-West Highway",
+            "short_name" : "East-West Hwy",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Mahakali",
+            "short_name" : "Mahakali",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Far-Western Region",
+            "short_name" : "Far-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10400",
+            "short_name" : "10400",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eEast-West Highway\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e10400\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "East-West Highway, 10400, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.901484,
+            "lng" : 80.348806
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "fbf102060dcad4377f03c6321484fa1feea80941",
+      "name" : "Ashok Medical",
+      "place_id" : "ChIJe3UeXLmkoTkRrGJloTCeZvk",
+      "reference" : "CnRhAAAAXhp3pznuGceCQRrWIVFsgCv4CQpRxJo2Kew7oNdvEOPYdIMuCsphcD-q7LUng_Ez8BTb6Ai_hatvlfd-VnHkvIxc8COqfjpcrIEekiaex7ibdbiEhD_ML4NkVrvMoBpktC7JaXivmiA_9QcRSzFOPRIQinFQdiKYhwIyRvUkp5pnEhoUnuKSmWdaxn5jR4tYl1BAY6g3_Vg",
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/105520115402105909354/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "East-West Highway"
+   },
+   "status" : "OK"
+}

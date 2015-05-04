@@ -1,0 +1,59 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Janakpur",
+            "short_name" : "Janakpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Janakpur",
+            "short_name" : "Janakpur",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "45600",
+            "short_name" : "45600",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eJanakpur\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e45600\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Janakpur 45600, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.727843,
+            "lng" : 85.926028
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "fa23dbb9f85642da77dca29f8abeb4930acbd9f9",
+      "name" : "Shuvam Medical Hall",
+      "photos" : [
+         {
+            "height" : 1024,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CoQBdQAAAOic_VxhIB8KW6OnMILAb4PylqcvX38lMbZhLwwEsy6ShxH-I66bb7Ee3d8DzqsoAPUwU1OuvEKnHlUT1CM6Y2b1BSBL9AjdwYT91WmvKIMkSijIuatxX0qwIeZHA2XHsIFDHw7Iztu9pCJNj83U_iYvO0lAcbBBILLQOF_VKcS7EhAmn_g_wC3a3J0JrEFxfltsGhSt8ONRczq5Isn6WXHrbwcnn1RAgw",
+            "width" : 768
+         }
+      ],
+      "place_id" : "ChIJvdU5-QVA7DkRje-I2_REYBw",
+      "reference" : "CnRmAAAAqDNse2ThHg87Xm94vSHMC8viEnpJABtRxTbCSN3CJWU3Qse_npk5XtY-WMSDN1WwqNatlfJoGpLT3RBIKdgzsi-lE0IyI2q6XJmeqbiwmipBPvA268qv89gzmgt4e9og5W6FUIseWPxw_T12-mbG-BIQ0oPiT0kUmtKqKDpojgLkpRoUDrP0H4OlLFULFqsB343gpsrEiMo",
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/106557086687785274910/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "Janakpur"
+   },
+   "status" : "OK"
+}

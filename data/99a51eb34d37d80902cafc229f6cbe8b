@@ -1,0 +1,160 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Ashram Para",
+            "short_name" : "Ashram Para",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Hakim Para",
+            "short_name" : "Hakim Para",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Siliguri",
+            "short_name" : "Siliguri",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Darjeeling",
+            "short_name" : "Darjeeling",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "734001",
+            "short_name" : "734001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"extended-address\"\u003eAshram Para, Hakim Para\u003c/span\u003e, \u003cspan class=\"locality\"\u003eSiliguri\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e734001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Ashram Para, Hakim Para, Siliguri, West Bengal 734001, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.718953,
+            "lng" : 88.427437
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "fcaa5c950cc91795fc5ca32ec054b99ad24f08c1",
+      "name" : "BM Furniture",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 8:00 pm",
+            "Tuesday: 9:00 am – 8:00 pm",
+            "Wednesday: 9:00 am – 8:00 pm",
+            "Thursday: 9:00 am – 8:00 pm",
+            "Friday: 9:00 am – 8:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJPRM6PBNB5DkRb9EdWk6z-_w",
+      "reference" : "CmRgAAAAohRZ3mpy7tmcDu3WwZ5fbBnYSUuv4aOG85agJNCZnEKieWQ12iMhW3ZupBXeNq6N33eqpVfCTOo5fZHysH1IJFNEs3Qhmo0xf6g39ot_gxoHJhRhojnSHn5bxWMGH-aVEhCm0ZzvroUis6H6wYbGz7JOGhQpyHytAM6W1vxRNozCnFM1bIxSYA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "One of the Finest makers of Original Teak Wood hand Made Crafted Designer Furnitures in North Bengal.",
+            "time" : 1302174787
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1296290693
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [
+         "furniture_store",
+         "general_contractor",
+         "home_goods_store",
+         "store",
+         "establishment"
+      ],
+      "url" : "https://plus.google.com/117416845708383277389/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "Ashram Para, Hakim Para, Siliguri"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,83 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Araniko Highway",
+            "short_name" : "Araniko Highway",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Gathi",
+            "short_name" : "Gathi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bagmati",
+            "short_name" : "Bagmati",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "Bhote Koshi, \u003cspan class=\"street-address\"\u003eAraniko Highway\u003c/span\u003e, \u003cspan class=\"locality\"\u003eGathi\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Bhote Koshi, Araniko Highway, Gathi, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.855051,
+            "lng" : 85.877938
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id" : "669af98a5a3bdbeaeeb943af13f6a75cfa0c01fd",
+      "name" : "Borderlands Resort",
+      "place_id" : "ChIJ-Q45Ss606zkRl96QG1M0tOA",
+      "reference" : "CnRmAAAAVmCVsJ--m3irEvNPnQQ498xBDpVTCwZpDwqrwEebkGIwZBXUc15pnUELhtQrWi7UOd1ltLrSwcknqYBlp01k3fQ1nQ_msW4WgSHqUKS6vL__Op0wkf4-dUjZfQ89S4psgM2HikF3Q9CFyhpO7WKSARIQjGIa3HcyGlUB4s95SCjA5BoUIclra2qTxwrcCQ9mbgQH-sQVUnc",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Bijay Tamang",
+            "author_url" : "https://plus.google.com/111311023804037030004",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Nice place!!!",
+            "time" : 1419269718
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Shishir Maharjan",
+            "author_url" : "https://plus.google.com/111469511828114813872",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1407841032
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "lodging", "establishment" ],
+      "url" : "https://plus.google.com/118164074760248313814/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 345,
+      "vicinity" : "Bhote Koshi, Araniko Highway, Gathi",
+      "website" : "http://www.borderlandresorts.com/"
+   },
+   "status" : "OK"
+}

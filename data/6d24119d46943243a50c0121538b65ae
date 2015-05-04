@@ -1,0 +1,87 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "NH 105",
+            "short_name" : "NH 105",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Babu Barhi",
+            "short_name" : "Babu Barhi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Madhubani",
+            "short_name" : "Madhubani",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "847224",
+            "short_name" : "847224",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNH 105\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBabu Barhi\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e847224\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "NH 105, Babu Barhi, Bihar 847224, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.451358,
+            "lng" : 86.26937599999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+      "id" : "f81c603b1727e501c1462cacd847b27838de7d87",
+      "name" : "Bharat Petroleum Petrol Pump",
+      "place_id" : "ChIJAT9uTe6B7jkRYswNIlc_WyA",
+      "reference" : "CnRvAAAAiQQ0Od1ng3uO8lHNWF2APnneCk1KF5sH22U005hqEi7fuFB3M9ilvC4zSgBdhy78adouZNJkH06dGKz9CTZr9tt3pCb1pYQioq0o1uzN98ClloPv2AiFz2d9cNWBi3GO_BJ-YdaNHoGv6S_leZLb9xIQ6yovBV1Z6H6Hfvn9nxLDLhoUZ9grqe4ulmWzrlvmiEx2AezGZ6g",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Weber English",
+            "author_url" : "https://plus.google.com/116104159286490628556",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "I don't understand why can't see the street view like Bharat Petroleum Petrol Pump. ",
+            "time" : 1405110089
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "UDAY KUMAR ROY",
+            "author_url" : "https://plus.google.com/101228993911550781021",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1353084533
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "gas_station", "establishment" ],
+      "url" : "https://plus.google.com/113781926115934122214/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "NH 105, Babu Barhi"
+   },
+   "status" : "OK"
+}

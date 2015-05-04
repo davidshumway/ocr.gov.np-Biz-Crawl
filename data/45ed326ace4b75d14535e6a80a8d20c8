@@ -1,0 +1,71 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Cinema Road",
+            "short_name" : "Cinema Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Sitamarhi",
+            "short_name" : "Sitamarhi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eCinema Road\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Cinema Road, Bihar, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.593603,
+            "lng" : 85.49161700000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id" : "d232ffe49f864d3fb9b8280395e65929c356579d",
+      "name" : "Celebration",
+      "place_id" : "ChIJ_wth-Brx7DkRtrWPNA-pj28",
+      "reference" : "CmReAAAA9NJG2yppHZ121GkMPFIDpmzyBtnzDntACcVl6nwX2OZVtnpUS29vh7V0A7UtH28Q-QvPByPXcqD6NGXhh-L37nnuDjzVhcC7F_TOznh3zI7sWTmU4vccq2mB-uaHDEBnEhDQUlYa8faCwVrZ2uex_ZzHGhSEJ6U6NznrFB1D04uZuMYN_6pYpg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 2,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "ashok kumar",
+            "author_url" : "https://plus.google.com/109743799512107151285",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1350457566
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "bakery", "store", "food", "establishment" ],
+      "url" : "https://plus.google.com/108876873739018142635/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Cinema Road"
+   },
+   "status" : "OK"
+}

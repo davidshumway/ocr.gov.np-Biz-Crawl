@@ -1,0 +1,133 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Ring Road",
+            "short_name" : "Ring Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Binayek Basti",
+            "short_name" : "Binayek Basti",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "बालाजु-१६",
+            "short_name" : "बालाजु-१६",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kathmandu",
+            "short_name" : "Kathmandu",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "44611",
+            "short_name" : "44611",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eRing Road\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e44611\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Ring Road, 44611, Nepal",
+      "formatted_phone_number" : "01-4390437",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.72611,
+            "lng" : 85.30370000000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "07a09c0fd8f4dcc6a605b71e0dee9bd599fb2097",
+      "international_phone_number" : "+977 1-4390437",
+      "name" : "Buddha Meditech Pvt Ltd",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0930"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 9:30 am – 5:30 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ0bVR2ucY6zkRV7j3MzXDLto",
+      "reference" : "CnRrAAAAyNgeYuHBF0KaW5MDluu-mlLXhF99SgE2WjSMSbQ6hTJXNO50v39sONNAZuiDNtLqqjj8FTihf5A61aMvdzQ4mbPzYDr5hNxTUlPXX-c4DZFzI29HUUecAhFK-lgyR1pDDsq1H19yCTzd9vyOcV2pmBIQFrxfQM4NnffUx8abCB-BeBoUp3BujWCqUJhvbK2qW9s0cXD0Eng",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "min tiwari",
+            "author_url" : "https://plus.google.com/109762381105225738024",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1415765777
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Madan Subedi",
+            "author_url" : "https://plus.google.com/116613325912552566236",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1386595442
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Nitesh Subedi",
+            "author_url" : "https://plus.google.com/118151850036312694269",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1415453259
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/102522780018540719102/about?hl=en-US",
+      "user_ratings_total" : 3,
+      "utc_offset" : 345,
+      "vicinity" : "Ring Road",
+      "website" : "http://www.bmgroup.com.np/"
+   },
+   "status" : "OK"
+}

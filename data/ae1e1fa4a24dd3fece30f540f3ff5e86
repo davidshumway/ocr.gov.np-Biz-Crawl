@@ -1,0 +1,95 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Mahakali",
+            "short_name" : "Mahakali",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Far-Western Region",
+            "short_name" : "Far-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10300",
+            "short_name" : "10300",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Mahakali, \u003cspan class=\"postal-code\"\u003e10300\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Mahakali, 10300, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 29.13644,
+            "lng" : 80.34520999999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "d092585cbc0b4b2096951be6716cb9b62c265734",
+      "name" : "Bhagawati Pharmacy",
+      "photos" : [
+         {
+            "height" : 1024,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/110784696455150359053\"\u003eMahesh Mahara\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAmNyyZ7ybX_nUzcHlk_cfcBTGu3bIAW2BS6leGW1A8Jj8lCTiqI1fMdDkY-mC1J-4CPXu2h7HTytCtlZe01iBt6y678oxzGuRpiXiwYAmBLr3HLVYQOEkKYEw7Wa-VB8eDYAH0FfiEmgQbZTHrZHSAhIQWiCweAN1O7niJr3TqOnCGRoU2KZ7H48IjDWMS6r0zJZLiQnGsyw",
+            "width" : 768
+         }
+      ],
+      "place_id" : "ChIJyfg65moJoTkRb8QjHhiHT3c",
+      "reference" : "CnRlAAAAe5L9qF8CYQAJtwhPFupaYo6Iwh5g6uQM0z84hO0zM99_p2WwQwyWB9nmbjVkop9cKtiz5Ihe26KZcNsNEsVZh5Hargo72WiHLaEaWeMYYgK0SmGkdThCqBzFSTpGOW2LcHGOoNGwn-8ypa1UqfmXAhIQ_S2pg-c2dyQ5C3180I4E4RoU-W0Mz-aFSrXmXAOxYcxTpn6XgII",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Mahesh Singh",
+            "author_url" : "https://plus.google.com/106375785714540106509",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1421421143
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Mahesh Mahara",
+            "author_url" : "https://plus.google.com/110784696455150359053",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1390922004
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/107084830731065802103/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 345,
+      "vicinity" : ""
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,92 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Hospital Road",
+            "short_name" : "Hospital Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Kali Bagh Colony",
+            "short_name" : "Kali Bagh Colony",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Khusi Tola",
+            "short_name" : "Khusi Tola",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Pashchim Champaran",
+            "short_name" : "Pashchim Champaran",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "845438",
+            "short_name" : "845438",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eHospital Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eKali Bagh Colony\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKhusi Tola\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e845438\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Hospital Road, Kali Bagh Colony, Khusi Tola, Bihar 845438, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.796414,
+            "lng" : 84.49957499999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "be14c9767dd7d713c5c019517db84dc93975e56c",
+      "name" : "Shokani Medical Hall",
+      "place_id" : "ChIJJ2eEiZdukzkR_L0FLNoYGwY",
+      "reference" : "CnRnAAAAeP54Pji4Ke5NZdiP92lSR762o48LuhGSiJD5kkNnHnmv8Se9y9DaZZNjK2dbGOu1jJ0OwUj73QqRzUjBe7s7xXRNDA8ouozF6Gr5_wzT8HUiyM2T6bUAmKvGP4GQUi2uc8kRbcRYKV-dLA-UINSz1xIQhbAA4sf9npOQM_DkAmpmqBoU-p_l9HW1LEpLlmLfDZCzu0J_S2w",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Rahil Khan",
+            "author_url" : "https://plus.google.com/111426194945640213565",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "the oldest medicine shop in Bettiah. established in 1946, prop: ALI AHMAD NADVI age:98 years.",
+            "time" : 1396242819
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Faran Ahmad",
+            "author_url" : "https://plus.google.com/115145296685621554544",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "So good ...",
+            "time" : 1400062078
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/100442411334488439335/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "Hospital Road, Kali Bagh Colony, Khusi Tola"
+   },
+   "status" : "OK"
+}

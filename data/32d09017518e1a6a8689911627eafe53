@@ -1,0 +1,56 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Balaju",
+            "short_name" : "Balaju",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kathmandu",
+            "short_name" : "Kathmandu",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bagmati",
+            "short_name" : "Bagmati",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "44600",
+            "short_name" : "44600",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Balaju, \u003cspan class=\"locality\"\u003eKathmandu\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e44600\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Balaju, Kathmandu 44600, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.736656,
+            "lng" : 85.30216
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/taxi-71.png",
+      "id" : "81ce4caa6ea8521a392a2476591f13a7a3fb9bfd",
+      "name" : "Bypass",
+      "place_id" : "ChIJp5-I3sQY6zkRNVlF9ge6sIc",
+      "reference" : "CmRaAAAAnafGa4wPs282wWi16x4YkropR0Wh1-6IjosUzXrKZf_5Nduo2w9MShPQuOk5yypPkuyUubg7imM7KP_lTr-AIKo2ihHrprPzmftRRB8RFj9mqa3ZQE11thvOEW29yn0yEhABK_Z2Rm7JJuON1ne-i8idGhQ96X8Fzj5mBd0ahHnUGqOeaFJuvg",
+      "scope" : "GOOGLE",
+      "types" : [ "taxi_stand", "transit_station", "establishment" ],
+      "url" : "https://plus.google.com/110829033061026099254/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "Kathmandu"
+   },
+   "status" : "OK"
+}

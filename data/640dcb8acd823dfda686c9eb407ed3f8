@@ -1,0 +1,73 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Sharki Tole Street",
+            "short_name" : "Sharki Tole Street",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Dhankuta Municipality",
+            "short_name" : "Dhankuta Municipality",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Koshi",
+            "short_name" : "Koshi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Eastern Region",
+            "short_name" : "Eastern Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "56800",
+            "short_name" : "56800",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eSharki Tole Street\u003c/span\u003e, \u003cspan class=\"locality\"\u003eDhankuta Municipality\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e56800\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Sharki Tole Street, Dhankuta Municipality 56800, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.973457,
+            "lng" : 87.34425299999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id" : "37519da31dc7cadeb2c67baaad9097667e8d7407",
+      "name" : "KDB Cinema Hall",
+      "place_id" : "ChIJqZ6l3ZxP7zkRlc-jz1Qlgp8",
+      "reference" : "CnRjAAAAkMgIB3zJHLjEdGg7MJ6EH6EeEVzTii8D0VcJ-RFwrn3Fkw9WyKtBk9i7apVMclVGSGdpN6wT5evPYhOqQOWN3TTTZocFwL67xFgjd0VWV1k4Ozq343OfNnm3xecQgxDSlZyKsAoX6NCC9TK7RKKE4RIQYuFyXbCdnPkx9n4RN0_rxRoUxRC6GlaEoQUtHFS5X2vW_RYxInw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Uttam Rai",
+            "author_url" : "https://plus.google.com/118418836274569014292",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Movie Theaters  ",
+            "time" : 1407822926
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "movie_theater", "establishment" ],
+      "url" : "https://plus.google.com/101959451323517068744/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Sharki Tole Street, Dhankuta Municipality"
+   },
+   "status" : "OK"
+}

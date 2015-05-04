@@ -1,0 +1,86 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Janakpur",
+            "short_name" : "Janakpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Janakpur",
+            "short_name" : "Janakpur",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "45600",
+            "short_name" : "45600",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eJanakpur\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e45600\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Janakpur 45600, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.73669,
+            "lng" : 85.931572
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "659a9abe9475fa3c9a5a84bf1ffe6d45d28cd5cf",
+      "name" : "Shiv Medical Stores",
+      "photos" : [
+         {
+            "height" : 1296,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/109052968495954019537\"\u003eakhilesh sah\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAA2G6Gk4el0O1lPrwlpmcYcH72DJcejhaFXV-IrIJ4sA8m0kXzsdPIHZP9KlayrIrGKY8uGQbsKWf0cJ9UVnv5GOaq3dfNnGZL69nUMigJZV2bXajqojDeU5bI9zXw9mUIGKlH_XN8z97_FxT_d93umBIQ12UST5JnxWLds2gQ7jVMtBoUcqFQBcG29is1bGkpXGC5b4SK4t4",
+            "width" : 976
+         }
+      ],
+      "place_id" : "ChIJ-WJ7l_8_7DkRSqwfQOw5bns",
+      "reference" : "CnRmAAAAHNdYgsM20X-nDt6G5QTXrKH7HKHW4G9jh9Z3LmsjEOrWDMTUU7Nvf3qaySNg1CTKDZyys5DSGhTcheYx9bnqJsfmTgD5yaq1539KsHT52okmvDOqk7w3j0aos_tVCNl1SkRuRFgs8jX8lHak2VhojxIQeAParK_T49lsNTqRkPoNExoUpW9AcfZmW7mArTDoG27Fm6T4_Xs",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "akhilesh sah",
+            "author_url" : "https://plus.google.com/109052968495954019537",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1370676461
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/114820230998465942469/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Janakpur"
+   },
+   "status" : "OK"
+}

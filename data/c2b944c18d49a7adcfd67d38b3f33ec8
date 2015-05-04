@@ -1,0 +1,154 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Govind Rd",
+            "short_name" : "Govind Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Dharan",
+            "short_name" : "Dharan",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Sunsari",
+            "short_name" : "Sunsari",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Koshi",
+            "short_name" : "Koshi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Eastern Region",
+            "short_name" : "Eastern Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "56700",
+            "short_name" : "56700",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eGovind Rd\u003c/span\u003e, \u003cspan class=\"locality\"\u003eDharan\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e56700\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Govind Rd, Dharan 56700, Nepal",
+      "formatted_phone_number" : "025-520397",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.80628,
+            "lng" : 87.28526599999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "4c3d9c0ae6c937d57d5dc856fc8938c0d0b6b774",
+      "international_phone_number" : "+977 25-520397",
+      "name" : "Kubeer Auto Works",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 am – 6:00 pm",
+            "Tuesday: 8:00 am – 6:00 pm",
+            "Wednesday: 8:00 am – 6:00 pm",
+            "Thursday: 8:00 am – 6:00 pm",
+            "Friday: 8:00 am – 6:00 pm",
+            "Saturday: Closed",
+            "Sunday: 8:00 am – 6:00 pm"
+         ]
+      },
+      "place_id" : "ChIJDT5w35lB7zkRyA97FjzfiAQ",
+      "reference" : "CnRkAAAAmdRYKMu_RNRLVoC7mbmMdYZg5Z_lm8kfH7ikjTvzOL_p9BpCIcFwgdXS4dFqVQYndBf1uoIRq4bxqjrUCOrVpSJ0XLK7F6R3zBZhdUitbYpEhwYocWRn26tGseBLsYAZSiFQRtUUwAwnEMYTG-VXDBIQP2ksrZRhhGYpCMAe3LkSXhoU7AaWRitv4_DHhyGODAl6cXrncP0",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Praveen Agarwal",
+            "author_url" : "https://plus.google.com/110149088812313342778",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "a very well managed work shop as a mahindra and mahindra multi utility vehicles.....in eastern nepal",
+            "time" : 1408584446
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/114015276771536649544/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Govind Rd, Dharan"
+   },
+   "status" : "OK"
+}

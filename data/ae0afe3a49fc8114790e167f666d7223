@@ -1,0 +1,127 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Sahuriya",
+            "short_name" : "Sahuriya",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Madhubani",
+            "short_name" : "Madhubani",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "Khojpur,, \u003cspan class=\"locality\"\u003eSahuriya\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Khojpur,, Sahuriya, Bihar, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.48154,
+            "lng" : 86.335255
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "c021fc03db3f76ad27890b3ec62ef36b9fceb203",
+      "name" : "Govt Middle School",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 5:00 pm",
+            "Tuesday: 9:00 am – 5:00 pm",
+            "Wednesday: 9:00 am – 5:00 pm",
+            "Thursday: 9:00 am – 5:00 pm",
+            "Friday: 9:00 am – 5:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJgTj3qveD7jkR4JOqqgNdGFw",
+      "reference" : "CnRlAAAAH-qnwfD4SB3ozi-ASLBMwCUEAO74SAw4oRxJr7KIR7NQJ0WhjmJ1z2RxYANu1XceFnJGPFMkaL6e_D3fk7l9IARs1Wm49atJkyVLCm-y9EgLW20EDumu-VeLbnMtw99ocaDU1hl49JcXwWBG5ZRUiRIQzBc00LaoVgT9e5qdvy69mRoUNnVYAlD5ogNAAc2qe2-fjuDKx0M",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Praween Kumar",
+            "author_url" : "https://plus.google.com/112311517728463202880",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Praween",
+            "time" : 1375029462
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "school", "establishment" ],
+      "url" : "https://plus.google.com/101456655269663143881/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Khojpur,, Sahuriya"
+   },
+   "status" : "OK"
+}

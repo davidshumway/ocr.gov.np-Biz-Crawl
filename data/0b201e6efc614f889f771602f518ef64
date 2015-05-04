@@ -1,0 +1,81 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "East West Hwy",
+            "short_name" : "East West Hwy",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Damak",
+            "short_name" : "Damak",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Jhapa",
+            "short_name" : "Jhapa",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eH01\u003c/span\u003e, \u003cspan class=\"locality\"\u003eDamak\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "H01, Damak, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.65689,
+            "lng" : 87.665511
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "9427c31ec1c756175e60de04c7a2d1e41fd3032e",
+      "name" : "Himalaya Tea Garden",
+      "photos" : [
+         {
+            "height" : 600,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/107974802136983320554\"\u003eSagar Bhattarai\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAS8j53-MO9Oxiol1C3Hxlcjx7qLVPAwZ9g4LKUgMBnqR7vTqoyuglyJhpWSImof_I4GS_e2WhETmFtIACJl6EcE0rgWDKzK4GQwvlrz2UOlgT0lyqEjSh2-nKXUINys_taRmwZh7M1FEHBkZluGw1UxIQNM3GBpsqWxrP_rR-MaLDKhoUFK1cnTumGAWl6EBwuOYd0t3ibcc",
+            "width" : 800
+         }
+      ],
+      "place_id" : "ChIJPzKJUVyO5TkR-SjAGyKkOsI",
+      "reference" : "CnRnAAAAHwYsPRzersg4bXVygJmew7wbFxqOmexutCPQbfXrW47OQKPLlTJoOqe3xYaY90_uIiFODVVnujG8INDk1Qd56DYkjCmWvtyBFvSLBnemcJqqr4uSwpM3VV48270KqdMqCfH_f7FnnEIoyNa29KGBkRIQIkFmC8g8hFNIkEj3nujvFhoUpBP0uNDgMPWR5KFFMU_IbXlQfoA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Sagar Bhattarai",
+            "author_url" : "https://plus.google.com/107974802136983320554",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1394118015
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/112999556593995754813/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "H01, Damak"
+   },
+   "status" : "OK"
+}

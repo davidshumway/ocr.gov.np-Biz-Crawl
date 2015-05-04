@@ -1,0 +1,92 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Tribhuvan Chowk",
+            "short_name" : "Tribhuvan Chowk",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Nepalgunj",
+            "short_name" : "Nepalgunj",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bheri",
+            "short_name" : "Bheri",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Mid-Western Region",
+            "short_name" : "Mid-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "21900",
+            "short_name" : "21900",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Tribhuvan Chowk, \u003cspan class=\"locality\"\u003eNepalgunj\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e21900\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Tribhuvan Chowk, Nepalgunj 21900, Nepal",
+      "formatted_phone_number" : "081-520619",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.056744,
+            "lng" : 81.622445
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "b56d7e98680e70d6556dbeed0444b79fafa58d02",
+      "international_phone_number" : "+977 81-520619",
+      "name" : "Worldlink Nepalgunj Communication",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 10:00 am – 6:00 pm",
+            "Sunday: 10:00 am – 6:00 pm"
+         ]
+      },
+      "place_id" : "ChIJpYJoH0NnmDkRfeRrDfzFb0o",
+      "reference" : "CoQBdAAAAH51PS-7vwE87PJiJL0QKFqScY7c0LQbMSuIeQoTGprFUvEAzMQOZh0cUOe36UJ4g1uKIZBnCV38GUD9ZnuBagoEQfSNVIS9-zQUexarKuUVu5Ev7el6UdWQxw74s4pwBQMglq0JHW68USjUhTvblCgj6gh8TioZWOGMlNQ3epNwEhB2rz_EzomUzmi0lJ6tHyLoGhThi4y4bnH1mTyl-_vjEyfV3vLxdA",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/111383009569539810591/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "Nepalgunj"
+   },
+   "status" : "OK"
+}

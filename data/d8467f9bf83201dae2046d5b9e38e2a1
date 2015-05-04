@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "East-West Highway",
+            "short_name" : "East-West Hwy",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Mahakali",
+            "short_name" : "Mahakali",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Far-Western Region",
+            "short_name" : "Far-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10400",
+            "short_name" : "10400",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eEast-West Highway\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e10400\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "East-West Highway, 10400, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.90425,
+            "lng" : 80.347803
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "93e2e7b0483075feadd22d5791b4a86424786781",
+      "name" : "Karki Clinic",
+      "place_id" : "ChIJEy3PlL6koTkRhB8Ie4MtNoQ",
+      "reference" : "CmRgAAAAMRHEe7PvfWUEM2Q1uFXYSTmfNRrMq_WNEswiSSuxTTeMt9pMkNEntxtog0kK2IGsiKHnxemSMSMbT38mNFHzQUfb48tDmLZj4iTmPmT2EhAUTfCAaIJ7WKYg-l6vm6Y2EhAkbwuO3k5z8tCQM8eYKZhxGhTtUbqh3FU-CszVIdhlLJsQGPmaJw",
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/111930922346581633006/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "East-West Highway"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,117 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Ring Road",
+            "short_name" : "Ring Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bagmati",
+            "short_name" : "Bagmati",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "44600",
+            "short_name" : "44600",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eRing Road\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e44600\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Ring Road, 44600, Nepal",
+      "formatted_phone_number" : "01-2023706",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.721639,
+            "lng" : 85.290785
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "217d3e6076d4086cf347682802bf0547e81578fd",
+      "international_phone_number" : "+977 1-2023706",
+      "name" : "Gaurav Transport Pvt Ltd",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 6:00 pm",
+            "Tuesday: 9:00 am – 6:00 pm",
+            "Wednesday: 9:00 am – 6:00 pm",
+            "Thursday: 9:00 am – 6:00 pm",
+            "Friday: 9:00 am – 6:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJr6w7fJMY6zkRMPCe0XANdJM",
+      "reference" : "CnRsAAAAPI1E_D2YkUzABmQKkCz5rsKs1oUQI9-e4YGzAGp4_aE6mkZiRLw2DHqW_RPH8N7CKxQYKmmIVP340dIGY31NGUeilWNimbLAS0YHFrTRc5cQR3kQv-XNn8sx5C6aEcdu_EsZpMPBpDBVPCDOT8FuvRIQtCd3dv7DgKWDcs51zRQr_hoUJBLyspJfFOSoV2BIdODUWWsY9Zw",
+      "scope" : "GOOGLE",
+      "types" : [ "moving_company", "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/115108596087578672330/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "Ring Road"
+   },
+   "status" : "OK"
+}

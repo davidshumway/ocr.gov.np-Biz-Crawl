@@ -1,0 +1,81 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Tribhuvan Chowk Road",
+            "short_name" : "Tribhuvan Chowk Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Rajbiraj",
+            "short_name" : "Rajbiraj",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Sagarmatha",
+            "short_name" : "Sagarmatha",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Eastern Region",
+            "short_name" : "Eastern Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "56400",
+            "short_name" : "56400",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eTribhuvan Chowk Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eRajbiraj\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e56400\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Tribhuvan Chowk Road, Rajbiraj 56400, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.539465,
+            "lng" : 86.74876
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "e8d2c10341c6c518673fd17e40dca06f2df27032",
+      "name" : "Huma General Store",
+      "place_id" : "ChIJr7n3rpv67jkR-mlCwRQsz5s",
+      "reference" : "CnRmAAAAK2bd0NIQW0az1EskgsTMn5zy7EY5plX49CObhZYW8XM0RBDc5lSgjDIML2KS_V8J6NNf-yd8mizqxW8RGMyNd6pwG6Tvj4oROCp4zK0d6vcDfD45lHXESF0fhuQkF8-u4QRRCPPzpjGbmpbMgAwBERIQJey71t_kqL5O2ZIMujC2GhoUN4MteXX17dusfeBbcIpwtmg-dcM",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Rizwan Khan",
+            "author_url" : "https://plus.google.com/104997662083730469695",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1372179395
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "food", "store", "establishment" ],
+      "url" : "https://plus.google.com/113416099810061843169/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Tribhuvan Chowk Road, Rajbiraj"
+   },
+   "status" : "OK"
+}

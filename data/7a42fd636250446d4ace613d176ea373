@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "318国道",
+            "short_name" : "318国道",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Nyalam",
+            "short_name" : "Nyalam",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Xigaze",
+            "short_name" : "Xigaze",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Tibet",
+            "short_name" : "Tibet",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "China",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003eChina\u003c/span\u003e, \u003cspan class=\"region\"\u003eTibet\u003c/span\u003e, \u003cspan class=\"locality\"\u003eXigaze\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNyalam\u003c/span\u003e, \u003cspan class=\"street-address\"\u003e318国道\u003c/span\u003e",
+      "formatted_address" : "China, Tibet, Xigaze, Nyalam, 318国道",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.989558,
+            "lng" : 85.98307800000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "e513a739308298b753081c5eb791375d05a24c42",
+      "name" : "Agricultural Bank of China ATM",
+      "place_id" : "ChIJSTo6du426jkR4kKr6S9p2dg",
+      "reference" : "CoQBcgAAAOoacpe-JA-jyje1K75RboV8nhIpYeiL2zMwSQ_ABKqIJRZLXqQUeZY46LhGIUQaaOgdj6EAkb_ijhyoTVYRfgJ0_DHiueQP5cnnqVSEqJDRhQIL1Q95AahavizKw_-QXxqzk3_PvMmC5-dkEusTO769oOvoiARCX7oMsYLJ-ZhXEhBI7OcqrJRJ429oe4JZTKOKGhTUNf50SXw1oIxfnKc7JH6yhoU6_g",
+      "scope" : "GOOGLE",
+      "types" : [ "atm", "finance", "establishment" ],
+      "url" : "https://plus.google.com/113931497472826267964/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "318国道, Nyalam, Xigaze"
+   },
+   "status" : "OK"
+}

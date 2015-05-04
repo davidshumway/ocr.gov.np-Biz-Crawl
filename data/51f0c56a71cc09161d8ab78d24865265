@@ -1,0 +1,120 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Sevoke Road",
+            "short_name" : "Sevoke Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Siliguri",
+            "short_name" : "Siliguri",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Darjeeling",
+            "short_name" : "Darjeeling",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "734001",
+            "short_name" : "734001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eSevoke Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eSiliguri\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e734001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Sevoke Road, Siliguri, West Bengal 734001, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.719731,
+            "lng" : 88.42598
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "b3de4693d3c6a95ae18a454701828434d50770a6",
+      "name" : "Crystal Mobile",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJLwngfBNB5DkRbKi-3PVwKu0",
+      "reference" : "CnRiAAAA2Cs2Nu-dwqLHbRr4m-Vjmj3iAbiCVTx-WHEu7ipCc1vBp7AgAUTgxlg-3d2QZqyEGkBHFuvCI6UASlm4oDE_p0pM6bDHfCLeR6UDeb4fLT3ECWireCm2IiSGm_zsNpH0tGirHrE8INtgehcuCU7ntRIQIiv8NPyPb_cAsx4DQ0rrvhoUQBTFnyi-gPP7aEQJiLVoC8t5fNk",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "establishment" ],
+      "url" : "https://plus.google.com/118259956069269460684/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Sevoke Road, Siliguri"
+   },
+   "status" : "OK"
+}

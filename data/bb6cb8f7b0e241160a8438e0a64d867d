@@ -1,0 +1,61 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Street Number 5",
+            "short_name" : "Street Number 5",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Mahendranagar Bazaar",
+            "short_name" : "Mahendranagar Bazaar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Bhimdatta",
+            "short_name" : "Bhimdatta",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Mahakali",
+            "short_name" : "Mahakali",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Far-Western Region",
+            "short_name" : "Far-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10400",
+            "short_name" : "10400",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eStreet Number 5\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBhimdatta\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10400\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Street Number 5, Bhimdatta 10400, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.964923,
+            "lng" : 80.179457
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "37928fdd9a691682346e7ad00ac5caf905019a89",
+      "name" : "Prakhyat Medical Hall",
+      "place_id" : "ChIJc2mBfgesoTkRU2zEtarFELM",
+      "reference" : "CnRpAAAAAuRl4dupbr4AcdzIBMdoZIS9cR5qvPXmTlZm9CQBQY6wzb1cRIqBpZvRc0xM4bKdoJ6WNUfDZm5VRoakAyGqXEpS6q7TUXOBBDgoIDVqvg7tFz7areMDsJvoUugpLYisYcKZvbB4fV4XKonQBGFefxIQt3VbRc8EyuN6NLRCHFZnqxoUOaHTF_AD577E_ZtRFChKTuWRlAw",
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/105032678766360997589/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "Street Number 5, Bhimdatta"
+   },
+   "status" : "OK"
+}

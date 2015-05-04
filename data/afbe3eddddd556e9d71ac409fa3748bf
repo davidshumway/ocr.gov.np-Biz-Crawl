@@ -1,0 +1,82 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Siddhicharan Marg",
+            "short_name" : "Siddhicharan Marg",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Banasthali",
+            "short_name" : "Banasthali",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Kathmandu",
+            "short_name" : "Kathmandu",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "44600",
+            "short_name" : "44600",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eSiddhicharan Marg\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e44600\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Siddhicharan Marg, 44600, Nepal",
+      "formatted_phone_number" : "01-4350306",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.724367,
+            "lng" : 85.297455
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "1c2f10de95beef6b800952b0d80a9d4d00472ca2",
+      "international_phone_number" : "+977 1-4350306",
+      "name" : "Harati Maa Hardware Store",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 8:00 am – 6:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJSXNTxesY6zkRlPJqBBfWVW0",
+      "reference" : "CnRsAAAAhmLhoYdvIzKQOsNx2zyig-z-IJOg_PQddTwrezsm8x1DhcPpbXQATpOyGDUiON5MMGzZ8hfkxLFTIw5V0EP0wFu2mnNO_Ih3YKEPNgVlgisq34WLwskC9SFlB3VsIgHOdcvSpjubk3lXhfTXEoV55BIQUDexPaFw1Gc7mxvA4j5hzBoU9mExbfKjYlLQqiUUYQckQ3uZ100",
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/113943548628502322785/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "Siddhicharan Marg"
+   },
+   "status" : "OK"
+}

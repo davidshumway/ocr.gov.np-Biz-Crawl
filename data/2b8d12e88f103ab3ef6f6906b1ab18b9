@@ -1,0 +1,81 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "B.P. Highway",
+            "short_name" : "B.P. Highway",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bardibas",
+            "short_name" : "Bardibas",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Janakpur",
+            "short_name" : "Janakpur",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "45701",
+            "short_name" : "45701",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eB.P. Highway\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBardibas\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e45701\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "B.P. Highway, Bardibas 45701, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.991259,
+            "lng" : 85.895889
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "b5a09ce633bfb9a7783004d0b1ce6dbe9f49e163",
+      "name" : "Jansewa Polyclinic",
+      "place_id" : "ChIJZ3zpFwxz7DkRatMmK98i6V0",
+      "reference" : "CnRlAAAAqG4N1a8EV0bP1EUL6jS33PNuysruFaN7OoZatXU5hd1mZN2_1l6H38fD6mHYrvxUygGyICxSAG7G516qwaBYGN2le6pwjBr1tnbNIAFcMcLLwvPrtWQ14VOezRdg4bawd9mqHEb4p9P3LEG7drSa3hIQgzCIhxgkpXEdBQWUblIRKBoUIUp6w-iaOUwWVfvgyu7QP6TGeqY",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Bibek baral",
+            "author_url" : "https://plus.google.com/104053511436176740660",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1382071150
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/109569718991642731332/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "B.P. Highway, Bardibas"
+   },
+   "status" : "OK"
+}

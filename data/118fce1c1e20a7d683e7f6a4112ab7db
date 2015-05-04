@@ -1,0 +1,145 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Budol",
+            "short_name" : "Budol",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Dhulikhel",
+            "short_name" : "Dhulikhel",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bagmati",
+            "short_name" : "Bagmati",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "Budol, \u003cspan class=\"locality\"\u003eDhulikhel\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Budol, Dhulikhel, Nepal",
+      "formatted_phone_number" : "0984-1553149",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.619651,
+            "lng" : 85.539444
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+      "id" : "b6cd5b0567f2c5bf3c2f1be0de6109c17ab2cca7",
+      "international_phone_number" : "+977 984-1553149",
+      "name" : "Engineering Building",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 4:00 pm",
+            "Tuesday: 9:00 am – 4:00 pm",
+            "Wednesday: 9:00 am – 4:00 pm",
+            "Thursday: 9:00 am – 4:00 pm",
+            "Friday: 9:00 am – 4:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 800,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/100804415639574679182\"\u003eAnmol Maharjan\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAt5AEdRNzxSzs_3cGxBBAbnJSBCn-_0SQGsCJjv0hZHCn5XV4PurzYvTrL_X5RUl-FnpZ1WEnm1caYQiwGNY7GmBkiKYiy-sMqIZ3yMpyNlVQmRGQxuHLbmJUR6g_pd53qVNMDMUHxHxZLLwpH-DMRxIQcrpLVDUJim_0WWOhdErhrxoU67imX-S7Lz1wDzUIZY8DyEJivDY",
+            "width" : 600
+         }
+      ],
+      "place_id" : "ChIJlXya8t8I6zkRnqNPh6FGTKE",
+      "reference" : "CnRoAAAASGQRQzLMSEob3-crArepQeMZhUSVmu9SQyMSRbHpKUJBAZGk_Qg-kokqqBgN46xVkw1B_9okrErn2pZzDm2W4vFnIbVEEdWbERdIEE0XnWqPAnpzw9ZXzXZH9WB_ZG2evNOKOaulfRG7ArDVxpHCmhIQHALd6yfw3Rmjxb1WMZu8lRoU2s1Jsk_NHrZbZBiv3ax2qMfXPlk",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Anmol Maharjan",
+            "author_url" : "https://plus.google.com/100804415639574679182",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Fair environment and a real nice place to study.",
+            "time" : 1374923234
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "university", "establishment" ],
+      "url" : "https://plus.google.com/106070588688639582024/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Dhulikhel",
+      "website" : "http://www.ku.edu.np/eng"
+   },
+   "status" : "OK"
+}

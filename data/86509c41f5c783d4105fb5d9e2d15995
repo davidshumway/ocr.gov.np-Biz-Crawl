@@ -1,0 +1,144 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "H01",
+            "short_name" : "H01",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "East-West Highway",
+            "short_name" : "East-West Highway",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Urlabari",
+            "short_name" : "Urlabari",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Koshi",
+            "short_name" : "Koshi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Eastern Region",
+            "short_name" : "Eastern Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "56604",
+            "short_name" : "56604",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Urlabari 4, Morang, \u003cspan class=\"street-address\"\u003eEast-West Highway H01\u003c/span\u003e, \u003cspan class=\"locality\"\u003eUrlabari\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e56604\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Urlabari 4, Morang, East-West Highway H01, Urlabari 56604, Nepal",
+      "formatted_phone_number" : "021-540247",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.663726,
+            "lng" : 87.637225
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "aeef5a3b6ec4aa943e56f5e08cabf719fedf65fa",
+      "international_phone_number" : "+977 21-540247",
+      "name" : "British Gurkha Department Store",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0700"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 7:00 am – 7:00 pm",
+            "Tuesday: 7:00 am – 7:00 pm",
+            "Wednesday: 7:00 am – 7:00 pm",
+            "Thursday: 7:00 am – 7:00 pm",
+            "Friday: 7:00 am – 7:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJu_6eP76O5TkRmW17_e49JUw",
+      "reference" : "CoQBcgAAABlJ3P8L63nTt7P5kPq2P5MrQVyNW68aZNNSiSD79P_sqeymlxwg14V31-o42aalWjUdIMW_qjuunQMlvNv6mpYLJEK4QwHWvtuX6L8Opz09b_0SfgmXuGKt_TpyCnrNqyEfhcqQJUkxeZvEYjzlFYDpz5vpTxGcOKmL1_NS2qS4EhCakP6e9Z-tnpCRS0JlImFLGhS2QnJvK47Ih8MgN7YMfHRkjN-lnw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Sawal Jimi",
+            "author_url" : "https://plus.google.com/109059335780550745580",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1423037239
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "department_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/101576302295088870868/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Urlabari 4, Morang, East-West Highway H01, Urlabari"
+   },
+   "status" : "OK"
+}

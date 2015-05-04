@@ -1,0 +1,68 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Ilam",
+            "short_name" : "Ilam",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Mechi",
+            "short_name" : "Mechi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Eastern Region",
+            "short_name" : "Eastern Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "57300",
+            "short_name" : "57300",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eIlam\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e57300\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Ilam 57300, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.913013,
+            "lng" : 87.928817
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+      "id" : "7d04d84630ab881d87519eb85abd998aea32036c",
+      "name" : "District Court Ilam",
+      "place_id" : "ChIJz6wVdIbD5TkRESkP9DwcgRU",
+      "reference" : "CnRmAAAAy8HTSO9O6-u23bY7o7vtCdjg6dWB6HGElKmj7c-kyOzgBGTV52GEeq-S4JtueaUSJjL2NqFAPjnj58B56KhUXZimvOEi5Rmst6_xxkitI4GQ-Nz26lnadNy1dfuQL7ZXKHfEUBkQziAedZbABIH64BIQCyP16RSYvJGrfmgoNewoCBoUmZa-Pch1020vUkyqQqZb88ApSLA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Prakash Bhattarai",
+            "author_url" : "https://plus.google.com/110150136100995164436",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1369844178
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "courthouse", "establishment" ],
+      "url" : "https://plus.google.com/107254587776428535152/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Ilam"
+   },
+   "status" : "OK"
+}

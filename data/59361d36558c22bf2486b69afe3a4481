@@ -1,0 +1,76 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Ogla Town",
+            "short_name" : "Ogla Town",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Pithoragarh",
+            "short_name" : "Pithoragarh",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttarakhand",
+            "short_name" : "UK",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "262543",
+            "short_name" : "262543",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eOgla Town\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttarakhand\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e262543\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Ogla Town, Uttarakhand 262543, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 29.753869,
+            "lng" : 80.28372299999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "68fe9b08bdf08c0149c7cfb912d14fbb7e8e89c5",
+      "name" : "Jimiwal Mobile",
+      "place_id" : "ChIJBXPWkn0yoTkRwzdPYKI5UDE",
+      "reference" : "CnRhAAAAdDj60KiAbB-PiU1-idAluJSzUK4wRSF5IL2M9Qm9kkgffqj0fSd8EMd4WXOBXoeTX6oeExzZbBZ2aqfBRgSpMaZEsFs34xihdeb6C1hVxjX4rLF8sGkNpCut7F1HBzpe1VVGxfyBtigwHXteUceMIRIQwWe8-8OxxBZtqo1UEFv0zRoU9uaumIlFzH71Pp29dozh_4V6Lbc",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 2,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 2,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Mahesh Pandey",
+            "author_url" : "https://plus.google.com/107150925385656165613",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1369640746
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "store", "establishment" ],
+      "url" : "https://plus.google.com/106421070352929818683/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Ogla Town"
+   },
+   "status" : "OK"
+}

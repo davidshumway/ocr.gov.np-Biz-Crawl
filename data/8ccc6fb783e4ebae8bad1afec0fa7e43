@@ -1,0 +1,133 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Delhi - Dharchula National Highway",
+            "short_name" : "Delhi - Dharchula National Highway",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Pithoragharh",
+            "short_name" : "Pithoragharh",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttarakhand",
+            "short_name" : "UK",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "262543",
+            "short_name" : "262543",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eDelhi - Dharchula National Highway\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttarakhand\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e262543\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Delhi - Dharchula National Highway, Uttarakhand 262543, India",
+      "formatted_phone_number" : "094582 70517",
+      "geometry" : {
+         "location" : {
+            "lat" : 29.750314,
+            "lng" : 80.345634
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id" : "89990210865e53932270ddee6ff0a647bc1f2f6e",
+      "international_phone_number" : "+91 94582 70517",
+      "name" : "Atithi Griha Hotel and Restaurant",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 6:00 – 8:30 pm",
+            "Tuesday: 6:00 – 8:30 pm",
+            "Wednesday: 6:00 – 8:30 pm",
+            "Thursday: 6:00 – 8:30 pm",
+            "Friday: 6:00 – 8:30 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ-4oFWpgzoTkRXiFPXpgJ4JI",
+      "reference" : "CoQBdQAAAJvsg8CRxi1ECyD2xd2G53-3vEYTWR8_9pWzK7FMpUtDZJDk_wPhVZKfJoIi6ueNx3TCeK8UU5XBQ3ntQh3RGTidHHr_YnCb-2TbY9S1NsYcCruX0pfrabQ1BXr_g9pB8s0W_U1x5Q8CVMyeyxsvloLxPbS_ywmKNIIV6xXrBoW1EhDi0wBdoAYblXR11irIBi8EGhTVC9Fi1pI_7VeFX_2fJCoz5pmWHw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 1,
+            "text" : "not bad ",
+            "time" : 1324983662
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "establishment" ],
+      "url" : "https://plus.google.com/108726377309382716716/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Delhi - Dharchula National Highway"
+   },
+   "status" : "OK"
+}

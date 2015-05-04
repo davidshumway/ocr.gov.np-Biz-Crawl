@@ -1,0 +1,92 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "H01",
+            "short_name" : "H01",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Birtamode",
+            "short_name" : "Birtamode",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Anarmani",
+            "short_name" : "Anarmani",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Mechi",
+            "short_name" : "Mechi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Eastern Region",
+            "short_name" : "Eastern Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "57204",
+            "short_name" : "57204",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eH01\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAnarmani\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e57204\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "H01, Anarmani 57204, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.642937,
+            "lng" : 87.99233700000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "c4562209906e2be6654f858668b180089699ce34",
+      "name" : "Baskin-Robbins",
+      "place_id" : "ChIJRYSXdWC65TkRG-BmjfQe4iY",
+      "reference" : "CnRhAAAAIvwQHfhZ3ZZsiNoO9Cg9EIjJGvWk3wcy2KvTBuSsdVvQLSr-Q4q0Y8msYymBbHFEwZkcN2-B53SUEhQqS3TlLF62bTWm4SFwQw1mOcrKzmCaEx8ngXfVv0wFOvkoM5QXB1COshPq932JQW7neSZNPRIQ4-dg6fSJRP-AfDdCB8fR8RoUvqpcP2yVVlerUBfZ5VoidRGVm7M",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Rajiv Gupta",
+            "author_url" : "https://plus.google.com/102155687535068080112",
+            "language" : "en",
+            "rating" : 1,
+            "text" : "Shit rubbish ",
+            "time" : 1424245713
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Ankit Adhikari",
+            "author_url" : "https://plus.google.com/112352320386688026318",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1418490269
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "store", "food", "establishment" ],
+      "url" : "https://plus.google.com/113002807123830252835/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 345,
+      "vicinity" : "H01, Anarmani"
+   },
+   "status" : "OK"
+}

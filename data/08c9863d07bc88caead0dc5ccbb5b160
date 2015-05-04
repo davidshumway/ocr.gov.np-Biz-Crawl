@@ -1,0 +1,73 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Madhi Bazar",
+            "short_name" : "Madhi Bazar",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Kamalamai",
+            "short_name" : "Kamalamai",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Janakpur",
+            "short_name" : "Janakpur",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "45900",
+            "short_name" : "45900",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Madhi Bazar, \u003cspan class=\"locality\"\u003eKamalamai\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e45900\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Madhi Bazar, Kamalamai 45900, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.203496,
+            "lng" : 85.912646
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id" : "a9a13ce40fa4d7535b63bda55a8651c32267e9fa",
+      "name" : "Sindhuli Cinemas",
+      "place_id" : "ChIJU3ciil6L6zkRQqwoc4A4kmI",
+      "reference" : "CnRjAAAAsK2WJBBOJB_Np7Z_Lq31ajBlZBdK5EHDHajscjo6Q5_ZIFXyKGeqxR5lVBWNiBXZE4cYzySE_KM6gVeqlhuJqPZS7bw3GrzD0AoI2LsKchYa4yrCDZSji0T85oZv-Z6A-tcZXcdM-to_mRMfsKf-KBIQPBWojSorRNlxn7r5eqs-ZxoUyHKL7uOLHeN4wfWUACJMAPIRIhk",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "janak pradhan",
+            "author_url" : "https://plus.google.com/106862180373904280236",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1424877607
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "movie_theater", "establishment" ],
+      "url" : "https://plus.google.com/103067885079948422172/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Madhi Bazar, Kamalamai"
+   },
+   "status" : "OK"
+}

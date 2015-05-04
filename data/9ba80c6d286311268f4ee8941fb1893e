@@ -1,0 +1,73 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Araniko Highway",
+            "short_name" : "Araniko Highway",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Dolalghat",
+            "short_name" : "Dolalghat",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bagmati",
+            "short_name" : "Bagmati",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "45215",
+            "short_name" : "45215",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eAraniko Highway\u003c/span\u003e, \u003cspan class=\"locality\"\u003eDolalghat\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e45215\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Araniko Highway, Dolalghat 45215, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.639315,
+            "lng" : 85.705274
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id" : "56d28515a78d7029b0e8920ee131d65c451c52dc",
+      "name" : "Newari Restaurant",
+      "place_id" : "ChIJKbayg7il6zkRSig8EswXfEw",
+      "reference" : "CnRkAAAAsrTNt1oSEtdd0Il2DrDbVuGq6CPy1u8XJO6cyqhva0twNtF4vHPRuenBewzDyA3UhnKaPPpFqSuhAPfEIeuV16r0VIlGxNFVmn-Rf5RC2HOqMZUhYbXf2aDAzwMyRMp-IQ3icpvhCSbagdS7dsT5axIQaCcvBTqtnnZhcDEE3AcTSBoU4qdzLVQiyDp6BNePQQEF8fuwqL4",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "srinit neapl",
+            "author_url" : "https://plus.google.com/101546413450122513698",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "it was goood yet wish to go the next time too \"COZ\" it was dark when we get there .. \n& immediately return back after having a meal there \n",
+            "time" : 1386579222
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "establishment" ],
+      "url" : "https://plus.google.com/109332116682634310683/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Araniko Highway, Dolalghat"
+   },
+   "status" : "OK"
+}

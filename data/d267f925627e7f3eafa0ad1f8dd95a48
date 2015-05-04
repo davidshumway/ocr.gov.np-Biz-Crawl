@@ -1,0 +1,150 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "State Highway 25",
+            "short_name" : "SH 25",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Palia Kalan",
+            "short_name" : "Palia Kalan",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Lakhimpur Kheri",
+            "short_name" : "Lakhimpur Kheri",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "262902",
+            "short_name" : "262902",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eState Highway 25\u003c/span\u003e, \u003cspan class=\"locality\"\u003ePalia Kalan\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e262902\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "State Highway 25, Palia Kalan, Uttar Pradesh 262902, India",
+      "formatted_phone_number" : "05871 233 637",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.424675,
+            "lng" : 80.579403
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "d99385d23f8bdd32653629b526263756a078da8e",
+      "international_phone_number" : "+91 5871 233 637",
+      "name" : "Life Insurance Corporation of India",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 5:00 pm",
+            "Tuesday: 10:00 am – 5:00 pm",
+            "Wednesday: 10:00 am – 5:00 pm",
+            "Thursday: 10:00 am – 5:00 pm",
+            "Friday: 10:00 am – 5:00 pm",
+            "Saturday: 10:00 am – 5:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJibbvVprjoTkR5fPecIstCeM",
+      "reference" : "CoQBdwAAAPPwv01JxH7TfsMOD7CkrgKumDWTq95eLjZfVEJHQSdlYPfWDs_E0dA5KtradN06zXzeQf5pKfLSzyQWc59yKLeHpuUmCCtvOWfO1-6W6QzdxaMFhCBugxPrVd9PbSh4D-oFccn2iiRgZgNH286bV0OUHgGN_WIjdUYL_1d-t5dJEhB6xbFoGHZQSp_YpryE9rc7GhSW0zwGbG75eD8kh_WvX6cweiiExw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Jitendra Kumar Verma",
+            "author_url" : "https://plus.google.com/100812817602025883726",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "LIC Palia, the smallest branch of LIC in Lucknow Divison. I have served here for almost two years as a Development Officer.",
+            "time" : 1319442586
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "insurance_agency", "establishment" ],
+      "url" : "https://plus.google.com/108118034369398100019/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "State Highway 25, Palia Kalan",
+      "website" : "http://www.licindia.co.in/"
+   },
+   "status" : "OK"
+}

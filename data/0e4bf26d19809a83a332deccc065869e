@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "East-West Highway",
+            "short_name" : "East-West Hwy",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Mahakali",
+            "short_name" : "Mahakali",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Far-Western Region",
+            "short_name" : "Far-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10400",
+            "short_name" : "10400",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eEast-West Highway\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e10400\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "East-West Highway, 10400, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.902609,
+            "lng" : 80.34575599999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "fd86bc21e30f063cda1b4c2cdc1c7c3d6766b960",
+      "name" : "Baijanath Clinic",
+      "place_id" : "ChIJqR0tLL-koTkR1HdY2oaHid0",
+      "reference" : "CnRkAAAAq3hMb8d3413fp6OM-UyJCLT6hk9fP4ZBXaYlGf4_FGUyCCFVky8UDYJrVgBRi2seYPDUN_KsvtJJnKod8qJgQY5qhbCPSLUOjTN_tXWR4MY4clMd8ytfYERDWhwiBoCIeyY9T5ZLkK3QwKbR0j_i8hIQCJUkDaRRGIjvOivOqUlc5xoUPHh5oDs3qV8bitmOzoZrFInzZ80",
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/106166944565931448720/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "East-West Highway"
+   },
+   "status" : "OK"
+}

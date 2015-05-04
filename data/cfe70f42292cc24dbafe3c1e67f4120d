@@ -1,0 +1,160 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Mid Hill Highway",
+            "short_name" : "Mid Hill Hwy",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Baglung Bazar",
+            "short_name" : "Baglung Bazar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Baglung",
+            "short_name" : "Baglung",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Dhawalagiri",
+            "short_name" : "Dhawalagiri",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Western Region",
+            "short_name" : "Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "33300",
+            "short_name" : "33300",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eMid Hill Highway\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBaglung\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e33300\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Mid Hill Highway, Baglung 33300, Nepal",
+      "formatted_phone_number" : "068-521512",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.26425,
+            "lng" : 83.60328800000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "f3af8c44a4129326a36cb71c351cca4160658dee",
+      "international_phone_number" : "+977 68-521512",
+      "name" : "Sagarmatha Furniture Store",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0600"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 6:00 am – 5:00 pm",
+            "Tuesday: 6:00 am – 5:00 pm",
+            "Wednesday: 6:00 am – 5:00 pm",
+            "Thursday: 6:00 am – 5:00 pm",
+            "Friday: 6:00 am – 5:00 pm",
+            "Saturday: Closed",
+            "Sunday: 6:00 am – 5:00 pm"
+         ]
+      },
+      "place_id" : "ChIJES4ahBLilTkRGCb8BnXmQxs",
+      "reference" : "CnRtAAAAGJnzDI0NuZ2LLM0oLEvq813yosyeTyMcQxs9LMyyNAn_VhXMPGbUsCumPwnJ4bf2kaEKPaFEoFZRQuj4yfUfagf88iGUtchV5PkebTYdYTiy6ifhQFq9OSAxtos1zLk-8pQxeaIYhKWKypXBLWaIdxIQWjp9cTcXkHo7EH-3KlHBDhoU7HaTGR8tsNvvSGl4PCs36SQ6RJ8",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Prabin Poudel",
+            "author_url" : "https://plus.google.com/114484468736005193605",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "This is the best furniture store in town..",
+            "time" : 1419264870
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [
+         "furniture_store",
+         "general_contractor",
+         "home_goods_store",
+         "store",
+         "establishment"
+      ],
+      "url" : "https://plus.google.com/101817148287846888603/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Mid Hill Highway, Baglung"
+   },
+   "status" : "OK"
+}

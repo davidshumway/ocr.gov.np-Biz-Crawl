@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "318 National Road",
+            "short_name" : "318 National Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Nyalam",
+            "short_name" : "Nyalam",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Xigaze",
+            "short_name" : "Xigaze",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Tibet",
+            "short_name" : "Tibet",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "China",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e318 National Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNyalam\u003c/span\u003e, \u003cspan class=\"locality\"\u003eXigaze\u003c/span\u003e, \u003cspan class=\"region\"\u003eTibet\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eChina\u003c/span\u003e",
+      "formatted_address" : "318 National Road, Nyalam, Xigaze, Tibet, China",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.155987,
+            "lng" : 85.982378
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "6017f14e227f426f543986123416270e6301e4c2",
+      "name" : "Tengda Branch",
+      "place_id" : "ChIJQWnOzM8-6jkRt5AD-TE3yPM",
+      "reference" : "CnRhAAAAnSCg6FZnBamhHcXsw3k_BXabGOT2dHhoS_5fsFPtPGAghryhve7MM0b2ZCK9DRXbnlRiMkdVuPoaHAXpJPwoP99TyaQ_N1PV9JezebsdxmcY7M-uh1eqhIFih6NHDWxtrBc0GKDeykc-RptmMrDetBIQc-UKj3Uy1XzS2faOwgNdtxoUTJXcjiQcMH8mYK5o-NPSLGPjrFM",
+      "scope" : "GOOGLE",
+      "types" : [ "convenience_store", "food", "store", "establishment" ],
+      "url" : "https://plus.google.com/112684759186391908987/about?hl=en-US",
+      "utc_offset" : 480,
+      "vicinity" : "318 National Road, Nyalam, Xigaze"
+   },
+   "status" : "OK"
+}

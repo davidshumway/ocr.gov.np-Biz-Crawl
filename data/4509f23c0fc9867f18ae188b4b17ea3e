@@ -1,0 +1,63 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Ilam",
+            "short_name" : "Ilam",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Ilam",
+            "short_name" : "Ilam",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Mechi",
+            "short_name" : "Mechi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eIlam\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Ilam, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.909499,
+            "lng" : 87.927758
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "4c2ed637afaa1efd8bf7d8fe3b65a6c7caa52815",
+      "name" : "Post Office",
+      "place_id" : "ChIJx3YTOY_D5TkRbL9TxKwANEM",
+      "reference" : "CmReAAAAC29MYjUIB8TqZaPIxrXMNeVGdcq1OCTqIDZF1AQBc-gFjgcWOI-yko_3dNJ01ujarCR6mftqtW0ilD3nVUgURBhz0l_tcLGEm620_7dkG0zDFf1apPl5ke4xF33RDvLxEhBVG2uqdRtUx2p5Ire8zrdUGhSEoL3TsNj0tBmtsOcAQ2777lSN9Q",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Mankumar Limbu",
+            "author_url" : "https://plus.google.com/110408041082373549579",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1404557694
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "post_office", "finance", "establishment" ],
+      "url" : "https://plus.google.com/113787339126664633860/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Ilam"
+   },
+   "status" : "OK"
+}

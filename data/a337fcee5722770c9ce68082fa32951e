@@ -1,0 +1,58 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "19",
+            "short_name" : "19",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Tuanjie Road",
+            "short_name" : "Tuanjie Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Nyalam",
+            "short_name" : "Nyalam",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Xigaze",
+            "short_name" : "Xigaze",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Tibet",
+            "short_name" : "Tibet",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "China",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e19 Tuanjie Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNyalam\u003c/span\u003e, \u003cspan class=\"locality\"\u003eXigaze\u003c/span\u003e, \u003cspan class=\"region\"\u003eTibet\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eChina\u003c/span\u003e",
+      "formatted_address" : "19 Tuanjie Road, Nyalam, Xigaze, Tibet, China",
+      "formatted_phone_number" : "0892 874 3333",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.987208,
+            "lng" : 85.983648
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id" : "58eb16f20d70f0cda5b62ba4e6e3fd1eb8376950",
+      "international_phone_number" : "+86 892 874 3333",
+      "name" : "Namusuozi Restaurant",
+      "place_id" : "ChIJcwOvr-026jkRUiuILCnqH0M",
+      "reference" : "CnRnAAAAScLeV-hxbGtSoyyjZYyiJELuXRirNe26Vou0yhnGk8gj744vw42GlOb2AD7r4V4XYkDzOlKCMtgPLFmQVOkFpcR8YkmuTT0I2lSgBk5m0f6HlrZx1ntAgc4vMpYi-ARBRRlbmLnMG48YEVFwmztcExIQHHOIKkGPkariJsXuUZR7rxoUtC2J9KyT-sxPrztCHrdInu1D86A",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "establishment" ],
+      "url" : "https://plus.google.com/106398314769585463052/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "19 Tuanjie Road, Nyalam, Xigaze"
+   },
+   "status" : "OK"
+}

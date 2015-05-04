@@ -1,0 +1,61 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "East-West Highway",
+            "short_name" : "East-West Hwy",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bardaghat",
+            "short_name" : "Bardaghat",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Lumbini",
+            "short_name" : "Lumbini",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Western Region",
+            "short_name" : "Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eEast-West Highway\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBardaghat\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "East-West Highway, Bardaghat, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.556938,
+            "lng" : 83.78422500000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "c14b5ed7b0b34621a7fac682a10f4a80707ed344",
+      "name" : "BBC Medical Hall",
+      "photos" : [
+         {
+            "height" : 800,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/113452890618034561661\"\u003eKrishna Bhandari\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAIeJAEvxHIlIdt16uV0HfA2MWs0vCSXHX0vLsUK8IOA80BSzcDZnWMs2O1iYedb_TB0UJ5PJlsGys7w1PWkR_x950cANcuinGMB2RARtiUQ4icQfX03MZkIB_W3t0_SYOX9j_MYQzsq-yOOq2-M1T_BIQRc8y5a3OaJ8IkREfR4sNZxoUMaspVwQUClpzuQHRJIW4_72GPjA",
+            "width" : 600
+         }
+      ],
+      "place_id" : "ChIJabQLruA6lDkRMXKNeLGkfeI",
+      "reference" : "CnRkAAAArB1GNFsDAj6iSMRcmBcaPjKGIN1tg5_pqoCP59BzNfwgHKyG8Ud5w59Xf1EPyO59_Qy2D6p87h9czaPmks2AQkuisTg6NFMewmpKZYlnGx73xgtxaMiflLFStS55JvffhkjbX-fxKhh0T1B2Ck51JBIQqTtsYoJfkl4Q8qhcHQy6lRoUkc8FVz4G8gDd-3GcaWposhA5fmc",
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/103625102332782639740/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "East-West Highway, Bardaghat"
+   },
+   "status" : "OK"
+}

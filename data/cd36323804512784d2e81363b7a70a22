@@ -1,0 +1,127 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Sagarmatha",
+            "short_name" : "Sagarmatha",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Eastern Region",
+            "short_name" : "Eastern Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "56200",
+            "short_name" : "56200",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Sagarmatha, \u003cspan class=\"postal-code\"\u003e56200\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Sagarmatha, 56200, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.004987,
+            "lng" : 86.752253
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "c9fb90cf16cb4f320b66778b0e36e2c3a245e964",
+      "name" : "Rasuwa Bazar",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0600"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 6:00 am – 8:00 pm",
+            "Tuesday: 6:00 am – 8:00 pm",
+            "Wednesday: 6:00 am – 8:00 pm",
+            "Thursday: 6:00 am – 8:00 pm",
+            "Friday: 6:00 am – 8:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJUXmg3M_R7jkRxf-ELdqbVf4",
+      "reference" : "CmRgAAAA6SVt7Him4uN2EGWSU0JL42nfdpNHNBDEoCCdBQCnUM9xfpKN_vIh82mkPh9lFRBkd_YQklJennUdiJv-oLD1z-JBnngO2bMdBRvtfCr2j2bG5r3ZmBmzKe1X-xdAVWdZEhDOwQopyhyFnhNjx51HNlQGGhTHAcMl0ZwIZiQssAfwj8JaAeDvHw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "CT ArUn",
+            "author_url" : "https://plus.google.com/117881338709421078636",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1387131636
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/103465902121288069265/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : ""
+   },
+   "status" : "OK"
+}

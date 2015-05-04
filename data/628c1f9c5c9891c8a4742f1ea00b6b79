@@ -1,0 +1,68 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Panena",
+            "short_name" : "Panena",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Lumbini",
+            "short_name" : "Lumbini",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Western Region",
+            "short_name" : "Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "32500",
+            "short_name" : "32500",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003ePanena\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e32500\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Panena 32500, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.870078,
+            "lng" : 83.31396599999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "8bb08299dfa4547ebc8f53e92688eb16f489e892",
+      "name" : "Nepal Rastriya Higher Secondary School",
+      "place_id" : "ChIJjR63k8dmljkRnx-V-fQQgI4",
+      "reference" : "CoQBegAAAHZoJkf2Pbb8yLSCJ0v-FzEt5zyuL5HXWrZsAz5O-SEifUVXLOaDqpaUh6w_qClGrsKQNuQwABJQP1bbENuEbcsKjLyXe16OxDuU4iBlGRbtTv-ASKZgf4fWNTciph9LjhskM5uzOiWdmF2lmOfwrcU0Cs_0o28oH86m5E5JkX9xEhA4qpPuaCha6cqpPGnKNTFhGhQSEngB93HPMnXolN6OSoUcSdK3Dg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Kamal Raymajhi",
+            "author_url" : "https://plus.google.com/108172914964822500011",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1401443892
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "school", "establishment" ],
+      "url" : "https://plus.google.com/113468331522554223658/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Panena"
+   },
+   "status" : "OK"
+}

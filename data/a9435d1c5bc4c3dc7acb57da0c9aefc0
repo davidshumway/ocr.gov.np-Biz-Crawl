@@ -1,0 +1,109 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "119",
+            "short_name" : "119",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Baidam Road",
+            "short_name" : "Baidam Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Lake Side",
+            "short_name" : "Lake Side",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Pokhara",
+            "short_name" : "Pokhara",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Gandaki",
+            "short_name" : "Gandaki",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Western Region",
+            "short_name" : "Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "33700",
+            "short_name" : "33700",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eBaidam Road 119\u003c/span\u003e, \u003cspan class=\"locality\"\u003ePokhara\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e33700\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Baidam Road 119, Pokhara 33700, Nepal",
+      "formatted_phone_number" : "061-464240",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.213688,
+            "lng" : 83.95743299999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id" : "8e97a240027702a88dc7d82a65f611081fd0e24d",
+      "international_phone_number" : "+977 61-464240",
+      "name" : "Lake City Hotel",
+      "photos" : [
+         {
+            "height" : 480,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/114463187258777856463\"\u003eree ree\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRpAAAA_iaLfJAmFxRBAommGMafm2k-x_V9rl8lGHHSGQ9v9znNW9NJRenRkDwbGFOX3bbUvMPZpAIeregl3pdyGjFrW5Kt73rmA9gn9OJAQ28xPAUNQnaHhtNuMd-rnKSIuT6Jlcsua1AsBHNuACEe2ZboYxIQ9ETiAQLrX_MRDieMZDXw5hoUhWwtRiBj_JJoOz3qWInLHoh_-KU",
+            "width" : 640
+         }
+      ],
+      "place_id" : "ChIJDW0U5uGUlTkR4y3Z133CRac",
+      "reference" : "CnRjAAAA6BqyB5-yJxsslzRjHgCdo-W25KkGr1vJp8NGPJi0sHn_kbIJ7g4c05fNUiXYovdbdzmlH8_nWfX123QYeqjyLJVxHh0RBDiQ8CrYYS9SlJBpQbZDt3H1-My60hpYsyUTT-NSzPajPbkR9j8dNITGGRIQE7QqNojwHhrgVBiPQigOdhoUK2gyKUVn5jCw6kWYkTVQKqybzEQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "ree ree",
+            "author_url" : "https://plus.google.com/114463187258777856463",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "landlady is good",
+            "time" : 1341745970
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1317821206
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "lodging", "establishment" ],
+      "url" : "https://plus.google.com/111989523373087512022/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 345,
+      "vicinity" : "Baidam Road 119, Pokhara",
+      "website" : "http://www.lakecityhotel.com/"
+   },
+   "status" : "OK"
+}

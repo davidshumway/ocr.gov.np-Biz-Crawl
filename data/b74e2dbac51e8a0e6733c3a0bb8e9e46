@@ -1,0 +1,140 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Kesariya Road",
+            "short_name" : "Kesariya Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Chakia",
+            "short_name" : "Chakia",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Purvi Champaran",
+            "short_name" : "Purvi Champaran",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "845412",
+            "short_name" : "845412",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Bajrangi Nagar, \u003cspan class=\"street-address\"\u003eKesariya Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eChakia\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e845412\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Bajrangi Nagar, Kesariya Road, Chakia, Bihar 845412, India",
+      "formatted_phone_number" : "099344 31323",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.411308,
+            "lng" : 85.039383
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "c3b7780d0aa755337c3986de51f285ac626d7a25",
+      "international_phone_number" : "+91 99344 31323",
+      "name" : "Ajay Kumar Integrated School",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 4:00 pm",
+            "Tuesday: 9:00 am – 4:00 pm",
+            "Wednesday: 9:00 am – 4:00 pm",
+            "Thursday: 9:00 am – 4:00 pm",
+            "Friday: 9:00 am – 4:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJX-SvW7nW7DkR4qUxheBK5rY",
+      "reference" : "CnRwAAAA92jjvjWUs8m7Ev7TzSAXcBg2ggndiqAh0w96kfUwUj_My9lL0t0HWIY4E-Mw41cTGVOG9QU5at-38nUmKzjrymxIu_U-AceseSXqjnHDyPaBdiaPyASOqkLKYBZT3k8aFk8c7h0vrbGvIsWU2fYKcxIQtWTZjz5nnZKN66PDJUaiDRoUisKjqKe8GCUN88wB9JJoNPXN-Zw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Anupam kumar",
+            "author_url" : "https://plus.google.com/107278257049543543381",
+            "language" : "en",
+            "rating" : 1,
+            "text" : "Good",
+            "time" : 1426830745
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "school", "establishment" ],
+      "url" : "https://plus.google.com/101850219787402546912/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Bajrangi Nagar, Kesariya Road, Chakia",
+      "website" : "http://akisedu.org/"
+   },
+   "status" : "OK"
+}

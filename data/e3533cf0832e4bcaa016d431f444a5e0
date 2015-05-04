@@ -1,0 +1,134 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Nautanwa",
+            "short_name" : "Nautanwa",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Maharajganj",
+            "short_name" : "Maharajganj",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "273164",
+            "short_name" : "273164",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eNautanwa\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e273164\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Nautanwa, Uttar Pradesh 273164, India",
+      "formatted_phone_number" : "0552 223 4234",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.427963,
+            "lng" : 83.42024600000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "d944d17654cff6083c580fe855a09c0d87eb7b59",
+      "international_phone_number" : "+91 552 223 4234",
+      "name" : "STATE BANK OF INDIA",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 5:00 pm",
+            "Tuesday: 10:00 am – 5:00 pm",
+            "Wednesday: 10:00 am – 5:00 pm",
+            "Thursday: 10:00 am – 5:00 pm",
+            "Friday: 10:00 am – 5:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJVTu9QIiXljkR8RCixe3HX2Y",
+      "reference" : "CnRmAAAAePR-39gCa_xRooeC3uoC0A2Je2efhCzgGZeTkYaQ494QVOMQydp-gdtGkn80YnqTU10A3a4gg6Gqg1fFjmfoAd_01pvDCYbO1A_4tX-cz6tcqVYpfdaWlBu5R1-wetQk6ZDV61fmZVSN_8v0QyG4YRIQTr0OLoWOdP_eMVuXTgZDQRoUlN-t1J9MO99eFB-PkVow6xOuLVI",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "",
+            "time" : 1343542730
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "bank", "finance", "establishment" ],
+      "url" : "https://plus.google.com/107698634406461833388/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Nautanwa",
+      "website" : "http://www.statebankofindia.com/"
+   },
+   "status" : "OK"
+}

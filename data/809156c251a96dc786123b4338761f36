@@ -1,0 +1,138 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1",
+            "short_name" : "1",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Medical line",
+            "short_name" : "Medical line",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Chipledhunga",
+            "short_name" : "Chipledhunga",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ram Ghat",
+            "short_name" : "Ram Ghat",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Pokhara",
+            "short_name" : "Pokhara",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Gandaki",
+            "short_name" : "Gandaki",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Western Region",
+            "short_name" : "Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "33700",
+            "short_name" : "33700",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "mahindrapul, \u003cspan class=\"street-address\"\u003eMedical line 1\u003c/span\u003e, \u003cspan class=\"locality\"\u003ePokhara\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e33700\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "mahindrapul, Medical line 1, Pokhara 33700, Nepal",
+      "formatted_phone_number" : "061-540140",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.223254,
+            "lng" : 83.99108099999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "042ee345c50262ada450cdc1986a10916688f8e8",
+      "international_phone_number" : "+977 61-540140",
+      "name" : "Pandey Mobiles And Telephone Service",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "0800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "0800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "0800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "0800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "0800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0700"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 7:00 – 8:00 am",
+            "Tuesday: 7:00 – 8:00 am",
+            "Wednesday: 7:00 – 8:00 am",
+            "Thursday: 7:00 – 8:00 am",
+            "Friday: 7:00 – 8:00 am",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJf35z2EiUlTkRl2cEnWSEr5Q",
+      "reference" : "CoQBeAAAAJlBBJYsxHOb8i_Gxy7YHCTchLT8a46yZMyMDj-QZ7OW5gvJnnALSLjbkXoVrZrvtV-V7340-1hFjiYaBLRGm8nwiboXVhbJomavPSIX8FsoBQAeT1H9LXFGbN4OJgdbSAaXeFU0-aDu76MVhLZMAjhsm2ABnpO1_fju6HG7OO2zEhCQmkMy8BocuJ6uKDlFaB6RGhTCETIvDfJIaVoUyxc2N9qsLnDNNg",
+      "scope" : "GOOGLE",
+      "types" : [ "shopping_mall", "store", "establishment" ],
+      "url" : "https://plus.google.com/102354580566522489265/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "mahindrapul, Medical line 1, Pokhara",
+      "website" : "http://www.pandeymobiles.com/"
+   },
+   "status" : "OK"
+}

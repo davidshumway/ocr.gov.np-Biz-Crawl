@@ -1,0 +1,161 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Municipality Road",
+            "short_name" : "Municipality Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Waling",
+            "short_name" : "Waling",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Gandaki",
+            "short_name" : "Gandaki",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Western Region",
+            "short_name" : "Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "33801",
+            "short_name" : "33801",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eMunicipality Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eWaling\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e33801\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Municipality Road, Waling 33801, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.982722,
+            "lng" : 83.764095
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "0259b9c7cd33a8bfc1fc667ed6ecbed7c62f1cda",
+      "name" : "Waling Municipality Office",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 11:00 am – 4:00 pm",
+            "Tuesday: 11:00 am – 4:00 pm",
+            "Wednesday: 11:00 am – 4:00 pm",
+            "Thursday: 11:00 am – 4:00 pm",
+            "Friday: 11:00 am – 4:00 pm",
+            "Saturday: Closed",
+            "Sunday: 11:00 am – 4:00 pm"
+         ]
+      },
+      "place_id" : "ChIJlyk1nFLFlTkRMSzU6E2kumU",
+      "reference" : "CnRtAAAAfBndPTHTT0JoL0Unik_nGKjApKtNUt5ee2BAn20NSWKoQ9bVoYSea2qnRJGhiCAKganlrkXTG2j9UTEkqpvIhbxsqqvPvHUaWrdzNnslMtbI9vnhcBVTn7XIqLmAF8kMaZBcuehHpgWSRUG61hTKUhIQNoM_eakieYhm62MjnMHTDhoUSQaPxnWRbVjyZ1awnxVr8DoZuic",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "khagendra prasad tiwari",
+            "author_url" : "https://plus.google.com/111021415988024271849",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Tthumpokhara",
+            "time" : 1385928123
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "SAMI ULLAH",
+            "author_url" : "https://plus.google.com/112006890280227653739",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1380823523
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "local_government_office", "establishment" ],
+      "url" : "https://plus.google.com/101554956763064057847/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 345,
+      "vicinity" : "Municipality Road, Waling"
+   },
+   "status" : "OK"
+}

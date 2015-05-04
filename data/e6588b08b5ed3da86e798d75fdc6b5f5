@@ -1,0 +1,86 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "State Highway 1A",
+            "short_name" : "SH 1A",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Shivaji Nagar",
+            "short_name" : "Shivaji Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Tetri Bazar",
+            "short_name" : "Tetri Bazar",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Siddharthnagar",
+            "short_name" : "Siddharthnagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "272207",
+            "short_name" : "272207",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eState Highway 1A\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eShivaji Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eTetri Bazar\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e272207\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "State Highway 1A, Shivaji Nagar, Tetri Bazar, Uttar Pradesh 272207, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.280223,
+            "lng" : 83.08528699999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "b0d1ad553eebbce67c1e5c7483d51ace9e4726a8",
+      "name" : "Agrawal Cloth Store",
+      "place_id" : "ChIJx6cuOKnEljkROByqSZsbBec",
+      "reference" : "CnRnAAAAr-nXMaV8EIVqPmGkVpd6zvJ8nmfjN98xE-Eh7HOC6FcOW2YiEOzEZmqoPPljh6_DTfXukGZ6nD23GPTriTOxreW20JMjH-ZagUYVoPr43HSd-232l_hlyu2dvfK8fPJBxEJ4lp8PstowoGq-ipzL9hIQ-OL4jv18OhfPMd5KqW6hrhoUetsRgnAPPqKFf48_11YMDCjFwSA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Deepu Goyal",
+            "author_url" : "https://plus.google.com/101327076665022321349",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1383584229
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "clothing_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/104899095798886166530/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "State Highway 1A, Shivaji Nagar, Tetri Bazar"
+   },
+   "status" : "OK"
+}

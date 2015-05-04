@@ -1,0 +1,154 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Lakhimpur Kheri",
+            "short_name" : "Lakhimpur Kheri",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "262902",
+            "short_name" : "262902",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Palia Kalan, \u003cspan class=\"street-address\"\u003eMohalla Pathan Station Road(Sampurna Nagar Road)\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e262902\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Palia Kalan, Mohalla Pathan Station Road(Sampurna Nagar Road), Uttar Pradesh 262902, India",
+      "formatted_phone_number" : "099359 03333",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.434098,
+            "lng" : 80.573128
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "209cc8c9a48a633b58a9e804ddccccadd2f485e7",
+      "international_phone_number" : "+91 99359 03333",
+      "name" : "HDFC Bank Branch / ATM",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1530"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1530"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1530"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1530"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1530"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1230"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0930"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:30 am – 3:30 pm",
+            "Tuesday: 9:30 am – 3:30 pm",
+            "Wednesday: 9:30 am – 3:30 pm",
+            "Thursday: 9:30 am – 3:30 pm",
+            "Friday: 9:30 am – 3:30 pm",
+            "Saturday: 9:30 am – 12:30 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJP1NaOInjoTkRTSHv3LNa168",
+      "reference" : "CnRqAAAAwA4AOHN6WdwxZVRBGxxeHvt4Sx91TwGqDBLrYcJcsq7v_ecVT3obLyV4XCgVdc1HrS0-mynVROU3-901cFimgSAOKGunDhpGWrOp-WY_mt7EwIT39IBT-RNI4vduOJonK5vfC2liGgwo0wY6cdB7NRIQdptMif1afAqE4wxq0O-gUBoUbHeOHZ3SOyOV3eomFcI9fVTk0vw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Amrendra Pathak",
+            "author_url" : "https://plus.google.com/110872899266080722527",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Nice one",
+            "time" : 1387529299
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Sandeep Chauhan",
+            "author_url" : "https://plus.google.com/104431866314273285755",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Nice bank\n",
+            "time" : 1388922675
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "bank", "atm", "finance", "establishment" ],
+      "url" : "https://plus.google.com/107148415460836839113/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "Palia Kalan, Mohalla Pathan Station Road(Sampurna Nagar Road)",
+      "website" : "http://www.hdfcbank.com/personal/index?src=googplc"
+   },
+   "status" : "OK"
+}

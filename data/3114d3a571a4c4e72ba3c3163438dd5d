@@ -1,0 +1,75 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "College Road",
+            "short_name" : "College Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Dharan",
+            "short_name" : "Dharan",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Sunsari",
+            "short_name" : "Sunsari",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Eastern Region",
+            "short_name" : "Eastern Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "56700",
+            "short_name" : "56700",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eCollege Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eDharan\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e56700\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "College Road, Dharan 56700, Nepal",
+      "formatted_phone_number" : "025-521791",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.813988,
+            "lng" : 87.282241
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+      "id" : "ef38eb824e9336fd6960dcd093474d4ba8926fa6",
+      "international_phone_number" : "+977 25-521791",
+      "name" : "Mahendra Multiple Campus",
+      "place_id" : "ChIJp9uI2KFB7zkRFTCtOwrtw14",
+      "reference" : "CnRrAAAAA1q4TE06PT2WFTfhpeTRgPmy42hHLJNp4qX3A-Y8wbQUI-_N2F5FzZJOY1Q2d09M_4M2e3538Cd6ey9RJGbvUmttUvRhKv1pcHVgTCZNWwbFgFv7RYrjfwPoRB9N-GVy2GLIsU43G2BqRklyEWmTJRIQH7kZfMxNy0UlV8xGreFhshoU7B7ycq6S-LjiyeT2uhzNcc0yUVU",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Krishna Limbu",
+            "author_url" : "https://plus.google.com/103592133491608740005",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1405839427
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "university", "establishment" ],
+      "url" : "https://plus.google.com/102420016835298691956/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "College Road, Dharan"
+   },
+   "status" : "OK"
+}

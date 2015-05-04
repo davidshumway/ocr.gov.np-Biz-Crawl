@@ -117,27 +117,9 @@ class regions {
 		
 		// Check Facebook
 		$this->facebook();
-
 		
-		// https://maps.googleapis.com/maps/api/geocode/json?address=Karkineta,parbat,Dhaulagiri,nepal
-		
-		// Facebook
-		//~ var u = 
-			//~ 'https://graph.facebook.com/search'+
-			//~ '?q='+encodeURIComponent(v)+'&type=page'+ // not &type=user
-			//~ '&fields=category,id,name,likes,talking_about_count,location,link,website,cover,phone'+ //
-			//~ '&limit=10'+
-			//~ '&center='+lat+','+lng+ //
-			//~ '&distance=30000'+ // 30k ~ 19mi
-			//~ '&access_token='; //+KEY
-			
-		//~ // Make a "geo" data dir if it does not exist.
-		//~ $this->geo_folder = $folder . 'geo/';
-		//~ if (!file_exists($this->geo_folder)) {
-			//~ if (!mkdir($this->geo_folder)) {
-				//~ die('ERROR: Could not create the folder '.$this->geo_folder);
-			//~ }
-		//~ }
+		// Check Google Places
+		$this->google_places();
 	}
 	/**
 	 * function build_regions
@@ -167,7 +149,7 @@ class regions {
 	 * https://developers.facebook.com/docs/graph-api/reference/page
 	 * 
 	 */
-	function facebook() {//return;
+	function facebook() {
 		if (!$this->fb_key) {
 			echo 'Skipping Facebook search.'."\n";
 			return;
@@ -206,6 +188,7 @@ class regions {
 				}
 			}
 		}
+		// Loop addresses
 		// $locn = $this->locations_array as $address => $locn{lat, lng}
 		foreach($all_locn as $address => $locn) {
 			// String lat/lng.
@@ -224,8 +207,6 @@ class regions {
 			// Opts
 			$opts = new StdClass;
 			$opts->url = $u;
-			//~ $opts->post = true;
-			//~ $opts->post_str = $u;
 			$opts->filename = $tmp_fn;
 			$opts->request_to_file = true;
 			$opts->request_from_file = true;
@@ -240,13 +221,13 @@ class regions {
 					die('Status != 200. Status='.$content->status);
 				}
 			}
-			$d = json_decode($content->html);//print_r($d);exit;
+			$d = json_decode($content->html);
 			echo 'Number of businesses near "'.$address.'" is '.count($d->data)."\n";
 			
+			// Loop businesses
 			// Is it already in file?
 			// Loop through the businesses and write a CSV row for each business.
 			foreach ($d->data as $key => $biz) { // $d->data is an array of business objects.
-				//~ print_r($biz);exit;
 				// Biz exists in output array?
 				if (array_key_exists($biz->id, $assoc_results_fbid)) {
 					continue;
@@ -259,7 +240,7 @@ class regions {
 				foreach ($info as $key2 => $header_type) {
 					// Check if property exists in FB data?
 					if (!property_exists($biz, $header_type)) {
-						array_push($arr_csv, '""'); // Push a blank string here.
+						array_push($arr_csv, ''); // Push blank here.
 						continue; // Go to the next header type.
 					}
 					// If still here then put the value of biz->header_type into the CSV row.
@@ -269,15 +250,24 @@ class regions {
 							// Need: 'location-street','location-city','location-country','location-zip','location-lat-lng',
 							if (property_exists($biz_info, 'street'))
 								array_push($arr_csv, $biz_info->street);
+							else
+								array_push($arr_csv, '');
 							if (property_exists($biz_info, 'city'))
 								array_push($arr_csv, $biz_info->city);
+							else
+								array_push($arr_csv, '');
 							if (property_exists($biz_info, 'country'))
 								array_push($arr_csv, $biz_info->country);
+							else
+								array_push($arr_csv, '');
 							if (property_exists($biz_info, 'zip'))
 								array_push($arr_csv, $biz_info->zip);
-							if (property_exists($biz_info, 'latitude')) {
+							else
+								array_push($arr_csv, '');
+							if (property_exists($biz_info, 'latitude'))
 								array_push($arr_csv, $biz_info->latitude . ',' . $biz_info->longitude);
-							}
+							else
+								array_push($arr_csv, '');
 							break;
 						case 'category_list':
 							// An array of category objects, {id:, name:}
@@ -285,7 +275,7 @@ class regions {
 							foreach ($biz_info as $key3=>$category) {
 								array_push($carr, $category->name);
 							}
-							array_push($arr_csv, implode('/', $carr)); // Implody by /
+							array_push($arr_csv, implode(' / ', $carr)); // Implody by " / "
 							break;
 						default:
 							//
@@ -309,6 +299,222 @@ class regions {
 			}
 			// LOCATION
 			// e.g. {"street":"AStreet","city":"Walling","country":"Nepal","zip":"123456","latitude":27.8206406,"longitude":83.5991725}
+		}
+		// Close fp.
+		fclose($fp);
+	}
+	/**
+	 * function google_places_init_search
+	 * 
+	 * CURL requests.
+	 */
+	function google_places_init_search($str_lat_lng, $type, $address) {
+		// Array bad strings
+		$arr_bad_str = array(
+			'This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console'
+		);
+		// Curl get businesses
+		// Opts
+		$tmp_fn =
+			'https://maps.googleapis.com/maps/api/place/radarsearch/json'.
+			'?sensor=false'.
+			'&radius=50000'.
+			'&types='.urlencode($type).//implode('|',$types1).
+			'&location='.urlencode($str_lat_lng);
+		$u = $tmp_fn . '&key='.urlencode($this->gapi_key);
+		$tmp_fn = md5($tmp_fn);
+		$opts = new StdClass;
+		$opts->url = $u;
+		$opts->filename = $tmp_fn;
+		$opts->overwrite_if_strpos = $arr_bad_str;
+		$opts->do_not_save_if_strpos = $arr_bad_str;
+		$opts->request_to_file = true;
+		$opts->request_from_file = true;
+		$opts->folder = $this->tmp_folder;
+		$content = curl_get($opts); // status,html
+		// Result
+		if (property_exists($content, 'isCached')) { // No output.
+		} else {
+			echo '.';
+			if ($content->status != 200) {
+				echo $content->html;
+				die('Status != 200. Status='.$content->status);
+			}
+		}
+		$d = json_decode($content->html);
+		// Has bad strings?
+		foreach ($arr_bad_str as $key => $str) {
+			if (strpos($content->html, $str) !== false) {
+				echo 'ERROR: RESPONSE CONTAINS:'.$str;
+				exit;
+			}
+		}
+		echo 'Number of businesses near "'.$address.'" is '.count($d->results)."\n";
+		if (count($d->results) == 200) {
+			echo 'WARNING:#>200'."\n";
+		}
+		return $d;
+	}
+	/**
+	 * function google_places_biz_profile
+	 * 
+	 * CURL requests.
+	 */
+	function google_places_biz_profile($place_id) {
+		// Array bad strings
+		$arr_bad_str = array(
+			'This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console'
+		);
+		// Curl get businesses
+		// https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJN1t_tDeuEmsRUsoyG83frY4&key=AddYourOwnKeyHere
+		// Opts
+		$tmp_fn =
+			'https://maps.googleapis.com/maps/api/place/details/json'.
+			'?placeid='.urlencode($place_id);
+		$u = $tmp_fn . '&key='.urlencode($this->gapi_key);
+		$tmp_fn = md5($tmp_fn);
+		$opts = new StdClass;
+		$opts->url = $u;
+		$opts->filename = $tmp_fn;
+		$opts->overwrite_if_strpos = $arr_bad_str;
+		$opts->do_not_save_if_strpos = $arr_bad_str;
+		$opts->request_to_file = true;
+		$opts->request_from_file = true;
+		$opts->folder = $this->tmp_folder;
+		$content = curl_get($opts); // status,html
+		// Result
+		if (property_exists($content, 'isCached')) { // No output.
+		} else {
+			echo '.';
+			if ($content->status != 200) {
+				echo $content->html;
+				die('Status != 200. Status='.$content->status);
+			}
+		}
+		$d = json_decode($content->html);
+		// Has bad strings?
+		foreach ($arr_bad_str as $key => $str) {
+			if (strpos($content->html, $str) !== false) {
+				echo 'ERROR: RESPONSE CONTAINS:'.$str;
+				exit;
+			}
+		}
+		//~ echo 'Number of businesses near "'.$address.'" is '.count($d->results)."\n";
+		//~ if (count($d->results) == 200) {
+			//~ echo 'WARNING:#>200'."\n";
+		//~ }
+		return $d;
+	}
+	/**
+	 * function google_places
+	 * 
+	 * Reference is at:
+	 * https://developers.google.com/maps/documentation/javascript/places
+	 * 
+	 * TODO: Add search keyword, e.g. "construction", and then search with no types.
+	 */
+	function google_places() {
+		if (!$this->gapi_key) {
+			echo 'Skipping Google Places search.'."\n";
+			return;
+		} else {
+			echo 'Starting Google Places search.'."\n";
+		}
+		
+		// CSV
+		$csv = 'businesses-on-google-places.csv';
+		$fp = fopen($csv, 'w');
+		$types1 = ['car_repair','electrician','general_contractor','hardware_store','home_goods_store','locksmith','moving_company','plumber','roofing_contractor','establishment','store','electronics_store'];
+		$hd   = [
+			'name',
+			'formatted_address',
+			'vicinity',
+			'formatted_phone_number',
+			'international_phone_number',
+			'location-lat-lng',
+			'permanently_closed',
+			'rating',
+			'types', // Returns an array of types
+			'url', // Google page
+			'website', // Business website, if available
+			'place_id'
+		];
+		
+		// Write header to CSV.
+		fputcsv($fp, $hd);
+		
+		// Results associative array, for unique results. By Google Places place_id.
+		$assoc_results_gpid = array();
+		
+		// For each unique lat/lng location do a Facebook search for all businesses in the area.
+		// Iterate through all regional lat/lng pairs. May be unnecessary to go through the local pairs.
+		$all_locn = array(); // Assoc. array.
+		foreach ($this->regions as $key => $region) {
+			if ($region->title_en == 'Unknown') continue; // Unnecessary to geocode this.
+			foreach ($region->zones as $key2 => $zone) {
+				foreach ($zone->districts as $key3 => $district) {
+					// District+Zone+Country
+					$dz = $district->title_en.','.$zone->title_en.',Nepal';
+					// Assoc. array.
+					$all_locn[ $dz ] = $this->locations_array[ $dz ];
+				}
+			}
+		}
+		// Loop locations
+		// $locn = $this->locations_array as $address => $locn{lat, lng}
+		foreach ($all_locn as $address => $locn) {
+			// String lat/lng.
+			$str_lat_lng = $locn->lat . ',' . $locn->lng;
+			// Loop types
+			foreach ($types1 as $key => $type) {
+				
+				// Search for places
+				$d1 = $this->google_places_init_search($str_lat_lng, $type, $address); // $d->results=Array of objects {place_id:}
+				
+				// Loop search results
+				// Retrieve details on each place using its place_id
+				foreach ($d1->results as $key2 => $gp) {
+					// Biz exists in output array?
+					if (array_key_exists($gp->place_id, $assoc_results_gpid))
+						continue;
+					else
+						$assoc_results_gpid[ $gp->place_id ] = true;
+					// Get biz
+					$biz = $this->google_places_biz_profile($gp->place_id);
+					$biz = $biz->result;
+					$arr_csv = array();// Output array
+					// Loop headers
+					foreach ($hd as $key3 => $header_type) {
+						switch($header_type) {
+							case 'location-lat-lng':
+								if 	(
+									$header_type == 'location-lat-lng' &&
+									property_exists($biz, 'geometry') && // Has geometry
+									property_exists($biz->geometry, 'location') // Has location
+									)
+								{
+									$ll = $biz->geometry->location->lat . ',' . $biz->geometry->location->lng;
+									array_push($arr_csv, $ll);
+								} else
+									array_push($arr_csv, ''); // Push blank here.
+								break;
+							case 'types':
+								if (property_exists($biz, 'types')) { // Array
+									array_push($arr_csv, implode(' / ', $biz->types)); // Push value.
+								} else
+									array_push($arr_csv, ''); // Push blank here.
+								break;
+							default:
+								if (property_exists($biz, $header_type)) 
+									array_push($arr_csv, $biz->$header_type); // Push value.
+								else
+									array_push($arr_csv, ''); // Push blank here.
+						}
+					}
+					fputcsv($fp, $arr_csv); // Write CSV row to file.
+				}
+				continue;
+			}
 		}
 		// Close fp.
 		fclose($fp);
@@ -491,6 +697,8 @@ class regions {
 	 */
 	function get_biz_categories() {
 		$biz_assoc_array = array(); // Keys by biz. reg. #
+		//~ $biz_assoc_array_title = array(); // Title
+		//~ $biz_assoc_array_title_en = array(); // Title-English
 		// For each zone retrieve the list of categories.
 		// Then iterate through all categories and add to the businesses in the zones object.
 		foreach ($this->regions as $key => $region) {
@@ -552,9 +760,14 @@ class regions {
 					$rgn = $tmp_biz->registration_no;
 					if (!array_key_exists($rgn, $biz_assoc_array)) {
 						$biz_assoc_array[ $rgn ] = array();
+						$biz_assoc_array_title[ $rgn ] = array();
+						$biz_assoc_array_title_en[ $rgn ] = array();
 					}
-					// Push
+					// Push Category IDs
 					array_push($biz_assoc_array[ $rgn ], $num_ctg);
+					//~ // Push Category title
+					//~ array_push($biz_assoc_array_title[ $rgn ], $category_obj->title);
+					//~ array_push($biz_assoc_array_title_en[ $rgn ], $category_obj->title_en);
 				}
 			}
 		}
@@ -581,6 +794,8 @@ class regions {
 						$rgn = $business->registration_no;
 						if (array_key_exists($rgn, $biz_assoc_array)) {
 							$business->category_id = implode(',', $biz_assoc_array[ $rgn ]); // Join by comma.
+							//~ $business->category_list = implode(',', $biz_assoc_array_title[ $rgn ]); // Join by comma.
+							//~ $business->category_list_en = implode(',', $biz_assoc_array_title_en[ $rgn ]); // Join by comma.
 						}
 					}
 				}
@@ -687,7 +902,7 @@ class regions {
 			// Has bad strings?
 			foreach ($arr_bad_str as $key => $str) {
 				if (strpos($content->html, $str) !== false) {
-					echo 'ERROR: GEOCODING RESPONSE CONTAINS:'.$str;
+					echo 'ERROR: RESPONSE CONTAINS:'.$str;
 					exit;
 				}
 			}
@@ -865,6 +1080,8 @@ class regions {
 			'Address',
 			'Type',
 			'Category IDs',
+			//~ 'Category List',
+			//~ 'Category List-English Translated',
 			'Address-English Translated', // TRANSLATION IF AVAILABLE
 			'Regional Lat./Lng.',
 			'Local Lat./Lng.',
@@ -905,6 +1122,8 @@ class regions {
 							$business->address,
 							$business->type_name,
 							$business->category_id,
+							//~ $business->category_list,
+							//~ $business->category_list_en,
 							$business->address_api_translate, // TRANSLATION IF AVAILABLE
 							$business->regional_lat_lng, // RETRIEVED IF AVAILABLE
 							$business->local_lat_lng, // RETRIEVED IF AVAILABLE

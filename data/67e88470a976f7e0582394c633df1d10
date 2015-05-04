@@ -1,0 +1,73 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Ghokechaur",
+            "short_name" : "Ghokechaur",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Banepa",
+            "short_name" : "Banepa",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bagmati",
+            "short_name" : "Bagmati",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "Ghokechaur, \u003cspan class=\"locality\"\u003eBanepa\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Ghokechaur, Banepa, Nepal",
+      "formatted_phone_number" : "011-661885",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.634151,
+            "lng" : 85.527576
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "fc4a0148e9e4a8a610ce0f6d866216fe6aa6ff7b",
+      "international_phone_number" : "+977 11-661885",
+      "name" : "Chandi Pharma",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "open" : {
+                  "day" : 0,
+                  "time" : "0000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+         ]
+      },
+      "place_id" : "ChIJU6Kr484I6zkR5KZ80PWJO2A",
+      "reference" : "CmRgAAAApGN2rOygsLhz9Rp_uoiYAWaJ-dSYrJpDiRfh1vgM1Yz2mwTA5G3PurSR8UOjbgxzHFGeBevc8r7AlhcE7YeBou2D5qI8O-6zB_OAK19JtU1SII5bx5Sx9LWj1DPL35dYEhAs7HIGvMTeoE8gFKMA2CquGhTUvZOjaZ0Lbm1V1rfpNXzjnfQBPQ",
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/114291685579531043379/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "Ghokechaur, Banepa"
+   },
+   "status" : "OK"
+}

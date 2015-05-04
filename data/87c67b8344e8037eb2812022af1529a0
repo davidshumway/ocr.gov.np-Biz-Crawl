@@ -1,0 +1,61 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "East-West Highway",
+            "short_name" : "East-West Hwy",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Seti",
+            "short_name" : "Seti",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Far-Western Region",
+            "short_name" : "Far-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10900",
+            "short_name" : "10900",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eEast-West Highway\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e10900\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "East-West Highway, 10900, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.672257,
+            "lng" : 80.97949
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "432334c03e5abf688a6143060ed137e945d438cd",
+      "name" : "Jeevan Sewa Para Clinic",
+      "photos" : [
+         {
+            "height" : 768,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/109541601761799558620\"\u003ePrem Bohara\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAA-VrT3SaoZX26j1YfTfLnV3tHbGiEiej9LH1N9Z9hW0XJeCI8v3YTRk4EmNjFfXjNUJac_4Z6ZcPJSLd3PxTH1NnEZMQVC7LhznnF03muX0Cntc1rnjS1F72Lzm8zyLYScQNWah-f2fkt4HLTpOUl7hIQvY28LyWbGwFPeL1TXv_xvxoUs9iyE7G3C47Li1KyPYGl4VL_KAs",
+            "width" : 1024
+         }
+      ],
+      "place_id" : "ChIJWQQqA-cZojkRqY05LZQh0-0",
+      "reference" : "CnRrAAAArkUciDFEKKN9Xs22FHbVoAwKa26ITEhsJGpFZCFPgy6PjVS1hZHxnES-3NPKFbQwZB8KRy3k2qLMLP-Us5W8O4B0PnbltUKNJ4j0-7YGn7qEFY0lT97RL4h-1duif5cOCxYLz4QdKw0GGAzLL7e2IRIQ0zCp45Ini3GeuVDyMDRoNBoUAGOvyl7YGbdDpCqmCbvpiT2uEjk",
+      "scope" : "GOOGLE",
+      "types" : [ "hospital", "establishment" ],
+      "url" : "https://plus.google.com/101151878323046208286/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "East-West Highway"
+   },
+   "status" : "OK"
+}

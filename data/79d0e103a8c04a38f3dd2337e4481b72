@@ -1,0 +1,78 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Lake Side",
+            "short_name" : "Lake Side",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Baidam",
+            "short_name" : "Baidam",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Pokhara",
+            "short_name" : "Pokhara",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Gandaki",
+            "short_name" : "Gandaki",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Western Region",
+            "short_name" : "Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "33700",
+            "short_name" : "33700",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Lake Side, \u003cspan class=\"locality\"\u003ePokhara\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e33700\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Lake Side, Pokhara 33700, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.206011,
+            "lng" : 83.966199
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id" : "546a5adce714f24ea3e123a8cb85d8c07726bab9",
+      "name" : "Mum's Garden Resort",
+      "place_id" : "ChIJqSCY9ASVlTkRCLJuapg-TgI",
+      "reference" : "CnRmAAAAHRpWk5gGnuMAP9i23O4sfUX5BvdHAft34-Ucwbo_fiRXZIUDIpKWLSx4jFNDyyPFY7A6xkWDjU9oEfFhrprwgNnXnojzY7UydgXvP6-2SDFAgsyJWpENOEqXiStUI21hWkcA41sEhR82-JnHpdUqMxIQreIxY5kRsWi5ySXeqr3J-RoU1SN6uofeD-xfusDi67oeKD7hALg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Andrew Dowell",
+            "author_url" : "https://plus.google.com/109121365923032863743",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Awesome. A small piece of paradise in Pokhara. Lovely rooms, food and staff. I really could have spent days here. Thank you!  ",
+            "time" : 1427183501
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "lodging", "establishment" ],
+      "url" : "https://plus.google.com/117887939682813433673/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Lake Side, Pokhara"
+   },
+   "status" : "OK"
+}

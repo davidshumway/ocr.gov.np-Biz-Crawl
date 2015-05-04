@@ -1,0 +1,83 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Thamel",
+            "short_name" : "Thamel",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kathmandu",
+            "short_name" : "Kathmandu",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bagmati",
+            "short_name" : "Bagmati",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "BA",
+            "short_name" : "BA",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "44600",
+            "short_name" : "44600",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Chibahal, Thamel, \u003cspan class=\"locality\"\u003eKathmandu\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e44600\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Chibahal, Thamel, Kathmandu 44600, Nepal",
+      "formatted_phone_number" : "01-4253664",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.713296,
+            "lng" : 85.31113999999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id" : "7cfd2da01ae8145733fa803f600b3f3c57bc0e82",
+      "international_phone_number" : "+977 1-4253664",
+      "name" : "Hotel Kathmandu Terrace",
+      "place_id" : "ChIJ8_KYrP0Y6zkRGrc8-sZfIlk",
+      "reference" : "CnRqAAAAPuRVjwyJY98AKWHq6PNMXDKvddVrBmJOR_MH_ylLb3IRq-hNVc-FMJRYBNPG44PbibraFU0Lqdybyol2kxz1wlmxHJDsD2vA0WGpsSXO7N-nWdRtEJLGcrewD-DM7uWkpb7SJfgzjyV7rrSbpsgfBxIQTdrIcu0TOq4vdhbns7U3BRoUqPaTi9EF7SeZAEeHLnN0IA0XwgA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "facilities"
+               },
+               {
+                  "rating" : 0,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Aradhna Sharma",
+            "author_url" : "https://plus.google.com/103034530732314528303",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1365874278
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "lodging", "establishment" ],
+      "url" : "https://plus.google.com/108953591175627229568/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Chibahal, Thamel, Kathmandu"
+   },
+   "status" : "OK"
+}

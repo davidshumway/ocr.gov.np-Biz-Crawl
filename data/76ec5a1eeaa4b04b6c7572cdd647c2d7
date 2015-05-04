@@ -1,0 +1,61 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Ring Road",
+            "short_name" : "Ring Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Narayan Gopal Chowk",
+            "short_name" : "Narayan Gopal Chowk",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kathmandu",
+            "short_name" : "Kathmandu",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bagmati",
+            "short_name" : "Bagmati",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "44600",
+            "short_name" : "44600",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eRing Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKathmandu\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e44600\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Ring Road, Kathmandu 44600, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.739927,
+            "lng" : 85.337542
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id" : "b4830c5c91d19c7cfea9453be6efef05381e7648",
+      "name" : "Hot Breads",
+      "place_id" : "ChIJo6nlOUYZ6zkRx8gBiqfG8RE",
+      "reference" : "CmRdAAAAr-QbYSGd6eb0UeGa2e0IB7L8AgXH4WhinxpmoJr1q32CsaahYoCfeVR50c5AoB22YbAMROTq-63ElAava_iqpkZaGa7jIwwhofpx19H9nEnXN-9ZGvPeBZVHlwI8lp-kEhCKhAAaG45w5gyIJD-aV_k2GhS3Ugd4yIa3MvPdFVSBINxIaisc7Q",
+      "scope" : "GOOGLE",
+      "types" : [ "bakery", "store", "food", "establishment" ],
+      "url" : "https://plus.google.com/107274556457264036405/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "Ring Road, Kathmandu"
+   },
+   "status" : "OK"
+}

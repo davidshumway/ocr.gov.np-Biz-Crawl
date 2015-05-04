@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "B.P.Highway",
+            "short_name" : "B.P.Highway",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Dhulikhel",
+            "short_name" : "Dhulikhel",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bagmati",
+            "short_name" : "Bagmati",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eB.P.Highway\u003c/span\u003e, \u003cspan class=\"locality\"\u003eDhulikhel\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "B.P.Highway, Dhulikhel, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.62051,
+            "lng" : 85.552908
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "a137094c317769d34b3ae5a9fe51ec3d2a9aac66",
+      "name" : "Sabji Bhandar",
+      "place_id" : "ChIJW-kZcv0I6zkREsEqw3fwN6o",
+      "reference" : "CnRhAAAAw0CxA2sfzTjdAKVXVOrSmuRNKWoFKEsaSNVx9x-JmHlgzPLErPnpxq6ftVzLclQx3SJW11T5WJtCHlvUQUtI5z4Q27qSzyZ1PLrr900SYcHxcYXbeAVLdFGWz7ZzhoiI3yFskmgA2vtOKdB0ycQ2VhIQmY0WiVRE1ruByMCSZ5Mq9hoUuGE018EvGSUF5PaYF5rxClJVljo",
+      "scope" : "GOOGLE",
+      "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+      "url" : "https://plus.google.com/110161165357972356289/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "B.P.Highway, Dhulikhel"
+   },
+   "status" : "OK"
+}

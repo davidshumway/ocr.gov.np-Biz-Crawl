@@ -1,0 +1,76 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Budol",
+            "short_name" : "Budol",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Dhulikhel",
+            "short_name" : "Dhulikhel",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bagmati",
+            "short_name" : "Bagmati",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "KU, Dhulikhel, \u003cspan class=\"locality\"\u003eDhulikhel\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "KU, Dhulikhel, Dhulikhel, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.618453,
+            "lng" : 85.538371
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+      "id" : "bb8187776d7b6e27028a0f83800d379441d4a833",
+      "name" : "KU Fast Food Cafe",
+      "place_id" : "ChIJMw2KeyAJ6zkRZ-0NRR9h86Q",
+      "reference" : "CnRlAAAA7ZLmE02TS8IVXp4-YDqz1Tc4XIL3r_c4C2sFGZ0tj44nAYA_NuEYL9pxo3hbCY8XrU87pg32HBM9FEWnz8VI_OQJtEs7b78-Lh2AG6tqsOLl8UWqf6dLbQ5GaSyM3g7XtLhqoEWDwmn8WEf_lnafaxIQHz2rBFeKtkGvYRXfY_wXEhoUkVbZ7AsXUyRYuS9DugtJL7XuNoc",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "food"
+               },
+               {
+                  "rating" : 0,
+                  "type" : "decor"
+               },
+               {
+                  "rating" : 0,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "KRISHNA KC",
+            "author_url" : "https://plus.google.com/113572275048776595403",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "Fast food is very late... ",
+            "time" : 1371630108
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "cafe", "food", "establishment" ],
+      "url" : "https://plus.google.com/100904983171506519112/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "KU, Dhulikhel, Dhulikhel"
+   },
+   "status" : "OK"
+}

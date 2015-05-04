@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "East-West Highway",
+            "short_name" : "East-West Hwy",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Mahakali",
+            "short_name" : "Mahakali",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Far-Western Region",
+            "short_name" : "Far-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10400",
+            "short_name" : "10400",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eEast-West Highway\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e10400\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "East-West Highway, 10400, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.899875,
+            "lng" : 80.34814900000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "66caa055d115a812a8dfd1630705360a7ef3adf6",
+      "name" : "Kamana Clinic",
+      "place_id" : "ChIJFwp9drmkoTkRdSOdHFOQfv4",
+      "reference" : "CnRhAAAAhpsOg3ReYU2ukxBUwO7uGWxpf5tvdQ8ZOYdLspUMmWecB9EAt0yOIbRAnGKIqAsDSA5zdYtjs0KXyGlPmCzBvUt_8PaYlcwjMOs2rPzFCni6DR1hs9XKitfr6R2SZciBhPoLLHrJtYFd1Pc9uQA-8BIQoXmenmHzZpItH6qALxc4XBoUAPTwzph3LIAdjvO5GshoSc0UU4A",
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/110919002416817061854/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "East-West Highway"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,155 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "East-West Highway",
+            "short_name" : "East-West Highway",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Damak Chowk",
+            "short_name" : "Damak Chowk",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Damak",
+            "short_name" : "Damak",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Mechi",
+            "short_name" : "Mechi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Eastern Region",
+            "short_name" : "Eastern Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "57217",
+            "short_name" : "57217",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eEast-West Highway\u003c/span\u003e, \u003cspan class=\"locality\"\u003eDamak\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e57217\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "East-West Highway, Damak 57217, Nepal",
+      "formatted_phone_number" : "023-582640",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.659812,
+            "lng" : 87.696968
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "f0f70894512d950100d5241831053ea9d83c826b",
+      "international_phone_number" : "+977 23-582640",
+      "name" : "ShresthaBrothers",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 am – 5:00 pm",
+            "Tuesday: 8:00 am – 5:00 pm",
+            "Wednesday: 8:00 am – 5:00 pm",
+            "Thursday: 8:00 am – 5:00 pm",
+            "Friday: Closed",
+            "Saturday: 8:00 am – 5:00 pm",
+            "Sunday: 8:00 am – 5:00 pm"
+         ]
+      },
+      "place_id" : "ChIJqVYTECCO5TkRvv5PWY3rqXE",
+      "reference" : "CnRjAAAAhwxfdYFTNK44ktMvvgdvY-X5m-SmsCnRc4zHBagh-TbsO7a_2514zD7peMy3Gxhc9GB1v7yK_zDtXIHa93aO7xV5F3y4eOYm6ncWgZHFSbA-8VisaZVczkkIa2j-WzuRbcyhQZ5blzSzrwrkNFSbxBIQBZg_N5aUJYod2JOlZ1_1PhoUlGQEe-gWYo8hFLaMQZuynbELnX0",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "kitchenconcept damak",
+            "author_url" : "https://plus.google.com/106065072742949283001",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1417939697
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/117663165423487913433/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "East-West Highway, Damak",
+      "website" : "http://www.facebook.com/shresthabrother"
+   },
+   "status" : "OK"
+}

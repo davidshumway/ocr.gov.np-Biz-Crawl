@@ -1,0 +1,64 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "School Road",
+            "short_name" : "School Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Hetauda",
+            "short_name" : "Hetauda",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Narayani",
+            "short_name" : "Narayani",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "44107",
+            "short_name" : "44107",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eSchool Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eHetauda\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e44107\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "School Road, Hetauda 44107, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.429556,
+            "lng" : 85.031986
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "c16f7ca8fc620a179a108facce2f0cd2207cdc35",
+      "name" : "Bidhyarthi Book Store",
+      "photos" : [
+         {
+            "height" : 480,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CoQBdAAAAGzLsOevhp6yUGqcn05tQbUIrHte7GKHI0_KbinI3Fqb1q_Y8_qhg_0vIFa10Ul0Et7qaLL5k-GY9L7uuBVQAM7sVQZodK6fir9W2nODNOMfdH3fEC_4VlpCz_0wG9J9cosuCgASk0Q7nNfKSJvUYhelw5ZfXLzwvOG0pbOMROtFEhD7CGgTaxfsXq1BSKXX3jtUGhQG7C_WxMUxNDT8-q4OZ2qU0naISw",
+            "width" : 640
+         }
+      ],
+      "place_id" : "ChIJjY_8To5J6zkRWP8Zl8iOWm8",
+      "reference" : "CnRoAAAASVBPA4u1m0OxUysSvsRak0SBDAAD7Jvv6lGDueQ0BWhVTDfbDdpSnOptUYuyiCGAcqhsymzn4ON3ij1MYoUsMEBNUOM-SrDT1R3bMzQ2wVf13h2ydNYoWl9alWBSu-KR1kBFRPLXkJyeKEU2LANP4BIQWenpZvaX2hJ_ZDl-IVNTFxoUMHi56QbQZn24a0MdfOxOFVND7GU",
+      "scope" : "GOOGLE",
+      "types" : [ "book_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/101954944823135611566/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "School Road, Hetauda"
+   },
+   "status" : "OK"
+}

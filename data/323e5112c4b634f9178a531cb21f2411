@@ -1,0 +1,63 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Babu Barhi",
+            "short_name" : "Babu Barhi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Madhubani",
+            "short_name" : "Madhubani",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "Main Road Babubarhi,, \u003cspan class=\"locality\"\u003eBabu Barhi\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Main Road Babubarhi,, Babu Barhi, Bihar, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.452979,
+            "lng" : 86.271311
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "eccbe60c4055f918cccdca97be3974331f33bf33",
+      "name" : "SBI ATM",
+      "place_id" : "ChIJ02G0Be6B7jkRiLeUEu-3eCU",
+      "reference" : "CmRaAAAAruw5L0pDtC8GExCIyTrZEugRtpsJSKdpkhYgJGneZzKkdTSRmQXwzBmNCFCHyhd7H7XGfLDfK-etWSxaro71lkKZf_Pil_R7DE_p__qCQ-3sKKNjTAWEdRRXGCeL1dwJEhAPre8Gf4EVvts1450ZNCKeGhQ6hDtYEi6kltMYsqY0tHuAZo5XLA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "UDAY KUMAR ROY",
+            "author_url" : "https://plus.google.com/101228993911550781021",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "its near by Vishnu Vishal Hotel",
+            "time" : 1407319957
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "atm", "finance", "establishment" ],
+      "url" : "https://plus.google.com/103523147300982762571/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Main Road Babubarhi,, Babu Barhi"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,86 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Mahendra Pul Road",
+            "short_name" : "Mahendra Pul Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Matepani",
+            "short_name" : "Matepani",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Fulbari",
+            "short_name" : "Fulbari",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Gandaki",
+            "short_name" : "Gandaki",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Western Region",
+            "short_name" : "Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "33700",
+            "short_name" : "33700",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eMahendra Pul Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eFulbari\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e33700\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Mahendra Pul Road, Fulbari 33700, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.216725,
+            "lng" : 84.00281099999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "1bca171812f39445114636fbe5a60ca43ee2f9f8",
+      "name" : "Tri Shakti electrical",
+      "place_id" : "ChIJAURzFzOUlTkRWm2Eer6QZBY",
+      "reference" : "CnRoAAAAZJCyJ91Kv_r8_WAEvdXhK7ArtqjAeYJDXXGCBOD7b8TvhsLfS3X0QoD1XKdTlQGY-ZwGcOCs026fBtc5JoSHbdmYStYf__aVIGuTl8ynsgWiapEYCiO2jTfXoQ6fHA6sRn1X2F-XUK9EETunAaD8hxIQTF9jpG7Sq7ijG5IuhsynZRoUVqegkTYAxQ3KpaDicyWDeOuCBE0",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "pratik karki",
+            "author_url" : "https://plus.google.com/109336495349099893110",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1383829550
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "store", "establishment" ],
+      "url" : "https://plus.google.com/107108119364394481374/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Mahendra Pul Road, Fulbari"
+   },
+   "status" : "OK"
+}

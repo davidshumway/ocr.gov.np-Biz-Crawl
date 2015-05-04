@@ -1,0 +1,115 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Malangawa",
+            "short_name" : "Malangawa",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Janakpur",
+            "short_name" : "Janakpur",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "45800",
+            "short_name" : "45800",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eMalangawa\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e45800\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Malangawa 45800, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.856115,
+            "lng" : 85.56277799999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "2926f9c9416b0975f2cc804eb1a5c5f891b23f0d",
+      "name" : "Vegetable Market",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1700"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 5:00 – 8:00 pm",
+            "Tuesday: 5:00 – 8:00 pm",
+            "Wednesday: 5:00 – 8:00 pm",
+            "Thursday: 5:00 – 8:00 pm",
+            "Friday: 5:00 – 8:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJd-9kw6eJ7DkR-Kjg_0xJG3o",
+      "reference" : "CnRjAAAATjTEVQL0hAq5vidtYFOG3NNzfm6l8qLq05fhqYot8EWxMnIYNWC22VcsQLlHJa8V2Q0mp9LvAI27H7S4ql7qShZknf_OJ5UsZkrblvHY2kmKRD5c8tsYnWwI2lsLNTyl8FQlqZek4XWFxweWV7L6BxIQtqJyrifjJF2x6vAgMAi-khoUeTZAxFTXZfqoZVuCfqBm2a7jkkM",
+      "scope" : "GOOGLE",
+      "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+      "url" : "https://plus.google.com/108796035246756376669/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Malangawa"
+   },
+   "status" : "OK"
+}

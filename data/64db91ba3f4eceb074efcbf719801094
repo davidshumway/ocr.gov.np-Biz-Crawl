@@ -1,0 +1,157 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Thunla",
+            "short_name" : "Thunla",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Banepa",
+            "short_name" : "Banepa",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bagmati",
+            "short_name" : "Bagmati",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "45210",
+            "short_name" : "45210",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eThunla\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBanepa\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e45210\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Thunla, Banepa 45210, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.630636,
+            "lng" : 85.52024400000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "3ffdf4dc44b959672dc21e4baf9a1e83c30c56eb",
+      "name" : "Udaya Medical Hall",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1930"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1930"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1930"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1930"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1930"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1930"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1930"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0700"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 7:00 am – 7:30 pm",
+            "Tuesday: 7:00 am – 7:30 pm",
+            "Wednesday: 7:00 am – 7:30 pm",
+            "Thursday: 7:00 am – 7:30 pm",
+            "Friday: 7:00 am – 7:30 pm",
+            "Saturday: 7:00 am – 7:30 pm",
+            "Sunday: 7:00 am – 7:30 pm"
+         ]
+      },
+      "place_id" : "ChIJJ4nZSM0I6zkR3s8MZofTYPA",
+      "reference" : "CnRmAAAArOlHMwl8XeunHgUqp2lrSl9Hcg_nJmfzTtTIJpJ_Jq5QEdSlcJtbRlN1yQ3pkgyS0hdi5UzkoG_C2mHAyoQgEyBKB0detSmRa4tN22i4y1Hic7vhEZFvJjbDVbgpgr9Ix_NVwbMZQb1kQLr3Rnf6tBIQKkWj_H8N4CmS3cs1V0kWhhoUYxRj0mz90tJHYfHuH4YI8MeZsG4",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Bandeshor Makai",
+            "author_url" : "https://plus.google.com/110988087672292117743",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "A pharmacy with strong background and history ",
+            "time" : 1356769874
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/108884946052069994799/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Thunla, Banepa"
+   },
+   "status" : "OK"
+}

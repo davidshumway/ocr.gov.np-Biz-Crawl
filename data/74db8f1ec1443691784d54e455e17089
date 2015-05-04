@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "East-West Highway",
+            "short_name" : "East-West Hwy",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Seti",
+            "short_name" : "Seti",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Far-Western Region",
+            "short_name" : "Far-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10900",
+            "short_name" : "10900",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eEast-West Highway\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e10900\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "East-West Highway, 10900, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.661564,
+            "lng" : 81.022717
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "b7555adc941a007844186f5d1797aee904ebe13f",
+      "name" : "Ramesh Medical Hall",
+      "place_id" : "ChIJS0HjYy4XojkR_XlkIJytElo",
+      "reference" : "CnRmAAAA9rUuV56rF9dZdFJL2z9-lP1Mjfs-d3ZhyJ5863uC9R3mabR9-5LMDeu29AwW2zBaV_Caegq1v03gNTb1RaTseKzUxEhhHNyRMqwkYeIMMmnNE-ZGFdMnBZawxssgWxdXQX5ZF90J9Tbq1jsPwGfyWxIQ5K92hEwKuCg6Eh34Oy-7DhoUYX22lE4eH_HHlcgpH11pAt90Ry4",
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/109600971357691266378/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "East-West Highway"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,76 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "East-West Highway",
+            "short_name" : "East-West Highway",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Koshi",
+            "short_name" : "Koshi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Eastern Region",
+            "short_name" : "Eastern Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "56600",
+            "short_name" : "56600",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eEast-West Highway\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e56600\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "East-West Highway, 56600, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.669517,
+            "lng" : 87.38299000000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "9f3bef8b0521f92c2d6373aea2b43c7cbe2222c3",
+      "name" : "Seeta Medical Hall",
+      "place_id" : "ChIJy_5caPhl7zkRU3MtkU5nDNk",
+      "reference" : "CnRmAAAAAkp0bTS9hwfGNrXpPNpRFoAq3Bd5zPVq1SDtwqd5efOPsVlehNYBQBtUhLFLdoY0Zv-ODsAAfU_7hs_7OIjSLs5RE5YS48lWyMy896eeb34A5w5dHtPhJOBUhoMN6QcyHqbgRXdLClTl98uPvgzUbBIQMzy1DMFc2GTD8FVRuX20cBoUaQVIUR-zo30N0mntZ1PKg-A9oZA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Puspa Basnet",
+            "author_url" : "https://plus.google.com/108024815870033521180",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1367600596
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/106493549635913391014/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "East-West Highway"
+   },
+   "status" : "OK"
+}

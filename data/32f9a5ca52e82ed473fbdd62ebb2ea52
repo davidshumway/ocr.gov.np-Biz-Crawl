@@ -1,0 +1,84 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Adrash Nagar",
+            "short_name" : "Adrash Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Nepalgunj",
+            "short_name" : "Nepalgunj",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Banke",
+            "short_name" : "Banke",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "Adrash Nagar, \u003cspan class=\"locality\"\u003eNepalgunj\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Adrash Nagar, Nepalgunj, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.049636,
+            "lng" : 81.615599
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id" : "da1857d87e48a83410a1a1d2c4a0d1e4335e3821",
+      "name" : "Hotel Batika",
+      "place_id" : "ChIJD0I1GFpnmDkRSMNOjYwcRiA",
+      "reference" : "CmRfAAAAqsKC8ZhhYeN6Ls-bTDK7cJBLzyLFqx0DFdyk7q9NecFbY93KLvcFwutxmnCufP4VGs_DZq5Xfn4if831eTUkhJZxj9sTDeN82pieui5lUm-oW5slH8V42_p3zFVqCXVvEhDZkcpFbZsK_XRpx0eES7QJGhSIjouWSa1-9HQT5bMfjrY_r_4Ydw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "food"
+               },
+               {
+                  "rating" : 2,
+                  "type" : "decor"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Shahil Raine",
+            "author_url" : "https://plus.google.com/113880173219455631598",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1374698539
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1403633018
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "establishment" ],
+      "url" : "https://plus.google.com/114902452392855750353/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 345,
+      "vicinity" : "Nepalgunj"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "318国道",
+            "short_name" : "318国道",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Nyalam",
+            "short_name" : "Nyalam",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Xigaze",
+            "short_name" : "Xigaze",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Tibet",
+            "short_name" : "Tibet",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "China",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003eChina\u003c/span\u003e, \u003cspan class=\"region\"\u003eTibet\u003c/span\u003e, \u003cspan class=\"locality\"\u003eXigaze\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNyalam\u003c/span\u003e, \u003cspan class=\"street-address\"\u003e318国道\u003c/span\u003e",
+      "formatted_address" : "China, Tibet, Xigaze, Nyalam, 318国道",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.986102,
+            "lng" : 85.984622
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "a9c18121360f9c2014d74cf50fcc6ed8e3970b88",
+      "name" : "Xiaofu Automobile Repair",
+      "place_id" : "ChIJT5BH-uw26jkRf9RFckCcUPw",
+      "reference" : "CnRsAAAABM87FsiaNtg6BAmSrtroDGv6XPigamUKb9gL9r7-yrZtw4tlT4IMYh02XA8epB0-s8WRSmU3ujwlI_d-WPR2SqoSACAYE3ht466nXL_a4tHAXc3eyurpVmAZUNW3A93VrInvYv8enD2cEdiX5gfN0BIQ-e0kJsuaPinP4Nsh3ApyJBoUBHzIzta1-0dtQctq7rTP5kP8c_8",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/106702779235687763920/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "318国道, Nyalam, Xigaze"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "318国道",
+            "short_name" : "318国道",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Nyalam",
+            "short_name" : "Nyalam",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Xigaze",
+            "short_name" : "Xigaze",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Tibet",
+            "short_name" : "Tibet",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "China",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003eChina\u003c/span\u003e, \u003cspan class=\"region\"\u003eTibet\u003c/span\u003e, \u003cspan class=\"locality\"\u003eXigaze\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNyalam\u003c/span\u003e, \u003cspan class=\"street-address\"\u003e318国道\u003c/span\u003e",
+      "formatted_address" : "China, Tibet, Xigaze, Nyalam, 318国道",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.989887,
+            "lng" : 85.98277400000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "3def6d70011cadf48786d206b5ac335dfd946a37",
+      "name" : "Haixing Wholesale Department",
+      "place_id" : "ChIJS_R9DO426jkR5FBZjr78AUU",
+      "reference" : "CnRvAAAAre66dA8oFTPaB-fJg-HJpK68EedjIXjcTKTfRNrf3msck4r_yDZTfHAjejnE-R8MiA2efbq9e2AsSOcqv7zb2aAI0Frzb8ABmkoymMnns-RjCCy2__ocVWs4XX-PvBJ_IfwcGBwTWp8tByI-10XoWBIQsluxhc9EhBcYsTFz7-cBqRoUGxtM1f5rc_No0iDaHPThUMBzJYY",
+      "scope" : "GOOGLE",
+      "types" : [ "convenience_store", "food", "store", "establishment" ],
+      "url" : "https://plus.google.com/107217272479889939165/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "318国道, Nyalam, Xigaze"
+   },
+   "status" : "OK"
+}

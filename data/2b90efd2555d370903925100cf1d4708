@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "318国道",
+            "short_name" : "318国道",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Nyalam",
+            "short_name" : "Nyalam",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Xigaze",
+            "short_name" : "Xigaze",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Tibet",
+            "short_name" : "Tibet",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "China",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003eChina\u003c/span\u003e, \u003cspan class=\"region\"\u003eTibet\u003c/span\u003e, \u003cspan class=\"locality\"\u003eXigaze\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNyalam\u003c/span\u003e, \u003cspan class=\"street-address\"\u003e318国道\u003c/span\u003e",
+      "formatted_address" : "China, Tibet, Xigaze, Nyalam, 318国道",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.98846,
+            "lng" : 85.98305499999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "e70e247ce6a522c32513988ec9ed16ab9e3ea4f1",
+      "name" : "Luozhen Store",
+      "place_id" : "ChIJScRzxO026jkRfwF2fI2HI7I",
+      "reference" : "CnRhAAAAQfTSJCniUaZjAl7eMcX2a24MjX9zUOCHcop87FDOBeIanDZmn6YpHaYGUkbHolwTZjmnOuKYXZvL9woKcH0A0G3S_cgR8WeNv8viZ7By_8D8jG9kNhWw8_H91tywlKcG0cP0pz1POZE4RS_pMTfS7RIQIza05JAyYNl5_7hDZYNtIBoU4iJY3IfRLkvGyLJBDMcbidvXzW8",
+      "scope" : "GOOGLE",
+      "types" : [ "convenience_store", "food", "store", "establishment" ],
+      "url" : "https://plus.google.com/106856724422618404803/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "318国道, Nyalam, Xigaze"
+   },
+   "status" : "OK"
+}

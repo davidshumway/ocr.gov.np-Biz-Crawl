@@ -1,0 +1,130 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "H-YP-1",
+            "short_name" : "H-YP-1",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Yasok",
+            "short_name" : "Yasok",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Mechi",
+            "short_name" : "Mechi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Eastern Region",
+            "short_name" : "Eastern Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "57408",
+            "short_name" : "57408",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eH-YP-1\u003c/span\u003e, \u003cspan class=\"locality\"\u003eYasok\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e57408\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "H-YP-1, Yasok 57408, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.068793,
+            "lng" : 87.649868
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "8dbb43836f954d5529e89c168d3545e7f040d65f",
+      "name" : "Yasok Post Office",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1530"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1530"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1530"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1530"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1530"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1300"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 3:30 pm",
+            "Tuesday: 10:00 am – 3:30 pm",
+            "Wednesday: 10:00 am – 3:30 pm",
+            "Thursday: 10:00 am – 3:30 pm",
+            "Friday: 10:00 am – 1:00 pm",
+            "Saturday: Closed",
+            "Sunday: 10:00 am – 3:30 pm"
+         ]
+      },
+      "place_id" : "ChIJ6yRH9nr85TkRfUx8vdo_-T0",
+      "reference" : "CnRkAAAAwK953VJritpys2nDhtnTGhxdc2x-PGZxRMErRVYH_eaRg23MwTB-vdWGwJ4a0A1IVUYMG59du_yhThtWvvkzoYKe7vGqXCiDdwNmKXWI-emp0Sk_7NtmUuBxwDAGMxT_36Wtu1NWaIgXA62WUKAnchIQdGl0BIv6257q5IMtwbBrthoUPdxfrjkGMJqpOJnRKIqZ85CDOPc",
+      "scope" : "GOOGLE",
+      "types" : [ "post_office", "finance", "establishment" ],
+      "url" : "https://plus.google.com/118075764713485855283/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "H-YP-1, Yasok"
+   },
+   "status" : "OK"
+}

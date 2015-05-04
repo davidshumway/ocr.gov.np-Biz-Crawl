@@ -1,0 +1,120 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Sevoke Road",
+            "short_name" : "Sevoke Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Siliguri",
+            "short_name" : "Siliguri",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Darjeeling",
+            "short_name" : "Darjeeling",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "734001",
+            "short_name" : "734001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eSevoke Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eSiliguri\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e734001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Sevoke Road, Siliguri, West Bengal 734001, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.719614,
+            "lng" : 88.425468
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "9efc28c4ab4a722a7e09adae324e83c18489645e",
+      "name" : "Surya Auto Parts",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 8:00 pm",
+            "Tuesday: 9:00 am – 8:00 pm",
+            "Wednesday: 9:00 am – 8:00 pm",
+            "Thursday: 9:00 am – 8:00 pm",
+            "Friday: 9:00 am – 8:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJiwnqnBRB5DkR4SLC6h2-CRg",
+      "reference" : "CnRjAAAA6WB7g_8bhQ8pHKP15bi57Lo8PC-ai1dV8TIYnROalN-VjiNe-mInfXfSETfhgGhCQ9QJN6MpAMR8_FW5qmBRb4t-Sa_9t29RHZuKVBjDeQFBEQoINQBjMV-eQay5jNbOGk_slSDgbUcFKTJek8JsqhIQwLOW1Iy7RS5sFUhUjesllhoU7p27QfqI42d8GhTDiRzruO2wF8M",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/109294138795841614734/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Sevoke Road, Siliguri"
+   },
+   "status" : "OK"
+}

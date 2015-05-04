@@ -1,0 +1,75 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Basant Reundha Road",
+            "short_name" : "Basant Reundha Road",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "847302",
+            "short_name" : "847302",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Basant, Jale,Darbhanga, \u003cspan class=\"street-address\"\u003eBasant Reundha Road\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e847302\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Basant, Jale,Darbhanga, Basant Reundha Road, Bihar 847302, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.387245,
+            "lng" : 85.702636
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id" : "465369e2ec78f1d40612669f64bb03fe3e1999a4",
+      "name" : "Anandmath",
+      "place_id" : "ChIJPRrK-GxT7DkRHNmXqZLfbKA",
+      "reference" : "CmRdAAAAME7PqRWdl-IptyZhZpxiSCp_9wtfh4DhZ5BfLHMxEIyZNhFSDrpFih73jyM0ZV9FbOwcCGdO8my5N0kBe579-st_us7qaVkVcOzwDX_GzB2YIAmc--OgWu8_QzX2704iEhD9CQAv06JLI6MHVODZl5IzGhQpPyDvLqz-7N6GBhjzXj5zBYmj0A",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1337862525
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1338290491
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "lodging", "establishment" ],
+      "url" : "https://plus.google.com/114426830717407855181/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "Basant, Jale,Darbhanga, Basant Reundha Road"
+   },
+   "status" : "OK"
+}

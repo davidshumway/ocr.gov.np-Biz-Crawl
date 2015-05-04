@@ -1,0 +1,110 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Sevoke Road",
+            "short_name" : "Sevoke Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Janta Nagar",
+            "short_name" : "Janta Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Siliguri",
+            "short_name" : "Siliguri",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Darjeeling",
+            "short_name" : "Darjeeling",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "734001",
+            "short_name" : "734001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eSevoke Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eJanta Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eSiliguri\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e734001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Sevoke Road, Janta Nagar, Siliguri, West Bengal 734001, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.715843,
+            "lng" : 88.422752
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id" : "95afe4adbb584420413d60e9aa0f5f0c413e0a87",
+      "name" : "Hotel Chancellor",
+      "photos" : [
+         {
+            "height" : 1224,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102068015652725216833\"\u003eRupon Dey\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAASV-_3JIvzvZRJ7iX_c6lJvb7Z7DkwShrHHe5afic2k-U5u8RQwk_zeW4I0er6wYGUbNWrtkJShxgESo4xELmITdzP7bgF3uE1ijwYZslSO-66lwZbzqMQhirHUBbLpbFdHEBefgSHY8mK9eJInv17BIQnhcVBjlNcDXneIJZLlmqTxoUTMqV-R4GO0V_FuMyloX3sUrpAf8",
+            "width" : 1632
+         }
+      ],
+      "place_id" : "ChIJiZIZ6GpB5DkRTxti5Ldtwo4",
+      "reference" : "CnRkAAAABIUNW_KfnR47KqXrNEwpaQjROCJZwsgdKZM5ZajYMy__A-k96W06xyFaIeLrCcUkHetJMqtQIdFsGk_pdh15ixcm-IpjRiE-ufECsMKSgxWSJKC85bXzHhm0JOt2aSUA-7Lab-YaE3_sliW95EZkORIQC5T1xX1oEG1V4sC6RLhluRoU4Yjqh8m3f0jte-78FK88OK1qy8I",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Khyentse Tulku Bhutia",
+            "author_url" : "https://plus.google.com/109305592393105507637",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Good hotel",
+            "time" : 1406177130
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "facilities"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Yangsur Legden",
+            "author_url" : "https://plus.google.com/114244060336519041798",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "Its good ",
+            "time" : 1369470174
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "lodging", "establishment" ],
+      "url" : "https://plus.google.com/105690471700416335090/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "Sevoke Road, Janta Nagar, Siliguri"
+   },
+   "status" : "OK"
+}

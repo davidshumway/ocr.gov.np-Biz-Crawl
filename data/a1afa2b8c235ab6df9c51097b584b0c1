@@ -1,0 +1,134 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Chhahara",
+            "short_name" : "Chhahara",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Lumbini",
+            "short_name" : "Lumbini",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Western Region",
+            "short_name" : "Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "32500",
+            "short_name" : "32500",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eChhahara\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e32500\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Chhahara 32500, Nepal",
+      "formatted_phone_number" : "0985-1199190",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.875093,
+            "lng" : 83.34674800000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "35832a3c29d70eb05f788266cfe9d8dd9a421187",
+      "international_phone_number" : "+977 985-1199190",
+      "name" : "Sampada Garden",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 5:30 pm",
+            "Tuesday: 10:00 am – 5:30 pm",
+            "Wednesday: 10:00 am – 5:30 pm",
+            "Thursday: 10:00 am – 5:30 pm",
+            "Friday: 10:00 am – 5:30 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJF2d6CBpkljkRz_9U_jUIiU8",
+      "reference" : "CnRhAAAAsP4cawFtq85Bm9stM1uZv5e6vjUQPzDyG3ofMkbksGuzjTBnYkVmPIlgAtcDCq6tVLCKae4NsAOh8Ndm8hcBCqbfF-eGxzbVA6kf1wWNNh90dQHpsSCuEUoU5wuVkWMd2N45t6d1CCdl7uOJp51FbxIQXLXjy8pHQ776-9-GXO7dSBoU0x3te4WHG_KQoviMdCOEhyCSHiY",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Kabi Tiwary Chhetry",
+            "author_url" : "https://plus.google.com/100959396163971434534",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Its so nice",
+            "time" : 1404406757
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "park", "establishment" ],
+      "url" : "https://plus.google.com/102770450958540572114/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Chhahara"
+   },
+   "status" : "OK"
+}

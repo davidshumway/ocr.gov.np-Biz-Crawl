@@ -1,0 +1,123 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Damodar Road",
+            "short_name" : "Damodar Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Gadhawa",
+            "short_name" : "Gadhawa",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Rapti",
+            "short_name" : "Rapti",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Mid-Western Region",
+            "short_name" : "Mid-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "22414",
+            "short_name" : "22414",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eDamodar Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eGadhawa\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e22414\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Damodar Road, Gadhawa 22414, Nepal",
+      "formatted_phone_number" : "082-410002",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.811783,
+            "lng" : 82.53842400000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "7bf2888ec07e416b14b4906f65492de5f2e37a0f",
+      "international_phone_number" : "+977 82-410002",
+      "name" : "Western Development Bank (Gadawa Branch)",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 3:00 pm",
+            "Tuesday: 10:00 am – 3:00 pm",
+            "Wednesday: 10:00 am – 3:00 pm",
+            "Thursday: 10:00 am – 3:00 pm",
+            "Friday: 10:00 am – 3:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJbw-o2zWflzkRcO6IhjI2T1k",
+      "reference" : "CoQBewAAAKV_Q-4F_b4p3AzSHYyguP3Et6jFbc2ot0gTXZsD4AZOgbvpQlEZPqkPmy8_2uBWmKaXVetdh4mYTSfJ1LFrWKxWRagRP8ycHXHgtFiuGTTmrnPowIOL5X_4BVE4GXUpKDoWh6Dkm2Ul9nzxciNqVwwov11mBN8oCM5jc_A7H407EhBymZlY2eIkjDYSCyTwQGpqGhSJEJdVriYe27dLKjvIbKrqi_ToPg",
+      "scope" : "GOOGLE",
+      "types" : [ "bank", "finance", "establishment" ],
+      "url" : "https://plus.google.com/115909822623079446315/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "Damodar Road, Gadhawa",
+      "website" : "http://wdbldang.com.np/"
+   },
+   "status" : "OK"
+}

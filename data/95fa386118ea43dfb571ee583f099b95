@@ -1,0 +1,127 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Damauli",
+            "short_name" : "Damauli",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Gandaki",
+            "short_name" : "Gandaki",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Western Region",
+            "short_name" : "Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "33900",
+            "short_name" : "33900",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "New Road, \u003cspan class=\"locality\"\u003eDamauli\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e33900\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "New Road, Damauli 33900, Nepal",
+      "formatted_phone_number" : "065-562206",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.975311,
+            "lng" : 84.267561
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "dbdae19c3c8e37f94384c949f0babd3beae35418",
+      "international_phone_number" : "+977 65-562206",
+      "name" : "Czone Mobile Store",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "0730"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "0730"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "0730"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "0730"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "0730"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 am – 7:30 am",
+            "Tuesday: 8:00 am – 7:30 am",
+            "Wednesday: 8:00 am – 7:30 am",
+            "Thursday: 8:00 am – 7:30 am",
+            "Friday: 8:00 am – 7:30 am",
+            "Saturday: Closed",
+            "Sunday: 8:00 am – 12:00 am"
+         ]
+      },
+      "place_id" : "ChIJXXP3fh6olTkRSSBibwerOaI",
+      "reference" : "CnRmAAAAoZz2L41CDshOxsPdHCfMIlSCuNKTnxZRQE_Q-kh80BT84uz_OteT4kpAUNEqvoFM0Uz2Kc3QYQFyr9Cwj58gtbQ4KBTwuI5rwimZrh530QKtp7U01R1yXmqEBSUBp3xNQSA4LKJq--vak0dW2NkPoRIQYOh6P6Jd0eHlcOIIJCmG4hoUgUpKt5-6Od_JNB-NsQ0zOrrSllw",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "establishment" ],
+      "url" : "https://plus.google.com/102381834319224348263/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "New Road, Damauli"
+   },
+   "status" : "OK"
+}

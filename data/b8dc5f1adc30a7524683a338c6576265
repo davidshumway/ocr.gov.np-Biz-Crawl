@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "LMP Road 12",
+            "short_name" : "LMP Rd 12",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Mechi",
+            "short_name" : "Mechi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Eastern Region",
+            "short_name" : "Eastern Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "57300",
+            "short_name" : "57300",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eLMP Road 12\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e57300\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "LMP Road 12, 57300, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.987958,
+            "lng" : 87.88412099999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "ee8a9ec47ac2eed89307cf8c4d5413d817bd2073",
+      "name" : "Dev Medical Hall",
+      "place_id" : "ChIJXzOIsTzd5TkRm5WUMw2DTSE",
+      "reference" : "CnRjAAAAfIDOTgPiRvKmJ4t78f5Fj9Wa13T3qm5MQqbZy2vQqzFDL_KLIives-6kP6SuGlOOqbeTVrMH11fbvoAJGOmPjvlmuKUk7N82pyWsX_8i0ocvYEgTfIa8NmbEBgt8KQjgCIY-21LmaP6XwWF27RHh1hIQXl3yZQotjtsvLbvRxKD2cRoUBWY52o_2b37EoGidPSzAFbkGzHo",
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/116134829704781355591/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "LMP Road 12"
+   },
+   "status" : "OK"
+}

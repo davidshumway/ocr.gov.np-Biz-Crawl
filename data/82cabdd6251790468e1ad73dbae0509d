@@ -1,0 +1,163 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Sitamarhi",
+            "short_name" : "Sitamarhi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "843328",
+            "short_name" : "843328",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "main road, \u003cspan class=\"street-address\"\u003erunni saidpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e843328\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "main road, runni saidpur, Bihar 843328, India",
+      "formatted_phone_number" : "082871 82840",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.392335,
+            "lng" : 85.50483699999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "0278b683be4d274a68c9b3a16a0a5f59e22cdf5b",
+      "international_phone_number" : "+91 82871 82840",
+      "name" : "ANCHAL Saree Center",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "0800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "0800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "0800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "0800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "0800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "0800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "0800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 8:00 am",
+            "Tuesday: 9:00 am – 8:00 am",
+            "Wednesday: 9:00 am – 8:00 am",
+            "Thursday: 9:00 am – 8:00 am",
+            "Friday: 9:00 am – 8:00 am",
+            "Saturday: 9:00 am – 8:00 am",
+            "Sunday: 9:00 am – 8:00 am"
+         ]
+      },
+      "place_id" : "ChIJFQLFdcz97DkRLXl2q8EgUqU",
+      "reference" : "CnRnAAAAFfUV4kGT8za9qPFeuX4TMk8MdMruhz92BRgK3WxvAKsBJP_F2KiDZ9cGqh-9fv1R8ndkmUA9D9T_WmmpkWHJZNeTLKRZDY2tmc1qMAbOCO2-COPk84IeQJB4a4IW686o2KtuS0wleCIvi3QUY0N6dxIQEBT81C0JsKGtrqC3v1-UjhoUq4tir698KS5gVIV5-A5E58o5gKA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Sunil Kumar",
+            "author_url" : "https://plus.google.com/107716070858970149988",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Very good .....",
+            "time" : 1404557080
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "jyoti goswami",
+            "author_url" : "https://plus.google.com/101552130547713176768",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "Boring",
+            "time" : 1424847292
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "clothing_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/116664718995827611951/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "main road, runni saidpur"
+   },
+   "status" : "OK"
+}

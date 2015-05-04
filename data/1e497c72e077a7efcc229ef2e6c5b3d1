@@ -1,0 +1,87 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Seti",
+            "short_name" : "Seti",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Far-Western Region",
+            "short_name" : "Far-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10500",
+            "short_name" : "10500",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Seti, \u003cspan class=\"postal-code\"\u003e10500\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Seti, 10500, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 29.547729,
+            "lng" : 81.193524
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "42e78a7a8fa74bc22a18dc6c1a169ae56a31c153",
+      "name" : "Bajhang District Hospital",
+      "photos" : [
+         {
+            "height" : 720,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/110273063942421352096\"\u003eBabu Singah\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAvzloWU-2cyEQeRmkbyRUeL2NAyf_D7qL3NXN-1tef1ZtLo7ML1bvYz6JEWFTSjZoy51YoMQnkrCNTckkH1rUUuiax1TkL30DbA1D1eeKhzuAcrqLUCE5WqtLyA8h55H5IJOLrpVPJCUkNVMCN_dFTRIQ_ZSUkeSFjg7tzsDG2PpGeRoUjWyq5Iu1qelptu9Ao_P1h4fIuPk",
+            "width" : 688
+         }
+      ],
+      "place_id" : "ChIJ9Y1BmuOUozkR0xOTyzPjXjE",
+      "reference" : "CnRsAAAA8_Ii6P-WBR70tU2o5iw-I6lfTDZ_cu9mDKjhLyF4hpTVR3sylJT_P9S4nNmTMdMi8PFpqmf2YzUnSJwUgw9jdfNSV6F_W27uwfI8tzs-nP0IKxHMGmoY1q2ituDKEYg1vSRBtC3f8vKz5qED0ms8RhIQrOpTJI_jpeqyTXIoSRQmxhoUTJ1K5sbxUr5xKiwE2ZnNrDal3fI",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Rejwan Miya",
+            "author_url" : "https://plus.google.com/110146438141329588047",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "Bajhang Nepal dantola pasupati bist",
+            "time" : 1407338037
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Sam Pasa",
+            "author_url" : "https://plus.google.com/113146173671741253992",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1400829386
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "hospital", "establishment" ],
+      "url" : "https://plus.google.com/116607016269216258701/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 345,
+      "vicinity" : ""
+   },
+   "status" : "OK"
+}

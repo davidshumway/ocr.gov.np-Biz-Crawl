@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "East-West Highway",
+            "short_name" : "East-West Hwy",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Seti",
+            "short_name" : "Seti",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Far-Western Region",
+            "short_name" : "Far-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10900",
+            "short_name" : "10900",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eEast-West Highway\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e10900\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "East-West Highway, 10900, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.778022,
+            "lng" : 80.73508099999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+      "id" : "71c17cd127a578be95382f0265570e64d73b35ba",
+      "name" : "Mohanyal Mandir",
+      "place_id" : "ChIJD-U59JyLoTkRitSUOVSZ6JA",
+      "reference" : "CnRjAAAAMNquDlIYhlSPVmRlErod6XwvqBuiTvNge673dKeR6cSVVLzmRCUWmazAvA-7ftua_jBWhFBD9ouWZ2l0UXqsrBvqUvQR8rVLVfEXdLlYxDgRIgcUdxGKKF0r4R-WlJ9aycWnj0nOiFdwpe6A3TNILxIQYFBzHsxFPIGEfkBmMFfaehoUwuH_sKYSf2DmdaQrLDFRLHViJx0",
+      "scope" : "GOOGLE",
+      "types" : [ "hindu_temple", "place_of_worship", "establishment" ],
+      "url" : "https://plus.google.com/103319044236347919824/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "East-West Highway"
+   },
+   "status" : "OK"
+}

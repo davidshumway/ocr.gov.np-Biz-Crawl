@@ -1,0 +1,52 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "318国道",
+            "short_name" : "318国道",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Nyalam",
+            "short_name" : "Nyalam",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Xigaze",
+            "short_name" : "Xigaze",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Tibet",
+            "short_name" : "Tibet",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "China",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003eChina\u003c/span\u003e, \u003cspan class=\"region\"\u003eTibet\u003c/span\u003e, \u003cspan class=\"locality\"\u003eXigaze\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNyalam\u003c/span\u003e, \u003cspan class=\"street-address\"\u003e318国道\u003c/span\u003e",
+      "formatted_address" : "China, Tibet, Xigaze, Nyalam, 318国道",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.989143,
+            "lng" : 85.982861
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "bba203e0fa5d4b7e48254bebdf9b176b836caa99",
+      "name" : "Bank of China",
+      "place_id" : "ChIJg2W84O026jkRqv5iCy_YC04",
+      "reference" : "CmRgAAAAtrdCU3oJPU5c5f5_fEhvui5icl2xRpTuOeeeCvPyR4BxeoyFEaXxYgyFKVytuUq0169Czr9cAB5QvInUGS9Ln04unLxXnwo5L5vmIS9KryhjsoZxvS5dSCZCbd27-DHuEhBW6lc2dIJbL5J9yGUzGuF9GhRn3ozZNymQWDJX8Go49EkDaJXQCw",
+      "scope" : "GOOGLE",
+      "types" : [ "bank", "finance", "establishment" ],
+      "url" : "https://plus.google.com/116567732814050524631/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "318国道, Nyalam, Xigaze",
+      "website" : "http://www.boc.cn/"
+   },
+   "status" : "OK"
+}

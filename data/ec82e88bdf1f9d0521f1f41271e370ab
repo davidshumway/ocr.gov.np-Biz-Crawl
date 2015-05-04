@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "East-West Highway",
+            "short_name" : "East-West Hwy",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Mahakali",
+            "short_name" : "Mahakali",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Far-Western Region",
+            "short_name" : "Far-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10400",
+            "short_name" : "10400",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eEast-West Highway\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e10400\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "East-West Highway, 10400, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.835629,
+            "lng" : 80.487542
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "2e38d91d422db72857c5e78580f1a2f8195ee199",
+      "name" : "Sheetal Clinic",
+      "place_id" : "ChIJ505HN0WWoTkR0zx_IRVPHLg",
+      "reference" : "CnRiAAAAcr86i66pP8A-lDLf8rgvlEWieGLgn1A2zlFCqSLIGyw0hjYFiFCDMPjW8qpdIRVKStauKU4xF4ed0gj4JaGCF6z_XGm6QwGjnUlO-Kl6tEXhT7Yu-lu8ei-4sFdxGhEwpL1xP504UWfgiLlNPHRslRIQqarQLhSkD6q80diLttKAbRoU7RS4Nxrqp_mnwRP9lCgNXaN6Auk",
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/103910026549767056693/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "East-West Highway"
+   },
+   "status" : "OK"
+}

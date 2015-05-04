@@ -1,0 +1,88 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Madi Road",
+            "short_name" : "Madi Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bagauda",
+            "short_name" : "Bagauda",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Narayani",
+            "short_name" : "Narayani",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "44200",
+            "short_name" : "44200",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eMadi Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBagauda\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e44200\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Madi Road, Bagauda 44200, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.455704,
+            "lng" : 84.320347
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "ed948071ea9a4ba0b6b0db23c1cd3073ca8d25f0",
+      "name" : "Basantapur Bazar",
+      "place_id" : "ChIJn4nCC930lDkRR8nNhZx7Z6U",
+      "reference" : "CnRkAAAAxJ3pwGZDYQqqqVmNXP-LSf0sM3eeYgaYdVmdREgoyynwKBYsieY5LjaIORw3u4A_atfc9hTCyxBOjDX6F2bOn6SHE9ev-fG2E2BPPiuWhcLHgoOiAGWQ--TNFXGEDFF0dM3cuIJ8or6_0zoO6Pa05BIQ_ewSAg6YmL331F__gFuGWhoU2vIlc0uXot1p-69fc49LMrPqyBM",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "biswamitra joshi",
+            "author_url" : "https://plus.google.com/102207820051235621426",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Front of radio madi . ",
+            "time" : 1387265176
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [
+         "grocery_or_supermarket",
+         "food",
+         "store",
+         "local_government_office",
+         "shopping_mall",
+         "establishment"
+      ],
+      "url" : "https://plus.google.com/111971066610382292044/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Madi Road, Bagauda"
+   },
+   "status" : "OK"
+}

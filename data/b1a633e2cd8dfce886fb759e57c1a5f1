@@ -1,0 +1,68 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "India - Nepal Road",
+            "short_name" : "India - Nepal Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Mahakali",
+            "short_name" : "Mahakali",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Far-Western Region",
+            "short_name" : "Far-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10100",
+            "short_name" : "10100",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eIndia - Nepal Road\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e10100\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "India - Nepal Road, 10100, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 29.846821,
+            "lng" : 80.542738
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+      "id" : "3c8a477d0425d728dc71237af642b393e11b6adb",
+      "name" : "Police Station",
+      "place_id" : "ChIJpyDCFZ60pjkRjDHuGm515ac",
+      "reference" : "CnRiAAAAs1RGZh4H1h9oUydaDJ55nbpGF67b8RDyA5mACMyECKG0t8IQnaaR4FsADrsrq7_mA0RP-HmYTxGWbSgf6OSNhpfxB6EHKV9JJLqGdJw-31mlQI5MZzQsQ6lrUDE0IwWgFfsRyHty2Vt8ZRpNYNkGXxIQP8K5fOc-gsGQ7QOwh1V1QRoUMZXKz8tD7f1hHVtToGfGgJnpQeA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "aijaz khan",
+            "author_url" : "https://plus.google.com/106152287727492157356",
+            "language" : "hi",
+            "rating" : 4,
+            "text" : "danger zone near river.i see 16/6/2013",
+            "time" : 1373033101
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "police", "establishment" ],
+      "url" : "https://plus.google.com/116396988593713092142/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "India - Nepal Road"
+   },
+   "status" : "OK"
+}

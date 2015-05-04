@@ -1,0 +1,127 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "East-West Highway",
+            "short_name" : "East-West Hwy",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Narayangarh",
+            "short_name" : "Narayangarh",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Bharatpur",
+            "short_name" : "Bharatpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Narayani",
+            "short_name" : "Narayani",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "44207",
+            "short_name" : "44207",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eEast-West Highway\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBharatpur\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e44207\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "East-West Highway, Bharatpur 44207, Nepal",
+      "formatted_phone_number" : "056-532533",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.694391,
+            "lng" : 84.423081
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "bce889dc915d2ea51aeb74b8af8792f45c866449",
+      "international_phone_number" : "+977 56-532533",
+      "name" : "Namaste Stationery Center",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 am – 8:00 pm",
+            "Tuesday: 8:00 am – 8:00 pm",
+            "Wednesday: 8:00 am – 8:00 pm",
+            "Thursday: 8:00 am – 8:00 pm",
+            "Friday: 8:00 am – 8:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJpY6gtzj7lDkR8LnbrYk9cpE",
+      "reference" : "CnRtAAAAv3T2gxOF3j4Aenv9Lef9wQA6fbi_MdWWIC2FQv6GYii9j2bHseos-JzdDJPMV4QDZchEROgk05YPZrqX_i-JM1FgzVvkMRV5S3yjaY76X6uls1J258_llDqQPquQ7pfUAatV91g2I9JAFCg7skDCgBIQh-0bvx-0oMqnc4mmAtgGihoU7wCcaNAoAeRUyDp7XAPQRoVfj3g",
+      "scope" : "GOOGLE",
+      "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+      "url" : "https://plus.google.com/116707393327992523925/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "East-West Highway, Bharatpur"
+   },
+   "status" : "OK"
+}

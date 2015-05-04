@@ -1,0 +1,162 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Baidi Road",
+            "short_name" : "Baidi Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Gadi",
+            "short_name" : "Gadi",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Baidi",
+            "short_name" : "Baidi",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Gajarkot",
+            "short_name" : "Gajarkot",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Lumbini",
+            "short_name" : "Lumbini",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Western Region",
+            "short_name" : "Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eBaidi Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eGajarkot\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Baidi Road, Gajarkot, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.873037,
+            "lng" : 83.95013
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "8bd599d099eb1b9830d6ce9e1c2467c4f2ccab0d",
+      "name" : "Rabin Grocery",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0600"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 6:00 am – 6:00 pm",
+            "Tuesday: 6:00 am – 6:00 pm",
+            "Wednesday: 6:00 am – 6:00 pm",
+            "Thursday: 6:00 am – 6:00 pm",
+            "Friday: 6:00 am – 6:00 pm",
+            "Saturday: 6:00 am – 6:00 pm",
+            "Sunday: 6:00 am – 6:00 pm"
+         ]
+      },
+      "place_id" : "ChIJlXTZjOi1lTkRGP7xK8-BcB4",
+      "reference" : "CmRgAAAAbTCu3wsYraYAhVLjN0E3sHjrLEtLFbI4b-JjWTrZcRpuapHC9deykaCRXJt9j75QNtuV-lgvSrdAQvu6wQHjJz3HmpXw4BVnIHXINbgeihLdSQyOpRGFbcPLXvI8agSCEhDKtrL3S6phKZcDYoECCuKFGhRL28o9nsgubtkoYkZJi6DIy9NcZA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Pitambar Bhattarai",
+            "author_url" : "https://plus.google.com/103766819006985810785",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "One of the likely place for your shopping.",
+            "time" : 1420297215
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+      "url" : "https://plus.google.com/112393783563508766689/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Baidi Road, Gajarkot"
+   },
+   "status" : "OK"
+}

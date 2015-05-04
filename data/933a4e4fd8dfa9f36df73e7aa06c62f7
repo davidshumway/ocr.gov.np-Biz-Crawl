@@ -1,0 +1,61 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Hill Cart Road",
+            "short_name" : "Hill Cart Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Chauk Bazaar",
+            "short_name" : "Chauk Bazaar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Darjeeling",
+            "short_name" : "Darjeeling",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Darjeeling",
+            "short_name" : "Darjeeling",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "734101",
+            "short_name" : "734101",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eHill Cart Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eChauk Bazaar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eDarjeeling\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e734101\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Hill Cart Road, Chauk Bazaar, Darjeeling, West Bengal 734101, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.04406,
+            "lng" : 88.26563899999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "a38ca6705010986e283e7501c2c833bd1df46802",
+      "name" : "New Super Market",
+      "place_id" : "ChIJa0i5tOou5DkRCtKVUbnqnQo",
+      "reference" : "CnRjAAAAYLORJdZ7O4QhoK8RxdVgXPOTinBVl9aVHeGcm4h8Q8xA6TysN8mg4Q3P9IIXCXf0bCxLLXNuX3Fk_vwregEl6JyGCCl4KQdBuSgkj0JhRERJlL9g7TznYWzjZvUxh8kInLa2RX8u6wygwO2OzeqWsxIQum5NefPji1Ff3uDTwxIwXxoUAj3AKCqYVfS43wko2leJYCQWwsw",
+      "scope" : "GOOGLE",
+      "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+      "url" : "https://plus.google.com/115030560732524679351/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Hill Cart Road, Chauk Bazaar, Darjeeling"
+   },
+   "status" : "OK"
+}

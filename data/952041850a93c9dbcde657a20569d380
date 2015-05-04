@@ -1,0 +1,82 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Ilam",
+            "short_name" : "Ilam",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Mechi",
+            "short_name" : "Mechi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Eastern Region",
+            "short_name" : "Eastern Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "57300",
+            "short_name" : "57300",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eIlam\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e57300\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Ilam 57300, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.908897,
+            "lng" : 87.92887
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "ccb95af33bb2861bec592f7d170d0d7d50790481",
+      "name" : "Dr. Megh Bahadur Parajuli Community Hospital",
+      "place_id" : "ChIJX9Yo0ojD5TkRuBiF1o0Elxk",
+      "reference" : "CoQBfwAAANTfXpEttT8E7jC2cCxuYMBCawmznlr6l4VoBWCp9HoYIyfLCyE0408nBWyG6im_cLdHU7RM0wxYRLIfg3KGVaHSjmscEoc9js8gzf5dnJx3XoKYAM7suBoT35WqIi52F0soqLIDkaHzoguxOnqiTXUJyWx3BD5LKvOfB7T7tad_EhBRJDGtPUEhjvT5YbnUTGZZGhToYeuzGM1WaZRoCss7v0NbggrpFQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Sazin Budathoki",
+            "author_url" : "https://plus.google.com/101991123936810590414",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "It is wrong infermation",
+            "time" : 1388881336
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Sanjeev Dulal",
+            "author_url" : "https://plus.google.com/108634729635405889713",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1409193943
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "hospital", "establishment" ],
+      "url" : "https://plus.google.com/108073898494647825993/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 345,
+      "vicinity" : "Ilam"
+   },
+   "status" : "OK"
+}

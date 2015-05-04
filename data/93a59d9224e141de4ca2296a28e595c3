@@ -1,0 +1,65 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Darjeeling",
+            "short_name" : "Darjeeling",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "734101",
+            "short_name" : "734101",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "73, Gandhi Road, \u003cspan class=\"locality\"\u003eDarjeeling\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e734101\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "73, Gandhi Road, Darjeeling, West Bengal 734101, India",
+      "formatted_phone_number" : "0354 225 3297",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.04096,
+            "lng" : 88.26692
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id" : "f8b95b4a7a16e16879e14c3f9ed5a3dc3f3e7556",
+      "international_phone_number" : "+91 354 225 3297",
+      "name" : "Hotel Shambhu",
+      "place_id" : "ChIJNbQOFesu5DkREq9fIsou1f4",
+      "reference" : "CnRhAAAAGtjj4DFFGucHQPt-7MvbLK8PKqi0l4re-CV2T-uz24O7a6DI1u7SAe7mwFHZtQUW0dHavWFLsJNEp2e0MYy6rMRdQQWW38bSUcxuAN51uEy_S7ii953PjaHie6QOCmsMu7Tlun-7TNOnVB8UPZ7GOBIQY4G_a4qbX7xZFrrWSYrpBBoU64_vpv_yJJ9OJPr77WWAXs1Wpkk",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Shashank Dave",
+            "author_url" : "https://plus.google.com/107570089217878276381",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "",
+            "time" : 1396176948
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "lodging", "establishment" ],
+      "url" : "https://plus.google.com/116854192047957241613/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "73, Gandhi Road, Darjeeling"
+   },
+   "status" : "OK"
+}

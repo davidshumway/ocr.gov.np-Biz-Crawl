@@ -1,0 +1,138 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "2",
+            "short_name" : "2",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Ashutosh Mukherjee Road",
+            "short_name" : "Ashutosh Mukherjee Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Ward 14",
+            "short_name" : "Ward 14",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Hakim Para",
+            "short_name" : "Hakim Para",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Siliguri",
+            "short_name" : "Siliguri",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Darjeeling",
+            "short_name" : "Darjeeling",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "734001",
+            "short_name" : "734001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e2, Ashutosh Mukherjee Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eWard 14, Hakim Para\u003c/span\u003e, \u003cspan class=\"locality\"\u003eSiliguri\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e734001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "2, Ashutosh Mukherjee Road, Ward 14, Hakim Para, Siliguri, West Bengal 734001, India",
+      "formatted_phone_number" : "0353 243 5531",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.711334,
+            "lng" : 88.428665
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "fbad72cd1f15917079bbdb6121c555ed6e9062cc",
+      "international_phone_number" : "+91 353 243 5531",
+      "name" : "Banaja NTFP Division",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1030"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:30 am – 5:30 pm",
+            "Tuesday: 10:30 am – 5:30 pm",
+            "Wednesday: 10:30 am – 5:30 pm",
+            "Thursday: 10:30 am – 5:30 pm",
+            "Friday: 10:30 am – 5:30 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJWxUeeW5B5DkRTWEoCV7ko_w",
+      "reference" : "CnRoAAAAy_rxmaP90SrzeOJVFysDvM3fZBiYAcESOtgK9Ffz3Ur7HpnTqQ8eFkl1JBhXAkXPMMfijXC2sFk3cweJg1iDhnbhzjR7h3hgzKe8_7-41YHcgkMYXvwB-1s6pEReBR6xn037Lmf6PQU8DvbmCwFREhIQ1h1jhAFztxBSTOfovHQVwBoUx42XCFQrNmua5btDqJGfsGcaCzM",
+      "scope" : "GOOGLE",
+      "types" : [ "food", "store", "establishment" ],
+      "url" : "https://plus.google.com/105563608603598279100/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "2, Ashutosh Mukherjee Road, Ward 14, Hakim Para, Siliguri",
+      "website" : "http://www.ntfpwestbengal.in/"
+   },
+   "status" : "OK"
+}

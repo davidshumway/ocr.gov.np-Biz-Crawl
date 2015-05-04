@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "318 National Road",
+            "short_name" : "318 National Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Nyalam",
+            "short_name" : "Nyalam",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Xigaze",
+            "short_name" : "Xigaze",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Tibet",
+            "short_name" : "Tibet",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "China",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e318 National Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNyalam\u003c/span\u003e, \u003cspan class=\"locality\"\u003eXigaze\u003c/span\u003e, \u003cspan class=\"region\"\u003eTibet\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eChina\u003c/span\u003e",
+      "formatted_address" : "318 National Road, Nyalam, Xigaze, Tibet, China",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.15738,
+            "lng" : 85.981545
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "e7286956dc8f4752070046cd6bd31f76866faee8",
+      "name" : "Sangzhu Store",
+      "place_id" : "ChIJ6b8O4M8-6jkRhODD1FPC17E",
+      "reference" : "CnRhAAAA-xOj0fmzwCOMzriHmnsJ9vabEv6eklk4e6o1oqGTsLyIgR_xreYmdXQ8w24pZ4ijJ0vNgjWoAQDID7imQ142w8SL9NcLhvA89rSdv2OvgRnXWGUkj7q3qxRznCXIwlsClockv0yyrDX8L5k2MkaoGxIQMNSjLvSKeNcsweXyIdqtxRoUT2NG6KFaLfSslx9da44gSvK8qlE",
+      "scope" : "GOOGLE",
+      "types" : [ "convenience_store", "food", "store", "establishment" ],
+      "url" : "https://plus.google.com/103923288271052672642/about?hl=en-US",
+      "utc_offset" : 480,
+      "vicinity" : "318 National Road, Nyalam, Xigaze"
+   },
+   "status" : "OK"
+}

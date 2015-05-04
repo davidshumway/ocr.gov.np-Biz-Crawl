@@ -1,0 +1,120 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "National Highway 57",
+            "short_name" : "NH 57",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Thakurania",
+            "short_name" : "Thakurania",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Darbhanga",
+            "short_name" : "Darbhanga",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "847115",
+            "short_name" : "847115",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNational Highway 57\u003c/span\u003e, \u003cspan class=\"locality\"\u003eThakurania\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e847115\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "National Highway 57, Thakurania, Bihar 847115, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.203506,
+            "lng" : 86.02205499999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "50c9cb259b88d33cb7d06e23e3d8074b1f2a6c85",
+      "name" : "Thakurania Middle School",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 4:00 pm",
+            "Tuesday: 10:00 am – 4:00 pm",
+            "Wednesday: 10:00 am – 4:00 pm",
+            "Thursday: 10:00 am – 4:00 pm",
+            "Friday: 10:00 am – 4:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJzVosYTfP7TkRb2uI4PjNtAQ",
+      "reference" : "CnRrAAAAX_NecKP-fWEf9bz8zf3r7Xm0CAnufqFNETTAim9PTlVnUKDMrWCfExGxAe-6KqaPDV9HiMkA4QUjuk7xKYX2lkAtWQdeFTYCDE3eYWqZ1q_wlIW8ykvv_BJh3bG5wBamLPE8yBIZ8BFOcC9ZGf14YhIQtJUa-nZI5Z33hcOdMuP-QhoUlLTr3NK3thv85LzQe35YkJATpSw",
+      "scope" : "GOOGLE",
+      "types" : [ "school", "establishment" ],
+      "url" : "https://plus.google.com/107367871031145266738/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "National Highway 57, Thakurania"
+   },
+   "status" : "OK"
+}

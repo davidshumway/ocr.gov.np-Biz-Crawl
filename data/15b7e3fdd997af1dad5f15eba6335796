@@ -1,0 +1,86 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "National Highway 28C",
+            "short_name" : "NH 28C",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Rupaidiha",
+            "short_name" : "Rupaidiha",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bahraich",
+            "short_name" : "Bahraich",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "271881",
+            "short_name" : "271881",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNational Highway 28C\u003c/span\u003e, \u003cspan class=\"locality\"\u003eRupaidiha\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e271881\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "National Highway 28C, Rupaidiha, Uttar Pradesh 271881, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.010045,
+            "lng" : 81.594528
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id" : "1992bb1c913ec3dc019579b5dfb59b438527c4db",
+      "name" : "Hotel Muskan",
+      "place_id" : "ChIJ42MxFnBemDkR8TcrLY9N1nU",
+      "reference" : "CmRfAAAARPTvqYGt00aGUyNzcclkdUGvkI74anMH6EobvvL5_R3CX_TqEDWrxDBM4EfEO0MOI0YeDPDq5tHcJ2nqJF9R12V2vGE3qzJwEebGNQ9szfgbXo-Xprnh7VT0ff8BSJL3EhCC87Qnim9o6sWamx_Ii0qEGhQ9zZXbMaZ-Y5ogK8UOZR9j28CFAQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Raghav Vimal",
+            "author_url" : "https://plus.google.com/109098624095505959035",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1351950319
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1337248265
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "lodging", "establishment" ],
+      "url" : "https://plus.google.com/109053580019167684550/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "National Highway 28C, Rupaidiha"
+   },
+   "status" : "OK"
+}

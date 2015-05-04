@@ -1,0 +1,81 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Uttar Pradesh, India",
+      "formatted_phone_number" : "0552 324 8201",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.429171,
+            "lng" : 83.693252
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "25d1326263b89eb8127a9576ab1611b95ae02f6d",
+      "international_phone_number" : "+91 552 324 8201",
+      "name" : "Ganesh Cloth Store",
+      "place_id" : "ChIJ7ZXJChYilDkRf_QDhvZo1XM",
+      "reference" : "CnRlAAAAxxNsq4MTkoBiZ59qRdhkJJA4X7FlMlWiyDO8l7nb-dxAVxc1AAzsIF4NgxDdfYcejty1eZwF9hlIPvtJCFgGPg2oWW9vfMLpdLowL9HQZX6IgI6va5Vsw7AFKf5VOQx-X7maUAS-yCY3Ukh3wbpMUhIQG8YMWoto32wyfjVXCu_uChoU_1CBITmB-cnMkJYqwFJqm7d7qsQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Shubhash Goyal",
+            "author_url" : "https://plus.google.com/113359169620550166163",
+            "language" : "hi",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1430258129
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1339355286
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1339983285
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "clothing_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/102003975733178380040/about?hl=en-US",
+      "user_ratings_total" : 3,
+      "utc_offset" : 330,
+      "vicinity" : "Uttar Pradesh"
+   },
+   "status" : "OK"
+}

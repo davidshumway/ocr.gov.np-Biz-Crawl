@@ -1,0 +1,123 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Main Road",
+            "short_name" : "Main Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Sitamarhi",
+            "short_name" : "Sitamarhi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eMain Road\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Main Road, Bihar, India",
+      "formatted_phone_number" : "1800 425 0018",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.593512,
+            "lng" : 85.49750400000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "cd60351b111de581d79023913a4f2a5f91caec31",
+      "international_phone_number" : "+91 1800 425 0018",
+      "name" : "Canara Bank",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 5:00 pm",
+            "Tuesday: 10:00 am – 5:00 pm",
+            "Wednesday: 10:00 am – 5:00 pm",
+            "Thursday: 10:00 am – 5:00 pm",
+            "Friday: 10:00 am – 5:00 pm",
+            "Saturday: 10:00 am – 5:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ7SXhWRjx7DkRAoSvBZqQh2A",
+      "reference" : "CmReAAAAzeKKI1BYgmUa7u4l9jRw-2ZsXtm9-qmzQfZQmuT857dKmMkegzEKJK3UC62GW2NEY8OUO5t4SDNwJSb3qDJeSo4jJ3DT3PzHovkdyr0Nap9b8ubZteZq3EyHj_EDhvH3EhCjiSsSEPWb8r9fqraMJAGpGhQiyYsC0RClHrV0BGekYwQ6ZVikWA",
+      "scope" : "GOOGLE",
+      "types" : [ "bank", "finance", "establishment" ],
+      "url" : "https://plus.google.com/107032987769536855960/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Main Road",
+      "website" : "http://www.canarabank.com"
+   },
+   "status" : "OK"
+}

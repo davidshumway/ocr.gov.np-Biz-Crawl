@@ -1,0 +1,155 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Mid Hill Highway",
+            "short_name" : "Mid Hill Hwy",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Baglung Bazar",
+            "short_name" : "Baglung Bazar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Baglung",
+            "short_name" : "Baglung",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Dhawalagiri",
+            "short_name" : "Dhawalagiri",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Western Region",
+            "short_name" : "Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "068",
+            "short_name" : "068",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Baglung municipality-1, Baglung, \u003cspan class=\"street-address\"\u003eMid Hill Highway\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBaglung\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e068\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Baglung municipality-1, Baglung, Mid Hill Highway, Baglung 068, Nepal",
+      "formatted_phone_number" : "068-522624",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.263214,
+            "lng" : 83.603267
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "6cec3a164876c3bea1d87ff0cf8c7561954594ed",
+      "international_phone_number" : "+977 68-522624",
+      "name" : "Siddhartha Shiksha Sadan",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0830"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:30 am – 6:00 pm",
+            "Tuesday: 8:30 am – 6:00 pm",
+            "Wednesday: 8:30 am – 6:00 pm",
+            "Thursday: 8:30 am – 6:00 pm",
+            "Friday: 8:30 am – 6:00 pm",
+            "Saturday: Closed",
+            "Sunday: 8:30 am – 6:00 pm"
+         ]
+      },
+      "place_id" : "ChIJndE-fBLilTkRjn1b8vc2UQQ",
+      "reference" : "CnRrAAAAel8kx2glbHit8r0RNoKC9F5BoekRoNDKWo-CdWlMebfp0ApES-BPmbc0A_6UF2EQ2pHTZCNafHuHM3wtEtLioJVdF13eZrcKmDe4sLsH1DqDLB-oeXIK46JlkFNsqKTGpCzHaFhjdsMPiaH31_XrpRIQ0-Mxz80OMa0nRbvdQC-X0BoU4L_U6qsJDOtZrLUsc5_rnV-GLCM",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "sagar sharma",
+            "author_url" : "https://plus.google.com/113471034955462947417",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1366218747
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "school", "establishment" ],
+      "url" : "https://plus.google.com/101321085522338631641/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Baglung municipality-1, Baglung, Mid Hill Highway, Baglung",
+      "website" : "http://www.siddharthasadan.edu.np/"
+   },
+   "status" : "OK"
+}

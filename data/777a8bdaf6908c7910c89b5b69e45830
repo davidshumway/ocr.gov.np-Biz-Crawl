@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "East-West Highway",
+            "short_name" : "East-West Hwy",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Janakpur",
+            "short_name" : "Janakpur",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "45600",
+            "short_name" : "45600",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eEast-West Highway\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e45600\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "East-West Highway, 45600, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.914548,
+            "lng" : 86.001293
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "cfeb12bbdae53bd0bd63176936cf1832c5681ac4",
+      "name" : "Ajay Medical Hall",
+      "place_id" : "ChIJUWCxZBAS7DkR5Q7RvSc3B3M",
+      "reference" : "CnRkAAAAVTVmtw3dZyAp9OBF5orPoHLJS5qK3nt3cGKRr3bYeUPFZSuvy4O3ZyvgKGg_SrfRnevA9dn4vZZy_6WQV7K9pPMy4W8mi2aFGI_8Ylfe1ywaHjXzTUvEdjxEPrqyEiBM7CozfEXV9Ajy5FBuI5LRihIQwbWWGvDnRgUZq5VSPsFGKxoUp3f5r-dGzropV2-tkhfVGv9tMEA",
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/113415119926017881519/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "East-West Highway"
+   },
+   "status" : "OK"
+}

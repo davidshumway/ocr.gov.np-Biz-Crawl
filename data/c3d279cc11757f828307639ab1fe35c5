@@ -1,0 +1,91 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Seti",
+            "short_name" : "Seti",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Far-Western Region",
+            "short_name" : "Far-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10700",
+            "short_name" : "10700",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Seti, \u003cspan class=\"postal-code\"\u003e10700\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Seti, 10700, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 29.053268,
+            "lng" : 81.34251999999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/airport-71.png",
+      "id" : "8df5e62880f0cd7c04718f5bcd60c99b8cd97842",
+      "name" : "Kamal Bazar Airport",
+      "place_id" : "ChIJ5wXuHAdSojkRxssBCia4BQc",
+      "reference" : "CnRmAAAAUw1dbbx8MSPh6g1MEwP07y1JiwQ2u9GTG40naZn1zsan6C6hBjPNeCIlk8_XvUE5dEIJ2RY9WhJsXg3DJgpMKdGxvGRztb2Q8v3whPaCd7Vb7SZ0WtNsKl--WOTrnaw7WzXuBtU6EufC3qqYPQiAkxIQTqxzRXfNdcV7xVhwN_Ue_RoUoZZ-T87Y-gPRXlMlPkkcWlXn2CE",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Umit Kumar",
+            "author_url" : "https://plus.google.com/115681468249200557901",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "Chaira bista\n",
+            "time" : 1428352232
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Matrika Adhikari",
+            "author_url" : "https://plus.google.com/112429891051433774971",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "Virgin airport...",
+            "time" : 1345367345
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Neprami Nep",
+            "author_url" : "https://plus.google.com/108300167434915291790",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1421943426
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "airport", "transit_station", "establishment" ],
+      "url" : "https://plus.google.com/117996457010487086932/about?hl=en-US",
+      "user_ratings_total" : 3,
+      "utc_offset" : 345,
+      "vicinity" : ""
+   },
+   "status" : "OK"
+}

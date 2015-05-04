@@ -1,0 +1,95 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Kathmandu",
+            "short_name" : "Kathmandu",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "44601",
+            "short_name" : "44601",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Jyatha Marg, \u003cspan class=\"locality\"\u003eKathmandu\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e44601\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Jyatha Marg, Kathmandu 44601, Nepal",
+      "formatted_phone_number" : "01-4215070",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.710786,
+            "lng" : 85.312226
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id" : "39ad84d39d1e5dc82ced1f961f9d4e75d6c965a7",
+      "international_phone_number" : "+977 1-4215070",
+      "name" : "Chill Out Resort Pvt. Ltd.",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "open" : {
+                  "day" : 0,
+                  "time" : "0000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+         ]
+      },
+      "place_id" : "ChIJ2SLkdP4Y6zkRq9pfKP4FKoM",
+      "reference" : "CnRuAAAAw7KEMoootGWBllxLV11dLcfPhOAP3GnLVjTqI3DGP_nsMZK3eaVk_TXU_Ki0Nu7Q6PSwSGxBCD51kBRS71jAgHsAUSA_4bjHjZoOaOeXjhI7vNA2ctUEHxFsJy1PxlVTgEy7E4j_hue1Ve7cG5glLRIQAatVN49V18xp1GsdBhcLvBoUNmzFb2u9ilbihPAaTHm2P3u_1ro",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Julian Redphi",
+            "author_url" : "https://plus.google.com/116353859399205837748",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Amazing rooms , tripple what I expected for the price . Great helpful owners and staff . Fantastic atmosphere and rooftop Thanx .See you soon again ",
+            "time" : 1423403676
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Bikiran Simkhada",
+            "author_url" : "https://plus.google.com/118270489084976374271",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1384566579
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "lodging", "food", "establishment" ],
+      "url" : "https://plus.google.com/117972388882233379834/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 345,
+      "vicinity" : "Jyatha Marg, Kathmandu",
+      "website" : "http://www.chilloutresort.com/"
+   },
+   "status" : "OK"
+}

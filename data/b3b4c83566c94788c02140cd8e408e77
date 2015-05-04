@@ -1,0 +1,78 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Majuwa Sarlahi Road",
+            "short_name" : "Majuwa Sarlahi Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bhattarai Danda",
+            "short_name" : "Bhattarai Danda",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Sankhar",
+            "short_name" : "Sankhar",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Gandaki",
+            "short_name" : "Gandaki",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Western Region",
+            "short_name" : "Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "33800",
+            "short_name" : "33800",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eMajuwa Sarlahi Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eSankhar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e33800\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Majuwa Sarlahi Road, Sankhar 33800, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.881044,
+            "lng" : 83.92771500000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "2dff2e7c06215bf456c1bbc41802f7a3f6603ee7",
+      "name" : "Food Store",
+      "place_id" : "ChIJ01tBaQHKlTkRU_rr-YCAc9Y",
+      "reference" : "CmReAAAAaWFX953r2t4rQNTLLZs_jDds2hIBps7VDv-5drE6uYYi09dPGT00J8rjZuLSbqK53qzXOdX82U9yE6kSjfQglBsxOZ2fop_s6YyF_Th7AGpG40MaXpEGUw0ob1yOQ2d5EhCQnbZ0erUFBCk55Mb89EWvGhTQMXlBp4uG0Zk9tfrnIhTezrvtPQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Pitambar Bhattarai",
+            "author_url" : "https://plus.google.com/103766819006985810785",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Good",
+            "time" : 1420298827
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "food", "store", "establishment" ],
+      "url" : "https://plus.google.com/110471515883637758546/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Majuwa Sarlahi Road, Sankhar"
+   },
+   "status" : "OK"
+}

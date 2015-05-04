@@ -1,0 +1,92 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Butwal",
+            "short_name" : "Butwal",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Lumbini",
+            "short_name" : "Lumbini",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Western Region",
+            "short_name" : "Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "32907",
+            "short_name" : "32907",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eButwal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e32907\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Butwal 32907, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.704635,
+            "lng" : 83.45854799999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "4ae9ed962d674d025310ee2f4c146e2c6cd0ed3f",
+      "name" : "Butwal Lions Eye Hospital",
+      "photos" : [
+         {
+            "height" : 2304,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/112474951291760775196\"\u003emanoj kumar Shrestha\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAVvS-1tLT1sF6El8V7pPShEHdfYaCXqMqQI8Icl-LMgCu-RQ0aNqrRCa8BxGJhZG_XIQWE_FJoM6TesUSx8Q6W8W44NNgs9MnC9MCoLnc1w8XkXzbs2GKzwMW9MxdBGBYss2AIO-bYpJoeLSmQySXyRIQUZk_fW7KesNASBewXUuz0RoUY4R_QUT7xzhip-Frvrfn-w-JR3g",
+            "width" : 3072
+         }
+      ],
+      "place_id" : "ChIJCXFuIlyGljkRZOn38XMwvsA",
+      "reference" : "CnRtAAAAR3DoLUBnooWJS09gbmN4JJfjm8E8zQzschmPwaqctvl5hUv3-eSsM3BhlG-D-76iNA1dRRS-CTrkMBu6doP_YIWdG6JSYPP1elFhn-NA44IKI6QFOa12tnN8fbdkZPeQCeN0MhfGtHG_zE_cgsozlxIQyGwNfhbYMCfDsKx5m02YABoUqMlA4VpjbF5zao7iwl10zmBHYew",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "manoj kumar Shrestha",
+            "author_url" : "https://plus.google.com/112474951291760775196",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "This eye hospital provides good services.",
+            "time" : 1429607150
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Yogendra Shrestha Shrestha",
+            "author_url" : "https://plus.google.com/109720458922802667613",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "",
+            "time" : 1418044843
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "hospital", "establishment" ],
+      "url" : "https://plus.google.com/101687861544602291050/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 345,
+      "vicinity" : "Butwal"
+   },
+   "status" : "OK"
+}

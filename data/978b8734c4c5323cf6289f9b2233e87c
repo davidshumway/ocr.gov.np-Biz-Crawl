@@ -1,0 +1,83 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Mahakali Highway",
+            "short_name" : "Mahakali Highway",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Chauraha",
+            "short_name" : "Chauraha",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Dhangadhi",
+            "short_name" : "Dhangadhi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kailali",
+            "short_name" : "Kailali",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Seti",
+            "short_name" : "Seti",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eMahakali Highway\u003c/span\u003e, \u003cspan class=\"locality\"\u003eDhangadhi\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Mahakali Highway, Dhangadhi, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.705154,
+            "lng" : 80.566652
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "0c71be06b9cd2dc9479beb50012dbd3646e2cd09",
+      "name" : "Rastriya Banijya Bank",
+      "photos" : [
+         {
+            "height" : 640,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/114464068666110627988\"\u003eShivam Gupta\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBdwAAANOK3s6plInjgEGIsMO4b9GBofov3qEdxBVuJGGP85GotDvfxW8ns8WPYVDQFxnGz2Ih-dKYKnJTaBcbNX6FzK5C1f8x1VDuxlBRPaHfW4HlW_tgrXUGxADefOzqzN48bNw-dpgyUTaFFsgRK_SFl5DL_zmyx5ZLunGcaEZIg8twEhBtwP2g2jOROj95XrypKhOCGhSOHKhH2RaWDRG4Gxsjstep4mFJVg",
+            "width" : 480
+         }
+      ],
+      "place_id" : "ChIJUwA-BcjsoTkR5yE921jiqQE",
+      "reference" : "CnRoAAAAjsQ3VyI9bTTfmEPOevUzfmyBS18GVa1J7enkKlYncOmgqXN0r5wrZGHhnrS6IPkCnO89rE29gqoNfpqFiSd2AayFdG1u4vAOOhGezg6pw3Eq1r4wf678MnKj3dznpJaSUiq8QSshAXds0QbmeWYaeBIQGCjQdTWZndsH5BNAOkxK6hoU0HZm9oW4zAUq5bLIFoBc031nro8",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Shivam Gupta",
+            "author_url" : "https://plus.google.com/114464068666110627988",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Shivam hardware",
+            "time" : 1360573309
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "bank", "finance", "establishment" ],
+      "url" : "https://plus.google.com/106421784092208886219/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Mahakali Highway, Dhangadhi"
+   },
+   "status" : "OK"
+}

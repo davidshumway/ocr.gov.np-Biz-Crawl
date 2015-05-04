@@ -1,0 +1,100 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Military Sadak",
+            "short_name" : "Military Sadak",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Jumla",
+            "short_name" : "Jumla",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Karnali",
+            "short_name" : "Karnali",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Mid-Western Region",
+            "short_name" : "Mid-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "21200",
+            "short_name" : "21200",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eMilitary Sadak\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e21200\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Military Sadak, 21200, Nepal",
+      "formatted_phone_number" : "01-5525322",
+      "geometry" : {
+         "location" : {
+            "lat" : 29.282926,
+            "lng" : 82.18309000000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "82ff3ffc4078590eda26479926469574a140010f",
+      "international_phone_number" : "+977 1-5525322",
+      "name" : "Karnali Academy of Health Sciences",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJs8uSQ50sozkRSycMDKvMGHw",
+      "reference" : "CoQBdQAAANtAi0DO7u67wjQPw3wIM9qBeOJ5KervGSdjSRKntH5qR5zH6Gjc5AAum_YVtUKR_eKudd3s7wrLfn6XjQmmYuOUK5gdAXKpRC3FvwueBPmUfkptl6D8L2MgAbwCSA8TeMt8Yx9Vu1uqKzYiBvjtcRbBc0Z76SgPTL0WLvaWytmmEhDE7IXV6RGhjSrZM6Miew1EGhQv5pqvCB51YS3tBz1Lo7j7wQXZRA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Nanda timilsena",
+            "author_url" : "https://plus.google.com/102626318791337681660",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1384803294
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "hospital", "health", "establishment" ],
+      "url" : "https://plus.google.com/105339329845732413254/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Military Sadak",
+      "website" : "http://www.kahs.edu.np"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,87 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "बालाजु मार्ग",
+            "short_name" : "बालाजु मार्ग",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "चक्रपथ",
+            "short_name" : "चक्रपथ",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "बालाजु",
+            "short_name" : "बालाजु",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kathmandu",
+            "short_name" : "Kathmandu",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "मध्यमाञ्चल",
+            "short_name" : "मध्यमाञ्चल",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "44611",
+            "short_name" : "44611",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eबालाजु मार्ग\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e44611\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "बालाजु मार्ग, 44611, Nepal",
+      "formatted_phone_number" : "01-4350406",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.726329,
+            "lng" : 85.30409299999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "446d9dfb4f3d60e4f4575b64ac88e25d5a5a6b52",
+      "international_phone_number" : "+977 1-4350406",
+      "name" : "ROYAL AUTO PARTS",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 9:00 am – 6:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJbb5YxOcY6zkR0dYdan2_uUA",
+      "reference" : "CnRjAAAA2iduHWY_s7mPhcN4XgYTZqM-VKL31skMdzXFIx4gYWB41TUDVvTQiLsthnDm5jVQIaqIC1ZaS_JZdyB72fuTC2K70NgQVT6SFGOMtU7E2SkwuBHu5i2OARu7MeDY85E4FRr522pKjaqajVL9G26_yxIQCb8wfhoqGwQaAIxqGKA0rxoUqEW8JTGP0P33Bhe0pA4pPfKoQzk",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/112480584214260785555/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "बालाजु मार्ग"
+   },
+   "status" : "OK"
+}

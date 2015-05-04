@@ -1,0 +1,97 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "East-West Highway",
+            "short_name" : "East-West Highway",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Itahari",
+            "short_name" : "Itahari",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Koshi",
+            "short_name" : "Koshi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Eastern Region",
+            "short_name" : "Eastern Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "56705",
+            "short_name" : "56705",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eEast-West Highway\u003c/span\u003e, \u003cspan class=\"locality\"\u003eItahari\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e56705\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "East-West Highway, Itahari 56705, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.66263,
+            "lng" : 87.275728
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "7cb6a7030f79fd08af551e1bdd6dfab86939e536",
+      "name" : "Dantakali hardware store",
+      "photos" : [
+         {
+            "height" : 480,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/117032948251738605643\"\u003eBimala Thapa\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAhDTnOPvceIADIrE_H0rhgT8V4UarmO4RCRQZF7HZZXOJQ69DhAU6r5ZmHoxQAFTKG58JFj388DkYMVCsRCze_Gnlixx5sI1AXcMm2CAH2-aYaZN0Lz9z-BAB9Ni17J2Thdg5OFHXIWQagyRaAHTOQRIQRGr7YZ7e_42XmXROY15GLhoUrEptPaSXJOcKEYOwa9XhJgAGmyE",
+            "width" : 640
+         }
+      ],
+      "place_id" : "ChIJFXUvaW5s7zkRfl6AEVAaxYY",
+      "reference" : "CnRsAAAAgYBmVO-86WVJ0bHfMre7dTy-xAlVylwViDiMBCNXDvqgfq1U7Qj45bzH0WYhEVFE7yLS95jPk_8f8xgrdP1lPKZSHuakODvOO6OmjblVr979W2BOMHPiQ6fvnx27avM0sXwU84gxiM6QU3SS-alG1hIQ8dzai2eDU7LXSm7CoR7D4hoU4qhWIXvq9gWhLIi8-nluTUJWg-c",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "praveen agrawal",
+            "author_url" : "https://plus.google.com/102277936502223869086",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Nice",
+            "time" : 1380339549
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Bimala Thapa",
+            "author_url" : "https://plus.google.com/117032948251738605643",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1397898599
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/108828695509609702055/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 345,
+      "vicinity" : "East-West Highway, Itahari"
+   },
+   "status" : "OK"
+}

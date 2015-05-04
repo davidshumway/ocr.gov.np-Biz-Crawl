@@ -1,0 +1,88 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "East-West Highway",
+            "short_name" : "East-West Highway",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Gaindakot",
+            "short_name" : "Gaindakot",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Lumbini",
+            "short_name" : "Lumbini",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "33000",
+            "short_name" : "33000",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eEast-West Highway\u003c/span\u003e, \u003cspan class=\"locality\"\u003eGaindakot\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e33000\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "East-West Highway, Gaindakot 33000, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.701502,
+            "lng" : 84.38722
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "e4d264ef380e7e3fd51f8fa8cf42a651092f9fda",
+      "name" : "Vijaya FM",
+      "place_id" : "ChIJDX2CP5r7lDkRTnt0pZ1_zXI",
+      "reference" : "CmRcAAAAZwL7_-hB-HAApPZp3sP-76gAu_ikWAaXrVI5q5szYNxi-94c9CclPs-Pu9x1N61EuOrmZdYlfhuL12Q6iouKoJZjS9A2uVQQIhNdUg3K-IiYPqiqJ1Peh7BBrD7hgJMhEhC1qita-k4b1UPHjqeTZs9CGhRf9XpES5A2oBtI0VysaeL4M-ypyQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Tek Bdr Mahato",
+            "author_url" : "https://plus.google.com/101570047866033926069",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "सामुदायिक रेडियो विजय एफ. एम. १०१.६\nExcellent ✌",
+            "time" : 1419211060
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Santu Thapa",
+            "author_url" : "https://plus.google.com/100651159795734700856",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "",
+            "time" : 1407018286
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/117881859961381398513/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 345,
+      "vicinity" : "East-West Highway, Gaindakot",
+      "website" : "http://www.vijayafm.org.np/"
+   },
+   "status" : "OK"
+}

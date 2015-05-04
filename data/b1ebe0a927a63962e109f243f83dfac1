@@ -1,0 +1,85 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Banepa",
+            "short_name" : "Banepa",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kavrepalanchok",
+            "short_name" : "Kavre",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Bagmati",
+            "short_name" : "Bagmati",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "45210",
+            "short_name" : "45210",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eBanepa\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e45210\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Banepa 45210, Nepal",
+      "formatted_phone_number" : "011-663165 ext. 660675",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.627392,
+            "lng" : 85.525576
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "4e6b22e724b6189fb8d284c946e101a9e37c223f",
+      "international_phone_number" : "+977 11-663165 ext. 660675",
+      "name" : "Baylor International Academy",
+      "place_id" : "ChIJmUJveNEI6zkR1RnsdNhJCLU",
+      "reference" : "CnRwAAAA4SB8AZMPeOwx4RMRiHgDICYpjl0RVNjN-HEDbVm6Nsav1EZJyKCnhuRz0wKFbDafOJBmsvVMMZ7yIhiZ9fa8WDIwHZ7dDFNll_0E2XOyZeWnNWxqwiieYk53ul7FGucdDNxK5Lbt0YTzmJE15Ai1wBIQtLVt_arTJ5BMLDNPaW-YMBoUJJYDZYL_cIbpPaKQy2W1vgbbZFw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "nis stha",
+            "author_url" : "https://plus.google.com/113297370368981597348",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "Good",
+            "time" : 1418088013
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Susan Adhikary",
+            "author_url" : "https://plus.google.com/102378504652390793680",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1401115967
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "school", "establishment" ],
+      "url" : "https://plus.google.com/107825440603930709813/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 345,
+      "vicinity" : "Banepa",
+      "website" : "http://baylor.edu.np/"
+   },
+   "status" : "OK"
+}

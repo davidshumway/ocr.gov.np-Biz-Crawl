@@ -1,0 +1,68 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Manthali",
+            "short_name" : "Manthali",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Janakpur",
+            "short_name" : "Janakpur",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "45400",
+            "short_name" : "45400",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eManthali\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e45400\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Manthali 45400, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.381256,
+            "lng" : 86.05415499999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+      "id" : "c449c6473a798006fab47b676e180cf76e57b790",
+      "name" : "District Police Office",
+      "place_id" : "ChIJD99hvyDv6zkRmOB_KZdW__Q",
+      "reference" : "CnRqAAAADno9-f9pdnmgnjkkIraTMatTAspP7VwpzvEOv32VEbEobQjxBMvDQtRsZBEW_eWiu36KyYNjMqs0QF-5TJsw4iNnh39TBJ1saG0nJDpq04hp0HszytIKvoSDrIO01DpY3Y3Dk1XynvMudf5LgXWyQxIQx_20Hh3sX8PneOdVQgtf2xoU-s2C3Q9rAcD98Dhr5BNb6j4eTX0",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "sanjib sharma das",
+            "author_url" : "https://plus.google.com/108086601399179763264",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1340726315
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "police", "establishment" ],
+      "url" : "https://plus.google.com/110592295711762715826/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Manthali"
+   },
+   "status" : "OK"
+}

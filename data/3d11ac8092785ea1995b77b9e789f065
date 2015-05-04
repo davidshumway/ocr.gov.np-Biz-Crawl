@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "East-West Highway",
+            "short_name" : "East-West Hwy",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Mahakali",
+            "short_name" : "Mahakali",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Far-Western Region",
+            "short_name" : "Far-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10400",
+            "short_name" : "10400",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eEast-West Highway\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e10400\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "East-West Highway, 10400, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.904393,
+            "lng" : 80.347902
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "938b390a71285c36ae6ab2add6e40b9a35e6cb22",
+      "name" : "Karki Medicare",
+      "place_id" : "ChIJwVh7k76koTkR0esy78CSqBs",
+      "reference" : "CnRhAAAAnkzE99bQgpjLfoUH7ewnGSQaNq1bYFKq9fMlf9GeF2XzSArymZd-IV583AM3PjriL06Z6eLuhENvIv-cr8iZiHYedBC8qnGAm5y4JQfqBDiSuEpJHm677oEMgJIbc_gxeQi4TdjPOg_a2QXjDIxPsxIQtifYWlxuOH3VH_CJekmGHxoUKi9gD-tTMuD3CeBPK0foU8rLlYU",
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/111457922928652258730/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "East-West Highway"
+   },
+   "status" : "OK"
+}

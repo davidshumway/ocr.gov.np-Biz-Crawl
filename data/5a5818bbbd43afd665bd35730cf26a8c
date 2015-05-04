@@ -1,0 +1,81 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Bahundangi",
+            "short_name" : "Bahundangi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Mechi",
+            "short_name" : "Mechi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Eastern Region",
+            "short_name" : "Eastern Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "57200",
+            "short_name" : "57200",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eBahundangi\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e57200\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Bahundangi 57200, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.760071,
+            "lng" : 88.163918
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "ef6f0760cc41bfe8a071bce45e7253607ff29390",
+      "name" : "Narmada Medico",
+      "place_id" : "ChIJ1VZ56DW15TkRAqEHRVnbwt8",
+      "reference" : "CnRiAAAAAUErIEmE_eDIW6A14fUE19IOGAZZ9JIPsTlvbvrV07kIspYDsUmgdxuqMjKCFYJ2KZjGFHPECCz5gBmtJDAKS4t68UC8fEUGvMJn4M7s0zCZQBr4wViGHkRo32cTHoxjFzR5PWKDW9Nog2aLf984NRIQ9hC-EN2s0FHRkI6ENcK4BxoU1HVUFCpwqVnPGnuxUB8_miBE_rg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Shyam Sampang",
+            "author_url" : "https://plus.google.com/109686732235324266055",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1348288242
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1303550588
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/105572072168829578515/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 345,
+      "vicinity" : "Bahundangi"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,159 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Ekata Marg",
+            "short_name" : "Ekata Marg",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bharatpur",
+            "short_name" : "Bharatpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Narayani",
+            "short_name" : "Narayani",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "44207",
+            "short_name" : "44207",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eEkata Marg\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBharatpur\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e44207\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Ekata Marg, Bharatpur 44207, Nepal",
+      "formatted_phone_number" : "056-523678",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.662421,
+            "lng" : 84.437847
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "9cb08748c07cfdb2e1a62646e9bce535294ffa0c",
+      "international_phone_number" : "+977 56-523678",
+      "name" : "Sulav Kirana Pasal",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0700"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 7:00 am – 8:00 pm",
+            "Tuesday: 7:00 am – 8:00 pm",
+            "Wednesday: 7:00 am – 8:00 pm",
+            "Thursday: 7:00 am – 8:00 pm",
+            "Friday: 7:00 am – 8:00 pm",
+            "Saturday: 7:00 am – 8:00 pm",
+            "Sunday: 7:00 am – 8:00 pm"
+         ]
+      },
+      "place_id" : "ChIJ32zyttL6lDkR3OLDdmsSbHM",
+      "reference" : "CnRlAAAASJxNE_52BpkdSujSan4wd2fnE39F7i_GD_dNDcvDujLQ4pnjMn-YqU8Zc0zAQ4qu261jtgftBnGNM6qon8ye99SEEWpV2H19OwUorP6ZWke90YWq8-_vhW1smwEBVPKJMJ0izkPjsZHxoOftj-_4iBIQzlbBUQSVoCNkUFfqjWW7vRoUqQ95BbWKSeRNJB5vx2Wgw_go-RM",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Shishir Poudel",
+            "author_url" : "https://plus.google.com/117211969795424998968",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "All grocery stores available.. Good place",
+            "time" : 1428680514
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+      "url" : "https://plus.google.com/113096765430794885139/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Ekata Marg, Bharatpur"
+   },
+   "status" : "OK"
+}

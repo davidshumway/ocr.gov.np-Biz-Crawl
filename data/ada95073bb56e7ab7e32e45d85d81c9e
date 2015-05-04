@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "lkj Rd 42",
+            "short_name" : "LKJ Rd 42",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Mechi",
+            "short_name" : "Mechi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Eastern Region",
+            "short_name" : "Eastern Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "57200",
+            "short_name" : "57200",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003elkj Rd 42\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e57200\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "lkj Rd 42, 57200, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.598008,
+            "lng" : 87.79061900000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "e38eab5e689cb1d2800df48fb08b94dad0b8b243",
+      "name" : "Anisha Medical Hall",
+      "place_id" : "ChIJazWg8VuX5TkRnFwQNK3W98c",
+      "reference" : "CnRnAAAAsoCxx8lIQ1G0mqFd1bHoY-ze8N4RG5rIwlBjeluRVcRJuVC7gFhBZB3GvvqAH3OdiNgIJ1urxYKC3C5RfnAe-xvgT8lyl3Nqo9AjXixs1I4F7JO88jYZ_Ih61XqZXu4fBpMJOchgISAKLXIEV29ZiBIQl4OuwtUy_rr_WnEGsRE5WhoUQL1UAm61bE6w7D38EETS_7DOkpE",
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/110647345253523164046/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "lkj Rd 42"
+   },
+   "status" : "OK"
+}

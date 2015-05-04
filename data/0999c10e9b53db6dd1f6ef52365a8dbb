@@ -1,0 +1,73 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "East-West Highway",
+            "short_name" : "East-West Highway",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Lahan",
+            "short_name" : "Lahan",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Sagarmatha",
+            "short_name" : "Sagarmatha",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Eastern Region",
+            "short_name" : "Eastern Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "56500",
+            "short_name" : "56500",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eEast-West Highway\u003c/span\u003e, \u003cspan class=\"locality\"\u003eLahan\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e56500\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "East-West Highway, Lahan 56500, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.710452,
+            "lng" : 86.487137
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "27cb7d7c8bbd32cabf1aa9e65e8ebdf3bc60ac7f",
+      "name" : "Everest International Higher Secondary School",
+      "place_id" : "ChIJGSouCmOW7jkRnPLQELDMwro",
+      "reference" : "CpQBgQAAAMvHavC4h4KIFfb7WhpRtP_YjZvmJo-jguJCqMKotRrWTeKjp6C2VxZOBTpLyc2DqBN6-ebkI2bHsAbzC2g_kLHa7OWPehvsMH7_AWYiLQ8Sf2pDB3NHtyljpAE3MlJSP21-Jn2KEMO85ilp7Fv1LYYG5Jlz306mkEJbMd79frsbH_U0Su5KmrJYdX-jdYGNiBIQrwBRtA6WP9RVmMswik1rExoUjcKQQlg250eqlDb7kXYITGCQ9Fo",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Rajesh Meche",
+            "author_url" : "https://plus.google.com/108547507700927933153",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1399463906
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "school", "establishment" ],
+      "url" : "https://plus.google.com/111841038805885410622/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "East-West Highway, Lahan"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "318国道",
+            "short_name" : "318国道",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Nyalam",
+            "short_name" : "Nyalam",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Xigaze",
+            "short_name" : "Xigaze",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Tibet",
+            "short_name" : "Tibet",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "China",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003eChina\u003c/span\u003e, \u003cspan class=\"region\"\u003eTibet\u003c/span\u003e, \u003cspan class=\"locality\"\u003eXigaze\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNyalam\u003c/span\u003e, \u003cspan class=\"street-address\"\u003e318国道\u003c/span\u003e",
+      "formatted_address" : "China, Tibet, Xigaze, Nyalam, 318国道",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.987933,
+            "lng" : 85.98308299999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "622dad40ba57f15fc85d37c30f71396103b73234",
+      "name" : "Wangdui Nepal Department Store",
+      "place_id" : "ChIJW3qpv-026jkRvXcFvcwOT5U",
+      "reference" : "CoQBcgAAAKx_U56F5v6T5aDHp9tkaVTsYri8Mpb3Eno0YRg1ioK-rsTthNczJfelIwGGbCOvFkQVSlN1a-EjOTwKmyt5pgo0VpdtBqDARdOuKUHGFlI5ROm-aJIt5X0_W7WRskKPfJI8WvkMAiEaIDGTbrNM7KKgqU5uDFPhtiiQb_DGiNDBEhC_YpHo8C7Klr9iEO729rCoGhTX983SYF7kan--62jNJCPMNwWs3A",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Prem Kumar Tamang",
+            "author_url" : "https://plus.google.com/100893062312680813848",
+            "language" : "en",
+            "rating" : 1,
+            "text" : "प्रेम कुमार तामाङ",
+            "time" : 1420355190
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "convenience_store", "food", "store", "establishment" ],
+      "url" : "https://plus.google.com/108047153427751599359/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "318国道, Nyalam, Xigaze"
+   },
+   "status" : "OK"
+}

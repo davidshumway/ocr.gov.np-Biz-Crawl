@@ -1,0 +1,78 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "School Road",
+            "short_name" : "School Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bhattarai Danda",
+            "short_name" : "Bhattarai Danda",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Sankhar",
+            "short_name" : "Sankhar",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Gandaki",
+            "short_name" : "Gandaki",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Western Region",
+            "short_name" : "Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "33800",
+            "short_name" : "33800",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eSchool Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eSankhar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e33800\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "School Road, Sankhar 33800, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.885568,
+            "lng" : 83.931652
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "ee7ee7b28a388096b3b973d5d2b6e346ac452860",
+      "name" : "Krishna Grocery",
+      "place_id" : "ChIJkesU-f_JlTkRc1dmznRdoUo",
+      "reference" : "CnRiAAAA0-DYmbzgOAuixP8nWOJ4atILTm1uNntmiU2l00hYLbbyZOVbIcZQsH8NPAxP8azDFZkdWj00cz71q79BhD0yTWTrVTPyOLJBi81M1LTbvKKaoioZJsNY_re7cgVOf-jFXLgRx8gOFjE_cT_7dzx2xRIQ0wdULq4-E9yr1ZkCC738BRoUHGNpya__EAwhmY72T0TlXjfZvK0",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Pitambar Bhattarai",
+            "author_url" : "https://plus.google.com/103766819006985810785",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1420298428
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+      "url" : "https://plus.google.com/100350876826252961401/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "School Road, Sankhar"
+   },
+   "status" : "OK"
+}

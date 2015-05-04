@@ -1,0 +1,81 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Suknadigi Marg",
+            "short_name" : "Suknadigi Marg",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Pathariya",
+            "short_name" : "Pathariya",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Mechi",
+            "short_name" : "Mechi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Eastern Region",
+            "short_name" : "Eastern Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "57200",
+            "short_name" : "57200",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eSuknadigi Marg\u003c/span\u003e, \u003cspan class=\"locality\"\u003ePathariya\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e57200\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Suknadigi Marg, Pathariya 57200, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.407764,
+            "lng" : 87.99250600000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "ffc3edeac7278fda928082cd16b365e12efb3aaa",
+      "name" : "Mittal Tea State",
+      "place_id" : "ChIJIeTKLfWn5TkRlYi_7SnM2Mk",
+      "reference" : "CnRkAAAAUunGLW4GGfqUJDaLRaQSVKV6RM7hP90d247XEurLfVzw7k0U3jWllXEltZ7AqkEDTT39xQ607RbUYxnz4LMNCeTybEINg5wWaUbZ65V13w36G87aP17Lv0PZIT2YGziKpN_tr7m4FNtvCBqeccsTSBIQ214zd0W_q7GvOs4AzJcW1RoUWAKIJaESVy4PmPqMdqPQt9KdB_0",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 0,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "sanu bhatt",
+            "author_url" : "https://plus.google.com/116729441943864107482",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "I love my place mittal",
+            "time" : 1388697907
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "food", "store", "establishment" ],
+      "url" : "https://plus.google.com/116119541680396289091/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Suknadigi Marg, Pathariya"
+   },
+   "status" : "OK"
+}

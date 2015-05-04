@@ -1,0 +1,67 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "East-West Highway",
+            "short_name" : "East-West Highway",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Jhapa",
+            "short_name" : "Jhapa",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Eastern Region",
+            "short_name" : "Eastern Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "57217",
+            "short_name" : "57217",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eEast-West Highway\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e57217\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "East-West Highway, 57217, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.655832,
+            "lng" : 87.716838
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "baa09b4da22a37e94bdb54ee90afbdbf1bc4efe1",
+      "name" : "Padajungi",
+      "place_id" : "ChIJOdTopMCR5TkRlhHZHwS4tPc",
+      "reference" : "CmRdAAAAg5FVGNiAUnyP8U-PrdD97bWhyvPQ0YurHvVxKaJuE_bTMEGOurmqbb-sIWxrFehRfPzyossQCw6-Xa7T5eNiaB_gwAxL15ZKYY1MSMVWFveoEDuuWzst056qu3PMkLkNEhDbsFdhvyVxwmWqwmDcadS8GhS1gdFO8NbCZ33cbtMOIU4v0EuuIQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1326359934
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/110917349503337740362/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "East-West Highway"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,56 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Hill Cart Road",
+            "short_name" : "Hill Cart Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Cart Road",
+            "short_name" : "Cart Road",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Darjeeling",
+            "short_name" : "Darjeeling",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "734203",
+            "short_name" : "734203",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eHill Cart Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eCart Road\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e734203\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Hill Cart Road, Cart Road, West Bengal 734203, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.857764,
+            "lng" : 88.315485
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+      "id" : "8e106d36c6b76e27a688c659ef7cab1d8e668f3b",
+      "name" : "Kali Temple",
+      "place_id" : "ChIJaY6iYF035DkRGjhqkAUimZo",
+      "reference" : "CmRfAAAASPiab3cIBsvWOKpTqPQAQ6DqHSuVWdKEi60HEcEX-yjpxA0_CjiZsdi2NDqD_0QVKqwuXl3l7gsoDYAbeXIQsbVYmu7kvF47sMneqc3p6QLBXoxiqkwq99-bg9c9B0O0EhALX2Eogy3Ww5YAmdt3eS1pGhR1oGC8O0iSg134oc5c3S-tPkuKmA",
+      "scope" : "GOOGLE",
+      "types" : [ "hindu_temple", "place_of_worship", "establishment" ],
+      "url" : "https://plus.google.com/107102740229690299189/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Hill Cart Road, Cart Road"
+   },
+   "status" : "OK"
+}

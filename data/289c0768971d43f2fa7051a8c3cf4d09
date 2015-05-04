@@ -1,0 +1,134 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Tulsipur",
+            "short_name" : "Tulsipur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Rapti",
+            "short_name" : "Rapti",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Mid-Western Region",
+            "short_name" : "Mid-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "22412",
+            "short_name" : "22412",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eTulsipur\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e22412\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Tulsipur 22412, Nepal",
+      "formatted_phone_number" : "082-521624",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.135942,
+            "lng" : 82.29744700000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "efc61acc7c412b3bc0b19bd555e023de770f724a",
+      "international_phone_number" : "+977 82-521624",
+      "name" : "Rapti Zonal Hospital",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 3:00 pm",
+            "Tuesday: 9:00 am – 3:00 pm",
+            "Wednesday: 9:00 am – 3:00 pm",
+            "Thursday: 9:00 am – 3:00 pm",
+            "Friday: 9:00 am – 3:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJVX1nSXn0lzkRKh2_6Z1mqj0",
+      "reference" : "CnRnAAAAKJVzUdpLfQ2E9DI33OUPutyFUSYVzD8Vyo2FNXFE5LmqAdARh3DWDPsKRaQnwkNBoEv97p0Vu88q2Vu_8QZBr6o_jH1JK-tWsgvV9BwIx68qgAbZP7pLITdh1j2d3RZgT3Ulbr86P9guF4hP6nz5WhIQiZL77two_lroZpgWp0gRKhoUvWQmcVlvt21cNa486VHQDDpA-PI",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Thomas Jaya",
+            "author_url" : "https://plus.google.com/107310307169387075522",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1401632810
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "hospital", "establishment" ],
+      "url" : "https://plus.google.com/117941299879613316605/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Tulsipur"
+   },
+   "status" : "OK"
+}

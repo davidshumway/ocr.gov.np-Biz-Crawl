@@ -1,0 +1,130 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "East-West Highway",
+            "short_name" : "East-West Hwy",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Panchanagar",
+            "short_name" : "Panchanagar",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Lumbini",
+            "short_name" : "Lumbini",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Western Region",
+            "short_name" : "Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "33000",
+            "short_name" : "33000",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eEast-West Highway\u003c/span\u003e, \u003cspan class=\"locality\"\u003ePanchanagar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e33000\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "East-West Highway, Panchanagar 33000, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.560463,
+            "lng" : 83.755014
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "c7affc5928cf849b3dc577a372df138f933ae7d4",
+      "name" : "Siddhababa Mobile Center",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 am – 7:00 pm",
+            "Tuesday: Closed",
+            "Wednesday: 8:00 am – 7:00 pm",
+            "Thursday: 8:00 am – 7:00 pm",
+            "Friday: 8:00 am – 7:00 pm",
+            "Saturday: 8:00 am – 7:00 pm",
+            "Sunday: 8:00 am – 7:00 pm"
+         ]
+      },
+      "place_id" : "ChIJgU1OSC4llDkR3_eZauOpZpA",
+      "reference" : "CnRsAAAAHVgD3a-J53ee4j-mRR0iXjylj_A8OyHZw33d9cQ7E9sbFzOZMMzl1_u9cyEmivr2uGzK3HzO_gt1WLIpXZ1jBuBDmLixuSG28Gf60ZU9tevkMAbzTzP298zowEAp_FbHbHTbA9Vh1jOI8V0VTSZHDxIQPqojxcpGLN9--di9Ml2XCxoUltP-bvFjxNIQ1ozvtgbj_YP8JEA",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "establishment" ],
+      "url" : "https://plus.google.com/114201098720578698770/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "East-West Highway, Panchanagar"
+   },
+   "status" : "OK"
+}

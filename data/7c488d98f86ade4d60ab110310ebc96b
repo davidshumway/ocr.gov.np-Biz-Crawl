@@ -1,0 +1,120 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Brijmanganj Road",
+            "short_name" : "Brijmanganj Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Karu Ambla",
+            "short_name" : "Karu Ambla",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Maharajganj",
+            "short_name" : "Maharajganj",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "273162",
+            "short_name" : "273162",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eBrijmanganj Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKaru Ambla\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e273162\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Brijmanganj Road, Karu Ambla, Uttar Pradesh 273162, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.298274,
+            "lng" : 83.32920799999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "ab059ae49dc381901eff1f132140fdfd5236e105",
+      "name" : "Shukla Medical Store",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJq3Qj6qy-ljkRUWYOvWUSqsQ",
+      "reference" : "CnRoAAAA1ZhZXgpcdsDIW--pVyqD2Jhhc1EMoqW_-1ScUG7t1zUQX5ZynrK1_ObEOhIuqLQKomnZlSf7QKLruFQi9Ik-aioETFxQ1aKkxJCOlhC4zkJSzQzpqhH0C0WZblraAAg6GIIue2qRWbE6kQZ_o9gnyhIQAmT5rHOkSCa8bhLinjXMCBoUo8CBpoEUPUkAVWjU3q0IoqAHKDs",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/104140945014528613644/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Brijmanganj Road, Karu Ambla"
+   },
+   "status" : "OK"
+}

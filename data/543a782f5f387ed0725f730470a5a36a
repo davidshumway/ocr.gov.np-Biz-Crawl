@@ -1,0 +1,75 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Taxi Stand Road",
+            "short_name" : "Taxi Stand Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Tanakpur",
+            "short_name" : "Tanakpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Champawat",
+            "short_name" : "Champawat",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttarakhand",
+            "short_name" : "UK",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "262309",
+            "short_name" : "262309",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eTaxi Stand Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eTanakpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttarakhand\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e262309\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Taxi Stand Road, Tanakpur, Uttarakhand 262309, India",
+      "formatted_phone_number" : "098970 82002",
+      "geometry" : {
+         "location" : {
+            "lat" : 29.073078,
+            "lng" : 80.109274
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "b9fc14d615e5c1e83bf4dd09b15188cd7f26baae",
+      "international_phone_number" : "+91 98970 82002",
+      "name" : "Shah Ji Auto Service",
+      "place_id" : "ChIJPSEPiBcAoTkRlSe50Fqrf3c",
+      "reference" : "CnRnAAAApMMCoGoeDDWcT47lMQkH4IVsRoLKnCGWBJdg10Ip8Hb8R5D26K56LcgVnr7mqGxvyo1rcvhzGy2VOaxm1oesSQ1PtpraMQoseZ9Ag8fNYM6G7-XVFHYlCw8llZMh80MWxZyPRpvWtytqmd2hxObaqRIQ1TihKP5-UW4N5rhjFLf_tBoUivxZcJ8lXJP-c6_r73eDS23dw04",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Ali Ansari",
+            "author_url" : "https://plus.google.com/115076507564675000657",
+            "language" : "en",
+            "rating" : 1,
+            "text" : "",
+            "time" : 1419487191
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/105070841691831766841/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Taxi Stand Road, Tanakpur"
+   },
+   "status" : "OK"
+}

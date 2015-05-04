@@ -1,0 +1,132 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Okhaldhunga",
+            "short_name" : "Okhaldhunga",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Sagarmatha",
+            "short_name" : "Sagarmatha",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Eastern Region",
+            "short_name" : "Eastern Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "56100",
+            "short_name" : "56100",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eOkhaldhunga\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e56100\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Okhaldhunga 56100, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.314346,
+            "lng" : 86.502122
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "51e1802fcec2c1fc98f930e18cab0f180000304e",
+      "name" : "Lali Guransh English School",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 4:00 pm",
+            "Tuesday: 10:00 am – 4:00 pm",
+            "Wednesday: 10:00 am – 4:00 pm",
+            "Thursday: 10:00 am – 4:00 pm",
+            "Friday: 10:00 am – 4:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJt4XgB6tI6TkRQWO1r0Lsg_g",
+      "reference" : "CnRvAAAA_p1UDfN1-qizmucwjgUuivE-XIVMnIzkVTf5T68e_IYuRIyPlR42PTlv9jfYIFdrfg5hn5KLapvWPpJYc2ifghjBdg5igOG3yO1yJba6Pmxq_bfoX3W_XNGCL3_TFRo1jMS4zWUOYzqpClfFNfzRWhIQejul8udcNsar9SRTc0Ik3xoULwgfYkme7iYCveaHksa_Az2U9ns",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Rozan shrestha",
+            "author_url" : "https://plus.google.com/101813787298066238124",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Our school, the only reknown english medium school in okhaldhunga... proud to be a member of LGES",
+            "time" : 1385236716
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "school", "establishment" ],
+      "url" : "https://plus.google.com/117746042313957854510/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Okhaldhunga"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,82 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Janakpur",
+            "short_name" : "Janakpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Janakpur",
+            "short_name" : "Janakpur",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "45600",
+            "short_name" : "45600",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eJanakpur\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e45600\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Janakpur 45600, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.740932,
+            "lng" : 85.924466
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "216c5c8d86aa8254146bdf27b00935a1ecc7679c",
+      "name" : "South Point School",
+      "place_id" : "ChIJxySwm6lq7DkRX64WMqiMwOI",
+      "reference" : "CnRmAAAAjegcFexLdnsB4ssg_qprJk-PDQPA6nUSFFPz8YR5vgo_PFVbhu8Rb2c1Wqub5GBpqPwsm2_gRQiGYA9vJp4WtHpvLbSYMjgW_g0dWnjk2QwkEWQrX3i2QPxYNgB-N5Q0jwpqZonyqii_8uOuoyeP0RIQ8xoRo8q_AaHeb3C3GELWixoUen7SyItLOJmpd7I-EQl0deO3gCQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "suman bantawa",
+            "author_url" : "https://plus.google.com/102069531730892080546",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "its a great school and all da teachers and students have right knowledge and discipline..!!",
+            "time" : 1381560152
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Raj Mishra",
+            "author_url" : "https://plus.google.com/110707830843813891592",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Nice palace",
+            "time" : 1379585780
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "school", "establishment" ],
+      "url" : "https://plus.google.com/105343111436254414424/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 345,
+      "vicinity" : "Janakpur"
+   },
+   "status" : "OK"
+}

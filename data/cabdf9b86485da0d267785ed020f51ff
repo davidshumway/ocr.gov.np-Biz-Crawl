@@ -1,0 +1,90 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Banigama Road",
+            "short_name" : "Banigama Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Koshi",
+            "short_name" : "Koshi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Eastern Region",
+            "short_name" : "Eastern Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "56600",
+            "short_name" : "56600",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eBanigama Road\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e56600\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Banigama Road, 56600, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.579382,
+            "lng" : 87.448267
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "48d7b7c7733c9eaa5a56675acef523d732f3a2f2",
+      "name" : "Chaudhari Medical",
+      "place_id" : "ChIJS_-Tfk577zkRTZllz5km2dE",
+      "reference" : "CnRlAAAAdYqMuWTmW0gS9m-2YB13pubgZiYwJjFG3_K6M1ukKbsjGTkoDsX2AVIPAcBdC-5KjVpdbfh0AdtO0OfO2Kx4XTQ7OlAKe1_f2lQZl7wjRgCAJH_vCgVfM5SXycd790q6McB0eY5ncvGNv0OOf613UhIQDSgT4kMB63fFJBG5pRqcCBoUIoACvyGQVUk-V2_kRFzaYT-YtJc",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 2,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Roshan Katwal",
+            "author_url" : "https://plus.google.com/108523634005727466604",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1364603127
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Dharma R Tamang",
+            "author_url" : "https://plus.google.com/101846754481537861613",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1374759888
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/117911779996084879001/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 345,
+      "vicinity" : "Banigama Road"
+   },
+   "status" : "OK"
+}

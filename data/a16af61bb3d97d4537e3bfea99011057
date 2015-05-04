@@ -1,0 +1,73 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "East-West Highway",
+            "short_name" : "East-West Highway",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Urlabari",
+            "short_name" : "Urlabari",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Koshi",
+            "short_name" : "Koshi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Eastern Region",
+            "short_name" : "Eastern Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "56604",
+            "short_name" : "56604",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eEast-West Highway\u003c/span\u003e, \u003cspan class=\"locality\"\u003eUrlabari\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e56604\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "East-West Highway, Urlabari 56604, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.664152,
+            "lng" : 87.637304
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "ef019c89d88d9d3fd696c794662dfe7b4678b6d2",
+      "name" : "Koirala Despensari",
+      "place_id" : "ChIJ0cN_FL6O5TkROVw_cVkeAkk",
+      "reference" : "CnRlAAAAJFjmjG3ZJwPYgeXb5TkXS_Bv7x96IVzPeSWlh885jqhxNuZlreXJEfiNvMEYx8cn3pQhfNbJO2W7vaaoVtoAMQS-rDwY8qGRc1l9T5_e37ala_tvMv_BhZHY7flq8zDp3RYc84g5NXVKUc3B3iJ6mBIQhUx836gB8AHFM9-62wMQ4hoUULm57E4veHKZCOPvifqRX0sxh18",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Suman Dahal",
+            "author_url" : "https://plus.google.com/112861214342460862145",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1330535910
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/104145149813451922953/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "East-West Highway, Urlabari"
+   },
+   "status" : "OK"
+}

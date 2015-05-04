@@ -1,0 +1,120 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Samakhusi",
+            "short_name" : "Samakhusi",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kathmandu",
+            "short_name" : "Kathmandu",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bagmati",
+            "short_name" : "Bagmati",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "44600",
+            "short_name" : "44600",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Samakhusi, \u003cspan class=\"locality\"\u003eKathmandu\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e44600\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Samakhusi, Kathmandu 44600, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.723419,
+            "lng" : 85.31601000000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "62963288bfe9dfaf8585f6c3dcf5982cde160015",
+      "name" : "Evening Tarkari Market",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1600"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 4:00 – 9:00 pm",
+            "Tuesday: 4:00 – 9:00 pm",
+            "Wednesday: 4:00 – 9:00 pm",
+            "Thursday: 4:00 – 9:00 pm",
+            "Friday: 4:00 – 9:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJSyMNex4Z6zkR9a9fXG4pc-8",
+      "reference" : "CnRqAAAAkOTcwaJu_8BOjE6zY78KKfMpWnC2ABUb4PBVRL0vp9-aX5R1or4UmHAwgXmkqNmZCLRtjzQICUwxDJF0LesY0Q3SRRfs8nmBjTFqVKcFN1qxnG0bTs_0nMMKsa4RRZgaMKvMFjltg3nvc5vlDYJvrRIQVR64fmVTnNgm9l306OVvCBoUfhefCRYQekiGskhSWDe9fOpHlF0",
+      "scope" : "GOOGLE",
+      "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+      "url" : "https://plus.google.com/101490055688975098848/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "Kathmandu"
+   },
+   "status" : "OK"
+}

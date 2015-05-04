@@ -1,0 +1,67 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Karnali Highway",
+            "short_name" : "Karnali Highway",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Karnali",
+            "short_name" : "Karnali",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Mid-Western Region",
+            "short_name" : "Mid-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "21300",
+            "short_name" : "21300",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eKarnali Highway\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e21300\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Karnali Highway, 21300, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 29.134132,
+            "lng" : 81.578368
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "e81b98f3958e6dd3f57eb5d608d9cc21c6f034d0",
+      "name" : "Jite Bazar, Kalikot",
+      "place_id" : "ChIJle8x8z7-ojkR7jx39Ik_TZ0",
+      "reference" : "CnRnAAAAzEJ7VhKeli9nKO_t_A2kdPYdpkwPCFWNHUWneQ0-df96_91TmSNsFKrHPTRNF2OtjtmorhynIhRXvx9pmb5ZZYlaLNlYfAJUH_pO8cP_EzTLCifaNiOmdMHlqhv1dosiETaeEMhoNF5RMcjbiJCuOxIQtEpU-8p-1kyNJo7zgT0W8hoUB-rRhucwIl6LEnz3-7ohtXlX4QI",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "Kalikot",
+            "time" : 1337093043
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/108805165145461011374/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Karnali Highway"
+   },
+   "status" : "OK"
+}

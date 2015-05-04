@@ -1,0 +1,94 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "NH 77",
+            "short_name" : "NH 77",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Sitamarhi",
+            "short_name" : "Sitamarhi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNH 77\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "NH 77, Bihar, India",
+      "formatted_phone_number" : "1800 180 2222",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.588908,
+            "lng" : 85.50118500000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "05d17c52be6dadb3ee8425eeb63e6259efa1e8f2",
+      "international_phone_number" : "+91 1800 180 2222",
+      "name" : "PNB ATM",
+      "place_id" : "ChIJg5WBvSHx7DkR2Y1iFnhdfk0",
+      "reference" : "CmRaAAAAkwpFISz0Qs57gmseYihdbauW24Fj16XKrSutrDSbeNQ_x66Eg2lSiOy2fnDNhhdPCDBi_JC0NrWwgcZuYPx89OEmEwyj-tQ_7SVMoDpgEvcdVvmkhbp3xNW22q_oJ-xDEhAWwJp9GDiy-94v816__gOtGhRGadcuZVn9yWHYYQbMPjTTt9tihQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "ajay singh",
+            "author_url" : "https://plus.google.com/111574653771532227921",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Good",
+            "time" : 1404879696
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "RASHMI REKHA",
+            "author_url" : "https://plus.google.com/109054090529822401997",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "",
+            "time" : 1365015598
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "RAJIV KUMAR",
+            "author_url" : "https://plus.google.com/100316334779451400021",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1383496225
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "atm", "finance", "establishment" ],
+      "url" : "https://plus.google.com/113836512958741238804/about?hl=en-US",
+      "user_ratings_total" : 3,
+      "utc_offset" : 330,
+      "vicinity" : "NH 77",
+      "website" : "http://www.pnbindia.in"
+   },
+   "status" : "OK"
+}

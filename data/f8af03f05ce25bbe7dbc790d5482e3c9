@@ -1,0 +1,138 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "National Highway 125",
+            "short_name" : "NH125",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Tanakpur",
+            "short_name" : "Tanakpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Champawat",
+            "short_name" : "Champawat",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttarakhand",
+            "short_name" : "UK",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "262309",
+            "short_name" : "262309",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNational Highway 125\u003c/span\u003e, \u003cspan class=\"locality\"\u003eTanakpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttarakhand\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e262309\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "National Highway 125, Tanakpur, Uttarakhand 262309, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 29.076444,
+            "lng" : 80.107332
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "8121c7be93137bc8b3ba65487359b49969151ea7",
+      "name" : "LIC of India",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 6:00 pm",
+            "Tuesday: 9:00 am – 6:00 pm",
+            "Wednesday: 9:00 am – 6:00 pm",
+            "Thursday: 9:00 am – 6:00 pm",
+            "Friday: 9:00 am – 6:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJSTOKkiIAoTkReDeARjGBmqs",
+      "reference" : "CmRgAAAAEzLEE6UsdsWLis2N5JZPUfClKeQe0mEK8-78qjMErQ-Re3AA8Ww8kqfgEXS2Wl74SdnnIoMP3tKmz9bGD2sT566Tf3E1TFvf7eTevrCP1Ajtvwo8aqnbdd3rYsrbcqjDEhCGmae11SSibMUMgaSoNv5UGhQb76vXyWeZFZPLcI1TOfWsZTalAw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Munna Singh",
+            "author_url" : "https://plus.google.com/107268870941010788027",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "I am at lic office right now",
+            "time" : 1381591555
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "insurance_agency", "finance", "establishment" ],
+      "url" : "https://plus.google.com/100313052851409523009/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "National Highway 125, Tanakpur",
+      "website" : "http://www.licindia.in/"
+   },
+   "status" : "OK"
+}

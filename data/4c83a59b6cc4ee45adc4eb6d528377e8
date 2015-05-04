@@ -1,0 +1,134 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Kathmandu",
+            "short_name" : "Kathmandu",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "44601",
+            "short_name" : "44601",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Bishalnagar, Kathmandu, Nepal, \u003cspan class=\"locality\"\u003eKathmandu\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e44601\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Bishalnagar, Kathmandu, Nepal, Kathmandu 44601, Nepal",
+      "formatted_phone_number" : "0984-1014544",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.721647,
+            "lng" : 85.335649
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "1f12cd33c6f4e361b28729e1a8c520c0ca3bc2c5",
+      "international_phone_number" : "+977 984-1014544",
+      "name" : "Luminous Battery Invertor",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 8:00 pm",
+            "Tuesday: 9:00 am – 5:00 pm",
+            "Wednesday: 9:00 am – 5:00 pm",
+            "Thursday: 9:00 am – 5:00 pm",
+            "Friday: 9:00 am – 5:00 pm",
+            "Saturday: Closed",
+            "Sunday: 9:00 am – 5:00 pm"
+         ]
+      },
+      "place_id" : "ChIJM4P26WwZ6zkR69aZcw7lcE8",
+      "reference" : "CnRsAAAA1qbdyuOOXJ0FQYjbwZ7_fN4H50UsNA9kYw7-IQafrCXoLnKozNsNFe7RUvwxN7zAHU_EVtNWb1Kup92-CGTVILkz1qkqGfueM3cT7c9MKc_Ji1f2OLsxGv0VVI4KLf-0sXqe7r8FlvmD49Aa9mJQQxIQHRhbzqxLQRfB7e3rarF5zBoUb0yfAPk60d9LgG4Hp3qsW76kMdo",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "sanjay kumar",
+            "author_url" : "https://plus.google.com/110610300172458796750",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Good",
+            "time" : 1395766802
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/115966359127425150565/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Bishalnagar, Kathmandu, Nepal, Kathmandu"
+   },
+   "status" : "OK"
+}

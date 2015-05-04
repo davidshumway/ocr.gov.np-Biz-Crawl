@@ -1,0 +1,90 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Tulsipur",
+            "short_name" : "Tulsipur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Rapti",
+            "short_name" : "Rapti",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Mid-Western Region",
+            "short_name" : "Mid-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "22412",
+            "short_name" : "22412",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eTulsipur\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e22412\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Tulsipur 22412, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.1313,
+            "lng" : 82.298677
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id" : "22a51a2b9f04634da7d9786e8b59a2dc6837cfe5",
+      "name" : "Ekanta Hotel Pvt. Ltd",
+      "place_id" : "ChIJq_3pSX70lzkR2E3JYgXrkAU",
+      "reference" : "CnRoAAAAyUZjJaYLUx2kgeu0ZSofDjhqEbBGLn7gwJ0FPqoQJRLK2pt-1xuQHWr23A430Lk5gdkDTbTZV-ETW-q_DAeQhsnuuwGXK5TAPxCGJ-DVZjOm_7NgLedq3BXD3TrqysaeyWRXvW9oLOhaOlZq0lINVxIQrlNMmGElh3_-OHpMdqfv0xoUxw43t_0D2KAniCZj10QfX251p1E",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "facilities"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Bhupendra Khadka",
+            "author_url" : "https://plus.google.com/117472984070432670446",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1368024838
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Roshan Giri",
+            "author_url" : "https://plus.google.com/113525835820941027224",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "",
+            "time" : 1354810829
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "lodging", "establishment" ],
+      "url" : "https://plus.google.com/105900922031062655559/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 345,
+      "vicinity" : "Tulsipur"
+   },
+   "status" : "OK"
+}

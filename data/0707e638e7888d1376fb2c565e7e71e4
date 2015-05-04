@@ -1,0 +1,79 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "318 National Road",
+            "short_name" : "318 National Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Nyalam",
+            "short_name" : "Nyalam",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Xigaze",
+            "short_name" : "Xigaze",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Tibet",
+            "short_name" : "Tibet",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "China",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e318 National Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNyalam\u003c/span\u003e, \u003cspan class=\"locality\"\u003eXigaze\u003c/span\u003e, \u003cspan class=\"region\"\u003eTibet\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eChina\u003c/span\u003e",
+      "formatted_address" : "318 National Road, Nyalam, Xigaze, Tibet, China",
+      "formatted_phone_number" : "0892 827 2270",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.154993,
+            "lng" : 85.982209
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id" : "8abee7e0e824a96da260ddc3f79da407ef9afe42",
+      "international_phone_number" : "+86 892 827 2270",
+      "name" : "Spicy-Hot Space",
+      "place_id" : "ChIJTxAwO84-6jkRT1mcAaJrE1w",
+      "reference" : "CnRiAAAAHcJwfYiCkiHIyL9dKNJQs0FEiHxFp7IzDNTeVVhNkoy6rHff4YdAN0-W68aW4L45zMq-fDji1djwtj8a-qKHdJopvj4zXWN0ZLlgHxVGy3cWvwytgPrVgn1nQyD56YBtfs_P5ZHOOGPzESTCgOL9vhIQ6OmQoZCVx0vKCvWKfosYABoUPCBYrUlxRT2-csQ4GB-dBo56tW4",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "food"
+               },
+               {
+                  "rating" : 2,
+                  "type" : "decor"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "梁惠霞",
+            "author_url" : "https://plus.google.com/110058689423745112164",
+            "language" : "zh",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1364782350
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "establishment" ],
+      "url" : "https://plus.google.com/104480136236525832979/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 480,
+      "vicinity" : "318 National Road, Nyalam, Xigaze",
+      "website" : "http://www.makong.cn/"
+   },
+   "status" : "OK"
+}

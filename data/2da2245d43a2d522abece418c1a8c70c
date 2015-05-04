@@ -1,0 +1,93 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1",
+            "short_name" : "1",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "East-West Highway",
+            "short_name" : "East-West Highway",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Itahari",
+            "short_name" : "Itahari",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Koshi",
+            "short_name" : "Koshi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Eastern Region",
+            "short_name" : "Eastern Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "56705",
+            "short_name" : "56705",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eEast-West Highway 1\u003c/span\u003e, \u003cspan class=\"locality\"\u003eItahari\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e56705\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "East-West Highway 1, Itahari 56705, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.662503,
+            "lng" : 87.276301
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "e1b36196461618474db5299d4c8b510a57b3b259",
+      "name" : "NABIL Bank",
+      "place_id" : "ChIJk-zucG5s7zkRvxcOw_7FKd4",
+      "reference" : "CmReAAAARBO1yt2ZE1MmZleVuUsvq2RzyqH-Oo9FkUve2CymC74lm-Ww-QQP_hNjbx4l5CmH3lF0tgfVJ-vN1O4hGMgys_ATjUHMHGhI1E0e6v-V-HHUu_w4aY01o7HXI2np6WHYEhABiIy_CGwY2CqnRxTIr4MpGhRoL8g_pRknHoLOEWpjFlrO6-BOvw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "milan shivakoti",
+            "author_url" : "https://plus.google.com/117108743393096741819",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Areapl police station ithari",
+            "time" : 1387780189
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Keshav Katuwal",
+            "author_url" : "https://plus.google.com/100033661478410702360",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1404826933
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "bank", "finance", "establishment" ],
+      "url" : "https://plus.google.com/112272867056319388153/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 345,
+      "vicinity" : "East-West Highway 1, Itahari",
+      "website" : "http://www.nabilbank.com/"
+   },
+   "status" : "OK"
+}

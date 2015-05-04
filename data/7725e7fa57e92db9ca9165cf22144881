@@ -1,0 +1,86 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Darjeeling",
+            "short_name" : "Darjeeling",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "H.D. Lama Road, \u003cspan class=\"street-address\"\u003eMount Pleasant Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eDarjeeling\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "H.D. Lama Road, Mount Pleasant Road, Darjeeling, West Bengal, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.04378,
+            "lng" : 88.26573999999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id" : "7ed50f9691fc8cba2eef6808708f617ad1db6f0d",
+      "name" : "Mohit Hotel",
+      "place_id" : "ChIJzw4nyUAu5DkRxzzOlvcWTqs",
+      "reference" : "CmRfAAAAzJvJoFaE-TnXeONU6p6lYvglfbDO3kLAFssAHw4TQ-MJVx4eisKythiUtqNd5nEN6WbD1us9gqj-MvGumiPZdKFYJ_IXci45sDkxtQnoPZElVCeWsSRXzOWpNkZHV9J6EhBn962H3HQCXlfRUdQgzXF-GhSlNUyammUZ3lHTMu7dYcwkySb6kg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "MOHIT CHHETRI",
+            "author_url" : "https://plus.google.com/116425570188951065796",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "Okay good",
+            "time" : 1382580116
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "samir sarkar",
+            "author_url" : "https://plus.google.com/112545164189218732936",
+            "language" : "en",
+            "rating" : 1,
+            "text" : "",
+            "time" : 1420509627
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 1,
+            "text" : "",
+            "time" : 1340114650
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "lodging", "establishment" ],
+      "url" : "https://plus.google.com/114797197858746756810/about?hl=en-US",
+      "user_ratings_total" : 3,
+      "utc_offset" : 330,
+      "vicinity" : "H.D. Lama Road, Mount Pleasant Road, Darjeeling",
+      "website" : "http://www.hotelmohit.chobs.in/"
+   },
+   "status" : "OK"
+}

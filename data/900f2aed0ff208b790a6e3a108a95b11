@@ -1,0 +1,157 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Pragatinagar Rampur Highway",
+            "short_name" : "Pragatinagar Rampur Hwy",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bejhand Bazar",
+            "short_name" : "Bejhand Bazar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Rampur",
+            "short_name" : "Rampur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Lumbini",
+            "short_name" : "Lumbini",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Western Region",
+            "short_name" : "Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "32500",
+            "short_name" : "32500",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003ePragatinagar Rampur Highway\u003c/span\u003e, \u003cspan class=\"locality\"\u003eRampur\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e32500\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Pragatinagar Rampur Highway, Rampur 32500, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.860128,
+            "lng" : 83.89615999999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+      "id" : "7e1d8a5d41ceed4fc0dabd6d71d278bdeb65551e",
+      "name" : "Gyanendra Oil & General Stores",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0600"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 6:00 am – 8:00 pm",
+            "Wednesday: 6:00 am – 8:00 pm",
+            "Thursday: 6:00 am – 8:00 pm",
+            "Friday: 6:00 am – 8:00 pm",
+            "Saturday: 6:00 am – 8:00 pm",
+            "Sunday: 6:00 am – 8:00 pm"
+         ]
+      },
+      "place_id" : "ChIJMTIe4UnKlTkRQW94TKeZ6T8",
+      "reference" : "CoQBcQAAAM4NbDBUmwZe31V4roWlv_DeGAaDFHuQQs6E3IGHb9m6uhhYcIaQydyX4MbxfP0gPMU7WQPm0Da-hiVztyx94rQhfyEPRZRNwpsALssc36K_DpZVv61ei9fBX0q66vAtAFB5fcnfDYS08w82E5WkDtyYCFtGR3FZJvr3GriD6BchEhAAYQinXZ-E3pD0OjFXq7UgGhQ-5TNvwmnzfs-teK7Q0dijmm148Q",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1421689042
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [
+         "gas_station",
+         "grocery_or_supermarket",
+         "food",
+         "store",
+         "establishment"
+      ],
+      "url" : "https://plus.google.com/112921491459587533091/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Pragatinagar Rampur Highway, Rampur"
+   },
+   "status" : "OK"
+}

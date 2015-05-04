@@ -1,0 +1,79 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Bheri",
+            "short_name" : "Bheri",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Mid-Western Region",
+            "short_name" : "Mid-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "21800",
+            "short_name" : "21800",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Bheri, \u003cspan class=\"postal-code\"\u003e21800\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Bheri, 21800, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.29872,
+            "lng" : 81.43058000000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "729a62af18632fba4eb2fe630b50734cc02d2338",
+      "name" : "Ram Medical",
+      "photos" : [
+         {
+            "height" : 320,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CnRrAAAAZcTwA60NatQg7kV1_YCgEYoTFBcHmrFsZYx8OouAPneNCarNAloxKPvv-JdpGA1RRF-XHmaJxl7_4Mc6E9Mri71u8-vH6E_UH9o3t1n5kjpkkQSgPQTzBm1yYaXodoT47PkSohjLbkTBHLO4fPyLVRIQfCYw6Kh6KAwts--e9sSNzxoU_Paa4H6bylXCBv5I4kRPiRbksjs",
+            "width" : 400
+         }
+      ],
+      "place_id" : "ChIJS9RA1aeGmDkRAjnGnt9s11c",
+      "reference" : "CmReAAAAFEFfvwDR0SdWzMPU2iInhI840kNvK2YIofwHHPi5_LcmygGprfQfCGaYqME5lk0dFX9rZU8tEVFhXV1KLakESPjCNf4Z7gjY59XaJ9xYJCqw15L7dRoxJFJoE-eXX3yTEhABPrz-fXzEt-OO-loZk8_5GhT1Cvy_ArjYyCmQJEFP4EANgpxzCQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Gokarna Khatri",
+            "author_url" : "https://plus.google.com/106968760341932518727",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1408358371
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/101471585407034138665/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : ""
+   },
+   "status" : "OK"
+}

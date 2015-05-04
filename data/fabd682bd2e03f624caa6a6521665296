@@ -1,0 +1,83 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "East-West Highway",
+            "short_name" : "East-West Highway",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Damak",
+            "short_name" : "Damak",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Mechi",
+            "short_name" : "Mechi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Eastern Region",
+            "short_name" : "Eastern Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "57217",
+            "short_name" : "57217",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eEast-West Highway\u003c/span\u003e, \u003cspan class=\"locality\"\u003eDamak\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e57217\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "East-West Highway, Damak 57217, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.659596,
+            "lng" : 87.696873
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "a3016b0e7945aee2402458226fa3eb77ae1f68da",
+      "name" : "Jhapa Medico",
+      "photos" : [
+         {
+            "height" : 400,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/110913372931078903534\"\u003eHem Limbu\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAkEuuUoqeXQhvipRfUNt2Bp_hwrDDObxdLjfX8GAfA3R-2QsF9LF7gjFa3zaHGBSBZh1lEUtEWWqKMx0owXI_enkmNWYaeGK0Km2jUVa5U5YEhnTmjk1H1k9D2xQaeUnq3xVZNdg3VFrcwcWQ6BYeURIQWvkyG58nLACcmRtp2KIGzxoUgRBtvox75I6rJP7CeWAjTsXggOw",
+            "width" : 400
+         }
+      ],
+      "place_id" : "ChIJ8a0LECCO5TkRzm4fxrKUUok",
+      "reference" : "CmRgAAAA16dkMBq1KsBhm6LqW4QwXSXSfqRkrqEkw-ZdCez_WM8oRLMaxWORXb4zqXb_H4zQadZ4D6uGSWIrcD6D70BWIHR3Vr0LniAxy2hi3lF9KhFz56nGOfpnEGOrsy-mkHENEhA9gr-Ea3eejG1R7VAF68G2GhRxNMw66XXZqf7xolEWNDrTEMQRcw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Raja Debnath",
+            "author_url" : "https://plus.google.com/117692931385410260116",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1429703736
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/101323550260768635497/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "East-West Highway, Damak"
+   },
+   "status" : "OK"
+}

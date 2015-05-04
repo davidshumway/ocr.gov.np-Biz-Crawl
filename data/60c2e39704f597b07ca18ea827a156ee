@@ -1,0 +1,105 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Purvi Champaran",
+            "short_name" : "Purvi Champaran",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "Purvi Champaran, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Purvi Champaran, Bihar, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.835582,
+            "lng" : 85.071584
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "0cc3e6fc6b51940a52cca997cb17d49ad00fa7ea",
+      "name" : "Badshai House",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0700"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 7:00 am – 6:00 pm",
+            "Tuesday: 7:00 am – 6:00 pm",
+            "Wednesday: 7:00 am – 6:00 pm",
+            "Thursday: 7:00 am – 6:00 pm",
+            "Friday: 7:00 am – 6:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJd-klI-Sw7DkRIzgPfqENkF4",
+      "reference" : "CmRgAAAACQ9lKlIawd5sgBCxhdW4TlkGJffHZNq3b6E7bqjhE_Lg1OA22XObvMP4XBG1gJ98alQSXj8KpPTENgjZ9PBGIZU8txF6V5JNxhbty4KIeyygW4G-Rx0cl7antO3mDEeMEhDFloZoQH8GEfHJ9SokmsmVGhSZ7s82yC7D4u_HiUPJEig2WddyOg",
+      "scope" : "GOOGLE",
+      "types" : [ "food", "store", "establishment" ],
+      "url" : "https://plus.google.com/114520307162814124181/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : ""
+   },
+   "status" : "OK"
+}

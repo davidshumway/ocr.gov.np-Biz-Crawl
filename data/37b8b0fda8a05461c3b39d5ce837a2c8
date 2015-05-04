@@ -1,0 +1,159 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Kohalpur",
+            "short_name" : "Kohalpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bheri",
+            "short_name" : "Bheri",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Mid-Western Region",
+            "short_name" : "Mid-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "21904",
+            "short_name" : "21904",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eKohalpur\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e21904\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Kohalpur 21904, Nepal",
+      "formatted_phone_number" : "081-541663",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.181813,
+            "lng" : 81.68895000000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "268226f267c99b76e28f523c35dbef2c88608287",
+      "international_phone_number" : "+977 81-541663",
+      "name" : "Bageshwari Academy",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 4:00 pm",
+            "Tuesday: 10:00 am – 4:00 pm",
+            "Wednesday: 10:00 am – 4:00 pm",
+            "Thursday: 10:00 am – 4:00 pm",
+            "Friday: 10:00 am – 4:00 pm",
+            "Saturday: Closed",
+            "Sunday: 10:00 am – 4:00 pm"
+         ]
+      },
+      "place_id" : "ChIJo-Sr0YBlmDkRy6SKLSa_j_Y",
+      "reference" : "CnRmAAAAqF7M9u79lLm4Rno3uHdztH1Z95KQlAd2x438P7P_I7FndBg-Evk4NXdNv6P9_Aod5kq-OIlG5uKpm6u7ypADo-fZy93t_0A_5TJKiF2LmEIXOtBaG0Ko1_jYH2t34vxm1bY86VyzH-GXsbXsegHSwRIQLMjZaTMFP5p6MqUyMEQZRxoUfE9JtPAw5G18b89wQeeLRw6iEYM",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Dipesh Aryal",
+            "author_url" : "https://plus.google.com/100051701063515858321",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "My best school",
+            "time" : 1392380723
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "premjeet kumar",
+            "author_url" : "https://plus.google.com/116757402751026886094",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1406118655
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "school", "establishment" ],
+      "url" : "https://plus.google.com/104709958552524150276/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 345,
+      "vicinity" : "Kohalpur",
+      "website" : "http://baemss.edu.np/"
+   },
+   "status" : "OK"
+}

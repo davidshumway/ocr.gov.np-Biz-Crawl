@@ -1,0 +1,88 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Bhojpur",
+            "short_name" : "Bhojpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Eastern Region",
+            "short_name" : "Eastern Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eBhojpur\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Bhojpur, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.157752,
+            "lng" : 87.050872
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "af03d563ac4723a59eac642c111ab5bae4c53913",
+      "name" : "Taksar Bazar",
+      "photos" : [
+         {
+            "height" : 480,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CnRsAAAAvef7J-21y9yyWglT7SZd9yeqELTxoK5WmtUAZylNPXQsnOxRUujX96QfKsx6G5DoLzAK0QBJKCeiugtRGSuupNZaQYVaGWimTg1vrwQG5A0ZSjeCx5EI5mliSpHDOsI2j-jRWVOafvk7esxOZpbwjhIQFBR7_LqikunBsI6vOEn6RRoUMftOzJCA8PZ0BtZpADfc8DqpVUE",
+            "width" : 640
+         }
+      ],
+      "place_id" : "ChIJ5Y_7H7vS6DkRwd1Ndb80cek",
+      "reference" : "CmRgAAAAgtHTUtBd8eV1V_R2_Bej37DW5nHqKo8dKgMrvE_lYIoq4GdXfnZci1JAzKUdnG6dQlKCmDNrLZpCnbqGMzb5IAceEVPJyH0rsH-uEtsRwmKl66svZdTUjsAC7M9QTFPcEhBdlGEzC1qxZliKZZXd8rGVGhTOQlriJF6MxXSgwLBcE960WGNpsg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Gajendra Udas",
+            "author_url" : "https://plus.google.com/105967555095466538467",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "W",
+            "time" : 1417081007
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "facilities"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Subodh SHAKYA",
+            "author_url" : "https://plus.google.com/100353611093506525601",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1368671945
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/103999326046856781751/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 345,
+      "vicinity" : "Bhojpur"
+   },
+   "status" : "OK"
+}

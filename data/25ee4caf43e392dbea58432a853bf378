@@ -1,0 +1,74 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Old Bank Road",
+            "short_name" : "Old Bank Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Ghorahi",
+            "short_name" : "Ghorahi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Rapti",
+            "short_name" : "Rapti",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Mid-Western Region",
+            "short_name" : "Mid-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "22400",
+            "short_name" : "22400",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eOld Bank Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eGhorahi\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e22400\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Old Bank Road, Ghorahi 22400, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.042765,
+            "lng" : 82.487268
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "494dbb7b928af440a3e7c574a087e74738ee8f58",
+      "name" : "Nepal Bank Limited",
+      "place_id" : "ChIJe36NQGOUlzkRPzj75ozJPfk",
+      "reference" : "CnRmAAAAFBrqMqBhMFWyGEAALc3pDrQSDMGx51zmSBaFhQZYc_KD9B7uh78g1lb45UC55Nky2ToZCg-HDnpjQFEgNNzLDtFafEKiLN4diW-cQzCq5ZyZO3FqGLAqcOFyDmGan2wipQKo-69pCfYlts6b045JnBIQaNz5Pm77H4-51oUdhB1yMxoUXUuJ1qWLzEGOsMeAMce4Y5Ak6EM",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "samir dahal",
+            "author_url" : "https://plus.google.com/117194379445436302912",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1389940458
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "bank", "finance", "establishment" ],
+      "url" : "https://plus.google.com/111857033235255272106/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Old Bank Road, Ghorahi",
+      "website" : "http://www.nepalbank.com.np/"
+   },
+   "status" : "OK"
+}

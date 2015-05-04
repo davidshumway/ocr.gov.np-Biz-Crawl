@@ -1,0 +1,135 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Tanakpur",
+            "short_name" : "Tanakpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Champawat",
+            "short_name" : "Champawat",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttarakhand",
+            "short_name" : "UK",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "262309",
+            "short_name" : "262309",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eTanakpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttarakhand\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e262309\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Tanakpur, Uttarakhand 262309, India",
+      "formatted_phone_number" : "1800 180 4031",
+      "geometry" : {
+         "location" : {
+            "lat" : 29.071835,
+            "lng" : 80.114536
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "ea16d29d3d3c5760d640d92f8adffd5d52fcb8db",
+      "international_phone_number" : "+91 1800 180 4031",
+      "name" : "Nainital Bank",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 4:00 pm",
+            "Tuesday: 10:00 am – 4:00 pm",
+            "Wednesday: 10:00 am – 4:00 pm",
+            "Thursday: 10:00 am – 4:00 pm",
+            "Friday: 10:00 am – 4:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJpdDsmxYAoTkRgHS3zsWN1cY",
+      "reference" : "CnRhAAAAquFMG-UlgbDnxiPVpYVVmPa2p4SG8o48ETbtrC66zhBdHhU7_I6nmR8qFgu3YyZWPxfcRzg9coJezTvl7fuQUemWQlDQcAGaadKTMSiCEe9QF1YnMu_aOtbjuXpPWQ9YYfm598BYqxB5b3ykiFDrMxIQ-e2amEXy10ZN7Zx3GU79yxoUcFlq8gMjXRjsiJyeFgvFUl9nXdc",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Sanjay Tewari",
+            "author_url" : "https://plus.google.com/117128118805598969590",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "No 1 bank in tanakpur",
+            "time" : 1403164061
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "bank", "finance", "establishment" ],
+      "url" : "https://plus.google.com/100763554097061059733/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Tanakpur",
+      "website" : "http://nainitalbank.co.in/"
+   },
+   "status" : "OK"
+}

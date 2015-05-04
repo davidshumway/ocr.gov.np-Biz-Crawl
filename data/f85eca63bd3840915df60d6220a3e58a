@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "219 National Road",
+            "short_name" : "219 National Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Zhongba",
+            "short_name" : "Zhongba",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Xigaze",
+            "short_name" : "Xigaze",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Tibet",
+            "short_name" : "Tibet",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "China",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e219 National Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eZhongba\u003c/span\u003e, \u003cspan class=\"locality\"\u003eXigaze\u003c/span\u003e, \u003cspan class=\"region\"\u003eTibet\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eChina\u003c/span\u003e",
+      "formatted_address" : "219 National Road, Zhongba, Xigaze, Tibet, China",
+      "geometry" : {
+         "location" : {
+            "lat" : 30.271941,
+            "lng" : 82.953609
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id" : "f2b9c021bb708885f29b150ea0c6433874343d73",
+      "name" : "Tea House Hotel",
+      "place_id" : "ChIJTcg_9_SeuzkRwiSgDoWRiJE",
+      "reference" : "CnRjAAAA6pVDdc_PTPIdptTj_ZQ84nsBSZNGATP95B0COrISwD6wMVyS7QYsPtU_T5a6-H9CUIIVg3FlYb4QJprtyxqBlcMkvC8raP3FeGKnDAO1ct5MHKxEfFPa4hN210IgrWVDXgMPbl_8KNeXrVvM3MUfLRIQ8ua0doh6DH9YmA9BFACN6RoUPFqdLI_xUMdmwqUfdENCoLacIXM",
+      "scope" : "GOOGLE",
+      "types" : [ "lodging", "establishment" ],
+      "url" : "https://plus.google.com/107868717614670236461/about?hl=en-US",
+      "utc_offset" : 480,
+      "vicinity" : "219 National Road, Zhongba, Xigaze"
+   },
+   "status" : "OK"
+}

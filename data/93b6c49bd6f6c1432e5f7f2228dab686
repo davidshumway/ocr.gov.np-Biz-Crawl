@@ -1,0 +1,154 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "East West Highway",
+            "short_name" : "East West Highway",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Nayaroad",
+            "short_name" : "Nayaroad",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Hariyon",
+            "short_name" : "Hariyon",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Janakpur",
+            "short_name" : "Janakpur",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "45804",
+            "short_name" : "45804",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Nayaroad-6, \u003cspan class=\"street-address\"\u003eEast West Highway\u003c/span\u003e, \u003cspan class=\"locality\"\u003eHariyon\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e45804\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Nayaroad-6, East West Highway, Hariyon 45804, Nepal",
+      "formatted_phone_number" : "046-530111",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.096668,
+            "lng" : 85.52603999999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "1a9a8c829469e06f79bcce4d6ccbb833620b1383",
+      "international_phone_number" : "+977 46-530111",
+      "name" : "Khadka Hardware",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0600"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 6:00 am – 10:00 pm",
+            "Tuesday: 6:00 am – 10:00 pm",
+            "Wednesday: 6:00 am – 10:00 pm",
+            "Thursday: 6:00 am – 10:00 pm",
+            "Friday: 6:00 am – 10:00 pm",
+            "Saturday: 6:00 am – 10:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJtzYh9vuB7DkResAQDlykfMo",
+      "reference" : "CnRjAAAA5MqnQ8f04aL4GhBzA3IM42xipbyYEelf7mlzdDyQds8XWsuSk4S8KPA-YDrEYjDN55cKOsk2CTpNtdvpv4s7PXT5UXPGo0akMFUh0IcyapMS8GvJIW9v6HabLFLEN13VTTfybXgc8EBMS4kwkovjERIQbzViBR_maxgbF2q3Ax6FPxoUArw46zMMIRWieWPH3e76O76gZSc",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Sun deep",
+            "author_url" : "https://plus.google.com/113344874149688956172",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "My home",
+            "time" : 1430293159
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/107638614140506879913/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Nayaroad-6, East West Highway, Hariyon"
+   },
+   "status" : "OK"
+}

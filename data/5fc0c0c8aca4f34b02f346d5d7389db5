@@ -1,0 +1,103 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Jyatha",
+            "short_name" : "Jyatha",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Thamel",
+            "short_name" : "Thamel",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kathmandu",
+            "short_name" : "Kathmandu",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bagmati",
+            "short_name" : "Bagmati",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "Jyatha, \u003cspan class=\"locality\"\u003eKathmandu\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Jyatha, Kathmandu, Nepal",
+      "formatted_phone_number" : "01-4229234",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.711755,
+            "lng" : 85.31297600000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id" : "a599ca2cc81c87ef3f65163595be8ca7a4dee9f2",
+      "international_phone_number" : "+977 1-4229234",
+      "name" : "Fuji Hotel",
+      "place_id" : "ChIJ____7_0Y6zkRB8f4wRvyDLo",
+      "reference" : "CmReAAAA_cKpIFB_0IUT3BEcsjUeRc8UtMImqLPKtgMGETDHPL68ETKsAvhFu_qhmpVhdrF0EJlItxCAKlSmIL1Vsq7rIBxF_YW1g2TIK855Yg1Rd4JIcM9yNa9WlboYg8PtA8XeEhC5d5MsnbxaNNh3x3YIi1iBGhTedHavHO9Pv-mWI3zSX9kew7csaw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Katrina Kuo",
+            "author_url" : "https://plus.google.com/111543664732786607478",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Spacious and clean rooms.  Excellent bathroom with well-running, hot water.  Great central location.  The service here is awesome!  Everyone is so friendly.  Feel free to just out in the lobby and chat.  The service is also very professional; just ask for what you need and they'll do everything possible to make it work for you.  ",
+            "time" : 1364775080
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Nice rooms and professional service",
+            "time" : 1301307125
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Andy Braund",
+            "author_url" : "https://plus.google.com/107678711098823094578",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1387048130
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "lodging", "establishment" ],
+      "url" : "https://plus.google.com/117688754519026719847/about?hl=en-US",
+      "user_ratings_total" : 3,
+      "utc_offset" : 345,
+      "vicinity" : "Jyatha, Kathmandu",
+      "website" : "http://www.fujihotel.com.np/"
+   },
+   "status" : "OK"
+}

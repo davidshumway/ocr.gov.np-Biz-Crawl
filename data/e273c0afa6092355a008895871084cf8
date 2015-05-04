@@ -1,0 +1,79 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "State Highway 29",
+            "short_name" : "SH 29",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Officer's Colony",
+            "short_name" : "Officer's Colony",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Pilibhit",
+            "short_name" : "Pilibhit",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Pilibhit",
+            "short_name" : "Pilibhit",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "262001",
+            "short_name" : "262001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eState Highway 29\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eOfficer&#39;s Colony\u003c/span\u003e, \u003cspan class=\"locality\"\u003ePilibhit\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e262001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "State Highway 29, Officer's Colony, Pilibhit, Uttar Pradesh 262001, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.640638,
+            "lng" : 79.818361
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "ff7dc72c789f6e5b5540b06fdc41ee79badc9443",
+      "name" : "ICICI Bank ATM",
+      "place_id" : "ChIJx6882Ec_oDkRS0UpfPCAn70",
+      "reference" : "CnRiAAAAKbE41ggTmCTGBvQ4D9fW2GWtuLi0iEyVKB6FMGb8MH_jdFXpxqWCIeU-vozrsAIPpRmj4semxGfiECLRm4Y5KYE5vm-QhQBthwM_FJIseIC9MxatDgIKQyC3tRPt_gat_NXA4VzTaNg1R2KK1yy80RIQOp1UktF82_b4BZ9xM26w5xoUqqBbEhefv2F3SM7iSXiJdwlfcIo",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "monu khan",
+            "author_url" : "https://plus.google.com/107806394923565755671",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1410409456
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "atm", "finance", "establishment" ],
+      "url" : "https://plus.google.com/116586282293712547765/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "State Highway 29, Officer's Colony, Pilibhit",
+      "website" : "http://www.icicibank.com/find-atm-branch.page"
+   },
+   "status" : "OK"
+}

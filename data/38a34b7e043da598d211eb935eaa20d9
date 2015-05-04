@@ -1,0 +1,132 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Gulmohar road..",
+            "short_name" : "Gulmohar road..",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "GolBazar Road",
+            "short_name" : "GolBazar Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Golbazar",
+            "short_name" : "Golbazar",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Asanpur",
+            "short_name" : "Asanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Sagarmatha",
+            "short_name" : "Sagarmatha",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Eastern Region",
+            "short_name" : "Eastern Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "56500",
+            "short_name" : "56500",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eGolBazar Road Gulmohar road..\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAsanpur\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e56500\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "GolBazar Road Gulmohar road.., Asanpur 56500, Nepal",
+      "formatted_phone_number" : "033-540001",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.792449,
+            "lng" : 86.329841
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "5505b21561f1878bf1f5164651ae33c4db7a31f1",
+      "international_phone_number" : "+977 33-540001",
+      "name" : "Pushpa Medico Enterprises",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 am – 5:00 pm",
+            "Tuesday: 8:00 am – 5:00 pm",
+            "Wednesday: 8:00 am – 5:00 pm",
+            "Thursday: 8:00 am – 5:00 pm",
+            "Friday: 8:00 am – 5:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJnW8OloSh7jkR9ndyhNu0BHw",
+      "reference" : "CnRsAAAANDHHlLjg2JMXDiKDC0y6VH-3gS1Np-ssCuO3OwUnWn_F7OXSEbQGf6DJqsDszstwMViYu97t9LFqElSq077vY27E4JzLASke_FbHxeNh6RAoNpoKV1qGSd3IGHEiTZKqdBi5kxY3DT6nPc4vaNGLGxIQQiKPR8SYp_UlN5ktYVVK1hoUUT_9Ihsc9Z7kKLXHhNfh2rR7GDQ",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/111263712178883247692/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "GolBazar Road Gulmohar road.., Asanpur"
+   },
+   "status" : "OK"
+}

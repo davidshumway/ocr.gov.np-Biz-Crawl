@@ -1,0 +1,59 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Kathmandu",
+            "short_name" : "Kathmandu",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "44601",
+            "short_name" : "44601",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Bhandari Tol, \u003cspan class=\"locality\"\u003eKathmandu\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e44601\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Bhandari Tol, Kathmandu 44601, Nepal",
+      "formatted_phone_number" : "0984-3220441",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.741158,
+            "lng" : 85.317544
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "3dc1b90d402a7d8cc88ae7e26378a25d13dddb41",
+      "international_phone_number" : "+977 984-3220441",
+      "name" : "GadgetNeed",
+      "place_id" : "ChIJHZWyoigZ6zkRqGsaOL1OPsM",
+      "reference" : "CmReAAAAXSlW_HVJP5Vsp-A4aYEdcdEJLxc50m-Z1J1pIETPrCacAO878vWCMSX1HiBBz1RcN10fJgiYaXniSItF5-a8O3i8pEdImX3cjYK9LlEul2gVOAnRJ_gSjjE-sdBrJj3cEhBb5uQLiUN-9bXPqqRRfZINGhSiWPQ_LcbvhlsyLlUoUiAbpqp6zA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1377082493
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "store", "establishment" ],
+      "url" : "https://plus.google.com/110401349752147269908/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Bhandari Tol, Kathmandu"
+   },
+   "status" : "OK"
+}

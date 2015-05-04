@@ -1,0 +1,81 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Seti",
+            "short_name" : "Seti",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Far-Western Region",
+            "short_name" : "Far-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10900",
+            "short_name" : "10900",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Seti, \u003cspan class=\"postal-code\"\u003e10900\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Seti, 10900, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.675622,
+            "lng" : 80.95749600000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "4173bc4e0c237a1b6423eb18601010d263736f01",
+      "name" : "Om Pharmacy",
+      "photos" : [
+         {
+            "height" : 768,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/109762707920040965281\"\u003eLS CHY\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAPBI3Ae9cbDDqu8hXOleFsqFbQne_fnJxIOMC15Es_USIywvncigPBY1sn4mdw2nb1_prRDSw3hPmgeWu2APs232LCaQ3TyXGHwjL0WPN9SyhvzAfe3EYj2vSkqX-PgUvgqBG0_AbsAX2lHtqGwRmfBIQCq_QqR97zCk9Pjqp1uaxJhoUi5xNzRfOtgnsoJZaXKwo1NcU5d8",
+            "width" : 1024
+         }
+      ],
+      "place_id" : "ChIJJzmYur0ZojkRy_FQsJkXSC0",
+      "reference" : "CmReAAAANxPj7eIsfqnrD6BgxYtahQMjX1Bxjj5jSAVFVje15DrccHG-vDv6UF6hpEMRby6vYWd3XMztlsqzGMgEriPkCOO-WrBNIPmnwvs0W9sHazURInEOo7_VCkFZXpZKMlLcEhDOcZv5LXF7ZjLQIX2KAx1cGhTDweWEIuOTswWU62JMcZtc_NVaWQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 2,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Aarjan Stha",
+            "author_url" : "https://plus.google.com/105784248044533679838",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Balkrishna medical",
+            "time" : 1366368333
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/116491966345882348964/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : ""
+   },
+   "status" : "OK"
+}

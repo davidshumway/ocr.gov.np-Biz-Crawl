@@ -1,0 +1,104 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "10",
+            "short_name" : "10",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Godam",
+            "short_name" : "Godam",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Banepa",
+            "short_name" : "Banepa",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bagmati",
+            "short_name" : "Bagmati",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "45210",
+            "short_name" : "45210",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e10\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBanepa\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e45210\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "10, Banepa 45210, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.627664,
+            "lng" : 85.52329899999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "27a7fd43c00b904f7231dfac82c9c7f0460f4ccc",
+      "name" : "BS Graphic Design",
+      "place_id" : "ChIJdzNDTtII6zkRgXM_JK6_KJ8",
+      "reference" : "CnRlAAAAqpYHdZUdTVEQk_9SEaB122Xnrsbca75X40UbSUYC-N2XEGP5XTVFJKVH4dE8cBWCRDMZJhIlFgz9NNKXfJecxV4o9NbG3jB1XQ270PH47FHZs9X9DSK0qrDBzJq1qOMLRBhH33_KuQt8TZLu_KRjVRIQxKffZSkjsvRwU_Kc-f9_vhoUBtCl4W-jb2cpZ39ngQdqGx3t8lM",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Nirmal Manandhar",
+            "author_url" : "https://plus.google.com/111207603520406303519",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1373265473
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1326598877
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1340798087
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/113118482800267855058/about?hl=en-US",
+      "user_ratings_total" : 3,
+      "utc_offset" : 345,
+      "vicinity" : "10, Banepa"
+   },
+   "status" : "OK"
+}

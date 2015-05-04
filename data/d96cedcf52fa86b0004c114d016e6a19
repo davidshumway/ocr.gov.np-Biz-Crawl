@@ -1,0 +1,159 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Nabin Sen Road",
+            "short_name" : "Nabin Sen Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Ward 10",
+            "short_name" : "Ward 10",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Janta Nagar",
+            "short_name" : "Janta Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Siliguri",
+            "short_name" : "Siliguri",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Darjeeling",
+            "short_name" : "Darjeeling",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "734001",
+            "short_name" : "734001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNabin Sen Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eWard 10, Janta Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eSiliguri\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e734001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Nabin Sen Road, Ward 10, Janta Nagar, Siliguri, West Bengal 734001, India",
+      "formatted_phone_number" : "0353 243 1856",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.71947,
+            "lng" : 88.42179400000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "1c8defb40ac08e1f96cceefd015121e26af54bad",
+      "international_phone_number" : "+91 353 243 1856",
+      "name" : "ESKAY DIESEL",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0930"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:30 am – 7:00 pm",
+            "Tuesday: 9:30 am – 7:00 pm",
+            "Wednesday: 9:30 am – 7:00 pm",
+            "Thursday: 9:30 am – 7:00 pm",
+            "Friday: 9:30 am – 7:00 pm",
+            "Saturday: 9:30 am – 7:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJrzJfbhVB5DkRO1jR8-8PnGc",
+      "reference" : "CmRfAAAAPoItUmyl9MYWGPeVprEwrpqbNK_wfbFVNsq_4lq_Om-5PFiY7kh7Sk6KqGX9svkLRlwoLhaF1lhq4ReQl9VXPpd2jYfu4NktDl3enWXi1bkbjJFcFmodjQt0eoknQ6XqEhDTgGuYm0k6QuMr8Xh2eHmfGhRMgWNFmZjw8VKqYpcLIqydwPj5MA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Saksham Chaurasiaa",
+            "author_url" : "https://plus.google.com/100450741352913142826",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1430473058
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/113382120974938061972/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Nabin Sen Road, Ward 10, Janta Nagar, Siliguri"
+   },
+   "status" : "OK"
+}

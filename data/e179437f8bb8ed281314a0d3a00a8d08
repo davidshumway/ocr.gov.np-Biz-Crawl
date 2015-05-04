@@ -1,0 +1,86 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Tamghas",
+            "short_name" : "Tamghas",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Lumbini",
+            "short_name" : "Lumbini",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Western Region",
+            "short_name" : "Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "32600",
+            "short_name" : "32600",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eTamghas\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e32600\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Tamghas 32600, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.065772,
+            "lng" : 83.24424500000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id" : "6c0debac9cc10837e2345f84abcf7d2598ef28e6",
+      "name" : "Shivasakti Cinema Hall",
+      "photos" : [
+         {
+            "height" : 290,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/104619675104710998432\"\u003eHari Kunwar\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAyhbAncCdkh9Uregi8zkXk9ztD1vn2dzNSJ9D7sHrJGu5JOq-5aBD0NlCJZNSvUDdBbQDYnbciFqTfJPQKt1uEEf83jhp18imFgy-ZUv6qFVlHj4B8FFqNEt_A91zcnCVMCo7Sxa0jWxAUHaz3elY2hIQUh8YEL0l5rcY5wQg7XimuhoUpw14WDk-qywpjYytOJ3yLw8OcGA",
+            "width" : 240
+         }
+      ],
+      "place_id" : "ChIJcQEAzN1BljkR1QaFZQ2FrxI",
+      "reference" : "CnRpAAAAoamQFAOMkvQobbVCHcgZE22aZGrzajAyvstf_7mH9qZ1F8Z_K-fzaucAX1skijmTcMNjSutkKBnE31q3RbL6AP1cHBNiSU_aPGpMKpW6RvdP4w61dKbMMSy0FKsN6sNjb0G9ztbWGU8Ne2cD778UPhIQKKdnQmorVR-ub03-TwQ4MhoUrD3wc0Md3DDhIlWfWpbkjZplX9c",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 2,
+                  "type" : "facilities"
+               },
+               {
+                  "rating" : 2,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "NAKULAN N P",
+            "author_url" : "https://plus.google.com/111604944831906955746",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1384374852
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "movie_theater", "establishment" ],
+      "url" : "https://plus.google.com/101807552676750676371/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Tamghas"
+   },
+   "status" : "OK"
+}

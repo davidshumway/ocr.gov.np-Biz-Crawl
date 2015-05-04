@@ -1,0 +1,61 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Namche Marg",
+            "short_name" : "Namche Marg",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Namche Bazar",
+            "short_name" : "Namche Bazar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Namche VDC",
+            "short_name" : "Namche VDC",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Sagarmatha",
+            "short_name" : "Sagarmatha",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Eastern Region",
+            "short_name" : "Eastern Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "56000",
+            "short_name" : "56000",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNamche Marg\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNamche VDC\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e56000\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Namche Marg, Namche VDC 56000, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.804616,
+            "lng" : 86.710598
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id" : "5a1d78b64f1215f934818cebf19137fe2be99a31",
+      "name" : "Hotel Tibet",
+      "place_id" : "ChIJH7Y1u9oI6TkRYNl-DZUXUMo",
+      "reference" : "CmRfAAAAZJ-FVm9bYK6-OxKGdpsiIuZK9-Z9oJatwOrjdue02vaJ-AD_-2ETjyFyaS265SJmmivMJPwwpwLy2fpb5327vV0K8EJDZk-SmhpjJqE5fAVNr4p8g6HUHRh16P8lPvQ6EhBVF3LlXIBkdAfunQMSuLOpGhSjUBygEwCvMn5DB__8eJLXzlFabg",
+      "scope" : "GOOGLE",
+      "types" : [ "lodging", "establishment" ],
+      "url" : "https://plus.google.com/114038633204985961626/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "Namche Marg, Namche VDC"
+   },
+   "status" : "OK"
+}

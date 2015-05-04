@@ -1,0 +1,58 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Gorkha",
+            "short_name" : "Gorkha",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Gandaki",
+            "short_name" : "Gandaki",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eGorkha\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Gorkha, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.177813,
+            "lng" : 84.879384
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id" : "9c185bfe2e08a09c82aab3481efbf9a35338aa73",
+      "name" : "Lapubesi: Hotel Manaslu & Lodge",
+      "place_id" : "ChIJs5ccp781lTkRYv1K9PjdkPg",
+      "reference" : "CoQBcwAAAPRsDK8T5JcJ0VbZdw8p8yAHXfTUc4ri7R7q37t3wu_A-6NdXh2XcmEwYFFJFjCXykJ6g35tBVh4UA7GnjIiVelknws9U3MblgwIA_sLjh9HJKC6TbEDRSe7TwYR25jE4Lnu0LMwz6qdcQppP22k61V1xgwph0sjMr6zSkdqHp6oEhAV5_yfxnF9aEETM_E6etY7GhS5MAa1eRIJKKa1XVa6tIq2Tkz6ow",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Sandeep Bc",
+            "author_url" : "https://plus.google.com/112925347257243844281",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "This hotel is also looking nice and fabulous.",
+            "time" : 1374124547
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "lodging", "establishment" ],
+      "url" : "https://plus.google.com/110232757712404314640/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Gorkha"
+   },
+   "status" : "OK"
+}

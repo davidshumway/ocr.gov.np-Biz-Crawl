@@ -1,0 +1,78 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Butwal",
+            "short_name" : "Butwal",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Lumbini",
+            "short_name" : "Lumbini",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Western Region",
+            "short_name" : "Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "32907",
+            "short_name" : "32907",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eButwal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e32907\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Butwal 32907, Nepal",
+      "formatted_phone_number" : "071-547062",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.702445,
+            "lng" : 83.465549
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "ff321f38c3747acc21a1f0555a5bc90605109b52",
+      "international_phone_number" : "+977 71-547062",
+      "name" : "Omniscient Books and Stationery",
+      "place_id" : "ChIJKbWDbPWGljkRSEv4J9nf8cY",
+      "reference" : "CoQBcwAAAJrPRQ_1135H7GavjksLLFeTJ7w1z2JvAdA6CILJjVVhY-K3Xkx9I80DRpCddkd4LhARg3F4I_f2z2CrQrpvODh9Qz3jzKUeZxSjeKml6aAS2lifGeUpVNK_wbhJ1Kr7GBkofzRvf06CrDj7smgnXwvK1GVftvQnhbrNUqmRl0GBEhCzPsVqj_w_S3TVX-mfnIKwGhSZegT9HsgRyBI_hyk7jKM1UPlvAQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 0,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 0,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "ronan shrestha",
+            "author_url" : "https://plus.google.com/103351364748407827420",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "",
+            "time" : 1371453436
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "store", "establishment" ],
+      "url" : "https://plus.google.com/112591187993997545713/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Butwal"
+   },
+   "status" : "OK"
+}

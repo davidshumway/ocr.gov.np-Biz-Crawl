@@ -1,0 +1,137 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Cement Road",
+            "short_name" : "Cement Road",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Tanakpur",
+            "short_name" : "Tanakpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Champawat",
+            "short_name" : "Champawat",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttarakhand",
+            "short_name" : "UK",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "262309",
+            "short_name" : "262309",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eCement Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eTanakpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttarakhand\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e262309\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Cement Road, Tanakpur, Uttarakhand 262309, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 29.072543,
+            "lng" : 80.113388
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "13edfe80eaa1d59ac1de0ec61386afa8dedcfaa3",
+      "name" : "Uttaranchal Gramin Bank",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 4:00 pm",
+            "Tuesday: 10:00 am – 4:00 pm",
+            "Wednesday: 10:00 am – 4:00 pm",
+            "Thursday: 10:00 am – 4:00 pm",
+            "Friday: 10:00 am – 4:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ57n-9BYAoTkRtxxlnVeL2nc",
+      "reference" : "CnRqAAAAfmoKcbY9J9TmBtZG5LbKHyL3nvACrfK1gE_AKz5BSGq7BNcPO9ETHyaRqFDE0WIJWQ2QEdvGqaGg7JdsVqQJAgbmB_74KqLHoN7k1Y60P8FHS0lQ_L36IrFg1y7ttbjug90vPQHEQX3z5HZkzsvA4hIQ6XUbVRGxe81_UWsvLXmhFxoUYN7IWYdNhaYsDeoxEp-s1XhA_Zc",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Vivek Kumar",
+            "author_url" : "https://plus.google.com/114891876185867925551",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1391710868
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "bank", "finance", "establishment" ],
+      "url" : "https://plus.google.com/113771603397676986149/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Cement Road, Tanakpur"
+   },
+   "status" : "OK"
+}

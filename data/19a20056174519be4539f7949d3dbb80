@@ -1,0 +1,125 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Bagdogra",
+            "short_name" : "Bagdogra",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Darjeeling",
+            "short_name" : "Darjeeling",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "734421",
+            "short_name" : "734421",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eBagdogra\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e734421\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Bagdogra, West Bengal 734421, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.697314,
+            "lng" : 88.332605
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "6cb1595dfbaa837463681d5f00c96d2fccda094e",
+      "name" : "Stationery Store",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:30 pm",
+            "Tuesday: 10:00 am – 8:30 pm",
+            "Wednesday: 10:00 am – 8:30 pm",
+            "Thursday: 10:00 am – 8:30 pm",
+            "Friday: 10:00 am – 8:30 pm",
+            "Saturday: 10:00 am – 8:30 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJb1SvFQZG5DkRG-Lp4eoTlbY",
+      "reference" : "CnRkAAAAdREWVehIFHZjRerDnM79cN15tZwa7a92MsLYCl34D7ur-rpUrNvJosefLRNHiCmyaDCo_KKYFb0yTdr8Qsrs_XnGy01BqXvgfFc3jIJUOU4FL0E7oTcTPCF01vDi3izCYF3ZULgKTIAbA17SN6y0ChIQ4Fv7gZ_Pa5_2pK2i3Y0g4BoU6WROBH7hmj8ceHd0UWZVkJqe3DE",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "establishment" ],
+      "url" : "https://plus.google.com/104939005282799555010/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Bagdogra"
+   },
+   "status" : "OK"
+}

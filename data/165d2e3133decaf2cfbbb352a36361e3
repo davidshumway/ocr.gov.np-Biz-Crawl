@@ -1,0 +1,61 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Street-1",
+            "short_name" : "Street-1",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Mahendranagar Bazaar",
+            "short_name" : "Mahendranagar Bazaar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Bhimdatta",
+            "short_name" : "Bhimdatta",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Mahakali",
+            "short_name" : "Mahakali",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Far-Western Region",
+            "short_name" : "Far-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10400",
+            "short_name" : "10400",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eStreet-1\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBhimdatta\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10400\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Street-1, Bhimdatta 10400, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.965054,
+            "lng" : 80.181988
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "731e9a2779c68d18f431af2f95b07e5868c90c59",
+      "name" : "Rajan Kirana Pasal",
+      "place_id" : "ChIJR0S7rACsoTkRKS-t80BuyEs",
+      "reference" : "CnRlAAAAlIwez9pUAcaOg4iLmCT7UZoPhYOe8MvkegawJKUkRMtWr4dJXvS6bdkoXoUrqkMuxCnCxhKQCFYq6U9fPXk_UW84JDUEblktS4IegOgKmuGnkYGBfSq0InG4aeJSpl4ETkcStGKX04RbYnB7JJV7sBIQdaTOMV7aTZa8gVO2US-xXBoUMw212PRq4_LvUAXbF5srpWqP6TA",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "establishment" ],
+      "url" : "https://plus.google.com/100621956894939173327/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "Street-1, Bhimdatta"
+   },
+   "status" : "OK"
+}

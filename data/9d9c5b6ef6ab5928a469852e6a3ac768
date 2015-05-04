@@ -1,0 +1,73 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "East-West Highway",
+            "short_name" : "East-West Highway",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Butwal",
+            "short_name" : "Butwal",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Lumbini",
+            "short_name" : "Lumbini",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Western Region",
+            "short_name" : "Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "32907",
+            "short_name" : "32907",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eEast-West Highway\u003c/span\u003e, \u003cspan class=\"locality\"\u003eButwal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e32907\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "East-West Highway, Butwal 32907, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.685791,
+            "lng" : 83.42424699999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "0e06294e0e8a1ae824728a169602f61001756993",
+      "name" : "Nagayun Oil Supplier",
+      "place_id" : "ChIJWTo33wKGljkRUuHXuezL6G4",
+      "reference" : "CnRnAAAAFYenguOUaNXMszd7yQx-YgOHQw-y6KQknePVhNl1m6OmP2XJPajA0au7LYsqcmBbWiDGh-EXf3GD8VgUu63dlcIVI11NB7_tF9IHt91wbQ_DHFzUoqReIY45jbJhSbI0tHhoNE426zxr1gn7R_ZjMhIQhMt1J4z9pwW-mC8j9NHtThoUisf5rdA-uhhUcTQuVXdzlGU-Bpw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Kishan Ghimire",
+            "author_url" : "https://plus.google.com/110704395336943067507",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1386731107
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/103255353653642293976/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "East-West Highway, Butwal"
+   },
+   "status" : "OK"
+}

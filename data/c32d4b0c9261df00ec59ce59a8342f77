@@ -1,0 +1,61 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "East-West Highway",
+            "short_name" : "East-West Hwy",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Arunkhola",
+            "short_name" : "Arunkhola",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Naya Belhani",
+            "short_name" : "Naya Belhani",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Nawalparasi",
+            "short_name" : "Nawalparasi",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Lumbini",
+            "short_name" : "Lumbini",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "33006",
+            "short_name" : "33006",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eEast-West Highway\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNaya Belhani\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e33006\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "East-West Highway, Naya Belhani 33006, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.61487,
+            "lng" : 83.951959
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "e69eef48be896c88ad126efb278a4cc92fb37e58",
+      "name" : "Kamal Book Store",
+      "place_id" : "ChIJ-w6GIQ1IlDkRe0NcKjcL8-o",
+      "reference" : "CnRkAAAA-8augrtTbGRgi2TxCeh3xqY_jLvP8SmUx-wtpLsnzanrZKoZ8O5G6e1MUKMxpRsBtTQrGBhmlroBHh9hzauPB1WMGVk8mVpRAiYjuWv-w2t0Z_RISnCrcCZIUl_n9R2oWR5GwAbcfFm1RXIhp4JErRIQIMp_wgWGUcJbAEtQ0P9xvhoU9qHZJ5wINrdLCb8MDnQAEJzYK84",
+      "scope" : "GOOGLE",
+      "types" : [ "book_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/101366319042544732369/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "East-West Highway, Naya Belhani"
+   },
+   "status" : "OK"
+}

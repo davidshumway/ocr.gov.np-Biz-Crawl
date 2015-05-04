@@ -1,0 +1,138 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "ground floor",
+            "short_name" : "ground floor",
+            "types" : []
+         },
+         {
+            "long_name" : "kataiya chowk",
+            "short_name" : "kataiya chowk",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Sonaul Sultan",
+            "short_name" : "Sonaul Sultan",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Sheohar",
+            "short_name" : "Sheohar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "843334",
+            "short_name" : "843334",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "ground floor, \u003cspan class=\"street-address\"\u003ekataiya chowk\u003c/span\u003e, \u003cspan class=\"locality\"\u003eSonaul Sultan\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e843334\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "ground floor, kataiya chowk, Sonaul Sultan, Bihar 843334, India",
+      "formatted_phone_number" : "1800 22 0229",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.592925,
+            "lng" : 85.31993799999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "02aa9c1640bdd46e9d95048c56b488c4e54c370d",
+      "international_phone_number" : "+91 1800 22 0229",
+      "name" : "Bank of India",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 4:00 pm",
+            "Tuesday: 10:00 am – 4:00 pm",
+            "Wednesday: 10:00 am – 4:00 pm",
+            "Thursday: 10:00 am – 4:00 pm",
+            "Friday: 10:00 am – 4:00 pm",
+            "Saturday: 10:00 am – 4:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJQ8ZLIg_p7DkR8E635sR2kwY",
+      "reference" : "CmRgAAAAko0h4wZgbbD8v6ucAaV9w04AvxbQCGpwt6KaWG5u-1iULcVwN51XBngLdq0N3yeJ8OSYf2ycxYOKtvl18htUQWHDU5mXIkIaiq76QhMGxnin97b7I6Gpnz9KmeuFR6wHEhDwvJ7JMk8B4yFxbWBPcBM2GhTazmkopoYUY_97GSCst79AtUFk-g",
+      "scope" : "GOOGLE",
+      "types" : [ "bank", "finance", "establishment" ],
+      "url" : "https://plus.google.com/102232735471843351233/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "ground floor, kataiya chowk, Sonaul Sultan",
+      "website" : "http://www.bankofindia.co.in/english/autoforward_target.html"
+   },
+   "status" : "OK"
+}

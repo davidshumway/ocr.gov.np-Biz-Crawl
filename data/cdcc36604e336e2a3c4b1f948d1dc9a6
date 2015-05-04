@@ -1,0 +1,135 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Ilam",
+            "short_name" : "Ilam",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Mechi",
+            "short_name" : "Mechi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Eastern Region",
+            "short_name" : "Eastern Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "57300",
+            "short_name" : "57300",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eIlam\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e57300\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Ilam 57300, Nepal",
+      "formatted_phone_number" : "027-521776",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.909868,
+            "lng" : 87.928433
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "56ad3be33208525361a2eee304433854beb60f37",
+      "international_phone_number" : "+977 27-521776",
+      "name" : "DDC",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 5:00 pm",
+            "Tuesday: 10:00 am – 5:00 pm",
+            "Wednesday: 10:00 am – 5:00 pm",
+            "Thursday: 10:00 am – 5:00 pm",
+            "Friday: 10:00 am – 5:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJryv1So_D5TkRgyW_plzCIFs",
+      "reference" : "CmRWAAAA_kVOPH80bexhyDVDaStHYvOBL2mMarUDTwyQCPuaGetlOW4Ip-6iEzEg2sV7ziU-xMh2zv-ekbP_wipNvX8ivJCyPmRsYO-YTrkah9CYVtTqpujvcqcz7afDt6cwSpbaEhCM1GMk2Fz8gZLvM5bP_BAaGhRb_M8mvS8yWpo4peP6iHF_AKXFig",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Bikram dada",
+            "author_url" : "https://plus.google.com/113590271537605478154",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "नाइ नभनु ल",
+            "time" : 1422678459
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/100496169439616368673/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Ilam",
+      "website" : "http://www.ddcilam.gov.np/"
+   },
+   "status" : "OK"
+}

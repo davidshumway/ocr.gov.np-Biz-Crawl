@@ -1,0 +1,64 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "H08",
+            "short_name" : "H08",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Duhabi",
+            "short_name" : "Duhabi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Koshi",
+            "short_name" : "Koshi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Eastern Region",
+            "short_name" : "Eastern Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "56707",
+            "short_name" : "56707",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eH08\u003c/span\u003e, \u003cspan class=\"locality\"\u003eDuhabi\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e56707\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "H08, Duhabi 56707, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.55696,
+            "lng" : 87.285296
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "85e2f14e1347e0ed07d7e3c52e76b364b0470432",
+      "name" : "Shystha Upachar Clinic",
+      "photos" : [
+         {
+            "height" : 600,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CoQBeAAAAMeylCmBBYXZjFyV2UqOTkfAl5WtrLUyCiZU5XBcSgjmldcDTmAE3QSlvqjTaz931GvAeyV_On8Ac2UT2BdTrH6xpTPZA8r6fb0oCVy1n0PscY-fyNyxALyhkEgh4G8pWYto9VkOw4DNkrOJH-mJzwngxfH-LKbztAOAn0eld2IYEhC6uHg3Q7VUU_oeblsEYY3qGhT6DA33FLQhlRoet7hKndG6OHvgkA",
+            "width" : 800
+         }
+      ],
+      "place_id" : "ChIJueDSQz5y7zkRr4n3uc84x-E",
+      "reference" : "CnRqAAAABxeXgtjOsFOsX-TBgtF7TGAvplVT8_97-w_Erw7_MLoCFCPA57tCjzyUiv7ULUl8WKT6gvI5dYNB8F0r9O0-ZGaB7ryXRc5amjTg9NvZ-m3qyv28st7lSUxFgolPvYVgT7MpWT6vvMDToxwzW-SGmRIQtgb1-sC-TpxPr8iF-Z06VRoUARlLWKmFRa0k2dcF599C1lBiOwM",
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/111316833313461685175/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "H08, Duhabi"
+   },
+   "status" : "OK"
+}

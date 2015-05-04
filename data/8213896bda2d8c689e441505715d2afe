@@ -1,0 +1,132 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Ghonghour",
+            "short_name" : "Ghonghour",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Madhubani",
+            "short_name" : "Madhubani",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "847224",
+            "short_name" : "847224",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eGhonghour\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e847224\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Ghonghour, Bihar 847224, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.430142,
+            "lng" : 86.21442
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "6a5680a96d29dd1397c30c60fc852d199794fdb1",
+      "name" : "Samaj High School",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 3:00 pm",
+            "Tuesday: 9:00 am – 3:00 pm",
+            "Wednesday: 9:00 am – 3:00 pm",
+            "Thursday: 9:00 am – 3:00 pm",
+            "Friday: 9:00 am – 3:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJq9jv7rIr7DkR7DZCY6a2904",
+      "reference" : "CnRkAAAAn_b0PRqa63qZa3dVO79N2I6QbS5fC5ESZHgOvUNFi9eG8D3BVpexBNk6fZ7VkxlLhJBIc-VJ36WF5RRePWua-7BwRWXI_czDNcwsGaKv1ZtI8bjFcz5jMdX7fV7uqHK7mG5O0vQEn3WRxmX9MVSk0hIQtVtKKd1RXVm1xaYGTscVrhoU4YxcPySS-L2NumvMhEkiFSEs5bE",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Raj kamal",
+            "author_url" : "https://plus.google.com/102033865561795897363",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Raj kamal\ns/o- A K ROY\nvi+po- ghonghour\nvia - Rajnagar\ndist- madhubani\npin code- 847235",
+            "time" : 1369709017
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "school", "establishment" ],
+      "url" : "https://plus.google.com/115692656953042067120/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Ghonghour"
+   },
+   "status" : "OK"
+}

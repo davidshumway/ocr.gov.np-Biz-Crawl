@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Agriculture Road",
+            "short_name" : "Agriculture Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Sabla",
+            "short_name" : "Sabla",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Koshi",
+            "short_name" : "Koshi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Eastern Region",
+            "short_name" : "Eastern Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eAgriculture Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eSabla\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Agriculture Road, Sabla, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.151075,
+            "lng" : 87.530081
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "2b3ddf56bffc5f42f4ce4037ca80c486f722f44d",
+      "name" : "Orange Garden",
+      "place_id" : "ChIJrX9lqVJV7zkR-1_Thk5-Ssg",
+      "reference" : "CnRhAAAAnyZKXmGm-UwPaNIlfVKYQ8tAH3BXEw_3sJc6KzrAR_afNxKOlrMuAENe8gXz9i4zt_T4xCU6byXxOaodYaB4q9XjHU9MpmMXc5A4kyLn5P97tWl61NNu7YObpxZTEt3UZQQBSxfjFyVVxB3wFFU7VRIQKAIkJ7DhA-h9as80_RCr4hoUkP2VnErAQKii9NS4WWJ4OpMdfv0",
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/104732098266586630598/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "Agriculture Road, Sabla"
+   },
+   "status" : "OK"
+}

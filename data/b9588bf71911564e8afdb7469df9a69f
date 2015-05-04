@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "East-West Highway",
+            "short_name" : "East-West Hwy",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Mahakali",
+            "short_name" : "Mahakali",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Far-Western Region",
+            "short_name" : "Far-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10400",
+            "short_name" : "10400",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eEast-West Highway\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e10400\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "East-West Highway, 10400, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.861794,
+            "lng" : 80.421182
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "f9e5161c7a42114a38872db7ef2189ba42f1f74e",
+      "name" : "Khadayat Clinic",
+      "place_id" : "ChIJqf3I-Bm9oTkRgKxiTAt2_jM",
+      "reference" : "CnRiAAAAa7JK4csisR6mBoJltXyuX2aFyC9KJPFNmNorlX-sbmIIlpBzNL0v25-TAJhguTH1YB4iWce8pkGHNq695z88k_U0uZu1xa2TosXz78c4xwhAZMJJTOYx5jQuuqRjuXlv9FpZEl_Q42TTVEuld7ALoBIQAMVufRAQybaaaQmqB_tQ1RoUQ8ry3fLrtVLDE8sMPaXZfw-Zk9Y",
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/113393473855433159258/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "East-West Highway"
+   },
+   "status" : "OK"
+}

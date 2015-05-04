@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "East-West Highway",
+            "short_name" : "East-West Highway",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Koshi",
+            "short_name" : "Koshi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Eastern Region",
+            "short_name" : "Eastern Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "56600",
+            "short_name" : "56600",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eEast-West Highway\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e56600\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "East-West Highway, 56600, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.658939,
+            "lng" : 87.451759
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "1f46d4607129f151b573b75e85716efae220cca1",
+      "name" : "Laxmi Pharmecy",
+      "place_id" : "ChIJE2atCg1k7zkRMamYklkwxK8",
+      "reference" : "CnRiAAAAE4NlD6lvFDQQkKdEU1gHTpVBovhHkmXur17qSW5lUIy_BzK_PDQdZuJEYz7U26iq23Q8i7XsFifMKDlshcQS2Jjs47GA4WtFGqRcN-XZ6H-FLGIOoWSLXbm9Twp9kTWzfqncynTFU_PEEroiDQ6L7BIQu05LxhpJ3uXEhTw4vysNSBoUaWR3sNiPdhQd1iC_NjJBo3Qyh5E",
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/101702555781894574923/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "East-West Highway"
+   },
+   "status" : "OK"
+}

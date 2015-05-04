@@ -1,0 +1,75 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "East-West Highway",
+            "short_name" : "East-West Hwy",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Hetauda",
+            "short_name" : "Hetauda",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Narayani",
+            "short_name" : "Narayani",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "44107",
+            "short_name" : "44107",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eEast-West Highway\u003c/span\u003e, \u003cspan class=\"locality\"\u003eHetauda\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e44107\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "East-West Highway, Hetauda 44107, Nepal",
+      "formatted_phone_number" : "057-525159",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.427385,
+            "lng" : 85.03006999999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id" : "a9744c3e42cf5ebc3e40db8745e5e53f8c599c96",
+      "international_phone_number" : "+977 57-525159",
+      "name" : "Ashish Bakery",
+      "place_id" : "ChIJ-zSabY9J6zkRcL3Jbb9BFBE",
+      "reference" : "CmRgAAAAKCMMYuWIUi2AsJjb99y7fI1TpMK72UPLNoTJcbu0o9GCNoSfMboBrHuyXNNKvN2iaxH1poZWCI5D6mdIo1RDp0VgW3hjLfyCXXtq8VbK-SnGotTqwinjZMDBLIqjRuDGEhCTtVYosm9_aMoBrRJ5PUxVGhQaPtAxNkDpm70ujjNJ5VUp7pOvkA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "1MK0M4R",
+            "author_url" : "https://plus.google.com/107287586322438925342",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1393912354
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "bakery", "store", "food", "establishment" ],
+      "url" : "https://plus.google.com/112270768918523843238/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "East-West Highway, Hetauda"
+   },
+   "status" : "OK"
+}

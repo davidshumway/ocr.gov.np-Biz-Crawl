@@ -1,0 +1,118 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Kathmandu",
+            "short_name" : "Kathmandu",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bagmati",
+            "short_name" : "Bagmati",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "44600",
+            "short_name" : "44600",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eKathmandu\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e44600\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Kathmandu 44600, Nepal",
+      "formatted_phone_number" : "01-4650704",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.736341,
+            "lng" : 85.35263399999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+      "id" : "9b9090999a74d092cdebfab6f0edc9996b0c45a1",
+      "international_phone_number" : "+977 1-4650704",
+      "name" : "Kathmandu University, Centre for Art and Design",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0700"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 7:00 am – 3:00 pm",
+            "Tuesday: 7:00 am – 3:00 pm",
+            "Wednesday: 7:00 am – 3:00 pm",
+            "Thursday: 7:00 am – 3:00 pm",
+            "Friday: 7:00 am – 3:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJt7Ij11gZ6zkR_jxJ88jHiFg",
+      "reference" : "CpQBgwAAAD7JUJgBbuQalu4EQd2xMmMuBCYTof0vfNd6S2bKFU7sNsKzM76FQMKZfySBY9vAT7BmvH5KvGKHpHDQTjD0FQs0tRzypc0W3H8fkD088m7OsxxZANYqcPshqsCNrOjxP-uSvhkql9zRUDtBx0mpfzvM41ZceoBiux4k_RhnuiubE8HoP4lC-DAPCXZQGgYB6BIQrQRQYNaeAPSOfFFwyOMlTBoUKaJSp6dKJxElHXS8AdCZ17Mc5Do",
+      "scope" : "GOOGLE",
+      "types" : [ "university", "establishment" ],
+      "url" : "https://plus.google.com/115418967410871427256/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "Kathmandu",
+      "website" : "http://www.kuart.edu.np/"
+   },
+   "status" : "OK"
+}

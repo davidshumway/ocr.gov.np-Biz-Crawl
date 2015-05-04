@@ -1,0 +1,121 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Dhambojhi",
+            "short_name" : "Dhambojhi",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Nepalgunj",
+            "short_name" : "Nepalgunj",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bheri",
+            "short_name" : "Bheri",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Mid-Western Region",
+            "short_name" : "Mid-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "21900",
+            "short_name" : "21900",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Dhambojhi, \u003cspan class=\"locality\"\u003eNepalgunj\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e21900\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Dhambojhi, Nepalgunj 21900, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.060516,
+            "lng" : 81.63180800000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "d345636ee50ff7d093afce543fcaf8f5a3f7ba94",
+      "name" : "INF TB Hospital",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 4:00 pm",
+            "Tuesday: 10:00 am – 4:00 pm",
+            "Wednesday: 10:00 am – 4:00 pm",
+            "Thursday: 10:00 am – 4:00 pm",
+            "Friday: 10:00 am – 4:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJm6lkuW5nmDkRW2-Ehfgqg1c",
+      "reference" : "CnRiAAAAlq-oItCEhQyI07Dw72dEAo2kfdkde8IrekQUU8IbF_DglRP4gFIA-7eqXHrETMdKr6YihWIHJ759GnmTMFu91CssRCLZGUFNN7k7Uzn29NUfmAA5R9KyL_GFXB6CAOQ8FJ99wDtMtac53Jf0ad_pyxIQyuNecEPmiFMIl5lSJkkXgxoU2mn5EzHwFwJE01zyjKrkqzCjGtk",
+      "scope" : "GOOGLE",
+      "types" : [ "hospital", "establishment" ],
+      "url" : "https://plus.google.com/103159271367860942221/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "Nepalgunj",
+      "website" : "http://www.inf.org/"
+   },
+   "status" : "OK"
+}

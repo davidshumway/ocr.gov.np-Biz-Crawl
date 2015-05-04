@@ -1,0 +1,150 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Bakamalang Sadak",
+            "short_name" : "Bakamalang Sadak",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Baka",
+            "short_name" : "Baka",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Malang",
+            "short_name" : "Malang",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Wakamalang",
+            "short_name" : "Wakamalang",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Lumbini",
+            "short_name" : "Lumbini",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Western Region",
+            "short_name" : "Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "32500",
+            "short_name" : "32500",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eBakamalang Sadak\u003c/span\u003e, \u003cspan class=\"locality\"\u003eWakamalang\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e32500\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Bakamalang Sadak, Wakamalang 32500, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.818194,
+            "lng" : 84.007722
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "140e32caea3d9909e90efc6c735017e13f6bebaf",
+      "name" : "Sanu Grocery",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0600"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 6:00 am – 7:00 pm",
+            "Tuesday: 6:00 am – 7:00 pm",
+            "Wednesday: 6:00 am – 7:00 pm",
+            "Thursday: 6:00 am – 7:00 pm",
+            "Friday: 6:00 am – 7:00 pm",
+            "Saturday: 6:00 am – 7:00 pm",
+            "Sunday: 6:00 am – 7:00 pm"
+         ]
+      },
+      "place_id" : "ChIJXcQ0maK0lTkR39oPLbazTFY",
+      "reference" : "CmRfAAAA8uZfdyiwRV-222y29deo0jEBf4BamFpmOYQEn-VKoX4KQjUs2Z7R4LJmCCufwn3I5ZjrD8FOM7alhliOL5KniPIg73sg20vGXCKwA5l4RO1RZ96C7SZRYyv1bYPcWN8oEhBAwtgt_WBcWZCEFN4uid0BGhRUVKhP5RhBgLwtx8lyiQqrhIHDCQ",
+      "scope" : "GOOGLE",
+      "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+      "url" : "https://plus.google.com/100907617860671018894/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "Bakamalang Sadak, Wakamalang"
+   },
+   "status" : "OK"
+}

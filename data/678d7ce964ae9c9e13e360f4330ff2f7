@@ -1,0 +1,72 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Butwal",
+            "short_name" : "Butwal",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Lumbini",
+            "short_name" : "Lumbini",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Western Region",
+            "short_name" : "Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eButwal\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Butwal, Nepal",
+      "formatted_phone_number" : "0984-7369555",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.703458,
+            "lng" : 83.46449699999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/jewelry-71.png",
+      "id" : "60989ae7b9335b94c74b164581e1bd3905225a32",
+      "international_phone_number" : "+977 984-7369555",
+      "name" : "Bajracharya Jewellers",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJZ6OGf_WGljkRblTIaA6KD7Y",
+      "reference" : "CnRpAAAAyxCQxe16zjSOUghELAKJGwy1MRV75t_Spro3oQN7jhU242xp6w3c-uU_Aa9Hf2lBhrQFtY1r1RjonwFW979ECJlomg-pQvl4BJKz0hjGa9XpXvr_ZwEDH_dWJEp_GCziZClf4g1qpbpeKGc8vAZSfRIQKOjPMTvydC-oO9lEMgMGyRoUpRxsreT2pir3_OPkf1RmExOlq1I",
+      "scope" : "GOOGLE",
+      "types" : [ "jewelry_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/116797409796818864168/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "Butwal"
+   },
+   "status" : "OK"
+}

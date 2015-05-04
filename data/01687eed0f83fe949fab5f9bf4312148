@@ -1,0 +1,78 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "East-West Highway",
+            "short_name" : "East-West Highway",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bheri",
+            "short_name" : "Bheri",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Mid-Western Region",
+            "short_name" : "Mid-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "21800",
+            "short_name" : "21800",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eEast-West Highway\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e21800\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "East-West Highway, 21800, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.353565,
+            "lng" : 81.433262
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "df8b27a8b54b0b27c27aa8d8c3b89c6baa1494ad",
+      "name" : "M S Medical Hall",
+      "photos" : [
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/109911611974322147101\"\u003ekrishna shahi\u003c/a\u003e"
+            ],
+            "photo_reference" : "CpQBhQAAAAUGLB-bvoKcLeieidIDmfDTDntswdm5oa61bRgTPJJXcC2XbO3VVoyY3Mr_Ry6kW4NcOxNO1suZwvbuqXOnm_cvKM0Xr3BdgqX58dL3MkEzCah0-mMBmehkKoa5FvzJPVszPXpa5D2ADsyGAV2KtyqJ6fODnO93DypgaXFqt8gxPdTDCOQqlhBfeKgUzKGalhIQHRg1Ktoc99pD42ZiphHD0BoUOtYQ7TUoBCYZHFwEQY8hCiFyTLc",
+            "width" : 1536
+         }
+      ],
+      "place_id" : "ChIJTUnL036BmDkRmvYj5aE1CoU",
+      "reference" : "CnRkAAAAKB8t-6DYxuziETCuHo3ltqyJlgOJnJf1fbfK3wSM5KeTaofPEFfm4zhPi55WpvAmaXm74iwko4N0Z8SqnvnqGHs8Pu6DKDGyK4posSCNOzt95FsgnrhHJq55RAijkwaG0Hr4Siq2qRlBLvEb6jMuhRIQ9hpa4JXEs_zxX6IvrSPBtxoUUaV9ew9wHN5-Tx3V-XhkZdKTHRE",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Krishna Shahi",
+            "author_url" : "https://plus.google.com/117350690648687934323",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "My home",
+            "time" : 1383614831
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/114812281377139646310/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "East-West Highway"
+   },
+   "status" : "OK"
+}

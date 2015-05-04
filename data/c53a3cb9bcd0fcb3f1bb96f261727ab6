@@ -1,0 +1,115 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Bharatpur",
+            "short_name" : "Bharatpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Chitwan",
+            "short_name" : "Chitwan",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eBharatpur\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Bharatpur, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.697737,
+            "lng" : 84.42100499999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id" : "1db0a7f691d38accc5c7294cf6e6ebfa1cfbb90b",
+      "name" : "Kitchen Cafe Restaurant",
+      "place_id" : "ChIJ9y2F6ED7lDkRnlbZKwftNgg",
+      "reference" : "CnRqAAAA5aT93i25kd4e6M_z_kf0sMywlBOxQLMkg5UYutDS-u_ig_Bz0Qq-hwt-xcD3MK3wNcoBvX7kU_v_QpahbL6LTzKb2Wj2u0xOXPDDl-xldyBOZbv6NBIxa7g8S2HuBfasAlQrmlIrIs3oXW5Nj7HoBhIQ33KSY-l6GSNTs6mwWCdRSxoUCydh2-ElzR65fGgjCkoosuqVBJE",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "food"
+               },
+               {
+                  "rating" : 2,
+                  "type" : "decor"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Rajiv Amatya",
+            "author_url" : "https://plus.google.com/105790228827881130692",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "They take so long to place your order.",
+            "time" : 1369203794
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "food"
+               },
+               {
+                  "rating" : 0,
+                  "type" : "decor"
+               },
+               {
+                  "rating" : 2,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Sujan Shreemal",
+            "author_url" : "https://plus.google.com/106235735163429460680",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1374127291
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "food"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "decor"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Manoj Tamang",
+            "author_url" : "https://plus.google.com/100415148530630167682",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1389963704
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "establishment" ],
+      "url" : "https://plus.google.com/111225824823758591260/about?hl=en-US",
+      "user_ratings_total" : 3,
+      "utc_offset" : 345,
+      "vicinity" : "Bharatpur"
+   },
+   "status" : "OK"
+}

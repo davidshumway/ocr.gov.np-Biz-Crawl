@@ -1,0 +1,157 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Devithan Road",
+            "short_name" : "Devithan Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Dihi",
+            "short_name" : "Dihi",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Majuwa",
+            "short_name" : "Majuwa",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Sankhar",
+            "short_name" : "Sankhar",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Gandaki",
+            "short_name" : "Gandaki",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Western Region",
+            "short_name" : "Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "33800",
+            "short_name" : "33800",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eDevithan Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eSankhar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e33800\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Devithan Road, Sankhar 33800, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.878364,
+            "lng" : 83.927098
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "04cc8bc9c42ca2bb670a33ec94fcaf028a4d8a61",
+      "name" : "Poudel Iron Industries",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 am – 6:00 pm",
+            "Tuesday: 8:00 am – 6:00 pm",
+            "Wednesday: 8:00 am – 6:00 pm",
+            "Thursday: 8:00 am – 6:00 pm",
+            "Friday: 8:00 am – 6:00 pm",
+            "Saturday: Closed",
+            "Sunday: 8:00 am – 6:00 pm"
+         ]
+      },
+      "place_id" : "ChIJld2upQbKlTkR30kDUBqCbak",
+      "reference" : "CnRqAAAAJBuXLMWUAebchT6Y-vmJ9VfIpDy5JCptb7T0vCZkcn-iddylRBuAX_5b2G1YNRfzRJPs30tYziQhRfAnB4pe--VwTtdrZCf7qXx53eiEn719PSdyD4Gpoc5P7ZcB6gdykbECU-S38vdbq2b_X4y2fhIQWM2izSFnUWygFdZq8CLxAhoUuskJpZRQOpGvwS1sRfdvdJHIpU4",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Pitambar Bhattarai",
+            "author_url" : "https://plus.google.com/103766819006985810785",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Remember for iron works.",
+            "time" : 1421682496
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "store", "establishment" ],
+      "url" : "https://plus.google.com/102680586106048605587/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Devithan Road, Sankhar"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,61 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Main Road",
+            "short_name" : "Main Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Santoshi Tol",
+            "short_name" : "Santoshi Tol",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Dhangadhi",
+            "short_name" : "Dhangadhi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Seti",
+            "short_name" : "Seti",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Far-Western Region",
+            "short_name" : "Far-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10900",
+            "short_name" : "10900",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eMain Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eDhangadhi\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10900\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Main Road, Dhangadhi 10900, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.703429,
+            "lng" : 80.58704
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "ef5e56cc4040456ebba564aca0aaa1a861d280c9",
+      "name" : "Dobhan Medical Hall",
+      "place_id" : "ChIJfZwSZNjsoTkRomd7-sV-9o4",
+      "reference" : "CnRnAAAAUnjIhjj658yw0wJMMpcXjr0-EcPT0iAD8IyGHHbJ8SQaF32XiNCxc9mh8y0AFlTNM4-GitwgHZZ2O21x69vCvtBnLIjQl-FgD0Y5zyVe9Kb_kpSDDT2FLFkjf_zkh4iEospO8q8KCSbum5sMU99MpRIQqFrKvCYQlnfBpWRi9ODoVxoUXPL3GUsgXhGFCHwEz4SGqCqoSAs",
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/112805799539183645083/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "Main Road, Dhangadhi"
+   },
+   "status" : "OK"
+}

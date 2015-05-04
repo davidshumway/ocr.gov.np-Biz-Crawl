@@ -1,0 +1,94 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Parasi Road",
+            "short_name" : "Parasi Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Ramgram",
+            "short_name" : "Ramgram",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Lumbini",
+            "short_name" : "Lumbini",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Western Region",
+            "short_name" : "Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "33007",
+            "short_name" : "33007",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eParasi Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eRamgram\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e33007\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Parasi Road, Ramgram 33007, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.531318,
+            "lng" : 83.665511
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "2b5b14e9da459fa7e86149fe3f98fe43143be80a",
+      "name" : "Jayadurge Medical Hall",
+      "place_id" : "ChIJl7AejZAmlDkR5NxRvsLQ6cc",
+      "reference" : "CnRqAAAAE7AAHoTEDjJzO2yxTFmzYNskSD7k3J32dGyz033Plszbhv4hq5NEwbeF1VlFqGBqVlf7KfubFOFd_se6kQtzRrHEJMLha9J330AfgJCrRQSA6lLsvS56WptM7Sdj4p3jkkcEzwfqER2xwvyy3DL-3BIQJUF5qpLPQDiYgya6Gh7Z2BoUXsRa0FVQuwBEg66elhdVBQHl2Ks",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Indresh Gupta",
+            "author_url" : "https://plus.google.com/111890449368332274838",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1391423020
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1326645611
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/113289506586531386005/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 345,
+      "vicinity" : "Parasi Road, Ramgram"
+   },
+   "status" : "OK"
+}

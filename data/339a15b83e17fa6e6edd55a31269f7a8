@@ -1,0 +1,140 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Rishi Road",
+            "short_name" : "Rishi Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Jitu",
+            "short_name" : "Jitu",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Darjeeling",
+            "short_name" : "Darjeeling",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "734013",
+            "short_name" : "734013",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eRishi Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eJitu\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e734013\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Rishi Road, Jitu, West Bengal 734013, India",
+      "formatted_phone_number" : "098004 16889",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.714533,
+            "lng" : 88.370671
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "cc95817530f9171d8774fab202c12b594916679b",
+      "international_phone_number" : "+91 98004 16889",
+      "name" : "basak nursery",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0730"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0730"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0730"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0730"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0730"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 7:30 am – 8:00 pm",
+            "Tuesday: 7:30 am – 8:00 pm",
+            "Wednesday: 7:30 am – 8:00 pm",
+            "Thursday: 7:30 am – 8:00 pm",
+            "Friday: 7:30 am – 8:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ6QdWBY1G5DkR_PHbs18iWX0",
+      "reference" : "CmRgAAAAFnqWY9rQKJIh5Qocnf1I_2V5-aOVarrNJmRppf_trEd7p0szlEJXuYARWj6d8HdvoCyaFuPYSWDBcftBzwY6B8Zqu6SeHd3lBzo94SoeliZZBoyKs9SPkEDNa75S76lWEhBBUPcjOcw0W52r03t87rvjGhQFRhfQ2MpRSSMP4PX7DvzOPr_MjQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Sujan Basak",
+            "author_url" : "https://plus.google.com/105116577394203497847",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1427201560
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/113514882820592427400/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Rishi Road, Jitu",
+      "website" : "http://basaknursery.in/"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,83 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Mechi Highway",
+            "short_name" : "Mechi Highway",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Kanyam",
+            "short_name" : "Kanyam",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Mechi",
+            "short_name" : "Mechi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Eastern Region",
+            "short_name" : "Eastern Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "57300",
+            "short_name" : "57300",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eMechi Highway\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanyam\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e57300\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Mechi Highway, Kanyam 57300, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.843939,
+            "lng" : 88.084721
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "0045902d645dfacb6fd2b678a2da3bdead6925c8",
+      "name" : "Yadav Clinic",
+      "photos" : [
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/107272798471714445766\"\u003eDipendra Yadav\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBdQAAAMbztkevjzoaZrFTQ1X0P5EzDpqqz0WGxU6sK2i_PAIxlF7o9pPCjbqbR_2_TSfP5kDIkTkTZnpOsBRNU00lw0J4eWpuuRYCsGFY1Xi654u28NCVb7-_SXT6DBRbfeuEL6WiQH6bKWKzy5TjW_v37BtnNCXwcwclaleJWlCKftuCEhDCk1z0e3sWgX4QljDhOEZ9GhRn18hAAqHM50KsYvL2IBtwBAeidQ",
+            "width" : 2048
+         }
+      ],
+      "place_id" : "ChIJNyhso2TJ5TkRdC6gul3sa2s",
+      "reference" : "CmRfAAAAHwTNXAq7L58lgfiGkd2LF7PD1NOORdL1YelGRJrNK4Xwx_ocXEwo8rkfp6BoTLJp1tzRnE-o1k-4B0FZg2p8pqRhl0sY-BuDyFJuWt7VH8jD49fTbUMtMPkvRL7hG0JfEhBUK331q1EPAVN5WtP4_w4LGhS--taFsAiTHNM-SoA94rwU8dUZfg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Diwash Timsina",
+            "author_url" : "https://plus.google.com/117185564751163107713",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1422678821
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/104309964770269630847/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Mechi Highway, Kanyam"
+   },
+   "status" : "OK"
+}

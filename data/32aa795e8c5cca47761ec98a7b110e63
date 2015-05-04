@@ -1,0 +1,162 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Ramghat Road",
+            "short_name" : "Ramghat Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Majuwa",
+            "short_name" : "Majuwa",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Sankhar",
+            "short_name" : "Sankhar",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Gandaki",
+            "short_name" : "Gandaki",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Western Region",
+            "short_name" : "Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "33800",
+            "short_name" : "33800",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eRamghat Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eSankhar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e33800\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Ramghat Road, Sankhar 33800, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.874278,
+            "lng" : 83.925781
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "599b2c9fb90edcad237f39d080e250992b5539fa",
+      "name" : "Shanti Fruits & Vegetables",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 am – 6:00 pm",
+            "Tuesday: 8:00 am – 6:00 pm",
+            "Wednesday: 8:00 am – 6:00 pm",
+            "Thursday: 8:00 am – 6:00 pm",
+            "Friday: 8:00 am – 6:00 pm",
+            "Saturday: 8:00 am – 6:00 pm",
+            "Sunday: 8:00 am – 6:00 pm"
+         ]
+      },
+      "place_id" : "ChIJubTX7QXKlTkRBOEitj-WXa4",
+      "reference" : "CnRuAAAAAUI3wIrk7VOrndA_zDTgkE5SVl7d2FkV_jeeQpjAUyAQ8xuWOthn_HN2_wtw8syKjODAIWfQsLNu8vEgLR93-QOtfwssE3tG8Q0wKEt1EJ-eXd2xGe_xOVaSmhAAL1Yizq1KFgcVgMCpuSsoXWuBXhIQbs1Qj2rrSTGbgP9JezQfrxoUDirnRqhPB7aeetmtoi1iCl8ChHg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Pitambar Bhattarai",
+            "author_url" : "https://plus.google.com/103766819006985810785",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1420296478
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "food", "store", "establishment" ],
+      "url" : "https://plus.google.com/102667860585639106270/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Ramghat Road, Sankhar"
+   },
+   "status" : "OK"
+}

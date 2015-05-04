@@ -1,0 +1,87 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Sagarmatha",
+            "short_name" : "Sagarmatha",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Eastern Region",
+            "short_name" : "Eastern Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "56400",
+            "short_name" : "56400",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Sagarmatha, \u003cspan class=\"postal-code\"\u003e56400\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Sagarmatha, 56400, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.575977,
+            "lng" : 86.581551
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "aa014e733827ed07a892008032e0ebbe5199a15c",
+      "name" : "Chandra H. S. School",
+      "photos" : [
+         {
+            "height" : 540,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/110763527186879183069\"\u003eBivek Jha\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBeAAAAN67ghVZi7RWGRRzVyiEUJpxBfIMWzvi0KBWCbOBOU2E67ZFf4NO_lId_RK5uYgeIgQTkICI0X1ioaDIdSEyC90-6cv7bwKxggv7sLeqqEqIa8K-hxZILcHdkof8LFkhR71P795r74tFAYmjuo-Srxd5JSsfFMj6eBWr9gTTNngKEhD1EeOxDba-EAznduBXg6tBGhRuR_Eva3loAZasMEEUrpNA9Fl65g",
+            "width" : 960
+         }
+      ],
+      "place_id" : "ChIJi8FsJ1Pt7jkRjHakwWwUS2E",
+      "reference" : "CnRnAAAAMMuwA2GF4jBFyOU50Dy9lm_Tqkrr7lHXC8TvKYgpVwGE7vzTtNARHtUCKFghJk1r1n6eLM-dapd8vR_GIgPsrQFm7aFbl1hO4zH9RB2Qt3rXicD8plAX4n9Hpy87-FVjvG3XeQc3qOHU_J4565s5KhIQqNf0Fza6MnSE1nMkpHahdRoU8TWNELZaOSt-6jSss1gAQizgiK8",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Bivek Jha",
+            "author_url" : "https://plus.google.com/110763527186879183069",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1341373536
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Ramesh Shah",
+            "author_url" : "https://plus.google.com/106300904216905716952",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1389795710
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "school", "establishment" ],
+      "url" : "https://plus.google.com/102525966216744685127/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 345,
+      "vicinity" : ""
+   },
+   "status" : "OK"
+}

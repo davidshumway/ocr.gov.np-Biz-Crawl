@@ -1,0 +1,78 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "State Highway 52",
+            "short_name" : "SH 52",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Jaitpur Mohalla",
+            "short_name" : "Jaitpur Mohalla",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Pupri",
+            "short_name" : "Pupri",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Sitamarhi",
+            "short_name" : "Sitamarhi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "843320",
+            "short_name" : "843320",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eState Highway 52\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eJaitpur Mohalla\u003c/span\u003e, \u003cspan class=\"locality\"\u003ePupri\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e843320\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "State Highway 52, Jaitpur Mohalla, Pupri, Bihar 843320, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.472529,
+            "lng" : 85.70252600000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "e534e222c2fd0e5034958e029654c58d3eee8d9b",
+      "name" : "Noor Electronics",
+      "place_id" : "ChIJf--zgEBR7DkRubgrM4j04HI",
+      "reference" : "CnRjAAAAPQFomic3ksRBhUOnTf0jGLja_jjMFqQL39FtaOgQ9VBBEpbhqD7brQw2_PamnHbfKKxLctbzbzgcnBfUyINzelYZnOGRxY2uPVev0O3lr9gCvpp6gyI7F5GvAkDWAlHgbNp5OUAnkG0aj4_dMT4h6xIQE_8XIB0dsSl9XO8DlR9IXhoU1Jp-wMEdl4D_PYDai_ZkkOsxkSw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Naushad Alam",
+            "author_url" : "https://plus.google.com/105713685234393530623",
+            "language" : "en",
+            "rating" : 1,
+            "text" : "NOOR ELECTRONICS",
+            "time" : 1422433823
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "store", "establishment" ],
+      "url" : "https://plus.google.com/113587709624689183742/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "State Highway 52, Jaitpur Mohalla, Pupri"
+   },
+   "status" : "OK"
+}

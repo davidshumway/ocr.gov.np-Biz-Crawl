@@ -1,0 +1,84 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Janakpur",
+            "short_name" : "Janakpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Janakpur",
+            "short_name" : "Janakpur",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "45600",
+            "short_name" : "45600",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eJanakpur\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e45600\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Janakpur 45600, Nepal",
+      "formatted_phone_number" : "041-520059",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.735348,
+            "lng" : 85.931769
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id" : "3b23a2545192815dc0fdbd492d7c6ed039f9c29a",
+      "international_phone_number" : "+977 41-520059",
+      "name" : "Hotel Rama",
+      "place_id" : "ChIJLWqqDP8_7DkREn3oNnp8ejY",
+      "reference" : "CmRdAAAAO0la_x-pWk_qcdetaJxjCvTx8MrX-LMuh-bOOHj3maFR93cjMOeCXRboXPSDRJm2ieOtWw8RxKwy-UC_aURW_GQRI9CtaFsGujx-dnqZubSmryxQyn10a5wbFCdzRQm9EhA9ZY9u3yOVcMzGTnHSCy9VGhStRg0a7bOhP014Rvwdy-9b05dA9A",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Daniel D",
+            "author_url" : "https://plus.google.com/102714171748713673023",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "This hotel is not so bad. It's very basic, safe (guards on duty), it has A/C, is relatively clean and affordable. The restaurant also cooks good food and has lots of variety. I personally enjoyed the massive roof terrace. It's also a few minutes walk from the centre of Janakpur. It's not a typical tourist choice, but it's worth considering.",
+            "time" : 1406536377
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Pravin Agrawal",
+            "author_url" : "https://plus.google.com/110697617694548595739",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "Food...... horrible..... A/C room : liad sheding so not working ... mosquito biting\n\n",
+            "time" : 1361637876
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "lodging", "establishment" ],
+      "url" : "https://plus.google.com/115649011925370498730/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 345,
+      "vicinity" : "Janakpur"
+   },
+   "status" : "OK"
+}

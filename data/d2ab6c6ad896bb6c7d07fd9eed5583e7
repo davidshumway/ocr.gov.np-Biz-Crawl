@@ -1,0 +1,158 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Biratnagar",
+            "short_name" : "Biratnagar",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "56613",
+            "short_name" : "56613",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Main Road, \u003cspan class=\"locality\"\u003eBiratnagar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e56613\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Main Road, Biratnagar 56613, Nepal",
+      "formatted_phone_number" : "021-523699",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.457904,
+            "lng" : 87.280218
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id" : "16440fbe3108c77e2827768dfbee6f9af073c464",
+      "international_phone_number" : "+977 21-523699",
+      "name" : "Unique Sweets & Snacks",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0700"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 7:00 am – 9:00 pm",
+            "Tuesday: 7:00 am – 9:00 pm",
+            "Wednesday: 7:00 am – 9:00 pm",
+            "Thursday: 7:00 am – 9:00 pm",
+            "Friday: 7:00 am – 9:00 pm",
+            "Saturday: 7:00 am – 9:00 pm",
+            "Sunday: 7:00 am – 9:00 pm"
+         ]
+      },
+      "place_id" : "ChIJMZQ5N0d07zkR3jfhyEM7Owc",
+      "reference" : "CnRpAAAA1kUAKXKenovti4pzooyWBMuNGx162SGwu__fZQQrYlX8jyaV_Tbyp43v9UO5Df6M7kKnIwsmYb13F9a56eMo8GM48F4RJ50MG1_yroAHwhfya6aB5QchWENdZxdeEjM5A2fs3QAkOcfYI-2049bKfhIQevBtA5v9XgZZE814TYrzOhoU1G-IDR1BTwAdwbMcsTR1280XIKw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Hemant Sarda",
+            "author_url" : "https://plus.google.com/105098337140475010089",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1400313325
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Dawood Ansari",
+            "author_url" : "https://plus.google.com/115438425968852794496",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1400263274
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "store", "food", "establishment" ],
+      "url" : "https://plus.google.com/103739889353988781611/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 345,
+      "vicinity" : "Main Road, Biratnagar"
+   },
+   "status" : "OK"
+}

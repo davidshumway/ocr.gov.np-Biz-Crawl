@@ -1,0 +1,155 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Durbar Marg",
+            "short_name" : "Durbar Marg",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Kamaladi",
+            "short_name" : "Kamaladi",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Kathmandu",
+            "short_name" : "Kathmandu",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bagmati",
+            "short_name" : "Bagmati",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "44600",
+            "short_name" : "44600",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eDurbar Marg\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKathmandu\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e44600\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Durbar Marg, Kathmandu 44600, Nepal",
+      "formatted_phone_number" : "01-4428378",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.710089,
+            "lng" : 85.319159
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+      "id" : "eea21d46ee5ceb65d32ffbf59f4b4fb40e87dc94",
+      "international_phone_number" : "+977 1-4428378",
+      "name" : "IMS Pvt. Ltd.",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 5:00 pm",
+            "Tuesday: 10:00 am – 5:00 pm",
+            "Wednesday: 10:00 am – 5:00 pm",
+            "Thursday: 10:00 am – 5:00 pm",
+            "Friday: 10:00 am – 5:00 pm",
+            "Saturday: Closed",
+            "Sunday: 10:00 am – 5:00 pm"
+         ]
+      },
+      "place_id" : "ChIJ66C6tgYZ6zkRy5Af2uVVbcs",
+      "reference" : "CnRhAAAA1NykURaQCJuUlWGei8oP6ZHOt8VE-ZghUaOooCNDPdQJ21nBaGJ7B6H4yZbg-cmhot9fYU3zv5QuBEyuQF9TxXGhsULeULPEDWu8gQ158HADNeVOsQuEEkVLsI87BJQkntLSwpSkB726EPOSUcIh3BIQyd9KDzDUoEYGbiuCEFAzshoUAfTmkQ05iyUXSBw_AUIVGZ-3THQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Suraj Shrestha",
+            "author_url" : "https://plus.google.com/106508046001387793820",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Gud customer care n service",
+            "time" : 1424544116
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "electronics_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/101151025717752356600/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Durbar Marg, Kathmandu",
+      "website" : "http://www.ims.com.np"
+   },
+   "status" : "OK"
+}

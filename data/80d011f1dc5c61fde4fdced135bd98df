@@ -1,0 +1,74 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Pokhara",
+            "short_name" : "Pokhara",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "33700",
+            "short_name" : "33700",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Lakeside Street, \u003cspan class=\"locality\"\u003ePokhara\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e33700\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Lakeside Street, Pokhara 33700, Nepal",
+      "formatted_phone_number" : "061-466501",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.215323,
+            "lng" : 83.958613
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id" : "b0fd81009de9a7ebf96f2ac93cb00e0fc2c063bd",
+      "international_phone_number" : "+977 61-466501",
+      "name" : "Godfather's Pizzeria",
+      "place_id" : "ChIJQdQVKOKUlTkRgCXXxy-WfaE",
+      "reference" : "CnRoAAAACt7jTSPN6ITGzoFAYCz2FYpVbRQ-8Czu-AIlzANhZ6W7BFTYuPJL6XVdM9ejo2SzoQ0r8kHuIBN0hFSz-IlatGr63lLbSyf84pU9nr0dJTj7evW9vpQs-sW28plkgQZFpt44krd5nnrUbgY6DncqhxIQJ9xIk6koQTkaNnhoGKer2BoUss4_nS-ixDZ9poGfTjRMS4mahpQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Paige Honor",
+            "author_url" : "https://plus.google.com/109060918993619535940",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Great pizza, and friendly staff!",
+            "time" : 1428493263
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "日野豪公",
+            "author_url" : "https://plus.google.com/116349479982134382451",
+            "language" : "ja",
+            "rating" : 5,
+            "text" : "ピザ旨い！",
+            "time" : 1395815538
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "establishment" ],
+      "url" : "https://plus.google.com/103279769107033508574/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 345,
+      "vicinity" : "Lakeside Street, Pokhara"
+   },
+   "status" : "OK"
+}

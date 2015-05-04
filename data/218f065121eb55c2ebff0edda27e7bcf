@@ -1,0 +1,86 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Charpane",
+            "short_name" : "Charpane",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Mechi",
+            "short_name" : "Mechi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Eastern Region",
+            "short_name" : "Eastern Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "57204",
+            "short_name" : "57204",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eCharpane\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e57204\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Charpane 57204, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.639625,
+            "lng" : 87.963735
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "ca2d8058c36180c10537f1509f9ef5f0766b2d2b",
+      "name" : "Bijay Mistan Bhandar",
+      "photos" : [
+         {
+            "height" : 600,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/114280320517593819373\"\u003eAjay shah\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAeVOczhz5P3l3JMkJU4uqTRd2mP1cG_eUa-h4U6vKPKw-h-2ApQN9WrirJ3FYoCE23lHZQYVe359ONEZ5h4ufQ2YDJW8J5s8WY4EvJV04-HAUdO6SgUCjUyXXqoEf1MsBg_kWtfD5evAa4_zjAGI3cRIQgBZBxBBLbFWQDG-cCQSDOxoUDDEAie9oHe0fepH2OsWi_Zdh2MY",
+            "width" : 800
+         }
+      ],
+      "place_id" : "ChIJQ4pq6Qe75TkR8vvpr7_l6xk",
+      "reference" : "CnRnAAAAU3sXDVHE_pkwwBbfShFFbQ8oaJj_VP9DMbeGPyivi-UFIiy7VkE6tFZ6tzTQTGNCH0Kee9Wefz7S6tXTX648WOsYxA_2gwBTE00d4s_zluudCpm64AzrJg9WtAm8cLUeqgL8TuHhVf13GqOSRrEe0RIQr4kEj_A7x60y48ial9WRghoULdGwjX4uxFTr9fZvtk2vNhtd9rY",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 2,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 2,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Ajay shah",
+            "author_url" : "https://plus.google.com/114280320517593819373",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "\n",
+            "time" : 1388215747
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "food", "store", "establishment" ],
+      "url" : "https://plus.google.com/109513494351532003122/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Charpane"
+   },
+   "status" : "OK"
+}

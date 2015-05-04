@@ -1,0 +1,72 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "H12",
+            "short_name" : "H12",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Birendranagar",
+            "short_name" : "Birendranagar",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bheri",
+            "short_name" : "Bheri",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Mid-Western Region",
+            "short_name" : "Mid-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "21700",
+            "short_name" : "21700",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eH12\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBirendranagar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e21700\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "H12, Birendranagar 21700, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.586962,
+            "lng" : 81.62298800000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+      "id" : "d9fa9f81449587f578777cdeb94df081c8b8252c",
+      "name" : "Uma Petrol Pump",
+      "place_id" : "ChIJT1e5CO2FojkRaLeZmNau_aY",
+      "reference" : "CnRjAAAAB0KAy2_Zjlmi6zanslUtjlUj3_WVgZTTf4faqVmpfwBpoBkP445ErBC66RJWXfizb39u0puTBpc5KQniLjqLl9MQM0TWgwLxwKxOKROU5aVoQdbDYu1lXJMSMusjknFp0gMQfwWdRorwQjLI8UWZyxIQWF2nAXir_WLcf2E91k9mGhoUL16k3GEr6My4KCKfLo9kIbUjbg0",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1322150640
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "gas_station", "establishment" ],
+      "url" : "https://plus.google.com/116095891877321381927/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "H12, Birendranagar"
+   },
+   "status" : "OK"
+}

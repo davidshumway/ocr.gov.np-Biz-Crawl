@@ -1,0 +1,162 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Bhimad Sankhar Highway",
+            "short_name" : "Bhimad Sankhar Hwy",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Sundar Basti",
+            "short_name" : "Sundar Basti",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Bhattarai Danda",
+            "short_name" : "Bhattarai Danda",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Sankhar",
+            "short_name" : "Sankhar",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Gandaki",
+            "short_name" : "Gandaki",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Western Region",
+            "short_name" : "Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eBhimad Sankhar Highway\u003c/span\u003e, \u003cspan class=\"locality\"\u003eSankhar\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Bhimad Sankhar Highway, Sankhar, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.885255,
+            "lng" : 83.931754
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "ae2e3fa89724b1571fe976de93bc78edb2752e74",
+      "name" : "Setu Grocery",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0600"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 6:00 am – 10:00 pm",
+            "Tuesday: 6:00 am – 10:00 pm",
+            "Wednesday: 6:00 am – 10:00 pm",
+            "Thursday: 6:00 am – 10:00 pm",
+            "Friday: 6:00 am – 10:00 pm",
+            "Saturday: 6:00 am – 10:00 pm",
+            "Sunday: 6:00 am – 10:00 pm"
+         ]
+      },
+      "place_id" : "ChIJJRZY___JlTkRy-iQ2tp-sxY",
+      "reference" : "CmRfAAAAt_c9nin1SifGlwr7sD1v8r3H17GQi5TCKRKGI8hvF9od2TfFQtx3lDpqRCoG9-KZwMx1EGpmojHy_YA_sjk16lovk9HoPLDUel_Gd7TLsbJNXovO5_jy3awasdW9s3ceEhC76_4Z-d2wEitOH4s1txucGhSGBbrVZNHfYJXG6AJcnDGc868SpA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Pitambar Bhattarai",
+            "author_url" : "https://plus.google.com/103766819006985810785",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Wanted discount???",
+            "time" : 1420297788
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+      "url" : "https://plus.google.com/105101331047889144220/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Bhimad Sankhar Highway, Sankhar"
+   },
+   "status" : "OK"
+}

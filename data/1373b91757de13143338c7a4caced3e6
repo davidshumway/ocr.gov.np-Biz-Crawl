@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Main Road",
+            "short_name" : "Main Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Sitamarhi",
+            "short_name" : "Sitamarhi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "843302",
+            "short_name" : "843302",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eMain Road\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e843302\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Main Road, Bihar 843302, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.594304,
+            "lng" : 85.49506700000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "cb709ebacab30732dbdac03dbd60eb0e2bf7da0e",
+      "name" : "Gaurav Electronics",
+      "place_id" : "ChIJreMskhnx7DkRvM7O3s347Kw",
+      "reference" : "CnRmAAAAH-nypirZMhwqNo5CdtWrbcXtxynJDQMX8pIjjJ6XGpYtievV_F-PpUVYB3P8yTNwOEZH_TgAtZP4TKURZ3E6NHYewuEeKtCVpjQmGjBqinOP-ucFMGFbpA2fIgm7WQOE-H432kGLZXy4ix0lF_WATBIQ0ecc3pWyn91aKCsAMyCl7RoU91bmzWqw3Xww8h6AnCcCxWYG8EQ",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/108219665329599336930/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Main Road"
+   },
+   "status" : "OK"
+}

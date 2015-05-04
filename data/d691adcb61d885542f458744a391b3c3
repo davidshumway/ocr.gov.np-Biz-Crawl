@@ -1,0 +1,82 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Katari",
+            "short_name" : "Katari",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Sagarmatha",
+            "short_name" : "Sagarmatha",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Eastern Region",
+            "short_name" : "Eastern Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "56300",
+            "short_name" : "56300",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eKatari\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e56300\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Katari 56300, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.957013,
+            "lng" : 86.369501
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+      "id" : "b3a2786eca8b713380379a55974f75f709dc4cbf",
+      "name" : "Shiva Mandir",
+      "place_id" : "ChIJYTLeInKv7jkRfFmw_O6uKqE",
+      "reference" : "CmRgAAAASutpccBGr0Fr0-d2K4mXjI4YSPF5x5G22NQYTV14mm0oziRPpE77BswpZ2GmynLOQn5L7_uOSSOtn3B8X2_WB22262v9AZ-Vf6FvMOEZcKDZqZuGTnOn4YUO7EC8BKl_EhByEEIe1IZY5nenLzdHIFP8GhR_KSFfWAWPXdSGxz_QcOmNdhxT6Q",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Manjesh Shrestha",
+            "author_url" : "https://plus.google.com/102554459196418745634",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Visit katari",
+            "time" : 1386331194
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Arun Adhikari",
+            "author_url" : "https://plus.google.com/107299917176740102908",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1380334965
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "hindu_temple", "place_of_worship", "establishment" ],
+      "url" : "https://plus.google.com/117583428875721117871/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 345,
+      "vicinity" : "Katari"
+   },
+   "status" : "OK"
+}

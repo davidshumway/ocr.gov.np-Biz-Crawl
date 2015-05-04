@@ -1,0 +1,132 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Ring Road",
+            "short_name" : "Ring Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Samakhusi",
+            "short_name" : "Samakhusi",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kathmandu",
+            "short_name" : "Kathmandu",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "44600",
+            "short_name" : "44600",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eRing Road\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e44600\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Ring Road, 44600, Nepal",
+      "formatted_phone_number" : "01-4352978",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.734794,
+            "lng" : 85.317916
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "b88ce246a86e7d07de2ee294f4b7569e6f3ae7ea",
+      "international_phone_number" : "+977 1-4352978",
+      "name" : "Hardware Trade Concern",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0730"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0730"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0730"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0730"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0730"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0730"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 7:30 am – 7:00 pm",
+            "Tuesday: 7:30 am – 7:00 pm",
+            "Wednesday: 7:30 am – 7:00 pm",
+            "Thursday: 7:30 am – 7:00 pm",
+            "Friday: 7:30 am – 7:00 pm",
+            "Saturday: Closed",
+            "Sunday: 7:30 am – 7:00 pm"
+         ]
+      },
+      "place_id" : "ChIJURKhsyYZ6zkRTaVXYaAck78",
+      "reference" : "CnRqAAAAdXOuY8yZg6uPUQj_qwn2H1VpNlfSwyoILKsqa-2lo9QkqrnoxCjsCSAwVeSIVjmkecVVl2u1zCjiJws3vgEkuLqwxQ5cUjqu28l5k-3fiVaTiH0yNZVHDGVk2nD69zojz_172yx_QfpOykABSd-DkhIQYkukirhmELC9ouFbE6R-6xoUjuRM9qdfHAy2hBOyCrvp5dhCsuw",
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/105140547815412777308/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "Ring Road"
+   },
+   "status" : "OK"
+}

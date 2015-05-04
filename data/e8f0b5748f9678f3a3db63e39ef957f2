@@ -1,0 +1,73 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Shanti Nagar Tole",
+            "short_name" : "Shanti Nagar Tole",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Pokhara",
+            "short_name" : "Pokhara",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Gandaki",
+            "short_name" : "Gandaki",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Western Region",
+            "short_name" : "Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "33700",
+            "short_name" : "33700",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Shanti Nagar Tole, \u003cspan class=\"locality\"\u003ePokhara\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e33700\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Shanti Nagar Tole, Pokhara 33700, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.213792,
+            "lng" : 83.97254
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "5a97f926966e715cd8901f63d272563c04cafb56",
+      "name" : "Rachana Grocery Store",
+      "place_id" : "ChIJpexG2P-UlTkRYXMmnBIOJWk",
+      "reference" : "CnRoAAAAvcbzFulyhQYCLu7NGJP_smWL0Ggo7aHXNg4KcQTHBQdoAHOwo8kuO6sWTd4INkOkh2yXNV3ZU16w61pUzYQ4kct8HD1fqP4cFGJfyPbfMmip83srZAjStvaV2BmKrrhFVcccYLQ8q7lEiJJ8ZRJmmRIQDlMeAhetiJeH6gf-rG9mfhoUlaAII_UWnDDjJLnd2scbHUsaBmI",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "anjit baral",
+            "author_url" : "https://plus.google.com/106912426908784670093",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Perfect Grocery Store. LOved it.",
+            "time" : 1425463789
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+      "url" : "https://plus.google.com/103232313270779827247/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Shanti Nagar Tole, Pokhara"
+   },
+   "status" : "OK"
+}

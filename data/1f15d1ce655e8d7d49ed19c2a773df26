@@ -1,0 +1,115 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Birendranagar",
+            "short_name" : "Birendranagar",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bheri",
+            "short_name" : "Bheri",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Mid-Western Region",
+            "short_name" : "Mid-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "21700",
+            "short_name" : "21700",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eBirendranagar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e21700\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Birendranagar 21700, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.608402,
+            "lng" : 81.610477
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "7f955b3da4c4ffaecb1c731d7c55eb5013789557",
+      "name" : "मसलाघारी पार्क",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "0530"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "0530"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "0530"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "0530"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "0530"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0700"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 7:00 am – 5:30 am",
+            "Tuesday: 7:00 am – 5:30 am",
+            "Wednesday: 7:00 am – 5:30 am",
+            "Thursday: 7:00 am – 5:30 am",
+            "Friday: 7:00 am – 5:30 am",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ05jioVGPojkRcc8AJ6qtKkw",
+      "reference" : "CoQBewAAAP639EVP1cuafVQY9Vdwh9HqqEmKmP-Ne8XCqbor0Ctb_KtK6Ccup8x4Em9RBV-K8Iq3HNVJSae8l5dkqRIDnUOvTIDBJVVIFVQHOdPKi7-lSXR6dDph2H3Tx-B441oB7Sz-T2uWFKGDhrRKvmYl9lrwPmAREhOfm1xyme0RiVjFEhC4kvfESNmLqFheYC1HwsSTGhRzVndTUyKe84FiMKoaoPr1rUPrQg",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "establishment" ],
+      "url" : "https://plus.google.com/114377338748299195364/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "Birendranagar"
+   },
+   "status" : "OK"
+}

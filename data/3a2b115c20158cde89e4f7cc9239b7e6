@@ -1,0 +1,83 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Tikapur",
+            "short_name" : "Tikapur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Seti",
+            "short_name" : "Seti",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Far-Western Region",
+            "short_name" : "Far-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10901",
+            "short_name" : "10901",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eTikapur\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10901\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Tikapur 10901, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.522113,
+            "lng" : 81.1234
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/airport-71.png",
+      "id" : "788cd348d47ecef4223a368e209b89e8475d15c6",
+      "name" : "Tikapur Airport",
+      "place_id" : "ChIJm2CkStoMojkR3Fr41LPowrY",
+      "reference" : "CnRjAAAAamArW_XtTAZelVn70Vv8KvDyC8oeA4e6R9KChsdnc4vux7vO9RpfKXT5j4nXMLL8eX75wylMcQa8CmT8SEs_ZNlnTel5qaGiF_WKHKblCdgNCg3rW9wUMBxziH5veVSgSx5uhLg0MXUPXTtaZ0rt7RIQyw0Yl-2aihhNDv7bbcTPKRoUnDNSYA_ImEko2RRRrk_8VbYWI18",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Narbdr Saud",
+            "author_url" : "https://plus.google.com/108688946902758300738",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "So  suitable",
+            "time" : 1370273855
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Nabin Singh",
+            "author_url" : "https://plus.google.com/104522357217804776310",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1428250038
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "airport", "transit_station", "establishment" ],
+      "url" : "https://plus.google.com/105704878111380508335/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 345,
+      "vicinity" : "Tikapur",
+      "website" : "http://www.flyhere.com/"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,67 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Vishnupura Road",
+            "short_name" : "Vishnupura Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Lumbini",
+            "short_name" : "Lumbini",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Western Region",
+            "short_name" : "Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "32900",
+            "short_name" : "32900",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eVishnupura Road\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e32900\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Vishnupura Road, 32900, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.658939,
+            "lng" : 83.245087
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "df5eb13d1c5a0ebce458660838445a8f8d747c3b",
+      "name" : "Piprchapa Chaupari",
+      "place_id" : "ChIJR051ZFHzljkRmb_wFj1xv7s",
+      "reference" : "CnRmAAAAdTe6yyPbhA_eNevEb1Vaw0ZEPNizap_KBYVhyjarSFEyn0TnUqhw6OHvsBUeuhHVSyTamjSm6qyZNQbGyc25Dn8HPfAKhEResS7dpWEYPK2BFpjNfwHgnzUWoVR1y1GZD8jP67sjRcNLwi8Gw5wpfhIQpASHv-Nb3g2HuxaEHpifIxoUBaRf9SoTu6wYNDVaX3CMnL4E4sg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1344608766
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+      "url" : "https://plus.google.com/110452150743549510529/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Vishnupura Road"
+   },
+   "status" : "OK"
+}

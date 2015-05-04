@@ -1,0 +1,73 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "NH 104",
+            "short_name" : "NH 104",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Khutuana",
+            "short_name" : "Khutuana",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Madhubani",
+            "short_name" : "Madhubani",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "847227",
+            "short_name" : "847227",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNH 104\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKhutuana\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e847227\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "NH 104, Khutuana, Bihar 847227, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.497356,
+            "lng" : 86.396168
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+      "id" : "38e18531f1a2c9945def9af5c705bca17336c52b",
+      "name" : "M/S Devendra Diesel Service",
+      "place_id" : "ChIJVXvvfL6F7jkR1yL1RaOxF0Q",
+      "reference" : "CnRuAAAAHCR-Dy7JCf0LusriP8BXCT8LQvr3bhVdNh2AA_ZCG9e_YisDAJCMc1ODiJB8q1DuHhMCp50CXn9GTQesuWV2R9qL8vYGhG70GR9j7qEskK_uKZ_qxczo1rWzrxC4NhZWBO8XuL9egtjU4_AKAchIwRIQVUJbHnfajINfPPG07golDxoUiXWSljLltvuZNSGP6eDg55fbKpM",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Aro Cullen",
+            "author_url" : "https://plus.google.com/113111135447759680852",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "khutauna-jaynagar road near indira chouk",
+            "time" : 1384275826
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "gas_station", "establishment" ],
+      "url" : "https://plus.google.com/102524836332569519757/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "NH 104, Khutuana"
+   },
+   "status" : "OK"
+}

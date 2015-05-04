@@ -1,0 +1,152 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "East-West Highway",
+            "short_name" : "East-West Hwy",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Narayani",
+            "short_name" : "Narayani",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "44202",
+            "short_name" : "44202",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eEast-West Highway\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e44202\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "East-West Highway, 44202, Nepal",
+      "formatted_phone_number" : "056-582358",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.611959,
+            "lng" : 84.57140099999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "78bf363a47246938ced47f3f08654ececb7594f2",
+      "international_phone_number" : "+977 56-582358",
+      "name" : "Shrestha Traders",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0700"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 7:00 am – 6:30 pm",
+            "Wednesday: 7:00 am – 6:30 pm",
+            "Thursday: 7:00 am – 6:30 pm",
+            "Friday: 7:00 am – 6:30 pm",
+            "Saturday: 7:00 am – 6:30 pm",
+            "Sunday: 7:00 am – 6:30 pm"
+         ]
+      },
+      "place_id" : "ChIJqQHx8WbolDkRZFX2sCvwbk0",
+      "reference" : "CnRjAAAAayks-uDs2vSRMLDsX7h4AV9JdWFsNt8qFlPABvJrFYD0kp5AQQVLcvTqqFISei_ruwzGhXvAXgIEmNx-B8SogG8ox1x1zgqtxrep9gMu4Fg8_jRPYWxOxGhnpQLrkB-sTTQgP15mjTCd8UKgslHeJxIQhTtHOaZF1bZIc7AxI2tLOBoUDCrRqx4Mqym2nKdHICTvkiZZ78Q",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 2,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 2,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "anurag shrestha",
+            "author_url" : "https://plus.google.com/112651614426085702827",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1361525678
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/111970098188639458726/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "East-West Highway"
+   },
+   "status" : "OK"
+}

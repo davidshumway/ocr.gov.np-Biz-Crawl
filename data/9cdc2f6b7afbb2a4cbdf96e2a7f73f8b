@@ -1,0 +1,68 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Sauraha",
+            "short_name" : "Sauraha",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Narayani",
+            "short_name" : "Narayani",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "SAURAHA 2",
+            "short_name" : "SAURAHA 2",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eSauraha\u003c/span\u003e \u003cspan class=\"postal-code\"\u003eSAURAHA 2\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Sauraha SAURAHA 2, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.574796,
+            "lng" : 84.49861799999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id" : "432bc7b86bc58c00e703ebdfabad6b43b3a5d500",
+      "name" : "Crocodile Safari",
+      "place_id" : "ChIJwe6p2ObulDkR5ybhRrlHAvI",
+      "reference" : "CnRkAAAAM5QSUOJFI88tk_ghxrkxetBu2cSO9iMXRiPfeyHIeZVeqddAmFk2wgqRWWBqss0weyInjjjGvF464-WJsRNqp08_b_SPYUVlaRXWZfdCVdHag519k2-juzUlhytX74QIpVLpNmMAEsMzFh0rqKkdchIQ_eWaWdMCba_EVKkkPgFqQBoUYUjywZfG70j-5RznwkqDz8wKni0",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Евгений Краббс",
+            "author_url" : "https://plus.google.com/110463193168461184763",
+            "language" : "ru",
+            "rating" : 4,
+            "text" : "Очень хорошее место, гостеприимные хозяева.",
+            "time" : 1340008598
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "lodging", "establishment" ],
+      "url" : "https://plus.google.com/110615523484622704434/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Sauraha"
+   },
+   "status" : "OK"
+}

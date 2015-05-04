@@ -1,0 +1,66 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "NH 104",
+            "short_name" : "NH 104",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Sitamarhi",
+            "short_name" : "Sitamarhi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNH 104\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "NH 104, Bihar, India",
+      "formatted_phone_number" : "1800 11 2211",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.59372,
+            "lng" : 85.502735
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "529897719b2eeebcbad705560f19d47a08d0a241",
+      "international_phone_number" : "+91 1800 11 2211",
+      "name" : "SBI ATM",
+      "place_id" : "ChIJGe_ACCPx7DkR9s0a53WKfCM",
+      "reference" : "CmRaAAAAxIphuWgPbwK4wcgyqRp-os_D5tiEVIOl5DK9ghC4Aj05-xNe-VPeRFrEZh5yvGTi4Oro4AIMwe1tKhRwdYAKrdyBtkm4fM6lkOGqYAlFcdLUYgO2ageV3y_5wdkOoA6fEhAe6XCqTfhI4Z4E8xlcmZvuGhTYvsUWQNya5r4dPolUefxGmrfpwQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "RASHMI REKHA",
+            "author_url" : "https://plus.google.com/109054090529822401997",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "",
+            "time" : 1365015588
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "atm", "finance", "establishment" ],
+      "url" : "https://plus.google.com/115958100141134273244/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "NH 104",
+      "website" : "http://www.sbi.co.in/"
+   },
+   "status" : "OK"
+}

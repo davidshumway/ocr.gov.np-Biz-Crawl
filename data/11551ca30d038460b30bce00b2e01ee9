@@ -1,0 +1,125 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "East-West Highway",
+            "short_name" : "East-West Hwy",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bauniya Bazar",
+            "short_name" : "Bauniya Bazar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Dododhara",
+            "short_name" : "Dododhara",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Seti",
+            "short_name" : "Seti",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Far-Western Region",
+            "short_name" : "Far-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10900",
+            "short_name" : "10900",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eEast-West Highway\u003c/span\u003e, \u003cspan class=\"locality\"\u003eDododhara\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10900\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "East-West Highway, Dododhara 10900, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.659292,
+            "lng" : 81.047921
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id" : "a65141538369fc53f97c1032ea6c09566e0933d1",
+      "name" : "Anukul Hotel & Lodge",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2130"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0500"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2130"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0500"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2130"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0500"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2130"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0500"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2130"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0500"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 5:00 am – 9:30 pm",
+            "Tuesday: 5:00 am – 9:30 pm",
+            "Wednesday: 5:00 am – 9:30 pm",
+            "Thursday: 5:00 am – 9:30 pm",
+            "Friday: 5:00 am – 9:30 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJKU4cgMsWojkRha9YOSDgbS8",
+      "reference" : "CnRnAAAAXUlq_uLUP8fkGN241-yWMER7el_NgMIYNoz1-Oc_o9vczfIGypvh7b3z0b7ZQofOydL-ykY6Ihe4lDIJtMDMrx2gY8GrEqBcBl8BfCl5Pf5rvZ9oMkV659-r5TxMuzEnFWNmswmycb8peAC1Jhk95xIQyNDeVFfBi53gZQbYoP-WmBoUB6sSrTD_WJ-ggrtHm7Ac1StKsx0",
+      "scope" : "GOOGLE",
+      "types" : [ "lodging", "establishment" ],
+      "url" : "https://plus.google.com/107825125326751108969/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "East-West Highway, Dododhara"
+   },
+   "status" : "OK"
+}

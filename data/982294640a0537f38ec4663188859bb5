@@ -1,0 +1,81 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "East-West Highway",
+            "short_name" : "East-West Hwy",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Gaindakot",
+            "short_name" : "Gaindakot",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Lumbini",
+            "short_name" : "Lumbini",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Western Region",
+            "short_name" : "Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "33000",
+            "short_name" : "33000",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eEast-West Highway\u003c/span\u003e, \u003cspan class=\"locality\"\u003eGaindakot\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e33000\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "East-West Highway, Gaindakot 33000, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.705505,
+            "lng" : 84.39676300000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "f0056e650b320b95bd46a53f32cf8d7e855e942c",
+      "name" : "Nepal Pharma",
+      "place_id" : "ChIJTxvn-nf7lDkRHO4K7jT94R0",
+      "reference" : "CmRfAAAAmtekBg8ZPCG3jcO4LVv42cbcsgna80rmkl9hSJXviWYBnyQR_MxswNLEfRXmHrPgJDpsd8eP7LH8lq7Mv87PRgVgoy0g10xAs3OcI4P3Hbm3NGszQnV5IkvraxBENuHFEhBBX1x8ZOMXq_cbPBAZZKVfGhS3MTT4tK7QwhRIK1RLSgDiEXnSPQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Shyam barma",
+            "author_url" : "https://plus.google.com/103938420274032287635",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1367257645
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/109588275069190035282/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "East-West Highway, Gaindakot"
+   },
+   "status" : "OK"
+}

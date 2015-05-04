@@ -1,0 +1,67 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Ilam",
+            "short_name" : "Ilam",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Mechi",
+            "short_name" : "Mechi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Eastern Region",
+            "short_name" : "Eastern Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "57300",
+            "short_name" : "57300",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eIlam\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e57300\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Ilam 57300, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.911798,
+            "lng" : 87.93160399999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "e0854529ae8145effc69006ac4a64a9acb1ef6f2",
+      "name" : "Mount Mechi Boarding School",
+      "place_id" : "ChIJ3wLn0IfD5TkReb-5U22vpu4",
+      "reference" : "CnRvAAAA9rxF68aOBGxjo3TWB1zzMzB0eEuumG17-dPKWMfuNbT5bg_gCUpzZSSkorNhHwn_0rsaQfeNMosyBJ0fM9T7vIHW_Dfiu6cfyvkeboCDpdahZUINcKzvQi7HkcdOqz8UYhXhl0GpHg2GA8G6ueqZoBIQfTMdzp-BnTS9H8qOt2aIDBoUE_Q-YlK8oTWchh_SMXZ_yBhe-tg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "My school, my childhood, my memories, my friends, my teachers... all I find here... no matter where I toil but all credit goes to this school. Thank u very much. Hats off....",
+            "time" : 1293766285
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "school", "establishment" ],
+      "url" : "https://plus.google.com/101186992303648990872/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Ilam"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,89 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Birgunj",
+            "short_name" : "Birgunj",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Narayani",
+            "short_name" : "Narayani",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "44400",
+            "short_name" : "44400",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eBirgunj\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e44400\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Birgunj 44400, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.031552,
+            "lng" : 84.89359399999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/stadium-71.png",
+      "id" : "2cc1032d4f2efd61cc8fa90f57e7fecfba46458c",
+      "name" : "Narayani Stadium",
+      "photos" : [
+         {
+            "height" : 640,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CnRwAAAAI7Um51ZWmmpYAoIp4wO3kmFypO9amXoQmIJGNInBArfnNwfLCLQEFs6bFHL1i5JwnlXzUYm__BOKjJ_Xc7GVeExXGT4qTJgyK7xQEPa7tbRPmEe2jJYa5i-o2MnRHwNKn-SXR3ULfksAl83XBglD2hIQ74YC5zD0ikCCtAFXvzntlhoUuNaUATd7jXCfQyo3rCBRfF_5KuU",
+            "width" : 480
+         }
+      ],
+      "place_id" : "ChIJ5zrahVRUkzkRGVs1-0E_wsI",
+      "reference" : "CnRkAAAAIMm082IUyWcnTtUR7rqjvOlrHYc64r-cc4RRRskLPBpr_fwaEwJnzUyelb6A_r8BDK7HjEVmWeuv05wyHWL5EOA4KVdwJVnc1zmrLCCZbW-Z5Zm2S0vC6IQSU0V6mOo2_z2mIIN1H_TXaTG05qRzLxIQIMMLCUnYt28GGIECxnF4hhoUVixtquRoN_xC-Ifie9t3v9JzI3k",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Sudha Singh",
+            "author_url" : "https://plus.google.com/116060759704972594337",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1402116558
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1333199870
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "stadium", "establishment" ],
+      "url" : "https://plus.google.com/108092241101695987493/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 345,
+      "vicinity" : "Birgunj"
+   },
+   "status" : "OK"
+}

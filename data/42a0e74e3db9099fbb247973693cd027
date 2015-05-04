@@ -1,0 +1,73 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Hospital Road",
+            "short_name" : "Hospital Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Ghorahi",
+            "short_name" : "Ghorahi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Rapti",
+            "short_name" : "Rapti",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Mid-Western Region",
+            "short_name" : "Mid-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "22415",
+            "short_name" : "22415",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eHospital Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eGhorahi\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e22415\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Hospital Road, Ghorahi 22415, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.037819,
+            "lng" : 82.491896
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "1e5710f09f8581f25b92a53f6c611ceed58f94da",
+      "name" : "Rapti Sub-Regional Hospital",
+      "place_id" : "ChIJBULXcGaUlzkRvei5yqx6NNY",
+      "reference" : "CnRvAAAA2Ke5tOV2--xCassu3dRCPBh7itN-Y2Rp7Kg-Zwf6xvrOvLQmFnTUhy3a_Cf0HGCYEs4h7aDfVSbzzaprvwC2hzfSK-b8kSdScA4PA6JGC2-YHEZijrXjmq_C6mSl7yHNOZpHV-fx-Qd-XThuT1i_ehIQLT-xu5Wc5oKuxBrHjxjEEBoUCkUFhfVkxNN8rrE6rnpkq8aP5YE",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "sidzean poon",
+            "author_url" : "https://plus.google.com/102807744310984037342",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "Rapt sup \n",
+            "time" : 1355670973
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "hospital", "establishment" ],
+      "url" : "https://plus.google.com/102040959487827735605/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Hospital Road, Ghorahi"
+   },
+   "status" : "OK"
+}

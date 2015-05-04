@@ -1,0 +1,126 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Budol",
+            "short_name" : "Budol",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Dhulikhel",
+            "short_name" : "Dhulikhel",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bagmati",
+            "short_name" : "Bagmati",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "Budol, \u003cspan class=\"locality\"\u003eDhulikhel\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Budol, Dhulikhel, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.61895,
+            "lng" : 85.53861499999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+      "id" : "428dabacafef4b60da1c7738828cee5d3939def9",
+      "name" : "Kathmandu University Central Library",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 am – 8:00 pm",
+            "Tuesday: 8:00 am – 8:00 pm",
+            "Wednesday: 8:00 am – 8:00 pm",
+            "Thursday: 8:00 am – 8:00 pm",
+            "Friday: 8:00 am – 8:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 612,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/115545618369469619174\"\u003eSuyogya Ratna Tamrakar\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAIEYORQ0-B51zYs8NWcSyDrg3Hf8De5tmYnGYws1vgMWq15mFhpbP68j9ailEGHVEaWji1KtV1cE9h5x15gAm4zvin7m3KT7m6UeytXm6SADBtqC0rN19RlDKcy9nOcKPTOQB_cbkZLy5w-UpsFZ0DBIQ3V6rPxTs9ro9u1UxcNSKQRoUixDE2dggfX18u-GL5Hpv21eXmJk",
+            "width" : 816
+         }
+      ],
+      "place_id" : "ChIJT930h98I6zkR_O5DLS1X0PE",
+      "reference" : "CoQBeAAAAE6aXYPWWK7bXqav7-BMdiOn7aDobJEerYqhxxFCRywsUlfCmQPvztPmWnapIyP6rgWrtAZufuxdmPwpj0_xIyxxMXyg26KHsU1yVcRcobfykA0e5OOtX0RFcCD9khTXZNfQdWQ4sJN4MtIH9JQUA_C3kmBhnR51vDRAqaXh2y_MEhDIaLc_qpLUQz1_lo9FHMaMGhT0gzM9GyNQBjd4LFztWiHWTCHS7g",
+      "scope" : "GOOGLE",
+      "types" : [ "library", "establishment" ],
+      "url" : "https://plus.google.com/117145940074266971252/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "Dhulikhel",
+      "website" : "http://www.ku.edu.np/library"
+   },
+   "status" : "OK"
+}

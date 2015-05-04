@@ -1,0 +1,73 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Uttar Behedi Marg",
+            "short_name" : "Uttar Behedi Marg",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Dhangadhi",
+            "short_name" : "Dhangadhi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Seti",
+            "short_name" : "Seti",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Far-Western Region",
+            "short_name" : "Far-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10900",
+            "short_name" : "10900",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eUttar Behedi Marg\u003c/span\u003e, \u003cspan class=\"locality\"\u003eDhangadhi\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10900\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Uttar Behedi Marg, Dhangadhi 10900, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.709866,
+            "lng" : 80.574657
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "d6ef81c88be3d8d56dcb3387db36048a1d53e33b",
+      "name" : "The Garden School",
+      "place_id" : "ChIJW6fhY87soTkR8nztXhlB42I",
+      "reference" : "CnRkAAAA00OUUtqVIR_0aHKYvealPwHuxKXqaxVUg9GU7N2HfEAiksPr804L_rMgZaOzKjinn8seju4v7A6yOsjHShzih_Ep03B5E9einCKGcNP0rhPUIM3hS3kw5LQuYmOrvq6grFuuqyA_1HgTv8_LdJ0JeBIQW-iRfk1K75bk_Jq82jYZxxoUFTbau3-d0w6A8dHspsOd5GWfJNs",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "dipesh phulara",
+            "author_url" : "https://plus.google.com/105784641824258344068",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "Its the gardner school not the garden school",
+            "time" : 1362866804
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "school", "establishment" ],
+      "url" : "https://plus.google.com/111423001740182523260/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Uttar Behedi Marg, Dhangadhi"
+   },
+   "status" : "OK"
+}

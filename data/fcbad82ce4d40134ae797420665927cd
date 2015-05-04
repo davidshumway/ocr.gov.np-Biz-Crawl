@@ -1,0 +1,78 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Hospital Road",
+            "short_name" : "Hospital Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bhoop Narayan Singh Colony",
+            "short_name" : "Bhoop Narayan Singh Colony",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Madhubani",
+            "short_name" : "Madhubani",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Madhubani",
+            "short_name" : "Madhubani",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "847211",
+            "short_name" : "847211",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eHospital Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBhoop Narayan Singh Colony\u003c/span\u003e, \u003cspan class=\"locality\"\u003eMadhubani\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e847211\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Hospital Road, Bhoop Narayan Singh Colony, Madhubani, Bihar 847211, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.340058,
+            "lng" : 86.073041
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "ed9157ad670f5c905c83e1e870b385e1465ec01d",
+      "name" : "Pragyan Medical Store",
+      "place_id" : "ChIJy4kfMhXN7TkRP3HjJrkgYGQ",
+      "reference" : "CnRoAAAApYi8g8zox08mbG3-r_aMYzgBKwkviXSiDD4SuD2Mwy7UdyuBDTeaHP79kGcrnxuPjzx35XIuHJYwn37ELeFv84omrieixYp9_G1ehMzjWUY5B4T0zDyp_MOPIEBdaNzkNCvRDX_gh4StCes5FbtzRhIQ5qUsgDfKDkQfsxGReYwAdBoUzSYEUQyQm7A6KON1e574GmJwKps",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Abhinav Kislay",
+            "author_url" : "https://plus.google.com/115306433619673630379",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1311768186
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/100186127934327856620/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Hospital Road, Bhoop Narayan Singh Colony, Madhubani"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,71 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Lazimpat Road",
+            "short_name" : "Lazimpat Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Lazimpat",
+            "short_name" : "Lazimpat",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kathmandu",
+            "short_name" : "Kathmandu",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bagmati",
+            "short_name" : "Bagmati",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "44600",
+            "short_name" : "44600",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eLazimpat Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKathmandu\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e44600\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Lazimpat Road, Kathmandu 44600, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.720649,
+            "lng" : 85.319821
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "d8e81e3cd8917a942048484929ddd1b55c3e5e25",
+      "name" : "Bigmart Supermarket",
+      "photos" : [
+         {
+            "height" : 612,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/108602167743825557585\"\u003ebhabana nepal\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAWIZlPsmEJW-xuQ9yU296WwK_SBhwy0xO8mPUyFbp8d5JB1cb0RIoduhyP-7dvL3E3p4FdcdFYiLLVLVdt5VDr4lFAPg2ghLMWfI4vHW2tv_0PDzrF88727UTIuTN033nZmmM1vU9MJcjAlQV3PUIOhIQCLoBMmeBCP48bb2ntaW9ixoUQESJuWLmCGeI3Gs2ApnDQKvq55s",
+            "width" : 816
+         }
+      ],
+      "place_id" : "ChIJx5ZemhsZ6zkRKKU6kudDj9I",
+      "reference" : "CnRnAAAA0Y2JdpxHRV0MgpW-w8ZBdH90trmIvAZMmVmvgUzDhOQN2YYM1ErINYrv2mN3BSuyIOyrf9DFlTpObQzcxwKk4N_Vo5ZgKWbqyaVzBhtoQAhLqKIt22Guq9eirXWKiIN8HDi7XaLr8M8biva7ZyeaWBIQn2P4GoLsY6PKuloHcSwDjhoUNw43vtrSdWXx_xol5PJTUYRWkCE",
+      "scope" : "GOOGLE",
+      "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+      "url" : "https://plus.google.com/116219587828326283715/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "Lazimpat Road, Kathmandu"
+   },
+   "status" : "OK"
+}

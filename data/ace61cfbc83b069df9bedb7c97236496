@@ -1,0 +1,80 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "NH 104",
+            "short_name" : "NH 104",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Sitamarhi",
+            "short_name" : "Sitamarhi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "843302",
+            "short_name" : "843302",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNH 104\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e843302\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "NH 104, Bihar 843302, India",
+      "formatted_phone_number" : "1800 200 1947",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.594077,
+            "lng" : 85.49010800000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "5fd9dbdac0e665b223fb5587402d7dd92ca2bd83",
+      "international_phone_number" : "+91 1800 200 1947",
+      "name" : "IDBI Bank",
+      "photos" : [
+         {
+            "height" : 960,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/100161751208584124365\"\u003eom jaiswal\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAw3tQp9_OP5LcXVdDxeq0Sv4TxlC-P6PZ91AWitvuqgVBCTvhgFW_lkGCvUMal1Eh7O-Bb_KTfw3iebSPN5jPguB4nhf7oi-oxn6rMu6wqAgyF7qxA4wAFzorvU6nPgYFRsVAkHwBpu_Cjibl-uYYRRIQmk8_PAhr6QeWpcdEiExuRhoUjfmWaQ4J8UvDFfvlgcsFUbKdVZ8",
+            "width" : 1280
+         }
+      ],
+      "place_id" : "ChIJT-jkwxrx7DkRF_BePWnY16Q",
+      "reference" : "CmRdAAAAxNq8A5qukqt3dLtMKU_Z0v-FRN2v_ynyEt1UjRtWFcUG8xSV_zeasajptV1dzM3oDiOqoNT_5FS1hVvbxbe3rOcOFtqT09LxhtEjUe8aBz9-s437kWG_jV-SpHmKSB1BEhCRi8hyyOUYXny3vDptraYpGhRup91Dv2K6R43wp0HNuKe-Xcg9kg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1331625154
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "bank", "finance", "establishment" ],
+      "url" : "https://plus.google.com/108864560533803727058/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "NH 104",
+      "website" : "http://www.idbi.com"
+   },
+   "status" : "OK"
+}

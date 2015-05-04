@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "318国道",
+            "short_name" : "318国道",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Nyalam",
+            "short_name" : "Nyalam",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Xigaze",
+            "short_name" : "Xigaze",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Tibet",
+            "short_name" : "Tibet",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "China",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003eChina\u003c/span\u003e, \u003cspan class=\"region\"\u003eTibet\u003c/span\u003e, \u003cspan class=\"locality\"\u003eXigaze\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNyalam\u003c/span\u003e, \u003cspan class=\"street-address\"\u003e318国道\u003c/span\u003e",
+      "formatted_address" : "China, Tibet, Xigaze, Nyalam, 318国道",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.986149,
+            "lng" : 85.985274
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "e3653765b0a773b7dda420216ca02188f6f85ae3",
+      "name" : "Guang Zuyizu",
+      "place_id" : "ChIJmQBI8-w26jkRTQn3a-0KTUU",
+      "reference" : "CmRfAAAAqNLRbkxiI9w6X1P7-qGEfCFaT0jCR3621OkutrU6Qy5htpgyPBXgbR-A56FTAMZEQdGwofAXANLRK9tn8NMCriR4zT8EG0TuCk_s8Rggj8uJllV_Bzv-vmlcOcwn6A-6EhBjF4KONrt-payHWLJNKRbKGhQlwDYZocNL4Sq9LC_7PkJy8AjZww",
+      "scope" : "GOOGLE",
+      "types" : [ "shoe_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/102968676346901869614/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "318国道, Nyalam, Xigaze"
+   },
+   "status" : "OK"
+}

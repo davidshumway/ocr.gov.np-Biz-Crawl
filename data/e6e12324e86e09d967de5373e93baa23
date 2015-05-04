@@ -1,0 +1,78 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "East-West Highway",
+            "short_name" : "H01",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Birtamode",
+            "short_name" : "Birtamode",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Anarmani",
+            "short_name" : "Anarmani",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Mechi",
+            "short_name" : "Mechi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Eastern Region",
+            "short_name" : "Eastern Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "57204",
+            "short_name" : "57204",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eEast-West Highway\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAnarmani\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e57204\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "East-West Highway, Anarmani 57204, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.642232,
+            "lng" : 87.989598
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "047c0b1618745fb986e7719f0936cc693c6d9c02",
+      "name" : "OM Jhapa Medical Hall",
+      "place_id" : "ChIJOWWWdl-65TkRoAYBbPqTzwE",
+      "reference" : "CnRoAAAAmj9jToZUATU6oWYffx-leUTdKeUxgHIBSb-wP48Ky1ahPkt1LdnKe4iIvkua8pD9gaeLxOtKWzuRh2lYcMLym4HQdSxiG2_sMI-SUC_j3mjr2XJqaJC8G8WWD5t7JUqGT4FLJ0xZgjfp5i0SDbp2pRIQASFQAR59O3a5NpQiE58VxBoUbSZ3UTuhSCd9tJN2hJzDoblArKE",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Ankit khatiwada",
+            "author_url" : "https://plus.google.com/108452340405699210413",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "..",
+            "time" : 1380263061
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/118399848535919077923/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "East-West Highway, Anarmani"
+   },
+   "status" : "OK"
+}

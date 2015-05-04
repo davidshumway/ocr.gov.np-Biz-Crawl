@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Yingbin Road",
+            "short_name" : "Yingbin Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Nyalam",
+            "short_name" : "Nyalam",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Xigaze",
+            "short_name" : "Xigaze",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Tibet",
+            "short_name" : "Tibet",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "China",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eYingbin Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNyalam\u003c/span\u003e, \u003cspan class=\"locality\"\u003eXigaze\u003c/span\u003e, \u003cspan class=\"region\"\u003eTibet\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eChina\u003c/span\u003e",
+      "formatted_address" : "Yingbin Road, Nyalam, Xigaze, Tibet, China",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.986558,
+            "lng" : 85.983375
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "5243492c73fada21c3e26f3ab35422bc0c3a9813",
+      "name" : "Xinhua Bookstore",
+      "place_id" : "ChIJS2cwCO026jkRIlZzqHYTCoM",
+      "reference" : "CnRkAAAAfZp9MgibDho5ZknX7fpvIZwE3f0TMifkohpDK9OkCK_VC_HuF3cg5Xg7XGpw5Au1v96BWZniLVxXDvUmartxaWgLUqXdGqvaLOdr-T9Z7OJr_8t_zijJKMtQ27I2P-RyTATvOKheId_4tZD3X1gt7hIQNaAEWVr9lb4nJ2Emc8AHKhoUK9Mqhg86iXLeiCK_Atrqm5t5sLA",
+      "scope" : "GOOGLE",
+      "types" : [ "book_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/117832476908820536972/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "Yingbin Road, Nyalam, Xigaze"
+   },
+   "status" : "OK"
+}

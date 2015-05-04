@@ -1,0 +1,82 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Butwal",
+            "short_name" : "Butwal",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Lumbini",
+            "short_name" : "Lumbini",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Western Region",
+            "short_name" : "Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "32907",
+            "short_name" : "32907",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eButwal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e32907\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Butwal 32907, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.685743,
+            "lng" : 83.458248
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "3abf5d3b51e04617a82b5e1a1184de791eee0bd2",
+      "name" : "Devinagar Chautari",
+      "place_id" : "ChIJC9LGd3uGljkREtlmbzDNXYI",
+      "reference" : "CnRmAAAA8njhgAi_tu_eyQKhyWY-EYqI4XLjvr4ZVyy5Uq9F5aVDVx3dMdRGa76-D2vxAwhMKUMU2cc0Qfj12sNnqFCUGigpvZDB5KfKOCq3PMxFyofjZQHrhLebJIicagj_f66WD1xT5LQn5AymGFouc2UBSxIQTKnU9gTy3s7EDfH0pZi6DhoUTeYhecQsh35d80J8pWKKvtV7_jg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Milan Aryal",
+            "author_url" : "https://plus.google.com/102434736148560433137",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Awesome Place",
+            "time" : 1423729551
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Amrit Magar Rana",
+            "author_url" : "https://plus.google.com/106264622778944268855",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1424969247
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "park", "establishment" ],
+      "url" : "https://plus.google.com/118192917087290519610/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 345,
+      "vicinity" : "Butwal"
+   },
+   "status" : "OK"
+}

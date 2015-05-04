@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "East-West Highway",
+            "short_name" : "East-West Hwy",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Mahakali",
+            "short_name" : "Mahakali",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Far-Western Region",
+            "short_name" : "Far-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10400",
+            "short_name" : "10400",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eEast-West Highway\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e10400\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "East-West Highway, 10400, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.902454,
+            "lng" : 80.34802500000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "5ad31be3955f274b2b2f7b5ae0b9df0b9995087d",
+      "name" : "Khadayat Clinic",
+      "place_id" : "ChIJVSYTS7mkoTkR8bsNAHLkV3A",
+      "reference" : "CnRiAAAApjVZY28gpyBk1XJu7-9yCB9jA6d8PG1DLHXswAWud8w061PWWNtjoR4jMhfhSRMYmmG-WzImMvV7gLE8dNHZooDqb__Kp9Lam3wEECQqp38s_ds8ZBx-GbusuPAdJfz0_dIY6Jag82vgxIgyglE9XhIQfiWIfB6DkCvlTCCXhpmCbRoUEavPHpaodHDWyYC_fdvukgqBNNE",
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/115474234640662297155/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "East-West Highway"
+   },
+   "status" : "OK"
+}

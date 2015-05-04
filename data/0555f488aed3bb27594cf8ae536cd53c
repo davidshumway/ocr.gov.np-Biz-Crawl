@@ -1,0 +1,71 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Rapti",
+            "short_name" : "Rapti",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Mid-Western Region",
+            "short_name" : "Mid-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "22000",
+            "short_name" : "22000",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Rapti, \u003cspan class=\"postal-code\"\u003e22000\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Rapti, 22000, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.627887,
+            "lng" : 82.19413400000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/airport-71.png",
+      "id" : "718ed2408125556339f323ab7b8ce4daa1ae4dcd",
+      "name" : "Chaurjhari Airport",
+      "photos" : [
+         {
+            "height" : 484,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CoQBcgAAADJB7BLNgZwqPKG2Zmy7sREy8gsh5pu3wuBfq5burPKu70Nh2Wq8wQmOJvBez5Pfmme4A_NuaJSEPRWzwd9KDFyuY9bvuZKfXudhnITIOzH9PEEZc0gCpVhB3MsQ8CH0Lq_OvydNT1U9Mgu3F6CdX8WaXOh4vhxMwxkqY7xboBeoEhCfZSCglbxoJl6iDTQiIJWvGhT0FRcqcinG3OtRcc0WxjnIeoW9sQ",
+            "width" : 720
+         }
+      ],
+      "place_id" : "ChIJQVKt712tojkRLgB6dlOaUQg",
+      "reference" : "CnRlAAAA9ekYa0Go-bi6TYhJoqE416IrNIqY5KJFoghPvcp-CndS9q-FEiDlXT0QjlXcpXa3mgIZt6ysvnOdmiBOHNMRXewl0qTwN49VEYscZx5z5_PI-d_D_UWinUeKkCnJmKkBX8QJUZxAZ9Bmsbm8kMNaCBIQCmBwVTrDenVgh--KojioCBoUyJ-jT2H70RS5-mnbdDchUkF3ZFU",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Tufel Khan",
+            "author_url" : "https://plus.google.com/105604867136854338059",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Very nice palace ",
+            "time" : 1340589071
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "airport", "transit_station", "establishment" ],
+      "url" : "https://plus.google.com/115777833307075706459/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : ""
+   },
+   "status" : "OK"
+}

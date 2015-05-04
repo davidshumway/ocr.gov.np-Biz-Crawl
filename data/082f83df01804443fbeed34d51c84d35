@@ -1,0 +1,73 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Budhabare-Jayapur Road",
+            "short_name" : "Budhabare-Jayapur Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Budhabare",
+            "short_name" : "Budhabare",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Mechi",
+            "short_name" : "Mechi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Eastern Region",
+            "short_name" : "Eastern Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "57205",
+            "short_name" : "57205",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eBudhabare-Jayapur Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBudhabare\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e57205\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Budhabare-Jayapur Road, Budhabare 57205, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.719225,
+            "lng" : 88.021687
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "7a80e81af8ded9d91de5b97c5550db5b8dcaa83b",
+      "name" : "Niraj Clinic",
+      "place_id" : "ChIJeW6RWG-35TkRMNbv_NJtaO8",
+      "reference" : "CmRgAAAAYh8BLaG_M-qkQ2Iz4cxGli3hIcYP20YJYPcC7EW1esoFgEh8FmA6vFYO82lllceFSm6PIbLuHFZhPR8eVGPSZ8LkNu-uGwOEli8h2qepW3DqIu8mDWuAjq_Nnj76UzZwEhAy9LX-PEgibFKrxuUDkLyPGhSZT1CPyo7nU0dHo29_oO8DDTO0YA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Rabin Oli",
+            "author_url" : "https://plus.google.com/104059616566885525336",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "Kind of mafia selling date expired drugs at higher price.",
+            "time" : 1292305422
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/113624286182458374521/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Budhabare-Jayapur Road, Budhabare"
+   },
+   "status" : "OK"
+}

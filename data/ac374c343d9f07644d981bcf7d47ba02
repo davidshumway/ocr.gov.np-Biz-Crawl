@@ -1,0 +1,121 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Naya Bazaar Road",
+            "short_name" : "Naya Bazaar Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Tamghas",
+            "short_name" : "Tamghas",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Lumbini",
+            "short_name" : "Lumbini",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Western Region",
+            "short_name" : "Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "32600",
+            "short_name" : "32600",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNaya Bazaar Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eTamghas\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e32600\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Naya Bazaar Road, Tamghas 32600, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.066912,
+            "lng" : 83.24623
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+      "id" : "9d6fc9f40bb39dcaf95fc34cf3bbf4000b3e4e12",
+      "name" : "Kiran Pustakalaya",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 4:00 pm",
+            "Tuesday: 10:00 am – 4:00 pm",
+            "Wednesday: 10:00 am – 4:00 pm",
+            "Thursday: 10:00 am – 4:00 pm",
+            "Friday: 10:00 am – 4:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJf0wPjt5BljkRvqSsDIb-q7M",
+      "reference" : "CnRlAAAAANzibceIp8OXkxR9_9Jwkib2bpceZ4vtVlyYcFId3nLe2xq5kgoPcHpai02bKkof9QDjsFpZqZBb2SiFu2uiQ66RdoTFRCoCjDrYFLoqgfmi_O2uRvVBQOPPAb4m5hdqbJWAy2nQPxCwyx8hQGIvwxIQiiDhe2VsfB-J3yMXTJ7n2xoUUuQ6kWNIvnvcOAk0Xz6N10qy9WY",
+      "scope" : "GOOGLE",
+      "types" : [ "library", "establishment" ],
+      "url" : "https://plus.google.com/105142123065177059302/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "Naya Bazaar Road, Tamghas",
+      "website" : "http://www.kiranlibrary.com/"
+   },
+   "status" : "OK"
+}

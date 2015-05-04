@@ -1,0 +1,71 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Bheri",
+            "short_name" : "Bheri",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Mid-Western Region",
+            "short_name" : "Mid-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "21800",
+            "short_name" : "21800",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Bheri, \u003cspan class=\"postal-code\"\u003e21800\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Bheri, 21800, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.418094,
+            "lng" : 81.239164
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "c172f97a9c183ad603c1e6e5f34ab92663241726",
+      "name" : "Kishor Medical Hall",
+      "place_id" : "ChIJ5QqyFsN1ojkRmIIL8CVjj7c",
+      "reference" : "CnRnAAAA2JyXt7skUn8ojE3FvHC2pjUqZk_GaOGwU6tmW7RGjwW-ditq5hjsgxlkKaAy0X8U50KFJMP-3du36aK5HDTno9pUJMuQr-r49wNp_NA8YJveYJCXXRDVuEfZZe3jzyvzNOkxcTZLmpWrBniTRYH-ZBIQKThT2b2-QsdVlaprcxDs5hoUjW9ZtK9_OvhrovTIVFw3Mnlk3xI",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "facilities"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Nabin Thapa",
+            "author_url" : "https://plus.google.com/105832399058820960463",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1348947465
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/100757278188258175497/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : ""
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,63 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Bairgania",
+            "short_name" : "Bairgania",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Sitamarhi",
+            "short_name" : "Sitamarhi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eBairgania\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Bairgania, Bihar, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.739886,
+            "lng" : 85.27545000000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+      "id" : "e3a404413792ea758517e254031d1ea644a46918",
+      "name" : "Shivalya Mandir",
+      "place_id" : "ChIJVYCCT16V7DkRtOoOFiDxu-o",
+      "reference" : "CnRjAAAAHwPoKGOV6Kl4uIH01YRqrHt5SQ8Xc15kCNI0aXdXZUBMoHHkvPFlW7KpEKnSzsuSDZHI6DadVfiCa9rFdFxIw1U-gwC6qMFjbLZVKq-GLvf2qF01CnYvRbYuL2hU9iB7PnFGEfB6R_VFkBJHUpKttxIQfS2npz61YewmFEXvbqlzqhoUP2-LYY90cXEwfKbuIlt8BbPcGMg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Naveen Gupta",
+            "author_url" : "https://plus.google.com/101890739786947893852",
+            "language" : "en",
+            "rating" : 1,
+            "text" : "",
+            "time" : 1416662456
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "hindu_temple", "place_of_worship", "establishment" ],
+      "url" : "https://plus.google.com/109959147837308321190/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Bairgania"
+   },
+   "status" : "OK"
+}

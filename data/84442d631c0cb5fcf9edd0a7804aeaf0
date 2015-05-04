@@ -1,0 +1,154 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "302",
+            "short_name" : "302",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Birta",
+            "short_name" : "Birta",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Madhubani",
+            "short_name" : "Madhubani",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "847225",
+            "short_name" : "847225",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Naharniya, Harlakhi Bhiar, \u003cspan class=\"street-address\"\u003e302\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBirta\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e847225\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Naharniya, Harlakhi Bhiar, 302, Birta, Bihar 847225, India",
+      "formatted_phone_number" : "0621 224 3088",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.633036,
+            "lng" : 85.979004
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "c9ee58c444a053c82f0f2f38420c95ed932a7c03",
+      "international_phone_number" : "+91 621 224 3088",
+      "name" : "Uttar Bihar Gramin Bank, Naharniya",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 5:00 pm",
+            "Tuesday: 9:00 am – 5:00 pm",
+            "Wednesday: 9:00 am – 5:00 pm",
+            "Thursday: 9:00 am – 5:00 pm",
+            "Friday: 9:00 am – 5:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJjZEbdiU57DkRnFqAcMczubk",
+      "reference" : "CoQBdgAAAFNm8bOnSUAzZPLYrWH04RZxFWg5-FwwC2EgEvBCdjve6v2oZh0akhT4Aj9L2PgQFXG-PI6PJpeqiGHghOXbgvk-ALyiG3UXYTXcijCtMzH_qgFCR5WqIQmGu7VozZM_xKDsH7lw3NoOLOEtcGUpMEzr8QkFEjWb_2E_XBsj7gl3EhAwb-CpYsx9_w0oDM1pOS_tGhR3cwFKEY55vCEWiVwNSdtPINnCWA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Basant Kumar",
+            "author_url" : "https://plus.google.com/100321343821168060872",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "awesome place",
+            "time" : 1417201217
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Pankaj Mallik",
+            "author_url" : "https://plus.google.com/102953689564171426893",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1372138956
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "bank", "finance", "establishment" ],
+      "url" : "https://plus.google.com/115934224911140496592/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "Naharniya, Harlakhi Bhiar, 302, Birta",
+      "website" : "http://www.ubgb.in/"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,124 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Main Street",
+            "short_name" : "Main Street",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Waling",
+            "short_name" : "Waling",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Gandaki",
+            "short_name" : "Gandaki",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Western Region",
+            "short_name" : "Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "33801",
+            "short_name" : "33801",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eMain Street\u003c/span\u003e, \u003cspan class=\"locality\"\u003eWaling\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e33801\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Main Street, Waling 33801, Nepal",
+      "formatted_phone_number" : "063-440549",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.984192,
+            "lng" : 83.76080399999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "00d004f5ff2b60e4db2f31f286e13322bd331ba3",
+      "international_phone_number" : "+977 63-440549",
+      "name" : "Computer Point Nepal",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0600"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 6:00 am – 6:30 pm",
+            "Tuesday: 6:00 am – 6:30 pm",
+            "Wednesday: 6:00 am – 6:30 pm",
+            "Thursday: 6:00 am – 6:30 pm",
+            "Friday: 6:00 am – 6:30 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJuRbIlLLalTkRS9WbjCmZgPQ",
+      "reference" : "CnRoAAAAEbNNjYimdmJDlbDL65IJslruMBRLzgt6lZXaqI6KJ0p6k2j2PM0dtgVZeaYTg4sBU3SIl1ZlFWah-T8i-NNzyZfylgGOnpHE-nTHFG77ru6HNMmmgqk-OsfxCkfgO5tt2ZgOKtJtSrxXTGUdPlwPfBIQs5dvX6KkvTYED_UgbjlEuBoUo2WJaoJPorDMLVRf90Kfws8Qg6U",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/118246765461445892073/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Main Street, Waling",
+      "website" : "http://www.computerpoint.com.np/"
+   },
+   "status" : "OK"
+}

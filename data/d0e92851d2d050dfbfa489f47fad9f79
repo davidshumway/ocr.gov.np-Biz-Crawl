@@ -1,0 +1,68 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Birgunj",
+            "short_name" : "Birgunj",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Narayani",
+            "short_name" : "Narayani",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "44300",
+            "short_name" : "44300",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eBirgunj\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e44300\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Birgunj 44300, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.013145,
+            "lng" : 84.87539599999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id" : "a88180ba1860a61cfc18b75cc1fc26662dac2157",
+      "name" : "Bakery Corner",
+      "place_id" : "ChIJ8RjQBj9UkzkREq__KTKBEO0",
+      "reference" : "CnRhAAAAg5hDv9mMuJbtXCDrm9J5gfWohIqs8xQkfs3nC51BGORGnjiqTbJEbfy5vYI5MDBQ-4UlPmy7Urur4XzGKPI9l5VHLuMcnAmV_kPhkCc2siMIiuZpcCLWqMworUrFNTvqxtMHnSscSSCyfwA4HZ2OsxIQqTjNjUy3QOVSz11oHXMHaRoUO9aitbKN1PIssMD_WDXwmMjqgAU",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Neeta Kumari",
+            "author_url" : "https://plus.google.com/108452331329473031012",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1421167498
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "bakery", "store", "food", "establishment" ],
+      "url" : "https://plus.google.com/106666914955662894111/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Birgunj"
+   },
+   "status" : "OK"
+}

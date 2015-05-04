@@ -1,0 +1,95 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Panchanai",
+            "short_name" : "Panchanai",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Darjeeling",
+            "short_name" : "Darjeeling",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "734009",
+            "short_name" : "734009",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003ePanchanai\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e734009\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Panchanai, West Bengal 734009, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.770212,
+            "lng" : 88.378165
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "2d3092bf4f2e5aa79fe6c274f4b88c2c36b83217",
+      "name" : "In-n-Out",
+      "place_id" : "ChIJcY5mWWlH5DkRxQbReBhCjwE",
+      "reference" : "CmRbAAAAB9I9wrjumq0bz_Xqcy4OZAYnSN1rOtb6YVV_28J2StaiyeoMhBj5Q4I7zw2hZKVuYtlx9PgHgfZHuNlY52_eaeDWf6l4W9WX4aZ4Cii6tHHw-VoUjJQMOrvGBMPAUbT0EhDh4Qm2TAg8v_cIR-SFVDT6GhRH5zh55NJOGl9WmZSSFG9v1_q8pA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Sujan Singha",
+            "author_url" : "https://plus.google.com/104676385992737011008",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "Hello wellcome Darjeeling",
+            "time" : 1426523710
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "What a shop every things are avialable.",
+            "time" : 1312600026
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Avik Narayan",
+            "author_url" : "https://plus.google.com/105744071923635573883",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1360489261
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "department_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/109317437024421840819/about?hl=en-US",
+      "user_ratings_total" : 3,
+      "utc_offset" : 330,
+      "vicinity" : "Panchanai"
+   },
+   "status" : "OK"
+}

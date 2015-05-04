@@ -1,0 +1,68 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "H01",
+            "short_name" : "H01",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Seti",
+            "short_name" : "Seti",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Far-Western Region",
+            "short_name" : "Far-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10900",
+            "short_name" : "10900",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eH01\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e10900\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "H01, 10900, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.723333,
+            "lng" : 80.84228299999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "90dfefbb5c2cef2847652f51a34bcc328a297f42",
+      "name" : "Shree Shivalaya Secondery School",
+      "place_id" : "ChIJVbBWGZAfojkRTJAYvvtWVpI",
+      "reference" : "CoQBdAAAAHHOT5fp3bajifOpyxijR48x5CPcYrkmbuZGpyuMtPHkqZouRDps_7evl0gYIvNQlaYMcAFMfM3_SkrmC-FfOvwB7BEIaU-bnVdbB44ZBXKVnmABJB_VQzqPKyVOMLSawOz-jZZ_zYd2PLg3eu7XaYRzYbmLzlJDUrrynWM0SNAbEhAU-FNX9hUM1US8zdqYmVYOGhRplL1WVNyAfq1Mawlz1ZiVdq34Mw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Saugat Dhami",
+            "author_url" : "https://plus.google.com/115622453284410129904",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "I miss my school  very soon come back again",
+            "time" : 1398888601
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "school", "establishment" ],
+      "url" : "https://plus.google.com/101676296487341891062/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "H01"
+   },
+   "status" : "OK"
+}

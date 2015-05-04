@@ -1,0 +1,82 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Dhangadhi",
+            "short_name" : "Dhangadhi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Seti",
+            "short_name" : "Seti",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Far-Western Region",
+            "short_name" : "Far-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10900",
+            "short_name" : "10900",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eDhangadhi\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10900\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Dhangadhi 10900, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.704108,
+            "lng" : 80.587846
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "3cdf25675db6ca61c74c9c5b83a4dd0e3bba648d",
+      "name" : "Seti Zonal Hospital",
+      "place_id" : "ChIJKTFWcNjsoTkR1o2bqEFJQUs",
+      "reference" : "CnRmAAAAPcWgwn4i4Z-oKRE9D5LkSWtQ_5WZeIHkL-yrrRLfkb3p7TMk7aCkkeO-2IVaUn0EHba37TyODHM-s0iz3mU3e-ot7J3qZnUA0aMIKTQs2fUsP9QHuO1AikM1FpApSE0311Eq4H3GvLIkE8LZRnI3NxIQ9BmblEhIWhywI7iyU5LcLBoUwrW08hbFNOy7jT4dHb8z-r3fX1Q",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Nanda Singh Saund",
+            "author_url" : "https://plus.google.com/106997569367925205324",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1361789211
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "harendra bahadur ayer",
+            "author_url" : "https://plus.google.com/116806230943346921621",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1430215101
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "hospital", "establishment" ],
+      "url" : "https://plus.google.com/112472656960663494230/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 345,
+      "vicinity" : "Dhangadhi"
+   },
+   "status" : "OK"
+}

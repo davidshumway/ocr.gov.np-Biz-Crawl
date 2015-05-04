@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "318国道",
+            "short_name" : "318国道",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Nyalam",
+            "short_name" : "Nyalam",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Xigaze",
+            "short_name" : "Xigaze",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Tibet",
+            "short_name" : "Tibet",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "China",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003eChina\u003c/span\u003e, \u003cspan class=\"region\"\u003eTibet\u003c/span\u003e, \u003cspan class=\"locality\"\u003eXigaze\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNyalam\u003c/span\u003e, \u003cspan class=\"street-address\"\u003e318国道\u003c/span\u003e",
+      "formatted_address" : "China, Tibet, Xigaze, Nyalam, 318国道",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.986867,
+            "lng" : 85.98433
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "7a3205bd4518b633c99089d219137029a8c6e00d",
+      "name" : "JS Clothing And Accessories",
+      "place_id" : "ChIJVxhCVOw26jkRfFAzRUr6cic",
+      "reference" : "CnRuAAAAndBiwM-dMg2IL93cmqji64r4t6EIdDwHj0I2FkHP09U_J0hosJAe61y95PeO3Y8l78eT6B_d4YqFuDWuBohrwuZFW1VEwMDbGjn-yuSpGPcsjuz1JCNGnvHD0SIoOSNVVd2ui30AFgYTMnyxKxHU-RIQiPADy_o7RsHv5uezB5Pi8BoUE0hTsdUPGuXDpqMBYrfOcVw6Hfg",
+      "scope" : "GOOGLE",
+      "types" : [ "shoe_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/116162189561495460576/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "318国道, Nyalam, Xigaze"
+   },
+   "status" : "OK"
+}

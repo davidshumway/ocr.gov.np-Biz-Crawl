@@ -1,0 +1,115 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Birendranagar",
+            "short_name" : "Birendranagar",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bheri",
+            "short_name" : "Bheri",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Mid-Western Region",
+            "short_name" : "Mid-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "21700",
+            "short_name" : "21700",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eBirendranagar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e21700\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Birendranagar 21700, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.596354,
+            "lng" : 81.614205
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "08352e1ac59d35660b721e22725d18428a9e44f0",
+      "name" : "Xeno Pharmacy",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0700"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 7:00 am – 7:00 pm",
+            "Tuesday: 7:00 am – 7:00 pm",
+            "Wednesday: 7:00 am – 7:00 pm",
+            "Thursday: 7:00 am – 7:00 pm",
+            "Friday: 7:00 am – 7:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ5d6V2fmFojkRLpm7mcVt7VQ",
+      "reference" : "CmRgAAAAzEueu8bGBz3sFNQB97uD_DVe08nz0_T4YkPdpxuQd-c3LagO2H3YXviMTWHl6a6IMM3W09pXo1MP2HksmkAIcVh5LmmT8h6ysQ_aF_Vtj6EWovqkYSI_bT6o6zoyE3roEhC0HhWfW1gj--I_QkjQAhYLGhSnE-OxKO3zuF5SnrsaAcXk9N1yeg",
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/108758044063968238318/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "Birendranagar"
+   },
+   "status" : "OK"
+}

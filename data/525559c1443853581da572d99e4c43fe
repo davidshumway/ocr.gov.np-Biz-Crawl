@@ -1,0 +1,85 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Darjeeling",
+            "short_name" : "Darjeeling",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "734426",
+            "short_name" : "734426",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Darjeeling, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e734426\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Darjeeling, West Bengal 734426, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.63994,
+            "lng" : 88.167987
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "ec3b091d4ceee0df8a78e8cbc4be5cd6d9b21be6",
+      "name" : "Panitanki New Market",
+      "place_id" : "ChIJg6570tSy5TkRzlS4vsdTYF8",
+      "reference" : "CnRnAAAAOBFf09lHFwIb0M2p9oFFMFaVXeWXvE5Z_MykSH_pCDAWY4m42p3cW8eJyccdQNIT7M090gJI1KrYD8pB7RFrhsi1cAMyz9TOtJA985cppsvdg96xY8FFSRlBx8UTBkMQ8vKlKgCz9LInIe9zBt3SVRIQa3uQbnGDECgC4d61dxWoOBoUx-kHVgSpNkXuMxMnmRi89i0d7dM",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Sagar Dewan",
+            "author_url" : "https://plus.google.com/100601266277026711288",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "Me at Panitanki",
+            "time" : 1391745999
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "rabin pradhan",
+            "author_url" : "https://plus.google.com/104556426604245001002",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1418047450
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/117615352277610984620/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : ""
+   },
+   "status" : "OK"
+}

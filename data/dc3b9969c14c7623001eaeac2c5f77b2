@@ -1,0 +1,80 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Dhungegadi-3 Baddada ,Pyuthan ,Nepal",
+            "short_name" : "dhungegadi-3 baddada ,pyuthan ,nepal",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Baddada",
+            "short_name" : "Baddada",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Rapti",
+            "short_name" : "Rapti",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Mid-Western Region",
+            "short_name" : "Mid-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "22300",
+            "short_name" : "22300",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eDhungegadi-3 Baddada ,Pyuthan ,Nepal\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e22300\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Dhungegadi-3 Baddada ,Pyuthan ,Nepal, 22300, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.958519,
+            "lng" : 82.822242
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id" : "77a1d3104b62531baf4eb846fc5b7b43a6f36f0d",
+      "name" : "local hotel",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJvUnolSeylzkRCn0PQDSt5ZQ",
+      "reference" : "CmRfAAAAo8qUxKIeBNrIs-trVZhe1TMltwwIqCW6y9LzpoWgE9tzMPEZWj_kJuHtDo08wgObya8hhv4xDa_lQtgVL5jUGz3rEnXkJebEYnIM2DN4ddVDxFR6eM55O8VstwUVCTQZEhARvGIFVwM0pUzhWlCC3oLdGhQgoUEhi9aq9pY9H-HDzZH7eEHKtg",
+      "scope" : "GOOGLE",
+      "types" : [ "lodging", "establishment" ],
+      "url" : "https://plus.google.com/116393544715746735479/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "Dhungegadi-3 Baddada ,Pyuthan ,Nepal"
+   },
+   "status" : "OK"
+}

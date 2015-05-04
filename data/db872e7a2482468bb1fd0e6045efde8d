@@ -1,0 +1,153 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Agrasen Road",
+            "short_name" : "Agrasen Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Mahananda Para",
+            "short_name" : "Mahananda Para",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Siliguri",
+            "short_name" : "Siliguri",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Darjeeling",
+            "short_name" : "Darjeeling",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "734005",
+            "short_name" : "734005",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eAgrasen Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eMahananda Para\u003c/span\u003e, \u003cspan class=\"locality\"\u003eSiliguri\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e734005\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Agrasen Road, Mahananda Para, Siliguri, West Bengal 734005, India",
+      "formatted_phone_number" : "0353 250 2000",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.705675,
+            "lng" : 88.42009299999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "d80fcdc14d2be6279a5b27847da631a4dcf20fe3",
+      "international_phone_number" : "+91 353 250 2000",
+      "name" : "Ambika Chikitsalaya",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 5:00 pm",
+            "Tuesday: 9:00 am – 5:00 pm",
+            "Wednesday: 9:00 am – 5:00 pm",
+            "Thursday: 9:00 am – 5:00 pm",
+            "Friday: 9:00 am – 5:00 pm",
+            "Saturday: 9:00 am – 5:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ97ohs0JB5DkRKoxU3t155j8",
+      "reference" : "CnRmAAAAq87PtrX505pW4RSBQLKWZwygiwvQsGJutaWGECzz-h9ybOH0bo5WIPEGF4rMM4dVxkaVxKpOj-yy4_ZAAFh9377K5viDM-rhzfhSvbS57LAxgdgit2vB1BYb1owFPEiRcPoslYBhojHkDD9n6IoDGxIQ5crXSP0sTBQDh42kasX6DRoUZfpMi85nXDbg_LtJfHJ_89vbsMU",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1302334515
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "hospital", "health", "establishment" ],
+      "url" : "https://plus.google.com/109055892752514252077/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Agrasen Road, Mahananda Para, Siliguri"
+   },
+   "status" : "OK"
+}

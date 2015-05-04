@@ -1,0 +1,101 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "East-West Highway",
+            "short_name" : "East-West Hwy",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Butwal",
+            "short_name" : "Butwal",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Lumbini",
+            "short_name" : "Lumbini",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Western Region",
+            "short_name" : "Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "32907",
+            "short_name" : "32907",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eEast-West Highway\u003c/span\u003e, \u003cspan class=\"locality\"\u003eButwal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e32907\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "East-West Highway, Butwal 32907, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.680294,
+            "lng" : 83.48369099999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "bc35be0d19a6b3207236fce152843cd7f3c3135e",
+      "name" : "Butwal Industrial Estate",
+      "place_id" : "ChIJ4ToArx-EljkR7V5w4ObOQJM",
+      "reference" : "CnRsAAAAPuTVmboLX6lJ7chlmaywu5du4V5Go8Egv6Ty35A2Du6VhIIuGnKR_Ky1z20k7ElKwM5kaG5yz4Ywhv2rFZI95GLZ7MxN0FDeBf0ynyP639BYCX2P6lpJpQ619sleRfWMX7PsHOudhLYbHPMgariJqRIQ2Ou-982_w-D0LzSvfdN9bhoUNzSAdFJJWkQZ9pVf9bMc9V4Q0tM",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Dolraj Sharma",
+            "author_url" : "https://plus.google.com/110731512367882327874",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "Butwal spinning mills",
+            "time" : 1398240201
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Manoj Rana",
+            "author_url" : "https://plus.google.com/112437823785879076235",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1375897235
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Shyam Rana",
+            "author_url" : "https://plus.google.com/106590455979494251173",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "",
+            "time" : 1393919816
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/108506924867275451165/about?hl=en-US",
+      "user_ratings_total" : 3,
+      "utc_offset" : 345,
+      "vicinity" : "East-West Highway, Butwal"
+   },
+   "status" : "OK"
+}

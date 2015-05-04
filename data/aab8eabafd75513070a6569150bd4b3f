@@ -1,0 +1,165 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Thamel Marg",
+            "short_name" : "Thamel Marg",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Chhetrapati",
+            "short_name" : "Chhetrapati",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kathmandu",
+            "short_name" : "Kathmandu",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bagmati",
+            "short_name" : "Bagmati",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eThamel Marg\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKathmandu\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Thamel Marg, Kathmandu, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.713703,
+            "lng" : 85.311205
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "f7db87354299f66a7c5c8f620e5fd0ad02ba98f1",
+      "name" : "T.T. Trekking Store",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 am – 8:00 pm",
+            "Tuesday: 8:00 am – 8:00 pm",
+            "Wednesday: 8:00 am – 8:00 pm",
+            "Thursday: 8:00 am – 8:00 pm",
+            "Friday: 8:00 am – 8:00 pm",
+            "Saturday: 8:00 am – 8:00 pm",
+            "Sunday: 8:00 am – 8:00 pm"
+         ]
+      },
+      "place_id" : "ChIJ-YD9qv0Y6zkRnIMZdYg_E7s",
+      "reference" : "CnRnAAAAbtsG4na0LjSOfh228BJcKSo4WJaWzb9vArlYVcyAbajsH9zTujQ1IzBbWoTXO8JgbAqEerBDquB_ZMII_hXJQNc1vvZ4KlYbUZ6njDlAiNqfuSEPR5VbE__A4mz2yQX_6rNVw-vHR2-v-JvLbuaauBIQwdTJZ5NNLHHQqED_FfRZsxoUFOq9R_vXsbD_RAdhm3WllJryjVQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 2,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 2,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "chime dolkar",
+            "author_url" : "https://plus.google.com/114033873773376276896",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "If one needs any trekking gears you've got visit this store...",
+            "time" : 1364145094
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "clothing_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/106604989092968159990/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Thamel Marg, Kathmandu"
+   },
+   "status" : "OK"
+}

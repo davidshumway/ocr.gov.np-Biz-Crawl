@@ -1,0 +1,73 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Hat Bazar Road",
+            "short_name" : "Hat Bazar Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Inaruwa",
+            "short_name" : "Inaruwa",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Koshi",
+            "short_name" : "Koshi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Eastern Region",
+            "short_name" : "Eastern Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "56710",
+            "short_name" : "56710",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eHat Bazar Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eInaruwa\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e56710\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Hat Bazar Road, Inaruwa 56710, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.61073,
+            "lng" : 87.157833
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "6c3db048627087b1b4ab651c7efbbffcc65a1546",
+      "name" : "Janata Primary School",
+      "place_id" : "ChIJkagzXTkS7zkR57bivDC_Hk0",
+      "reference" : "CnRoAAAA9FYCy_ZaOcGSe15LGjdg15SRgeLBA108LNryBxH0EdEMoQjukCn2oEJ9yDvFtyZScxNDBeMul17RtpULZ2lI6XOeIrQKFPPTbHVQl1DJlrtpGVVluEFX1aRSt0NaE7n3CU3SeXX5r7nsdSrSaJReNBIQhA6NpMOHhXPjkdsZl3ajXBoUYu-kyANsU06fnFw94ydgTFOjm0U",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "ramesh chaudhary",
+            "author_url" : "https://plus.google.com/117845328211077588062",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1384797295
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "school", "establishment" ],
+      "url" : "https://plus.google.com/109480097578495319010/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Hat Bazar Road, Inaruwa"
+   },
+   "status" : "OK"
+}

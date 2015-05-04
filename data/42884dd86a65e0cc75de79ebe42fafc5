@@ -1,0 +1,61 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Namche Marg",
+            "short_name" : "Namche Marg",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Namche Bazar",
+            "short_name" : "Namche Bazar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Namche",
+            "short_name" : "Namche",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Sagarmatha",
+            "short_name" : "Sagarmatha",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Eastern Region",
+            "short_name" : "Eastern Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "56000",
+            "short_name" : "56000",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNamche Marg\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNamche\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e56000\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Namche Marg, Namche 56000, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.804467,
+            "lng" : 86.710342
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "868fe9a09612c6955e505261851ab35e0a748ad1",
+      "name" : "Lord Buddha Pharmacy",
+      "place_id" : "ChIJVajjotoI6TkRZVx_wKHbKMs",
+      "reference" : "CnRoAAAAA3OxmcDAqzPD3Vv1ylgUwaohYjpYobeNzcsdEqJO9yRyRogoy8qWq_8sUpG9qQKyPK_G856gsLrxskHKFZSL6QmhXnFklPq_-YbdO6GkvKa_UaawHE8z16wv2UxvgtJZeXyXtHnrdAT3uxxUeo8mpxIQuv9gPSRUmlozVaZ4fpGXMhoUODB4QgckE1eZ6pr3jMJ_4aTGQNQ",
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/105454370385052235422/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "Namche Marg, Namche"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,73 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "LR05",
+            "short_name" : "LR05",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Rabi",
+            "short_name" : "Rabi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Mechi",
+            "short_name" : "Mechi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Eastern Region",
+            "short_name" : "Eastern Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "57300",
+            "short_name" : "57300",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eLR05\u003c/span\u003e, \u003cspan class=\"locality\"\u003eRabi\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e57300\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "LR05, Rabi 57300, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.931841,
+            "lng" : 87.690108
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "b736d241d1bc17a409c4d6970413e57953fb51a8",
+      "name" : "Rabi Bazar",
+      "place_id" : "ChIJ1fIdeCXw5TkRl9zsi2LeaXA",
+      "reference" : "CmRdAAAA-Wewd85f1m3Re5jiLyHWXcvTDEuaMFdNTE-6XE3EOkGjEQv0GXZnAqyww648vE-K042ARPRKpc3Bg0IexmpeDSQIOkC1F47LGJtup6ckOcaLu929mP-gxCCoKIs_bdj0EhBrg4BRfO5CfH2txQ_wLYfFGhR4TlbqjE3yrAzgs_7ykyJ2u_an7Q",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Shreejanga Rai",
+            "author_url" : "https://plus.google.com/105751529113936766012",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "A place where I was born. A beautifully natured place.",
+            "time" : 1422973712
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/101242120955271360458/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "LR05, Rabi"
+   },
+   "status" : "OK"
+}

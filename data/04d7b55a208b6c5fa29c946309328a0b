@@ -1,0 +1,83 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Birgunj",
+            "short_name" : "Birgunj",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Narayani",
+            "short_name" : "Narayani",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "44300",
+            "short_name" : "44300",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eBirgunj\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e44300\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Birgunj 44300, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.02359,
+            "lng" : 84.88390800000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "06c8e2b4e1ae8964e77fe24bd7fdb763a6d26dd9",
+      "name" : "Nepal Telecom Regional Directorate",
+      "place_id" : "ChIJNy5mP09UkzkRPx4ePxmccJM",
+      "reference" : "CoQBdgAAAG2cbNuy_r5kqvaYP23uUGa9Dk7RNkT9FljNIhze_So9PWq1uzbNyu5OfPZmFWmRyGh7dYSwr4WJpRJyg_pTRzFz3nSDUL7p4G-BciZc_gOY_HVqNqKxYqM9uVq5bZ3_XIZd7NfR6DTu86l423gmys9HvLPUZ4SiXKHJ_bEBs_TvEhAx47KwJpl4jUfOGhU5xsoJGhSHefYuCGVsrivQGgWiwcubyo5VOw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Abhishek sha",
+            "author_url" : "https://plus.google.com/114641752204294963821",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1417061733
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Abhishek Sarraf",
+            "author_url" : "https://plus.google.com/113101251675621661395",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1397802216
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/111476546958064327857/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 345,
+      "vicinity" : "Birgunj",
+      "website" : "http://www.ntc.net.np"
+   },
+   "status" : "OK"
+}

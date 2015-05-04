@@ -1,0 +1,68 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Jale Aurai Road",
+            "short_name" : "Jale Aurai Road",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Sitamarhi",
+            "short_name" : "Sitamarhi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "847302",
+            "short_name" : "847302",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Kharka, \u003cspan class=\"street-address\"\u003eJale Aurai Road\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e847302\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Kharka, Jale Aurai Road, Bihar 847302, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.375108,
+            "lng" : 85.68838100000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "d131dbcd609990f692171fee5ffd4ad05e679d93",
+      "name" : "K.D.K.N High School",
+      "place_id" : "ChIJw9nF9F5T7DkRQrYYbWULk6o",
+      "reference" : "CnRnAAAAC3Kf9xEcApb_L2J_SHmYl5FpottpvzwcaqPyAfcq1RfDmfqIPLqMtkLV1VQLE67wcYjDR3N4xjtp5UkA3czHr3nmdXJFeROoSdAc5MvSS1a1W-dRBdCBaQw2wrnjF7TNGBjl0j-E2GuwbgYwHGqp-xIQMR_LgvMM-OszYQi9Ulm1sRoUcsD1Nmg8-sWob_Cr9S7YErX2T3w",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 1,
+            "text" : "This is high school.",
+            "time" : 1324748404
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "school", "establishment" ],
+      "url" : "https://plus.google.com/104522105027294334202/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Kharka, Jale Aurai Road",
+      "website" : "http://biharboard.net/"
+   },
+   "status" : "OK"
+}

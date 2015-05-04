@@ -1,0 +1,76 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "State Highway 54",
+            "short_name" : "SH 54",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Dhaka",
+            "short_name" : "Dhaka",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Purvi Champaran",
+            "short_name" : "Purvi Champaran",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "845418",
+            "short_name" : "845418",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eState Highway 54\u003c/span\u003e, \u003cspan class=\"locality\"\u003eDhaka\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e845418\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "State Highway 54, Dhaka, Bihar 845418, India",
+      "formatted_phone_number" : "1800 200 1911",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.674635,
+            "lng" : 85.165914
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "ab3a2940019ffda57dfa5645f0407a910b114a81",
+      "international_phone_number" : "+91 1800 200 1911",
+      "name" : "Central Bank",
+      "place_id" : "ChIJp7ApJxnH7DkRkmnrgLsb-NU",
+      "reference" : "CmRgAAAAa5U0_sEZ3oocx4G458g0zAC0r4lBM_hObaHahu4ch7wrpS5HvLV9aVq01d94MaCqq4ELhBI4iT64WpCmv7woWWmPYc-dgFwJiB-Rb9iwTdbB4EhqbZyWXEkfeL5vGugrEhBELsq8RlmSQLG2Cwv8QyjHGhSM5HNUt3EdJZm6QYaVAjRWcDZ0cA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Nashim Khan",
+            "author_url" : "https://plus.google.com/118285005601232741228",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1409176271
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "bank", "finance", "establishment" ],
+      "url" : "https://plus.google.com/102398275153482663259/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "State Highway 54, Dhaka",
+      "website" : "https://www.centralbank.net.in/"
+   },
+   "status" : "OK"
+}

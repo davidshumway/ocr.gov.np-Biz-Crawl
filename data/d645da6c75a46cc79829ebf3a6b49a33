@@ -1,0 +1,83 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "F015",
+            "short_name" : "F015",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Ghorahi",
+            "short_name" : "Ghorahi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Rapti",
+            "short_name" : "Rapti",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Mid-Western Region",
+            "short_name" : "Mid-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "22400",
+            "short_name" : "22400",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eF015\u003c/span\u003e, \u003cspan class=\"locality\"\u003eGhorahi\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e22400\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "F015, Ghorahi 22400, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.039635,
+            "lng" : 82.484773
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/wine-71.png",
+      "id" : "3c1532e841cfca29753960b87977a99ed8f304f9",
+      "name" : "Shrestha Liquors Centre",
+      "photos" : [
+         {
+            "height" : 612,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/107082274901989731071\"\u003eRubin Shrestha\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAA9tpqq2E60bdt3CqEkYPO9XcW7HJq9jtxNC-okBsYCc6YDPJsW8AW1ki__AZZxvbnNayoye-kTuhNhK-Cqy_M9EeGgQ6l0PDLx0FPYzBhlYJh5n83DKARGvhdok-Dpp6HRLod43P9gvks1idjfv9IChIQiyUScL9wHalGg4cRCu2RahoUIA-rrMntefbqiRCuuyqmHlsyVLg",
+            "width" : 816
+         }
+      ],
+      "place_id" : "ChIJC6vWP3uUlzkRr52GIWUIcHA",
+      "reference" : "CnRqAAAA0QhVt2sJWbc2SvEyL1tyVA3IMPLBaEMQye4dKDCk06u8pE2fqrfAf0WX7PsVEZjuHfLK8tk3NWOB1djb0P4Iesiycu44f2J48D95S63QLFYevwI7Dr8Uudn_PXFEPJegheUeUpsoLnOeDC9IqcX2HRIQQTF8KLLaMe9ztquPMfh3-hoUZnlmI6s9lGIUV0V0yYQjrqtB94c",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Rubin Shrestha",
+            "author_url" : "https://plus.google.com/107082274901989731071",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Its Great.",
+            "time" : 1400204304
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "liquor_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/106941033771612548881/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "F015, Ghorahi"
+   },
+   "status" : "OK"
+}

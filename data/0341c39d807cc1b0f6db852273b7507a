@@ -1,0 +1,135 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Sevoke Road",
+            "short_name" : "Sevoke Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Ward 10",
+            "short_name" : "Ward 10",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Siliguri",
+            "short_name" : "Siliguri",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Darjeeling",
+            "short_name" : "Darjeeling",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "734001",
+            "short_name" : "734001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eSevoke Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eWard 10\u003c/span\u003e, \u003cspan class=\"locality\"\u003eSiliguri\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e734001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Sevoke Road, Ward 10, Siliguri, West Bengal 734001, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.719684,
+            "lng" : 88.425878
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "51d1971d270b8b241f70df04a647bcd09d013e9d",
+      "name" : "HINDWARE",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "0900"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "0900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "0900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "0900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "0900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "0900"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0930"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:30 am – 9:00 am",
+            "Tuesday: 9:30 am – 9:00 am",
+            "Wednesday: 9:30 am – 9:00 am",
+            "Thursday: 9:30 am – 9:00 am",
+            "Friday: 9:30 am – 9:00 am",
+            "Saturday: 9:30 am – 9:00 am",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJfaRDfRNB5DkRog_SMd5AKGo",
+      "reference" : "CmRbAAAAAyNcDvWbbj4vE0CcpdwWylD3DhEUkr6Rt2pfzPOL6TwuQEikait-WcbO1cCKu3WETUWN4GapFJwn7UQiezt8cNS_s27IoNnotn7KLuyk5vPgLouvanR8SgQE9sg06iknEhAHI7mJGboGe3Ci2g_t2gT9GhR7w_dJpbQFEDAYiAY0lFhp0K0pfA",
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/111377692302504108054/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Sevoke Road, Ward 10, Siliguri"
+   },
+   "status" : "OK"
+}

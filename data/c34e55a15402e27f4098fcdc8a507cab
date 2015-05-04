@@ -1,0 +1,159 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "East-West Highway",
+            "short_name" : "East-West Hwy",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Pathlaiya",
+            "short_name" : "Pathlaiya",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Narayani",
+            "short_name" : "Narayani",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "44400",
+            "short_name" : "44400",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eEast-West Highway\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e44400\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "East-West Highway, 44400, Nepal",
+      "formatted_phone_number" : "0984-5130707",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.198653,
+            "lng" : 84.98230599999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "f2e2a4f9ef4620a538d50632c31fca2c1014ef89",
+      "international_phone_number" : "+977 984-5130707",
+      "name" : "Dhital Cold Stores",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2300"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2300"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2300"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2300"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2300"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2300"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2300"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0700"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 7:00 am – 11:00 pm",
+            "Tuesday: 7:00 am – 11:00 pm",
+            "Wednesday: 7:00 am – 11:00 pm",
+            "Thursday: 7:00 am – 11:00 pm",
+            "Friday: 7:00 am – 11:00 pm",
+            "Saturday: 7:00 am – 11:00 pm",
+            "Sunday: 7:00 am – 11:00 pm"
+         ]
+      },
+      "place_id" : "ChIJfU_L0p9T6zkRwf9Y41-99IY",
+      "reference" : "CnRmAAAAZzM2C6Bq9Fh_D4KzVObE6aFkjNNGX_LRgj9dy09m3cFT3FF5dRluIbhHv9sA2z7r5UMWYEZKf5TdoMj1tL8R5eh9wNOmXi2Nwf5Q_pzlFULRScxh07D8PNjGgIuKOLpM2elZpC6UbJ3a2Y-xaxa_1BIQLZCs6diHFCHgX4ee1Qo6yhoUYeagH-65Pejbp6a7SJ_rvZJLVLQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Sam Tp",
+            "author_url" : "https://plus.google.com/103825561828024652734",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "my place",
+            "time" : 1421245904
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+      "url" : "https://plus.google.com/113486047912761742701/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "East-West Highway"
+   },
+   "status" : "OK"
+}

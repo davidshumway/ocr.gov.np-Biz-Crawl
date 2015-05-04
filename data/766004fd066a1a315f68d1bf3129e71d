@@ -1,0 +1,82 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Panighata",
+            "short_name" : "Panighata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Darjeeling",
+            "short_name" : "Darjeeling",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "734423",
+            "short_name" : "734423",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003ePanighata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e734423\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Panighata, West Bengal 734423, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.796983,
+            "lng" : 88.244621
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "77d79591daad814d5c7e0c93b0dbc19454311e6e",
+      "name" : "Stithi Store",
+      "place_id" : "ChIJbcv4Of015DkRP0upgS3jtKE",
+      "reference" : "CmRgAAAAEcCINVV8TT0iHbkf7UEeo_yjogiNnVceYgA0zsNb0ECpsagX_tDjT4edQbXrNseI4ltw79t8T3VETq-XmMS215HllSzbN8-IpdkbN-jb9R1kC-7L69pozpm8utLaIzsiEhAU8uXyAS9_1DVtK0GWIrsgGhQlQ1wA0HlyrnElFv7WcWGdSgTC8Q",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "KRISHNA PRASAD",
+            "author_url" : "https://plus.google.com/102434235200843126960",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Nice ",
+            "time" : 1429612541
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "manish minj",
+            "author_url" : "https://plus.google.com/105612066664171320170",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "",
+            "time" : 1411293584
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+      "url" : "https://plus.google.com/114292486681174026472/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "Panighata"
+   },
+   "status" : "OK"
+}

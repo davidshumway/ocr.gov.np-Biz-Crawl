@@ -1,0 +1,171 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Limithana VDC",
+            "short_name" : "Limithana VDC",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Dhawalagiri",
+            "short_name" : "Dhawalagiri",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Western Region",
+            "short_name" : "Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "33400",
+            "short_name" : "33400",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Khalte, \u003cspan class=\"locality\"\u003eLimithana VDC\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e33400\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Khalte, Limithana VDC 33400, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.154734,
+            "lng" : 83.687121
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "51bf1417388051451918e54a1af851a0e74889e9",
+      "name" : "Char Bhanjyang Centre for Health",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 4:00 pm",
+            "Tuesday: 9:00 am – 4:00 pm",
+            "Wednesday: 9:00 am – 4:00 pm",
+            "Thursday: 9:00 am – 4:00 pm",
+            "Friday: 9:00 am – 4:00 pm",
+            "Saturday: Closed",
+            "Sunday: 9:00 am – 4:00 pm"
+         ]
+      },
+      "place_id" : "ChIJ35tJ5FfnlTkR4BumHwwV6Cw",
+      "reference" : "CoQBcwAAACy8CyWnW7KY0lqgS317hml8t92rGDooATJp4QDjYEanAO20eetVnV1PYbImEnAnZ2u4esIbDs9Bj6mwmAOgguFn3-kW3A4aekqN9FDFOkFdwixhx4jM_z56NxVYP2Gr5iQobtHslA6xtXXmXd2_lPUy1TmCMLSzYOWZscsPyJXgEhApwzaKIIMrJ7a1KDZUw5_EGhRf8Ny2rLhjl2_8ymDYkdXTgQim7g",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Shradha Gurung",
+            "author_url" : "https://plus.google.com/117261527090133568351",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "I love Char Bhanjyang ",
+            "time" : 1425242874
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Santos Gurung",
+            "author_url" : "https://plus.google.com/115413640044977650222",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1423147569
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Chandra Gurung",
+            "author_url" : "https://plus.google.com/118201749878402702435",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1423298975
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "hospital", "establishment" ],
+      "url" : "https://plus.google.com/111624360270428567761/about?hl=en-US",
+      "user_ratings_total" : 3,
+      "utc_offset" : 345,
+      "vicinity" : "Khalte, Limithana VDC",
+      "website" : "http://www.charbhanjyang.com/clinic"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,71 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Mahakali",
+            "short_name" : "Mahakali",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Far-Western Region",
+            "short_name" : "Far-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10400",
+            "short_name" : "10400",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Mahakali, \u003cspan class=\"postal-code\"\u003e10400\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Mahakali, 10400, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 29.012778,
+            "lng" : 80.16104
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "1e6544c4ff6001bb23ab6e0e536014fe6a88e89c",
+      "name" : "Dhami Clinic",
+      "place_id" : "ChIJNYPPCkuqoTkRF-jPDltAKUI",
+      "reference" : "CmRfAAAAO-9zeECCNn6kCR9D87wWbNVmLFT9XDLXwnat15UkqBc1ttAECbUnt4rIgRhvrtiF0bcLOJGKNres2lKfL9Ay7MvwMlWqeJHSZz6BURD_iz-511wTV7-myTDS2-hFXKekEhDK21sUd3fVAC969uapVLQTGhTF3SgOnxsPbwxBDVG_7rbiNAHZbA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 2,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "surendra singh",
+            "author_url" : "https://plus.google.com/114632094232154232596",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "Visit",
+            "time" : 1371522647
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/110241691939811959341/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : ""
+   },
+   "status" : "OK"
+}

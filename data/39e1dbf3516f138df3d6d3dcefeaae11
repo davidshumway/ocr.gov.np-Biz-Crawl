@@ -1,0 +1,85 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Awapur",
+            "short_name" : "Awapur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Sitamarhi",
+            "short_name" : "Sitamarhi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "843314",
+            "short_name" : "843314",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eAwapur\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e843314\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Awapur, Bihar 843314, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.517134,
+            "lng" : 85.65994999999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "89c8ecb6e65854b6555fc1649e897e31b60fe591",
+      "name" : "Awapur Bazar",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1430"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1430"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 2:30 – 7:00 pm",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: 2:30 – 7:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJoTC1lRRX7DkRv-TVQRcoyF4",
+      "reference" : "CmRfAAAAo1ykAemFHaod6epcSrtW0muDjeRNorCA2K9D30XaSVqTa2TS6BCDfx2lcJBI5ZLbYlHeEc-RgF9jvL7YqqnLwW7S2qKh6MXJukhqx18d2qs11xgmgJj51_EuLnuIe1mYEhBGAycP30w6A5BMkJ48x0LoGhRBkrvDMzMoCejqD47hA9jU1s7eTQ",
+      "scope" : "GOOGLE",
+      "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+      "url" : "https://plus.google.com/115467859312657298506/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Awapur"
+   },
+   "status" : "OK"
+}

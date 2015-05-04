@@ -1,0 +1,80 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Sagarmatha Highway",
+            "short_name" : "Sagarmatha Highway",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Simpani Bazar",
+            "short_name" : "Simpani Bazar",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Simpani",
+            "short_name" : "Simpani",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Sagarmatha",
+            "short_name" : "Sagarmatha",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Eastern Region",
+            "short_name" : "Eastern Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "56200",
+            "short_name" : "56200",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eSagarmatha Highway\u003c/span\u003e, \u003cspan class=\"locality\"\u003eSimpani\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e56200\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Sagarmatha Highway, Simpani 56200, Nepal",
+      "formatted_phone_number" : "0974-3046448",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.041057,
+            "lng" : 86.792282
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "ef93115956de6aceeffac1a4c0c7a8910afe131f",
+      "international_phone_number" : "+977 974-3046448",
+      "name" : "Ghimire Book Store",
+      "place_id" : "ChIJ-4STzmLR7jkRXU2AGYk9CbU",
+      "reference" : "CnRmAAAA6P4fpbMVzXx8bUk1Q-rX8kCUKDbyIyH3WmDZyXH0mKOzI-bqkY1gJR35XWcV0_uxFQO5wMZQXxBv3FTRNFJxAfIPaW3-Z-ZjyHvWZiuOaTmW9kPlvnMcMbpJiDXOiT-JlEX9gFRHx9ScHFfrnHRF9xIQTYcljlQ43uiP_ch0sIqnwxoUrjcdGEt4ERAlIu1NhHrmQt3Y2gs",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "CT ArUn",
+            "author_url" : "https://plus.google.com/117881338709421078636",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1427616041
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "book_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/105713726820635545174/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Sagarmatha Highway, Simpani"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,76 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Bharatpur",
+            "short_name" : "Bharatpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Narayani",
+            "short_name" : "Narayani",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "44207",
+            "short_name" : "44207",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eBharatpur\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e44207\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Bharatpur 44207, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.687755,
+            "lng" : 84.433196
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "61ff3a09439fc43a8ecab245aa9794a6ea9ca473",
+      "name" : "Aastha Departmental Store",
+      "place_id" : "ChIJzwqI1jP7lDkRJyr3ijUDlbA",
+      "reference" : "CnRtAAAANlQLqidqTvY_Cz7n0Yhk2fgS5ICg7cGQwJ0J5b1sadDwEsHHuyttYe9Nn9TTIyI5u3I-GTIMsQ3WM2gZ-zhvgd8WcH23x1bYhoJliTEJIAKTiljJA_JkqcD2n3LkQP5treqqOOnqjvY8hk07O0pg6xIQYoIqpM4ZrNO8_7Fqr6sRAhoUpXJde0nOzpt5sxKelYfvwsHWdCs",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 2,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "anil joshi",
+            "author_url" : "https://plus.google.com/108421739893686684994",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1389032023
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "department_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/100871671407848931891/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Bharatpur"
+   },
+   "status" : "OK"
+}

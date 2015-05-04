@@ -1,0 +1,88 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Lumbini",
+            "short_name" : "Lumbini",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Western Region",
+            "short_name" : "Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "Lumbini, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Lumbini, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.560401,
+            "lng" : 83.749498
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "510ffd96e401482c27db95838c1976d35a9bda23",
+      "name" : "Sanju Medical Hall",
+      "place_id" : "ChIJ-TcYIiUllDkRMW5PTy4yJtM",
+      "reference" : "CnRmAAAAoNEBbSuvkJ15UAohTamstb-MPmi7-y7vbbpkpKGQCAvrLrVVGZNpUDegDzlNqkuMfJYXbbmLBV-A2Wtmv3rC-D15vGZYvygIRHAhjV_3LOLa_2AbN0kLsu6DEs_3-YM06DSx6OtDX0355zjNG-ovhhIQIt7_i06iTwwpup2qOftqshoU4h1CjOwDkxsmBUOJLmGX3nOE38c",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Navaraj Shrestha",
+            "author_url" : "https://plus.google.com/116628933820689448874",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "Gud",
+            "time" : 1372173306
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "chiran thapa",
+            "author_url" : "https://plus.google.com/109335510881021668847",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1371631572
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/116325673471331183773/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 345,
+      "vicinity" : ""
+   },
+   "status" : "OK"
+}

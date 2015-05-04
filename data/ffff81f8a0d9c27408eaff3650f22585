@@ -1,0 +1,135 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "R9",
+            "short_name" : "R9",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bejhand Bazar",
+            "short_name" : "Bejhand Bazar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Rampur",
+            "short_name" : "Rampur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Lumbini",
+            "short_name" : "Lumbini",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Western Region",
+            "short_name" : "Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "32500",
+            "short_name" : "32500",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eR9\u003c/span\u003e, \u003cspan class=\"locality\"\u003eRampur\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e32500\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "R9, Rampur 32500, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.86125,
+            "lng" : 83.895955
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "8a90ef75057203be5da3d3aa75cdba00f309ba75",
+      "name" : "City Auto Parts Store",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 8:00 am – 9:00 pm",
+            "Wednesday: 8:00 am – 9:00 pm",
+            "Thursday: 8:00 am – 9:00 pm",
+            "Friday: 8:00 am – 9:00 pm",
+            "Saturday: 8:00 am – 9:00 pm",
+            "Sunday: 8:00 am – 9:00 pm"
+         ]
+      },
+      "place_id" : "ChIJ56XaEDbKlTkRPzx3kF2sLwg",
+      "reference" : "CnRoAAAAf0PsoX1P0KHdnzAOZ3-Z84q63C07_CA4yoKolfoDAagnpV7bqXzlRdH6kWqG377I317TD7xUzexS-Fm8MhNkugzIPFOfWL6-_vEmZ-h32SvoviPjLd44RUxifpFFAoW8_dvybx_mTAW77P4G-nv9KBIQany2G6H6qvg2LM6LypmKpxoUr9V5z7JJ9CjOIgdPgytY-1AHTGs",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/101666926902429025192/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "R9, Rampur"
+   },
+   "status" : "OK"
+}

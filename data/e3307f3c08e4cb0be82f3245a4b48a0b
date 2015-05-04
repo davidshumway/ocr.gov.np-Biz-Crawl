@@ -1,0 +1,56 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "East-West Highway",
+            "short_name" : "East-West Hwy",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Attariya",
+            "short_name" : "Attariya",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Seti",
+            "short_name" : "Seti",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Far-Western Region",
+            "short_name" : "Far-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10900",
+            "short_name" : "10900",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eEast-West Highway\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e10900\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "East-West Highway, 10900, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.813356,
+            "lng" : 80.555041
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+      "id" : "2bf83e912fc05667e91bec86e3e5c08366607b18",
+      "name" : "Nepal Police Attariya",
+      "place_id" : "ChIJKS_r_1mRoTkRrd_Y4q5d2QA",
+      "reference" : "CnRnAAAApT9fHleD6GuKUI7vQzWelR6plnBZqnTChH4yXNazPddmGvfphsOIDSWzXWd7Wy8wwzlIBCl7pKIOAWbpw0XVNuXHlQ_xLyRcfpsAH9T2uMPcyU1-IkFTSL1SRWAmOxtSvETCx2SEgCu1BJxf11ZH_hIQv47WJWzRFnU2GFRwQBRSnRoU6XedCO2W7RjEUtRN8po8AmikZtQ",
+      "scope" : "GOOGLE",
+      "types" : [ "police", "establishment" ],
+      "url" : "https://plus.google.com/117597073204424704384/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "East-West Highway"
+   },
+   "status" : "OK"
+}

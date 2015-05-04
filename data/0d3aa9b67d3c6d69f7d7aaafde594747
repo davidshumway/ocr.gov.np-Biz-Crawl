@@ -1,0 +1,79 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "East-West Highway",
+            "short_name" : "East-West Hwy",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Arunkhola",
+            "short_name" : "Arunkhola",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Naya Belhani",
+            "short_name" : "Naya Belhani",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Lumbini",
+            "short_name" : "Lumbini",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Western Region",
+            "short_name" : "Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "33006",
+            "short_name" : "33006",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eEast-West Highway\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNaya Belhani\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e33006\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "East-West Highway, Naya Belhani 33006, Nepal",
+      "formatted_phone_number" : "078-555001",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.613966,
+            "lng" : 83.94742599999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "8e49d99fcd11e1fed82782a24160ea8770c45420",
+      "international_phone_number" : "+977 78-555001",
+      "name" : "Nepal Telecom",
+      "place_id" : "ChIJ451jhg5IlDkRDaxj3AHfApU",
+      "reference" : "CnRhAAAA6PB6gV8kFYStM-JsxZbV95ijYlfHlckl6EK0d6WH8EqJFNMelLoaSWS3f9NK1DhkN_zW3KVNQo8kT1RvOAKr_V2IAPg8YEbTReAoeClpaTrgUxAbmgtf2M39EPJkHS-gNTGjHJDM8w2Q_-WGBWmECBIQKjQmkpQHjkSRxIwVUF5xCBoUQCl_sAdmUamkKUEDUjUiUnI7iBk",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "i luv nawalparasi ",
+            "time" : 1328649256
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/108182013635116941988/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "East-West Highway, Naya Belhani"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,92 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "B.P.Highway",
+            "short_name" : "B.P.Highway",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Kavre Bhanjyang",
+            "short_name" : "Kavre Bhanjyang",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Kavre Nitya Chandeshwor",
+            "short_name" : "Kavre Nitya Chandeshwor",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bagmati",
+            "short_name" : "Bagmati",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "45200",
+            "short_name" : "45200",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eB.P.Highway\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKavre Nitya Chandeshwor\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e45200\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "B.P.Highway, Kavre Nitya Chandeshwor 45200, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.601348,
+            "lng" : 85.57528000000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "189fcc450678674b289e95dc280219708371e1a9",
+      "name" : "Kavre Bhanjyang School",
+      "place_id" : "ChIJVw0-a7wJ6zkRDmb7rgt9bLQ",
+      "reference" : "CnRqAAAAzl2uCOqurMkLNOnytO5fWipZtwqbIlDasfZtl55fCKKG9Mwtn5b8jR-YxqR7JWPS3Ug88IZz4_WqPE6vHqIZC44kTa2ctzwnwo4rkN6XxQ4XJ7zVnmclco4AaoUM8afhlLcndGQ0oSAPY7lXS_hQ2RIQ-u0IikozU87hEPo6KKe-hhoUHWoXfB22heqtLUktDwkFCjf5qWw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Madhav Humagain",
+            "author_url" : "https://plus.google.com/101966828494701539430",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "The name of the school is Karthari Ma Vi by the way.",
+            "time" : 1410239537
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Prazol Dhakal",
+            "author_url" : "https://plus.google.com/111622004779422189840",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Karathari Secondary School",
+            "time" : 1370673660
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "school", "establishment" ],
+      "url" : "https://plus.google.com/104418433786176121826/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 345,
+      "vicinity" : "B.P.Highway, Kavre Nitya Chandeshwor"
+   },
+   "status" : "OK"
+}

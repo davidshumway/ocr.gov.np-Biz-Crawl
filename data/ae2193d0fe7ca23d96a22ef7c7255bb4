@@ -1,0 +1,91 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Seti",
+            "short_name" : "Seti",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Far-Western Region",
+            "short_name" : "Far-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10500",
+            "short_name" : "10500",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Seti, \u003cspan class=\"postal-code\"\u003e10500\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Seti, 10500, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 29.538436,
+            "lng" : 81.18353399999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/airport-71.png",
+      "id" : "766aeaacd155b8a4fe40d9bd0c46948361dc07f2",
+      "name" : "Bajhang Airport",
+      "place_id" : "ChIJL4YyoSGVozkRPn-o8aHuWsQ",
+      "reference" : "CnRjAAAAxsEgXEFsxkDIi-s6zPAOEeA3o8C3PQ37d5NDSb28IxwOYv09kqe-sK3eaD6Yb9roetLBW4j1G_h50DGINeb9Qua8TureUY0D2OSlqU8uprhzn9AWRATh5MiS9XoyFOchHVR8DKKHhp5RV_tGadfz2xIQJiS1a6v1arzxhCCLJ9EeexoUcnpLL8wM2jG5Kv_L5FICgt0Z9nY",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Dhan Bist",
+            "author_url" : "https://plus.google.com/104959521658716766447",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1401534894
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Prem Dhami",
+            "author_url" : "https://plus.google.com/108319868421640425130",
+            "language" : "en",
+            "rating" : 1,
+            "text" : "",
+            "time" : 1429198824
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Tiresh Dhami",
+            "author_url" : "https://plus.google.com/107910605243182366355",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1403866685
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "airport", "transit_station", "establishment" ],
+      "url" : "https://plus.google.com/111574516655178754607/about?hl=en-US",
+      "user_ratings_total" : 3,
+      "utc_offset" : 345,
+      "vicinity" : ""
+   },
+   "status" : "OK"
+}

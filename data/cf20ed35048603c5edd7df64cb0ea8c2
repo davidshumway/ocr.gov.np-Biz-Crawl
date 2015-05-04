@@ -1,0 +1,73 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "TinPiple",
+            "short_name" : "TinPiple",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Panchkhal",
+            "short_name" : "Panchkhal",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bagmati",
+            "short_name" : "Bagmati",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "45212",
+            "short_name" : "45212",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "TinPiple, \u003cspan class=\"locality\"\u003ePanchkhal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e45212\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "TinPiple, Panchkhal 45212, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.629252,
+            "lng" : 85.61445999999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "394bdf72c849c058d4221ef3e997a2ae367d49e6",
+      "name" : "Luitel Medical",
+      "place_id" : "ChIJH8ZPEJun6zkRvpSqR6zg3IE",
+      "reference" : "CnRiAAAAh_zV5h0pnU9GNo0VP1AbthlZ_5ctvuYyOzbh_lUV8hQlWpgYZqG7hchtPyANmtC2BBIrjK5oser6NX3uYFGu6ontYdwMxV9ZAaJBF54yNjkpKxnc5WMQoXIquHsuDx8d2vanZ6oQ3cAIcRF59pnkChIQ4LOhQKO2HlHFC97pD5uoZRoUAv5oW0kZXwJ1pbhGK3lkJQnWib4",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Anamol Sapkota",
+            "author_url" : "https://plus.google.com/106852827511268485730",
+            "language" : "en",
+            "rating" : 1,
+            "text" : "",
+            "time" : 1424505053
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/116629898973665376837/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Panchkhal"
+   },
+   "status" : "OK"
+}

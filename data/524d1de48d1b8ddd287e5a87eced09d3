@@ -1,0 +1,159 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Ground Floor",
+            "short_name" : "Ground Floor",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "Computer Bazaar",
+            "short_name" : "Computer Bazaar",
+            "types" : [ "premise" ]
+         },
+         {
+            "long_name" : "पुतलीसडक",
+            "short_name" : "पुतलीसडक",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "पुतलीसडक",
+            "short_name" : "पुतलीसडक",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kathmandu",
+            "short_name" : "Kathmandu",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "मध्यमाञ्चल",
+            "short_name" : "मध्यमाञ्चल",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "44600",
+            "short_name" : "44600",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Ground Floor, Computer Bazaar, \u003cspan class=\"street-address\"\u003eपुतलीसडक\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e44600\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Ground Floor, Computer Bazaar, पुतलीसडक, 44600, Nepal",
+      "formatted_phone_number" : "0980-4265112",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.706441,
+            "lng" : 85.322965
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+      "id" : "de18c3fd5ec89693cc1c630045881b9145dbd4ff",
+      "international_phone_number" : "+977 980-4265112",
+      "name" : "PC TECH P. LTD.",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 6:00 pm",
+            "Tuesday: 10:00 am – 6:00 pm",
+            "Wednesday: 10:00 am – 6:00 pm",
+            "Thursday: 10:00 am – 6:00 pm",
+            "Friday: 10:00 am – 6:00 pm",
+            "Saturday: Closed",
+            "Sunday: 10:00 am – 6:00 pm"
+         ]
+      },
+      "place_id" : "ChIJxz4s7AcZ6zkRHOi9mwVMYic",
+      "reference" : "CnRiAAAAOKud5NiXeTMpf96AXo-YKXkOWgmPgudvzMOqkQE-6fktZ8tDjIr4uZDjR4PQTsh9LpRbKePj5s6dnb7Gyq30sJdDdR-vKHJE_Mv3J74G-95RZZYh_IcQMqjo02ip7J1Sq4bVBCBrQ8IW5Fv9mj6rFxIQry4ocNZa_T0MRzzhmhYKoxoUNi2cuBV3DiT0f3V3tQfe6Z55YK0",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Sanam Shrestha",
+            "author_url" : "https://plus.google.com/111727507979070923477",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1427089962
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "electronics_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/108242748462358869315/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Computer Bazaar, पुतलीसडक"
+   },
+   "status" : "OK"
+}

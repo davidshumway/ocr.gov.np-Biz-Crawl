@@ -1,0 +1,61 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Kathmandu",
+            "short_name" : "Kathmandu",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "44600",
+            "short_name" : "44600",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Boudhanath, \u003cspan class=\"street-address\"\u003eRamhiti-6\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKathmandu\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e44600\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Boudhanath, Ramhiti-6, Kathmandu 44600, Nepal",
+      "formatted_phone_number" : "01-4915363",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.726263,
+            "lng" : 85.365003
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id" : "aea4531e5905534e664aa85b5ed8045511de33c0",
+      "international_phone_number" : "+977 1-4915363",
+      "name" : "Ram's Rooms",
+      "place_id" : "ChIJ3R37y9wb6zkRpiyCJ_k6Xqw",
+      "reference" : "CmRfAAAAsIJiFguwLGvcTQii4n85w115vZFNLQV6-bkX1TqSZJ3pIYwMM4lHV8ST0Qim_wSeAdjiIkWT7l8TipGjPO318CiMgaxO_Pqo8aTTB3ztDV8iNKgmOQ0Kps1PlSMH_YUFEhAk7mSgpwljzFFA2GL_7-BEGhTt8jZcW2MCQUaOGlq3f3Q1QpAwhg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Karma Tashi",
+            "author_url" : "https://plus.google.com/100320739765716684422",
+            "language" : "en",
+            "rating" : 1,
+            "text" : "",
+            "time" : 1416789668
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "lodging", "store", "establishment" ],
+      "url" : "https://plus.google.com/103314198205875868435/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Boudhanath, Ramhiti-6, Kathmandu",
+      "website" : "http://ramsrooms.com/"
+   },
+   "status" : "OK"
+}

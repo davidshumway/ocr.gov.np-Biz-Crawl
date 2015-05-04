@@ -1,0 +1,159 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Gautam Niwas",
+            "short_name" : "gautam niwas",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Sangam Tole",
+            "short_name" : "Sangam Tole",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Manigram",
+            "short_name" : "Manigram",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Manigram",
+            "short_name" : "Manigram",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Lumbini",
+            "short_name" : "Lumbini",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Western Region",
+            "short_name" : "Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "32903",
+            "short_name" : "32903",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eGautam Niwas\u003c/span\u003e, \u003cspan class=\"locality\"\u003eManigram\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e32903\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Gautam Niwas, Manigram 32903, Nepal",
+      "formatted_phone_number" : "071-560475",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.629753,
+            "lng" : 83.46364699999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "625bb9c5b019781c06b6edad97753bbbcc550090",
+      "international_phone_number" : "+977 71-560475",
+      "name" : "Paragon English School",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 4:00 pm",
+            "Tuesday: 10:00 am – 4:00 pm",
+            "Wednesday: 10:00 am – 4:00 pm",
+            "Thursday: 10:00 am – 4:00 pm",
+            "Friday: 10:00 am – 4:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 600,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/101556515196083486303\"\u003eKiran Gautam\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAMRx5mortUWCsYMWEx3hPEb6jMvkdJ6t-4p4kcvyvX57eyGpcYIYUFvz6eKi-K5XgTISm5eLUP1G2IbaROnf7AKVHHapv6K_9ygnLP4Tx1M_ejbMjFfuetc3y2xBdKPwMypMNe7VIuJa27EK9gETvGhIQ6xWWFEjLmMIowiXDp-cM0BoU2sLN6JHZKF3sPhPOhzHMvHcdsPI",
+            "width" : 800
+         }
+      ],
+      "place_id" : "ChIJi78dEACFljkRWVeYzFXWVRw",
+      "reference" : "CnRpAAAARGcj3dw75tZJyCXHzv7z1Lg44u6Ulxxph9AUVDba6Y0V1y05FE5eJcuD35Jmts3SKgclhrHUGHVKosrYWyNRfKSOmJoJZjI-UnyYDDdom-5lSiEM0GhNDoyCJmtRQcPS-k6tql2AxuSyEXXq0b2AsRIQX3uNb3cah3gllfrfw1OKLBoU--7zmD5RSz63rrM9mwFpsOxCcNU",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Kiran Gautam",
+            "author_url" : "https://plus.google.com/101556515196083486303",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Phone No is 071562265",
+            "time" : 1394468914
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/101747027482740634978/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Gautam Niwas, Manigram"
+   },
+   "status" : "OK"
+}

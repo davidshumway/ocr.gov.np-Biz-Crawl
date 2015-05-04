@@ -1,0 +1,159 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Champawat",
+            "short_name" : "Champawat",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Uttarakhand",
+            "short_name" : "UK",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "262523",
+            "short_name" : "262523",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "National Highway 125,Bus Station, \u003cspan class=\"locality\"\u003eChampawat\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttarakhand\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e262523\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "National Highway 125,Bus Station, Champawat, Uttarakhand 262523, India",
+      "formatted_phone_number" : "094120 97067",
+      "geometry" : {
+         "location" : {
+            "lat" : 29.335972,
+            "lng" : 80.09092200000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "89ce051fd1688c51e5a8342328a24d07e7b94867",
+      "international_phone_number" : "+91 94120 97067",
+      "name" : "Tiwari Sweets and Restaurant",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0600"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 6:00 am – 9:00 pm",
+            "Tuesday: 6:00 am – 9:00 pm",
+            "Wednesday: 6:00 am – 9:00 pm",
+            "Thursday: 6:00 am – 9:00 pm",
+            "Friday: 6:00 am – 9:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJBWHBC_vhoDkR2KkYf0MGe-M",
+      "reference" : "CnRwAAAA-FA_H03B8wtbk6ZpbDaw8_0cP1ZetN3f7BaWemQu-xr3uY-ujRHgnUd1N2uNEegwr4MSO5avAMWxGe3kQleOwlK3cZLIZ51AesYBSktQ9MiY_LHKGUbjNoLsZnS4xS-vFa_6CpTUGcQowW8Ix1zHDxIQP9HO9RXCZpJRSaSzkoBoohoUot8d7VYXL5U3byzGE42UP4iB6uw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 2,
+                  "type" : "facilities"
+               },
+               {
+                  "rating" : 0,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Piyush Joshi",
+            "author_url" : "https://plus.google.com/102393060255973667480",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1383631285
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 2,
+                  "type" : "facilities"
+               },
+               {
+                  "rating" : 2,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Rajesh kumar Tamta",
+            "author_url" : "https://plus.google.com/103616308879976143465",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1394960799
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "food", "store", "establishment" ],
+      "url" : "https://plus.google.com/103188469298974502613/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "National Highway 125,Bus Station, Champawat"
+   },
+   "status" : "OK"
+}

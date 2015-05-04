@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "F002",
+            "short_name" : "F002",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Mechi",
+            "short_name" : "Mechi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Eastern Region",
+            "short_name" : "Eastern Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "57200",
+            "short_name" : "57200",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eF002\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e57200\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "F002, 57200, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.622155,
+            "lng" : 87.709238
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "e6e9c9ebce61688eba6cce017f1f2b62a8291f53",
+      "name" : "Dahal Upachar Sewa",
+      "place_id" : "ChIJDR9KHTuQ5TkRCKo9G_lmigc",
+      "reference" : "CnRlAAAACaMhBXiSsdY-MUEryY2Bu3GEw6ELfMyGHYHmKx2E1claOxCBAqryIcgjgHi4942Lc589243TAj7Wkur7CsQ47VzPUrIgrpiIk2aEyJ3t5VxqWMbKyzS8gfyR1AtFVzwiVI3YHtsBGGDTi8ApSbkrUxIQiceDyBDRP6LcyEwVK4Yz0xoUnyvHWKIHzM-I6Gv2dLdrfczUON4",
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/111218431125674852549/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "F002"
+   },
+   "status" : "OK"
+}

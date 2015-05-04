@@ -1,0 +1,53 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "318国道",
+            "short_name" : "318国道",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Nyalam",
+            "short_name" : "Nyalam",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Xigaze",
+            "short_name" : "Xigaze",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Tibet",
+            "short_name" : "Tibet",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "China",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003eChina\u003c/span\u003e, \u003cspan class=\"region\"\u003eTibet\u003c/span\u003e, \u003cspan class=\"locality\"\u003eXigaze\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNyalam\u003c/span\u003e, \u003cspan class=\"street-address\"\u003e318国道\u003c/span\u003e",
+      "formatted_address" : "China, Tibet, Xigaze, Nyalam, 318国道",
+      "formatted_phone_number" : "0892 874 3222",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.986235,
+            "lng" : 85.98509199999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "4c50bb5b0c894f1ccc7d6f4c5a9dedbc18c67af4",
+      "international_phone_number" : "+86 892 874 3222",
+      "name" : "Miemie Supermarket",
+      "place_id" : "ChIJSa8E9Ow26jkRiTeliyLHz8k",
+      "reference" : "CnRmAAAAdBwCY9obyYXnzlz5zsJ8IRdZWnDByokEXQbwxpZ0V1AtOaCA_X-sY_V9gie3j2H0Zb0TrATyJTdaoaGvIGIe8YN48wakQLygrK67CLETDw7bZH0wOtqmzOTte6CT1UCPLl_xE3wKsGkoytK91uv7DxIQeHbiCicGcFn-Apyg3DQuHhoUh-TzJKWxTgTkv6IeCtgKKPwlHFs",
+      "scope" : "GOOGLE",
+      "types" : [ "convenience_store", "food", "store", "establishment" ],
+      "url" : "https://plus.google.com/108139919739540165106/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "318国道, Nyalam, Xigaze"
+   },
+   "status" : "OK"
+}

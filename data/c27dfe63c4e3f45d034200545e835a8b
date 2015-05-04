@@ -1,0 +1,128 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "44600",
+            "short_name" : "44600",
+            "types" : [ "postal_code" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "Paknajol, Thamel, Kathmandu, \u003cspan class=\"postal-code\"\u003e44600\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Paknajol, Thamel, Kathmandu, 44600, Nepal",
+      "formatted_phone_number" : "01-4212818",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.717877,
+            "lng" : 85.30826399999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id" : "9980711ed4a38bdba6deec8e3fedf2b267892fe0",
+      "international_phone_number" : "+977 1-4212818",
+      "name" : "Siesta Guest House",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2359"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2359"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2359"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2359"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2359"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 12:00 am – 11:59 pm",
+            "Tuesday: 12:00 am – 11:59 pm",
+            "Wednesday: 12:00 am – 11:59 pm",
+            "Thursday: 12:00 am – 11:59 pm",
+            "Friday: 12:00 am – 11:59 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJCXE8LqoZ6zkRWWChh3mnL64",
+      "reference" : "CnRmAAAAJI44hKyN8pA8eOmaLgoDA0EvvK6Lc3DBm5sApFE-kmt1-jclxeqTFZsYLCbgFMrU381X1EtygeSS5vMkghIqLTvxxLPvcUij7VU9TwzB-HelimA67AQA8Oo7FcVK0DAY_XtU1ag6M1GSOAaguwSh1BIQn7KTIZW4QUZ_K36qq8_ngBoUK7BbUjhHpHnhhi7W835iJz5aH9A",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 0,
+                  "type" : "facilities"
+               },
+               {
+                  "rating" : 0,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Trilochan Baral",
+            "author_url" : "https://plus.google.com/101107705277292646816",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "",
+            "time" : 1382013242
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "lodging", "establishment" ],
+      "url" : "https://plus.google.com/114429059677576033837/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Paknajol, Thamel, Kathmandu",
+      "website" : "http://www.siestaguesthouse.com/"
+   },
+   "status" : "OK"
+}

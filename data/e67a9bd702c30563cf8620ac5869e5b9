@@ -1,0 +1,117 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "East-West Highway",
+            "short_name" : "East-West Hwy",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Ratnanagar",
+            "short_name" : "Ratnanagar",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Narayani",
+            "short_name" : "Narayani",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "44204",
+            "short_name" : "44204",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eEast-West Highway\u003c/span\u003e, \u003cspan class=\"locality\"\u003eRatnanagar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e44204\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "East-West Highway, Ratnanagar 44204, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.620076,
+            "lng" : 84.51869600000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "0bdc65c772b98e175f2e917b0f9f1576c15abe0a",
+      "name" : "Vegetable Market",
+      "place_id" : "ChIJ_TWhTlLvlDkRtbRiXrGcif4",
+      "reference" : "CnRkAAAAzzTIvEI_j2KDhMQpRfM37xTiM5gTZ3FE4cIK1qyVFjnf6rYnyEtL1E_WtSS_m22hurHE9OFBFBJBotqAYlF2hQVBRABo5JpbO5SUNV9SZn0TGGNAtMddBkgvmrS0_5kxc6eouxXyp_uTRuI3Spou7RIQDqnM3GuobZ2XEyWfBF3TixoUry65MALp3_jzjViCIUL7yoeHP7E",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 0,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Priyas Adhikari",
+            "author_url" : "https://plus.google.com/115272830408453974616",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "It is nearmy home",
+            "time" : 1367384154
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 2,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 2,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Ujan Shrestha",
+            "author_url" : "https://plus.google.com/117133917132958241399",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1367921100
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "kushal khanal",
+            "author_url" : "https://plus.google.com/102406815398925644713",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1419168437
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+      "url" : "https://plus.google.com/105851275531051583828/about?hl=en-US",
+      "user_ratings_total" : 3,
+      "utc_offset" : 345,
+      "vicinity" : "East-West Highway, Ratnanagar"
+   },
+   "status" : "OK"
+}

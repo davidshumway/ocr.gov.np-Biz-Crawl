@@ -1,0 +1,73 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "H14",
+            "short_name" : "H14",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Attariya",
+            "short_name" : "Attariya",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Seti",
+            "short_name" : "Seti",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Far-Western Region",
+            "short_name" : "Far-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10900",
+            "short_name" : "10900",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eH14\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e10900\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "H14, 10900, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.814754,
+            "lng" : 80.554041
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "477deaf8f6ae567ab6b820e42ad79086bf9f9e14",
+      "name" : "Bharat Clinic",
+      "place_id" : "ChIJh_oDvlCRoTkR7ztfWZWPHCk",
+      "reference" : "CmRgAAAADAj0KKNKmdKSfvQ20miX82snr_lL6MBvxNUL_GXpTaf65S8zBSmwkCIplr56tVOFplrDj3Wb0ICqAgYJ42_kSSDXytH3TUFc0TXyou75o0LXHVSlclyRire_TXgE82XcEhA9PGBus3CWGDs7Kq3WbE1bGhTmwreD0HXcH-wnthk3Xfdq2rgQZQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Anil Saud",
+            "author_url" : "https://plus.google.com/115668324680023319719",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1419836264
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/102851376456066190075/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "H14"
+   },
+   "status" : "OK"
+}

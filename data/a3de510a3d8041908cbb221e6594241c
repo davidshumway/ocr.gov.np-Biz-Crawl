@@ -1,0 +1,173 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Naya Bazaar Marg",
+            "short_name" : "Naya Bazaar Marg",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Balaju",
+            "short_name" : "Balaju",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kathmandu",
+            "short_name" : "Kathmandu",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "44611",
+            "short_name" : "44611",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNaya Bazaar Marg\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e44611\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Naya Bazaar Marg, 44611, Nepal",
+      "formatted_phone_number" : "0984-1666072",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.724312,
+            "lng" : 85.306037
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "b5772c3393440cc268cb9c27f4069aea58a55260",
+      "international_phone_number" : "+977 984-1666072",
+      "name" : "G.B Motorcycle Workshop",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 am – 6:00 pm",
+            "Tuesday: 8:00 am – 6:00 pm",
+            "Wednesday: 8:00 am – 6:00 pm",
+            "Thursday: 8:00 am – 6:00 pm",
+            "Friday: 8:00 am – 6:00 pm",
+            "Saturday: 8:00 am – 6:00 pm",
+            "Sunday: 8:00 am – 6:00 pm"
+         ]
+      },
+      "place_id" : "ChIJv28u9OYY6zkRjotzFDu5ZyU",
+      "reference" : "CnRqAAAAAQ5GyarOwup4n2tusQIUJ3FNspaUgBLyTrUbPQSab6_rjVW7GG2G7ul7sgrvn6HMgXRDYQyf5SZKGIKkRcl3Lg-nmMuah_934zAolfELuSCk4hu9r9w-O9Svjq9nrYRLqHg6jsh6fMehS-wi5CxLUBIQtlUtoLUsUnSRNIDc7cZcjhoUYgGesqkMSft1iWsAVH1Bub4yhm0",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Anil Dangol",
+            "author_url" : "https://plus.google.com/107116000134610155297",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Thankss",
+            "time" : 1424960744
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Hashish Maharjan",
+            "author_url" : "https://plus.google.com/117276217503425775914",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Thanks",
+            "time" : 1413253658
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/110557562008396492496/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 345,
+      "vicinity" : "Naya Bazaar Marg"
+   },
+   "status" : "OK"
+}

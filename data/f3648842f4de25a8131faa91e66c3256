@@ -1,0 +1,82 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Mirthi",
+            "short_name" : "Mirthi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Pithoragarh",
+            "short_name" : "Pithoragarh",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttarakhand",
+            "short_name" : "UK",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "262550",
+            "short_name" : "262550",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eMirthi\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttarakhand\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e262550\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Mirthi, Uttarakhand 262550, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 29.77668,
+            "lng" : 80.28053300000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "193cf7cbb9e9aa27a8d41142eaf8b1fb842fd712",
+      "name" : "SBI ATM ITBP",
+      "place_id" : "ChIJueNOb58yoTkRxfl8EPlOEGQ",
+      "reference" : "CmRfAAAA5E-ct2_OiBk5P-izBRQ9G5MTHlITwHP3hKhC_J1-BaENJen72b5SX2j7DY3W-fv_S2IYk0mfPzUiy4NdAR2OT07CLhdXAO_I9NYjvJzPO7XZNfxwk4zSOMCG0ucRv9cdEhDOytHHiIXcxTP_0YMBepJkGhSQ5CJ3U8mxoFWf1Ea1WmxfgRA_lg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Islam Ali",
+            "author_url" : "https://plus.google.com/100486201638668552377",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1398914367
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Manoj Bora",
+            "author_url" : "https://plus.google.com/107015736161821089385",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1394797527
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "atm", "finance", "establishment" ],
+      "url" : "https://plus.google.com/103363310064885155380/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "Mirthi"
+   },
+   "status" : "OK"
+}

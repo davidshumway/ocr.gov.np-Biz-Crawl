@@ -1,0 +1,133 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "202",
+            "short_name" : "202",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "National Highway 31",
+            "short_name" : "NH 31",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Shiv Mandir",
+            "short_name" : "Shiv Mandir",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Darjeeling",
+            "short_name" : "Darjeeling",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "734011",
+            "short_name" : "734011",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e202, National Highway 31\u003c/span\u003e, \u003cspan class=\"locality\"\u003eShiv Mandir\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e734011\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "202, National Highway 31, Shiv Mandir, West Bengal 734011, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.71035,
+            "lng" : 88.361825
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "c3f74856a2e774a366077604fa74bda2aec571bc",
+      "name" : "Kalpana Telecom",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 10:00 pm",
+            "Tuesday: 10:00 am – 10:00 pm",
+            "Wednesday: 10:00 am – 10:00 pm",
+            "Thursday: 10:00 am – 10:00 pm",
+            "Friday: 10:00 am – 10:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 680,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CnRsAAAAH5auw6C5bW5QnJN30IlL6QyYPWmi6VzMGl33xilRRjoG-GaFo_QpXlTGxNoF4mj0Yh0CkU7yO3tdked4n_hMcxSHfV6C9nXuO9VYq90-GV-18Dl84JR6RlWBdxOQ_gsGntwxucCMOMiwIIGBq6RwKhIQ8ZCC5RIAidGPztS5ZelndRoUkeb2aE9-YvCZJrrafIySYoLkshc",
+            "width" : 1024
+         }
+      ],
+      "place_id" : "ChIJB0BmDWJG5DkRT7aRVxFV_I0",
+      "reference" : "CnRjAAAALWeUY6WN9MUVrn0TBGVLesClnUn7DoXn-NH6O51CMrmQcjMdEblrwzHnJJRn2i6vAO3eTKMM5ieOemgluhuNAvhGO4aLtKslDFJaN_8A4DADOqUYNFfm5yh2cvD_WUpRZAsTRAUsyqxRqkDVPmkDNBIQ1Wvqp8xV-f0WLq8urYg2jhoUJGusVjGazyiJU0LqUbTIRnLj-0s",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "establishment" ],
+      "url" : "https://plus.google.com/110711458424169609386/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "202, National Highway 31, Shiv Mandir"
+   },
+   "status" : "OK"
+}

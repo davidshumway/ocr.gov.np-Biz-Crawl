@@ -1,0 +1,68 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Khumjung",
+            "short_name" : "Khumjung",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Sagarmatha",
+            "short_name" : "Sagarmatha",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Eastern Region",
+            "short_name" : "Eastern Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "56000",
+            "short_name" : "56000",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eKhumjung\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e56000\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Khumjung 56000, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.82983,
+            "lng" : 86.709225
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "445838fe194fd3c7d27e18b559a8042c9c1eb399",
+      "name" : "Everest Grocery and Shopping Center",
+      "place_id" : "ChIJ-QSp_voI6TkR53o3pRSvmTU",
+      "reference" : "CoQBdgAAAAA2CHfXDi6DVji_npNQ5LtrlP8GrIZ4Uzxo8mWdtwnAkhmk7zryXSebEvDfhrK70TFBqmY7UOAetBPJrQh1P0rFb12sacExBdFL8yVCumrCrMMzItygukApGMzN2sy2OmhFfLXfjvY3iVDMf_s91Vx25REux6UpX6WxW4mgJPtHEhBJrbad_oG78FKZv3dMBygGGhSC2myL-D11dZFsA8r6rRTWVBAIwg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "harvinder singh",
+            "author_url" : "https://plus.google.com/116954593170966597276",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1423918537
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "grocery_or_supermarket", "food", "store", "establishment" ],
+      "url" : "https://plus.google.com/114444080431091020769/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Khumjung"
+   },
+   "status" : "OK"
+}

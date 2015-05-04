@@ -1,0 +1,72 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "East-West Highway",
+            "short_name" : "East-West Highway",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Kohalpur",
+            "short_name" : "Kohalpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bheri",
+            "short_name" : "Bheri",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Mid-Western Region",
+            "short_name" : "Mid-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "21904",
+            "short_name" : "21904",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eEast-West Highway\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKohalpur\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e21904\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "East-West Highway, Kohalpur 21904, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.197592,
+            "lng" : 81.648286
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+      "id" : "7ece9ebb84b1c2da015d006adaab7cf644a6cff6",
+      "name" : "Madanchwok Petrol Pump",
+      "place_id" : "ChIJ5eNlQh1lmDkRRHf2VTkMsgg",
+      "reference" : "CnRpAAAArGfnfCV-tWs6x_8O1pMFMWfxeas7jAvf3vYiFx-koCwKixlU305w1RVeX85-bYDdEMe5Aq2bGWxPqfmOKzrik3XQDZxpDcJ0agWc77UdgpZg0jXh1ulGBgDTLMie1iNHIKB_qhdcvj4l7NZkZV-b2RIQhI6WcIFFOzV2W_yxX7yl8RoULSxJwGCsXv080y2p_lYHAjiIP_w",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "",
+            "time" : 1334888433
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "gas_station", "establishment" ],
+      "url" : "https://plus.google.com/107966494117190159901/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "East-West Highway, Kohalpur"
+   },
+   "status" : "OK"
+}

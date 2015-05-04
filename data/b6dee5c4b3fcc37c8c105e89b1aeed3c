@@ -1,0 +1,113 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Sahuriya",
+            "short_name" : "Sahuriya",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Madhubani",
+            "short_name" : "Madhubani",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "Punjab National Bank,Khojpur,, \u003cspan class=\"locality\"\u003eSahuriya\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Punjab National Bank,Khojpur,, Sahuriya, Bihar, India",
+      "formatted_phone_number" : "1800 180 2222",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.481512,
+            "lng" : 86.343677
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "fdf5a46c509c1ddab1520fe1f61d8abcb989d77f",
+      "international_phone_number" : "+91 1800 180 2222",
+      "name" : "Punjab National Bank",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 5:00 pm",
+            "Tuesday: 9:00 am – 5:00 pm",
+            "Wednesday: 9:00 am – 5:00 pm",
+            "Thursday: 9:00 am – 5:00 pm",
+            "Friday: 9:00 am – 5:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJzQoGJA-E7jkRJ5mBTQEJIPs",
+      "reference" : "CnRoAAAAz61VBxmZKSh0dvSFDA6xZor_dcui1Ou0fQBUmRR_Dq59te7FI8xV8hUV3l1NcoNbVDYmcz2Ek-Bs061rHU79admuWxG3qMEM-7R56XIFRySzut-mkQaMqyJV4Mog67-z6OH_G96PigHU0KLNWMfzaRIQRo8II6J5uRKemzkOo9ISwxoUrib_tSr4cyXtgr3HR2i-2QZM-GY",
+      "scope" : "GOOGLE",
+      "types" : [ "bank", "finance", "establishment" ],
+      "url" : "https://plus.google.com/111211739871559743259/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Punjab National Bank,Khojpur,, Sahuriya",
+      "website" : "https://www.pnbindia.in"
+   },
+   "status" : "OK"
+}

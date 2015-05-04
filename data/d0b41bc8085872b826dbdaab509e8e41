@@ -1,0 +1,71 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Street-3",
+            "short_name" : "Street-3",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Mahendranagar Bazaar",
+            "short_name" : "Mahendranagar Bazaar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Bhimdatta",
+            "short_name" : "Bhimdatta",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Mahakali",
+            "short_name" : "Mahakali",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Far-Western Region",
+            "short_name" : "Far-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10400",
+            "short_name" : "10400",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eStreet-3\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBhimdatta\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e10400\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Street-3, Bhimdatta 10400, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.965402,
+            "lng" : 80.180897
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "5e4c5b60a43106f326e070d61417ff407405b19b",
+      "name" : "Patani Medical Hall",
+      "photos" : [
+         {
+            "height" : 600,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/110561300765072345030\"\u003eKuber Chand\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAArconWQ2fTZRaesKOVFSnFeJVstslwA7paFi9x5GZPLIGjYTNTS0sVH_GfgcvAtle2ppfn6PdoY18Vg2jouOiOyIpz4-usGdHTANR9D6opiae-JBbBzW14gifRhIRqlYsFKww-YKRUkp4uWADnX6XnxIQBCW_FUXqO2SlI8YwaxgechoUMYw_16xsmi6gbFG32vfdM4yqgm0",
+            "width" : 800
+         }
+      ],
+      "place_id" : "ChIJ-2rwVAesoTkRXlTJbn-cgeI",
+      "reference" : "CnRnAAAAa9CjBtW7X88UaA9Ui_xC7EYb8eFZ6UQL0lMA30vXIodN0qTlWpdMyHPnHPSJBCQQjaOvHCi3udYmvdAStSytf7-aue8VmAZTNp1Hbyp0unQd3XHVs1FpUtX70tkHZ4meoAZqfMjqgy9dRlsSjIj--xIQGt_1upISzoGok0BKyrHUVhoUDsKqfKNj8ADTz-Ty69TeOc7tJ0g",
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/114313331110703934413/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "Street-3, Bhimdatta"
+   },
+   "status" : "OK"
+}

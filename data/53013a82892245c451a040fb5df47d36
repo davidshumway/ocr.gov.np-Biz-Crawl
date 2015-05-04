@@ -1,0 +1,67 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Pupri",
+            "short_name" : "Pupri",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Sitamarhi",
+            "short_name" : "Sitamarhi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "843333",
+            "short_name" : "843333",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003ePupri\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e843333\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Pupri, Bihar 843333, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.467168,
+            "lng" : 85.699764
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "53b8b5b7edc45f9ce919ca292380210778818f7a",
+      "name" : "Sri Janki Traders",
+      "place_id" : "ChIJLfRMqkZR7DkRTbY9iI38bbA",
+      "reference" : "CnRlAAAAIPqBNdeHQaXf8Irgx6rQ6TukylF_RGbNF2YUSu0gORHh9wRAMK26rM0gom8KzrYBChhobGajqZQDoMclm78NyRMMMVE7t4CwhiXj4HkMsL9fdKI47EnqWGkf__nJkXH8oLjb3DcaxA3f17p28JHaORIQhBct_0REDGO2jGYiLUk69xoUDBTnAYhA4wII3V-28gt941Q51_k",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1338274210
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/100578439048546972160/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Pupri"
+   },
+   "status" : "OK"
+}

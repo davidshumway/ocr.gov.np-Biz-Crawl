@@ -1,0 +1,115 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Mainapokhar",
+            "short_name" : "Mainapokhar",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bheri",
+            "short_name" : "Bheri",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Mid-Western Region",
+            "short_name" : "Mid-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "21800",
+            "short_name" : "21800",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eMainapokhar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e21800\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Mainapokhar 21800, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.1944,
+            "lng" : 81.479905
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+      "id" : "70dfd697e0c395494f1252ff548c59daf7f7a936",
+      "name" : "Mainapokhar Health Post",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 4:00 pm",
+            "Tuesday: 10:00 am – 4:00 pm",
+            "Wednesday: 10:00 am – 4:00 pm",
+            "Thursday: 10:00 am – 4:00 pm",
+            "Friday: Closed",
+            "Saturday: Closed",
+            "Sunday: 10:00 am – 4:00 pm"
+         ]
+      },
+      "place_id" : "ChIJF6MCVVyImDkRdSoDskff5wY",
+      "reference" : "CnRqAAAAsYRa4fq6j5my-rFEc4DkA01reGokt4UqgJj9PUvk6nF9mlcVBwD-lzPl2_hm_OtqM9qpxZY2lgekptzUVc1CYrFvPekCuQ1FNO3eInDHwo3bqJ7Yt4hL5JRGmZbFAoIDw0pnAOcKjKo9NYcECfvH0hIQq7a49EZexT4AklI9v0n8NhoUhUqd8BjIYXr_QiWODf8pJvvaZUA",
+      "scope" : "GOOGLE",
+      "types" : [ "gym", "health", "establishment" ],
+      "url" : "https://plus.google.com/100360630781085865405/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "Mainapokhar"
+   },
+   "status" : "OK"
+}

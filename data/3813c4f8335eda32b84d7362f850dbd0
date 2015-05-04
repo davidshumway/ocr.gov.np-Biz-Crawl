@@ -1,0 +1,68 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Barahathawa",
+            "short_name" : "Barahathawa",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Janakpur",
+            "short_name" : "Janakpur",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "45800",
+            "short_name" : "45800",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eBarahathawa\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e45800\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Barahathawa 45800, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.000678,
+            "lng" : 85.464763
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "223c753b49ab97be11e5df02b194db90dcc4b1a1",
+      "name" : "Sanjay Book Store",
+      "place_id" : "ChIJeybzipuE7DkRGB64jovPbZw",
+      "reference" : "CnRlAAAAMZ4lY-nCjEtyWSrSviUaNF7J_RFuO-mqWSu-eg2Nek-Buam2zVZ87eycq9q1MIZBJh0myTPROp3DnAP9l3IA5Z1sDwcK5zkcK_iQnD7Y-D2EZ4nDK_INMadrwQnfKoPQzJOGZq0lWq6wnZhejPJYtxIQtwutjHNRNsKB7ipt07UmNhoUVY6M6nO9qbD1DoFhDOldOraDiaE",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Sachin Gupta",
+            "author_url" : "https://plus.google.com/106490541263527909508",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "its very good",
+            "time" : 1417243696
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "book_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/107676684829374320163/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Barahathawa"
+   },
+   "status" : "OK"
+}

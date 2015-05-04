@@ -1,0 +1,70 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "318国道",
+            "short_name" : "318国道",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Nyalam",
+            "short_name" : "Nyalam",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Xigaze",
+            "short_name" : "Xigaze",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Tibet",
+            "short_name" : "Tibet",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "China",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003eChina\u003c/span\u003e, \u003cspan class=\"region\"\u003eTibet\u003c/span\u003e, \u003cspan class=\"locality\"\u003eXigaze\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNyalam\u003c/span\u003e, \u003cspan class=\"street-address\"\u003e318国道\u003c/span\u003e",
+      "formatted_address" : "China, Tibet, Xigaze, Nyalam, 318国道",
+      "formatted_phone_number" : "0892 874 2390",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.987572,
+            "lng" : 85.983566
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id" : "b022b3b7ec71fbf42adaf4f86e78bf0cd8ef0c28",
+      "international_phone_number" : "+86 892 874 2390",
+      "name" : "Zhangmu Hotel",
+      "place_id" : "ChIJb405se026jkRFRC2AzPG3Ek",
+      "reference" : "CmRgAAAAqrIA2bnIDfh5M9Qi9QAtLfnojnWOgAzmQLlokByUhEOKX1PxwHB81-cygCS8LVYvaTd6yvyYN2YhItAjS2tFf090cA_c5egp5BZTcU29ef6jMEQ1FcagQgUjnwdPJiByEhA32CTeHnkbHheZ-j9WzgghGhSI0obp6220-yxOjCcGT3F4mxKhTA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Zoltán Cseh",
+            "author_url" : "https://plus.google.com/117719032606545112155",
+            "language" : "hu",
+            "rating" : 1,
+            "text" : "Nepál után az első tibeti helység. A  szálloda tipikusan kínai. (Minden csak látszat!)\nAludni lehet benne, túléléshez első osztályú!\nAfter Nepal, its the first tibetian place.   The Hotel is tipical Chinese: just an illusion.\nUnto survival its first class!",
+            "time" : 1388594338
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "lodging", "establishment" ],
+      "url" : "https://plus.google.com/110181606645021333816/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "318国道, Nyalam, Xigaze"
+   },
+   "status" : "OK"
+}

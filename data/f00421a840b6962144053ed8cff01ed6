@@ -1,0 +1,115 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "मानभवन सडक",
+            "short_name" : "मानभवन सडक",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "मानभवन",
+            "short_name" : "मानभवन",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "जावलाखेल",
+            "short_name" : "जावलाखेल",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Lalitpur",
+            "short_name" : "Lalitpur",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "मध्यमाञ्चल",
+            "short_name" : "मध्यमाञ्चल",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "44700",
+            "short_name" : "44700",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eमानभवन सडक\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e44700\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "मानभवन सडक, 44700, Nepal",
+      "formatted_phone_number" : "01-5524512",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.672255,
+            "lng" : 85.316535
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id" : "3fde2fdb35a5e6ebfa57f7911b507af1805d8221",
+      "international_phone_number" : "+977 1-5524512",
+      "name" : "Hotel Clarion",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "open" : {
+                  "day" : 0,
+                  "time" : "0000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+         ]
+      },
+      "place_id" : "ChIJRaWir80Z6zkR1dIOw3IHHd0",
+      "reference" : "CnRhAAAARSGX7yaxBcqqF0tkmy7TFnWoUcUZ4akNDiP3drwVLUPGhSUykiKddf6rEVllFF5PEivnSURVkaJf1VqUDN5IbF3Zasw_yOEzLF1llsSUC_hqP9Che2Uc-Ue90eEt_-dqm547FAgBQfS0y0Jy7wHPJxIQWO_nqPZwTzAEBbSH3GrL-hoUsn5Pb01PChH6mbCeSwSg30XmWPk",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "kishore bajracharya",
+            "author_url" : "https://plus.google.com/102782539859937038207",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "Average hotel with careing peaple..",
+            "time" : 1399047442
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Sagar Khatri",
+            "author_url" : "https://plus.google.com/110594017817146157698",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1385523418
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "lodging", "establishment" ],
+      "url" : "https://plus.google.com/117614363103398182116/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 345,
+      "vicinity" : "मानभवन सडक",
+      "website" : "http://www.hotelclarion.com"
+   },
+   "status" : "OK"
+}

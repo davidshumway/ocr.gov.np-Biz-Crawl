@@ -1,0 +1,68 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Kohalpur",
+            "short_name" : "Kohalpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bheri",
+            "short_name" : "Bheri",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Mid-Western Region",
+            "short_name" : "Mid-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "21904",
+            "short_name" : "21904",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eKohalpur\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e21904\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Kohalpur 21904, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.194416,
+            "lng" : 81.68817799999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "ab1b6d3d87af6b0e89937240c0cc6b67472bba46",
+      "name" : "Ajay Medical Hall",
+      "place_id" : "ChIJRxVBSnxlmDkR7pTxLXwLNtc",
+      "reference" : "CnRlAAAAZ9ch9hygt6RJZ-J6pKcSxhKDPx0eQBXlOORKnHjbqBAnJRBq0esCcANnRXJu1iYFp-qTlwJZn91MNQivF1sUCAVQZ-ehInBLbOk-chMKVCcNx-nhniWgc2CDy_T1tL1ktL6GJj5SvBAWv4RCU7V1NhIQ1e1XXWqZCTmz-Lqw-KoEqRoUrJCYZda8jVSxXqrDP2R60llnP9s",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Antory Neupane",
+            "author_url" : "https://plus.google.com/115758069210191872339",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1351395615
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "pharmacy", "store", "health", "establishment" ],
+      "url" : "https://plus.google.com/115132042331587136777/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Kohalpur"
+   },
+   "status" : "OK"
+}

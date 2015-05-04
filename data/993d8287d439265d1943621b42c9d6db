@@ -1,0 +1,96 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Amrit Marg",
+            "short_name" : "Amrit Marg",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "ठमेल",
+            "short_name" : "ठमेल",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "काठमांडौ",
+            "short_name" : "काठमांडौ",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "44600",
+            "short_name" : "44600",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eAmrit Marg\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e44600\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Amrit Marg, 44600, Nepal",
+      "formatted_phone_number" : "01-4417944",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.715248,
+            "lng" : 85.31249699999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id" : "2bd1c47cea35e4c9c9442ad8a22478a4c910b0ae",
+      "international_phone_number" : "+977 1-4417944",
+      "name" : "Hotel Zen Holiday",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "open" : {
+                  "day" : 0,
+                  "time" : "0000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+         ]
+      },
+      "place_id" : "ChIJo7xpUv0Y6zkR3AXSjjjEg1U",
+      "reference" : "CnRkAAAALIAMdZwok8ByjZdRsHy3dzs2Utu5U4AfSjWqVBy7330MDfp6lmoOUf7vlLRGArLy46oGvC3t1PToOfhcVyX2nOXhjYN_08itt-MLqX6hTImvguxEwXkWKrN7F5YDvu_k1QkvgGMY8gEVj9f0_TkwHBIQfS2ujhTmuq-bKCogBmORkxoU2N9OroKhaTSxydk3vNl4RBm5NBw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Binaya Shrestha",
+            "author_url" : "https://plus.google.com/102617832205056536209",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Good, clean and far from noise",
+            "time" : 1427384169
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "lodging", "establishment" ],
+      "url" : "https://plus.google.com/111547157030393444244/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Amrit Marg",
+      "website" : "http://www.hotelzenholiday.com"
+   },
+   "status" : "OK"
+}

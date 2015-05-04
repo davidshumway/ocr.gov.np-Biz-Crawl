@@ -1,0 +1,68 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Marke",
+            "short_name" : "Marke",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Rapti",
+            "short_name" : "Rapti",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Mid-Western Region",
+            "short_name" : "Mid-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "22200",
+            "short_name" : "22200",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eMarke\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e22200\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Marke 22200, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.382372,
+            "lng" : 82.103602
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "97b66cfe487193897ef98ab3816a6ea5f3b3a9b4",
+      "name" : "Tribhuvan Janata Secondary School",
+      "place_id" : "ChIJQbaWqOkGmDkRFh8e5dFgz2Q",
+      "reference" : "CoQBdAAAAPJj8v2lZ-gnkY-gfwtakb2OXKXox7FXjA_ZDcQl-bumpKlzDFi4YSbkgxndb8qYoNHsP5_Tzy56tVnQ2NCfk6TolXRAMkr5AqoOltiuJpA24YtdNrgYZrDq-cYUus1QyqNamYLYyWcDEJKdyVdujiREpqllOVkpOVxC4bLh1ho2EhAMAUBitp7nQ-anKiwx4IiRGhQ9sEnaFbJl-TqEvHmwYAo16yAT3w",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Roga Ram",
+            "author_url" : "https://plus.google.com/115936509266883664382",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1406026449
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "school", "establishment" ],
+      "url" : "https://plus.google.com/114173882093620605452/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Marke"
+   },
+   "status" : "OK"
+}

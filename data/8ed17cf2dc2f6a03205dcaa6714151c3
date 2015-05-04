@@ -1,0 +1,154 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Sandhikharka-Gorusinghe Road",
+            "short_name" : "Sandhikharka-Gorusinghe Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Chutrabesi",
+            "short_name" : "Chutrabesi",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Sandhikharka",
+            "short_name" : "Sandhikharka",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Lumbini",
+            "short_name" : "Lumbini",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Western Region",
+            "short_name" : "Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "32700",
+            "short_name" : "32700",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eSandhikharka-Gorusinghe Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eSandhikharka\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e32700\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Sandhikharka-Gorusinghe Road, Sandhikharka 32700, Nepal",
+      "formatted_phone_number" : "0986-7162895",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.97271,
+            "lng" : 83.12609399999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "7e40e570933afefdebb721749d8f45605b5bbf29",
+      "international_phone_number" : "+977 986-7162895",
+      "name" : "Blueberry Clothing Store",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 6:30 pm",
+            "Tuesday: 9:00 am – 6:30 pm",
+            "Wednesday: 9:00 am – 6:30 pm",
+            "Thursday: 9:00 am – 6:30 pm",
+            "Friday: 9:00 am – 6:30 pm",
+            "Saturday: Closed",
+            "Sunday: 9:00 am – 6:30 pm"
+         ]
+      },
+      "place_id" : "ChIJTZWen-NEljkRImALPyGnSoA",
+      "reference" : "CnRsAAAABRWgIy4noEC3yf4IL2f1lSgotXHlKM-ey05WwdchiP7Jw1XUXJmBKzxJ3Of1Wr5TVlKxOouf5w-FQ_yf2yOU1BPBJUV_Ugnuqd2_-vAUIqI-CFYWXhAszqQoiuFI0zs6QJpm34TUgdU_zXZkr6XZfRIQLSPGawfSvnsPasXCiRkr5BoUjS578OANwwjagqrVhoa1WZRrnB4",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Deepali Gurung",
+            "author_url" : "https://plus.google.com/116400507452120890025",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Lovely Place For Buying Clothes",
+            "time" : 1422034494
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "clothing_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/110947484314484377680/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "Sandhikharka-Gorusinghe Road, Sandhikharka"
+   },
+   "status" : "OK"
+}

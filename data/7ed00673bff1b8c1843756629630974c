@@ -1,0 +1,72 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "East-West Highway",
+            "short_name" : "East-West Highway",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Lamki",
+            "short_name" : "Lamki",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Seti",
+            "short_name" : "Seti",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Far-Western Region",
+            "short_name" : "Far-Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "10901",
+            "short_name" : "10901",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eEast-West Highway\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e10901\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "East-West Highway, 10901, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.635346,
+            "lng" : 81.1317
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "ebcdfe5b3c5be854f39c9151da62a422520de245",
+      "name" : "Gulara Bus Stop",
+      "place_id" : "ChIJET2HZhITojkR43NI1wLkE4o",
+      "reference" : "CnRjAAAARG8UCs9Hhz_z9rQ5FGkCwowAkpQSZtGT6Pbuf33Qek6__YqiyJP3FRbliusOZir2Kp6Q7XZ9WqSwqnF46z_lL2zykbkko6l0b5HXVwDX73g8nY4tv9JYOmgnBk8ccuRskbOplw9YBNs3nZJTdynophIQKwxV80v80Twl66_SPFMNZBoUzrB21ofi-aqwoxfRaygD8dDGmIE",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Tanka Bista",
+            "author_url" : "https://plus.google.com/110604199874514666884",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "Its not Gulara bus stop. Its Ganeshpur.",
+            "time" : 1428248658
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "bus_station", "transit_station", "establishment" ],
+      "url" : "https://maps.google.com/maps/place?cid=9949546702644474851",
+      "utc_offset" : 345,
+      "vicinity" : "East-West Highway"
+   },
+   "status" : "OK"
+}

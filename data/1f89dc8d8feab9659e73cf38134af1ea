@@ -1,0 +1,99 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Hospital Road",
+            "short_name" : "Hospital Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bagmati",
+            "short_name" : "Bagmati",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "45210",
+            "short_name" : "45210",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eHospital Road\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e45210\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Hospital Road, 45210, Nepal",
+      "formatted_phone_number" : "011-661666",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.628849,
+            "lng" : 85.511171
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "292c5539af932eb10c2bf4cd48654c051466fb32",
+      "international_phone_number" : "+977 11-661666",
+      "name" : "HRDC Hospital",
+      "place_id" : "ChIJfdgV6i8P6zkRLcRCIWI4-8o",
+      "reference" : "CnRhAAAArc1cL6tvgAmNGye23tiMawJjKOalakzr63EDzVQuVmeQjotVTfuq2P9oaoHaxuvUx0hcjAF1SKcb4kp0aWFIEGDIODbs844f-Md8dyGsK8Wl0aIRv9tR7ZQk_qYcryul_bQUvLgZFMirIlCenD6xORIQHp5Rc-pA3BIyYA4i3m9gjRoUDoKh4sHPgqqFbMIqbdeswtEmd0g",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Madhu Adhikari",
+            "author_url" : "https://plus.google.com/113872585978021910149",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1406441747
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Kan-Chan Banjara",
+            "author_url" : "https://plus.google.com/110653093180393518942",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1414292523
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Prabhat Stha",
+            "author_url" : "https://plus.google.com/107423180541579741111",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1391105364
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "hospital", "establishment" ],
+      "url" : "https://plus.google.com/104478409018885345961/about?hl=en-US",
+      "user_ratings_total" : 3,
+      "utc_offset" : 345,
+      "vicinity" : "Hospital Road",
+      "website" : "http://www.hrdcnepal.org/"
+   },
+   "status" : "OK"
+}

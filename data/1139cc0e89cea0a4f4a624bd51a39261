@@ -1,0 +1,100 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Darjeeling",
+            "short_name" : "Darjeeling",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "734102",
+            "short_name" : "734102",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Ghoom, \u003cspan class=\"locality\"\u003eDarjeeling\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e734102\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Ghoom, Darjeeling, West Bengal 734102, India",
+      "formatted_phone_number" : "033 3093 6413",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.035226,
+            "lng" : 88.175966
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "bb0c1e7c5afbce69408714e7f6f43b53ce825744",
+      "international_phone_number" : "+91 33 3093 6413",
+      "name" : "Tumsong Tea Retreat",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 680,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/118150910048644004481\"\u003eRajiv Gupta\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBeQAAABoRJniQ0OZvPwkHECA6jpzv6IPaPcWQIWP90LgW9a3OtdoihYA08CY4DL_Vpoy0JEEK6tHBVq4MffwEFxeYSCY3RpUYtqwF2B18qkIM868tYMaLMT3HS-yA0sdjP1_15DwTqmxXKkkyHxJizwcy37pLfkKpkw9nvXAuvjbl7GomEhA5zsFcSrKyWHFplCTj4Z-HGhQYLnd9wy2XfChRiWRAtYdsFWSpQw",
+            "width" : 1024
+         }
+      ],
+      "place_id" : "ChIJy_8wqM8s5DkRcqY55vgV8v8",
+      "reference" : "CnRnAAAAbGPubfOLIgOUWEgU2YCA7kHZWQAW1CL7pEgOhBM5mrlowThJsK9HF3tP1iyntP17X6QCT4jep0B2DxNZQj-JpzvIFiQpK4rInGrPSUQyDKoGlp52A4b37AR3tL54EKeno841ZzT60il_MLBjWxvfPxIQu6XhmuzXT_g2JZOyA0QPMBoUPURXHH0nAWXKVJEDxwqQcut6Eyw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Arvind Pradhan",
+            "author_url" : "https://plus.google.com/110774277553707229277",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Great...",
+            "time" : 1417024901
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "health", "establishment" ],
+      "url" : "https://plus.google.com/107191972167789638968/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Ghoom, Darjeeling",
+      "website" : "http://www.chiabari.com/"
+   },
+   "status" : "OK"
+}

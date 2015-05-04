@@ -1,0 +1,92 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "H01",
+            "short_name" : "H01",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bandipur",
+            "short_name" : "Bandipur",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Badharamal",
+            "short_name" : "Badharamal",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Sagarmatha",
+            "short_name" : "Sagarmatha",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Eastern Region",
+            "short_name" : "Eastern Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "56500",
+            "short_name" : "56500",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eH01\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBadharamal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e56500\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "H01, Badharamal 56500, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.886096,
+            "lng" : 86.15053399999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "380df0ae654f38b09e784df163ab9420f81110d3",
+      "name" : "Bandipur H. S. School",
+      "place_id" : "ChIJd-vCCQob7DkRg4XjbklIaOE",
+      "reference" : "CnRpAAAAPn9GYVLjROtsxwXOfBD7lTDSOdriBd9emkHSkEPE3o9HojgQ4aF46rQp7FeaASbKA3hx66qvl-S69eH-YrHndj53HEECXukpbbLJ40x2ipMgPiSWPUqcXiFssOAQmc65vcP_jly0UK46G4xlYLFr6hIQBAgYFWk143CMvm1LwIFaPhoU74jmkjXZVzyEx0utXnL5Ccc50Pc",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Shardam Thapa",
+            "author_url" : "https://plus.google.com/110550716751501792537",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1369431067
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Januka Divirai",
+            "author_url" : "https://plus.google.com/107836213291886602448",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1366928179
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "school", "establishment" ],
+      "url" : "https://plus.google.com/115241722220437078477/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 345,
+      "vicinity" : "H01, Badharamal"
+   },
+   "status" : "OK"
+}

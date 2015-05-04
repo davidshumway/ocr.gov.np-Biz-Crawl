@@ -1,0 +1,83 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Ring Road",
+            "short_name" : "Ring Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Ganga Hall",
+            "short_name" : "Ganga Hall",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "बालाजु",
+            "short_name" : "बालाजु",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "काठमांडौ",
+            "short_name" : "काठमांडौ",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "मध्यमाञ्चल",
+            "short_name" : "मध्यमाञ्चल",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "नेपाल",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "44600",
+            "short_name" : "44600",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eRing Road\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e44600\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eनेपाल\u003c/span\u003e",
+      "formatted_address" : "Ring Road, 44600, नेपाल",
+      "formatted_phone_number" : "01-4382560",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.731117,
+            "lng" : 85.305826
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "feda1b1af6c740531693f291a3dadeaaf8746e2f",
+      "international_phone_number" : "+977 1-4382560",
+      "name" : "दक्षिणकाली कोल्ड रिसोलिङ्ग सेन्टर",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "open" : {
+                  "day" : 0,
+                  "time" : "0000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+         ]
+      },
+      "place_id" : "ChIJAZ3x1d4Y6zkRSDjmSw2ofpo",
+      "reference" : "CsQBsgAAAI_6d8HvASo2QJpblPmVWSJrwGrifcy9XynQu1zw9SRK5MXzQvwhxRKRqB6GMhqMdmQ-e2CEA2JuFNeLrUrKIS7WgZvFlj259wi9Z6UdTkHtOhl9ZtjnJkVz-63aQTgKF8XCoTCm_DNjuWi-PZH_dQs5VzxoOaAVVv458ULd_2MYAZlzDwgvxyjD3hBnlHGV0uImoq3rUxqTgh-j6XRevyp0Pr0XyrJMQN9VwBkDBBpzRFXIQwT0gxgzTRvIB5PEjBIQr5CyweqR5REMaKRppGMGAhoUPhxMeA-HQcb2yr1Jk9f_RHE1UsY",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/101417498208865035922/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "Ring Road"
+   },
+   "status" : "OK"
+}

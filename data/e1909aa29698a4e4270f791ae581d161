@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Agriculture Road",
+            "short_name" : "Agriculture Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Sabla",
+            "short_name" : "Sabla",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Koshi",
+            "short_name" : "Koshi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Eastern Region",
+            "short_name" : "Eastern Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eAgriculture Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eSabla\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Agriculture Road, Sabla, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.15314,
+            "lng" : 87.530383
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "59c2adcb5a50adee852f993e57a479fcfdb0b68a",
+      "name" : "Sabla Thulo Bar Bus Station",
+      "place_id" : "ChIJbRc9Q62q6DkRyvxGq0djz-0",
+      "reference" : "CnRvAAAAh_-8tpl4LcfThcbE-IZgdIAPWkwtIBJEtllf9nsnRNlNt9wn0UFdtOwIUPtrTEDP1voyOzvTBILNUp81XwliZofSpV2Qkff_Z3Dabn1d3Or6sGh8I7WdMtBld0VIBRt1P9GoDVJWG8lWIoYEEan_1BIQou-teG-zVuyhvJ4GHLAGwhoUmvyIkxweUjC4ufqR-omfRTUqIek",
+      "scope" : "GOOGLE",
+      "types" : [ "bus_station", "transit_station", "establishment" ],
+      "url" : "https://maps.google.com/maps/place?cid=17136024266635410634",
+      "utc_offset" : 345,
+      "vicinity" : "Agriculture Road, Sabla"
+   },
+   "status" : "OK"
+}

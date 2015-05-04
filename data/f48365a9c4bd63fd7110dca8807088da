@@ -1,0 +1,128 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Adalat road",
+            "short_name" : "Adalat road",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Baglung Bazar",
+            "short_name" : "Baglung Bazar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Darling",
+            "short_name" : "Darling",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Dhawalagiri",
+            "short_name" : "Dhawalagiri",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Western Region",
+            "short_name" : "Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "00977",
+            "short_name" : "00977",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eAdalat road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eDarling\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e00977\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Adalat road, Darling 00977, Nepal",
+      "formatted_phone_number" : "068-520392",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.267766,
+            "lng" : 83.600217
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "dd87fa1f0bd31d7a5afc137ef2b6069b9a2fff33",
+      "international_phone_number" : "+977 68-520392",
+      "name" : "Kaligandaki Law Service",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0600"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 6:00 am – 8:00 pm",
+            "Tuesday: 6:00 am – 8:00 pm",
+            "Wednesday: 6:00 am – 8:00 pm",
+            "Thursday: 6:00 am – 8:00 pm",
+            "Friday: 6:00 am – 8:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJx66tIHPilTkRaKRUU0sI0Hc",
+      "reference" : "CnRqAAAA0Osc6JuVco8HubZwP3NkD2FhKBV02KZzZGY9A3CzLveCCKpiv4UdYXcVRiVcf5l2FwCQ1979h81AaROoMRXZrZw4HMoppA6fzQYxF3KjfNX4VBjnuEL8ch86ym2fRRRQ5vPlibxWmUIwqjncEzssDhIQDVHWxaPf74O_1YIJezrjKhoUJmVkraUtoXKGc8pHK5y5xmh493k",
+      "scope" : "GOOGLE",
+      "types" : [ "lawyer", "establishment" ],
+      "url" : "https://plus.google.com/104301932253790170192/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "Adalat road, Darling",
+      "website" : "http://www.baglunginfo.devhub.com/"
+   },
+   "status" : "OK"
+}

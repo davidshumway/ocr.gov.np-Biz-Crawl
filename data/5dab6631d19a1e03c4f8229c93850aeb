@@ -1,0 +1,67 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Main Street",
+            "short_name" : "Main Street",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Waling",
+            "short_name" : "Waling",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Gandaki",
+            "short_name" : "Gandaki",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Western Region",
+            "short_name" : "Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "33801",
+            "short_name" : "33801",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eMain Street\u003c/span\u003e, \u003cspan class=\"locality\"\u003eWaling\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e33801\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Main Street, Waling 33801, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.985453,
+            "lng" : 83.76199699999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "a3bbd82b75d874da1f301c2b777632719e8f6733",
+      "name" : "Patanjali Yog Peeth and Ayurvedic Center",
+      "photos" : [
+         {
+            "height" : 853,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/102209543571804903891\"\u003eSuman Basyal\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAXcB5njT6NVk5x5MAHxe-qQuZ2X-mjaRkmrHXiqGUQhpqrQjj_qbiwXch2xAGhaQIEoTBMZYiMfe_NP-p9d-v9bAkBG-pcsprGCPECfIqKaWP83ve3BOdNmn5hfFO5Dbd8gapy_R_Vc14QhRqsr6schIQ93qbMgYi8nhrF2mkxgc3rRoUhRAf4p6xrEtlnKPUbm0BoryBFa0",
+            "width" : 1920
+         }
+      ],
+      "place_id" : "ChIJCRyN1rLalTkR4ekz3Zl4NKA",
+      "reference" : "CoQBfAAAAArv8lWFYyyNIjkwDrGs7-pDpSz3F7xoA1zY1C1-JR0LH-HCloI_ASsrkc-1gaBktYw9QQ24xAifQzJp0EVu0Cc83Qllky2qm-8UROGrtYWMyKMUOgw8IqnUzSzowh9ozEgq_zUFO68195ifY1fq230xBautYnvvDwUlex3Wy0PxEhDf8cfpvQSvXWrE4o1G3V2hGhTxHXwzh7ivgdXF5lWYJdaqe1-bkQ",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/108725882468764190975/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "Main Street, Waling",
+      "website" : "http://patanjaliyogpeethnepal.com/"
+   },
+   "status" : "OK"
+}

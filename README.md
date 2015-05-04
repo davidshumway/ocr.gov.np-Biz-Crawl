@@ -16,5 +16,15 @@ The website also categorizes the businesses. The file business-categories-transl
 
 As of April 30, 2015, the scrape produces 127,543 business registered in total, and 43,903 businesses registered since 2068. There are about 16,000 unique addresses and 112,000 duplicate addresses.
 
-If a Facebook application API key is supplied then the program will retrieve all Facebook "Places" throughout Nepal. There is a Google Fusion Table with map available with this data online: https://www.google.com/fusiontables/data?docid=1shrVLCEiy13cZJ5_EWggZ83ScF-92kYDf_-iEiDq .
+If a Facebook application API key is supplied then the program will retrieve all Facebook "Places" throughout Nepal.
+
+The data is on Google Fusion tables:
+
+Businesses on Google Places (~8,000): https://www.google.com/fusiontables/data?docid=1JC4o6Z078CYML0CVDVBK9OetK_q6MXkEBIFPyGoD#map:id=3
+The addition of "establishment", "electronics store", and "store" cause this search to be a bit broad.
+The search is based on the following business types. Filter by any of the following to make the search more narrow: 'Car Repair','Electrician','General Contractor','Hardware Store','Home Goods Store','Locksmith','Moving Company','Plumber','Roofing Contractor'```
+
+Facebook Places (~500): https://www.google.com/fusiontables/data?docid=1shrVLCEiy13cZJ5_EWggZ83ScF-92kYDf_-iEiDq
+
+
 

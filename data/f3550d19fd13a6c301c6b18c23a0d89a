@@ -1,0 +1,82 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Kaseni",
+            "short_name" : "Kaseni",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Koshi",
+            "short_name" : "Koshi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Eastern Region",
+            "short_name" : "Eastern Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "56600",
+            "short_name" : "56600",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eKaseni\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e56600\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Kaseni 56600, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.555873,
+            "lng" : 87.424736
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "29695fbc32749d875d7e7fcc67bef102fee03806",
+      "name" : "Borabadhe Tea",
+      "place_id" : "ChIJi7hZoR577zkR_4pmawTH_C0",
+      "reference" : "CmRgAAAAqd453fWl3XtytyuCQN83FruUDIvFjIG4xADPHrJJrK7RAg1DIreIliqzAP-8DSXWPC5N68PJ8X75uHpjO291BrPNRVE1uast-SuluAAewh9SHHPQSK3UF9bZUzImRqT-EhC_CSQ4X9nyv9kmbnOA7eUKGhTUewnQL87_C9Dypt60H5C38vfL8w",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Rai A",
+            "author_url" : "https://plus.google.com/112123840050403576940",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Keep clam",
+            "time" : 1426492094
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Dharma R Tamang",
+            "author_url" : "https://plus.google.com/101846754481537861613",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1374759818
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "food", "store", "establishment" ],
+      "url" : "https://plus.google.com/115712483103434949376/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 345,
+      "vicinity" : "Kaseni"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "East-West Highway",
+            "short_name" : "East-West Hwy",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Narayani",
+            "short_name" : "Narayani",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "44202",
+            "short_name" : "44202",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eEast-West Highway\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e44202\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "East-West Highway, 44202, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.605119,
+            "lng" : 84.616506
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "8471e4df074129dce630909fe932d36a141e4b26",
+      "name" : "Birendranagar Dairy",
+      "place_id" : "ChIJvaPX4ZnClDkRbXBBEvIkj_U",
+      "reference" : "CnRnAAAA-8_60CkLTsju2G0nfQJGKarNHlr1jbSUywh6xCASndx1r-u5xIxQhb4Y8LTWscPBMuEKFhOEwknGfvHT_gM0aFCVsfuHRLeBaje_jk1V1xxHdK6yUsWfaVXjvH9x8P83u80-HL_omDhZj0XFwOSh7hIQswkVQdPqXvJj7jcUAg0NzhoU6GUWuo8gEbWLUSYGbTebAud1qqw",
+      "scope" : "GOOGLE",
+      "types" : [ "food", "store", "establishment" ],
+      "url" : "https://plus.google.com/114436262902986982682/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "East-West Highway"
+   },
+   "status" : "OK"
+}

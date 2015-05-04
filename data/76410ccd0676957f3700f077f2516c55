@@ -1,0 +1,43 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Main Road",
+            "short_name" : "Main Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Sitamarhi",
+            "short_name" : "Sitamarhi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eMain Road\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Main Road, India",
+      "formatted_phone_number" : "06226 250 280",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.594552,
+            "lng" : 85.49104
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "e3b37b114daa0022a82beb747c4d52eec54b1af0",
+      "international_phone_number" : "+91 6226 250 280",
+      "name" : "Shree Kamla Stores",
+      "place_id" : "ChIJuROnkhrx7DkRk8jzKqwZwwQ",
+      "reference" : "CnRlAAAA42UpTh78MXiozvoCmyTJbBId-XLT4h9S-NKhbrehCEDjbHTHlxZpAlkEMLkAGwW656_kmPo79UTL3TLyQhxES9zI3JZNlneTWDjZFAmjvw2Lu6RaSVVKDZHNbhP5ZFAWdz2GT4dQ9j-lP-HxQbgv7RIQXBqbPojGbVkhoIF-_B1n3xoUNbO-Tijkb_SP8HoRePZtbH-aY1k",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "establishment" ],
+      "url" : "https://plus.google.com/101374598563563291613/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Main Road"
+   },
+   "status" : "OK"
+}

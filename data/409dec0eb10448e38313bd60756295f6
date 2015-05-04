@@ -1,0 +1,123 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Main Street",
+            "short_name" : "Main Street",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Waling",
+            "short_name" : "Waling",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Gandaki",
+            "short_name" : "Gandaki",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Western Region",
+            "short_name" : "Western Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "33801",
+            "short_name" : "33801",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eMain Street\u003c/span\u003e, \u003cspan class=\"locality\"\u003eWaling\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e33801\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Main Street, Waling 33801, Nepal",
+      "formatted_phone_number" : "063-440152",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.983814,
+            "lng" : 83.76002800000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "26f673e9c394b2a4334c2cc035cefd5bf8b83e18",
+      "international_phone_number" : "+977 63-440152",
+      "name" : "Shree Photo Studio",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 6:00 – 8:00 pm",
+            "Tuesday: 6:00 – 8:00 pm",
+            "Wednesday: 6:00 – 8:00 pm",
+            "Thursday: 6:00 – 8:00 pm",
+            "Friday: 6:00 – 8:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJX_WUi7LalTkRmI-abMyhMNo",
+      "reference" : "CnRmAAAAyZPnhlIvCsFz9-ugBZ36ezK_-E-lHpCZOu-f2f8yDxYVD--wk0e0M9wgfI0yuXvPCrUuSF0WoDNFUF9NcGYZqEe-nqu0MjgCLi972G9fvk0P-VvGqXeE1i7Cij2LRvG89bCHapIhIAWkAaSINUwFcxIQIuek8SubxhFbJvi8Mpw2PxoUvvLY4314LcizAJszEPS92XlvBXI",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/115890174695078752358/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "Main Street, Waling",
+      "website" : "http://www.walingbazar.web.us/"
+   },
+   "status" : "OK"
+}
