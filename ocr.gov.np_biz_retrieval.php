@@ -88,6 +88,9 @@ class regions {
 		// Set gapi_key
 		$this->gapi_key = $gapi_key;
 		
+		// Set fb_key
+		$this->fb_key = $fb_key;
+		
 		// Init. regions.
 		$this->build_regions();
 		
@@ -167,49 +170,62 @@ class regions {
 	function facebook() {//return;
 		if (!$this->fb_key) {
 			echo 'Skipping Facebook search.'."\n";
+			return;
 		} else {
 			echo 'Starting Facebook search.'."\n";
 		}
-		//$this->locations_array {}->results[0]->geometry->location; // Just the lat/lng.
-		// Make unique lat/lng object.
-		$all_locn = array(); // Assoc. array.
-		foreach ($this->locations_array as $address => $locn) {
-			$str_lat_lng = $locn->lat . ',' . $locn->lng;
-			$all_locn[ $str_lat_lng ] = $locn;
-		}
+		
+		// CSV
+		$csv = 'businesses-on-facebook.csv';
+		$fp = fopen($csv, 'w');
+		$info = ['category','id','name','likes','talking_about_count','were_here_count','location','link','phone','website','description','members','mission','general_info','products','hours','category_list','cover','emails','founded'];
+		$hd   = [
+			'category','id','name','likes','talking_about_count','were_here_count',
+			'location-street','location-city','location-country','location-zip','location-lat-lng', // Location is unique
+			'link','phone','website','description','members','mission','general_info','products','hours','category_list','cover','emails','founded'
+		];
+		
+		// Write header to CSV.
+		fputcsv($fp, $hd);
+		
+		// Results associative array, for unique results. By FB id.
+		$assoc_results_fbid = array();
+		
 		// For each unique lat/lng location do a Facebook search for all businesses in the area.
 		// An asterisk seems to provide many results.
-		$info = ['category','id','name','likes','talking_about_count','were_here_count','location','link','phone','website','description','members','mission','general_info','products','hours','category_list','cover','emails','founded'];
-		
 		// Iterate through all regional lat/lng pairs. May be unnecessary to go through the local pairs.
-		foreach($all_locn as $str_lat_lng => $locn) {
-			// Curl get businesses (POST)
-			$u =
+		$all_locn = array(); // Assoc. array.
+		foreach ($this->regions as $key => $region) {
+			if ($region->title_en == 'Unknown') continue; // Unnecessary to geocode this.
+			foreach ($region->zones as $key2 => $zone) {
+				foreach ($zone->districts as $key3 => $district) {
+					// District+Zone+Country
+					$dz = $district->title_en.','.$zone->title_en.',Nepal';
+					// Assoc. array.
+					$all_locn[ $dz ] = $this->locations_array[ $dz ];
+				}
+			}
+		}
+		// $locn = $this->locations_array as $address => $locn{lat, lng}
+		foreach($all_locn as $address => $locn) {
+			// String lat/lng.
+			$str_lat_lng = $locn->lat . ',' . $locn->lng;
+			// Curl get businesses (POST?)
+			$tmp_fn =
 				'https://graph.facebook.com/search'.
-				'?q=*'.
+				'?q='.urlencode('*').
 				'&type=place'.
 				'&fields='.urlencode(implode(',',$info)).
-				'&limit=5000'.
+				'&limit=50000'.
 				'&center='.urlencode($str_lat_lng).
-				'&distance=50000'. // Max. radius is 50km
-				'&access_token='.urlencode($this->fb_key);
-			//~ $u =
-				//~ 'region='.urlencode($region->post_id).
-				//~ '&zone='.
-				//~ '&district='.
-				//~ '&reg_no=&company_name='.
-				//~ '&reg_date_from='.
-				//~ '&reg_date_to='.
-				//~ '&company_type='.
-				//~ '&objective='.urlencode($num_ctg).
-				//~ '&gender=&a_capital_from=&a_capital_to=&i_capital_from='.
-				//~ '&i_capital_to=&p_capital_from=&p_capital_to=&btn_submit=Search';
-			$tmp_fn = md5('http://www.ocr.gov.np/search/advanced_search.php' . $u);
+				'&distance=50000'; // Max. radius is 50km
+			$u = $tmp_fn . '&access_token='.urlencode($this->fb_key);
+			$tmp_fn = md5($tmp_fn);
 			// Opts
 			$opts = new StdClass;
-			$opts->url = 'http://www.ocr.gov.np/search/advanced_search.php';
-			$opts->post = true;
-			$opts->post_str = $u;
+			$opts->url = $u;
+			//~ $opts->post = true;
+			//~ $opts->post_str = $u;
 			$opts->filename = $tmp_fn;
 			$opts->request_to_file = true;
 			$opts->request_from_file = true;
@@ -220,10 +236,83 @@ class regions {
 			} else {
 				echo '.';
 				if ($content->status != 200) {
+					echo $content->html;
 					die('Status != 200. Status='.$content->status);
 				}
 			}
+			$d = json_decode($content->html);//print_r($d);exit;
+			echo 'Number of businesses near "'.$address.'" is '.count($d->data)."\n";
+			
+			// Is it already in file?
+			// Loop through the businesses and write a CSV row for each business.
+			foreach ($d->data as $key => $biz) { // $d->data is an array of business objects.
+				//~ print_r($biz);exit;
+				// Biz exists in output array?
+				if (array_key_exists($biz->id, $assoc_results_fbid)) {
+					continue;
+				} else {
+					$assoc_results_fbid[ $biz->id ] = true; // Set true
+				}
+				// Reset output array
+				$arr_csv = array();
+				// Loop biz attribute types
+				foreach ($info as $key2 => $header_type) {
+					// Check if property exists in FB data?
+					if (!property_exists($biz, $header_type)) {
+						array_push($arr_csv, '""'); // Push a blank string here.
+						continue; // Go to the next header type.
+					}
+					// If still here then put the value of biz->header_type into the CSV row.
+					$biz_info = $biz->$header_type;
+					switch($header_type) {
+						case 'location':
+							// Need: 'location-street','location-city','location-country','location-zip','location-lat-lng',
+							if (property_exists($biz_info, 'street'))
+								array_push($arr_csv, $biz_info->street);
+							if (property_exists($biz_info, 'city'))
+								array_push($arr_csv, $biz_info->city);
+							if (property_exists($biz_info, 'country'))
+								array_push($arr_csv, $biz_info->country);
+							if (property_exists($biz_info, 'zip'))
+								array_push($arr_csv, $biz_info->zip);
+							if (property_exists($biz_info, 'latitude')) {
+								array_push($arr_csv, $biz_info->latitude . ',' . $biz_info->longitude);
+							}
+							break;
+						case 'category_list':
+							// An array of category objects, {id:, name:}
+							$carr = array();
+							foreach ($biz_info as $key3=>$category) {
+								array_push($carr, $category->name);
+							}
+							array_push($arr_csv, implode('/', $carr)); // Implody by /
+							break;
+						default:
+							//
+							$gt = gettype($biz_info);
+							if 	(
+								$gt == 'string' ||
+								$gt == 'boolean' ||
+								$gt == 'double' ||
+								$gt == 'integer'
+								)
+							{
+								array_push($arr_csv, $biz_info);// default, all others, JSON encode this?
+							}
+							else
+							{
+								array_push($arr_csv, $gt);
+							}
+					}
+				}
+				fputcsv($fp, $arr_csv); // Write CSV row to file.
+			}
+			// LOCATION
+			// e.g. {"street":"AStreet","city":"Walling","country":"Nepal","zip":"123456","latitude":27.8206406,"longitude":83.5991725}
 		}
+		// Close fp.
+		fclose($fp);
+		exit;
 	}
 	/**
 	 * function init_categories
@@ -831,11 +920,11 @@ class regions {
 		}
 		// Echo num businesses
 		if ($year)
-			echo "\n".'Total businesses (since '.$year.'):'.$count_biz."\n";
+			echo 'Total businesses (since '.$year.'):'.$count_biz."\n";
 		else
-			echo 'Total businesses:'.$count_biz."\n";
-			
-		fclose($fp); // Close
+			echo "\n".'Total businesses:'.$count_biz."\n";
+		// Close
+		fclose($fp);
 	}
 }
 /**

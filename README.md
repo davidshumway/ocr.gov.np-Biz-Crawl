@@ -16,3 +16,5 @@ The website also categorizes the businesses. The file business-categories-transl
 
 As of April 30, 2015, the scrape produces 127,543 business registered in total, and 43,903 businesses registered since 2068. There are about 16,000 unique addresses and 112,000 duplicate addresses.
 
+If a Facebook application API key is supplied then the program will retrieve all Facebook "Places" throughout Nepal. There is a Google Fusion Table with map available with this data online: https://www.google.com/fusiontables/data?docid=1shrVLCEiy13cZJ5_EWggZ83ScF-92kYDf_-iEiDq .
+
