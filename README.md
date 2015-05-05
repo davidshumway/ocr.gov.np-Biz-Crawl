@@ -22,9 +22,10 @@ If a Facebook application API key is supplied then the program will retrieve Fac
 
 The following CSV data is also on Google's Fusion Tables, which uses the geocoding information for mapping.
 
-Businesses on Google Places (~4,000): https://www.google.com/fusiontables/data?docid=1JC4o6Z078CYML0CVDVBK9OetK_q6MXkEBIFPyGoD#map:id=3
-The search is based on the following business types: ```'Car Repair','Electrician','General Contractor','Hardware Store','Home Goods Store','Locksmith','Moving Company','Plumber','Roofing Contractor'```
-In addition, the program also searches across a set of keywords: ```'construction OR cement OR mortar OR building OR "building supplies" OR materials OR tools OR contractor OR "power tools" OR "hand tools" OR "green building" OR "green home" OR builders OR "eco house" OR "sustainable construction" OR renovate OR roofing OR drill OR engineering OR machinery OR supplier OR engineer OR engineering'```
+Businesses on Google Places: https://www.google.com/fusiontables/data?docid=1JC4o6Z078CYML0CVDVBK9OetK_q6MXkEBIFPyGoD#map:id=3
+The search is based on the following business types: ```Car Repair, Electrician, General Contractor, Hardware Store, Home Goods Store, Locksmith, Moving Company, Plumber, Roofing Contractor```.
+
+In addition, the program also searches across a set of keywords: ```construction OR cement OR mortar OR building OR "building supplies" OR materials OR tools OR contractor OR "power tools" OR "hand tools" OR "green building" OR "green home" OR builders OR "eco house" OR "sustainable construction" OR renovate OR roofing OR drill OR engineering OR machinery OR supplier OR engineer OR engineering```
 
 Keywords Only: https://www.google.com/fusiontables/data?docid=1PM3J43hbt1JTpLnOWEMO0F--sOFeE9VzfWFOtE6b#map:id=3
 The keywords only portion of the above search.
@@ -41,7 +42,7 @@ Types Only:  https://www.google.com/fusiontables/data?docid=1J23kTW8j8GMrLm8m48Q
 Same search as ```1gyiRo3FPoNUXfqIfvsIeHVTpC8pahBGT_1PE3US9``` above but with additional N. India locations.
 
 Businesses on Google Places, Northern India & Nepal (tents, shelter materials): https://www.google.com/fusiontables/data?docid=1Jl84nOxm36sWZbHaxA7XuOjcQY0NHTR5gyJiiQ_A#map:id=3
-Set of keywords: ```'tent OR tents OR tenting OR tarp OR tarps OR tarpaulin OR tarpauline OR "building supplies" OR material OR fabric OR fabrics OR outdoor OR upholstery OR cotton OR textile OR textiles OR quilt OR shelter OR survival OR backpacking OR nylon OR silnylon OR hammock OR stakes OR camping OR tarptent OR canopy OR canopies OR weatherproof'```
+Set of keywords: ```tent OR tents OR tenting OR tarp OR tarps OR tarpaulin OR tarpauline OR "building supplies" OR material OR fabric OR fabrics OR outdoor OR upholstery OR cotton OR textile OR textiles OR quilt OR shelter OR survival OR backpacking OR nylon OR silnylon OR hammock OR stakes OR camping OR tarptent OR canopy OR canopies OR weatherproof```
 
 Facebook Places (~500): https://www.google.com/fusiontables/data?docid=1shrVLCEiy13cZJ5_EWggZ83ScF-92kYDf_-iEiDq
 This is a list of all Facebook places in the country.
