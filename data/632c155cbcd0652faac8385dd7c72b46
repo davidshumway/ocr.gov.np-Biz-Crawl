@@ -1,0 +1,164 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "National Highway 2",
+            "short_name" : "NH 2",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "chouparan",
+            "short_name" : "chouparan",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Hazaribagh",
+            "short_name" : "Hazaribagh",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Jharkhand",
+            "short_name" : "JH",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "825406",
+            "short_name" : "825406",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNational Highway 2\u003c/span\u003e, \u003cspan class=\"locality\"\u003echouparan\u003c/span\u003e, \u003cspan class=\"region\"\u003eJharkhand\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e825406\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "National Highway 2, chouparan, Jharkhand 825406, India",
+      "formatted_phone_number" : "1800 11 2011",
+      "geometry" : {
+         "location" : {
+            "lat" : 24.384904,
+            "lng" : 85.256991
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "ef929406d8edd25fa1ddea6df4a7fa97716d95ea",
+      "international_phone_number" : "+91 1800 11 2011",
+      "name" : "Indian Post",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 5:00 pm",
+            "Tuesday: 9:00 am – 5:00 pm",
+            "Wednesday: 9:00 am – 5:00 pm",
+            "Thursday: 9:00 am – 5:00 pm",
+            "Friday: 9:00 am – 5:00 pm",
+            "Saturday: 9:00 am – 5:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJjehb_8NB8zkRkhSge8PeiaU",
+      "reference" : "CmRfAAAAQ6sLvsWJLFlWxkmq-eXwEJd6Wckrr0QsOiTPBS3xbowIw0D--dISB9l40JVUxgM9pe8vioHxVJUbh8n4SrMesrpALsa0rqmYm-xwNLNYmRR5XHYmNq80bwd3OWjN1B6rEhA61jVSzDKoj0-YB_JWmIeMGhTJCt36arhzmqMVuh0I9WiOrlZ1zA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Kamranahmad barkati",
+            "author_url" : "https://plus.google.com/107708664354697070542",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "I love my india\nIndia is best ",
+            "time" : 1421346680
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Vishal Kumar",
+            "author_url" : "https://plus.google.com/114497523758153703365",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1415090292
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "post_office", "finance", "establishment" ],
+      "url" : "https://plus.google.com/115516497261480076003/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "National Highway 2, chouparan",
+      "website" : "http://www.indiapost.gov.in/"
+   },
+   "status" : "OK"
+}

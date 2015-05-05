@@ -1,0 +1,131 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "NS Road",
+            "short_name" : "NS Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Kushtia",
+            "short_name" : "Kushtia",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kushtia",
+            "short_name" : "Kushtia",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Khulna Division",
+            "short_name" : "Khulna Division",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Bangladesh",
+            "short_name" : "BD",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "7000",
+            "short_name" : "7000",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNS Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKushtia\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e7000\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eBangladesh\u003c/span\u003e",
+      "formatted_address" : "NS Road, Kushtia 7000, Bangladesh",
+      "geometry" : {
+         "location" : {
+            "lat" : 23.906758,
+            "lng" : 89.134303
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "1655435a4ce6864c87acdfe9c093ff0473439aeb",
+      "name" : "Banglalink Point",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 5:00 pm",
+            "Tuesday: 9:00 am – 5:00 pm",
+            "Wednesday: 9:00 am – 5:00 pm",
+            "Thursday: 9:00 am – 5:00 pm",
+            "Friday: Closed",
+            "Saturday: 9:00 am – 5:00 pm",
+            "Sunday: 9:00 am – 5:00 pm"
+         ]
+      },
+      "place_id" : "ChIJWT3M-QCX_jkRaQrW-ih6Fp8",
+      "reference" : "CnRkAAAACaXydx4OApV7987LbGc9Dqflm5OiRlByln8WPuE3nsbzNgeXdAr3amnzEoWP7G72BISsYiI4F5867JPCI3JkFfKLq9DFJ8GWfo9mEvzuQY6zweUdXvoJPIoUxuboX-3WwfCj86s59GenuxYaUlWLaRIQzKza-GMZ5_JNA1Mn_uz1uxoUefGTxgMij3Pflh0a-HrpmIsrQ8s",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "establishment" ],
+      "url" : "https://plus.google.com/115789016169636877528/about?hl=en-US",
+      "utc_offset" : 360,
+      "vicinity" : "NS Road, Kushtia",
+      "website" : "http://www.banglalinkgsm.com/"
+   },
+   "status" : "OK"
+}

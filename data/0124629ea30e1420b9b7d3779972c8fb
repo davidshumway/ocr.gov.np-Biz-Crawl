@@ -1,0 +1,157 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "N8/252B",
+            "short_name" : "N8/252B",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "Rajwanti Complex",
+            "short_name" : "Rajwanti Complex",
+            "types" : [ "premise" ]
+         },
+         {
+            "long_name" : "DLW Sunderpur Rd",
+            "short_name" : "DLW Sunderpur Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Near Newada Petrol Pump, Near Bharat Petrol Pump",
+            "short_name" : "Near Newada Petrol Pump, Near Bharat Petrol Pump",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Sunderpur",
+            "short_name" : "Sunderpur",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Newada",
+            "short_name" : "Newada",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Varanasi",
+            "short_name" : "Varanasi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Varanasi",
+            "short_name" : "Varanasi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "221005",
+            "short_name" : "221005",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "N8/252B, Rajwanti Complex, \u003cspan class=\"street-address\"\u003eDLW Sunderpur Rd\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNear Newada Petrol Pump, Near Bharat Petrol Pump, Sunderpur, Newada\u003c/span\u003e, \u003cspan class=\"locality\"\u003eVaranasi\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e221005\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "N8/252B, Rajwanti Complex, DLW Sunderpur Rd, Near Newada Petrol Pump, Near Bharat Petrol Pump, Sunderpur, Newada, Varanasi, Uttar Pradesh 221005, India",
+      "formatted_phone_number" : "099195 74062",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.283322,
+            "lng" : 82.97498400000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "8dd3f837d8eff60783c0e5839f81cc7ccb7ec877",
+      "international_phone_number" : "+91 99195 74062",
+      "name" : "Commudity Enterprises",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 7:00 pm",
+            "Tuesday: 10:00 am – 7:00 pm",
+            "Wednesday: 10:00 am – 7:00 pm",
+            "Thursday: 10:00 am – 7:00 pm",
+            "Friday: 10:00 am – 7:00 pm",
+            "Saturday: 10:00 am – 7:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJeT-lmhUyjjkRh5CMsIdWpn8",
+      "reference" : "CnRoAAAAC-lWSB92AiHlLCJkRaPhHCjchkid-zpEq3Tm2m0Bwrql8f0rvC_hMXs1HTYfCRVYQoG8S0xT3FyZhEVtLL8Zt4z73B8p_yHrldOQ8_k0VZI2L-cMoc2ByJ7m9GSzSMW3F4y02kqgkFX2dS49VHqcfxIQH2Bzukt2D--aPSZjHtBy7RoU7h1ilCiypty-KHf8MA7HOlAMWlA",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/104967351571158924514/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "N8/252B, Rajwanti Complex, DLW Sunderpur Rd, Near Newada Petrol Pump, Near Bharat Petrol Pump, Sunderpur, Newada, Varanasi"
+   },
+   "status" : "OK"
+}

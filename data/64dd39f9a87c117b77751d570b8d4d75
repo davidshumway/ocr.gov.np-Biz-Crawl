@@ -1,0 +1,142 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Mahatma Gandhi Road",
+            "short_name" : "Mahatma Gandhi Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "New Panchanantala",
+            "short_name" : "New Panchanantala",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Paschim Putiary",
+            "short_name" : "Paschim Putiary",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700082",
+            "short_name" : "700082",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "201, \u003cspan class=\"street-address\"\u003eMahatma Gandhi Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNew Panchanantala, Paschim Putiary\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700082\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "201, Mahatma Gandhi Road, New Panchanantala, Paschim Putiary, Kolkata, West Bengal 700082, India",
+      "formatted_phone_number" : "098365 99129",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.483932,
+            "lng" : 88.338517
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "efaf1286cb01f2f649bfe43bd52bbfe5cfa01db8",
+      "international_phone_number" : "+91 98365 99129",
+      "name" : "Taara Maa Bike Zone",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 9:00 pm",
+            "Tuesday: 9:00 am – 9:00 pm",
+            "Wednesday: Closed",
+            "Thursday: 9:00 am – 9:00 pm",
+            "Friday: 9:00 am – 9:00 pm",
+            "Saturday: 9:00 am – 9:00 pm",
+            "Sunday: 9:00 am – 9:00 pm"
+         ]
+      },
+      "place_id" : "ChIJIwtSfZFwAjoRVQI3xtWd2-c",
+      "reference" : "CnRnAAAAmsgaHc6rrg_kpT2yhXbw8wtNkK3G6mqPUagRE2a7gIb3Yq44BiZK-bhYBMb3gmjzJgsa7eXJIKRJUDhoxs-mcKUtDFK4m_Jk-HMN8kdB7VwCFJfYHIMiwFKGIQsSb_WDIKzXmEz4UbJZFymwq_g7ABIQ77ec9nFl1EvN9yHZv-4mUBoU0xfVHl0IkrUFT100tlc2M-ghRcc",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/103233493301744512613/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "201, Mahatma Gandhi Road, New Panchanantala, Paschim Putiary, Kolkata"
+   },
+   "status" : "OK"
+}

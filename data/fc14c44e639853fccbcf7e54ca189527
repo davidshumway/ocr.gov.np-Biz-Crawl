@@ -1,0 +1,147 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "B.S Place",
+            "short_name" : "B.S Place",
+            "types" : [ "premise" ]
+         },
+         {
+            "long_name" : "A 6",
+            "short_name" : "A 6",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Amba Prasad Road",
+            "short_name" : "Amba Prasad Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Lohamandi",
+            "short_name" : "Lohamandi",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Agra",
+            "short_name" : "Agra",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Agra",
+            "short_name" : "Agra",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "282010",
+            "short_name" : "282010",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "B.S Place, \u003cspan class=\"street-address\"\u003eA 6, Amba Prasad Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eLohamandi\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAgra\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e282010\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "B.S Place, A 6, Amba Prasad Road, Lohamandi, Agra, Uttar Pradesh 282010, India",
+      "formatted_phone_number" : "093588 09925",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.190752,
+            "lng" : 77.96917000000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "80f2300304314f5ba98e5e9bcc217b343fb45f85",
+      "international_phone_number" : "+91 93588 09925",
+      "name" : "Gury Auto Repairing Centre",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 10:00 am – 9:00 pm",
+            "Wednesday: 10:00 am – 9:00 pm",
+            "Thursday: 10:00 am – 9:00 pm",
+            "Friday: 10:00 am – 9:00 pm",
+            "Saturday: 10:00 am – 9:00 pm",
+            "Sunday: 10:00 am – 9:00 pm"
+         ]
+      },
+      "place_id" : "ChIJH-IInKF3dDkRskLmpHgaqG0",
+      "reference" : "CnRtAAAAKw2z7kUjIWM1O2RjdlRCfEdJah1GNjxdla_ndhuvq5DrPWWqbh9RpW3sDVdn2A93tGFPDikt3-ufGW5gTGeRTwyz54YD3-6KDJJHVcUDqhBUeFI6xE9zCadDeJt4TAkIjIYhX_mrUjiqIjx-v1_nlhIQcAoUYVuoc6L0isJouz3p0RoUwlNEvqSSQFAbTo5wK_tlSaJaZfk",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/105499867958310460083/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "B.S Place, A 6, Amba Prasad Road, Lohamandi, Agra"
+   },
+   "status" : "OK"
+}

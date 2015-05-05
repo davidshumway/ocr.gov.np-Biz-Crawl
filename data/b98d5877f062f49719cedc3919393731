@@ -1,0 +1,142 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Doctor's Colony",
+            "short_name" : "Doctor's Colony",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "City Center",
+            "short_name" : "City Center",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Durgapur",
+            "short_name" : "Durgapur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bardhaman",
+            "short_name" : "Bardhaman",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "713216",
+            "short_name" : "713216",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"extended-address\"\u003eDoctor&#39;s Colony, City Center\u003c/span\u003e, \u003cspan class=\"locality\"\u003eDurgapur\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e713216\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Doctor's Colony, City Center, Durgapur, West Bengal 713216, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 23.538935,
+            "lng" : 87.298526
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "bac95e15401d3468e04d5683f575e85e6c57574c",
+      "name" : "ET&T-TCIL Building",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 am – 8:00 pm",
+            "Tuesday: 8:00 am – 8:00 pm",
+            "Wednesday: 8:00 am – 8:00 pm",
+            "Thursday: 8:00 am – 8:00 pm",
+            "Friday: 8:00 am – 8:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJIYsoIwNy9zkRnmxYoozha1o",
+      "reference" : "CnRlAAAAEZDZjr1FjJ9nSc_CBVF9q_h8m70oukSvzKgC9hhqrVjTXJesZF_8i2lf_6w-Iq1WkAvpGl-kKzteHxh2LpEihPbGGlcfrDsL8iraj4PdZap9bRpY-IboyQj83QSMYpuN90VMO-Pos6JSvG9eojpKhxIQjk2qWZJq0sRUC-pUXhnpOxoUH3930nHJ-pP12I6bMAknkO2HE6w",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Sidhartha Roy",
+            "author_url" : "https://plus.google.com/115407054810502092809",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1387392315
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "school", "establishment" ],
+      "url" : "https://plus.google.com/100974010723750678821/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Doctor's Colony, City Center, Durgapur"
+   },
+   "status" : "OK"
+}

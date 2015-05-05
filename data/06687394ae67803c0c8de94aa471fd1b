@@ -1,0 +1,65 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Alimuddin Street",
+            "short_name" : "Alimuddin St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Taltala",
+            "short_name" : "Taltala",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700014",
+            "short_name" : "700014",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eAlimuddin Street\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eTaltala\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700014\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Alimuddin Street, Taltala, Kolkata, West Bengal 700014, India",
+      "formatted_phone_number" : "033 2265 2756",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.555466,
+            "lng" : 88.36048700000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "4ee4da00da73dafd1886cf476cf1c0771e912d69",
+      "international_phone_number" : "+91 33 2265 2756",
+      "name" : "Royal Art Centre",
+      "place_id" : "ChIJcW6sUAJ3AjoRpAYoXy6ACGo",
+      "reference" : "CnRjAAAATrElBtVo9JWo6Z2rQSz_3iptc8j4Ys6LqSrn24jw-uEhrktb0VCoicDjett8gJi3q0C4wfsZRbFJ33wCTVuAt4LZcFqh4UKvquSBSUw3D7oqjYVSoy3fNZ9qN2xqPXCHtPBLMVtWwYuXeVS-Yy1vixIQiN9cLqXeBsdSbk4Raf1s-hoUtn1s9XoJisUtYq0ecflk2-bUUHw",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "establishment" ],
+      "url" : "https://plus.google.com/100835824494423999045/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Alimuddin Street, Taltala, Kolkata"
+   },
+   "status" : "OK"
+}

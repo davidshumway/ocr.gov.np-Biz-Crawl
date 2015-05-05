@@ -1,0 +1,82 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Patna",
+            "short_name" : "Patna",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Patna",
+            "short_name" : "Patna",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "801503",
+            "short_name" : "801503",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003ePatna\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e801503\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Patna, Bihar 801503, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.606178,
+            "lng" : 85.060445
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "d33ac1350be591ad9f586b06353b52cb665876c4",
+      "name" : "Cement Stone Brick Factory",
+      "place_id" : "ChIJb9TqMkpW7TkRAOw78Cx-a3k",
+      "reference" : "CnRtAAAAuBVDB5fU_fYrGZBlhTc26yAXpuclQr96PKtytJ81950giYbFUpC0ee8N0Ijuw0qFb7AozGeEvFw0qqmve3w6QkowvombncF_h4w8cg2J4lzjw598LqR4sHKKSZQL4vs94RVQCKJNxDbn1Pd61e6KFxIQTaFdeZc6F-Ua0DkTo6c5MhoUb5oAxusUX021gMBV89TkB1EOIkA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "L N Poddar",
+            "author_url" : "https://plus.google.com/116821553594192730022",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "ok ",
+            "time" : 1359251720
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "manish kumar",
+            "author_url" : "https://plus.google.com/113715230638270424501",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1381071535
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/103025282497377605087/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "Patna"
+   },
+   "status" : "OK"
+}

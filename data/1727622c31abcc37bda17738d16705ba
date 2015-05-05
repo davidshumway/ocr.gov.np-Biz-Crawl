@@ -1,0 +1,142 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "45/2",
+            "short_name" : "45/2",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "Nirmal Chandra Street",
+            "short_name" : "Nirmal Chandra St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bowbazar",
+            "short_name" : "Bowbazar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700012",
+            "short_name" : "700012",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "45/2, \u003cspan class=\"street-address\"\u003eNirmal Chandra Street\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBowbazar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700012\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "45/2, Nirmal Chandra Street, Bowbazar, Kolkata, West Bengal 700012, India",
+      "formatted_phone_number" : "033 3250 5030",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.566173,
+            "lng" : 88.359996
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "014d8b0f0a31c12711b02214f4d5162978aaf073",
+      "international_phone_number" : "+91 33 3250 5030",
+      "name" : "Chandra & Sons",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 7:00 pm",
+            "Tuesday: 10:00 am – 7:00 pm",
+            "Wednesday: 10:00 am – 7:00 pm",
+            "Thursday: Closed",
+            "Friday: 10:00 am – 7:00 pm",
+            "Saturday: 10:00 am – 7:00 pm",
+            "Sunday: 10:00 am – 7:00 pm"
+         ]
+      },
+      "place_id" : "ChIJl6m-UKp3AjoRb7-7f3IIBhU",
+      "reference" : "CnRhAAAAeyP2ONI_4nJ3nKQ7zf8vulA8OoPcyHzwwc5OxiKuJuUT3JhQcGfrCOWYFwaNM3xQxfDPZDli9TTWmWwB42rbiuDDvPuu5HjExY8n82xANDaOUAYoBIht6y7pX3NGQuYosu62hw5MXMPB_GMuvQiUMBIQlD8R2k4qGzugL2j1EVDVDhoU80LPjgzLhC-LZKNsMV1jh7HwZdc",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "establishment" ],
+      "url" : "https://plus.google.com/106882798515510130604/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "45/2, Nirmal Chandra Street, Bowbazar, Kolkata"
+   },
+   "status" : "OK"
+}

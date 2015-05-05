@@ -1,0 +1,157 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "127-A",
+            "short_name" : "127-A",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Mall Road",
+            "short_name" : "Mall Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "The Mall",
+            "short_name" : "The Mall",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "General Ganj",
+            "short_name" : "General Ganj",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208001",
+            "short_name" : "208001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e127-A, Mall Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eThe Mall, General Ganj\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "127-A, Mall Road, The Mall, General Ganj, Kanpur, Uttar Pradesh 208001, India",
+      "formatted_phone_number" : "093056 34243",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.462146,
+            "lng" : 80.359951
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "54e70f060ef23e2ca3dadbdfee74b2703c003105",
+      "international_phone_number" : "+91 93056 34243",
+      "name" : "Mirchi Bhai Centre",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: 10:00 am – 8:00 pm"
+         ]
+      },
+      "place_id" : "ChIJidoofVFHnDkRjLWDSNjlSFU",
+      "reference" : "CnRlAAAAsvkduXmcHR_-JAgQB2Hyqlnk_KKZ1It7TCqESmrdpIIMZRciqbVjOu-5Zv0BW1zhIxA1kFoGbnG_3geKB6hpCaoYB1y7it8SCufLYT6M54jsBMlfMHyX7PVDE9dTk5tidwsa5umNiNn4F3FzL8kORBIQrWs_x4eJLJIAdyU43nO7ihoUKC3sfRRdNfVKW4RJzpXOwGGbScg",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/106148688781442794529/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "127-A, Mall Road, The Mall, General Ganj, Kanpur"
+   },
+   "status" : "OK"
+}

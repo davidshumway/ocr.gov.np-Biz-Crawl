@@ -1,0 +1,73 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Sector 1",
+            "short_name" : "Sector 1",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Bokaro Steel City",
+            "short_name" : "Bokaro Steel City",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bokaro",
+            "short_name" : "Bokaro",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Jharkhand",
+            "short_name" : "JH",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "827003",
+            "short_name" : "827003",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"extended-address\"\u003eSector 1\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBokaro Steel City\u003c/span\u003e, \u003cspan class=\"region\"\u003eJharkhand\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e827003\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Sector 1, Bokaro Steel City, Jharkhand 827003, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 23.660489,
+            "lng" : 86.16268700000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "188a5d5536c63f01f30bf229bbf3096e69c1538e",
+      "name" : "High School Building",
+      "place_id" : "ChIJteE-Wc4j9DkRCrS38AMiXGI",
+      "reference" : "CnRnAAAA3_L2f1Z7S1sR8Z18GSVh-37KmEeOxvUELCAEZBqm1KwG7s4m9x3kcBBed0H9xXR_RgCdReowu1EtQ4M4SYVZfT8KtQIh1W2VTYRt9RC2uJ09F6j0Tm0wv-nE2dj7bMVwcIor9cBHzeaNu5Htg9mb6xIQ46nbwywm5GQLcBJvpOHIYBoUEpseKITEhtWzslUipS5Ptwj05nM",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "aman singh",
+            "author_url" : "https://plus.google.com/112630945000197815720",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Yo",
+            "time" : 1380472112
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "school", "establishment" ],
+      "url" : "https://plus.google.com/114751082193918213199/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Sector 1, Bokaro Steel City"
+   },
+   "status" : "OK"
+}

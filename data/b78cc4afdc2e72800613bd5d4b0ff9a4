@@ -1,0 +1,84 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Mall Road",
+            "short_name" : "Mall Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Near Bijendra Swaroop Park",
+            "short_name" : "Near Bijendra Swaroop Park",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Harsh Nagar",
+            "short_name" : "Harsh Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208012",
+            "short_name" : "208012",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eMall Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNear Bijendra Swaroop Park, Harsh Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208012\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Mall Road, Near Bijendra Swaroop Park, Harsh Nagar, Kanpur, Uttar Pradesh 208012, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.47761,
+            "lng" : 80.322982
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "9575655ce65843e0b50ef66136b0a0ec28a49f98",
+      "name" : "All India Radio Station",
+      "place_id" : "ChIJuzpzvoc4nDkR-Q1FWtTUaSI",
+      "reference" : "CnRqAAAA-NHR1dzObnFNNx6iZisqojmo_vPOzPO3KEH8ewWMb6k0l_fdTdLuiefNHoqtTaPLWefQLdrRiZ_0tX2Rpm6QVrwRafi1xvf8ScMpHJnxaz4zrfmSauzb1e97Ik8KV2sT34m3jWmyL4N1Q9P8k4P2YBIQ_Ty6sGBnR9tvkcvm7JLd8RoU6nNjxwbRuPx6QWC6FBSkWGAhcBI",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Shubham Verma",
+            "author_url" : "https://plus.google.com/111838732554655017275",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1404705444
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/102311116301732379819/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Mall Road, Near Bijendra Swaroop Park, Harsh Nagar, Kanpur",
+      "website" : "http://allindiaradio.gov.in/default.aspx"
+   },
+   "status" : "OK"
+}

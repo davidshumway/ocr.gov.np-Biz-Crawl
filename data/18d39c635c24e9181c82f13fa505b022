@@ -1,0 +1,142 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Kona Road",
+            "short_name" : "Kona Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Kona",
+            "short_name" : "Kona",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Shibpur",
+            "short_name" : "Shibpur",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Howrah",
+            "short_name" : "Howrah",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Howrah",
+            "short_name" : "Howrah",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "711104",
+            "short_name" : "711104",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eKona Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eKona, Shibpur\u003c/span\u003e, \u003cspan class=\"locality\"\u003eHowrah\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e711104\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Kona Road, Kona, Shibpur, Howrah, West Bengal 711104, India",
+      "formatted_phone_number" : "092313 67850",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.588845,
+            "lng" : 88.30083999999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "5a98223a0a50f872971da05d46b8f469bf4cf282",
+      "international_phone_number" : "+91 92313 67850",
+      "name" : "S. P. Marketing",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 am – 10:00 pm",
+            "Tuesday: 8:00 am – 10:00 pm",
+            "Wednesday: 8:00 am – 10:00 pm",
+            "Thursday: Closed",
+            "Friday: 8:00 am – 10:00 pm",
+            "Saturday: 8:00 am – 10:00 pm",
+            "Sunday: 8:00 am – 10:00 pm"
+         ]
+      },
+      "place_id" : "ChIJ-7VhP2p4AjoRet6jQt0dCx4",
+      "reference" : "CnRiAAAAIHleOxWmXJzVv5yWk5CwjeIspsgq9G2BVbVkkpDmA_k4DQkh5RIjwOLIXLIByYSCd6C71nlGAZmQFFQ0zJsJ365-szVmSA5k3RU96dvySJk_FSNKGS0odAC8AJy_asKgXK7iRjWXTMqqZDjhpHbw-BIQEtqBgSIgrYITObcFOkNYbhoU-LhVYg7WjFYYWJvLPYvJRs4VA9M",
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/108582784107789183660/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Kona Road, Kona, Shibpur, Howrah"
+   },
+   "status" : "OK"
+}

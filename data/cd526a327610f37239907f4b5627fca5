@@ -1,0 +1,67 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700009",
+            "short_name" : "700009",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "85, A P C Road, Amherst Street, \u003cspan class=\"street-address\"\u003eA P C Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700009\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "85, A P C Road, Amherst Street, A P C Road, Kolkata, West Bengal 700009, India",
+      "formatted_phone_number" : "033 2360 3661",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.584257,
+            "lng" : 88.373349
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+      "id" : "23341e4552b8be07cbeb0a3e71af26245c1b6096",
+      "international_phone_number" : "+91 33 2360 3661",
+      "name" : "Bose Service Station",
+      "place_id" : "ChIJO0srSkV2AjoR0opouiKsudw",
+      "reference" : "CnRoAAAAsD49uexwvowda6uxZViE6J_rQ2qgZz7mhqOgO88LhJtcnBiviRpy45-Vv-o84-_tjo28y8o1HRE9lk1ZDkg6HnVwVhvMYlxVBN0ijtvPKdUS4uPt4Ehcv8M7-No1D_xV9ZI4OcZ79XYZrZpaGvnNnRIQIaME_vw9nD-eTZzJAXk27hoUneRJ9tWOa_6yrgflr84OKWcP_mY",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "MackyMack Atanu Kumar Pal",
+            "author_url" : "https://plus.google.com/104090030333868926978",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1397942452
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "gas_station", "establishment" ],
+      "url" : "https://plus.google.com/102283931714259561742/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "85, A P C Road, Amherst Street, A P C Road, Kolkata"
+   },
+   "status" : "OK"
+}

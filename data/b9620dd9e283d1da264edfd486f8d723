@@ -1,0 +1,66 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700001",
+            "short_name" : "700001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Room No-43, 1st Floor 40, Strand Road, \u003cspan class=\"street-address\"\u003eStrand Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Room No-43, 1st Floor 40, Strand Road, Strand Road, Kolkata, West Bengal 700001, India",
+      "formatted_phone_number" : "033 2210 0058",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.57153,
+            "lng" : 88.348009
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "c24235a0f025da93e78086ac26affef31d26d988",
+      "international_phone_number" : "+91 33 2210 0058",
+      "name" : "Zenith Limited",
+      "place_id" : "ChIJK1gRtKN3AjoRMWkj5-_5r3A",
+      "reference" : "CnRhAAAA_HrzyoSfjJgKLzp_FoSkA6DCnLtyoatVD1eYsZHIQdCGPcnbzlfp2crFhkgx05JCcqWMcDRweCDgg2R7Dx_NK-CQdSiuajzKKLHhv1NvxElY-HkF1DDW4hWaWx3cwEPsS7cp4P0mNBnT3zrs1H4-DRIQMkHrvX6bqOlmP-wg23ph5xoUwdU9zQcIUQu5UiC2LsL1h_eb1Hs",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Hi,\nthis is a fake company\n\nnever believe\nit neither exists in kolkata nor mumbai",
+            "time" : 1273801034
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/112561575177560772489/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Room No-43, 1st Floor 40, Strand Road, Strand Road, Kolkata"
+   },
+   "status" : "OK"
+}

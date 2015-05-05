@@ -1,0 +1,137 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "100/6",
+            "short_name" : "100/6",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Krishna Nagar",
+            "short_name" : "Krishna Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208007",
+            "short_name" : "208007",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e100/6\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eKrishna Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208007\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "100/6, Krishna Nagar, Kanpur, Uttar Pradesh 208007, India",
+      "formatted_phone_number" : "092369 33217",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.418898,
+            "lng" : 80.37708000000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "2f9187aa7be3df318db2aa866c0963787a1b92e6",
+      "international_phone_number" : "+91 92369 33217",
+      "name" : "Honda Workshop",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 10:00 am – 9:00 pm",
+            "Wednesday: 10:00 am – 9:00 pm",
+            "Thursday: 10:00 am – 9:00 pm",
+            "Friday: 10:00 am – 9:00 pm",
+            "Saturday: 10:00 am – 9:00 pm",
+            "Sunday: 10:00 am – 9:00 pm"
+         ]
+      },
+      "place_id" : "ChIJ15ASACZBnDkRX_sEGzG7qaM",
+      "reference" : "CnRiAAAAP1EpeTYKzmJTybZcgcERKtJmpEmXMEs8cc-D9S5nTp7-uZGQsksAwyMBYckz7x436v40u0wxlhXa7z7IEUWXCq0PS9eKXLgo8K__DbDRSRL5JykQYhqWHGydEK3xSrcDsEpqyVJT-p6q1YOGIT_iWxIQriGSVU487_umM7RWjoGkCBoUfOU35V2qtM67pPq1mB5Y1R4fpWk",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/110236240949085720864/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "100/6, Krishna Nagar, Kanpur"
+   },
+   "status" : "OK"
+}

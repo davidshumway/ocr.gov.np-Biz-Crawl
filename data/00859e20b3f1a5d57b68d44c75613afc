@@ -1,0 +1,146 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Sarani",
+            "short_name" : "Sarani",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bagmari",
+            "short_name" : "Bagmari",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700067",
+            "short_name" : "700067",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eSarani\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBagmari\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700067\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Sarani, Bagmari, Kolkata, West Bengal 700067, India",
+      "formatted_phone_number" : "098363 29229",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.474467,
+            "lng" : 88.32633199999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id" : "55ebfd84bd3f1efe014002d2e2ac9b2bc83341d1",
+      "international_phone_number" : "+91 98363 29229",
+      "name" : "Bakery Machine",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 6:00 pm",
+            "Tuesday: 10:00 am – 6:00 pm",
+            "Wednesday: 10:00 am – 6:00 pm",
+            "Thursday: 10:00 am – 6:00 pm",
+            "Friday: 10:00 am – 6:00 pm",
+            "Saturday: 10:00 am – 6:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJq6qqDxV2AjoREILWwf4CdLs",
+      "reference" : "CnRiAAAAzewCIvdWwU0AsG1y897GOVxUGn0jxHKFnaF4cRFRk-c6uOa81D6AsiwoudmSEKR-FUzE2uUmx9AfYkhBtggaMh-bqXRxm1mD2c7WZFrIacubBXdNHvzDavV7uUBLlAgC3YGEdXaDi_6iIsjVgYIaUhIQYrxU6apmOuZV-ICnBEOPDRoUcBvqyWHjWIf1viBXyukXvTdegJE",
+      "scope" : "GOOGLE",
+      "types" : [
+         "bakery",
+         "furniture_store",
+         "general_contractor",
+         "home_goods_store",
+         "store",
+         "food",
+         "establishment"
+      ],
+      "url" : "https://plus.google.com/109867948589567854235/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Sarani, Bagmari, Kolkata",
+      "website" : "http://www.bakerymachine.co.in/"
+   },
+   "status" : "OK"
+}

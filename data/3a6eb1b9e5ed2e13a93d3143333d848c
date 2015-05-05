@@ -1,0 +1,135 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Baburam Ghosh Road",
+            "short_name" : "Baburam Ghosh Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Ashok Nagar",
+            "short_name" : "Ashok Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700040",
+            "short_name" : "700040",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "18, \u003cspan class=\"street-address\"\u003eBaburam Ghosh Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eAshok Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700040\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "18, Baburam Ghosh Road, Ashok Nagar, Kolkata, West Bengal 700040, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.488266,
+            "lng" : 88.345344
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "3dfcc4f38d3c7f76ed7f3cae19ad06b22578f6f5",
+      "name" : "Autohude Center",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 am – 9:00 pm",
+            "Tuesday: 8:00 am – 9:00 pm",
+            "Wednesday: 8:00 am – 9:00 pm",
+            "Thursday: 8:00 am – 9:00 pm",
+            "Friday: 8:00 am – 9:00 pm",
+            "Saturday: 8:00 am – 9:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJdSv4DutwAjoR4q8WjWeNau0",
+      "reference" : "CnRjAAAAiW0_t3huTwX-rTlCj1jcVDJtw34w_Td3eedkBVLrx6wi7f-7vdIJNsGWqFaH1fKC9v4u7gms8cfIMWnYvCjLR8jYzNbkvoZM0LNmDMYY9hcGwGuwCEU0HniXCOq4YDMwLItCPTVEfpsjiTSfVaR_zxIQnKHCj2zkTp7DWrbqlmgQghoUga_F0pappa-2FvZBsL6jwM6TXYA",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/104008355035733862209/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "18, Baburam Ghosh Road, Ashok Nagar, Kolkata"
+   },
+   "status" : "OK"
+}

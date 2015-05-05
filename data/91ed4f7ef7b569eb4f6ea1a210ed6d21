@@ -1,0 +1,76 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Bagda",
+            "short_name" : "Bagda",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Purulia",
+            "short_name" : "Purulia",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "723151",
+            "short_name" : "723151",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eBagda\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e723151\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Bagda, West Bengal 723151, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 23.196723,
+            "lng" : 86.68808300000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "9613e3a129125df1a2e2dc69d234e0d98eba152c",
+      "name" : "Dutta Brothers",
+      "place_id" : "ChIJZdyj7w5b9jkR5PoPuHRqgZI",
+      "reference" : "CnRiAAAArH7jqq_aztI2PItcC6R1pFW_Z7-hIBaVlkyAsV6dyousfIdybO3MTbBlpeSLl5tJMh1MPY9Do_DdQslUb21j_BX43q64KPGUJC5UFqC13_aR-icyJSxQcvVPTmpV-VoXdALaFMRV7uxZTTunyYLiPRIQHMTsXCoWCmEDz_OPG7d2VxoUAWoT_2-omDh1BI5O8RJPj8Z1MGk",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 2,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Rahul Dutta",
+            "author_url" : "https://plus.google.com/110531279510756488094",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1364585856
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/102475987138304966675/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Bagda"
+   },
+   "status" : "OK"
+}

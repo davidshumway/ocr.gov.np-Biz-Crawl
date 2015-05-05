@@ -1,0 +1,78 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Bazar Road",
+            "short_name" : "Bazar Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Thakurgaon",
+            "short_name" : "Thakurgaon",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Thakurgaon",
+            "short_name" : "Thakurgaon",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Rangpur Division",
+            "short_name" : "Rangpur Division",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Bangladesh",
+            "short_name" : "BD",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eBazar Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eThakurgaon\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eBangladesh\u003c/span\u003e",
+      "formatted_address" : "Bazar Road, Thakurgaon, Bangladesh",
+      "formatted_phone_number" : "0561-52585",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.030877,
+            "lng" : 88.46277600000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "7d34ffd52854b9f7caba9f0beb067216a98c371b",
+      "international_phone_number" : "+880 561-52585",
+      "name" : "Jamuna Bank Limited",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJnbiCWh7A5DkRNb8l6OlX2Vo",
+      "reference" : "CnRmAAAAVR3oQNXzqbdyBB4lWm0odSPQc4JnfIGlIUw9su-PTF1mg46-5UsgwLMdTe3z62A8xoUG_BP8hIN1lQ9uzzJEODmKRAPxcJp3l3oHFQOiuEipgnXfx07YYJIGU67C6DbQfMgumscnN2n0Yp3ALBumoBIQEftRIFKIJ2heht1NMmLOmBoUNQR7EAasmAg2EiklfyoO3dVCcfs",
+      "scope" : "GOOGLE",
+      "types" : [ "bank", "finance", "establishment" ],
+      "url" : "https://plus.google.com/101223217956828186388/about?hl=en-US",
+      "utc_offset" : 360,
+      "vicinity" : "Bazar Road, Thakurgaon",
+      "website" : "http://www.jamunabankbd.com/"
+   },
+   "status" : "OK"
+}

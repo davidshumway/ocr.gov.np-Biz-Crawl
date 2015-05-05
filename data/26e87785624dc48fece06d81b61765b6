@@ -1,0 +1,159 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1",
+            "short_name" : "1",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Sandeela Road",
+            "short_name" : "Sandeela Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Civil Lines",
+            "short_name" : "Civil Lines",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Unnao",
+            "short_name" : "Unnao",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Unnao",
+            "short_name" : "Unnao",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "209801",
+            "short_name" : "209801",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e1, Sandeela Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCivil Lines\u003c/span\u003e, \u003cspan class=\"locality\"\u003eUnnao\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e209801\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "1, Sandeela Road, Civil Lines, Unnao, Uttar Pradesh 209801, India",
+      "formatted_phone_number" : "094150 45728",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.554485,
+            "lng" : 80.488567
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "cf59161829e94c2ecf821fcdf3522b40fcc7b986",
+      "international_phone_number" : "+91 94150 45728",
+      "name" : "M/S. Super Trading Company",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 9:00 pm",
+            "Tuesday: 10:00 am – 9:00 pm",
+            "Wednesday: 10:00 am – 9:00 pm",
+            "Thursday: 10:00 am – 9:00 pm",
+            "Friday: 10:00 am – 9:00 pm",
+            "Saturday: 10:00 am – 9:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJx5dwqcgVnDkRICOspfofgJA",
+      "reference" : "CnRuAAAAh7FIF5ZkhZUIagaBF-Zn1Pgb_y2HJRAU1uZwlsJzJje1V91eWKmRvpYcM8xKfe_Kb8wDESIy7RwNOPWqApzxXQUl3biZIsjKCBdW2YNdW3YKcDeJeG1RqeiDsPIVb_BsoEJ-rgvadBm-Fm9f2CWCxBIQAEDX5DNEMCtTbnlf5VmuuRoUlGSq3c2z-Za6GmsRlC1HULd7pm0",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Mohammad Ahmed",
+            "author_url" : "https://plus.google.com/108535569526137619664",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1405246443
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/116715396571392658346/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "1, Sandeela Road, Civil Lines, Unnao"
+   },
+   "status" : "OK"
+}

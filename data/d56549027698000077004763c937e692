@@ -1,0 +1,135 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Nirmal Chandra Street",
+            "short_name" : "Nirmal Chandra St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700013",
+            "short_name" : "700013",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "37/1, Wellington, \u003cspan class=\"street-address\"\u003eNirmal Chandra Street\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700013\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "37/1, Wellington, Nirmal Chandra Street, Kolkata, West Bengal 700013, India",
+      "formatted_phone_number" : "033 2215 1397",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.563728,
+            "lng" : 88.358835
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "ea3b93192eba35af6181c2460cb189b40621045f",
+      "international_phone_number" : "+91 33 2215 1397",
+      "name" : "Ajay Plastics",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ95axUap3AjoR7t1Vc0h6TMI",
+      "reference" : "CnRhAAAACoRDfM7E5cTB2WiPG8OSZQQdSioplxcfnDGzDDq5pb5yk_7ACw3Hw0zol63LM1fkScxpJxrWzEpHIlA1Yt3D9YVsUip2YuQ4lQ1saEgFPrhNwTFmgH8HEDUoUcBW_j5IqJq3u1cZLcsMIGIg6YHaORIQMpiReMHcweBJk5LyI8EapxoUVu7azMbFnL4QXqWlOwD_K8oPLLg",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "establishment" ],
+      "url" : "https://plus.google.com/108552347927607990995/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "37/1, Wellington, Nirmal Chandra Street, Kolkata",
+      "website" : "http://www.ajayplastics.in"
+   },
+   "status" : "OK"
+}

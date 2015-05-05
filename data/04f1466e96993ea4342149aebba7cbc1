@@ -1,0 +1,158 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Pedzoe Lam",
+            "short_name" : "Pedzoe Lam",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Thimphu",
+            "short_name" : "Thimphu",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Thimphu",
+            "short_name" : "Thimphu",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Bhutan",
+            "short_name" : "BT",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "PO Box 185, \u003cspan class=\"street-address\"\u003ePedzoe Lam\u003c/span\u003e, \u003cspan class=\"locality\"\u003eThimphu\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eBhutan\u003c/span\u003e",
+      "formatted_address" : "PO Box 185, Pedzoe Lam, Thimphu, Bhutan",
+      "formatted_phone_number" : "2 322 693",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.483235,
+            "lng" : 89.632667
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+      "id" : "2e4864b06b685c07761dd203ac652ff7594c1d9d",
+      "international_phone_number" : "+975 2 322 693",
+      "name" : "National Library and Archives of Bhutan",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 5:00 pm",
+            "Tuesday: 9:00 am – 5:00 pm",
+            "Wednesday: 9:00 am – 5:00 pm",
+            "Thursday: 9:00 am – 5:00 pm",
+            "Friday: 9:00 am – 5:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJN-QkcyOU4TkRN19AhD5Bl-8",
+      "reference" : "CoQBewAAABva9f-a6TpfjMaNz6ODk-TibqzZGPyQuz3VjW94m7hGOhrAPnsUA1oW300QNsLZ38ZEhEQUrxYIgxjjYBZIar5oM5439yXRDFU_bI6ZBOLGSfBZbdB-bV-vA8nVAumZjd4dGetJek7ZPUv_iUl60V-YpVtHfURz0gcC72T5dEtkEhBv1LUfwSzOv4cVZx2tCk1LGhRUiWLomRYm2bX_afJ07tFM4aTw-g",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Johan Miguel Ovalle Henriquez",
+            "author_url" : "https://plus.google.com/108306651261777674110",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "Bæ",
+            "time" : 1427731726
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Trà Hồng",
+            "author_url" : "https://plus.google.com/116330273078724064415",
+            "language" : "vi",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1430206757
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Rahul Bisht",
+            "author_url" : "https://plus.google.com/108146120565930661920",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1402934160
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "library", "establishment" ],
+      "url" : "https://plus.google.com/102512298750404231017/about?hl=en-US",
+      "user_ratings_total" : 3,
+      "utc_offset" : 360,
+      "vicinity" : "PO Box 185, Pedzoe Lam, Thimphu",
+      "website" : "http://www.library.gov.bt/"
+   },
+   "status" : "OK"
+}

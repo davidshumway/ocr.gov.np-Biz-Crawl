@@ -1,0 +1,149 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "5",
+            "short_name" : "5",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Jogendra Basak Road",
+            "short_name" : "Jogendra Basak Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Nainan Para",
+            "short_name" : "Nainan Para",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "North 24 Parganas",
+            "short_name" : "North 24 Parganas",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700036",
+            "short_name" : "700036",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e5, Jogendra Basak Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNainan Para\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700036\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "5, Jogendra Basak Road, Nainan Para, Kolkata, West Bengal 700036, India",
+      "formatted_phone_number" : "093304 18498",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.636144,
+            "lng" : 88.37631399999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "3c925fd8c9fb990e05bd14a82d384e11e06a2a6b",
+      "international_phone_number" : "+91 93304 18498",
+      "name" : "Jay Ganesh Kitchen Equipment",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 6:00 pm",
+            "Tuesday: 10:00 am – 6:00 pm",
+            "Wednesday: 10:00 am – 6:00 pm",
+            "Thursday: 10:00 am – 6:00 pm",
+            "Friday: 10:00 am – 6:00 pm",
+            "Saturday: 10:00 am – 6:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJYf5a8r2d-DkRYDWm69ihqUk",
+      "reference" : "CnRvAAAAflBoa1awvt1qzNelZ-a5WU9XYa1UzRJbC08z-csUfLBGLT_hfqFCjZqv_lIw8q73CBM2m2IkoSu844CUmUiSYGP6Sbc-Z38Op1QT12WTDC0r_xSlgpOPkU6h6GZ3KHvxkxeQ-yMih7CIVyqOYFvYrhIQMjVZYoDHBW-MW23k-5OszhoUR71e6aMS2VwM18bbdXya3tPkh0s",
+      "scope" : "GOOGLE",
+      "types" : [
+         "furniture_store",
+         "general_contractor",
+         "home_goods_store",
+         "store",
+         "establishment"
+      ],
+      "url" : "https://plus.google.com/106698297027053749842/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "5, Jogendra Basak Road, Nainan Para, Kolkata",
+      "website" : "http://www.jayganesh.in/"
+   },
+   "status" : "OK"
+}

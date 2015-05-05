@@ -1,0 +1,154 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "R North Road",
+            "short_name" : "R N Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Jessore",
+            "short_name" : "Jessore",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Jessore",
+            "short_name" : "Jessore",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Khulna Division",
+            "short_name" : "Khulna Division",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Bangladesh",
+            "short_name" : "BD",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eR North Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eJessore\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eBangladesh\u003c/span\u003e",
+      "formatted_address" : "R North Road, Jessore, Bangladesh",
+      "formatted_phone_number" : "01711-237082",
+      "geometry" : {
+         "location" : {
+            "lat" : 23.161742,
+            "lng" : 89.22166199999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "dbc05684c09123b0f699b5d4f4b7df5d77276b11",
+      "international_phone_number" : "+880 1711-237082",
+      "name" : "Palash Motors",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 8:00 pm",
+            "Tuesday: 9:00 am – 8:00 pm",
+            "Wednesday: 9:00 am – 8:00 pm",
+            "Thursday: 9:00 am – 8:00 pm",
+            "Friday: Closed",
+            "Saturday: 9:00 am – 8:00 pm",
+            "Sunday: 9:00 am – 8:00 pm"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1262,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/116590173209738619054\"\u003eHabib zakaria\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRtAAAAcXJtBJIqNsT9yUopGu9RaXQsqzXLu--bXWzSYCo_OvjnkWRNoD0D_y97C8rA0-Uz9w0X5FVaw4baIwWfbueP6l63rk2xnkCPjP-Hm0epzG6SmYdOwru6XaAMpSpqD6Ke8TrAR9gw1ywDMm7Q8JAOsRIQQyIfNfQUPQsEJ9ESBaDp7xoU1B0twdFqB1LJ0LlTO8TcH8jPwxk",
+            "width" : 947
+         }
+      ],
+      "place_id" : "ChIJh0typUMQ_zkRLBm1k29KGiU",
+      "reference" : "CmRgAAAAAyVq8KtIM4d1phqOnjXkhg39Kk0dYhC8dw9HP3v9AwnWI0D-E9AXIZL5cHk1lZfd3VR749bZmUXr9VoSIngyYoGplpo5SG7oKFSPwjBq8XYTKvRneMYoFA9TbSvs-jChEhCs2lv9z0K1DyJWdu5d31vLGhS9ti-9Q1HDYFOg8950TCEb84IGrg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Habib zakaria",
+            "author_url" : "https://plus.google.com/116590173209738619054",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "Tata motor parts ",
+            "time" : 1417171856
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/111632905009599912676/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 360,
+      "vicinity" : "R North Road, Jessore"
+   },
+   "status" : "OK"
+}

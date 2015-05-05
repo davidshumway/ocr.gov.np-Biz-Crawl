@@ -1,0 +1,81 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "State Highway 4",
+            "short_name" : "SH 4",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Hilsa",
+            "short_name" : "Hilsa",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Nalanda",
+            "short_name" : "Nalanda",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "801302",
+            "short_name" : "801302",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eState Highway 4\u003c/span\u003e, \u003cspan class=\"locality\"\u003eHilsa\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e801302\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "State Highway 4, Hilsa, Bihar 801302, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.312412,
+            "lng" : 85.27951400000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "50ba1fc013f7043f3cc54dae76b1d0a15f904a44",
+      "name" : "Exide Battery Dealer",
+      "place_id" : "ChIJD4zs-QSW8jkR-aT0eXgxAIE",
+      "reference" : "CnRoAAAAGi6SEFVxAlXuoTulq3ewq4x4KzwPfSdbX1dx58-JD3vygjy_7K12yXBJn8gGXsPCHL8XTpxooTi_NzGDVz3iz9D_8_gec0EjULqKv7o2pjs7bKAd-5YfoL8VFzqidGTWajJBa_74BpyqT-YACcq5XhIQQbKLDoOvYhvhNVwzBBXbsBoUq85uy-uMqVA2Ou7-nmOq4e8P6jo",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Shambhu Sharan Sharan",
+            "author_url" : "https://plus.google.com/112288022709556508029",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "20 m away from St Joseph' High School",
+            "time" : 1369232424
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/106387403242223888279/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "State Highway 4, Hilsa"
+   },
+   "status" : "OK"
+}

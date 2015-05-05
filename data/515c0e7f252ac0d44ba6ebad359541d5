@@ -1,0 +1,87 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Cinema Road",
+            "short_name" : "Cinema Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Hardoi",
+            "short_name" : "Hardoi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Hardoi",
+            "short_name" : "Hardoi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "241001",
+            "short_name" : "241001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eCinema Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eHardoi\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e241001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Cinema Road, Hardoi, Uttar Pradesh 241001, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.393293,
+            "lng" : 80.128106
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "fefd9baf27d430a5e4ea7c70235196dda293857e",
+      "name" : "Bus Building",
+      "place_id" : "ChIJrdXKOiT4njkRBGr5RxHRA2c",
+      "reference" : "CmRfAAAA1hLrqmMBMlSZrjVIrFxOFKkx_qCMkPBJBH0VTcwu03TP6m08Miq9ZT7YnYXnMzb2scOkWbeNagER3pRyf9sHz9eEiY2JBv0GYw3jEC9r8CE8Qms9zK9YBBS-vTxuruq5EhCCHf-JgsygX6jBNg0SdgEXGhSCrDDC0TNGIFkmg-n7uSTbp96J2A",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Prem Nath Shukla",
+            "author_url" : "https://plus.google.com/101228002794235998688",
+            "language" : "hi",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1429372316
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "rachit gupta",
+            "author_url" : "https://plus.google.com/101756923272854119506",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1424851925
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/104683337403115841264/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "Cinema Road, Hardoi"
+   },
+   "status" : "OK"
+}

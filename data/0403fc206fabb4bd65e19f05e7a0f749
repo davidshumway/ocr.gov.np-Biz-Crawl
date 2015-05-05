@@ -1,0 +1,142 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700073",
+            "short_name" : "700073",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "22, Rabindra Sarani, Tiretta Bazar, \u003cspan class=\"street-address\"\u003eRabindra Sarani\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700073\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "22, Rabindra Sarani, Tiretta Bazar, Rabindra Sarani, Kolkata, West Bengal 700073, India",
+      "formatted_phone_number" : "033 2221 6702",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.590843,
+            "lng" : 88.35964
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "be05812efb5f6a5ec790277209d151bf05119e38",
+      "international_phone_number" : "+91 33 2221 6702",
+      "name" : "Ranga Electric Trading Co",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1030"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:30 am – 6:30 pm",
+            "Tuesday: 10:30 am – 6:30 pm",
+            "Wednesday: 10:30 am – 6:30 pm",
+            "Thursday: 10:30 am – 6:30 pm",
+            "Friday: 10:30 am – 6:30 pm",
+            "Saturday: 10:30 am – 6:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJh935sst3AjoRWAMMuLqZL4g",
+      "reference" : "CnRtAAAAEYssqHHKppo6z_c_b8e7Vikt5gF1bsHOahGL9kW9A5Hac8nv6311q2CfagnrWu6hN5S2rww1KaY6liWpOBpGxE8MEtGaxAzCDBTZ1B-zxYI3_k_oL6dKmYgvXF7MueG5cGR_IYH3hUFTA8eVXVtT0RIQQS9y97Jci61h6qmhhBZYFBoUruXPHUfK_rC2uV3LSVo-eeAsjwk",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Som Ranga",
+            "author_url" : "https://plus.google.com/117720211327444099445",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "The one stop shop for all wires and cables.",
+            "time" : 1387006565
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "electrician", "establishment" ],
+      "url" : "https://plus.google.com/101413681630440587095/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "22, Rabindra Sarani, Tiretta Bazar, Rabindra Sarani, Kolkata",
+      "website" : "http://www.retcocables.com/"
+   },
+   "status" : "OK"
+}

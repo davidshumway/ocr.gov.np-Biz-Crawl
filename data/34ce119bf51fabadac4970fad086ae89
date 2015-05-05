@@ -1,0 +1,65 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1",
+            "short_name" : "1",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "DH Road",
+            "short_name" : "DH Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Khidderpur",
+            "short_name" : "Khidderpur",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700023",
+            "short_name" : "700023",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e1, DH Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eKhidderpur\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700023\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "1, DH Road, Khidderpur, Kolkata, West Bengal 700023, India",
+      "formatted_phone_number" : "033 2479 3463",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.520727,
+            "lng" : 88.32417
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "ea95a8866aaa0bad546e53a7c3b6ce9805a37925",
+      "international_phone_number" : "+91 33 2479 3463",
+      "name" : "Alo Ghar",
+      "place_id" : "ChIJwYM68l53AjoRXPrTKg5ut1Q",
+      "reference" : "CmRbAAAAWezKVn0bAouiem2lxlgQN3rH1cGS4wVUP-XkMFA9nT4Hy0ZfZDyNn8trW80-ppY3vif-b_2ekOMXAULRiUH3NOAf4O8xl5biyUZ-biNxFarFImWW19l34Ap8DyM_iN_iEhDPyflPm_HlGuk1u909kWmfGhTcQe35tCtMkpgIIyRSH6qFljGrWw",
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/110172777179320524550/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "1, DH Road, Khidderpur, Kolkata"
+   },
+   "status" : "OK"
+}

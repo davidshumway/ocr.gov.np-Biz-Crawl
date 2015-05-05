@@ -1,0 +1,140 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "11",
+            "short_name" : "11",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "Andul Raj Road, Hazra Road",
+            "short_name" : "Andul Raj Road, Hazra Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Hazra Crossing",
+            "short_name" : "Hazra Crossing",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Hazra",
+            "short_name" : "Hazra",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kalighat",
+            "short_name" : "Kalighat",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700026",
+            "short_name" : "700026",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "11, \u003cspan class=\"street-address\"\u003eAndul Raj Road, Hazra Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eHazra Crossing, Hazra, Kalighat\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700026\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "11, Andul Raj Road, Hazra Road, Hazra Crossing, Hazra, Kalighat, Kolkata, West Bengal 700026, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.523277,
+            "lng" : 88.347435
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "d8db643969b119b743f8ed18db8b11a581f15aaa",
+      "name" : "Popular Auto Industries",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 10:00 pm",
+            "Tuesday: 9:00 am – 10:00 pm",
+            "Wednesday: 9:00 am – 10:00 pm",
+            "Thursday: 9:00 am – 10:00 pm",
+            "Friday: 9:00 am – 10:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJG6b9ujZ3AjoRvsez4ZmtmzE",
+      "reference" : "CnRqAAAAwjztsxMaL-4fXUT7VkFbpchZvZHtswUl6PoJ068LGTClUc8iWdgXaAt8m0-0KBbd8e9Xf_KHJdp8OOEkkJjiTz2u9t_GOFly9Il3alrg7Ib_aBcSOjlA9FgjLECgi3L9AtJKevN84w5GUXjW-sAnFxIQCCxuknQf6WWSw8YP5EUi5BoUO54O4LbVZ1YTgG2nIlTRQLvw6KY",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/107207591231789153578/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "11, Andul Raj Road, Hazra Road, Hazra Crossing, Hazra, Kalighat, Kolkata"
+   },
+   "status" : "OK"
+}

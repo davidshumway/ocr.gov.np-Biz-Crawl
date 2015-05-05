@@ -1,0 +1,65 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Boring Road",
+            "short_name" : "Boring Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Anandpuri",
+            "short_name" : "Anandpuri",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Patna",
+            "short_name" : "Patna",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Patna",
+            "short_name" : "Patna",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "800001",
+            "short_name" : "800001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Mohan Sweets, \u003cspan class=\"street-address\"\u003eBoring Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eAnandpuri\u003c/span\u003e, \u003cspan class=\"locality\"\u003ePatna\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e800001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Mohan Sweets, Boring Road, Anandpuri, Patna, Bihar 800001, India",
+      "formatted_phone_number" : "094312 37694",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.619695,
+            "lng" : 85.12089
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "c8a00f0cd9e8588da17c034463ca77adfa51ee19",
+      "international_phone_number" : "+91 94312 37694",
+      "name" : "Monika Decorators",
+      "place_id" : "ChIJgVZkrzBY7TkRRbg7LBE6xqc",
+      "reference" : "CnRlAAAAFMPVPoHRDFVV35WH1id7n6eA82JzeCxma_lDgkv47ab_UcZFynxkQQAMGA_lP91dDmOUVGzFxzqAHM0SMI8xtvCzTMG45jjgMUc5cc18NhK0J3YCIQYKeObLO6hftvZfNwnfvGxBcTgcwyfpm-GkVxIQY1nYUIaBMufCXvGGzjgFPhoUkFkUR5t2OtPpKw9KCAGPZHTX_z4",
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/117031007622931718888/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Mohan Sweets, Boring Road, Anandpuri, Patna"
+   },
+   "status" : "OK"
+}

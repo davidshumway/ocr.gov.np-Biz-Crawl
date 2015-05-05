@@ -1,0 +1,151 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Kharagpur",
+            "short_name" : "KGP",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "West Medinipur",
+            "short_name" : "West Medinipur",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "721302",
+            "short_name" : "721302",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eKharagpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e721302\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Kharagpur, West Bengal 721302, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.320411,
+            "lng" : 87.309301
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+      "id" : "10f02d6a7f631b419ce91b8f58d802d5d0dd7254",
+      "name" : "Annexe Building, Central Library",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 am – 12:00 am",
+            "Tuesday: 8:00 am – 12:00 am",
+            "Wednesday: 8:00 am – 12:00 am",
+            "Thursday: 8:00 am – 12:00 am",
+            "Friday: 8:00 am – 12:00 am",
+            "Saturday: 8:00 am – 12:00 am",
+            "Sunday: 8:00 am – 12:00 am"
+         ]
+      },
+      "place_id" : "ChIJ9cTe_QREHToREeLeBivUjX0",
+      "reference" : "CoQBcwAAAHgroDz2cGu3YPWFk4MoxBin2spbcbO1-0RYxzTG5zEfqk9dD50avVL6eMac8wccpo1meglwNmIaL-z6taV7u-NvegfQghxLKlEr1GDelZ58nBR3YevW20AwjfKQacn_9f1VNBMZTGW6GMPUyAl788sfR9ZxztL-MoD7myuPewkbEhDEfUcA4_aNoYQdjZFV08d-GhQ5sdsQoiiLkaQkPwe4iJXneUm2Hg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1329926175
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "library", "establishment" ],
+      "url" : "https://plus.google.com/110177896520778693833/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Kharagpur"
+   },
+   "status" : "OK"
+}

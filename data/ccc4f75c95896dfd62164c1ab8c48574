@@ -1,0 +1,147 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "11/26",
+            "short_name" : "11/26",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Parwati Bagla Road",
+            "short_name" : "Parwati Bagla Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Near Yogi Tower",
+            "short_name" : "Near Yogi Tower",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Permat",
+            "short_name" : "Permat",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208001",
+            "short_name" : "208001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e11/26, Parwati Bagla Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNear Yogi Tower, Permat\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "11/26, Parwati Bagla Road, Near Yogi Tower, Permat, Kanpur, Uttar Pradesh 208001, India",
+      "formatted_phone_number" : "093361 08750",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.486366,
+            "lng" : 80.339161
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "1511c9c985aefcb506f23388fc48cb3c20430cac",
+      "international_phone_number" : "+91 93361 08750",
+      "name" : "Golden Car A.C",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJDy2foJY4nDkRYH18_x0q3Ro",
+      "reference" : "CnRhAAAAn53KFIv_f6SC1RgtXuLuqqrGN31oRQB344chs5BQGEpOP0Yam00-R_u7A2W6d6HW3MsQacu9K-OljsQ0m1HgXd4-EZ62zo7hA56_husAzPIyecdVKoflNRage11H8--aPq56LtMIycT_E6XTBHpRcxIQyu7dHEHibZb2DbNsgETrSxoUHnQHtm77PZQ2lkxFWtH3mjHgMSU",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/104162847344897130026/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "11/26, Parwati Bagla Road, Near Yogi Tower, Permat, Kanpur"
+   },
+   "status" : "OK"
+}

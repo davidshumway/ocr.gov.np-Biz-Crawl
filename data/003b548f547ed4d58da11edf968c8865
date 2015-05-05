@@ -1,0 +1,86 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Kanpur Road",
+            "short_name" : "Kanpur Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Subhash Nagar",
+            "short_name" : "Subhash Nagar",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "T.P. Nagar",
+            "short_name" : "T.P. Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Lucknow",
+            "short_name" : "Lucknow",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Lucknow",
+            "short_name" : "Lucknow",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "226012",
+            "short_name" : "226012",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eKanpur Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSubhash Nagar, T.P. Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eLucknow\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e226012\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Kanpur Road, Subhash Nagar, T.P. Nagar, Lucknow, Uttar Pradesh 226012, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.779959,
+            "lng" : 80.885285
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "57cdb68ee0fb5210ba6e7a30deed9d6896dfdf52",
+      "name" : "Durga Complex",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "open" : {
+                  "day" : 0,
+                  "time" : "0000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+         ]
+      },
+      "place_id" : "ChIJJaAx0U35mzkR7j6moLKs2Ns",
+      "reference" : "CnRhAAAAIn-E1f-kG-u8vugQC-CmM8_e-VY7aYT3r63oKOVDyKJAIwg5wbBecTlG1oCyJ98m6lb5ELgAZkl1b1xYAX1xFwl8UrN5vv1sdhWCdzb-T3N2ZV73k0LeC8tHWldnvnCsffE1cUd30g7YkkWX65ov0BIQISc-rDSXaICJCLYDApkvzhoULd5dTvnYyDPc8nyrFMnAhaFSdLc",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/106916967679642189513/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Kanpur Road, Subhash Nagar, T.P. Nagar, Lucknow"
+   },
+   "status" : "OK"
+}

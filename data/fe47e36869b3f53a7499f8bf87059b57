@@ -1,0 +1,142 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Chilli Int Road",
+            "short_name" : "Chilli Int Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Sanjay Place",
+            "short_name" : "Sanjay Place",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Civil Lines",
+            "short_name" : "Civil Lines",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Agra",
+            "short_name" : "Agra",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Agra",
+            "short_name" : "Agra",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "282002",
+            "short_name" : "282002",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eChilli Int Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSanjay Place, Civil Lines\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAgra\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e282002\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Chilli Int Road, Sanjay Place, Civil Lines, Agra, Uttar Pradesh 282002, India",
+      "formatted_phone_number" : "093591 51059",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.201133,
+            "lng" : 78.005926
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+      "id" : "7a2092ac3c2e33641f5e66270950e142ec12407e",
+      "international_phone_number" : "+91 93591 51059",
+      "name" : "A.R. Marketting",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 10:00 pm",
+            "Tuesday: 10:00 am – 10:00 pm",
+            "Wednesday: 10:00 am – 10:00 pm",
+            "Thursday: 10:00 am – 10:00 pm",
+            "Friday: 10:00 am – 10:00 pm",
+            "Saturday: 10:00 am – 10:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJG7SMWEZ3dDkR4NRL0SN6dfQ",
+      "reference" : "CnRjAAAAEjVveoVbLC3-IT-JVNgljX1xExZIePPfTUCIHoa6sSMXQ93F8xQPZ3ANCE0YzgC0wX5YD3Q2xG1X0ZtzINOIl1VUFrTVjJQ4MdGD5nAZIttF9Heqkn4OcugHgQ757YPX8F18iQVj73z1fZGWz41n6RIQc4Q5wCNwdEr6Ze418N5XlRoUJi5jcqP4Ww5StATGj2jvzqgftpc",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "electronics_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/105965751027063078294/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Chilli Int Road, Sanjay Place, Civil Lines, Agra"
+   },
+   "status" : "OK"
+}

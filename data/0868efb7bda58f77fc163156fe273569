@@ -1,0 +1,145 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Dhaka - Gaibandha Highway",
+            "short_name" : "Dhaka - Gaibandha Hwy",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Gaibandha",
+            "short_name" : "Gaibandha",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Gaibandha",
+            "short_name" : "Gaibandha",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Rangpur Division",
+            "short_name" : "Rangpur Division",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Bangladesh",
+            "short_name" : "BD",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eDhaka - Gaibandha Highway\u003c/span\u003e, \u003cspan class=\"locality\"\u003eGaibandha\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eBangladesh\u003c/span\u003e",
+      "formatted_address" : "Dhaka - Gaibandha Highway, Gaibandha, Bangladesh",
+      "formatted_phone_number" : "0541-31372",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.328607,
+            "lng" : 89.53317699999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "733da8fc4cead0367bfd0795ef1315401281f10e",
+      "international_phone_number" : "+880 541-31372",
+      "name" : "Rashid Traders",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 8:00 pm",
+            "Tuesday: 9:00 am – 8:00 pm",
+            "Wednesday: 9:00 am – 8:00 pm",
+            "Thursday: 9:00 am – 8:00 pm",
+            "Friday: Closed",
+            "Saturday: 9:00 am – 8:00 pm",
+            "Sunday: 9:00 am – 8:00 pm"
+         ]
+      },
+      "place_id" : "ChIJrVk0p98i_TkR6O1vI1D5Swc",
+      "reference" : "CnRhAAAA_Rr4x1xagwm_PsKe-BWexX-FrocLkdfUQN4o2D7maBCUK8wUyiirw4k6uUYgHNZLIVZp280v8R5TLxKBLZ8XVJWGxOqA4rLsU4rdJilElBxZ9FtQGMzUIcp1-1BvA68HnMPrSgw-etcTJGCGixFCAxIQbnPTgKAB1RY6xQ6kG68K7xoU5KY_MZBKmSgFSjnO6nLZZCBytHQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Nokib Mahfuz Dipto",
+            "author_url" : "https://plus.google.com/104506065301964573055",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "This is a Building Materials Store",
+            "time" : 1430738204
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/115459773605303852033/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 360,
+      "vicinity" : "Dhaka - Gaibandha Highway, Gaibandha",
+      "website" : "http://rashidtraders.blogspot.com/"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,145 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Acharya Prafulla Chandra Road",
+            "short_name" : "Acharya Prafulla Chandra Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Maniktala",
+            "short_name" : "Maniktala",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Machuabazar",
+            "short_name" : "Machuabazar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700006",
+            "short_name" : "700006",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eAcharya Prafulla Chandra Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eManiktala, Machuabazar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700006\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Acharya Prafulla Chandra Road, Maniktala, Machuabazar, Kolkata, West Bengal 700006, India",
+      "formatted_phone_number" : "1800 103 3111",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.584811,
+            "lng" : 88.374562
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "c1cb26c972392b429222521006f7638ca9c10bc8",
+      "international_phone_number" : "+91 1800 103 3111",
+      "name" : "Usha Company Store",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 10:00 pm",
+            "Tuesday: 10:00 am – 10:00 pm",
+            "Wednesday: 10:00 am – 10:00 pm",
+            "Thursday: 10:00 am – 10:00 pm",
+            "Friday: 10:00 am – 10:00 pm",
+            "Saturday: 10:00 am – 10:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ4cxFU0Z2AjoRxNtDI7xPR4o",
+      "reference" : "CnRmAAAAN9mIwmSVq6sBr47CFLs6Zhxe3L0o9YAupYzRfUmdvj5xjLy2nnZejo5fWW4H5s7fQ_TFHuzS9krMrDKTxluSNo-GlV8dNB5Vl2r-H3V-Ck-X2neFsXJ_MHg7F-mGN06XFqKNNdqHoMSe731KxTKiFxIQk0oqH81TKBn3wwDr4kP7lhoUIGooPZOBBF9hGl8s9bKgs0Mzv2A",
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "electronics_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/112100128564184223284/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Acharya Prafulla Chandra Road, Maniktala, Machuabazar, Kolkata",
+      "website" : "http://www.ushainternational.com/"
+   },
+   "status" : "OK"
+}

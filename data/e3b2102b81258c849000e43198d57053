@@ -1,0 +1,139 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Ganesh Chandra Avenue",
+            "short_name" : "Ganesh Chandra Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bowbazar",
+            "short_name" : "Bowbazar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700013",
+            "short_name" : "700013",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "20, \u003cspan class=\"street-address\"\u003eGanesh Chandra Avenue\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBowbazar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700013\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "20, Ganesh Chandra Avenue, Bowbazar, Kolkata, West Bengal 700013, India",
+      "formatted_phone_number" : "033 2237 0810",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.56871,
+            "lng" : 88.354963
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "350ab4bd3d0c11e7c370e8cc5f5d5f900db852d4",
+      "international_phone_number" : "+91 33 2237 0810",
+      "name" : "Rockwell Corporation",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1100"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 11:00 am – 6:30 pm",
+            "Tuesday: 11:00 am – 6:30 pm",
+            "Wednesday: 11:00 am – 6:30 pm",
+            "Thursday: 11:00 am – 6:30 pm",
+            "Friday: 11:00 am – 6:30 pm",
+            "Saturday: 11:00 am – 6:30 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJT6kTGql3AjoRI_LDgarzMlY",
+      "reference" : "CnRnAAAAGFGoX7NV-HeAIPM5Yy4rPuabpQaYEwnM2alQviiLC49XeCzk-LBIZxbLn3qk8WbcZ9kbwK8ePgZvhbgzEXWCYckfAETaCkH_oJNobpUYazx7Y5Ieg2fPSO6-rZp9vHhaFSB90MX3wlfiEvAJbneEdBIQ3DrE7rxGwWYJ-05cb3Xt4BoUILrYD1_i73nRPL31aKh7KuyUNBs",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/115486923497821670636/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "20, Ganesh Chandra Avenue, Bowbazar, Kolkata"
+   },
+   "status" : "OK"
+}

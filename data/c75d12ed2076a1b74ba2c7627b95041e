@@ -1,0 +1,55 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Paro",
+            "short_name" : "Paro",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bhutan",
+            "short_name" : "BT",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "PO Box 1234, \u003cspan class=\"street-address\"\u003eSatsam Chorten\u003c/span\u003e, \u003cspan class=\"locality\"\u003eParo\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eBhutan\u003c/span\u003e",
+      "formatted_address" : "PO Box 1234, Satsam Chorten, Paro, Bhutan",
+      "formatted_phone_number" : "8 271 111",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.440531,
+            "lng" : 89.415482
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "8b6fa22dfabbf75e4475a380bc20f5154d8bfd9d",
+      "international_phone_number" : "+975 8 271 111",
+      "name" : "Rinchen-Ling Lodge",
+      "place_id" : "ChIJtzlsWuid4TkRmMtwb0zYHJo",
+      "reference" : "CnRmAAAA1SvGSZfst_dMFBjI_ubKNh3fT6E6krTz1VRExdd6AZgopS_KsH4SWNEtTM_rhdOdYPVobawd4VeOQSOf25YoEpFgha1XWxmu4AG9anplOO9DuQ1lCEORLQSqxdnsGTlIopeSdAMr_ssOI1hiSJocMhIQYcSn6dkz8VlF4gLEH8kHQRoU5-RInjmpLDtTVZecwwe5_aA1iEw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Marisol Salvo",
+            "author_url" : "https://plus.google.com/113613357043027353995",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "El país mas feliz\n",
+            "time" : 1362893558
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/111000572649083929175/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 360,
+      "vicinity" : "PO Box 1234, Satsam Chorten, Paro"
+   },
+   "status" : "OK"
+}

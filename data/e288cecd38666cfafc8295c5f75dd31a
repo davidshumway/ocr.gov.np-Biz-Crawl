@@ -1,0 +1,202 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "KNC Road",
+            "short_name" : "KNC Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Near Station",
+            "short_name" : "Near Station",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Barasat",
+            "short_name" : "Barasat",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700124",
+            "short_name" : "700124",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eKNC Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNear Station, Barasat\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700124\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "KNC Road, Near Station, Barasat, Kolkata, West Bengal 700124, India",
+      "formatted_phone_number" : "098367 32178",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.72296,
+            "lng" : 88.48413600000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "8c57ae69594692b6fc35a500c3ebab094d4b799f",
+      "international_phone_number" : "+91 98367 32178",
+      "name" : "D.S. Industries",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1700"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 am – 2:00 pm, 5:00 – 8:00 pm",
+            "Tuesday: 8:00 am – 2:00 pm, 5:00 – 8:00 pm",
+            "Wednesday: 8:00 am – 2:00 pm, 5:00 – 8:00 pm",
+            "Thursday: Closed",
+            "Friday: 8:00 am – 2:00 pm, 5:00 – 8:00 pm",
+            "Saturday: 8:00 am – 2:00 pm, 5:00 – 8:00 pm",
+            "Sunday: 8:00 am – 2:00 pm, 5:00 – 8:00 pm"
+         ]
+      },
+      "place_id" : "ChIJ5ZF_Kg-i-DkRbGL-hRpz8Oo",
+      "reference" : "CnRjAAAA1jij2bOFLDtu5dCErD242Ya2z92raNyK3vSTxMPYZoQ4m2W4gtkR0LAHs78-5MVOE93Ye1ue5TwoxiHbbH0e2uiOfvAtiacy6XmVk41oEfho5FgfVffMa254tr5VsfGqjJl9cYJtG-QFoeAJj-E8IxIQZ5RdUQ7LgagAHkN7q_XuXRoU2OgZZPFOYukRz59N1MEeKE4pXho",
+      "scope" : "GOOGLE",
+      "types" : [ "general_contractor", "establishment" ],
+      "url" : "https://plus.google.com/106836017853530325903/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "KNC Road, Near Station, Barasat, Kolkata"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "A1",
+            "short_name" : "A1",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Madhura",
+            "short_name" : "Madhura",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kaimur",
+            "short_name" : "Kaimur",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "821105",
+            "short_name" : "821105",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eA1\u003c/span\u003e, \u003cspan class=\"locality\"\u003eMadhura\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e821105\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "A1, Madhura, Bihar 821105, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.190928,
+            "lng" : 83.45166
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "52bebeb7a4990432d462a1432f0dc903198d044a",
+      "name" : "Ajay's House",
+      "photos" : [
+         {
+            "height" : 768,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CnRtAAAAYG4_2DNyR4OEl3CLO7Kc10hNFNbeAz8w2V0s9M30NhzgU2Vxp1n5zwCqBvtHtymX-EOimlQHn0N6tTDGtV75HN21orfgDSjyKHMeIdkYmI8mM02nMoYJR9NJ4cB9MH51fmdR-zRq4KgQoZOnrdTjJRIQAM1OiJnxsdgmYerwOeJBwRoUXPg3F5ftpG9KBbpJJkrUa39rd4A",
+            "width" : 1024
+         }
+      ],
+      "place_id" : "ChIJYX3kZ6YNjjkRNs1jCFZ7LMg",
+      "reference" : "CmRgAAAAUE7s2BJp1bnYlhoVFw6r-4o5t-X0CWImZzBfTCseiTXHEfpo0lEdxTKZdI8F5D3t6zu2dAesurqgl9iaIp5iM9diHETZbvSDPPMyWUoDeTeodiDluwWCfXZ3tOYa2_Q8EhBf3ZsBSOfex_Vq0b6GHBSPGhTcfFS-7MTXPp_1aS6aZd3b0CCOUQ",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/114862905502941651240/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "A1, Madhura"
+   },
+   "status" : "OK"
+}

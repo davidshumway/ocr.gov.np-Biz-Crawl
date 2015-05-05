@@ -1,0 +1,152 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Shop No. 7",
+            "short_name" : "Shop No. 7",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "2-B",
+            "short_name" : "2-B",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Gyan Prakash Road",
+            "short_name" : "Gyan Prakash Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Industrial Area",
+            "short_name" : "Industrial Area",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Dada Nagar",
+            "short_name" : "Dada Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208022",
+            "short_name" : "208022",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Shop No. 7, \u003cspan class=\"street-address\"\u003e2-B, Gyan Prakash Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eIndustrial Area, Dada Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208022\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Shop No. 7, 2-B, Gyan Prakash Road, Industrial Area, Dada Nagar, Kanpur, Uttar Pradesh 208022, India",
+      "formatted_phone_number" : "093075 01309",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.454521,
+            "lng" : 80.28251299999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "3dea377dd9395ac832c6f0dd1a36f8d27067585d",
+      "international_phone_number" : "+91 93075 01309",
+      "name" : "Pahlad Rai Agency",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:30 pm",
+            "Tuesday: 10:00 am – 8:30 pm",
+            "Wednesday: 10:00 am – 8:30 pm",
+            "Thursday: 10:00 am – 8:30 pm",
+            "Friday: 10:00 am – 8:30 pm",
+            "Saturday: 10:00 am – 8:30 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJk1XmXvtHnDkRvtbs9l7yIW4",
+      "reference" : "CnRkAAAAK176lLpirQRTRNiiwkCIVVFnhRnCtaw-qOug8CYiTPZoJgFD2hJXJRfsI4H6bG3vrfJKbvgr57p9MfKfvCEXYihVEh269pDqr1TuIPiO-2SflBnSyTMIXodiTZvjr4hk82g5AC9sdGs_-F2qpkqP8BIQqTm4lUhnSGpsKueJFy7kHBoU5Ho-5ub2eBKPhF4PajUBW2vdEFM",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/114279072295949877603/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Shop No. 7, 2-B, Gyan Prakash Road, Industrial Area, Dada Nagar, Kanpur"
+   },
+   "status" : "OK"
+}

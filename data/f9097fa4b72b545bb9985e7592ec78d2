@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "204省道",
+            "short_name" : "204省道",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Yadong",
+            "short_name" : "Yadong",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Xigaze",
+            "short_name" : "Xigaze",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Tibet",
+            "short_name" : "Tibet",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "China",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003eChina\u003c/span\u003e, \u003cspan class=\"region\"\u003eTibet\u003c/span\u003e, \u003cspan class=\"locality\"\u003eXigaze\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eYadong\u003c/span\u003e, \u003cspan class=\"street-address\"\u003e204省道\u003c/span\u003e",
+      "formatted_address" : "China, Tibet, Xigaze, Yadong, 204省道",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.486582,
+            "lng" : 88.909609
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "9023ba7286746081f76977204a23d1829ab84a09",
+      "name" : "Chuannan Automobile Repair Factory",
+      "place_id" : "ChIJPaHGMvtI4TkRMiz_UmNPmvs",
+      "reference" : "CoQBdgAAAIQhjOZhGcXKpkTvl4UHW8dYP0SfUTm6jAQ0_UnyvEYJ1zed90c9b4tBEQtkRg4fFiVloy8NLXvXHwDVnAHbCloW-I0hKjXaU34yFR-FmmlFcbn-uPjcDj7PE_bGDyecvFTR82IVZ1rx7aq_cL9xgSuFFiOLyX7KJBoq5nAqOH4kEhAIwbbxm1rf8w7F-z8xb9lYGhS9P3a_lmmgvgrP9tJXwOzYRaJqog",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/100013754344702473802/about?hl=en-US",
+      "utc_offset" : 480,
+      "vicinity" : "204省道, Yadong, Xigaze"
+   },
+   "status" : "OK"
+}

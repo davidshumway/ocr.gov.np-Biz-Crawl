@@ -1,0 +1,73 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "National Highway 7",
+            "short_name" : "NH7",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Sahaspura",
+            "short_name" : "Sahaspura",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Mirzapur",
+            "short_name" : "Mirzapur",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "231305",
+            "short_name" : "231305",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNational Highway 7\u003c/span\u003e, \u003cspan class=\"locality\"\u003eSahaspura\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e231305\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "National Highway 7, Sahaspura, Uttar Pradesh 231305, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.169834,
+            "lng" : 82.96501600000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "55a6e674ded29537a282f7a5f7b6f6076b08a6ab",
+      "name" : "Tile Kiln",
+      "place_id" : "ChIJawF1H0w0jjkRXm8e5TvC3Hg",
+      "reference" : "CmRcAAAAjay-yG3WQS27AKL0ayv_03hnwj7KFKL8h2CDS6R8QfsMaLKm-C-0UK9oyabpKPl4tRQHUKLB1owiv1IFV8n7wJT1gFm5e-JcSwY3cB56nFIC4epuVN61u5p3lms94cKMEhBWpSb-wJoVGyL0Z3YK24tLGhTlUitEZnb0r70Ictg3wrgs8SmfuQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "rahul singh",
+            "author_url" : "https://plus.google.com/110494929306996447216",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "IT is not faster..",
+            "time" : 1377443922
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/111779028170604680215/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "National Highway 7, Sahaspura"
+   },
+   "status" : "OK"
+}

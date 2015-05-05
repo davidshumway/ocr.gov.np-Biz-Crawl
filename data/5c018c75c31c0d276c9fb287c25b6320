@@ -1,0 +1,147 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Guru Nanak Road",
+            "short_name" : "Guru Nanak Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Kamchchha",
+            "short_name" : "Kamchchha",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Bhelupur",
+            "short_name" : "Bhelupur",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Varanasi",
+            "short_name" : "Varanasi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Varanasi",
+            "short_name" : "Varanasi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "221010",
+            "short_name" : "221010",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eGuru Nanak Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eKamchchha, Bhelupur\u003c/span\u003e, \u003cspan class=\"locality\"\u003eVaranasi\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e221010\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Guru Nanak Road, Kamchchha, Bhelupur, Varanasi, Uttar Pradesh 221010, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.306824,
+            "lng" : 82.99151999999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "153d61307458e34bc6a19b37d1502dbb5834574f",
+      "name" : "L.G. Mobile Service Centre",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 11:00 am – 6:00 pm",
+            "Tuesday: 11:00 am – 6:00 pm",
+            "Wednesday: 11:00 am – 6:00 pm",
+            "Thursday: 11:00 am – 6:00 pm",
+            "Friday: 11:00 am – 6:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJmxCQdQAyjjkR2uN8CkCOiZA",
+      "reference" : "CnRuAAAAHkLkipee8LJMG8_VJHENcux53KlOrnNBEnQieYucM0tyQVZ_R8cZVmrBp1Py1TfFX1AyiIFt5keNdECp70xvh3CsIpn7MBs3LXbbjkfX4RE-ZrgbD74pP_7K4Xr4KTz87LNjuMPT6LphBwcXJSRdaxIQVfeIgXua_UcsJyt_w5_emhoU9Q7fbS5Dih1ul1p8o9_W6c09YGc",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "anupamkumar chaudhari",
+            "author_url" : "https://plus.google.com/103965699346482233508",
+            "language" : "en",
+            "rating" : 1,
+            "text" : "",
+            "time" : 1407141323
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/109852790491359260508/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Guru Nanak Road, Kamchchha, Bhelupur, Varanasi"
+   },
+   "status" : "OK"
+}

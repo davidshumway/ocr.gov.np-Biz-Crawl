@@ -1,0 +1,78 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700071",
+            "short_name" : "700071",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "5, Mangoe Lane, \u003cspan class=\"street-address\"\u003eMangoe Lane\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700071\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "5, Mangoe Lane, Mangoe Lane, Kolkata, West Bengal 700071, India",
+      "formatted_phone_number" : "033 2220 1254",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.5726,
+            "lng" : 88.3639
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "e561a27331a44e3d62df7eec19d493224dfea922",
+      "international_phone_number" : "+91 33 2220 1254",
+      "name" : "Calcutta Radiators Corporation",
+      "place_id" : "ChIJe6yzIVN2AjoRd9tGvSavkto",
+      "reference" : "CoQBcgAAAN6Y3i6rXwLMsyTxxZuTRCSKrdSB9dIk1V_3zD6sjZPtK_9KBRLCh4IoVWWZrrEPg9HDmdO7leb2Flyo73SNznpe3EM1K5VhGB5miIqYBPEoiOK2loQqmZQF4Xate6LJrCbmc42ODgW57s9OHlxnPX-EunC98cPKTTXe6sKk1rCjEhBHQpTUqbhOmC6-ZrIzp8x4GhSLQB56jVVvbut9zdbhhJx1oXhIzg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "i go sealdah every day for my work .....i want to meet with u for this purpose",
+            "time" : 1256584209
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1290827316
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/115248483476330187081/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "5, Mangoe Lane, Mangoe Lane, Kolkata"
+   },
+   "status" : "OK"
+}

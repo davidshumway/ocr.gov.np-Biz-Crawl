@@ -1,0 +1,73 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "State Highway 11",
+            "short_name" : "SH 11",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Badkulla",
+            "short_name" : "Badkulla",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Nadia",
+            "short_name" : "Nadia",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "741121",
+            "short_name" : "741121",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eState Highway 11\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBadkulla\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e741121\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "State Highway 11, Badkulla, West Bengal 741121, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 23.302106,
+            "lng" : 88.530846
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "8c7855cacf769c5b3e4a085daecbef8e50153743",
+      "name" : "Ghosh Hardware",
+      "place_id" : "ChIJF6vaEJPe-DkRFSKTwT58ydc",
+      "reference" : "CnRiAAAAF42jIN-t_A5Yh3wr_VJsrrhBbn1f7og4OeWIHQ7fv-AamzmOoGsPk549Cyho68OMlwxrCeOuWLMdSM80REsPpFQj64kAAe0UXR8Anni7T-LYtkzQdt13ZWrBhN8YR8omcr9ls35DyZ5HbPWwuaHPVxIQASdmAu3i57N4n8i66sFHcBoUuY94XrHSKtjO8HSA9zSzrHuuJ9M",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "debjit ghosh",
+            "author_url" : "https://plus.google.com/118068236896690329624",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Good ",
+            "time" : 1424153870
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/102605992487789034712/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "State Highway 11, Badkulla"
+   },
+   "status" : "OK"
+}

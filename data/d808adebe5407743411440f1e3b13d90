@@ -1,0 +1,72 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Majhira",
+            "short_name" : "Majhira",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bogra",
+            "short_name" : "Bogra",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Rajshahi Division",
+            "short_name" : "Rajshahi Division",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Bangladesh",
+            "short_name" : "BD",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eMajhira\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eBangladesh\u003c/span\u003e",
+      "formatted_address" : "Majhira, Bangladesh",
+      "geometry" : {
+         "location" : {
+            "lat" : 24.767196,
+            "lng" : 89.382544
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "1d1019ad43bd5babf6109874f9776b11bc796a77",
+      "name" : "Bogra Golf Course",
+      "place_id" : "ChIJ-8siyiNT_DkR43cLZXO-WoY",
+      "reference" : "CnRlAAAAgp8IRCGNRDdgEybrReIHEuW-w1alWpAkvnvoFIkUwHkJthrTVySH9_NLuCZmVd6wucFMwU9pd99_jsnx7HoSLFzh0eNfCrEhnVAMbpX9T-HSvg_j3pQTvAeD5mnMuUXLa0Z0wcJUlTQiK1bgNXryuhIQu2oOzQqkoD1tphFFMlJDIhoUViGFw0pESXvSPZ0FKavUrpzi9gk",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "facilities"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "jakaria habib",
+            "author_url" : "https://plus.google.com/111157946176626780633",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1376504827
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/100992660594451427969/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 360,
+      "vicinity" : "Majhira",
+      "website" : "http://www.bdgolf.net/home/7-bogra-golf-club"
+   },
+   "status" : "OK"
+}

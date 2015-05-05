@@ -1,0 +1,227 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "10/1",
+            "short_name" : "10/1",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "Mahatma Gandhi Road",
+            "short_name" : "Mahatma Gandhi Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Haridevpur",
+            "short_name" : "Haridevpur",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Paschim Putiary",
+            "short_name" : "Paschim Putiary",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700082",
+            "short_name" : "700082",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "10/1, \u003cspan class=\"street-address\"\u003eMahatma Gandhi Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eHaridevpur, Paschim Putiary\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700082\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "10/1, Mahatma Gandhi Road, Haridevpur, Paschim Putiary, Kolkata, West Bengal 700082, India",
+      "formatted_phone_number" : "098364 56112",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.474256,
+            "lng" : 88.339398
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "c9bb1c92ce237db7ae55c93044c007be076a8c7f",
+      "international_phone_number" : "+91 98364 56112",
+      "name" : "Das And Sons",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2130"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2130"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2130"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2130"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2130"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2130"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2130"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1700"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 6:00 am – 2:00 pm, 5:00 – 9:30 pm",
+            "Tuesday: 6:00 am – 2:00 pm, 5:00 – 9:30 pm",
+            "Wednesday: 6:00 am – 2:00 pm, 5:00 – 9:30 pm",
+            "Thursday: 6:00 am – 2:00 pm, 5:00 – 9:30 pm",
+            "Friday: 6:00 am – 2:00 pm, 5:00 – 9:30 pm",
+            "Saturday: 6:00 am – 2:00 pm, 5:00 – 9:30 pm",
+            "Sunday: 6:00 am – 2:00 pm, 5:00 – 9:30 pm"
+         ]
+      },
+      "place_id" : "ChIJOZkG9otwAjoRqbX6KL0Cu_g",
+      "reference" : "CmRgAAAAGK8-Za8Dq8M8iTR8_pIxo7gQH6nu85t6XhhHBmaML5iwLuek-O7qwvwVpVpuLpTHxfcj93awzydYFdKObQA3zYFUFP8G8gZkWXAcjDe97-Sa807ItgJtTUws9Bfonwu3EhCiYd-2AAQJgdECegV9DifgGhSbpwoLki0IJo1rnmrAR0iRSW73nw",
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/112785637821203196431/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "10/1, Mahatma Gandhi Road, Haridevpur, Paschim Putiary, Kolkata"
+   },
+   "status" : "OK"
+}

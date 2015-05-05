@@ -1,0 +1,130 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Kharagpur",
+            "short_name" : "KGP",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "721302",
+            "short_name" : "721302",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "O.T.Road, \u003cspan class=\"street-address\"\u003eGround Floor, Agarwal Estate, Below Allahbad Bank\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKharagpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e721302\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "O.T.Road, Ground Floor, Agarwal Estate, Below Allahbad Bank, Kharagpur, West Bengal 721302, India",
+      "formatted_phone_number" : "03222 227 343",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.314544,
+            "lng" : 87.309068
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "8b07e17ecb225c80df7ff599699e126a3002a04f",
+      "international_phone_number" : "+91 3222 227 343",
+      "name" : "HDFC Life",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 6:00 pm",
+            "Tuesday: 9:00 am – 6:00 pm",
+            "Wednesday: 9:00 am – 6:00 pm",
+            "Thursday: 9:00 am – 6:00 pm",
+            "Friday: 9:00 am – 6:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJAQAAAANEHToRxmgEd7R0QL4",
+      "reference" : "CmRdAAAAKxjmp3dyioxPZWjUDz3-rjmIGQYSs3mU66__AtyzUTsU87gL2pYOAPYOkTlo9W1YTtQzXylUcYpC4I0r1hlTB8X8cOZHd6s9DmEjG8OpOUW1ySwOwZuNnGkxEBVLDG6GEhDU-AdGwKXh6Y1aPVmb9dOFGhQ0SRkInh0qSGr2sPKtyp3opIntFw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Mohammad Sadiq",
+            "author_url" : "https://plus.google.com/111381563655902078224",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "may be improved further",
+            "time" : 1388807981
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "insurance_agency", "finance", "establishment" ],
+      "url" : "https://plus.google.com/106134203506850787753/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "O.T.Road, Ground Floor, Agarwal Estate, Below Allahbad Bank, Kharagpur",
+      "website" : "http://www.hdfclife.com/"
+   },
+   "status" : "OK"
+}

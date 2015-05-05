@@ -1,0 +1,126 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "State Highway 42",
+            "short_name" : "SH 42",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Gursaray",
+            "short_name" : "Gursaray",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Jhansi",
+            "short_name" : "Jhansi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eState Highway 42\u003c/span\u003e, \u003cspan class=\"locality\"\u003eGursaray\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "State Highway 42, Gursaray, Uttar Pradesh, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.616105,
+            "lng" : 79.176289
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "21925bffdc205ae5a32f519454da39c91b929268",
+      "name" : "Post Office",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0930"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:30 am – 5:00 pm",
+            "Tuesday: 9:30 am – 5:00 pm",
+            "Wednesday: 9:30 am – 5:00 pm",
+            "Thursday: 9:30 am – 5:00 pm",
+            "Friday: 9:30 am – 5:00 pm",
+            "Saturday: 9:30 am – 5:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJZSDQMD7odzkR99DdhKwKLto",
+      "reference" : "CmRfAAAAQdRDxZGFMM7umO1HVkmwmssvohpEOq2XAHJ3jdj2fizZ1NRRhlH02oWBIOqKmSRxmsDDzTS45H5-UxUidhVh3SmvHDsfXijekSfSgIwnLAYuq-rgOQS4pr-uSn0WGJEvEhC-5KasniO-WK8_czWhm9EGGhQ3oaKTjINz9V5qFlmTmWY5tl7h3A",
+      "scope" : "GOOGLE",
+      "types" : [ "post_office", "finance", "establishment" ],
+      "url" : "https://plus.google.com/102155454504552855127/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "State Highway 42, Gursaray",
+      "website" : "http://www.indiapost.gov.in/"
+   },
+   "status" : "OK"
+}

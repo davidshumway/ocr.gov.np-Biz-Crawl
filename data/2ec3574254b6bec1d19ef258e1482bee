@@ -1,0 +1,121 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Bolpur",
+            "short_name" : "Bolpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Birbhum",
+            "short_name" : "Birbhum",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "731204",
+            "short_name" : "731204",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eBolpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e731204\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Bolpur, West Bengal 731204, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 23.680962,
+            "lng" : 87.692002
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "15354b1e99a78e34674c544fc87cc83af92647b0",
+      "name" : "Transport office",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 5:00 pm",
+            "Tuesday: 10:00 am – 5:00 pm",
+            "Wednesday: 10:00 am – 5:00 pm",
+            "Thursday: 10:00 am – 5:00 pm",
+            "Friday: 10:00 am – 5:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJFaV3ss7c-TkR0edpYYrFXOM",
+      "reference" : "CnRkAAAA734ejZCcUpdrneoWvrIJHv3D4HQ9lwIlibOlqozrW7PzY_F5ZrvlWT_n38WeBxyGC-ueGyY0YjjLAo244fdmAhwKtIoLzaFSDeuTPjS0PQXiks0j3QXIsMSG_gKgj7z4xNlomhyQDi9E9AUD63S2WxIQxeUVnc-geIMPe6ywbEfarhoUaDHj3B05l2aBbT9fSQLAigO8Crs",
+      "scope" : "GOOGLE",
+      "types" : [
+         "furniture_store",
+         "general_contractor",
+         "home_goods_store",
+         "store",
+         "establishment"
+      ],
+      "url" : "https://plus.google.com/114719498623929700227/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Bolpur"
+   },
+   "status" : "OK"
+}

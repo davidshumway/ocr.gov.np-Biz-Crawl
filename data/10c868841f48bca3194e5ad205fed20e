@@ -1,0 +1,147 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Gwalior Road",
+            "short_name" : "Gwalior Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Sewla Sari",
+            "short_name" : "Sewla Sari",
+            "types" : [ "sublocality_level_3", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Taal Semri",
+            "short_name" : "Taal Semri",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Gopal Pura",
+            "short_name" : "Gopal Pura",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Agra",
+            "short_name" : "Agra",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Agra",
+            "short_name" : "Agra",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "282001",
+            "short_name" : "282001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eGwalior Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSewla Sari, Taal Semri, Gopal Pura\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAgra\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e282001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Gwalior Road, Sewla Sari, Taal Semri, Gopal Pura, Agra, Uttar Pradesh 282001, India",
+      "formatted_phone_number" : "094128 10133",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.122117,
+            "lng" : 78.003604
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "f8df1f5fafea75ebe8b6ec7a206e1cb0c44d0453",
+      "international_phone_number" : "+91 94128 10133",
+      "name" : "Govind Tyres",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: Closed",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: 10:00 am – 8:00 pm"
+         ]
+      },
+      "place_id" : "ChIJEzBuFBx0dDkRFtlomVSM0V4",
+      "reference" : "CmRfAAAA9nWA8SHpD6gNooY0f-TPpL1xlDx0qZAYp1KpE85-zsQdX8R_OePnMvaoDXkR6U-uddf4_PbQWwMn4Vd-lnBRnp6WhO-6UUtVlswrQFKB8pRG3PRz-OsDCZ9xHnN_JJ5cEhADhNIaW4teXxukl5w89yirGhTWJxgHMxsiAGA8cT-Svi88c01ofw",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/110004912752518522719/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Gwalior Road, Sewla Sari, Taal Semri, Gopal Pura, Agra"
+   },
+   "status" : "OK"
+}

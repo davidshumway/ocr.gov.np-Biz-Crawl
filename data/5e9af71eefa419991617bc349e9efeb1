@@ -1,0 +1,63 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Main Rd",
+            "short_name" : "Main Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Rajeev Nagar",
+            "short_name" : "Rajeev Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Patna",
+            "short_name" : "Patna",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Patna",
+            "short_name" : "Patna",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "800024",
+            "short_name" : "800024",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eMain Rd\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eRajeev Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003ePatna\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e800024\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Main Rd, Rajeev Nagar, Patna, Bihar 800024, India",
+      "formatted_phone_number" : "098352 65682",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.632103,
+            "lng" : 85.09323000000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "9bacfbfecefe45807081a339ceaf3c1d1fd56013",
+      "international_phone_number" : "+91 98352 65682",
+      "name" : "Aditya Enterprises",
+      "place_id" : "ChIJLXTf43ZX7TkRbDUUbn9L4RU",
+      "reference" : "CnRlAAAAb3tue-7fCUlQB4JmMSC-q72XgFkl9QenqX8W9zKxbo_icWdd4YboQYaIqG5DtQHley4jT0BA9DkX6l-OgnvewfUzM3lcxtlyl2NmerbvJklxb8qBbvBq2-rd58nzb55OVLeGo9clpE1Kz64T7EvMFhIQk4I_VSw3j-F8fTLJRiKfmRoUWJekRKwJbUMbR_Z8HqY32jvjAM0",
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/111905203228409399139/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Main Rd, Rajeev Nagar, Patna"
+   },
+   "status" : "OK"
+}

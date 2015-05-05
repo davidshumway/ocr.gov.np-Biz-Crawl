@@ -1,0 +1,139 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Dinu Lane",
+            "short_name" : "Dinu Ln",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Kadam Tala",
+            "short_name" : "Kadam Tala",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Howrah",
+            "short_name" : "Howrah",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Howrah",
+            "short_name" : "Howrah",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "711101",
+            "short_name" : "711101",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eDinu Lane\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eKadam Tala\u003c/span\u003e, \u003cspan class=\"locality\"\u003eHowrah\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e711101\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Dinu Lane, Kadam Tala, Howrah, West Bengal 711101, India",
+      "formatted_phone_number" : "098301 26408",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.590823,
+            "lng" : 88.322219
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "a3e20ac50c798543cb05819e243cc2f653930152",
+      "international_phone_number" : "+91 98301 26408",
+      "name" : "DECOfurn",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 7:00 pm",
+            "Tuesday: 10:00 am – 7:00 pm",
+            "Wednesday: 10:00 am – 7:00 pm",
+            "Thursday: 10:00 am – 7:00 pm",
+            "Friday: 10:00 am – 7:00 pm",
+            "Saturday: 10:00 am – 4:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJvzW3DAZ6AjoR6q3DAH4ml1Y",
+      "reference" : "CmRbAAAAuXxwODy3wU2w43OS249suBlom3bseHL6nDZ1PJ7z8xPxpPEC83U69RiofgksGodVIOqg7ECuUTnujwq7oLw0bDoc-3xMV5H5PgOt4rDMc73SxbsRUvb_36AcI4lVXapqEhB4y_CZelAyOoCnZOWnVQnXGhTGWJnm8maVoycimBCC340JS3wjMw",
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/118192947954916093174/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Dinu Lane, Kadam Tala, Howrah"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,148 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "127",
+            "short_name" : "127",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Bakul Bagan Road",
+            "short_name" : "Bakul Bagan Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Paddapukur",
+            "short_name" : "Paddapukur",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Bhowanipore",
+            "short_name" : "Bhowanipore",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700025",
+            "short_name" : "700025",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e127, Bakul Bagan Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003ePaddapukur, Bhowanipore\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700025\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "127, Bakul Bagan Road, Paddapukur, Bhowanipore, Kolkata, West Bengal 700025, India",
+      "formatted_phone_number" : "033 2454 4354",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.528626,
+            "lng" : 88.35086200000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "01f1ffb326866987e3dc3a8802ed636412b89b7c",
+      "international_phone_number" : "+91 33 2454 4354",
+      "name" : "Service Point",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0930"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:30 am – 6:30 pm",
+            "Tuesday: 9:30 am – 6:30 pm",
+            "Wednesday: 9:30 am – 6:30 pm",
+            "Thursday: 9:30 am – 6:30 pm",
+            "Friday: 9:30 am – 6:30 pm",
+            "Saturday: 9:30 am – 6:30 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJQ7mAiDp3AjoRoPEVPcj-C3g",
+      "reference" : "CmRgAAAAFWPdsCJfjJCe5KLxYLCRzD84IY9ZNLpm57M8yrGSu_AqhPUlMTeMg86GFco4gN9tB1DX71Niinv7eTpsDvcQzk1U0ZMpKiZ0855wusjWBGZE28HgLtEiD-ezDXJ37Xz3EhAkaaMKZQo2ajhK5xPp71mjGhRzQkJ6O3UGMfOqa2tBl64HnhqSMA",
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/105328551540263723486/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "127, Bakul Bagan Road, Paddapukur, Bhowanipore, Kolkata",
+      "website" : "http://www.panasonic.com"
+   },
+   "status" : "OK"
+}

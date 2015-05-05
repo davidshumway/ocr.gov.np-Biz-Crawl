@@ -1,0 +1,89 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Benali Road",
+            "short_name" : "Benali Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bagula",
+            "short_name" : "Bagula",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Nadia",
+            "short_name" : "Nadia",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "741502",
+            "short_name" : "741502",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eBenali Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBagula\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e741502\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Benali Road, Bagula, West Bengal 741502, India",
+      "formatted_phone_number" : "1800 22 3344",
+      "geometry" : {
+         "location" : {
+            "lat" : 23.343009,
+            "lng" : 88.646732
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "83eb6c2ad59ec646798deb976f80c9691fff1d25",
+      "international_phone_number" : "+91 1800 22 3344",
+      "name" : "Bank Of Baroda",
+      "place_id" : "ChIJB4O26JDX-DkRAe85y-hxAUo",
+      "reference" : "CnRhAAAA-iiuvIjPF2RlOOxZeyX0NoR57kTL2w34VcSZJWFOhVzuwpLWizcrDelpMOepcJXxx2f0-O8wmAGmtK_x80eFBHcF58pOqIjbe-UC8aRETruXfS4o4KaYJaMvjqbPTfo7VVOa6GLc3k3NaR0NOZ-hJBIQJOp65NPOorzJVGAd0COoNxoUsWJGRLTxcKgDR9rQL-UXjIUa3ag",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "subhendu bala",
+            "author_url" : "https://plus.google.com/109336902887591333251",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1341293433
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Mithun Biswas",
+            "author_url" : "https://plus.google.com/109053244131375243583",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1313682850
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "bank", "finance", "establishment" ],
+      "url" : "https://plus.google.com/114399301802352292257/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "Benali Road, Bagula",
+      "website" : "http://www.bankofbaroda.com"
+   },
+   "status" : "OK"
+}

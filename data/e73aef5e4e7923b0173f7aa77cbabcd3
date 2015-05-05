@@ -1,0 +1,65 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "32, Ezra Street, Poddar Court",
+            "short_name" : "32, Ezra Street, Poddar Court",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Barabazar Market",
+            "short_name" : "Barabazar Market",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700001",
+            "short_name" : "700001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e32, Ezra Street, Poddar Court\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBarabazar Market\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "32, Ezra Street, Poddar Court, Barabazar Market, Kolkata, West Bengal 700001, India",
+      "formatted_phone_number" : "033 2235 4019",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.574971,
+            "lng" : 88.35311299999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "60e21ca26dce015ae692508bb01f884846593a71",
+      "international_phone_number" : "+91 33 2235 4019",
+      "name" : "Kaycee Commercial Co.",
+      "place_id" : "ChIJAxJuWKV3AjoRBtcvO5uBm8M",
+      "reference" : "CnRpAAAASx9j_2dGSRGZKE-Geq8qyxFURSfq4fE3p0xl0NokDSo6KwX0gbeqwFDO3Vwj7kdrF_y9W27BY8FMZJuKTXlQSY_Q9Lp6ihBj_TRyXd8K-XD6UYhQyOfHX4iw7g0lNNYjrD5Jo3mi5veqQrsoXVxuHhIQjpESytyP9pGf6spmMUN0bhoU7kGfqGOEJH7CSP9un0BWQO2S3dU",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "establishment" ],
+      "url" : "https://plus.google.com/107010615570629480069/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "32, Ezra Street, Poddar Court, Barabazar Market, Kolkata"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,95 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Road Number 1",
+            "short_name" : "Rd Number 1",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Judges Colony",
+            "short_name" : "Judges Colony",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Gaya",
+            "short_name" : "Gaya",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Gaya",
+            "short_name" : "Gaya",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "823001",
+            "short_name" : "823001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eRoad Number 1\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eJudges Colony\u003c/span\u003e, \u003cspan class=\"locality\"\u003eGaya\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e823001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Road Number 1, Judges Colony, Gaya, Bihar 823001, India",
+      "formatted_phone_number" : "1800 103 0123",
+      "geometry" : {
+         "location" : {
+            "lat" : 24.790048,
+            "lng" : 84.99317499999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "a6b8a15251b8a932fa3beeb6cccf0f55445888d0",
+      "international_phone_number" : "+91 1800 103 0123",
+      "name" : "UCO Bank",
+      "place_id" : "ChIJoRaKu0Qq8zkRrnThTv7SZwc",
+      "reference" : "CmRbAAAAb9-kQ9OGmDVlDPruAWUmiYEgLrBaiQgahnnjl0thVNAGll1nowZ1EcrC2hkPdoul4ZbqCSXcQSf9fTJd8gx-xQC9Md18jZuMGWx_rctlrTJnTv41XquFS7RROwRyRJ9LEhCgIdrT0oWZUjJ80uPoH9sLGhTHO7iP9JXocZg2cjxoCzMzqhP8LQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Vikash Kumar",
+            "author_url" : "https://plus.google.com/113793161257892108247",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1416489834
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "kamran quamar",
+            "author_url" : "https://plus.google.com/104968460196604235257",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1412937735
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "bank", "finance", "establishment" ],
+      "url" : "https://plus.google.com/114665693595768893487/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "Road Number 1, Judges Colony, Gaya",
+      "website" : "https://www.ucobank.com/"
+   },
+   "status" : "OK"
+}

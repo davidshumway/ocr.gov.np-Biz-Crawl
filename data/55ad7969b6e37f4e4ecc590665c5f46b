@@ -1,0 +1,87 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Hooghly",
+            "short_name" : "Hooghly",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "712708",
+            "short_name" : "712708",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Hooghly, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e712708\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Hooghly, West Bengal 712708, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.684269,
+            "lng" : 88.275094
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "d80fc453d22b79ab834c707df895bbcc0f406ef8",
+      "name" : "Hero Honda Service Station",
+      "photos" : [
+         {
+            "height" : 480,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/104006326076464711427\"\u003eSubankar Bhadra\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBfgAAAIq_UNh9f8cvGmMUObqTjD6LtFDsBGYaV-dpS7p9cgz7C3s8PqlVJly7gIKcV1sc8DFmMQMd3etMmVksEjQ9pKLx8bAlnFaqgENIW46uDL-bpkDKaO7EmcySuUO0cthDt2YsgxtGt0TfIr_qF4KPnFUgW8JpI99DB5Q0Y6SeBsLfEhAHl8F2--mClZZX_2qNlgK4GhSyuXupUM92vNFrztXXRhKfMp8zPg",
+            "width" : 640
+         }
+      ],
+      "place_id" : "ChIJMeTqiJeD-DkRyFXFYWfkv0o",
+      "reference" : "CnRtAAAA9YdIs444ImMeQow6ziYxOkfMfcEuh1Dkf7UkDMLFt6SrZaLDWVC2A_Vd8-Erk6fFIVXNtdyFF5tmSesifvADhw_qyjjj40-x11hFiZApZZZfstlDEzmKL3IO-bXQejW_hXJKTuQIU_JuPeU4lKh0NxIQAQdKrDQuXOcYqQ2F7tEeoBoUfh5MBFirIqc1Dc3yhkjtgs2Gaew",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Subankar Bhadra",
+            "author_url" : "https://plus.google.com/104006326076464711427",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Great",
+            "time" : 1413717699
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Abdul Rahaman",
+            "author_url" : "https://plus.google.com/103071541440564562183",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "",
+            "time" : 1421276666
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/112607202445512300729/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : ""
+   },
+   "status" : "OK"
+}

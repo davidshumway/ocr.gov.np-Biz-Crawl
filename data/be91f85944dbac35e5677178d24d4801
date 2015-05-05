@@ -1,0 +1,85 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Baradwari",
+            "short_name" : "Baradwari",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Jamshedpur",
+            "short_name" : "Jamshedpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "East Singhbhum",
+            "short_name" : "East Singhbhum",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Jharkhand",
+            "short_name" : "JH",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "831001",
+            "short_name" : "831001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"extended-address\"\u003eBaradwari\u003c/span\u003e, \u003cspan class=\"locality\"\u003eJamshedpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eJharkhand\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e831001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Baradwari, Jamshedpur, Jharkhand 831001, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.811364,
+            "lng" : 86.212514
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+      "id" : "d8a2525465ff2880e6c475f1883262a034f06f80",
+      "name" : "Court Building",
+      "place_id" : "ChIJGeZy7gDj9TkRBUQlxAT1bhQ",
+      "reference" : "CnRhAAAAieCuO1n8H7ZfwfGkyFBfNCBRkM_9r1Buww-pQgNLvWjCFcVnoXjeKdqAp9qidc-5wi1ytknKB0zXQ7pc5GaeeNbJ3-SI5LqTWoSmQAAGvI-w2Z8uqIcYz_KevEledszawP0IFpoXDU-ZOaZBrqOgzhIQNwKmYxUZVl1SJoqXOLNQzxoUfNuJnEFDkXOLuV-kowECeDoaVj8",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1337908503
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1343297401
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "courthouse", "local_government_office", "establishment" ],
+      "url" : "https://plus.google.com/112920857430227009407/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "Baradwari, Jamshedpur"
+   },
+   "status" : "OK"
+}

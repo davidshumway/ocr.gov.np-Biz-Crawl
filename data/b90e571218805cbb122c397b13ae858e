@@ -1,0 +1,164 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "239-A",
+            "short_name" : "239-A",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Bypass Road",
+            "short_name" : "Bypass Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Opp. Shree Talkies",
+            "short_name" : "Opp. Shree Talkies",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Indra Puri",
+            "short_name" : "Indra Puri",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New Agra",
+            "short_name" : "New Agra",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Agra",
+            "short_name" : "Agra",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Agra",
+            "short_name" : "Agra",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "282004",
+            "short_name" : "282004",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e239-A, Bypass Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eOpp. Shree Talkies, Indra Puri, New Agra\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAgra\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e282004\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "239-A, Bypass Road, Opp. Shree Talkies, Indra Puri, New Agra, Agra, Uttar Pradesh 282004, India",
+      "formatted_phone_number" : "094560 91309",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.20958,
+            "lng" : 78.00972899999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "fd54f1d4f39f9c57521146fe3f3d0c6658ed8209",
+      "international_phone_number" : "+91 94560 91309",
+      "name" : "Home Comforts",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 10:00 pm",
+            "Tuesday: 9:00 am – 10:00 pm",
+            "Wednesday: 9:00 am – 10:00 pm",
+            "Thursday: 9:00 am – 10:00 pm",
+            "Friday: 9:00 am – 10:00 pm",
+            "Saturday: 9:00 am – 10:00 pm",
+            "Sunday: 9:00 am – 10:00 pm"
+         ]
+      },
+      "place_id" : "ChIJrYDOHiZ3dDkRClf6lOI5_-s",
+      "reference" : "CnRhAAAARkvWCi4xrufDaZLbBGJKpnIOEFivc0VmND2iQBBsMYgVJVFvShRBjaAYAcPCCNwcCcCjpLJ3TC-bp0M2VrpNDa9-AcpJ6I7avWAf701gvo5u_vEAx1PJbSSWEpy_mwXsY12EMJ2PVtvvuZIgbbKlFxIQy1wD43P8qzPSqyphqSQqqRoUtsUdjzfbaToH1czrMhFoy3rzemI",
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/118404540940398873965/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "239-A, Bypass Road, Opp. Shree Talkies, Indra Puri, New Agra, Agra"
+   },
+   "status" : "OK"
+}

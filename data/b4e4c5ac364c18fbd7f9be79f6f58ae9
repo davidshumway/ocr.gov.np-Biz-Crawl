@@ -1,0 +1,110 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Dhaka - Dinajpur Highway",
+            "short_name" : "Dhaka - Dinajpur Hwy",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Dinajpur",
+            "short_name" : "Dinajpur",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Rangpur Division",
+            "short_name" : "Rangpur Division",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Bangladesh",
+            "short_name" : "BD",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eDhaka - Dinajpur Highway\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eBangladesh\u003c/span\u003e",
+      "formatted_address" : "Dhaka - Dinajpur Highway, Bangladesh",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.698183,
+            "lng" : 88.65506000000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+      "id" : "e969586f65e3012aa07e9e0b8b500b301f380009",
+      "name" : "HSTU Academic Building 01",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 am – 5:00 pm",
+            "Tuesday: 8:00 am – 5:00 pm",
+            "Wednesday: 8:00 am – 5:00 pm",
+            "Thursday: 8:00 am – 5:00 pm",
+            "Friday: Closed",
+            "Saturday: Closed",
+            "Sunday: 8:00 am – 5:00 pm"
+         ]
+      },
+      "place_id" : "ChIJV5uYfQut5DkRL2fT89mcqUU",
+      "reference" : "CnRsAAAAGRqY2F6TtFGnv0JVDC59YzwcruJLx15YzJr9vskJz0VYU_9yvLAoBLcXNQJyQRs5edIMUjMpaRu1UxKdhwbsGlg-WBiCJ11lZpnF0b3BQGaS_WseeCUnWdq42J_MzOf25YGiB_a7ZPyAqPCd_mL53xIQIO2CwblRKFL_5kMhDajVbRoUYGFsClUKff53z9nTiK7InSxNsaY",
+      "scope" : "GOOGLE",
+      "types" : [ "university", "establishment" ],
+      "url" : "https://plus.google.com/102931717670909250840/about?hl=en-US",
+      "utc_offset" : 360,
+      "vicinity" : "Dhaka - Dinajpur Highway"
+   },
+   "status" : "OK"
+}

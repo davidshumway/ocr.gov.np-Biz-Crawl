@@ -1,0 +1,67 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Patna",
+            "short_name" : "Patna",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "800003",
+            "short_name" : "800003",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "P O Kadamkuna, Nala Road, \u003cspan class=\"street-address\"\u003eNala Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003ePatna\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e800003\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "P O Kadamkuna, Nala Road, Nala Road, Patna, Bihar 800003, India",
+      "formatted_phone_number" : "0612 272 1792",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.61131,
+            "lng" : 85.15684400000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "e60b131aac79b22e488d2ce04005316b92edbdfc",
+      "international_phone_number" : "+91 612 272 1792",
+      "name" : "The Bihar Royal Nursery",
+      "place_id" : "ChIJYzmqz_NY7TkRUoaNSek2RTc",
+      "reference" : "CnRqAAAAOnCbafkEc-orThCMgTE8sec4KkBqKs_kvFdky5L0s8RTcOoAu-JHAmnX9_c3gwcPkvivc-Ig6absijHeqx6tOT-e7u6E6jxSIXEmm7yIzue4aE7qsgXo92Eafl3u_kuFFTJzzbb6EICMzwb9rIqs-RIQmuex-2hwGx6zoHO769de9BoUOMJ5EtZXk4NGMD5X6a8VqaIhWYE",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Nidhi Prasad",
+            "author_url" : "https://plus.google.com/105238524004417630158",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Its one of the best nursery in Patna . Best quality seeds\n",
+            "time" : 1345217790
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/107133639019012470506/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "P O Kadamkuna, Nala Road, Nala Road, Patna"
+   },
+   "status" : "OK"
+}

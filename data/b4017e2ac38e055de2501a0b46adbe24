@@ -1,0 +1,129 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Ballia",
+            "short_name" : "Ballia",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "277001",
+            "short_name" : "277001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "CHOWK, STATION ROAD, \u003cspan class=\"locality\"\u003eBallia\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e277001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "CHOWK, STATION ROAD, Ballia, Uttar Pradesh 277001, India",
+      "formatted_phone_number" : "05498 220 547",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.757045,
+            "lng" : 84.14988099999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+      "id" : "2eed0d57669c6a19b53cace323e99cecdfab7d83",
+      "international_phone_number" : "+91 5498 220 547",
+      "name" : "MURARI STORES",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "0800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0945"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "0800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0945"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "0800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0945"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "0800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0945"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "0800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0945"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "0800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0945"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:45 am – 8:00 am",
+            "Tuesday: 9:45 am – 8:00 am",
+            "Wednesday: 9:45 am – 8:00 am",
+            "Thursday: 9:45 am – 8:00 am",
+            "Friday: 9:45 am – 8:00 am",
+            "Saturday: 9:45 am – 8:00 am",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJgwzcwd1kkjkRuZoxLWyf42Q",
+      "reference" : "CmRgAAAA0ra4ZyBmOsvTFsUfOwL5AAg6IB9FnBvqqr1RKWHSuJU7pM7DF4pyusv9xDskbssICvV6u6xKgjXs7w6DRX4UoQU9fFdnfNu1YiRv6gA-y9eTula1SA3EOcpLd41mCvdNEhCIlvlbfxzwmXJOc06rGdiNGhQXPEq32cr1JrYJjW1EafXW4G_8mw",
+      "scope" : "GOOGLE",
+      "types" : [
+         "electronics_store",
+         "furniture_store",
+         "general_contractor",
+         "home_goods_store",
+         "store",
+         "establishment"
+      ],
+      "url" : "https://plus.google.com/109679118011699499699/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "CHOWK, STATION ROAD, Ballia"
+   },
+   "status" : "OK"
+}

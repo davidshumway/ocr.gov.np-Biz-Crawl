@@ -1,0 +1,123 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "CH Paul Road",
+            "short_name" : "CH Paul Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Boro Bazar",
+            "short_name" : "Boro Bazar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Dhuburi",
+            "short_name" : "Dhuburi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Dhubri",
+            "short_name" : "Dhubri",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Assam",
+            "short_name" : "AS",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eCH Paul Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBoro Bazar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eDhuburi\u003c/span\u003e, \u003cspan class=\"region\"\u003eAssam\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "CH Paul Road, Boro Bazar, Dhuburi, Assam, India",
+      "formatted_phone_number" : "1800 103 5577",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.016594,
+            "lng" : 89.98527199999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "95665f15e989df4296dfe009b3f3de87ea3fce82",
+      "international_phone_number" : "+91 1800 103 5577",
+      "name" : "Axis Bank",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 4:00 pm",
+            "Tuesday: 9:00 am – 4:00 pm",
+            "Wednesday: 9:00 am – 4:00 pm",
+            "Thursday: 9:00 am – 4:00 pm",
+            "Friday: 9:00 am – 4:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJC0CDQ2ug4jkRFXbTCxOzrd4",
+      "reference" : "CmRdAAAAcP8k7uyfW0A-n5nPLmGjL01QigN4A8NpXkn04IABO0e0EDNTqS_y8Za3wHi1WfwF0bmFfmSYe-AGb3xmblhySIfgAKHwStctcBptWB_GUYjTJYhmUSgjFDXImB9v_a6DEhDGbn_5qhGc7UAb4JYCLdYHGhQajo040DCh1CPPWPgEtW-h8SlQ0A",
+      "scope" : "GOOGLE",
+      "types" : [ "bank", "finance", "establishment" ],
+      "url" : "https://plus.google.com/106447490129923350603/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "CH Paul Road, Boro Bazar, Dhuburi",
+      "website" : "http://www.axisbank.com/"
+   },
+   "status" : "OK"
+}

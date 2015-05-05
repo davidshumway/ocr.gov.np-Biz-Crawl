@@ -1,0 +1,76 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "National Highway 75",
+            "short_name" : "NH 75",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Chakradharpur",
+            "short_name" : "Chakradharpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "West Singhbhum",
+            "short_name" : "West Singhbhum",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Jharkhand",
+            "short_name" : "JH",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "Gayatri Apartment Building, \u003cspan class=\"street-address\"\u003eNational Highway 75\u003c/span\u003e, \u003cspan class=\"locality\"\u003eChakradharpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eJharkhand\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Gayatri Apartment Building, National Highway 75, Chakradharpur, Jharkhand, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.668719,
+            "lng" : 85.625951
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+      "id" : "38a014290936f22c4c888df47d5e09cd8dbf61c7",
+      "name" : "Big Chill",
+      "place_id" : "ChIJVf6H2zyC9TkRkcNQBC5d-gc",
+      "reference" : "CmRcAAAAcvgMDS7aAuM0reNcfaLcx__XjBDHZpc0eKBFBAo7dNZFcyp9JX8vh2G6ubjRKZwJYPhl96F175Mk5bzC2Y0KuK5nGVwy5h9_BqPwug1FVOT8z-owdz32dMRggpSZGkWkEhDhWeTdPKMg7O3io-EYFEspGhS9kNmWpauVzW895-hfl_xtnOG3cQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "food"
+               },
+               {
+                  "rating" : 0,
+                  "type" : "decor"
+               },
+               {
+                  "rating" : 0,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Anamika Nisha Bankira",
+            "author_url" : "https://plus.google.com/117303884479661572206",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "",
+            "time" : 1383086679
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "establishment" ],
+      "url" : "https://plus.google.com/112417711971096878872/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Gayatri Apartment Building, National Highway 75, Chakradharpur"
+   },
+   "status" : "OK"
+}

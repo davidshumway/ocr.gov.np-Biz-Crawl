@@ -1,0 +1,144 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "11",
+            "short_name" : "11",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "Brittish India Street",
+            "short_name" : "Brittish India Street",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bow Barracks",
+            "short_name" : "Bow Barracks",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700069",
+            "short_name" : "700069",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "11, \u003cspan class=\"street-address\"\u003eBrittish India Street\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBow Barracks\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700069\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "11, Brittish India Street, Bow Barracks, Kolkata, West Bengal 700069, India",
+      "formatted_phone_number" : "033 2248 4411",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.568334,
+            "lng" : 88.35168299999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/car_dealer-71.png",
+      "id" : "b91483e3c21735bfc3cc335263388f1b6b0ee56c",
+      "international_phone_number" : "+91 33 2248 4411",
+      "name" : "Dugar Motor Agency",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1030"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:30 am – 8:00 pm",
+            "Tuesday: 10:30 am – 8:00 pm",
+            "Wednesday: 10:30 am – 8:00 pm",
+            "Thursday: 10:30 am – 8:00 pm",
+            "Friday: 10:30 am – 8:00 pm",
+            "Saturday: 10:30 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJw4xGZ6Z3AjoR7k-eVOESFy0",
+      "reference" : "CnRlAAAARHHl0XZiArU6btlG04ddlL--TkhbUwxQeWpr8o6Tb6Qd--qJxw6l78AI5i5P6sv6LlmOTlFZ1kaWf08mogzrzwsqqHEvKxTwTDISH1x-TqenFssaGbbHpLSZ3cc_QdkN0yCFv5G4PAAp8-bTSzWH2RIQwCmyBELIfeobeV1blQy_LBoUqb7RxcimuKvBLW53eG03pupRzKM",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "car_dealer", "store", "establishment" ],
+      "url" : "https://plus.google.com/100059812384415856722/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "11, Brittish India Street, Bow Barracks, Kolkata"
+   },
+   "status" : "OK"
+}

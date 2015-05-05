@@ -1,0 +1,123 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "State Highway 2",
+            "short_name" : "SH 2",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Arambagh",
+            "short_name" : "Arambagh",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Hooghly",
+            "short_name" : "Hooghly",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "712601",
+            "short_name" : "712601",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eState Highway 2\u003c/span\u003e, \u003cspan class=\"locality\"\u003eArambagh\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e712601\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "State Highway 2, Arambagh, West Bengal 712601, India",
+      "formatted_phone_number" : "094000 24365",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.872834,
+            "lng" : 87.79998500000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "9ec243cb03a4e0cdbcc68448df56c481b9b328b9",
+      "international_phone_number" : "+91 94000 24365",
+      "name" : "Bsnl Telephone Tower",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 5:00 pm",
+            "Tuesday: 10:00 am – 5:00 pm",
+            "Wednesday: 10:00 am – 5:00 pm",
+            "Thursday: 10:00 am – 5:00 pm",
+            "Friday: 10:00 am – 5:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJZ28DCpQT-DkRQ5QYuRztn5Q",
+      "reference" : "CnRoAAAAiZHh11Dx7_0VgBQAsyNUDtPaNbRLnxSMbSmmzrLaxgO9CDse6bjRPo6qpqFaDS2G77PytgzJbjyTpy5FR12ysTrYLPCcf8wyr3UerXmisUmNLd8nyvb20lijlV2MwpK8K6ZYyKtMIZ0ksUDBkiwYExIQsYV6DJAjoWXMUxfRsR79lxoUdlD94M14FxEYOg9MXS9iZu27LzM",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/115845914495454487879/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "State Highway 2, Arambagh",
+      "website" : "http://www.bsnl.co.in/"
+   },
+   "status" : "OK"
+}

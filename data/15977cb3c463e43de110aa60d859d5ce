@@ -1,0 +1,154 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Cinema Hall Road",
+            "short_name" : "Cinema Hall Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Industrial Area",
+            "short_name" : "Industrial Area",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Durgapur",
+            "short_name" : "Durgapur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bardhaman",
+            "short_name" : "Bardhaman",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "713201",
+            "short_name" : "713201",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eCinema Hall Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eIndustrial Area\u003c/span\u003e, \u003cspan class=\"locality\"\u003eDurgapur\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e713201\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Cinema Hall Road, Industrial Area, Durgapur, West Bengal 713201, India",
+      "formatted_phone_number" : "093332 22777",
+      "geometry" : {
+         "location" : {
+            "lat" : 23.498782,
+            "lng" : 87.312062
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "4e0c5eb89897cef7f504564b4e2eb0c04d31ee4a",
+      "international_phone_number" : "+91 93332 22777",
+      "name" : "Ashtavinayak Corporation",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 8:00 am – 6:00 pm",
+            "Wednesday: 8:00 am – 6:00 pm",
+            "Thursday: 8:00 am – 6:00 pm",
+            "Friday: 8:00 am – 6:00 pm",
+            "Saturday: 8:00 am – 6:00 pm",
+            "Sunday: 8:00 am – 6:00 pm"
+         ]
+      },
+      "place_id" : "ChIJB7NAcHdx9zkRIT65mFFbOEk",
+      "reference" : "CnRrAAAAUHGquGGE3xqS58nUrBZIqxTiprvjDTqdXQmW4gtkg3ArNkXidWC8VCgQCem-awduetcRHopb1kMaz8O3YRxC3sgyGTNaa11IMoWuzMamNpaHHctnt_3BkOwbOFG0DbO7c8mu5rX0SqVnCQH7GULTahIQeth4ntqM40_QRWx8VTJY5RoU2oeaDmYH-MA8W1kQmwDA1y2IKXw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "DEEP MAURYA",
+            "author_url" : "https://plus.google.com/101388156950478427505",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1414595255
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "store", "establishment" ],
+      "url" : "https://plus.google.com/108131161819868657968/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Cinema Hall Road, Industrial Area, Durgapur"
+   },
+   "status" : "OK"
+}

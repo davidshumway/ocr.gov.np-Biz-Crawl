@@ -1,0 +1,150 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "146-B, 27",
+            "short_name" : "146-B, 27",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Gyan Prakash Road",
+            "short_name" : "Gyan Prakash Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Near SBI Bank",
+            "short_name" : "Near SBI Bank",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Dada Nagar",
+            "short_name" : "Dada Nagar",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Azad Nagar",
+            "short_name" : "Azad Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208022",
+            "short_name" : "208022",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e146-B, 27, Gyan Prakash Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNear SBI Bank, Dada Nagar, Azad Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208022\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "146-B, 27, Gyan Prakash Road, Near SBI Bank, Dada Nagar, Azad Nagar, Kanpur, Uttar Pradesh 208022, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.454293,
+            "lng" : 80.279543
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "5c3a1ddce0e0cecb78d6a234cc71bb4f04a90f60",
+      "name" : "Durga Machines",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 9:00 pm",
+            "Tuesday: 10:00 am – 9:00 pm",
+            "Wednesday: 10:00 am – 9:00 pm",
+            "Thursday: 10:00 am – 9:00 pm",
+            "Friday: 10:00 am – 9:00 pm",
+            "Saturday: 10:00 am – 9:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJny5c3_xHnDkRSUdxLXRtJtA",
+      "reference" : "CnRiAAAAlfkjh_Wd4KFnXYuYGBA5kx1LiHPOxd_9aPqd3kARGs390B3Ef9QCniOamgIm9xqMrG84T21kKdtSeFlLEZEKVKhbY6ouPxSquYjhTfdEIFYpgWyUmIeJQVC0f_EqGFw57vWR9QBgKPdfTCtRD94F5xIQPRQcqoVULe-AhSQYdFfhDxoU9le3gBL65kTG_BJapkSjfoatiNs",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/114155454450590115674/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "146-B, 27, Gyan Prakash Road, Near SBI Bank, Dada Nagar, Azad Nagar, Kanpur"
+   },
+   "status" : "OK"
+}

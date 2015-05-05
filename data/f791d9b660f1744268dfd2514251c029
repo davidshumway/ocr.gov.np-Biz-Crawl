@@ -1,0 +1,148 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "20/A",
+            "short_name" : "20/A",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "B.B.Ganguly Street, New C.T.I.Rpad",
+            "short_name" : "B.B.Ganguly Street, New C.T.I.Rpad",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Poddar Court",
+            "short_name" : "Poddar Court",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Tiretti",
+            "short_name" : "Tiretti",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700073",
+            "short_name" : "700073",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "20/A, \u003cspan class=\"street-address\"\u003eB.B.Ganguly Street, New C.T.I.Rpad\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003ePoddar Court, Tiretti\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700073\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "20/A, B.B.Ganguly Street, New C.T.I.Rpad, Poddar Court, Tiretti, Kolkata, West Bengal 700073, India",
+      "formatted_phone_number" : "033 2237 4565",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.573537,
+            "lng" : 88.35476800000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "29ab32c7c1aed17a31448898b1e68627c66108c3",
+      "international_phone_number" : "+91 33 2237 4565",
+      "name" : "Kerala Transport Company",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 9:00 pm",
+            "Tuesday: 10:00 am – 9:00 pm",
+            "Wednesday: 10:00 am – 9:00 pm",
+            "Thursday: 10:00 am – 9:00 pm",
+            "Friday: 10:00 am – 9:00 pm",
+            "Saturday: 10:00 am – 9:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJTerQuq93AjoRKa9ydhSEn9s",
+      "reference" : "CnRsAAAApiFL40smem-on51g75HN5eZ5Cfxco5yNZdIZgu_YJi-D9qWOtJ4r4DdCX76ru4oESO09Ol6n33FIybLYSIAt6Z6gTvNo4daFt_KXG8GgLMh6tyg0IPlswzLoivp5rH7pIt5i0O5jfl90VLUJb4CWqxIQ00eIic7yiN7Lv1v6r0rDmRoUNU7TyG-GK1I7g9d5Gi1pkvut5Mc",
+      "scope" : "GOOGLE",
+      "types" : [ "moving_company", "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/117779498812781629229/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "20/A, B.B.Ganguly Street, New C.T.I.Rpad, Poddar Court, Tiretti, Kolkata",
+      "website" : "http://ktc.co.in/"
+   },
+   "status" : "OK"
+}

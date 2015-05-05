@@ -1,0 +1,149 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "111/286",
+            "short_name" : "111/286",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Chandra Gupta Road",
+            "short_name" : "Chandra Gupta Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Brahm Nagar",
+            "short_name" : "Brahm Nagar",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Harsh Nagar",
+            "short_name" : "Harsh Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208002",
+            "short_name" : "208002",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e111/286, Chandra Gupta Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBrahm Nagar, Harsh Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208002\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "111/286, Chandra Gupta Road, Brahm Nagar, Harsh Nagar, Kanpur, Uttar Pradesh 208002, India",
+      "formatted_phone_number" : "098390 30586",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.474151,
+            "lng" : 80.322712
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+      "id" : "3f235fe1e42bdb37ac1f39ba6b8a07cb18360954",
+      "international_phone_number" : "+91 98390 30586",
+      "name" : "Shanti Car Parlour",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1100"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 11:00 am – 9:00 pm",
+            "Tuesday: 11:00 am – 9:00 pm",
+            "Wednesday: 11:00 am – 9:00 pm",
+            "Thursday: 11:00 am – 9:00 pm",
+            "Friday: 11:00 am – 9:00 pm",
+            "Saturday: 11:00 am – 9:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJq6qqaoc4nDkRtOPTrBMmq6Q",
+      "reference" : "CnRmAAAArJvd2MPop8KYHfw-eZQb3gwml2Rwimp_APU6lyNu5bNHJqYhg6p_JVidPTzQSA2IXRohlX2hhIrBS9fIKWIhx20XU8uslPlGEe3U03EG4oXrC8FA3KO-9xj6G09Kh_KXSLn6tDiHxK2T8KZ407fw7hIQlGVliBeEIS62gZ9ygl65TxoU6s05BcPbzdqfA6ieKaDLJNZoFPQ",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "electronics_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/112697290486460618811/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "111/286, Chandra Gupta Road, Brahm Nagar, Harsh Nagar, Kanpur"
+   },
+   "status" : "OK"
+}

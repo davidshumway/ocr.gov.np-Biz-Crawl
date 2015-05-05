@@ -1,0 +1,66 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Main Drive",
+            "short_name" : "Main Dr",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Nankari",
+            "short_name" : "Nankari",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Kalyanpur",
+            "short_name" : "Kalyanpur",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208017",
+            "short_name" : "208017",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eMain Drive\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNankari, Kalyanpur\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208017\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Main Drive, Nankari, Kalyanpur, Kanpur, Uttar Pradesh 208017, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.510777,
+            "lng" : 80.246993
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "1f7672fee116275a1ff6c98fdfaaafd91fe384c7",
+      "name" : "auto sales",
+      "place_id" : "ChIJR7uMuAk3nDkRMpZ6ahJ1d-w",
+      "reference" : "CmReAAAAesc-Lnhd_CvwJOGoZ_OxRQgXAMMmQL1vQG5StBWdzQI34cqFSMjL-sRpDYk24LGfwN-xefA1-E4pbsL78QxEzRf6J4BcmPY05_p6DUJOUy8ABN91dbq659SJ5ZiqBD_AEhDKOby6SO6zNhuSabRTAN_yGhRA_GgHpWWMm34xD_Z99MoTrrKeTg",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/114961797074860004985/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Main Drive, Nankari, Kalyanpur, Kanpur"
+   },
+   "status" : "OK"
+}

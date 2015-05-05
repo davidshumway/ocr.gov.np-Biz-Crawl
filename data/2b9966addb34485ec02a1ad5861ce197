@@ -1,0 +1,99 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "National Highway 2",
+            "short_name" : "NH 2",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Gaya",
+            "short_name" : "Gaya",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "824220",
+            "short_name" : "824220",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNational Highway 2\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e824220\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "National Highway 2, Bihar 824220, India",
+      "formatted_phone_number" : "1800 11 8282",
+      "geometry" : {
+         "location" : {
+            "lat" : 24.518523,
+            "lng" : 84.95532300000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "fd2e376e3c491f5ce0bee685487979353de317dd",
+      "international_phone_number" : "+91 1800 11 8282",
+      "name" : "Bhadeya Post Office",
+      "place_id" : "ChIJr2bf87s08zkRkRnbgA81jbc",
+      "reference" : "CnRnAAAAzptq7r-_guLy4BYNaRSrgHSvJ21Yo4e-tqwgvJ29pVY8W9mD_vhjm1CK0xbrrHGQSEdOgzqI1Cm2I0bYGWp2rOKr3sW9pncuhmK6_YQn0IopCy9-eFOmOSmW6tqElv9S7nG1fhnsZxZ7XBCHnOaAdRIQUJw66efrTbod74OAj6jsLhoUsw6YASpqO5YgNLwPBX0NZvJT4B0",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Gauhar Khan",
+            "author_url" : "https://plus.google.com/111748749413133539191",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1383660069
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Rajiv Kumar",
+            "author_url" : "https://plus.google.com/116752304364872948743",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1368026347
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Piyush Kumar",
+            "author_url" : "https://plus.google.com/111929395982358412496",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1397808249
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "post_office", "finance", "establishment" ],
+      "url" : "https://plus.google.com/105398599399283655858/about?hl=en-US",
+      "user_ratings_total" : 3,
+      "utc_offset" : 330,
+      "vicinity" : "National Highway 2",
+      "website" : "http://www.indiapost.gov.in/"
+   },
+   "status" : "OK"
+}

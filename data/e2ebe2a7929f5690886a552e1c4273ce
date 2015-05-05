@@ -1,0 +1,148 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "State Highway 5",
+            "short_name" : "SH 5",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Keshiary",
+            "short_name" : "Keshiary",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "West Medinipur",
+            "short_name" : "West Medinipur",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "721133",
+            "short_name" : "721133",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eState Highway 5\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKeshiary\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e721133\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "State Highway 5, Keshiary, West Bengal 721133, India",
+      "formatted_phone_number" : "097335 44526",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.126752,
+            "lng" : 87.236563
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "abf826b81810e37a45ab8cd7e22f91fcb529cf6d",
+      "international_phone_number" : "+91 97335 44526",
+      "name" : "RCM Bazar",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 7:00 pm",
+            "Tuesday: 9:00 am – 7:00 pm",
+            "Wednesday: 9:00 am – 7:00 pm",
+            "Thursday: 9:00 am – 7:00 pm",
+            "Friday: 9:00 am – 7:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ9zNrpA4-HToRTMXCCkrwd18",
+      "reference" : "CmRcAAAAMkdqRPQYmZzGvRlkjyMmZ0Msm1khSm6At7M7M5Oc6mfioWqv40KsB92XCps_xeu38IWIG_7uMOmby8b0_e1GYm4nl_-VLot068ZVy_IkdAoNX7QioTlJ_1dd9pWg0M0PEhCcBLFXmlt4c481qKBQ1rwCGhRDihGap-GmXcayljt1EmLxGvdj0w",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 0,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Mainak Mandal",
+            "author_url" : "https://plus.google.com/110017472982641298092",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "It was a nice shopping mall. But now it has closed.....:'(",
+            "time" : 1386128245
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "shopping_mall", "establishment" ],
+      "url" : "https://plus.google.com/101585505699886884371/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "State Highway 5, Keshiary",
+      "website" : "http://www.rcmbusiness.com/"
+   },
+   "status" : "OK"
+}

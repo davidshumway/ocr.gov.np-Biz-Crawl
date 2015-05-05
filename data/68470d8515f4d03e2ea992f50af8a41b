@@ -1,0 +1,84 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Gohail Road",
+            "short_name" : "Gohail Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Fultola",
+            "short_name" : "Fultola",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Bogra",
+            "short_name" : "Bogra",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bogra",
+            "short_name" : "Bogra",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Rajshahi Division",
+            "short_name" : "Rajshahi Division",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Bangladesh",
+            "short_name" : "BD",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eGohail Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBogra\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eBangladesh\u003c/span\u003e",
+      "formatted_address" : "Gohail Road, Bogra, Bangladesh",
+      "geometry" : {
+         "location" : {
+            "lat" : 24.826827,
+            "lng" : 89.365199
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "b803099bcb8f86facd9d22b5f47325e66a56395a",
+      "name" : "CARE Bangladesh",
+      "photos" : [
+         {
+            "height" : 1224,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111154175316015768182\"\u003eBiplob Babul\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAwRjYUa7Mo1fKQGNBVWK2x2XS27sK0v4oHTvv-WXGftqsY6ti0qoUFwck_m3bfKvSEpr_A1f50ocn9gLx4tvO6tqnIjqxu_O-0EeSvDmxQ0-6QqEWJIaHN87tmLIWIi8f5c3e83RJkmNtbCpW3C9fPxIQvtQuUG79T8pXr7ArOyKHghoUxjyzkP_oukHWLG_JUEK8sozm61E",
+            "width" : 1632
+         }
+      ],
+      "place_id" : "ChIJBQ2f9otU_DkRS36vWOyf8EY",
+      "reference" : "CnRiAAAAC2bC5GoWjMeEDrRIB5Jr_aIvgy203amGNH4vRJgPtOxzHIWkTU5ix77233nFh7VLKSDx5HzhOV1WSmvgL9wsr38Z7IohzLQTlnpYR8L0gvjjcC2L9KenZ519VGOafkmZlIlaoRLfNq_yOIiSXbWD2hIQr3le1XHxFE9Nlhk1pGrTqhoUSKebQ3aNKyaA6TLguwvSowB8rBo",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Biplob Babul",
+            "author_url" : "https://plus.google.com/111154175316015768182",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1385410355
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/104870974026015397552/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 360,
+      "vicinity" : "Gohail Road, Bogra",
+      "website" : "http://www.carebangladesh.org/"
+   },
+   "status" : "OK"
+}

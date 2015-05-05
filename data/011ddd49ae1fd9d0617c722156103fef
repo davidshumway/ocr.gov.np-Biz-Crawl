@@ -1,0 +1,74 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Kazi Nazrul Islam Road",
+            "short_name" : "Kazi Nazrul Islam Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Sathmatha",
+            "short_name" : "Sathmatha",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Bogra",
+            "short_name" : "Bogra",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bogra",
+            "short_name" : "Bogra",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Rajshahi Division",
+            "short_name" : "Rajshahi Division",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Bangladesh",
+            "short_name" : "BD",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eKazi Nazrul Islam Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBogra\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eBangladesh\u003c/span\u003e",
+      "formatted_address" : "Kazi Nazrul Islam Road, Bogra, Bangladesh",
+      "geometry" : {
+         "location" : {
+            "lat" : 24.848531,
+            "lng" : 89.37275699999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "4cc43bc5ff3da660260b0bc42987f4a503da8d04",
+      "name" : "IFIC Bank Limited",
+      "place_id" : "ChIJveJlY-RU_DkRY2uFxIp5-QE",
+      "reference" : "CnRkAAAAAbl_jUg5oIzkbzeh14Bv9AQrTtDlxCN8z9wxNPxtN_cIUOjc_KTaUfh6PugaVzmt4PtTaFyrGbw_NlvRFTrLFb1BfN-fUodHpV3Feci4Xl85t8FUJ-BYDxW8Buvk_B9ucAwiBlkj138E89x7C4OOuBIQC-2Ghzb6UW7XZmvHOcpCnRoUVh6INv272gpUlhKgOsvLpWUc29k",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "মো মাহফুজার রহমান",
+            "author_url" : "https://plus.google.com/104554209436753155674",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1418585541
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "bank", "finance", "establishment" ],
+      "url" : "https://plus.google.com/118411789938665200091/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 360,
+      "vicinity" : "Kazi Nazrul Islam Road, Bogra",
+      "website" : "http://www.ificbank.com.bd/"
+   },
+   "status" : "OK"
+}

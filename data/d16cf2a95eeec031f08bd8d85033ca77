@@ -1,0 +1,158 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Doranda",
+            "short_name" : "Doranda",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Doranda",
+            "short_name" : "Doranda",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ranchi",
+            "short_name" : "Ranchi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Ranchi",
+            "short_name" : "Ranchi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Jharkhand",
+            "short_name" : "JH",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "834002",
+            "short_name" : "834002",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"extended-address\"\u003eDoranda, Doranda\u003c/span\u003e, \u003cspan class=\"locality\"\u003eRanchi\u003c/span\u003e, \u003cspan class=\"region\"\u003eJharkhand\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e834002\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Doranda, Doranda, Ranchi, Jharkhand 834002, India",
+      "formatted_phone_number" : "0651 250 2425",
+      "geometry" : {
+         "location" : {
+            "lat" : 23.336365,
+            "lng" : 85.31890199999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "d78e4caa0eac750d7b77bca5b20b984bf95e43d3",
+      "international_phone_number" : "+91 651 250 2425",
+      "name" : "Wizard - IAS",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 6:00 pm",
+            "Tuesday: 9:00 am – 6:00 pm",
+            "Wednesday: 9:00 am – 6:00 pm",
+            "Thursday: 9:00 am – 6:00 pm",
+            "Friday: 9:00 am – 6:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJx4a4_8nh9DkRGUi0UzPW_PM",
+      "reference" : "CmRgAAAAxyyOBsEbueeRVWMxB9ay2tkOA_VuZLpQzSe071wLCHLJkXLKkVai4LpcuK0CFQbiLtwu0-ldiC7oasdIBZh7bzYyENvjfdBdq0cx-wa15A6j9qtJAQp2jummnC2ncpcOEhCwP8P9zwOmjtBXYEd83J3IGhRULjsm_ZCqFGOmLC6u8jUnW90G3w",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Gunja Ahuja",
+            "author_url" : "https://plus.google.com/110718706050582272153",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "I must say, that it is the BEST in Ranchi..... specially classes by Rahman sir are very motivating and enlightening...",
+            "time" : 1339070711
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1307270668
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "school", "establishment" ],
+      "url" : "https://plus.google.com/100952148182955064054/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "Doranda, Doranda, Ranchi",
+      "website" : "http://www.wizardias.com/"
+   },
+   "status" : "OK"
+}

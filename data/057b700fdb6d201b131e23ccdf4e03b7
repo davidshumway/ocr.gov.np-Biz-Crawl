@@ -1,0 +1,68 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "State Highway 6",
+            "short_name" : "SH6",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bardhaman",
+            "short_name" : "Bardhaman",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "713130",
+            "short_name" : "713130",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eState Highway 6\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e713130\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "State Highway 6, West Bengal 713130, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 23.633454,
+            "lng" : 88.085954
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "f9b67e83694830f99557d5ea4122a7948229929f",
+      "name" : "KoshiGram Cool Store",
+      "place_id" : "ChIJ89J2RB-k-TkR5MBsDVM26GQ",
+      "reference" : "CnRnAAAAyXFpUpZW9t8_jONTQ80vkWWZcfvXLIYIhnFCD2UqxBRMIwdXyLumPeRUKXIXoZB-YZdA26c3jilU0avWz4o1YY9XsgOre0DTMupy2RIFQxDgQcDa4XMa1piVNnpjlA7xqV8I6rWCN5Td24Q5cPxmpxIQyYD2qGkrJd3vckfkEGxQLBoULRfFkzvDgaVqM14aXKn7a9OZuwo",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Pooja Mandal",
+            "author_url" : "https://plus.google.com/101054192565164573448",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Our native place",
+            "time" : 1401953249
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/113581291077945932540/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "State Highway 6"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,67 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "743145",
+            "short_name" : "743145",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "178, Siraj Mandal Road, Kanchrapara, \u003cspan class=\"street-address\"\u003eKanchrapara\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e743145\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "178, Siraj Mandal Road, Kanchrapara, Kanchrapara, Kolkata, West Bengal 743145, India",
+      "formatted_phone_number" : "033 2585 8201",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.510705,
+            "lng" : 88.345624
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "e41bf3d8df3023e059435512bd55e570508a2d69",
+      "international_phone_number" : "+91 33 2585 8201",
+      "name" : "Alpana Service Station",
+      "place_id" : "ChIJLx6mLcpwAjoRCLbRHLxYVpk",
+      "reference" : "CnRqAAAAkFZIVupLEI57F5i12FJH5mM-CqUhor874_uMdlQKupqvh9q_AJZc63wSLo72v2uNvZ8Hqn6mo-HFN2BvHhDyHhSdcmCy5adKFurzM-Ax384r2jMUfgd4g5-fy1iXKxeczYY5B90tkjKM4HhTJYy7_xIQwnFwCWYa62gBMUC60Luv5RoUn-XZ2P-5FKxpPHpNuU_CWsczjgs",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Amit Dey Chowdhury",
+            "author_url" : "https://plus.google.com/103765999524385934733",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Awesome fuelling experience.",
+            "time" : 1385153937
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/114511472654475693714/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "178, Siraj Mandal Road, Kanchrapara, Kanchrapara, Kolkata"
+   },
+   "status" : "OK"
+}

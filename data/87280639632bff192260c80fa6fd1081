@@ -1,0 +1,135 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Suri",
+            "short_name" : "Suri",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Birbhum",
+            "short_name" : "Birbhum",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "731101",
+            "short_name" : "731101",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eSuri\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e731101\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Suri, West Bengal 731101, India",
+      "formatted_phone_number" : "03462 255 032",
+      "geometry" : {
+         "location" : {
+            "lat" : 23.909321,
+            "lng" : 87.52687400000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "c239ff90c7a17b245f458bc5b2f669778fab05a0",
+      "international_phone_number" : "+91 3462 255 032",
+      "name" : "Birbhum Administrative Building",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 5:30 pm",
+            "Tuesday: 10:00 am – 5:30 pm",
+            "Wednesday: 10:00 am – 5:30 pm",
+            "Thursday: 10:00 am – 5:30 pm",
+            "Friday: 10:00 am – 5:30 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJmfwH2mxY9zkRDNTKEEgspt8",
+      "reference" : "CoQBcwAAACJhVx73gh7c2ZTlwJtO5bscWF6eu8ZNqP-HEjQ4y-wZuH0wZUxj4QqfJCFUoBo9WA3SPABinjiwKVe_jNMeQYKUxRTOtx-lC9RPHbTTpf0dO3kzuwbPbRj5ukRVFrGdZrNTLHWdakyyzw5kxmFLRPVZQilj3JaIjsG9aBw3TugEEhCYPolzwkocGTWWXleLU0LAGhRoSByK00jttzelPhiqstbZEiOGNQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Sajid Seikh",
+            "author_url" : "https://plus.google.com/102614937668448695104",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1419941351
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/105231431282154931542/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Suri",
+      "website" : "http://birbhum.gov.in"
+   },
+   "status" : "OK"
+}

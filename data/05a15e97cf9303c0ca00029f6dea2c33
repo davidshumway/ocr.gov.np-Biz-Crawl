@@ -1,0 +1,150 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "35",
+            "short_name" : "35",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Sarat Bose Road",
+            "short_name" : "Sarat Bose Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bakul Bagan",
+            "short_name" : "Bakul Bagan",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Bhowanipore",
+            "short_name" : "Bhowanipore",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700025",
+            "short_name" : "700025",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e35, Sarat Bose Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBakul Bagan, Bhowanipore\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700025\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "35, Sarat Bose Road, Bakul Bagan, Bhowanipore, Kolkata, West Bengal 700025, India",
+      "formatted_phone_number" : "033 2466 9501",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.519703,
+            "lng" : 88.352343
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "f4cb65039cb801082452fc7712b827fb85861abb",
+      "international_phone_number" : "+91 33 2466 9501",
+      "name" : "Akshara Group",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 6:00 pm",
+            "Tuesday: 10:00 am – 6:00 pm",
+            "Wednesday: 10:00 am – 6:00 pm",
+            "Thursday: 10:00 am – 6:00 pm",
+            "Friday: 10:00 am – 6:00 pm",
+            "Saturday: 10:00 am – 2:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJEeTDkzJ3AjoRGBIw91Ayk3c",
+      "reference" : "CmRgAAAARz2UN9PdIMdAET7iaMiDW3T9-VKeINSKfcw1qx77iq354ok52zsrNO2G6GjElvJc86vegX7ah91QpVliylRoIUQs1zBTTh4VPpM_oUsLRam14n53yuCXAC5ojM-U1FgREhAeGTunW-ym08Q7UmMYTSFWGhSSCfPENALO0L8I-h6kjNVE6tBaRw",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/114483446748382912263/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "35, Sarat Bose Road, Bakul Bagan, Bhowanipore, Kolkata",
+      "website" : "http://aksharagroup.com/"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,142 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Street No:4",
+            "short_name" : "Street No:4",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Mahaveer Nagar",
+            "short_name" : "Mahaveer Nagar",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Suhag Nagar",
+            "short_name" : "Suhag Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Firozabad",
+            "short_name" : "Firozabad",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Firozabad",
+            "short_name" : "Firozabad",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "283203",
+            "short_name" : "283203",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eStreet No:4\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eMahaveer Nagar, Suhag Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eFirozabad\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e283203\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Street No:4, Mahaveer Nagar, Suhag Nagar, Firozabad, Uttar Pradesh 283203, India",
+      "formatted_phone_number" : "099174 20055",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.158282,
+            "lng" : 78.38651400000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "33cf75a547b11652689bd66ed59db2ce6b33e5f9",
+      "international_phone_number" : "+91 99174 20055",
+      "name" : "Arora Motors Work Shop",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 9:00 pm",
+            "Tuesday: Closed",
+            "Wednesday: 10:00 am – 9:00 pm",
+            "Thursday: 10:00 am – 9:00 pm",
+            "Friday: 10:00 am – 9:00 pm",
+            "Saturday: 10:00 am – 9:00 pm",
+            "Sunday: 10:00 am – 9:00 pm"
+         ]
+      },
+      "place_id" : "ChIJp5pejqpGdDkRq3qbypdX5jg",
+      "reference" : "CnRpAAAA5tpJfHhZj4QwiZ7l3WU60_juwgGz5AUSb0oihhipxU1mWzTw_GU9mXbatZEWQpa3RfeiiQx8HW39VEk_UOM3LRSz2LPvKb_xHxMeQqrDDkTQVQEWAoyl2F3oneANOWjmGeWGOo-9xLez2xMHYnDHnhIQWkirase-_cxOpc-DnouDaBoUp_yMYtcKd4_b5Yga5OtiD_7nsJw",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/100329625116474429714/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Street No:4, Mahaveer Nagar, Suhag Nagar, Firozabad"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,149 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "111/424",
+            "short_name" : "111/424",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "80 Feet Rd",
+            "short_name" : "80 Feet Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Ashok Nagar",
+            "short_name" : "Ashok Nagar",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Harsh Nagar",
+            "short_name" : "Harsh Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208012",
+            "short_name" : "208012",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e111/424, 80 Feet Rd\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eAshok Nagar, Harsh Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208012\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "111/424, 80 Feet Rd, Ashok Nagar, Harsh Nagar, Kanpur, Uttar Pradesh 208012, India",
+      "formatted_phone_number" : "094154 87729",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.47236,
+            "lng" : 80.322097
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "21b840be0c9dbd42e32fd71c96b220af7889ef20",
+      "international_phone_number" : "+91 94154 87729",
+      "name" : "Kwality Glass House",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ571kmoJHnDkR23_iIU4hIu4",
+      "reference" : "CnRnAAAASpNdw9QIxPmleQfVjipJQJvUhiiDP1Z8J4KhkeIJTPazbcoa0FiXEtr_WQDpwf1XXbsAy-cKhbn8mf8P980_W9rcy79dJ8SMDiMdintui1f7xnX7ej4P7qhm99Si7UQh1KRpY6s6YIxQk5CQztf0cBIQ8aqZNnYjzC0ddeFfsQUbYBoUTn4-b_oUvJQajH1MwgdT_qnfOtk",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "establishment" ],
+      "url" : "https://plus.google.com/118024046995760558356/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "111/424, 80 Feet Rd, Ashok Nagar, Harsh Nagar, Kanpur"
+   },
+   "status" : "OK"
+}

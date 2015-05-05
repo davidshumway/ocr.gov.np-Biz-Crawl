@@ -1,0 +1,162 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Johari Bazar Road",
+            "short_name" : "Johari Bazar Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Jama Masjid",
+            "short_name" : "Jama Masjid",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Kinari Bazar",
+            "short_name" : "Kinari Bazar",
+            "types" : [ "sublocality_level_3", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Hing ki Mandi",
+            "short_name" : "Hing ki Mandi",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Mantola",
+            "short_name" : "Mantola",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Agra",
+            "short_name" : "Agra",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Agra",
+            "short_name" : "Agra",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "282001",
+            "short_name" : "282001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eJohari Bazar Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eJama Masjid, Kinari Bazar, Hing ki Mandi, Mantola\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAgra\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e282001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Johari Bazar Road, Jama Masjid, Kinari Bazar, Hing ki Mandi, Mantola, Agra, Uttar Pradesh 282001, India",
+      "formatted_phone_number" : "098975 12753",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.183174,
+            "lng" : 78.016088
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "f90dc6b23f17a6cac9ba6588dc2ac16d8e8d3c07",
+      "international_phone_number" : "+91 98975 12753",
+      "name" : "Ashok Electric Service",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 10:00 pm",
+            "Tuesday: 9:00 am – 10:00 pm",
+            "Wednesday: 9:00 am – 10:00 pm",
+            "Thursday: 9:00 am – 10:00 pm",
+            "Friday: 9:00 am – 10:00 pm",
+            "Saturday: 9:00 am – 10:00 pm",
+            "Sunday: 9:00 am – 10:00 pm"
+         ]
+      },
+      "place_id" : "ChIJUx7ErS13dDkRbbT7ol3i6o8",
+      "reference" : "CnRqAAAA4SU_6A48MMSmJWTnuUvu6rLiorCNUNsq2LGUQV8ZUfJ71DTWlOMlwxnI-8hJV4ebfL2GLf-RzRA5JUSqBYmvuD87q7nsXJ3bABRk8ja3dXEXqhPNhi5H_ghDBVm4KPCXeL5Z9_3OchARn96T5pX_TBIQ4g285E4RAGKkQdFNGLR5ZBoU-i2CNxL8JsBu8bnyZM505IElk7w",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "establishment" ],
+      "url" : "https://plus.google.com/109162309171604379088/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Johari Bazar Road, Jama Masjid, Kinari Bazar, Hing ki Mandi, Mantola, Agra"
+   },
+   "status" : "OK"
+}

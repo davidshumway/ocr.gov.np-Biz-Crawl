@@ -1,0 +1,142 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1 - C",
+            "short_name" : "1 - C",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Transport Colony, Sector - 2",
+            "short_name" : "Transport Colony, Sector - 2",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Transport Nagar",
+            "short_name" : "Transport Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Agra",
+            "short_name" : "Agra",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Agra",
+            "short_name" : "Agra",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "282001",
+            "short_name" : "282001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e1 - C\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eTransport Colony, Sector - 2, Transport Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAgra\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e282001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "1 - C, Transport Colony, Sector - 2, Transport Nagar, Agra, Uttar Pradesh 282001, India",
+      "formatted_phone_number" : "0562 296 1909",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.208677,
+            "lng" : 77.982063
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "fac10fbfa85e74fe315e08a66faa1dad7713492c",
+      "international_phone_number" : "+91 562 296 1909",
+      "name" : "Dayal Auto Centre",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 10:00 pm",
+            "Tuesday: 9:00 am – 10:00 pm",
+            "Wednesday: 9:00 am – 10:00 pm",
+            "Thursday: 9:00 am – 10:00 pm",
+            "Friday: 9:00 am – 10:00 pm",
+            "Saturday: 9:00 am – 10:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJra2HU3p3dDkRktDV0NSyu74",
+      "reference" : "CnRlAAAAWbln61abUY6_6p8RpH45AuOw5UJO_VEcjDAGOusmMU5rm9uBcJAIlaD5aUCkpFyHEAW6zmQvG9_Jac3qGa3ioJd5RaPbWgMywcFhYXXv-UhayACi6TqZLwm2DFIP3Aww9BdYqGV9ees0YCOb-sxdCRIQ7roun0rjjj3BBnAiJwpgOhoUXSIRdYxYHloj_Hw4VI2M4dFTZYE",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/105542390126085931957/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "1 - C, Transport Colony, Sector - 2, Transport Nagar, Agra"
+   },
+   "status" : "OK"
+}

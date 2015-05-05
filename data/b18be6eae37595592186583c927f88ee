@@ -1,0 +1,145 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Delhi-Kolkata Highway",
+            "short_name" : "Delhi-Kolkata Hwy",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bardhaman",
+            "short_name" : "Bardhaman",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "713339",
+            "short_name" : "713339",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eDelhi-Kolkata Highway\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e713339\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Delhi-Kolkata Highway, West Bengal 713339, India",
+      "formatted_phone_number" : "0341 301 2444",
+      "geometry" : {
+         "location" : {
+            "lat" : 23.663904,
+            "lng" : 87.057547
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/car_dealer-71.png",
+      "id" : "795c6312476ef851a79abd2f78b7fee166cf9bc5",
+      "international_phone_number" : "+91 341 301 2444",
+      "name" : "Pinnacle Honda Asansol",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 6:30 pm",
+            "Tuesday: 9:00 am – 6:30 pm",
+            "Wednesday: 9:00 am – 6:30 pm",
+            "Thursday: 9:00 am – 6:30 pm",
+            "Friday: 9:00 am – 6:30 pm",
+            "Saturday: 9:00 am – 6:30 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJwyrjquAZ9zkRVua_OQHYqUE",
+      "reference" : "CnRpAAAA54aGPEhBI-vcns1NxucNq7_wPi-PLygM0zGMi59cbppXXavzPa7l6rSfuQcOjal2kxknouqbt96CNQMW84ELS7BnYt4LsMSKkAQaSWw9kASXTN1wzny_OLv0USjf-SqR0emMrZmJaFpIPS8HLcO4FBIQdyLspGN15Vas4dYEJXNjXxoUd_rlYVKax4j8x8_N3LOBQzDNw_A",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Deepa Nangia",
+            "author_url" : "https://plus.google.com/104145122554816029435",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Great dealership",
+            "time" : 1422889809
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "car_dealer", "store", "establishment" ],
+      "url" : "https://plus.google.com/111342972393173334852/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Delhi-Kolkata Highway",
+      "website" : "http://www.pinnaclehonda.com/"
+   },
+   "status" : "OK"
+}

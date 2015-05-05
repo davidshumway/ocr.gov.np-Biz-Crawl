@@ -1,0 +1,81 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Debanandapur Street",
+            "short_name" : "Debanandapur Street",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bandel",
+            "short_name" : "Bandel",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Hooghly",
+            "short_name" : "Hooghly",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "712502",
+            "short_name" : "712502",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eDebanandapur Street\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBandel\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e712502\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Debanandapur Street, Bandel, West Bengal 712502, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.951036,
+            "lng" : 88.37507100000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "f71da19babbd8cd4eb23332096f3e03ec2368ef4",
+      "name" : "Playground",
+      "photos" : [
+         {
+            "height" : 480,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CnRoAAAAe8boQlQ0czCu_hCLBK4bkZqjd-Y9uOHhtEbaanXxOWvMVG9wUPC1NegEqztxJOg0LeYS8ljqk74NHetJVgkFZUW-JoyfcNW8VzBH93veFCMlXTDL1780OD7DN6NcQDdd5EQzfD5Y4B9Sw3Z0P0vq0xIQYYlQzyUnmnxGkH7O7nGychoUXymS99PqPk-PKfSK-MwhBFHaE6c",
+            "width" : 640
+         }
+      ],
+      "place_id" : "ChIJPcuQKQmT-DkRI7yTSjQ69Ts",
+      "reference" : "CmRdAAAACSxvlhX4lDOTW4rHXoNgHo6Saw1250ccaUeRAgNJ6ArW3gTD1pKmKp_3qiO9yyZvWJvv0UeAWFMnK0ohKtkCwkrhv2VPmqOKwK2REg03vQ4Dl75b6_TwGMWOV54Gj-VyEhArsE4cZHA9XzZpNsQlWmdnGhTrUmn3zk8hIWqBpubmkZtpgJqUkQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Gunjan Paul",
+            "author_url" : "https://plus.google.com/117776538883836328067",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1344097010
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/105766023091185308298/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Debanandapur Street, Bandel"
+   },
+   "status" : "OK"
+}

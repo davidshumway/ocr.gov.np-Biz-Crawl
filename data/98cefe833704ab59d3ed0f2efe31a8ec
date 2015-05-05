@@ -1,0 +1,135 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Gwalior Road, Sewla Road",
+            "short_name" : "Gwalior Road, Sewla Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Nagla Padma",
+            "short_name" : "Nagla Padma",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Agra",
+            "short_name" : "Agra",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Agra",
+            "short_name" : "Agra",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "282001",
+            "short_name" : "282001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eGwalior Road, Sewla Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNagla Padma\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAgra\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e282001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Gwalior Road, Sewla Road, Nagla Padma, Agra, Uttar Pradesh 282001, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.122583,
+            "lng" : 78.00376300000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "cfe7237318d8342759ad358248b6b41d3266397b",
+      "name" : "Rajesh Building Material",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0700"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 7:00 am – 7:00 pm",
+            "Tuesday: Closed",
+            "Wednesday: 7:00 am – 7:00 pm",
+            "Thursday: 7:00 am – 7:00 pm",
+            "Friday: 7:00 am – 7:00 pm",
+            "Saturday: 7:00 am – 7:00 pm",
+            "Sunday: 7:00 am – 7:00 pm"
+         ]
+      },
+      "place_id" : "ChIJo9KZPxx0dDkR7NsSVkdiUt8",
+      "reference" : "CnRsAAAAvHAicxcR-CvapFZgzqwnIQzSAT-NiVCn_oAlgOeTYjqSyqx9pBHV12Vqv_IF7zOQIMZ02mAAGhovJ7PVeBvuJn1JxI9Basf44fJW2ZeGybPpnXP9UO4iFU4M5-4uUJZyH0iPRYubd-zMozTZe83mHxIQYPvW6TjJm8NjP2bRZ1RdqhoUSDqdAHh67F33vn7QqYrnTYTDDfk",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "establishment" ],
+      "url" : "https://plus.google.com/116613662450237857667/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Gwalior Road, Sewla Road, Nagla Padma, Agra"
+   },
+   "status" : "OK"
+}

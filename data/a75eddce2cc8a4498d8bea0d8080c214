@@ -1,0 +1,73 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Rajendra Nagar",
+            "short_name" : "Rajendra Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Patna",
+            "short_name" : "Patna",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Patna",
+            "short_name" : "Patna",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "800016",
+            "short_name" : "800016",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"extended-address\"\u003eRajendra Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003ePatna\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e800016\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Rajendra Nagar, Patna, Bihar 800016, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.606116,
+            "lng" : 85.164224
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "8d2e0b93b0f269c50da9cccd36cf5ec1f25e8738",
+      "name" : "Tower",
+      "place_id" : "ChIJB6NssJRY7TkRAkJTJ8-b2kc",
+      "reference" : "CmRYAAAAPUIsDAMnGxfSvZVRYUskbkSpCQ7XEl1O1cJCuECU6mEZGgxiEm0hTcTp1w_X36DRrptdRom7fci2fasMtTw6yLXy5xkVLUfedTYO0lf3Oj6MUEpx-LvWQcR7oz6jo-NlEhCuLmOhMhlf5UznJU73EyypGhS9lp13c5cHvPZYVchutQ7sNrsi6g",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Rahul Kumar",
+            "author_url" : "https://plus.google.com/111116302550910480742",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Free BSNL wifi available here...",
+            "time" : 1378114821
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/104112269338345347548/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Rajendra Nagar, Patna"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,154 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "10",
+            "short_name" : "10",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Kalpi Road",
+            "short_name" : "Kalpi Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Industrial Estate",
+            "short_name" : "Industrial Estate",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Vijay Nagar",
+            "short_name" : "Vijay Nagar",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Shastri Nagar",
+            "short_name" : "Shastri Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208005",
+            "short_name" : "208005",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e10, Kalpi Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eIndustrial Estate, Vijay Nagar, Shastri Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208005\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "10, Kalpi Road, Industrial Estate, Vijay Nagar, Shastri Nagar, Kanpur, Uttar Pradesh 208005, India",
+      "formatted_phone_number" : "098391 11420",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.46331,
+            "lng" : 80.29507599999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "b00ee320e1a2f21ea7e9159f5a5cb40d49a8d8c5",
+      "international_phone_number" : "+91 98391 11420",
+      "name" : "Bike House",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: Closed",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: 10:00 am – 8:00 pm"
+         ]
+      },
+      "place_id" : "ChIJpYk6tPVHnDkRQFCHV-56deM",
+      "reference" : "CmReAAAArinrlyJ4SJXOvw5OaL-7uws10fLkM4AvONXB7-P2YvovqK5n6bWyTPwnK61sOmgTWFIDYPxMjZ35-qWzshLsNhaNh-8144KR86pvu_U3fqPFRJpcrDE7Bzs4EQpi0ZObEhCl3spgYoyAGqfTfdXZ8sw2GhSwwXil7_5pbUjDLJ5wgqwfPhbVCA",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/103068759479660119649/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "10, Kalpi Road, Industrial Estate, Vijay Nagar, Shastri Nagar, Kanpur"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,50 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Patna",
+            "short_name" : "Patna",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "800001",
+            "short_name" : "800001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "High Court, \u003cspan class=\"locality\"\u003ePatna\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e800001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "High Court, Patna, Bihar 800001, India",
+      "formatted_phone_number" : "098354 05213",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.610502,
+            "lng" : 85.12566700000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "744227a1c2e1291b2d01eaf68327d295996db27a",
+      "international_phone_number" : "+91 98354 05213",
+      "name" : "S Jamil Akhter",
+      "place_id" : "ChIJl2UeR0dY7TkR_vJIgpAspRg",
+      "reference" : "CnRhAAAAZWLBREs1VlT_ErdMJlUJD3_wILCXH6qWeV6vBz66OXole_1JyxeQQtPY8sHcpwH894J64cnlzvicOmouijqgOeliHHFf8Jf28ZCmZPPI1YnDwI-5wfLz3XovBlZQlSqOnsS8llqPdVQo6qi6iR3HshIQQdLo0nedHRMqnrMYaAQxsBoUq6HQstGZ5vPbIzgEOFAwN8X0OEI",
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/117008896071851838026/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "High Court, Patna"
+   },
+   "status" : "OK"
+}

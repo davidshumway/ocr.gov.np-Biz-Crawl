@@ -1,0 +1,74 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "University Railway Station Road",
+            "short_name" : "University Railway Station Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Rajshahi Univeristy",
+            "short_name" : "Rajshahi Univeristy",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Rajshahi",
+            "short_name" : "Rajshahi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Rajshahi",
+            "short_name" : "Rajshahi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Rajshahi Division",
+            "short_name" : "Rajshahi Division",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Bangladesh",
+            "short_name" : "BD",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eUniversity Railway Station Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eRajshahi\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eBangladesh\u003c/span\u003e",
+      "formatted_address" : "University Railway Station Road, Rajshahi, Bangladesh",
+      "geometry" : {
+         "location" : {
+            "lat" : 24.374239,
+            "lng" : 88.640477
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "cf2f191fc678feb3dfd354387be856308cfc7090",
+      "name" : "Shahedd Ziaur Rahman Hall",
+      "place_id" : "ChIJn8M_3Szw-zkR0oc9W-hVOfE",
+      "reference" : "CnRtAAAAICytSUqgPocjXb8JIw6OUa8eNH3VxNSrWIgDlMnIgUM0HJ4gazGEBjiUUz8D7a7srVAvbvsV6l3t8RRfDl_NqV2V93cP-O2Kjk4O5u39EO6z39rLfe1gbiPOAZyvbodvsLqLGvRJSIm5Z7s3JyusuRIQ1PlgD2p93nm-yDa6d0loGhoU-qVYOEpDTJ8wPsUw06ZyNAVPXps",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "hasan rakib",
+            "author_url" : "https://plus.google.com/101688645121453222791",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "well",
+            "time" : 1415700780
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/110881595660048091232/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 360,
+      "vicinity" : "University Railway Station Road, Rajshahi",
+      "website" : "http://www.ru.ac.bd/"
+   },
+   "status" : "OK"
+}

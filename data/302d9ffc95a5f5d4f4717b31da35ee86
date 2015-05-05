@@ -1,0 +1,149 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "103/3C",
+            "short_name" : "103/3C",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Mall Road",
+            "short_name" : "Mall Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Baker Mandi",
+            "short_name" : "Baker Mandi",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Colonelganj",
+            "short_name" : "Colonelganj",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208001",
+            "short_name" : "208001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e103/3C, Mall Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBaker Mandi, Colonelganj\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "103/3C, Mall Road, Baker Mandi, Colonelganj, Kanpur, Uttar Pradesh 208001, India",
+      "formatted_phone_number" : "093367 26979",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.474028,
+            "lng" : 80.331273
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/car_dealer-71.png",
+      "id" : "2be424eee326ea95c2c840d3c6fea20e21fc57e8",
+      "international_phone_number" : "+91 93367 26979",
+      "name" : "Goel Auto Sales",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1100"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 11:00 am – 8:00 pm",
+            "Tuesday: 11:00 am – 8:00 pm",
+            "Wednesday: 11:00 am – 8:00 pm",
+            "Thursday: 11:00 am – 8:00 pm",
+            "Friday: 11:00 am – 8:00 pm",
+            "Saturday: 11:00 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ571kmoJHnDkRXvmyLsz84-U",
+      "reference" : "CnRjAAAAY8ULD4EFnQtNyvm_cxEdHDjO3sE0NY67tuGQ8J-sbFSLJ6LU8C_lQz1qAdE5qWce78m0AbNQP52Vh6eYlgoYIlyDv0VxH69xwzhu8n5uGGiew8oMR5W6Fu8lLNZMdSMm2PnIFBa4ShzLcAZ6-K8M8BIQXL-uxgqF4L4_CEbSE8ut3RoU9Zxmmi1G-YGNdJWudXMRz3nhpd0",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "car_dealer", "store", "establishment" ],
+      "url" : "https://plus.google.com/111245904494598073060/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "103/3C, Mall Road, Baker Mandi, Colonelganj, Kanpur"
+   },
+   "status" : "OK"
+}

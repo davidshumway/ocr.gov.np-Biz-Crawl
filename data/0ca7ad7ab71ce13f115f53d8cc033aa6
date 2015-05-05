@@ -1,0 +1,142 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Sikandra Rd",
+            "short_name" : "Sikandra Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Near Lal Masjid",
+            "short_name" : "Near Lal Masjid",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Bodla",
+            "short_name" : "Bodla",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Agra",
+            "short_name" : "Agra",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Agra",
+            "short_name" : "Agra",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "282002",
+            "short_name" : "282002",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eSikandra Rd\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNear Lal Masjid, Bodla\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAgra\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e282002\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Sikandra Rd, Near Lal Masjid, Bodla, Agra, Uttar Pradesh 282002, India",
+      "formatted_phone_number" : "098378 60111",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.192106,
+            "lng" : 77.95775500000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "2a25aee64f56f915341bc86d41332bf486185cbc",
+      "international_phone_number" : "+91 98378 60111",
+      "name" : "Indian Auto Electrical Repair Shop",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 8:00 am – 9:00 pm",
+            "Wednesday: 8:00 am – 9:00 pm",
+            "Thursday: 8:00 am – 9:00 pm",
+            "Friday: 8:00 am – 9:00 pm",
+            "Saturday: 8:00 am – 9:00 pm",
+            "Sunday: 8:00 am – 9:00 pm"
+         ]
+      },
+      "place_id" : "ChIJx5y_9r13dDkR2VAkpVSJyNs",
+      "reference" : "CoQBdgAAAJ7y5mq17babmm7iFYWOmfFGaOsjE3oA6UgYl4nV6AeGbQw8LXQOORSAp3bs4FRi39T-HpF_KPJgb_sCUrq3kkwSpuvW6ddZiaIbd8al_ZlAhaX_efIisSC4-jcc_YEk2gukyZLL7vNk4bynC3mHq2HraGtNqutfUt3LNzfO_FTsEhDs1QTZN-OIx98JCZYMAx5gGhQTIHr6K28RrfTfzErqKczziV56jQ",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/118209175815727342916/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Sikandra Rd, Near Lal Masjid, Bodla, Agra"
+   },
+   "status" : "OK"
+}

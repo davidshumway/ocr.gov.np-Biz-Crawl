@@ -1,0 +1,147 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Delhi - Mathura Hwy",
+            "short_name" : "Delhi - Mathura Hwy",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Transport Colony",
+            "short_name" : "Transport Colony",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Sector 4",
+            "short_name" : "Sector 4",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Transport Nagar",
+            "short_name" : "Transport Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Agra",
+            "short_name" : "Agra",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Agra",
+            "short_name" : "Agra",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "282002",
+            "short_name" : "282002",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eDelhi - Mathura Hwy\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eTransport Colony, Sector 4, Transport Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAgra\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e282002\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Delhi - Mathura Hwy, Transport Colony, Sector 4, Transport Nagar, Agra, Uttar Pradesh 282002, India",
+      "formatted_phone_number" : "093590 99292",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.208437,
+            "lng" : 77.98077499999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "e6277d10eaf80be70f402d0bac2462a794291b00",
+      "international_phone_number" : "+91 93590 99292",
+      "name" : "Ashok Leyland",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 am – 9:00 pm",
+            "Tuesday: 8:00 am – 9:00 pm",
+            "Wednesday: 8:00 am – 9:00 pm",
+            "Thursday: 8:00 am – 9:00 pm",
+            "Friday: 8:00 am – 9:00 pm",
+            "Saturday: 8:00 am – 9:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJtVLZLXp3dDkRqkx-OrJXzcE",
+      "reference" : "CnRhAAAAyfDAkMHo4r_EeRdH6i-A7Y5QlAkdxHjxeeVrV-om8tpw5b4bdWbJpcYDETIpoHLPJHN8CbwemU8s095S-8o3cL6PAs7PLDFVQqdo9D0jph5gHonO7Qtr1dBoaVGDexKZcb04KDStwjGsZnWVvBwThRIQkASx2uRB8gLQYrWFtMKoRRoUBWCEkTEoYwcewtYi7XmhmmSe3p8",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/114346505428195638098/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Delhi - Mathura Hwy, Transport Colony, Sector 4, Transport Nagar, Agra"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "219 National Road",
+            "short_name" : "219 National Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Saga",
+            "short_name" : "Saga",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Xigaze",
+            "short_name" : "Xigaze",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Tibet",
+            "short_name" : "Tibet",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "China",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e219 National Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSaga\u003c/span\u003e, \u003cspan class=\"locality\"\u003eXigaze\u003c/span\u003e, \u003cspan class=\"region\"\u003eTibet\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eChina\u003c/span\u003e",
+      "formatted_address" : "219 National Road, Saga, Xigaze, Tibet, China",
+      "geometry" : {
+         "location" : {
+            "lat" : 29.415329,
+            "lng" : 85.79946200000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "1f25a4a4737dc4b7571c99377966fa8ed78b2961",
+      "name" : "Tengfei Automobile Repair",
+      "place_id" : "ChIJYQVY0OUIwTkRrFidZXdFoag",
+      "reference" : "CnRtAAAAVfbFjw_JpHCYR7kQ820o9qZV7aL_TDj5E3jsG5RnNN-NVAFJHOcgcNCXuaw0YKSrvjLPdpKmgU-JwTjExmRvvL4mOqUiwYGOwzZPzpYtCJTd1xVNKM6LVnVjwisNmF9QRlETL9HWk5cmZ4qzXLkqgBIQ6OWaWoR6VrviGyGyT7WmjhoUvrZzCLhkeP-rpVxD6A7hjPXt6wI",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/115202425734920839929/about?hl=en-US",
+      "utc_offset" : 480,
+      "vicinity" : "219 National Road, Saga, Xigaze"
+   },
+   "status" : "OK"
+}

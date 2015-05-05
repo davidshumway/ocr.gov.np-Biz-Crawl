@@ -1,0 +1,152 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "21-E",
+            "short_name" : "21-E",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "P.A.C Rd",
+            "short_name" : "P.A.C Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "P.A.C.More",
+            "short_name" : "P.A.C.More",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ram Puram",
+            "short_name" : "Ram Puram",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Shyam Nagar",
+            "short_name" : "Shyam Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208013",
+            "short_name" : "208013",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e21-E, P.A.C Rd\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eP.A.C.More, Ram Puram, Shyam Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208013\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "21-E, P.A.C Rd, P.A.C.More, Ram Puram, Shyam Nagar, Kanpur, Uttar Pradesh 208013, India",
+      "formatted_phone_number" : "088583 62579",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.414002,
+            "lng" : 80.363434
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "66b1681d06ac39bdac6822b30a120553a899b8a6",
+      "international_phone_number" : "+91 88583 62579",
+      "name" : "Gopal Hardware Points",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 8:00 am – 9:00 pm",
+            "Wednesday: 8:00 am – 9:00 pm",
+            "Thursday: 8:00 am – 9:00 pm",
+            "Friday: 8:00 am – 9:00 pm",
+            "Saturday: 8:00 am – 9:00 pm",
+            "Sunday: 8:00 am – 9:00 pm"
+         ]
+      },
+      "place_id" : "ChIJlV418dJGnDkRcamHbS75Hug",
+      "reference" : "CnRpAAAAWX2sxDseRHyskF51UCUCly6iH2tFhgMR0UhNVHDL8eZrfAPsuoZS5WXleSRevCuzmz0oUuJjrLSuVgAwyqRLlhQO9iFFmn1ChNVq2Ltdtm0WsLGUptLjL7_Uzgl1z2XUO4peG9tppKc-8AeydstTmxIQdp9FInG9TZSiQxy_yYEHPhoU6CFN0RTy7eQLMepri5_kOnTTPGA",
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/105461035062697558600/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "21-E, P.A.C Rd, P.A.C.More, Ram Puram, Shyam Nagar, Kanpur"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,86 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Central Bank Road",
+            "short_name" : "Central Bank Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Sagarmal Chowk",
+            "short_name" : "Sagarmal Chowk",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Kalibari",
+            "short_name" : "Kalibari",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Khagaria",
+            "short_name" : "Khagaria",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Khagaria",
+            "short_name" : "Khagaria",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "851204",
+            "short_name" : "851204",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eCentral Bank Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSagarmal Chowk, Kalibari\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKhagaria\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e851204\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Central Bank Road, Sagarmal Chowk, Kalibari, Khagaria, Bihar 851204, India",
+      "formatted_phone_number" : "1800 200 1911",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.501936,
+            "lng" : 86.46581999999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "6ab3308d7ec0b4c8040143e7c38d071941a5eeac",
+      "international_phone_number" : "+91 1800 200 1911",
+      "name" : "Central Bank of India",
+      "place_id" : "ChIJr96FiV3k8TkR0znxYUX7idE",
+      "reference" : "CnRpAAAA-liUXK204LAFDJYvH5rUKObS3ZgZ-9agbpsT5xudxQO4TLyaAR5IMyCayI9vuQeZb6G5EZBWQtwUIVE58SgplZcskNQMCG-lbWf87grozM-Cu_Z7fske_51nNbN_lLHWQ7tQ0rIxDNYeBOnQuleH6BIQku0Za2nsPlvw4L7k8XA6URoUUBS89zEOo1mm8ho4HNeoIfD_BXU",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Gamma Boys",
+            "author_url" : "https://plus.google.com/101145939032481677357",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1426741888
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "bank", "finance", "establishment" ],
+      "url" : "https://plus.google.com/113630374386122701507/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Central Bank Road, Sagarmal Chowk, Kalibari, Khagaria",
+      "website" : "http://www.centralbankofindia.co.in/"
+   },
+   "status" : "OK"
+}

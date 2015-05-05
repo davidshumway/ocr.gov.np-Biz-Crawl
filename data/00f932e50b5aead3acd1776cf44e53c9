@@ -1,0 +1,142 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "142/2",
+            "short_name" : "142/2",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "Roy Bahadur Road",
+            "short_name" : "Roy Bahadur Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Behala",
+            "short_name" : "Behala",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700034",
+            "short_name" : "700034",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "142/2, \u003cspan class=\"street-address\"\u003eRoy Bahadur Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBehala\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700034\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "142/2, Roy Bahadur Road, Behala, Kolkata, West Bengal 700034, India",
+      "formatted_phone_number" : "090078 20378",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.499539,
+            "lng" : 88.325857
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "ba4ab0936a613542bd839271971489c614e92f02",
+      "international_phone_number" : "+91 90078 20378",
+      "name" : "A One Motor",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJG9VuGKdwAjoRGLxNbOW6Qfw",
+      "reference" : "CmRfAAAAShsyWd223XCwJUeB660xeYmivIBQhc7EzOWF1FOFynEFff5EBOrTcglVzDapj-7RgmuLzykrGyqbLE1G37MhlS5H2gWwEty46dYa9GyDv40B_pUYsx28prYrGqVAjYZBEhCK7TfVRxBl7kKBoifsg2e0GhSqVkCCuA4qN8YQYSTTsl7uJwQhEQ",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/115996827478082484631/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "142/2, Roy Bahadur Road, Behala, Kolkata"
+   },
+   "status" : "OK"
+}

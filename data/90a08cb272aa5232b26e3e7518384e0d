@@ -1,0 +1,69 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "NS Road",
+            "short_name" : "NS Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Kushtia",
+            "short_name" : "Kushtia",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kushtia",
+            "short_name" : "Kushtia",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Khulna Division",
+            "short_name" : "Khulna Division",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Bangladesh",
+            "short_name" : "BD",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNS Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKushtia\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eBangladesh\u003c/span\u003e",
+      "formatted_address" : "NS Road, Kushtia, Bangladesh",
+      "geometry" : {
+         "location" : {
+            "lat" : 23.904667,
+            "lng" : 89.13946799999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "b8d110d1eb5efaab83673b7f8df787a22e259f13",
+      "name" : "National Bank Limited",
+      "place_id" : "ChIJD2-zYwKX_jkRny1B2ZZLWis",
+      "reference" : "CnRoAAAAdjfnQOzgxlfhjp2bvHO1N1GbexmGctiTQg5jvtUkHoQvsT4jcOVqa1BBYRZOT3Gjz6ezcPr0MmLD1cwv7INR1opkOpX0cP-seE3XWupgqqozpv4TLGDiOr1-vxwAyrjbTX-3LmYzzqe8GnEO-SqcAxIQFxkQi9oXKvQd097RY4JIzhoU2aJNe9MU1fCB2XkIkD4vPKf3l98",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "sabbir hosan",
+            "author_url" : "https://plus.google.com/102006065028433515882",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Amar bank",
+            "time" : 1425011122
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "bank", "finance", "establishment" ],
+      "url" : "https://plus.google.com/105052072845971240790/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 360,
+      "vicinity" : "NS Road, Kushtia",
+      "website" : "http://www.nblbd.com/"
+   },
+   "status" : "OK"
+}

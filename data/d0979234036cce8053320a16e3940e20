@@ -1,0 +1,73 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "NH 28",
+            "short_name" : "NH 28",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Barauni",
+            "short_name" : "Barauni",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Begusarai",
+            "short_name" : "Begusarai",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "851112",
+            "short_name" : "851112",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNH 28\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBarauni\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e851112\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "NH 28, Barauni, Bihar 851112, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.471275,
+            "lng" : 85.973033
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "d5684133eaefdbbf5220a88c7b05e69f9348c18a",
+      "name" : "Cold Storage",
+      "place_id" : "ChIJMUNj2VUM8jkRHLbe-gxPquo",
+      "reference" : "CmRgAAAAIZgBN3om71Bu7nhLkWVBUBoxYu_rpa81DqB0vMq0MvTC3yMxHL-8QTtWl_6RNL4OboEMEktu0HWPTw-ZgB8azj_bwHxMA_c0rgUFXpAG5L6F0eqfwEN5ViyatO5KUrzbEhAKagEnAHZg68FAn4OIi0CyGhQgsV66jHESo1cBupr_1dRgahDEUQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Dipanjan dutta",
+            "author_url" : "https://plus.google.com/103255207480392825123",
+            "language" : "en",
+            "rating" : 1,
+            "text" : "Something swam",
+            "time" : 1430517380
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/111077402459433269804/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "NH 28, Barauni"
+   },
+   "status" : "OK"
+}

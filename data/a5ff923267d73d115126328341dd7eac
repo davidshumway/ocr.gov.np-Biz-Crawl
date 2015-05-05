@@ -1,0 +1,75 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Main Market Street",
+            "short_name" : "Main Market Street",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Gursarai",
+            "short_name" : "Gursarai",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Jhansi",
+            "short_name" : "Jhansi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "284202",
+            "short_name" : "284202",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eMain Market Street\u003c/span\u003e, \u003cspan class=\"locality\"\u003eGursarai\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e284202\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Main Market Street, Gursarai, Uttar Pradesh 284202, India",
+      "formatted_phone_number" : "05171 221 237",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.61611,
+            "lng" : 79.180183
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+      "id" : "866378600bcb1cdd125db4f1d6874198448c152c",
+      "international_phone_number" : "+91 5171 221 237",
+      "name" : "Techno Solutions",
+      "place_id" : "ChIJTVGJIBXodzkRnnXDEj2kzyk",
+      "reference" : "CnRjAAAAyqYUBbN6-umuRmsMyKtmNy14NQO2SoW__Rkh2vbP9CAT7u8socqZinr7CMR_eAh6YBaiyOkm7MfkLPQ9cqsaucC6-IJRFWR4ZJJxRIMKJNnyezryrMt6Dg-mX85b1dSYj85BM8cmQNGI1ksLbBsb6RIQLjGqjxxmduUNVEeOfS6Q-hoU2uiQ8yaAaG_zROoIYC7mUDxSjLk",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Vijay Singhai",
+            "author_url" : "https://plus.google.com/108071321338789710832",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "Vijay.singhai",
+            "time" : 1391846949
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "finance", "travel_agency", "establishment" ],
+      "url" : "https://plus.google.com/103981775600051894352/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Main Market Street, Gursarai"
+   },
+   "status" : "OK"
+}

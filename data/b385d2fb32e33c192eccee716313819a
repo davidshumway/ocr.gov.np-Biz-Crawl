@@ -1,0 +1,58 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Fraser Road",
+            "short_name" : "Fraser Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Patna",
+            "short_name" : "Patna",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Patna",
+            "short_name" : "Patna",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "800001",
+            "short_name" : "800001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eFraser Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003ePatna\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e800001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Fraser Road, Patna, Bihar 800001, India",
+      "formatted_phone_number" : "0612 320 8890",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.612444,
+            "lng" : 85.138374
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "db0d4e98dc7076613208380ed4ee7950195b510a",
+      "international_phone_number" : "+91 612 320 8890",
+      "name" : "Patna Tyre House",
+      "place_id" : "ChIJbdVFJ4t-DRQRkp2gOTs1BuY",
+      "reference" : "CnRkAAAAOg32iryQJ2TqgpCV9DzebMnp7ATBquqkDyPINOZyZ5FzqeytDd0JlBIWsTdJjJBaAn8oYFQUgodg5gsflZQcBu99uKyCn0Szt2jnkAmEVFv7LB_OnsqrGkrASQ1sxNg2znCqB1w5NM_TTpuaEAdDdxIQ7W8Inu2t52ral_mXDvU9jBoUIKO_REBZPAaSIz0ZaT7IytX7NkI",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/106423827410511276109/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Fraser Road, Patna"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,140 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Nirmal Chandra Street",
+            "short_name" : "Nirmal Chandra Street",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Chandni Chawk",
+            "short_name" : "Chandni Chawk",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Bowbazar",
+            "short_name" : "Bowbazar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700012",
+            "short_name" : "700012",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "40A, \u003cspan class=\"street-address\"\u003eNirmal Chandra Street\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eChandni Chawk, Bowbazar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700012\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "40A, Nirmal Chandra Street, Chandni Chawk, Bowbazar, Kolkata, West Bengal 700012, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.565596,
+            "lng" : 88.359786
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "cd787fa774e3ce54ccba8f4b9e8990f4fd8f73ee",
+      "name" : "Barua Brothers",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1930"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1930"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1930"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1930"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1930"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1930"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 7:30 pm",
+            "Tuesday: 10:00 am – 7:30 pm",
+            "Wednesday: 10:00 am – 7:30 pm",
+            "Thursday: 10:00 am – 7:30 pm",
+            "Friday: 10:00 am – 7:30 pm",
+            "Saturday: 10:00 am – 7:30 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJsZPPXKp3AjoR1miz0eB98EE",
+      "reference" : "CnRhAAAAmWArcPs376uC6a2TYGgljqDrvPy0nlzxYzi4qkybsNsPOb-9NmmZgLvEiC2Nkqku3Khq2YNmCAoWmABQQC2n8qDTjcfZDniY98fs9LqFw9Ex29Kg99msJEWlh3R0CunyWyD4MYQYu9mKVbcILIeQ1BIQmWWE0AldeWxDtnU14-vbixoUtDMs5cs0J6QsytCVwhi1EgAplqw",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "establishment" ],
+      "url" : "https://plus.google.com/118294032844623713497/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "40A, Nirmal Chandra Street, Chandni Chawk, Bowbazar, Kolkata"
+   },
+   "status" : "OK"
+}

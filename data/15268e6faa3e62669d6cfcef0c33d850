@@ -1,0 +1,103 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Azamghar Road",
+            "short_name" : "Azamghar Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Opp. Rai Sahab Bagicha",
+            "short_name" : "Opp. Rai Sahab Bagicha",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Pandeypur",
+            "short_name" : "Pandeypur",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Varanasi",
+            "short_name" : "Varanasi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Varanasi",
+            "short_name" : "Varanasi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "221002",
+            "short_name" : "221002",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eAzamghar Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eOpp. Rai Sahab Bagicha, Pandeypur\u003c/span\u003e, \u003cspan class=\"locality\"\u003eVaranasi\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e221002\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Azamghar Road, Opp. Rai Sahab Bagicha, Pandeypur, Varanasi, Uttar Pradesh 221002, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.354947,
+            "lng" : 82.993357
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "b7f0fba29b0d30d249c54bd14c797823e6603282",
+      "name" : "Usha Complex",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "open" : {
+                  "day" : 0,
+                  "time" : "0000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+         ]
+      },
+      "place_id" : "ChIJx4_bHIAujjkRi1qv2cQ5ofs",
+      "reference" : "CmRgAAAAGY3A-aSn6Fs3Oz8x8hqptIQyNNf6RrunVtyIdX2aUqICI7Xidv97RZM-QMRBX9dSOHQil7LS9xRulo1MGgHCFeg3fWOd65HNq6UCGwNVyrspTnV6XI9AvAj-jtzrhBkHEhA5h1FAMHHUNbiei3HbplbYGhTtwjZNDCnyNHe2W2GJXzAkQj-KXw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Gaurav Pandey",
+            "author_url" : "https://plus.google.com/108459941315769641410",
+            "language" : "en",
+            "rating" : 1,
+            "text" : "Its fake ",
+            "time" : 1428842080
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "shopping_mall", "establishment" ],
+      "url" : "https://plus.google.com/101282692952503438797/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Azamghar Road, Opp. Rai Sahab Bagicha, Pandeypur, Varanasi"
+   },
+   "status" : "OK"
+}

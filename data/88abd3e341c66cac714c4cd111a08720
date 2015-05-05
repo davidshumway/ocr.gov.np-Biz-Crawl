@@ -1,0 +1,147 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Rajarhat Road",
+            "short_name" : "Rajarhat Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Atghara",
+            "short_name" : "Atghara",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Full Tala",
+            "short_name" : "Full Tala",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Newtown",
+            "short_name" : "Newtown",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700136",
+            "short_name" : "700136",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eRajarhat Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eAtghara, Full Tala, Newtown\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700136\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Rajarhat Road, Atghara, Full Tala, Newtown, Kolkata, West Bengal 700136, India",
+      "formatted_phone_number" : "090513 61943",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.626316,
+            "lng" : 88.443665
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "3a0f786797528141b869a3646a5fc0685312cfba",
+      "international_phone_number" : "+91 90513 61943",
+      "name" : "Sanjoy Automobiles",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 6:00 pm",
+            "Tuesday: 9:00 am – 6:00 pm",
+            "Wednesday: 9:00 am – 6:00 pm",
+            "Thursday: 9:00 am – 6:00 pm",
+            "Friday: 9:00 am – 6:00 pm",
+            "Saturday: 9:00 am – 6:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJf5DMu82f-DkR3r0pnglWvi0",
+      "reference" : "CnRlAAAAejKblUkoNCBn43lFoVP47lBl4P5wHZHWSJKtAO_Ll7pWB2RaTYC8d5qxF70kl07dM2GetKmohHtnQ625ck4OUAKfi2AdnvSfaU0UXbspejvj4-oH84j8_mwN_2y2pjtnM7V0_x332lms1mMPpVBRfxIQoIYrdx35KJ7QP3zKBlZIRxoUwp9Ak0z8UUPD-qbFWP0ha4IGcos",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/113141464554428640562/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Rajarhat Road, Atghara, Full Tala, Newtown, Kolkata"
+   },
+   "status" : "OK"
+}

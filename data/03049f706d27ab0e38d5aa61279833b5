@@ -1,0 +1,139 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "37",
+            "short_name" : "37",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "NIrmal Chandra Street",
+            "short_name" : "NIrmal Chandra Street",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Willington",
+            "short_name" : "Willington",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700013",
+            "short_name" : "700013",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e37, NIrmal Chandra Street\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eWillington\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700013\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "37, NIrmal Chandra Street, Willington, Kolkata, West Bengal 700013, India",
+      "formatted_phone_number" : "033 2215 8674",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.566316,
+            "lng" : 88.359858
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "061b9fccf5f431c231a6ae44dae2f05b7f76c060",
+      "international_phone_number" : "+91 33 2215 8674",
+      "name" : "National Engineering Co",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 8:00 pm",
+            "Tuesday: 9:00 am – 8:00 pm",
+            "Wednesday: 9:00 am – 8:00 pm",
+            "Thursday: 9:00 am – 8:00 pm",
+            "Friday: 9:00 am – 8:00 pm",
+            "Saturday: 9:00 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ95axUap3AjoRsBXt187vBMo",
+      "reference" : "CnRrAAAAtRaNfzXPKC3wPF3dOsJEf57Sw4ZDPAlFsO3zZjK_HE2bG7UktfBU45dpdZuArpfpyp9hRd-UROreQSwHIEbXRC7xe7npbxCPNWLd0gubLeNRPc-hjSje7AxO1Vw6Hxd_dLCdRZHaWxZVt1ipGa7bIhIQP3Xsqz03Pq3c4DFjA0gxshoUk9opHuPM26p1FSy75VAsm1rU_K0",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/104347508063249185965/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "37, NIrmal Chandra Street, Willington, Kolkata"
+   },
+   "status" : "OK"
+}

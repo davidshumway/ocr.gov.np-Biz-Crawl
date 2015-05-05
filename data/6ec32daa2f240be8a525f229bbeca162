@@ -1,0 +1,139 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "121/635",
+            "short_name" : "121/635",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Shastri Nagar",
+            "short_name" : "Shastri Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208005",
+            "short_name" : "208005",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e121/635\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eShastri Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208005\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "121/635, Shastri Nagar, Kanpur, Uttar Pradesh 208005, India",
+      "formatted_phone_number" : "099353 87948",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.463743,
+            "lng" : 80.295041
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "779f944bbd546e03e240669a087c58ef7100922e",
+      "international_phone_number" : "+91 99353 87948",
+      "name" : "Bhatia Sanitary & Hardware Store",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: Closed",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: 10:00 am – 8:00 pm"
+         ]
+      },
+      "place_id" : "ChIJ____qws4nDkRW0gJUoyP3N0",
+      "reference" : "CoQBdAAAALvL1_rfMl-EFlyeLX0ZP3VywKQ7fN_u8bXyby1Br2rz-i0sQESqBxmlhNbmXb-dKUpptnjDqecNaK54nuYIbxnIXWlIRJzqq4ccMnQ68ikRUepH2qm1GphsA8NzgNd9cqsXwGrdMcovzH8Fg05FkDdYvOyw91rvp_YbDZd4lG2EEhAPqSOjDS4s7DMnqKvOb6q-GhSj1sOBs4EKfR_DW-rkrlMwNAbIgg",
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/110326571630825364904/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "121/635, Shastri Nagar, Kanpur"
+   },
+   "status" : "OK"
+}

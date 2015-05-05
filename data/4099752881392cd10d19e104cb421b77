@@ -1,0 +1,142 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Mall Rd",
+            "short_name" : "Mall Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "The Mall, In Mari Company Bridge",
+            "short_name" : "The Mall, In Mari Company Bridge",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Mirpur",
+            "short_name" : "Mirpur",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208001",
+            "short_name" : "208001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eMall Rd\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eThe Mall, In Mari Company Bridge, Mirpur\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Mall Rd, The Mall, In Mari Company Bridge, Mirpur, Kanpur, Uttar Pradesh 208001, India",
+      "formatted_phone_number" : "098398 00869",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.459473,
+            "lng" : 80.359956
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "0bb7ace31d0e3566d0ce67b6594bd6fd4b7d1195",
+      "international_phone_number" : "+91 98398 00869",
+      "name" : "Roshan Automation",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1100"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 11:00 am – 9:00 pm",
+            "Tuesday: 11:00 am – 9:00 pm",
+            "Wednesday: 11:00 am – 9:00 pm",
+            "Thursday: 11:00 am – 9:00 pm",
+            "Friday: 11:00 am – 9:00 pm",
+            "Saturday: 11:00 am – 9:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJue4s91FHnDkRl7b0unrgnsY",
+      "reference" : "CnRlAAAAYEqEFRcbjerujQvp3C69hdgbiAXfVHmy4jlprHwBpkv3_GWJ-doGCsv99smPuPktvIDwIvuBjOi9sTzbadv-zeiv49hRh2MmsUpgaC3zU5s_9MrTEzLXyDYMYB3nKX7Td1rPp-J55LvmgvrXnHi69RIQlbhZl_PozF9q99e8nuexShoULEyNpCtiInu1q7FpD3dmJjfEoRA",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/107281441944948270484/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Mall Rd, The Mall, In Mari Company Bridge, Mirpur, Kanpur"
+   },
+   "status" : "OK"
+}

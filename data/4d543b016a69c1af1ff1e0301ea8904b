@@ -1,0 +1,147 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "State Highway 34",
+            "short_name" : "SH 34",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Rasra",
+            "short_name" : "Rasra",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Ballia",
+            "short_name" : "Ballia",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "221712",
+            "short_name" : "221712",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eState Highway 34\u003c/span\u003e, \u003cspan class=\"locality\"\u003eRasra\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e221712\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "State Highway 34, Rasra, Uttar Pradesh 221712, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.865514,
+            "lng" : 83.841005
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "98a947775e2b05f82b7d7c214cf7af2eeca2f4db",
+      "name" : "UP State Power Sub Station",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 4:00 pm",
+            "Tuesday: 10:00 am – 4:00 pm",
+            "Wednesday: 10:00 am – 4:00 pm",
+            "Thursday: 10:00 am – 4:00 pm",
+            "Friday: 10:00 am – 4:00 pm",
+            "Saturday: 10:00 am – 4:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJc0tqNXwWkjkRbp3V1R0R7YU",
+      "reference" : "CnRuAAAAD6hkiLP1nAROn4WHHcTDm8srPMw-tg1MH8HJUfqf9sXFrphlqCc9UkbbY_C8yQbgKpyxWsQ5Xc1lvb26kXDKtrGlsRhNYOOXlAomCNBLv5iFhWzhBDJzhYmUIV4ERVw2qdySLXI52wOD-B7ERWq3LRIQT1OdTLunpbrT-VZhUvajUxoUcjqr8uLtmZqlGWcQo4RiUo09nuo",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Anshuman Singh",
+            "author_url" : "https://plus.google.com/110471792798260771059",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "A 440 KV Grid Station",
+            "time" : 1399876880
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/104590132065865441605/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "State Highway 34, Rasra"
+   },
+   "status" : "OK"
+}

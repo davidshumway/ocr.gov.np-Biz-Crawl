@@ -1,0 +1,138 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Station Road",
+            "short_name" : "Station Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Paschim Medinipur",
+            "short_name" : "Paschim Medinipur",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Medinipur",
+            "short_name" : "Medinipur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "West Medinipur",
+            "short_name" : "West Medinipur",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "721101",
+            "short_name" : "721101",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eStation Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003ePaschim Medinipur\u003c/span\u003e, \u003cspan class=\"locality\"\u003eMedinipur\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e721101\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Station Road, Paschim Medinipur, Medinipur, West Bengal 721101, India",
+      "formatted_phone_number" : "1800 209 5577",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.424962,
+            "lng" : 87.308685
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "c2ac90327370d92a3f9735b6787d21a357e6929b",
+      "international_phone_number" : "+91 1800 209 5577",
+      "name" : "Axis Bank Ltd",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1530"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1530"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1530"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1530"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1530"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1330"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0930"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:30 am – 3:30 pm",
+            "Tuesday: 9:30 am – 3:30 pm",
+            "Wednesday: 9:30 am – 3:30 pm",
+            "Thursday: 9:30 am – 3:30 pm",
+            "Friday: 9:30 am – 3:30 pm",
+            "Saturday: 9:30 am – 1:30 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJfZfZkFtbHToRhz9zqywfNRI",
+      "reference" : "CmRgAAAAgDbPN4QQs39fCOrr0gbknkE5_mWmCT5mU4uzaZ8ddUMETRHmmuPkLb9DpC1DP1rGqVuMI890yAovfGXD7jTpg0PczQD3BDn72ytOApVSX750c57ar4MmYCxHLmU8jLG_EhBzo9L7u9P6DqnDjz-PQ7oWGhRDGmdytoykbOm-egbTqHrxt5lcpw",
+      "scope" : "GOOGLE",
+      "types" : [ "bank", "finance", "establishment" ],
+      "url" : "https://plus.google.com/101639581838313903246/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Station Road, Paschim Medinipur, Medinipur",
+      "website" : "http://www.axisbank.com/"
+   },
+   "status" : "OK"
+}

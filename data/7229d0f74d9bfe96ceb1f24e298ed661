@@ -1,0 +1,135 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Naka Road",
+            "short_name" : "Naka Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Naka",
+            "short_name" : "Naka",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Faizabad",
+            "short_name" : "Faizabad",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Faizabad",
+            "short_name" : "Faizabad",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "224001",
+            "short_name" : "224001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNaka Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNaka\u003c/span\u003e, \u003cspan class=\"locality\"\u003eFaizabad\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e224001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Naka Road, Naka, Faizabad, Uttar Pradesh 224001, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.763672,
+            "lng" : 82.142116
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "6f13d1eec548d0ad5861c76a07d29f9d241cd487",
+      "name" : "Gupta Hardware",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0930"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:30 am – 9:00 pm",
+            "Tuesday: 9:30 am – 9:00 pm",
+            "Wednesday: 9:30 am – 9:00 pm",
+            "Thursday: Closed",
+            "Friday: 9:30 am – 9:00 pm",
+            "Saturday: 9:30 am – 9:00 pm",
+            "Sunday: 9:30 am – 9:00 pm"
+         ]
+      },
+      "place_id" : "ChIJQU2w-qYImjkRBVAy145PZvw",
+      "reference" : "CnRiAAAAdIRDGf_OPLgg1qvtFUJOar7NDWPQdPoHhw6VPbLHF7oTgNc2Orl-utwfomALuk5l2pTvVdG89kCuYFRxhoF5Gr8E8aicRlkJbSOJCps3FswtiVmNdFdySZPStEEhUOldd97iTpgAXMEvPfJmWD0kIRIQrQmpt1guWOsmHdcVmcxRdhoUGLkPqgjplgm1K4hOBNDNTMfbMF0",
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/114352493003779112273/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Naka Road, Naka, Faizabad"
+   },
+   "status" : "OK"
+}

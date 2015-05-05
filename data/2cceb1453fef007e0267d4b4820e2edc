@@ -1,0 +1,133 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "R B A C",
+            "short_name" : "R B A C",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Rash Behari Avenue Connector",
+            "short_name" : "Rash Behari Ave Connector",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Kasba",
+            "short_name" : "Kasba",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700107",
+            "short_name" : "700107",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "P35, Industrial Estate, Phase II. 700107, \u003cspan class=\"street-address\"\u003eR B A C, Rash Behari Avenue Connector\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eKasba\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700107\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "P35, Industrial Estate, Phase II. 700107, R B A C, Rash Behari Avenue Connector, Kasba, Kolkata, West Bengal 700107, India",
+      "formatted_phone_number" : "033 2443 0253",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.51953,
+            "lng" : 88.376086
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "3020ce996392e4050a0b3a20274106e86efda64b",
+      "international_phone_number" : "+91 33 2443 0253",
+      "name" : "Adams Elevator Company Pvt. Ltd.",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1930"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1930"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1930"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1930"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1930"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0930"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:30 am – 7:30 pm",
+            "Tuesday: 9:30 am – 7:30 pm",
+            "Wednesday: 9:30 am – 7:30 pm",
+            "Thursday: 9:30 am – 7:30 pm",
+            "Friday: 9:30 am – 7:30 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJB7AlXsx2AjoRZDyK-Z4bBcQ",
+      "reference" : "CoQBdAAAALfyllvGJdv6tvvHiw2dQxLRhzTg6lrKi5IghP6WcWexlkeRFLy_1q5vEKbiQ1XNCec7r62sca8gIitwt2FmUVV5GiMs9sG3Vyo92XOcPO7txhgq_dlOo8n__b4ZhPNpaDOF_NRipHYu4S6LSixyD9q1CwJkv1RgPPm-aYRgTXLNEhB2sck8srTfdGtnZVE3txGmGhTuRB_sG9jpcW-LEggab9h1gwKmbQ",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/100748418502961577173/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "P35, Industrial Estate, Phase II. 700107, R B A C, Rash Behari Avenue Connector, Kasba, Kolkata",
+      "website" : "http://www.adamselevator.in"
+   },
+   "status" : "OK"
+}

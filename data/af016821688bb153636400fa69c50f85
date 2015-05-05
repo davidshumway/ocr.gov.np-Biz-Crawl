@@ -1,0 +1,80 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "MLB Road",
+            "short_name" : "MLB Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Lashkar",
+            "short_name" : "Lashkar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Gwalior",
+            "short_name" : "Gwalior",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Gwalior",
+            "short_name" : "Gwalior",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Madhya Pradesh",
+            "short_name" : "Madhya Pradesh",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "474001",
+            "short_name" : "474001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eMLB Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eLashkar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eGwalior\u003c/span\u003e, \u003cspan class=\"region\"\u003eMadhya Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e474001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "MLB Road, Lashkar, Gwalior, Madhya Pradesh 474001, India",
+      "formatted_phone_number" : "092000 01796",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.208245,
+            "lng" : 78.16553500000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "ec65ae1fa4a38eb0a685c4f4e39232b6486ec380",
+      "international_phone_number" : "+91 92000 01796",
+      "name" : "Kamal Automobiles",
+      "place_id" : "ChIJFbSB-SjEdjkR1Lkznp6zW8I",
+      "reference" : "CnRlAAAAg0A9VftGtRZjWSrlybRXSlGIkjW1Vc5A-2vZLUcfS19FyPwP72EoSgtzesfMEp1ZYBzsRK8RlsxP2HbEGX77OrUpLJb8EetUbCmPlZXT5NoA40Im3zBx_70whtXeu5OrKbiiyWnu3GxRBd4J0lWR-hIQJ8gM-1QGRZMNKVceenpa0BoU3g7yuo_N1HUjLKUbQF0qJrFKf1s",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Kamaljeet Singh",
+            "author_url" : "https://plus.google.com/107977375756773948617",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Tractor spares parts dealer",
+            "time" : 1429811049
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/107392486389365306921/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "MLB Road, Lashkar, Gwalior"
+   },
+   "status" : "OK"
+}

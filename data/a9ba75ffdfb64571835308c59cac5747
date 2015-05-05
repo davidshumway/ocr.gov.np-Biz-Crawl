@@ -1,0 +1,202 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Garia Main Road",
+            "short_name" : "Garia Main Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Barhans",
+            "short_name" : "Barhans",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Garia",
+            "short_name" : "Garia",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700084",
+            "short_name" : "700084",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eGaria Main Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBarhans, Garia\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700084\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Garia Main Road, Barhans, Garia, Kolkata, West Bengal 700084, India",
+      "formatted_phone_number" : "098743 58310",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.463476,
+            "lng" : 88.379734
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "6c9f279b27e266e065834d44ae78376b650c7e79",
+      "international_phone_number" : "+91 98743 58310",
+      "name" : "Uma Enterprise",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 – 11:00 am, 6:00 – 10:00 pm",
+            "Tuesday: 8:00 – 11:00 am, 6:00 – 10:00 pm",
+            "Wednesday: 8:00 – 11:00 am, 6:00 – 10:00 pm",
+            "Thursday: 8:00 – 11:00 am, 6:00 – 10:00 pm",
+            "Friday: 8:00 – 11:00 am, 6:00 – 10:00 pm",
+            "Saturday: 8:00 – 11:00 am, 6:00 – 10:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJof75eKFxAjoRGDo3PGy_qTQ",
+      "reference" : "CnRhAAAAobaDlykpVz1osVsoBaK23AlwtLsCv7Qc9prDix5kgHoPM1S_g-4qVkkou1n8JdIxAd7ggzFHHRSmAExqTZ0UOtIXMemD2I41qLsIYM0jdIqW052xyG5fTg4ItNz6TkLIhAhnC7Vr9KB9XD9AGbBaQhIQ3iY0QPowu22o-w98-QN5WhoUFYrNXjFYr61SqPSb22JLqZaHAn0",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/116416288280555521914/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Garia Main Road, Barhans, Garia, Kolkata"
+   },
+   "status" : "OK"
+}

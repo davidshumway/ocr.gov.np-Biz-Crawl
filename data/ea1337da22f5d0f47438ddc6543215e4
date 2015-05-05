@@ -1,0 +1,152 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Sikandra Road",
+            "short_name" : "Sikandra Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Sector 1",
+            "short_name" : "Sector 1",
+            "types" : [ "sublocality_level_3", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Bodla",
+            "short_name" : "Bodla",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Lohamandi",
+            "short_name" : "Lohamandi",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Agra",
+            "short_name" : "Agra",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Agra",
+            "short_name" : "Agra",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "282007",
+            "short_name" : "282007",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eSikandra Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSector 1, Bodla, Lohamandi\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAgra\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e282007\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Sikandra Road, Sector 1, Bodla, Lohamandi, Agra, Uttar Pradesh 282007, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.191161,
+            "lng" : 77.959136
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "d60ca8fedf7a3f8f024c999aec11cd6c09f86b34",
+      "name" : "M/S Singh Electronics & Furnitures",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 10:00 pm",
+            "Tuesday: 9:00 am – 10:00 pm",
+            "Wednesday: 9:00 am – 10:00 pm",
+            "Thursday: 9:00 am – 10:00 pm",
+            "Friday: 9:00 am – 10:00 pm",
+            "Saturday: 9:00 am – 10:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJiz3gmL13dDkRkYHM1grkgac",
+      "reference" : "CoQBdgAAAGNtbqxWx04BbAQWOkKn_sdeBaSA7nlWww_d4ybyLOUmsMwg0Y1e-DdFkHaIKJYJWAWcNtazeqnNvlZxcFC9gOguasdz4ywKBCqTBnT1AA7fVnd5dAXIKjgwb8D0IqxO9CucD4xL0cfy2oj5jdmUjcFZ-g3WIE1BlFNr0odRlK54EhDQS_tMpR7GaPFAOF9mZ7XPGhRdW8Hi98QD2upDMVXj_vApKRuk2A",
+      "scope" : "GOOGLE",
+      "types" : [
+         "furniture_store",
+         "electronics_store",
+         "general_contractor",
+         "home_goods_store",
+         "store",
+         "establishment"
+      ],
+      "url" : "https://plus.google.com/110155114415734025941/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Sikandra Road, Sector 1, Bodla, Lohamandi, Agra"
+   },
+   "status" : "OK"
+}

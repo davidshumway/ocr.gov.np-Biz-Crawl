@@ -1,0 +1,227 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Barrackpore Barasat Road",
+            "short_name" : "Barrackpore Barasat Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Nona Chandanpukur",
+            "short_name" : "Nona Chandanpukur",
+            "types" : [ "sublocality_level_3", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Jaffarpur",
+            "short_name" : "Jaffarpur",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Barrackpore",
+            "short_name" : "Barrackpore",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700122",
+            "short_name" : "700122",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eBarrackpore Barasat Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNona Chandanpukur, Jaffarpur, Barrackpore\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700122\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Barrackpore Barasat Road, Nona Chandanpukur, Jaffarpur, Barrackpore, Kolkata, West Bengal 700122, India",
+      "formatted_phone_number" : "033 2594 2213",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.766754,
+            "lng" : 88.381568
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "52af54bbfe52dca1edbc1334a1a172eb7abf2e20",
+      "international_phone_number" : "+91 33 2594 2213",
+      "name" : "Samavaika",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1330"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1330"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1330"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1330"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1330"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1330"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1330"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 7:00 am – 1:30 pm, 6:00 – 10:00 pm",
+            "Tuesday: 7:00 am – 1:30 pm, 6:00 – 10:00 pm",
+            "Wednesday: 7:00 am – 1:30 pm, 6:00 – 10:00 pm",
+            "Thursday: 7:00 am – 1:30 pm, 6:00 – 10:00 pm",
+            "Friday: 7:00 am – 1:30 pm, 6:00 – 10:00 pm",
+            "Saturday: 7:00 am – 1:30 pm, 6:00 – 10:00 pm",
+            "Sunday: 7:00 am – 1:30 pm, 6:00 – 10:00 pm"
+         ]
+      },
+      "place_id" : "ChIJVTjJ4kea-DkRLMbMYG29CUo",
+      "reference" : "CmRcAAAANCebXV8H63Vite_-sf0rw4cK_GgIQ6S46lXCYw2B-Hnn70H2WucCXCEUcdE06qWagUj9NfbtgpYuV_Cf_EUAyDpNVrWsjptMWh7kScD5rKjDcoLXzQp9R_ar3bthZBY3EhC0j-csEGMyfqQWBRcuHVVTGhT2_AE3vLEVdBa1bemJfYhsx8Pwrg",
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/100948172786861714434/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Barrackpore Barasat Road, Nona Chandanpukur, Jaffarpur, Barrackpore, Kolkata"
+   },
+   "status" : "OK"
+}

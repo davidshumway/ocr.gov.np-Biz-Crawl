@@ -1,0 +1,73 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "State Highway 31",
+            "short_name" : "SH 31",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Etah",
+            "short_name" : "Etah",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Etah",
+            "short_name" : "Etah",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "207001",
+            "short_name" : "207001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eState Highway 31\u003c/span\u003e, \u003cspan class=\"locality\"\u003eEtah\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e207001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "State Highway 31, Etah, Uttar Pradesh 207001, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.556115,
+            "lng" : 78.646478
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "e7add72edf67314f1d60e60a7e87503993395e8b",
+      "name" : "Roadways Quarters",
+      "place_id" : "ChIJUQt-l_z9dDkRge5Pc2U9JCM",
+      "reference" : "CnRkAAAAiqyxMOWIercUhx_B_avQOqfM9P-itZYz0L74xlswhFIEW-_Fp63ccB5bq2QlafFb6fE0PJDgA6-PAgnVem4G5cgX5Sie_Vg59Wg1CzoWoUteQ1FIPVwA2ENLMtksv-nIHFwwpSm0Wrq2df3LsXagbBIQvy1LM0FVZDg_On-Zv2gQZxoU0LuBUsLYATHDTm6mqZTV4aeoKik",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Sandeep Kumar",
+            "author_url" : "https://plus.google.com/116720545648595607511",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1421439000
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/110513449952852305964/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "State Highway 31, Etah"
+   },
+   "status" : "OK"
+}

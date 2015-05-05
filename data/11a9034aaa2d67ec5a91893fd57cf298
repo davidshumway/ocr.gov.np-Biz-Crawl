@@ -1,0 +1,68 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Sowan",
+            "short_name" : "Sowan",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Buxar",
+            "short_name" : "Buxar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "802119",
+            "short_name" : "802119",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eSowan\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e802119\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Sowan, Bihar 802119, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.554677,
+            "lng" : 84.2222
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "f966aa84459e9dff14da911f3be2e872804cfc57",
+      "name" : "Brick Kiln",
+      "place_id" : "ChIJr6yiBnx_kjkR1NAMv0vZz1k",
+      "reference" : "CmRdAAAAV6i48Htmr8cX2jEuHqeUxpj-jv2NkdmGFE1ALQk5kPFPe_tnifbZK2RuLcIXD-5Pn2x8qfaOyCHVjlCtbB5ktuBw0dirGOV29s5WzYOrggZJU7Wv4Xu1zJpfO4OoEGt3EhDF6AI6pj8XEXQOzO_zy6FHGhR3ZnG2XYthMNoy1ULfNX_FAFaMzg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Suraj Singh",
+            "author_url" : "https://plus.google.com/109769416377353379459",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Sarora village{suraj}",
+            "time" : 1372749916
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/103463182548245848162/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Sowan"
+   },
+   "status" : "OK"
+}

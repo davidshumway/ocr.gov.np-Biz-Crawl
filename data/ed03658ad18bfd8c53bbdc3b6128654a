@@ -1,0 +1,144 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "16/4/B",
+            "short_name" : "16/4/B",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "Baghbazar Street",
+            "short_name" : "Baghbazar St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Shyam Bazar",
+            "short_name" : "Shyam Bazar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700003",
+            "short_name" : "700003",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "16/4/B, \u003cspan class=\"street-address\"\u003eBaghbazar Street\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eShyam Bazar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700003\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "16/4/B, Baghbazar Street, Shyam Bazar, Kolkata, West Bengal 700003, India",
+      "formatted_phone_number" : "098364 55749",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.603584,
+            "lng" : 88.369653
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "41d267bc987b027deaa2d928504b713b1ff1877a",
+      "international_phone_number" : "+91 98364 55749",
+      "name" : "Sree Ganesh Hardware",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJwfVt7C52AjoRKaGXfmk61ao",
+      "reference" : "CnRoAAAA-Ke_p1dkjNmul_TVROLQZUldAw5B4o-vWFnCuo3kYPadxnqY-7q-iTsl1b1Zo6N_kV3aUdfiFTJ32_VdqKKabJKD3Kk9IKkyCA0wYA6ZW6Z3PbXkAmPbBvcHyKMLWPm0YcR0nZnMXXJU71CGvddmaRIQYzD5KtR6Jy_LbDi9HqjXQhoUGeCyAHJTKQuZePnUBeMUYsyzeGk",
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/100243304291587871086/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "16/4/B, Baghbazar Street, Shyam Bazar, Kolkata"
+   },
+   "status" : "OK"
+}

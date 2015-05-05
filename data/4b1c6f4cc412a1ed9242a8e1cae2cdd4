@@ -1,0 +1,65 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "New Road",
+            "short_name" : "New Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Alipore",
+            "short_name" : "Alipore",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700027",
+            "short_name" : "700027",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNew Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eAlipore\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700027\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "New Road, Alipore, Kolkata, West Bengal 700027, India",
+      "formatted_phone_number" : "033 2439 9934",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.524916,
+            "lng" : 88.32761499999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "8742856f780daeae62c4fe38bddb886c9875594e",
+      "international_phone_number" : "+91 33 2439 9934",
+      "name" : "Finesse",
+      "place_id" : "ChIJG9c8IFd3AjoR1Uw0BBqHK_Y",
+      "reference" : "CmRbAAAApX55RzwSljeW6eW0oX3vhrBcAd0TtSZXYzYlG2ubw1XqxVNu33Uq-fM1uZQRKENsipUDJJWJLDf9pLJmQzNsWYlzwK8K9AqCLStiJqPHHGJm7aobJG6CCveGetTlUda2EhD0Qe7CW6SkOW_kk-t6qRC_GhRswZtcJQDaOWTkt8bJvvqmC6BvjA",
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/114161440944408183726/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "New Road, Alipore, Kolkata"
+   },
+   "status" : "OK"
+}

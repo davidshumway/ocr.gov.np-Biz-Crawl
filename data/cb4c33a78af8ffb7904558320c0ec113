@@ -1,0 +1,145 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Bikramganj",
+            "short_name" : "Bikramganj",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Rohtas",
+            "short_name" : "Rohtas",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "802212",
+            "short_name" : "802212",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eBikramganj\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e802212\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Bikramganj, Bihar 802212, India",
+      "formatted_phone_number" : "1800 233 3555",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.224666,
+            "lng" : 84.270388
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+      "id" : "f612ff5f1042563ed6015f30a268616016fc73d3",
+      "international_phone_number" : "+91 1800 233 3555",
+      "name" : "Tamanna Indane Gas Agency",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1300"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 5:00 pm",
+            "Tuesday: 10:00 am – 5:00 pm",
+            "Wednesday: 10:00 am – 5:00 pm",
+            "Thursday: 10:00 am – 5:00 pm",
+            "Friday: 10:00 am – 5:00 pm",
+            "Saturday: 10:00 am – 1:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJY_3RmIB1jTkRmNx2E_lFFnY",
+      "reference" : "CnRsAAAAMANI77_yTaRheMuoS7l8NTm_ImSL1YwsUsL43kJahwfJKrPiFZMTOD3IDhu1RWNtsgdyhH9QF20f24ZlBhgNyXm7tpFzWKIR1AeB6A457U7iLeo_UKh14QaTyvAursc_vYUTYLHY0sBc9W9kJcQdlBIQvn6hTbqlJeOrbWAqT9NihBoUGjQtJ91VtcgOJyTaMUw3uWp1fFg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Manoj Singh",
+            "author_url" : "https://plus.google.com/113822745164127961870",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1344931183
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "gas_station", "establishment" ],
+      "url" : "https://plus.google.com/102438259427645703684/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Bikramganj",
+      "website" : "http://www.indane.co.in/"
+   },
+   "status" : "OK"
+}

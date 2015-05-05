@@ -1,0 +1,147 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Panki Road",
+            "short_name" : "Panki Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Sector 1",
+            "short_name" : "Sector 1",
+            "types" : [ "sublocality_level_3", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Awas Vikas 1",
+            "short_name" : "Awas Vikas 1",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kalyanpur",
+            "short_name" : "Kalyanpur",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208017",
+            "short_name" : "208017",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003ePanki Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSector 1, Awas Vikas 1, Kalyanpur\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208017\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Panki Road, Sector 1, Awas Vikas 1, Kalyanpur, Kanpur, Uttar Pradesh 208017, India",
+      "formatted_phone_number" : "080907 41869",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.490797,
+            "lng" : 80.247079
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "3bda2ffc64d9acacebfb303fb0e39233578d5511",
+      "international_phone_number" : "+91 80907 41869",
+      "name" : "Soorya Auto Agency",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1930"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1930"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1930"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1930"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1930"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1930"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 10:00 am – 7:30 pm",
+            "Wednesday: 10:00 am – 7:30 pm",
+            "Thursday: 10:00 am – 7:30 pm",
+            "Friday: 10:00 am – 7:30 pm",
+            "Saturday: 10:00 am – 7:30 pm",
+            "Sunday: 10:00 am – 7:30 pm"
+         ]
+      },
+      "place_id" : "ChIJT8fIbrk3nDkRWPUUjDd6eHA",
+      "reference" : "CnRlAAAAmVrGwRXczr8KTQxNTAjqgtTnXmOeHwvxQXf-6vY58j7Fw7DeixdRvOvTJlRd-_YFkyE_y9Arwusqn2jFrTDRuc7z8BqrWCD1pxrcoZ7GD0To9ddK5HoG9OdRGB8rHZR1D4SRrj9622UK-8Mj4UP0xRIQjfVbGCB6Ursxjr_NSpiV1xoU_f2xDaS-olLrBMvpYuTCMjFAxuU",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/117490833322392220658/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Panki Road, Sector 1, Awas Vikas 1, Kalyanpur, Kanpur"
+   },
+   "status" : "OK"
+}

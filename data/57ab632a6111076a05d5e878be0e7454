@@ -1,0 +1,73 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Sector 1",
+            "short_name" : "Sector 1",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Bokaro Steel City",
+            "short_name" : "Bokaro Steel City",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bokaro",
+            "short_name" : "Bokaro",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Jharkhand",
+            "short_name" : "JH",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "827003",
+            "short_name" : "827003",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"extended-address\"\u003eSector 1\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBokaro Steel City\u003c/span\u003e, \u003cspan class=\"region\"\u003eJharkhand\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e827003\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Sector 1, Bokaro Steel City, Jharkhand 827003, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 23.660749,
+            "lng" : 86.162649
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "d762fdc46b009b7dd525e7eed9059f05129d4f3d",
+      "name" : "Middle School Building",
+      "place_id" : "ChIJWXj4Xs4j9DkRRDyuqCy5-7E",
+      "reference" : "CnRqAAAAHuGEiJW-2RBG9X38XM2qEonkXyOC7FdBP8sQ7OwGZpIZRrLj82O6HQOSdwXYhrs3mpyCrg0dhWVIr8d1GZQyEFPK6xW8B5qkTDZL5n7xf2TxW-_cI1nkXoZBzJPoV2gO0SqlQlF4jlTY0WK7IOfjVxIQtthECKQeytT-D8ESnMax3xoUc03Lv0HxX_mtl1CyuDLFE5A5ukE",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Lavanya Roy Sharma",
+            "author_url" : "https://plus.google.com/114720864854306401506",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Best school in town ",
+            "time" : 1375516520
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "school", "establishment" ],
+      "url" : "https://plus.google.com/112446330474113969213/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Sector 1, Bokaro Steel City"
+   },
+   "status" : "OK"
+}

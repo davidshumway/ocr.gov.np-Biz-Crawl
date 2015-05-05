@@ -1,0 +1,147 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "House No. 84, Shop No. 49",
+            "short_name" : "House No. 84, Shop No. 49",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "Hamirpur Road",
+            "short_name" : "Hamirpur Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Juhi Kalan",
+            "short_name" : "Juhi Kalan",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kidwai Nagar",
+            "short_name" : "Kidwai Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208014",
+            "short_name" : "208014",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "House No. 84, Shop No. 49, \u003cspan class=\"street-address\"\u003eHamirpur Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eJuhi Kalan, Kidwai Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208014\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "House No. 84, Shop No. 49, Hamirpur Road, Juhi Kalan, Kidwai Nagar, Kanpur, Uttar Pradesh 208014, India",
+      "formatted_phone_number" : "095985 09563",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.428422,
+            "lng" : 80.320774
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "7d34377506ab6df908ea5ead6af90cba66ab8932",
+      "international_phone_number" : "+91 95985 09563",
+      "name" : "Bharat Auto",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: Closed",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: 10:00 am – 8:00 pm"
+         ]
+      },
+      "place_id" : "ChIJz-X23KlHnDkREFP5cx5DpvA",
+      "reference" : "CmRfAAAAIWrsMwBFwxfYP2IrVtQZU_90zltjVw5aGBK2HjIq3itDUMgQU9FZ0wBnyyDqSOn8wkdn66F6EThKxpLcn1OoEFlX6uG7zY94gb1lvBwBLtiDpYutRNBCdJmzJ1yeHd9yEhD8HZ7In661NAjj60PBlJxdGhRArHXNxkA3t88P0xKPKAAJ9lWWtw",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/107181884659169273002/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "House No. 84, Shop No. 49, Hamirpur Road, Juhi Kalan, Kidwai Nagar, Kanpur"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,129 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Strand Road",
+            "short_name" : "Strand Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700001",
+            "short_name" : "700001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "40, No. 60, \u003cspan class=\"street-address\"\u003eStrand Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "40, No. 60, Strand Road, Kolkata, West Bengal 700001, India",
+      "formatted_phone_number" : "033 2230 4649",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.579266,
+            "lng" : 88.348173
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "22fac083d4e9357478f1930a05e95f015c8bf9c0",
+      "international_phone_number" : "+91 33 2230 4649",
+      "name" : "Jalaram Industrial And Agricultural Suppliers",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 7:00 pm",
+            "Tuesday: 10:00 am – 7:00 pm",
+            "Wednesday: 10:00 am – 7:00 pm",
+            "Thursday: 10:00 am – 7:00 pm",
+            "Friday: 10:00 am – 7:00 pm",
+            "Saturday: 10:00 am – 7:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJgZzA46J3AjoRtNv79BmOFls",
+      "reference" : "CoQBgAAAAC3PAz86X22kbOOMp72q5s1OzV7wsD4YxGivFybvzPzqOHwZpgPCfQjl9lqs8ECLKkPE4p9zR3kc7I7pE-R2M4VpGoDx6sM65MzEycEXbRddf8An13QDngcmP_5SzFu7o1gtX5sYNM3QBzqXjFqiKvxZlfuq0wpP08aHlPBQSGvoEhDqIVy4T5kI5uiDoxoLEM4BGhTimlzNMEoPqPFwJ3vseCLHhwk5cQ",
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/102906774415380013193/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "40, No. 60, Strand Road, Kolkata"
+   },
+   "status" : "OK"
+}

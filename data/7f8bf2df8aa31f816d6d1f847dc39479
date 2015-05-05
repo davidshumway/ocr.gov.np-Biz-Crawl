@@ -1,0 +1,73 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "State Highway 66",
+            "short_name" : "SH66",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Deona Gopal",
+            "short_name" : "Deona Gopal",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Saharsa",
+            "short_name" : "Saharsa",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "852212",
+            "short_name" : "852212",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eState Highway 66\u003c/span\u003e, \u003cspan class=\"locality\"\u003eDeona Gopal\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e852212\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "State Highway 66, Deona Gopal, Bihar 852212, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.881437,
+            "lng" : 86.52156100000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "f5b366264c5aacb03c18d6ec7beaf8157f52628a",
+      "name" : "Bricks",
+      "place_id" : "ChIJvyhYzOoW7jkRm-b_7uKhxKw",
+      "reference" : "CmRaAAAAcIOu3p6xqRX6dKb1DheMBvd5-WeKo4rz3ktzdTfTb2LdOaavkRsuFjmnFEAvH8oQQ72PqbXLvMNA-ftg9Ah919223dbWq88mYKC4vMwv33GxAswFoxhiFdhOkVM3ZKGmEhC0QeIKd2DPZNEe18oBmoKYGhT-jbTC4SPuS3BVtrJ4a9X0iOz-fQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Rama Vats",
+            "author_url" : "https://plus.google.com/102414612304021173971",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1421828357
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "store", "establishment" ],
+      "url" : "https://plus.google.com/104688393084633679308/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "State Highway 66, Deona Gopal"
+   },
+   "status" : "OK"
+}

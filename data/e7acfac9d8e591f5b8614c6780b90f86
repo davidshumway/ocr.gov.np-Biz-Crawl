@@ -1,0 +1,142 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "RTO Road",
+            "short_name" : "RTO Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Sector 4",
+            "short_name" : "Sector 4",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Transport Nagar",
+            "short_name" : "Transport Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Agra",
+            "short_name" : "Agra",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Agra",
+            "short_name" : "Agra",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "282002",
+            "short_name" : "282002",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eRTO Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSector 4, Transport Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAgra\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e282002\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "RTO Road, Sector 4, Transport Nagar, Agra, Uttar Pradesh 282002, India",
+      "formatted_phone_number" : "094106 64349",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.208929,
+            "lng" : 77.98043
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "c0d7c042aecbc4b4351eacd24501666f5ac8bf23",
+      "international_phone_number" : "+91 94106 64349",
+      "name" : "Goodluck Tyres",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJMZQHzXt3dDkRd-IL5q2Go_o",
+      "reference" : "CnRiAAAAheitTQMgFeVISwKbg4EJp2trSc6uRY1fLLXPp_yevF1lZ2ouckgT04fVj9ZAh5o2eheuxAwETYF4TKHdQrCL9Vd3dvJAUso4LmBPxj9knMsW_XKMRb9JVhcw7gKqDoFxzbVFWS4Nb5KNuTQ9VocaFRIQGeonb9D9slGtH2k3ASUJLBoUhXdWUiE1rhsyCAon145fPEOAIDA",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/106771398435259237529/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "RTO Road, Sector 4, Transport Nagar, Agra"
+   },
+   "status" : "OK"
+}

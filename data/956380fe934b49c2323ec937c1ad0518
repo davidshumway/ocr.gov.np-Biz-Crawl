@@ -1,0 +1,144 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Shop No. 123/1",
+            "short_name" : "Shop No. 123/1",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "Roy Bahadur Road",
+            "short_name" : "Roy Bahadur Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Behala",
+            "short_name" : "Behala",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700034",
+            "short_name" : "700034",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Shop No. 123/1, \u003cspan class=\"street-address\"\u003eRoy Bahadur Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBehala\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700034\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Shop No. 123/1, Roy Bahadur Road, Behala, Kolkata, West Bengal 700034, India",
+      "formatted_phone_number" : "033 2445 8057",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.499656,
+            "lng" : 88.325525
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "3e504259fa26082559d25482c041d3231de827a8",
+      "international_phone_number" : "+91 33 2445 8057",
+      "name" : "R. K. Traders",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJdxveFKdwAjoRt1GUe67k6T8",
+      "reference" : "CmRgAAAAYDlZeJAvKtxpUX0pWQPm-mJHd19VJkdJHtZ1SPSez-93LJvXmdL7Vm6Ef-Dy2HG97VCOGO6Z_LKyuEdEdqAhXLPlsBnNC3Mo09bOw27D_4LTLeTENneD1CHlF-3JfwDEEhANWra9kfXsJowNIIjdrYy3GhSaCe8MCyMaaTNtPAhHAxyz0bskeg",
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/116956220105774511128/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Shop No. 123/1, Roy Bahadur Road, Behala, Kolkata"
+   },
+   "status" : "OK"
+}

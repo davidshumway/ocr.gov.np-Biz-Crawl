@@ -1,0 +1,157 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "State Highway 25",
+            "short_name" : "SH 25",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Hardoi",
+            "short_name" : "Hardoi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Hardoi",
+            "short_name" : "Hardoi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "241001",
+            "short_name" : "241001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eState Highway 25\u003c/span\u003e, \u003cspan class=\"locality\"\u003eHardoi\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e241001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "State Highway 25, Hardoi, Uttar Pradesh 241001, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.395093,
+            "lng" : 80.131901
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "f67b88780f1c67c8d207f9e90592a1086285e425",
+      "name" : "Jain stores - Tarang Umang",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 am – 7:00 pm",
+            "Tuesday: 8:00 am – 7:00 pm",
+            "Wednesday: 8:00 am – 7:00 pm",
+            "Thursday: 8:00 am – 7:00 pm",
+            "Friday: 8:00 am – 7:00 pm",
+            "Saturday: 8:00 am – 7:00 pm",
+            "Sunday: 8:00 am – 7:00 pm"
+         ]
+      },
+      "place_id" : "ChIJo7XEfC_4njkRLRDD8_ZkHq4",
+      "reference" : "CnRuAAAAFsxQFGurMW8Cr7l5vguruJJ6JEaR5aPlJgl3rljqCvLd9TD5JmrwFaTv3umYVOAazIyddc1WaxCq-Ng_1VR3N6jcNcN2Unzv4qvc5qCU6lgKr9obzzKyaq7DkOJG1F9jUuDGK1BfLDPS1nbtq9wxSBIQI95x6CUedoMlrZ9NYjSHXRoUc5P1zrLKCKmUaY3Y-TF-m4-vj4M",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Pankaj MG",
+            "author_url" : "https://plus.google.com/116379061000875310736",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Great place ... One stop shop.",
+            "time" : 1421573467
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/105486625619439360802/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "State Highway 25, Hardoi"
+   },
+   "status" : "OK"
+}

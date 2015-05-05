@@ -1,0 +1,91 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Sant Kabir Road",
+            "short_name" : "Sant Kabir Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Jaitpura",
+            "short_name" : "Jaitpura",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Varanasi",
+            "short_name" : "Varanasi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Varanasi",
+            "short_name" : "Varanasi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "221001",
+            "short_name" : "221001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eSant Kabir Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eJaitpura\u003c/span\u003e, \u003cspan class=\"locality\"\u003eVaranasi\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e221001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Sant Kabir Road, Jaitpura, Varanasi, Uttar Pradesh 221001, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.32287,
+            "lng" : 83.00232800000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "428ba2dc423109c43244d7610c63452c5072b6be",
+      "name" : "Sony Ericsson Service Center",
+      "place_id" : "ChIJM-aYSA4ujjkRq5lkF12n-OE",
+      "reference" : "CnRwAAAAxKy6X7_uA8Lv4RHebHnqJ-9nXlPrPbpOElf7BJqjys-vtiUi-96EGjWWcakmyig1WXGFzFpvlvuxNzvtPSmjax19w-g7kTugHft0CxOrCxgMlydDjCcn81A8u8PsOihFTTyKp857DzEfCWUmp54vVBIQ3LYuC7hCl-vEVXw0yQwOMxoU0rWedci7Gi2352zThVHDy4ynSxg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "suhail Ahmad",
+            "author_url" : "https://plus.google.com/101252840875580579293",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1360664879
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1310194904
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/117532891670350268743/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "Sant Kabir Road, Jaitpura, Varanasi"
+   },
+   "status" : "OK"
+}

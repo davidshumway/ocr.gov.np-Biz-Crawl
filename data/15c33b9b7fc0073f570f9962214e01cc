@@ -1,0 +1,147 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "BT Rd",
+            "short_name" : "BT Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "New Barrakpur",
+            "short_name" : "New Barrakpur",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700128",
+            "short_name" : "700128",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eBT Rd\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNew Barrakpur\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700128\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "BT Rd, New Barrakpur, Kolkata, West Bengal 700128, India",
+      "formatted_phone_number" : "098742 17145",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.678351,
+            "lng" : 88.447489
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "1d9dfc5b85f582860fd80814b6c421052dada9b6",
+      "international_phone_number" : "+91 98742 17145",
+      "name" : "Mijan Motor Garage",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 4:00 pm",
+            "Tuesday: 10:00 am – 4:00 pm",
+            "Wednesday: 10:00 am – 4:00 pm",
+            "Thursday: 10:00 am – 4:00 pm",
+            "Friday: 10:00 am – 4:00 pm",
+            "Saturday: 10:00 am – 4:00 pm",
+            "Sunday: 10:00 am – 4:00 pm"
+         ]
+      },
+      "place_id" : "ChIJt6coeRmf-DkRrhC4K0aWmWY",
+      "reference" : "CnRlAAAA1j--1huwNVczG473qwekN4r-AJNw3DC7uFl1bSl_ZM12Eah03mR89fzzZVEcqLzz9pn3-1NmMRllBdb-HODwARbxxra1rDX0vNG2s_efAKlLKT44bB0_lG4LDzx6JNjrSyX33TTP-XTOfITmQzAS2hIQ-TF3ONSGBP9iuA4x5HWltxoUelngVvinfIzcM2GVmdOqlJ6SWHU",
+      "scope" : "GOOGLE",
+      "types" : [ "parking", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/105674157386625830884/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "BT Rd, New Barrakpur, Kolkata"
+   },
+   "status" : "OK"
+}

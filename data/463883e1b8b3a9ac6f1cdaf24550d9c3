@@ -1,0 +1,120 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1",
+            "short_name" : "1",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "National Highway 80",
+            "short_name" : "NH 80",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Lakhisarai",
+            "short_name" : "Lakhisarai",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "811106",
+            "short_name" : "811106",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e1, National Highway 80\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e811106\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "1, National Highway 80, Bihar 811106, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.28079,
+            "lng" : 86.30315400000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "0eb81fbcb67d47a7b14205d78609b2da844d5a90",
+      "name" : "JHAPANI",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 6:00 pm",
+            "Tuesday: 9:00 am – 6:00 pm",
+            "Wednesday: 9:00 am – 6:00 pm",
+            "Thursday: 9:00 am – 6:00 pm",
+            "Friday: 9:00 am – 6:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJm9IpP_n08TkRcqtvKE-sZNU",
+      "reference" : "CmRbAAAALCfFHl5t5__6Z5WDY8ZC1j9S5zR-Pzn0NVo6-dUHvrmoUC1MxqaQdlakHRGZyXqElrAXr_fpmS2-bV1fFDdey3SbkzBk_vlSgxqDIEJykZmdVr2jgTtxAsQACwgR2ixIEhD9IDe09-YYifRnDGjOr7FJGhQntBI2z41oM4tJORFEWVpk0cSIRg",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/114447440911634449758/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "1, National Highway 80"
+   },
+   "status" : "OK"
+}

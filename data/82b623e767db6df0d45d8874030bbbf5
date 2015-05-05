@@ -1,0 +1,78 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Lower Burtuk Road",
+            "short_name" : "Lower Burtuk Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Burtuk",
+            "short_name" : "Burtuk",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Gangtok",
+            "short_name" : "Gangtok",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "East Sikkim",
+            "short_name" : "East Sikkim",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Sikkim",
+            "short_name" : "SK",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "737101",
+            "short_name" : "737101",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eLower Burtuk Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBurtuk\u003c/span\u003e, \u003cspan class=\"locality\"\u003eGangtok\u003c/span\u003e, \u003cspan class=\"region\"\u003eSikkim\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e737101\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Lower Burtuk Road, Burtuk, Gangtok, Sikkim 737101, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.354648,
+            "lng" : 88.614271
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+      "id" : "a698bf1939a0b3e5ca6f2d8f4b33377c8cd5acfb",
+      "name" : "pangthang",
+      "place_id" : "ChIJESbxVDWl5jkRCd8aeVyA-DU",
+      "reference" : "CmRcAAAAQDaUq2VHRYwl7L3LwN-NjXCfTThQcYEKMlCBm6L66GJ0oMC5JZRn1LGOcSX_c5y-P6xzwqeluxRG1ElqYGGptY-gqBANQoMY6FUbC7A-8xvaGV6MzxAepOBdzgUQ0mBYEhAT-grqMQs15JevmjnuF28vGhTTW2e0QlWod5xu631_eOdaJgq6xw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Barun Mamz",
+            "author_url" : "https://plus.google.com/107324649183467825168",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1388050976
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "city_hall", "local_government_office", "establishment" ],
+      "url" : "https://plus.google.com/109597671552979146904/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Lower Burtuk Road, Burtuk, Gangtok"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,79 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "3/A",
+            "short_name" : "3/A",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Malda",
+            "short_name" : "Malda",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "732123",
+            "short_name" : "732123",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "NH-81, \u003cspan class=\"street-address\"\u003e3/A\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e732123\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "NH-81, 3/A, West Bengal 732123, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.397711,
+            "lng" : 87.997463
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "d37862b048aa4567f72b8b93aa02382739032ae6",
+      "name" : "Hometech",
+      "photos" : [
+         {
+            "height" : 540,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/103237379047021390246\"\u003eMeghna mandal\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAOAzTFNpUdnW9hJqXLiNgepJIF_vBJ1tUpUjLo4SXea_Qdw_1vCVHE34_ia7Ge-1LrEEB2EiOQltl58kvf-uiAlUWTZEiSSSFC8SyCzbxF72G0V_uwGztD9yBztz8bnttiirR3tbSKlVqDpnar2UunBIQFkimNHUGxnniC0Y5HjzMehoU92qtvgIA8FZKqL8k5yK_JkM2r-4",
+            "width" : 960
+         }
+      ],
+      "place_id" : "ChIJzYTMgMTE-jkR8MkE68mv9KE",
+      "reference" : "CmRcAAAAbK3yRAOzr0IJ7Y3sknE6p80WpSph3N9Kgmj8olHo5FnhkjKzsNmBmAtIi34o7-yjjfiOkd-QTR4Nbrggm-c3dUPotuun1ju9yK7x9g_AhSi_fpmruUXgET1GjAyxcm2HEhDn_3vQ7XRy2zcRjHrW32vhGhQSj0wACoHdK0PTJoMkkzYCzwJNIA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Shakil Ahmed",
+            "author_url" : "https://plus.google.com/106623008468104213460",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "",
+            "time" : 1380717384
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/117391221885373013847/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "NH-81, 3/A",
+      "website" : "http://www.myhometech.in/"
+   },
+   "status" : "OK"
+}

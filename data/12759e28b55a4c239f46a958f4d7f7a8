@@ -1,0 +1,162 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "40-A",
+            "short_name" : "40-A",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "80 Feet Road, Karrahi Road",
+            "short_name" : "80 Feet Road, Karrahi Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Maya Market, Karrahi Vishwa Bank",
+            "short_name" : "Maya Market, Karrahi Vishwa Bank",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Barra World Bank",
+            "short_name" : "Barra World Bank",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Barra",
+            "short_name" : "Barra",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208027",
+            "short_name" : "208027",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "40-A, \u003cspan class=\"street-address\"\u003e80 Feet Road, Karrahi Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eMaya Market, Karrahi Vishwa Bank, Barra World Bank, Barra\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208027\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "40-A, 80 Feet Road, Karrahi Road, Maya Market, Karrahi Vishwa Bank, Barra World Bank, Barra, Kanpur, Uttar Pradesh 208027, India",
+      "formatted_phone_number" : "099194 88097",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.424312,
+            "lng" : 80.30469600000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id" : "4bb7e08964d03eb624a12c643b97a3b452178a97",
+      "international_phone_number" : "+91 99194 88097",
+      "name" : "Media Mahal Guest House",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 am – 8:00 pm",
+            "Tuesday: 8:00 am – 8:00 pm",
+            "Wednesday: 8:00 am – 8:00 pm",
+            "Thursday: 8:00 am – 8:00 pm",
+            "Friday: 8:00 am – 8:00 pm",
+            "Saturday: 8:00 am – 8:00 pm",
+            "Sunday: 8:00 am – 8:00 pm"
+         ]
+      },
+      "place_id" : "ChIJvyK9CbRHnDkRRTYIL6T01fA",
+      "reference" : "CnRrAAAA0v_ePDKnIqd7q0FB55_IFUzlK9hXEwRoH1oWk__t4MrtdFIPTPAIzGpW3UDSLtgRlZRLEoxA85aaBC0sH0SovCrDt9pVbrQ5cS00F8X8XglmkUyE_pi90XNjN5BB1TV4ZfjSGQDRmSHWwD6_0MkryhIQbUljALWHY7traCVZXrltYBoUH_6HdpOdL8YfCtcX2HF9LnAVspc",
+      "scope" : "GOOGLE",
+      "types" : [ "lodging", "establishment" ],
+      "url" : "https://plus.google.com/112837277265393877988/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "40-A, 80 Feet Road, Karrahi Road, Maya Market, Karrahi Vishwa Bank, Barra World Bank, Barra, Kanpur"
+   },
+   "status" : "OK"
+}

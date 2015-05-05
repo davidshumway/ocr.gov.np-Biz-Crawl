@@ -1,0 +1,150 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "199",
+            "short_name" : "199",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "Garia Main Road",
+            "short_name" : "Garia Main Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Garia",
+            "short_name" : "Garia",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700084",
+            "short_name" : "700084",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "199, \u003cspan class=\"street-address\"\u003eGaria Main Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eGaria\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700084\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "199, Garia Main Road, Garia, Kolkata, West Bengal 700084, India",
+      "formatted_phone_number" : "033 2435 5642",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.462573,
+            "lng" : 88.38019199999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "41c9c2d555dd31a39db43f8968dd794bd7a3ba3c",
+      "international_phone_number" : "+91 33 2435 5642",
+      "name" : "Modern Furniture",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2130"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2130"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2130"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2130"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2130"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2130"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1100"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 11:00 am – 9:30 pm",
+            "Tuesday: 11:00 am – 9:30 pm",
+            "Wednesday: 11:00 am – 9:30 pm",
+            "Thursday: 11:00 am – 9:30 pm",
+            "Friday: 11:00 am – 9:30 pm",
+            "Saturday: 11:00 am – 9:30 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJVyMZfZdxAjoRzZL5dhx6GeA",
+      "reference" : "CnRkAAAAu-2scc55zNUroP9KdKJ6rCtIjmfODfVLmvsAHzf5wL5NgUsa2AnRF-cFkD1B5obVOfFcq-KclfgYgaFU8-X2Dukd9OzmIXqbjqsfBHi_NioPwRAKmxSaQ3udeFO7eil4bqf0WYXt3kaUBWDLwujzCRIQXoI7XJT6q2sLXBr67aYpuhoUun6ecj_EXqSvbc-3M1gYNYotShI",
+      "scope" : "GOOGLE",
+      "types" : [
+         "furniture_store",
+         "general_contractor",
+         "home_goods_store",
+         "store",
+         "establishment"
+      ],
+      "url" : "https://plus.google.com/109873702967555839598/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "199, Garia Main Road, Garia, Kolkata"
+   },
+   "status" : "OK"
+}

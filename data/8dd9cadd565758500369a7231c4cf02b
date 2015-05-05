@@ -1,0 +1,79 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Kalambagh Road",
+            "short_name" : "Kalambagh Road",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Gannipur",
+            "short_name" : "Gannipur",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Muzaffarpur",
+            "short_name" : "Muzaffarpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Muzaffarpur",
+            "short_name" : "Muzaffarpur",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "842001",
+            "short_name" : "842001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eKalambagh Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eGannipur\u003c/span\u003e, \u003cspan class=\"locality\"\u003eMuzaffarpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e842001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Kalambagh Road, Gannipur, Muzaffarpur, Bihar 842001, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.110507,
+            "lng" : 85.385831
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+      "id" : "7d2cd64899c4dfc950a33340cca0b530054075ea",
+      "name" : "Reliance Petrol Pump",
+      "place_id" : "ChIJuzP0suIQ7TkRc3N5v14WID8",
+      "reference" : "CnRnAAAAYiBcYztQClBojUu0WeKYbsSZcPaB7Dz2v49PEB2z7SO167KaMdn-oiX2O7_1BHGlXtIvALPxFTBHbfbll9Zfq0DW9NI-iVWaUgCUdYJuL5ReZKCCdiPVdKuKRbTb-9-dIOAGWVMKDXkCFXzxi8XuchIQT2vIQ73D7qkJcwR1rVTAaxoUUJi6_rSxBOP0_d1jMuhNveZTR-U",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "vaibhav dogra",
+            "author_url" : "https://plus.google.com/114289411647794540336",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1315592523
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "gas_station", "establishment" ],
+      "url" : "https://plus.google.com/117827648012649668089/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Kalambagh Road, Gannipur, Muzaffarpur",
+      "website" : "http://www.ril.com/"
+   },
+   "status" : "OK"
+}

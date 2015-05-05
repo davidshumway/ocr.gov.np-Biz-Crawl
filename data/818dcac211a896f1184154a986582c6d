@@ -1,0 +1,133 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "3",
+            "short_name" : "3",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Sixth Avenue",
+            "short_name" : "Sixth Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "IIT Kanpur",
+            "short_name" : "IIT Kanpur",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Nankari",
+            "short_name" : "Nankari",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e3, Sixth Avenue\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eIIT Kanpur, Nankari\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "3, Sixth Avenue, IIT Kanpur, Nankari, Kanpur, Uttar Pradesh, India",
+      "formatted_phone_number" : "0512 276 8909",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.508536,
+            "lng" : 80.230349
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "fcc1778a4b6ab447b905b26fb9ab698fdaa74392",
+      "international_phone_number" : "+91 512 276 8909",
+      "name" : "3 Bot",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1224,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/109877412737675274229\"\u003edeepak kumar\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAhG4Jx0lmpIASlrIMyYt_er4ciQgIQ9-orTrZtqT_mriF4-WOiOUPshb0fRehrqt56-GKaW5eDkjx8wB1QO9yyuLee4CZZIRnF7j7_Hx2JIgQY0bPsgx4cu-zAE_4mktxgW0IijDwYtTo484jXH9plxIQOmOFzebDiwcyhQDI77Ju8hoUTEcvSGE7lDRxIjAXvpISiT_rY5U",
+            "width" : 1632
+         }
+      ],
+      "place_id" : "ChIJb--tjv82nDkRIFsrX0Bufw4",
+      "reference" : "CmRYAAAAEpln66JgZ0dZw4oBx6j8ssPz2p0pzFW9IWRpwv4XAR2xZtiIB1_-KsQ-DWlaniuk67ge7QQXHMU3Ti_Toc6nS31WOIOwtFMul7RqjAlldLuePz2nPD3pl96KNKCEzT-9EhCuU_QzfvqiK8D0IhsS_2TGGhS-ZIEN591YpyqLomtd3_-5wwJCwQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "deepak kumar",
+            "author_url" : "https://plus.google.com/109877412737675274229",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "I am\nnow getting true root,feeling awesome",
+            "time" : 1388810328
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Hari Sharan Sharma",
+            "author_url" : "https://plus.google.com/107434449244119585699",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1399352467
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/100010992772426187510/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "3, Sixth Avenue, IIT Kanpur, Nankari, Kanpur"
+   },
+   "status" : "OK"
+}

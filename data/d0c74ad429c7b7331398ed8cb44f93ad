@@ -1,0 +1,64 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "First Floor",
+            "short_name" : "First Floor",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Ramnagar Road",
+            "short_name" : "Ramnagar Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bongaon",
+            "short_name" : "Bongaon",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "North 24 Parganas",
+            "short_name" : "North 24 Parganas",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "743235",
+            "short_name" : "743235",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eFirst Floor, Ramnagar Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBongaon\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e743235\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "First Floor, Ramnagar Road, Bongaon, West Bengal 743235, India",
+      "formatted_phone_number" : "1800 103 0123",
+      "geometry" : {
+         "location" : {
+            "lat" : 23.038376,
+            "lng" : 88.828771
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "e8b828e11ca4089c9d83667420dc504d2ae00190",
+      "international_phone_number" : "+91 1800 103 0123",
+      "name" : "UCO Bank",
+      "place_id" : "ChIJG7Nvf6k1_zkRPBbOckibJzo",
+      "reference" : "CmRbAAAAG3v45P3wIrgKt8Fa9vc_vT5GNdTLbMNOALDmcU7tRhI4goZpmzksBti1nJM2kSrUPAxE6yFpd65qOgPMF-Tp0O0B59umVCH9J0iMl_bMyA2l7WWOIfItil3okmqMjRKyEhAM0Ads9o7k6_K-syZ-RgIXGhQDBeU-V_xTqVYi7ti9qke40N1pVg",
+      "scope" : "GOOGLE",
+      "types" : [ "bank", "finance", "establishment" ],
+      "url" : "https://plus.google.com/107737976216296511299/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "First Floor, Ramnagar Road, Bongaon",
+      "website" : "https://www.ucobank.com/"
+   },
+   "status" : "OK"
+}

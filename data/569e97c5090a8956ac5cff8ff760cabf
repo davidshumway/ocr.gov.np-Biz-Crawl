@@ -1,0 +1,157 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "No.34",
+            "short_name" : "No.34",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "Doctor Ln",
+            "short_name" : "Doctor Ln",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Rippon Street",
+            "short_name" : "Rippon Street",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Taltala",
+            "short_name" : "Taltala",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700014",
+            "short_name" : "700014",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "No.34, \u003cspan class=\"street-address\"\u003eDoctor Ln\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eRippon Street, Taltala\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700014\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "No.34, Doctor Ln, Rippon Street, Taltala, Kolkata, West Bengal 700014, India",
+      "formatted_phone_number" : "099025 63256",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.557948,
+            "lng" : 88.363309
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "44af09e4afacb0553fafcc3d02211e942569bbe8",
+      "international_phone_number" : "+91 99025 63256",
+      "name" : "New Srima",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0600"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 6:00 am – 12:00 am",
+            "Tuesday: 6:00 am – 12:00 am",
+            "Wednesday: 6:00 am – 12:00 am",
+            "Thursday: 6:00 am – 12:00 am",
+            "Friday: 6:00 am – 12:00 am",
+            "Saturday: 6:00 am – 12:00 am",
+            "Sunday: 6:00 am – 12:00 am"
+         ]
+      },
+      "place_id" : "ChIJrZGKB_52AjoRkw2BkvUL9cE",
+      "reference" : "CmRdAAAAne-_lz6gqFrW1-An6TIrtCtfSgHcfTk-RkZsFHnsMiPdvmajdDCa924jriYReJQqHj-l3AOJDjxjYJf00oqITy83L05FPgPgkj1IUplIsUXZZcU7-viUUdMYgjn0CV08EhDq38FFV0S8aATSB_aIQ-ZtGhRat65nqGcOZbDAuJjL4aqOr2_QVA",
+      "scope" : "GOOGLE",
+      "types" : [ "food", "establishment" ],
+      "url" : "https://plus.google.com/103045416460056747296/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "No.34, Doctor Ln, Rippon Street, Taltala, Kolkata"
+   },
+   "status" : "OK"
+}

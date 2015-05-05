@@ -1,0 +1,145 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "State Highway 5A",
+            "short_name" : "SH 5A",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Barauli",
+            "short_name" : "Barauli",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Robertsganj",
+            "short_name" : "Robertsganj",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Sonbhadra",
+            "short_name" : "Sonbhadra",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "231216",
+            "short_name" : "231216",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "&quot;VIJAY JANAKI COMPLEX&quot;, 1ST FLOOR, PIPARI ROAD, NEAR ALLAHABAD BANK, \u003cspan class=\"street-address\"\u003eState Highway 5A\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBarauli\u003c/span\u003e, \u003cspan class=\"locality\"\u003eRobertsganj\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e231216\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "\"VIJAY JANAKI COMPLEX\", 1ST FLOOR, PIPARI ROAD, NEAR ALLAHABAD BANK, State Highway 5A, Barauli, Robertsganj, Uttar Pradesh 231216, India",
+      "formatted_phone_number" : "05444 223 434",
+      "geometry" : {
+         "location" : {
+            "lat" : 24.677579,
+            "lng" : 83.062838
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "96ca07fe494af926410e59609017cd732d7e8032",
+      "international_phone_number" : "+91 5444 223 434",
+      "name" : "SBI Life Insurance",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 6:00 pm",
+            "Tuesday: 10:00 am – 6:00 pm",
+            "Wednesday: 10:00 am – 6:00 pm",
+            "Thursday: 10:00 am – 6:00 pm",
+            "Friday: 10:00 am – 6:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJf3cEX8H5jjkRiq2yQsejJAY",
+      "reference" : "CnRlAAAA1hhTKVz9cIvmYMjTyo5SYPejD_c6R87toERLIHO-rgS2tjTyWSTaL0n-bZEQX-4z_D1c__HBSaMH5hJeeQMCYUY564fzeD8fTEB5PCSiEepBR6FMQ-EAedpHk_wjA9-gj7kLJ6hWJfOgDAAfcBxVvhIQBtZ4coqor-9xPE-iYhdDjxoUeNpCRbeq8QZe_XWZQHFCMlMkg8M",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Gaurav Kaushik",
+            "author_url" : "https://plus.google.com/102611152289156285106",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "BRANCH OFFICE",
+            "time" : 1382356707
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "insurance_agency", "finance", "establishment" ],
+      "url" : "https://plus.google.com/116197301194066991071/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "\"VIJAY JANAKI COMPLEX\", 1ST FLOOR, PIPARI ROAD, NEAR ALLAHABAD BANK, State Highway 5A, Barauli, Robertsganj",
+      "website" : "http://www.sbilife.co.in/"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,152 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "78/19",
+            "short_name" : "78/19",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "5",
+            "short_name" : "5",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Latouche Road",
+            "short_name" : "Latouche Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bhagat Singh Market",
+            "short_name" : "Bhagat Singh Market",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Mulganj",
+            "short_name" : "Mulganj",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208001",
+            "short_name" : "208001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "78/19, \u003cspan class=\"street-address\"\u003e5, Latouche Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBhagat Singh Market, Mulganj\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "78/19, 5, Latouche Road, Bhagat Singh Market, Mulganj, Kanpur, Uttar Pradesh 208001, India",
+      "formatted_phone_number" : "098399 19220",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.466101,
+            "lng" : 80.34659600000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "cb0603652be0f3e7e72943f19a0be4469b2ca6c1",
+      "international_phone_number" : "+91 98399 19220",
+      "name" : "Om Shiv Traders",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1100"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 11:00 am – 7:00 pm",
+            "Tuesday: 11:00 am – 7:00 pm",
+            "Wednesday: 11:00 am – 7:00 pm",
+            "Thursday: 11:00 am – 7:00 pm",
+            "Friday: 11:00 am – 7:00 pm",
+            "Saturday: 11:00 am – 7:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJle3N_l5HnDkRc-pty0g_rC4",
+      "reference" : "CnRiAAAA3VGr5aTOI5YM114QDtagV5VP4MnsLHOFShs_WX-cSFo5BCavUx9aTFnuDBV-DfE2kiQUZyCEiKlVhzyuSyaXKVi0jCrnUCXXpAxgAtXCilcjZghA_s6sZVcGQpQY2TZTm8PizZXzvwy1dkgHbiqejxIQhqbc_kEhkxesX0BFFLnrHhoU46tgEKlgWqYqtzfLsahvVD7-Jyk",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/105767680091401146061/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "78/19, 5, Latouche Road, Bhagat Singh Market, Mulganj, Kanpur"
+   },
+   "status" : "OK"
+}

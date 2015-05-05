@@ -1,0 +1,142 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "86/275, A-3",
+            "short_name" : "86/275, A-3",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "G.T. Road Crossing",
+            "short_name" : "G.T. Road Crossing",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Afeem Kothi",
+            "short_name" : "Afeem Kothi",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208003",
+            "short_name" : "208003",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e86/275, A-3\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eG.T. Road Crossing, Afeem Kothi\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208003\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "86/275, A-3, G.T. Road Crossing, Afeem Kothi, Kanpur, Uttar Pradesh 208003, India",
+      "formatted_phone_number" : "089338 51643",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.456376,
+            "lng" : 80.33246200000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "60b35519b817a60a43fd7b1c4a952d4dfe117421",
+      "international_phone_number" : "+91 89338 51643",
+      "name" : "Shree Tyres",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1030"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:30 am – 9:00 pm",
+            "Tuesday: 10:30 am – 9:00 pm",
+            "Wednesday: 10:30 am – 9:00 pm",
+            "Thursday: 10:30 am – 9:00 pm",
+            "Friday: 10:30 am – 9:00 pm",
+            "Saturday: 10:30 am – 9:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJub8sqHpHnDkRvdqA7cCef8U",
+      "reference" : "CmRfAAAAmCgBmCCr7hX7auE1DU0Dd0VspKa7thoQ2dac5wo7vl_wKeAj-d2kTbMC4GUUqfCvksD20S_Rj27coiWgFigEYTawmeko6jeLDx0xt4TEqXCjw077n7LqxlsHTb9S1bcIEhAscHQts3R3m673AqZ-5KsFGhS4KZykT-c_QOWtiHfVPjrVOrSPyg",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/116330314291539222260/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "86/275, A-3, G.T. Road Crossing, Afeem Kothi, Kanpur"
+   },
+   "status" : "OK"
+}

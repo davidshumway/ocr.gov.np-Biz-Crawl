@@ -1,0 +1,137 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "College Road",
+            "short_name" : "College Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Jhenaidah",
+            "short_name" : "Jhenaidah",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Khulna Division",
+            "short_name" : "Khulna Division",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Bangladesh",
+            "short_name" : "BD",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eCollege Road\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eBangladesh\u003c/span\u003e",
+      "formatted_address" : "College Road, Bangladesh",
+      "geometry" : {
+         "location" : {
+            "lat" : 23.414053,
+            "lng" : 89.019164
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "6a3751e1ee9fd09efb35014289c1d502daf769a0",
+      "name" : "Professor Abdul Motleb Science Building",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1430"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1430"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1430"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1430"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1430"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1430"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0830"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:30 am – 2:30 pm",
+            "Tuesday: 8:30 am – 2:30 pm",
+            "Wednesday: 8:30 am – 2:30 pm",
+            "Thursday: 8:30 am – 2:30 pm",
+            "Friday: Closed",
+            "Saturday: 8:30 am – 2:30 pm",
+            "Sunday: 8:30 am – 2:30 pm"
+         ]
+      },
+      "place_id" : "ChIJBSYuljLf_jkR0gcNNSBMBGk",
+      "reference" : "CoQBegAAAMjpPacL854RJrVnUAZ47R2XS27pLfpWtci1LG6qwTbaIAA0rBahO3FY2LKP-pYaTLQLaFK6UMA5ZPH3BseQJKFP6XfC678-f8HL8XOWrj92jomD99BpO4KrqfCyseeEb5DE3qkCk6Dnp2D_xSy2fsRC20kkZK0vnXG-nixpKDkMEhDAgbc4YVUh1kgi6e-T0nxWGhRqYxTDTTF-uxyMH5aEJFuy0VGbiQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Iftekhar Mahmud",
+            "author_url" : "https://plus.google.com/107645377824717600123",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "good",
+            "time" : 1423056430
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/106818891744081306686/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 360,
+      "vicinity" : "College Road"
+   },
+   "status" : "OK"
+}

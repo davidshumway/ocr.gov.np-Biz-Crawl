@@ -1,0 +1,94 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Phuentsholing",
+            "short_name" : "Phuentsholing",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Chhukha",
+            "short_name" : "Chhukha",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Bhutan",
+            "short_name" : "BT",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "Town,, \u003cspan class=\"locality\"\u003ePhuentsholing\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eBhutan\u003c/span\u003e",
+      "formatted_address" : "Town,, Phuentsholing, Bhutan",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.861586,
+            "lng" : 89.380651
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "4cda8b0f94226118826d7527cc873cf4791899b1",
+      "name" : "Gold Building",
+      "place_id" : "ChIJr0YOFT7L4zkR9SumOHkwX6M",
+      "reference" : "CnRhAAAAjcA2onzl13lI6-DrjF4d98QPke3nSj7T4SDgaHACkai4tIt1YFjouarY_N0YoRfFGtTzIbWDVumtiNQrcxGax5LbtPPwF_UWE7n_LWVnpS4Axrod4Hj3Yu2b-55xwacAZ3ovdpXALRyCoIXghK7WvBIQ-ljDxTY9jY1Ssh4BKxww8xoUDKoWHd8khCZcqmKeIkc6WwrRGQ4",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Sunjay Chhetri",
+            "author_url" : "https://plus.google.com/110044756411387424736",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "Gold building is in phuentsholing bhutan",
+            "time" : 1352210528
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Sintu Singh",
+            "author_url" : "https://plus.google.com/117104320361778392724",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1426523886
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "facilities"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Karma Tenzin",
+            "author_url" : "https://plus.google.com/116069133018752951519",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1391254489
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "shopping_mall", "establishment" ],
+      "url" : "https://plus.google.com/115336225442874600205/about?hl=en-US",
+      "user_ratings_total" : 3,
+      "utc_offset" : 330,
+      "vicinity" : "Town,, Phuentsholing"
+   },
+   "status" : "OK"
+}

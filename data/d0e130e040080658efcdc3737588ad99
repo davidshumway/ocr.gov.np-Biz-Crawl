@@ -1,0 +1,78 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "National Highway 60",
+            "short_name" : "NH 60",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "West Medinipur",
+            "short_name" : "West Medinipur",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "721253",
+            "short_name" : "721253",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNational Highway 60\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e721253\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "National Highway 60, West Bengal 721253, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.77609,
+            "lng" : 87.338644
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "6e5d092919d90be43fdaf3a88d963470a827aa5f",
+      "name" : "Dey Automobiles",
+      "photos" : [
+         {
+            "height" : 895,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/109765956353053098526\"\u003eSwarup Dey\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAf4oDkbm8TTBz6z7aKpSpN5s7mSRv9xpyrIoZnYuYimxLZLRcFf9p3yli_gQzj27BJGroJJm0km_qtyf9qRyU-alrIQVZOe_8CK7AlHqDvWyGp_KbGblUtSKIReTqh0ccWE5ym-n9-2WDq7URbJmCRBIQaj6MwflS5VhEePRKnjgu8RoUbsscd-v-nkrIJfKjnjCCtpxrQc0",
+            "width" : 1268
+         }
+      ],
+      "place_id" : "ChIJUSUY0Zzl9zkR3TXaDfjMeKg",
+      "reference" : "CnRjAAAAgZcxMcKDZxLdMuqIMKp6loAZ1CmOJ0JX59cltfio7YebtCW2jm_hGCX_Eiym5d_rl6cCkonU9b_Ihf7UuvBFfp3mQziQPP_mOmR4umrD406JFmSWTO4KSV0BevwOuqLFjhFlD3Di4rEHl6VjwSyV-RIQ7xhX5eEyVfoT-skMYg4XPxoUpTyJIrDHUbDwtVxHk4_lVVoAbpc",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Swarup Dey",
+            "author_url" : "https://plus.google.com/109765956353053098526",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1396965283
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/103388490753207177427/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "National Highway 60"
+   },
+   "status" : "OK"
+}

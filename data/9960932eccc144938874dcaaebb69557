@@ -1,0 +1,73 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "National Highway 86",
+            "short_name" : "NH86",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bidhnu",
+            "short_name" : "Bidhnu",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "209214",
+            "short_name" : "209214",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNational Highway 86\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBidhnu\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e209214\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "National Highway 86, Bidhnu, Uttar Pradesh 209214, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.322268,
+            "lng" : 80.27997499999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "39bba428ea4303074051fd2196f1e17153bdca75",
+      "name" : "Tile Kiln",
+      "place_id" : "ChIJPTG3BX9FnDkR-iLGV2yyMno",
+      "reference" : "CmRcAAAAUDcKzHFf-4nWY45zjKnoTt4HqfDLDGcXhH6bQEIB9GkReGRqYzQyCm_Xg1nrXOdp7vmQcdCKskdsShswHMQegGt4SihM7de2DCb5tUlCB7HO3ybFYRPa67UWUeZS84i8EhAfoF_RzUUn6_sH1pK_PK3OGhSOGqjNWziYpcLjEUif2_Of5X5axQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "amit kumar Prajapati",
+            "author_url" : "https://plus.google.com/105651637753245987234",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Amit prajapati ",
+            "time" : 1378369389
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/107529155416295974996/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "National Highway 86, Bidhnu"
+   },
+   "status" : "OK"
+}

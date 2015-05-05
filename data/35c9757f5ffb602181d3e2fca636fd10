@@ -1,0 +1,73 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "02",
+            "short_name" : "02",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Road number 1",
+            "short_name" : "Rd number 1",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Quadri Mohalla",
+            "short_name" : "Quadri Mohalla",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Bharra",
+            "short_name" : "Bharra",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Bokaro Steel City",
+            "short_name" : "Bokaro Steel City",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bokaro",
+            "short_name" : "Bokaro",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Jharkhand",
+            "short_name" : "JH",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "827013",
+            "short_name" : "827013",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e02, Road number 1\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eQuadri Mohalla, Bharra\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBokaro Steel City\u003c/span\u003e, \u003cspan class=\"region\"\u003eJharkhand\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e827013\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "02, Road number 1, Quadri Mohalla, Bharra, Bokaro Steel City, Jharkhand 827013, India",
+      "formatted_phone_number" : "094315 44289",
+      "geometry" : {
+         "location" : {
+            "lat" : 23.653984,
+            "lng" : 86.167456
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "eb10dfef3c9fa04b79cdd2df544fb74a602ed607",
+      "international_phone_number" : "+91 94315 44289",
+      "name" : "Jaan Mohammad Manzil",
+      "place_id" : "ChIJpQ0t_9oj9DkRkAmPX5WRSaQ",
+      "reference" : "CnRoAAAAyJkiOY679SBhYP2dbG0R5IkvfZOlhp1Cu5s7krodSzpK7Zf7La-sSQulYIKfj_uNOA5VyEL_2oYO-cq3B0lvIDsi9ZYcdmnjPD_HEPBnA6NcuYsKzuktnv5c0gp5A6APpV7Tl3EhI7h6m7wjUn_VpRIQSAO2W5paSidbfkWAtm6BlxoUR8XmqD6UGVp35e32AlczonBPERk",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/106593186844253602300/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "02, Road number 1, Quadri Mohalla, Bharra, Bokaro Steel City"
+   },
+   "status" : "OK"
+}

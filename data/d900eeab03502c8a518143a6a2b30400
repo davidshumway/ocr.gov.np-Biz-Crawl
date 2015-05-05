@@ -1,0 +1,145 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Gwalior Road",
+            "short_name" : "Gwalior Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bindu Katra",
+            "short_name" : "Bindu Katra",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Lakhori",
+            "short_name" : "Lakhori",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Bundu Katra",
+            "short_name" : "Bundu Katra",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Agra",
+            "short_name" : "Agra",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Agra",
+            "short_name" : "Agra",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "282001",
+            "short_name" : "282001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eGwalior Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBindu Katra, Lakhori, Bundu Katra\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAgra\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e282001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Gwalior Road, Bindu Katra, Lakhori, Bundu Katra, Agra, Uttar Pradesh 282001, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.143111,
+            "lng" : 78.008887
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "c25fd9b19ca113d31c022ab701b6e0f93fb3ff50",
+      "name" : "Mahadevi Enterprises",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1030"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:30 am – 8:00 pm",
+            "Tuesday: Closed",
+            "Wednesday: 10:30 am – 8:00 pm",
+            "Thursday: 10:30 am – 8:00 pm",
+            "Friday: 10:30 am – 8:00 pm",
+            "Saturday: 10:30 am – 8:00 pm",
+            "Sunday: 10:30 am – 8:00 pm"
+         ]
+      },
+      "place_id" : "ChIJtxxTvbB2dDkRPRjlIf1gT50",
+      "reference" : "CnRoAAAA2gfl-xi789bIzx7WlAzNHtdo6HBnAKNLrrk5UgvMER9_W_BPlfcCJqHa_utWjxDb6xMpAj35MJwINRUR7oHO2ZeyvcJiqDK5J4ibiFV7xTRRsyHizCJB38S0Sb0PapP-UCO3B83rMsDkOHDDbj4QbBIQ-Jvmx06VKtevwbduq6SlkRoUfL7qAPXaiwh3HvTNuFawagRb9lM",
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/116636332705227358389/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Gwalior Road, Bindu Katra, Lakhori, Bundu Katra, Agra"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,148 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "123",
+            "short_name" : "123",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Kanpur Road",
+            "short_name" : "Kanpur Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Chota Chauraha",
+            "short_name" : "Chota Chauraha",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Jawahar Nagar",
+            "short_name" : "Jawahar Nagar",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Sharda Nahar",
+            "short_name" : "Sharda Nahar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Unnao",
+            "short_name" : "Unnao",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Unnao",
+            "short_name" : "Unnao",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "209801",
+            "short_name" : "209801",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e123, Kanpur Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eChota Chauraha, Jawahar Nagar, Sharda Nahar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eUnnao\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e209801\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "123, Kanpur Road, Chota Chauraha, Jawahar Nagar, Sharda Nahar, Unnao, Uttar Pradesh 209801, India",
+      "formatted_phone_number" : "099562 40240",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.543537,
+            "lng" : 80.48311
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "3a0a1bd97e818aed9f294d60a8c44fc8dd7fefc3",
+      "international_phone_number" : "+91 99562 40240",
+      "name" : "Shiva Furnitures",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: 10:00 am – 8:00 pm"
+         ]
+      },
+      "place_id" : "ChIJOWHkUbkVnDkRdLtFF-_oA8I",
+      "reference" : "CnRkAAAAt_wcD5gv7duz13LhYi_3fx_XJRvEW_ulU4eawsqMSxP-il_aQMWTtBQkhiJWd4M8jrrXdreS5RoH5Jrq0KGicOVxj_LxWvWwckSQ9LJOCOr8PSwHu031h3F4ogvJVyKOPnkt5ANqASFDch72dmgdYBIQ4bfPt7Dn1ow6U0ophiW4EhoUrGG3llB-UPguEOKFtE8lJXheg4k",
+      "scope" : "GOOGLE",
+      "types" : [
+         "furniture_store",
+         "general_contractor",
+         "home_goods_store",
+         "store",
+         "establishment"
+      ],
+      "url" : "https://plus.google.com/102495515970412159907/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "123, Kanpur Road, Chota Chauraha, Jawahar Nagar, Sharda Nahar, Unnao"
+   },
+   "status" : "OK"
+}

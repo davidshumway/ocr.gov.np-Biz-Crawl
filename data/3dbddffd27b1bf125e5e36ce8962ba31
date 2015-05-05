@@ -1,0 +1,149 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "74",
+            "short_name" : "74",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "Hospital Street",
+            "short_name" : "Hospital St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Chandni Chawk",
+            "short_name" : "Chandni Chawk",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Bowbazar",
+            "short_name" : "Bowbazar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700072",
+            "short_name" : "700072",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "74, \u003cspan class=\"street-address\"\u003eHospital Street\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eChandni Chawk, Bowbazar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700072\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "74, Hospital Street, Chandni Chawk, Bowbazar, Kolkata, West Bengal 700072, India",
+      "formatted_phone_number" : "033 2237 4291",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.564289,
+            "lng" : 88.356594
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "722272243932a092fbedb89c6a34cc9634a4e320",
+      "international_phone_number" : "+91 33 2237 4291",
+      "name" : "Indian Electric Corporation",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 6:00 pm",
+            "Tuesday: 10:00 am – 6:00 pm",
+            "Wednesday: 10:00 am – 6:00 pm",
+            "Thursday: 10:00 am – 6:00 pm",
+            "Friday: 10:00 am – 6:00 pm",
+            "Saturday: 10:00 am – 6:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ00AI7Kl3AjoRT52qbYG7RQw",
+      "reference" : "CnRuAAAAUqghsSNFY9o1tXpdFDUbvGq8sS2icuRJn4gV9ZMgJkNQ1bDKppHkyAwrJr0Uwbpv65stNwuzYClY2NYX2bQTIEcailYN8fUbhJJWhglpZHHVT4Vf8uVdmExWUKnazR9zFIHbFCsNQrI2ex7G1o9R-hIQlmWdW12XnHO9G0jgGOfo-hoUF_uw_GkaFMF8t0JMx2QLjRfVnOw",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "electrician", "establishment" ],
+      "url" : "https://plus.google.com/110741394721542951963/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "74, Hospital Street, Chandni Chawk, Bowbazar, Kolkata"
+   },
+   "status" : "OK"
+}

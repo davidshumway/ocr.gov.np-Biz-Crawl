@@ -1,0 +1,155 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "State Highway 34",
+            "short_name" : "State Highway 34",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Civil Line",
+            "short_name" : "Civil Line",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Sultanpur",
+            "short_name" : "Sultanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Sultanpur",
+            "short_name" : "Sultanpur",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "228001",
+            "short_name" : "228001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eState Highway 34\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCivil Line\u003c/span\u003e, \u003cspan class=\"locality\"\u003eSultanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e228001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "State Highway 34, Civil Line, Sultanpur, Uttar Pradesh 228001, India",
+      "formatted_phone_number" : "05362 243 736",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.264957,
+            "lng" : 82.072377
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "a50bf8e92d36882cac17ec190a48d07ed8c7860c",
+      "international_phone_number" : "+91 5362 243 736",
+      "name" : "Axis Bank",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1530"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1530"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1530"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1530"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1530"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1330"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0930"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:30 am – 3:30 pm",
+            "Tuesday: 9:30 am – 3:30 pm",
+            "Wednesday: 9:30 am – 3:30 pm",
+            "Thursday: 9:30 am – 3:30 pm",
+            "Friday: 9:30 am – 3:30 pm",
+            "Saturday: 9:30 am – 1:30 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ3-H_C-58mjkRc6QpJ-kDEkU",
+      "reference" : "CmRcAAAAmddPZefl0Y062hiNM6XfQgrou-Fh5RtERt6J9bW141ypdpoWs8vSx1FfExCwsQcOIX1C7Gs6GvGWYoEr_Pt-edg3mfxUQ41hryUWNjv-PTTJkJ2c623D_5uaspKOltu_EhBre57Br5qixtzfH6bnuBPDGhRMO0tRWoFMsU3o20U8swT4rM0LFA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Animax Jais",
+            "author_url" : "https://plus.google.com/104238825996207664545",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1383311421
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "bank", "finance", "establishment" ],
+      "url" : "https://plus.google.com/106162843026604852559/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "State Highway 34, Civil Line, Sultanpur",
+      "website" : "https://www.axisbank.com"
+   },
+   "status" : "OK"
+}

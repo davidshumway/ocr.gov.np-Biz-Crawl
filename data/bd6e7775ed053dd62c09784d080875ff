@@ -1,0 +1,152 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "2",
+            "short_name" : "2",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Agra Bikaner Road",
+            "short_name" : "Agra Bikaner Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Shiv Market",
+            "short_name" : "Shiv Market",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Belanganj",
+            "short_name" : "Belanganj",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Civil Lines",
+            "short_name" : "Civil Lines",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Agra",
+            "short_name" : "Agra",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Agra",
+            "short_name" : "Agra",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "282004",
+            "short_name" : "282004",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e2, Agra Bikaner Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eShiv Market, Belanganj, Civil Lines\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAgra\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e282004\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "2, Agra Bikaner Road, Shiv Market, Belanganj, Civil Lines, Agra, Uttar Pradesh 282004, India",
+      "formatted_phone_number" : "093599 37283",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.191376,
+            "lng" : 78.024171
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "3508d966ce430016f9fc57a4014d7cd161d85fc1",
+      "international_phone_number" : "+91 93599 37283",
+      "name" : "Gupta Enterprises",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 10:00 am – 9:00 pm",
+            "Wednesday: 10:00 am – 9:00 pm",
+            "Thursday: 10:00 am – 9:00 pm",
+            "Friday: 10:00 am – 9:00 pm",
+            "Saturday: 10:00 am – 9:00 pm",
+            "Sunday: 10:00 am – 9:00 pm"
+         ]
+      },
+      "place_id" : "ChIJZzlxFMxwdDkRYE18XQjacuk",
+      "reference" : "CnRlAAAA97i6NJjH4PJ-klwexXcNNe1e1yzGNxHnwWzoanrzQP8cwjmoJHUDjpM784Mi2CSlG1HLy3y141aqtczUFhej7IJhVkbrkpwUub2VyCqtCg8mZr36Fumwv4Dz2sT5yEZgL7dY4VnNSBAZ8kFPhHfyyxIQFIQls3zHnd5vU8ZMm_-RcBoUM1IOe4ICeozcdMDgIDZoNRQ1-Xc",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "establishment" ],
+      "url" : "https://plus.google.com/115672020691728780332/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "2, Agra Bikaner Road, Shiv Market, Belanganj, Civil Lines, Agra"
+   },
+   "status" : "OK"
+}

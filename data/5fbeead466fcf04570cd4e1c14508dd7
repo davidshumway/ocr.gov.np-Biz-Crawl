@@ -1,0 +1,137 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "S1",
+            "short_name" : "S1",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Yashoda Nagar",
+            "short_name" : "Yashoda Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208011",
+            "short_name" : "208011",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eS1\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eYashoda Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208011\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "S1, Yashoda Nagar, Kanpur, Uttar Pradesh 208011, India",
+      "formatted_phone_number" : "081818 48845",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.409227,
+            "lng" : 80.32978799999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "8597b2c181e706005553edbd3934756c89939fb9",
+      "international_phone_number" : "+91 81818 48845",
+      "name" : "Chitransh Auto Parts",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: Closed",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: 10:00 am – 8:00 pm"
+         ]
+      },
+      "place_id" : "ChIJhSIPffBGnDkRgFkH9cbhDdk",
+      "reference" : "CnRoAAAArmKZAJ9KIIB_sC2BX11MAzyXK0UlOieAnRhAIHbcgTwrXdyqYK0CETwM8m71Hrh81jQMQvke6GCfr6dJysZOxh7jBb2BTaJTb30on2YejvEps5ucVr-d_p7i9UVlBmtwEBbrE7o6drskkacL83fRfRIQ2XTtv3BPJKCUPnShqjv8-hoU4U9NfYNNVOvtF86ahWgIS1_yxg4",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/114719572337664025798/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "S1, Yashoda Nagar, Kanpur"
+   },
+   "status" : "OK"
+}

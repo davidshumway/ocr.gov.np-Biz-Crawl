@@ -1,0 +1,149 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "7-8",
+            "short_name" : "7-8",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "City Station Road",
+            "short_name" : "City Station Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Paliwal Market",
+            "short_name" : "Paliwal Market",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Civil Lines",
+            "short_name" : "Civil Lines",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Agra",
+            "short_name" : "Agra",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Agra",
+            "short_name" : "Agra",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "282003",
+            "short_name" : "282003",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e7-8, City Station Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003ePaliwal Market, Civil Lines\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAgra\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e282003\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "7-8, City Station Road, Paliwal Market, Civil Lines, Agra, Uttar Pradesh 282003, India",
+      "formatted_phone_number" : "092195 95801",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.193401,
+            "lng" : 78.01437
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "9581d8dd7c6da92e060d426d1901c1b1e520b577",
+      "international_phone_number" : "+91 92195 95801",
+      "name" : "Bishammar Nath Jain Sons",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 9:00 pm",
+            "Tuesday: 10:00 am – 9:00 pm",
+            "Wednesday: 10:00 am – 9:00 pm",
+            "Thursday: 10:00 am – 9:00 pm",
+            "Friday: 10:00 am – 9:00 pm",
+            "Saturday: 10:00 am – 9:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ94B60eh2dDkRAYQQH2eSo-w",
+      "reference" : "CnRsAAAAiLxlrBmn44PW3dbuHz_ICyiaapoj8_SPqzmeMl-1Xur38TTMjAruTNe7xrTpP13L_OWRwjW7METOjEQ4PpkPf30L8viYvar_UO9nJjvsenUjSrNeuNxiEAJvDSw629CFV090EGLWLWmUZX1qb-hw6hIQmvsg1RXZTtGQdi3DtiazRxoUNvWknDqjhvYUarSxe8ZZj8HfsgU",
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/115240631462130700255/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "7-8, City Station Road, Paliwal Market, Civil Lines, Agra"
+   },
+   "status" : "OK"
+}

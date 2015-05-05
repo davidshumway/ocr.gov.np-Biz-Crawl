@@ -1,0 +1,102 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Mai Khurd",
+            "short_name" : "Mai Khurd",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Allahabad",
+            "short_name" : "Allahabad",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "212301",
+            "short_name" : "212301",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eMai Khurd\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e212301\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Mai Khurd, Uttar Pradesh 212301, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.149325,
+            "lng" : 81.939629
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "b007223ec739de18339483424bd6350528e6332e",
+      "name" : "Meja Super Thermal Power Project - Site Office",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 6:00 pm",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 9:00 am – 6:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJT6jyCE9BhTkRA0OrkSG-m4A",
+      "reference" : "CpQBgwAAAEEOsOAgTWCfm9Kg06TbxkavUB5-sXD-PuQWVVl_QSEpJF7myinWPD2kkpTFnGvwcji4o5kA6YL7FfMyqzFitvK6aT1L0fRRIgkwElba2PAVpX-I2v_bSXkoiGL4xXrX6mhpRggyjkQ_5yQKB6a6GgXEmC0n33303vD0Yk3psTHkbDIbY8TYDxoqlKOG8z7BQxIQmRzIt78y7pmjLloBjVyfHhoUN7gXvQuX40lIsAAPp0h95S8GIDU",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Virendra Bhatnagar",
+            "author_url" : "https://plus.google.com/103455443791527686021",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "Adventerous",
+            "time" : 1430369981
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/105363431788385917265/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Mai Khurd"
+   },
+   "status" : "OK"
+}

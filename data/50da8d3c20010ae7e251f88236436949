@@ -1,0 +1,152 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Shop No.23",
+            "short_name" : "Shop No.23",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "93C",
+            "short_name" : "93C",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Bithur Rd",
+            "short_name" : "Bithur Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Near IIT Gate",
+            "short_name" : "Near IIT Gate",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Kalyanpur",
+            "short_name" : "Kalyanpur",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208016",
+            "short_name" : "208016",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Shop No.23, \u003cspan class=\"street-address\"\u003e93C, Bithur Rd\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNear IIT Gate, Kalyanpur\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208016\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Shop No.23, 93C, Bithur Rd, Near IIT Gate, Kalyanpur, Kanpur, Uttar Pradesh 208016, India",
+      "formatted_phone_number" : "099568 17696",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.504557,
+            "lng" : 80.26266699999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "a2ae5b828cea221dff94b30fdf3b9a9d4cbccb49",
+      "international_phone_number" : "+91 99568 17696",
+      "name" : "Mehta Hardware",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: 10:00 am – 8:00 pm"
+         ]
+      },
+      "place_id" : "ChIJZViPf5w3nDkR_HR2NoTnny0",
+      "reference" : "CnRhAAAAm9OudIKO1yW_dGI9FDdTx9u7-scclfgEgjEeNCEa81oda5xPAyEydBJNcG9WUmidHF1VicJbRYIMMMUWsqnH_6ypXjSMC7W0O2u1WiCudjLJYKwwtX8hxVUtgmI2KZ02za0-cIZWaBupcv2UGywsXRIQkZ4x7Zpqwtia5FA6zSHbvBoUzZhRF1r8ZLt8R0ESE1B-hjaxdaY",
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/113979637303209262323/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Shop No.23, 93C, Bithur Rd, Near IIT Gate, Kalyanpur, Kanpur"
+   },
+   "status" : "OK"
+}

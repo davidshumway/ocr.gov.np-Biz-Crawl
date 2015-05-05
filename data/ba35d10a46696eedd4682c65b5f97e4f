@@ -1,0 +1,121 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Agra",
+            "short_name" : "Agra",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "282004",
+            "short_name" : "282004",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "23,Ring Road, \u003cspan class=\"locality\"\u003eAgra\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e282004\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "23,Ring Road, Agra, Uttar Pradesh 282004, India",
+      "formatted_phone_number" : "098979 68500",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.198839,
+            "lng" : 78.022013
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "b701556e3631c0f9ce86d519fde21f7577852c63",
+      "international_phone_number" : "+91 98979 68500",
+      "name" : "Stocks Power",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 5:00 pm",
+            "Tuesday: 9:00 am – 5:00 pm",
+            "Wednesday: 9:00 am – 5:00 pm",
+            "Thursday: 9:00 am – 5:00 pm",
+            "Friday: 9:00 am – 5:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 240,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAbxOoMKdZzPPC1SJbBUr2jjm-3ZnZDUGS-mriHOg8LJwBXsjwH64d_Q8jyceC-z4ST0ooFy9ViqXFDa06Cjk6C1_mP5Vfl4cOuB2oAzqnt1qq0Mh9RbTb94zGDZ0NhvU6de7f-t8PVjaV248vtZIhsxIQYLsCApA7JjXqVSZHVElJWxoUkChH6zoTiPpBdUwsNXcXLPyC_uE",
+            "width" : 327
+         }
+      ],
+      "place_id" : "ChIJowBr9rRwdDkRZbYSEB5DKUA",
+      "reference" : "CmRfAAAAIk5HkxFvNibSf-XqmTAxvFFneB4zkDxZW-QglcIR2z8JkPMAZbopsM-MFle3WBIkGrwIwOhGdIZDyjAj59P30azZ-52ZYIJmJhS3O6ulUQ7IYKfbzjYA0jwh59UJ2xc9EhChbBEmA-CbVcDqxds1cyZAGhQmyZ2Zne1OHhVNOKLxYWj_Lap9Kg",
+      "scope" : "GOOGLE",
+      "types" : [ "finance", "establishment" ],
+      "url" : "https://plus.google.com/101904081524975215623/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "23,Ring Road, Agra",
+      "website" : "http://www.stockspower.in/"
+   },
+   "status" : "OK"
+}

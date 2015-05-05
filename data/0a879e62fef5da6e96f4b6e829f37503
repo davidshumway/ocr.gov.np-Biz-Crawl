@@ -1,0 +1,144 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Muzaffar Ahmed Street",
+            "short_name" : "Muzaffar Ahmed St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Maula Ali",
+            "short_name" : "Maula Ali",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Taltala",
+            "short_name" : "Taltala",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700016",
+            "short_name" : "700016",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eMuzaffar Ahmed Street\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eMaula Ali, Taltala\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700016\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Muzaffar Ahmed Street, Maula Ali, Taltala, Kolkata, West Bengal 700016, India",
+      "formatted_phone_number" : "033 2227 2123",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.553813,
+            "lng" : 88.356903
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "51b3392e1780fff09427d67b95d8727c25df8e93",
+      "international_phone_number" : "+91 33 2227 2123",
+      "name" : "M/s Maa Traders",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 9:00 pm",
+            "Tuesday: Closed",
+            "Wednesday: 9:00 am – 9:00 pm",
+            "Thursday: 9:00 am – 9:00 pm",
+            "Friday: 9:00 am – 9:00 pm",
+            "Saturday: 9:00 am – 9:00 pm",
+            "Sunday: 9:00 am – 9:00 pm"
+         ]
+      },
+      "place_id" : "ChIJUxVl6gR3AjoRPNYjr4bpUjo",
+      "reference" : "CnRiAAAAzFC7qI_2qcCHxH_st0VHA_H9q-sH91bRnLyuuXApbQHDwkrJA-RlLRT8fNOg5-ymARHyBZTVXuzNNQck4zJWjgAGWwASHOAorisvNzcjl4Spq_KTSbRMhDD1Gifv36r4l3A6_BgYZ1hQYc01gU0QrRIQ5iiFKEhcxibFqfwO-Xv8SBoUfjduNXZiaILRTFYKYI8Ke_DogUM",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "establishment" ],
+      "url" : "https://plus.google.com/110929755131909468268/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Muzaffar Ahmed Street, Maula Ali, Taltala, Kolkata"
+   },
+   "status" : "OK"
+}

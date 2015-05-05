@@ -1,0 +1,145 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Lahurabir Rd",
+            "short_name" : "Lahurabir Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Near Petrol Pump",
+            "short_name" : "Near Petrol Pump",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Maldahiya",
+            "short_name" : "Maldahiya",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Chetganj",
+            "short_name" : "Chetganj",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Varanasi",
+            "short_name" : "Varanasi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Varanasi",
+            "short_name" : "Varanasi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "221001",
+            "short_name" : "221001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eLahurabir Rd\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNear Petrol Pump, Maldahiya, Chetganj\u003c/span\u003e, \u003cspan class=\"locality\"\u003eVaranasi\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e221001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Lahurabir Rd, Near Petrol Pump, Maldahiya, Chetganj, Varanasi, Uttar Pradesh 221001, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.323926,
+            "lng" : 82.995068
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "bc163ac013ed3ca13c9ea9d0255efd9b5ff1642c",
+      "name" : "Sail Shop",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJvaU4kAkujjkRoUraGPZ14KA",
+      "reference" : "CmRdAAAABCohio3yUWczDEUQSCSzk-ZYJIOQIzVJ3YMU9gyNcQUczCtk2oTcoFcUuO5JJHhB2yVUWOIq0ittYpplRcDCP4ikWUQsfjuGm_qXbbQxgOMk-hKFyuiv8Hd1R-iWM7J2EhCSiCtIqkXwikV2K4fxy8eFGhSPglI3Ut0EbIzV3GRQ7LtkHW0qSQ",
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/108993034049499378996/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Lahurabir Rd, Near Petrol Pump, Maldahiya, Chetganj, Varanasi"
+   },
+   "status" : "OK"
+}

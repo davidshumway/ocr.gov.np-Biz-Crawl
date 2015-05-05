@@ -1,0 +1,71 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700013",
+            "short_name" : "700013",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "154, Lenin Sarani, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700013\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "154, Lenin Sarani, Kolkata, West Bengal 700013, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.563488,
+            "lng" : 88.35768299999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "47c8c6e23b3d67af790e0b52dc418f6a498c43da",
+      "name" : "Eenkay Apartment",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "open" : {
+                  "day" : 0,
+                  "time" : "0000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+         ]
+      },
+      "place_id" : "ChIJvWIJVAd3AjoRWaMGT37xb8o",
+      "reference" : "CnRkAAAAn1aiGc6d6--dsB6Y_R0kvwD4rNttBj1yQkfZZ0I54-Se1y3J8PI_aliorkUltmQ3L7PEi3e_eidBTdtiY_c1ApqS6jWVHNQbpOe_cerjg69G65o_Kilu1xJRe3A9HJN__Kt8DUZek2LqI13H1zSFbxIQPhTvxWqc2Er9xydfvclatRoUPMJ5t79HQm-j8WrG2EpKBspDtkY",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/114686596035640896878/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "154, Lenin Sarani, Kolkata"
+   },
+   "status" : "OK"
+}

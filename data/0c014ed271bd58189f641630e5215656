@@ -1,0 +1,144 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "20 B",
+            "short_name" : "20 B",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "Gallif Street",
+            "short_name" : "Gallif St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Shyam Bazar",
+            "short_name" : "Shyam Bazar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700004",
+            "short_name" : "700004",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "20 B, \u003cspan class=\"street-address\"\u003eGallif Street\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eShyam Bazar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700004\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "20 B, Gallif Street, Shyam Bazar, Kolkata, West Bengal 700004, India",
+      "formatted_phone_number" : "033 2555 2529",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.604986,
+            "lng" : 88.37371
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "11364b59b396d06941e564e4b0e8b07f555bfa1c",
+      "international_phone_number" : "+91 33 2555 2529",
+      "name" : "Panna Auto Mobiles",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 am – 8:30 pm",
+            "Tuesday: 8:00 am – 8:30 pm",
+            "Wednesday: 8:00 am – 8:30 pm",
+            "Thursday: 8:00 am – 8:30 pm",
+            "Friday: 8:00 am – 8:30 pm",
+            "Saturday: 8:00 am – 8:30 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJu3Tbtyh2AjoRcVLuwOowQVg",
+      "reference" : "CnRlAAAAUuWC4DTJzXg23gMxKEwM-NpP4KnGDqDA7He7afmRHQK5ECFp0SvdpKyUmsMoyEA5mJutXF3QuftD4v0j_w0P1qyAkDrr7HcYrsJzrvb_a9877nSTFbJ4Y2t4M3JI76KNT7Ne3hem66liRE-xqjabxhIQ9LjWnDda8J53xmxNazuEYxoUBxwQF2FNy7mAyeejBsq8lGDLuF8",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/104380979783236995851/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "20 B, Gallif Street, Shyam Bazar, Kolkata"
+   },
+   "status" : "OK"
+}

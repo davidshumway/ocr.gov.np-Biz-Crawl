@@ -1,0 +1,65 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "43, Kali Krishna Tagore Street, Burrabazar",
+            "short_name" : "43, Kali Krishna Tagore Street, Burrabazar",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Raja Katra",
+            "short_name" : "Raja Katra",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700007",
+            "short_name" : "700007",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e43, Kali Krishna Tagore Street, Burrabazar\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eRaja Katra\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700007\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "43, Kali Krishna Tagore Street, Burrabazar, Raja Katra, Kolkata, West Bengal 700007, India",
+      "formatted_phone_number" : "033 2259 7654",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.586951,
+            "lng" : 88.353875
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "1b0f9a4d73fbce1aac9a20df1465f632ae003ea4",
+      "international_phone_number" : "+91 33 2259 7654",
+      "name" : "Commercial Tyres",
+      "place_id" : "ChIJ0RK2ykp2AjoRpbyAJ0Ddotc",
+      "reference" : "CnRkAAAAHz2AuY8F_nOUBlioZertmLQdj1uw9W7rQWVO5sQkfgUhwxtEwHAFk_-MCQaxK3EyFtoLFlEiDHHktZ2EIcIDTW_DOdMkEoKcHm1P8zWr2ljQABMiy2cIkKfsgRr_m8eAt1NZbZ6rnljUR7md-RhbohIQN4ssDD-rkvRqd68IqK171hoUINJOnwpe48_XR5BYeFmEzt9TGa4",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/114540325791825646070/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "43, Kali Krishna Tagore Street, Burrabazar, Raja Katra, Kolkata"
+   },
+   "status" : "OK"
+}

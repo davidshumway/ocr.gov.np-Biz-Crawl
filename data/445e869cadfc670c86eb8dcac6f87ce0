@@ -1,0 +1,149 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "45/87",
+            "short_name" : "45/87",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "Meston Road",
+            "short_name" : "Meston Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Khoya Bazar",
+            "short_name" : "Khoya Bazar",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "General Ganj",
+            "short_name" : "General Ganj",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208001",
+            "short_name" : "208001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "45/87, \u003cspan class=\"street-address\"\u003eMeston Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eKhoya Bazar, General Ganj\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "45/87, Meston Road, Khoya Bazar, General Ganj, Kanpur, Uttar Pradesh 208001, India",
+      "formatted_phone_number" : "0512 301 4651",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.466706,
+            "lng" : 80.34769799999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "a5adc500a9048909c7ebd784e921a0fdce86329b",
+      "international_phone_number" : "+91 512 301 4651",
+      "name" : "Prem Glass Store",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1100"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 11:00 am – 8:00 pm",
+            "Tuesday: 11:00 am – 8:00 pm",
+            "Wednesday: 11:00 am – 8:00 pm",
+            "Thursday: 11:00 am – 8:00 pm",
+            "Friday: 11:00 am – 8:00 pm",
+            "Saturday: 11:00 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ571kmoJHnDkRFehs53wgul0",
+      "reference" : "CnRjAAAAX1nFW7XWRE5AJA3fkITHQaGlx37_t90I4huxKBhTNNa-zgHcVOab1aVIntd3WBzaAzo9-vqbFYKUsat6u1744Kj6a-lIk6bYCMFugnbuU5rh9f6Ju0UgaUuCdD0a70SJaiEnfdqrXWrv0vyAuLJmkRIQ80HOkvLuiV4Zpp6ubxmxMRoU8HXQ_1BDXi_xk9AYME9PFsBnsag",
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/108746544028335776092/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "45/87, Meston Road, Khoya Bazar, General Ganj, Kanpur"
+   },
+   "status" : "OK"
+}

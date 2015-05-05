@@ -1,0 +1,140 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Campbell Road",
+            "short_name" : "Campbell Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Thakurganj",
+            "short_name" : "Thakurganj",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Baraura Hussain Bari",
+            "short_name" : "Baraura Hussain Bari",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Lucknow",
+            "short_name" : "Lucknow",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Lucknow",
+            "short_name" : "Lucknow",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "226003",
+            "short_name" : "226003",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "State Highway 25, \u003cspan class=\"street-address\"\u003eCampbell Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eThakurganj, Baraura Hussain Bari\u003c/span\u003e, \u003cspan class=\"locality\"\u003eLucknow\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e226003\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "State Highway 25, Campbell Road, Thakurganj, Baraura Hussain Bari, Lucknow, Uttar Pradesh 226003, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.871246,
+            "lng" : 80.880599
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "017ba0c323a82ed77e9eabbba68fe92c12f2cc7c",
+      "name" : "G.P. Tower",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 am – 10:00 pm",
+            "Tuesday: 8:00 am – 10:00 pm",
+            "Wednesday: 8:00 am – 10:00 pm",
+            "Thursday: Closed",
+            "Friday: 8:00 am – 10:00 pm",
+            "Saturday: 8:00 am – 10:00 pm",
+            "Sunday: 8:00 am – 10:00 pm"
+         ]
+      },
+      "place_id" : "ChIJSznhPxn-mzkR4yvvbJfK5Pw",
+      "reference" : "CmReAAAASlYdt-PaqOyV5OV_j_HmetQclJmsjud-QMMR67wQtLOnoWVpTGEvCW6aUw6FNWtIw1oT90EmVNb5NCPphdl3paAsk1RROLzkFk6o7tx1QouX1vK1clvHTsHgKyB3P9Z0EhCNCyYWhWeQXc2vZ1MaUoBuGhQNUbBLTj5zbfzogV7hLCObk27ZXg",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/118182545908144217028/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "State Highway 25, Campbell Road, Thakurganj, Baraura Hussain Bari, Lucknow"
+   },
+   "status" : "OK"
+}

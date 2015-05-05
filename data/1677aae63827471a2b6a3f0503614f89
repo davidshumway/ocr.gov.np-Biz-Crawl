@@ -1,0 +1,157 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "573",
+            "short_name" : "573",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Panki Road",
+            "short_name" : "Panki Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "B-Block",
+            "short_name" : "B-Block",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Panki",
+            "short_name" : "Panki",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208020",
+            "short_name" : "208020",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e573, Panki Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eB-Block, Panki\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208020\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "573, Panki Road, B-Block, Panki, Kanpur, Uttar Pradesh 208020, India",
+      "formatted_phone_number" : "098890 85130",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.467711,
+            "lng" : 80.249622
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "50c985025c929d074158c8636ce23921c963adcc",
+      "international_phone_number" : "+91 98890 85130",
+      "name" : "Sri Balaji Automobile",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: 10:00 am – 8:00 pm"
+         ]
+      },
+      "place_id" : "ChIJ75-Out43nDkRRwvLradCaMA",
+      "reference" : "CnRpAAAAX1yPuX5OmQf_W2rHhOEd5Fz6dJfSYgAI9lLagoPhnaUrgYoKH-gbPN5spw256Qjxu3p-tAeV-s7cOGfE6vtFhh1E1s6UxRzwtYCeRRGrSE8UViSV8iDTUPADx-u0H-yD9AUaFB32qN0K9hwOXNNe2hIQSzgsu3wO_zRjICiJbOah6RoU_OrC6XXSinJk2fvx3UXYTQWjxVI",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/100696539106806250791/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "573, Panki Road, B-Block, Panki, Kanpur"
+   },
+   "status" : "OK"
+}

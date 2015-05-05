@@ -1,0 +1,65 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "38",
+            "short_name" : "38",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Nirmal Chandra Street",
+            "short_name" : "Nirmal Chandra Street",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bahu Bazaar",
+            "short_name" : "Bahu Bazaar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700013",
+            "short_name" : "700013",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e38, Nirmal Chandra Street\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBahu Bazaar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700013\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "38, Nirmal Chandra Street, Bahu Bazaar, Kolkata, West Bengal 700013, India",
+      "formatted_phone_number" : "033 2215 7301",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.566316,
+            "lng" : 88.359858
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "6bae268505cfbf94d982556376c257ba7b81cf13",
+      "international_phone_number" : "+91 33 2215 7301",
+      "name" : "AK Traders",
+      "place_id" : "ChIJ95axUap3AjoRA3kL7VEqlcw",
+      "reference" : "CmReAAAAPdj1ErzrnCvMUIblICac2o0YStwESTB61RoaUWZ3-FKvM3l4LxT4VMARhH9Bh-bhE08sOpvZTtdsA-S4fFfSQGlkRLuZ9Tnk4KFH87ZE1I0yhnm0t1HA9qJozUeMPVijEhBeG5uc7ogZNQV5RJrbjgybGhRBEEStWdwSfmpQoOwzYkL8xjI7bA",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "establishment" ],
+      "url" : "https://plus.google.com/114341151549506614685/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "38, Nirmal Chandra Street, Bahu Bazaar, Kolkata"
+   },
+   "status" : "OK"
+}

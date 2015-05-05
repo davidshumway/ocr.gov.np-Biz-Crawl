@@ -1,0 +1,145 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1 Chandni Chowk Street, Ganesh Chandra Avenue",
+            "short_name" : "1 Chandni Chowk Street, Ganesh Chandra Avenue",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Chandni Chawk",
+            "short_name" : "Chandni Chawk",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Bowbazar",
+            "short_name" : "Bowbazar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700072",
+            "short_name" : "700072",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e1 Chandni Chowk Street, Ganesh Chandra Avenue\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eChandni Chawk, Bowbazar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700072\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "1 Chandni Chowk Street, Ganesh Chandra Avenue, Chandni Chawk, Bowbazar, Kolkata, West Bengal 700072, India",
+      "formatted_phone_number" : "033 2406 2745",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.566384,
+            "lng" : 88.357758
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "db118e5d307973599890b6ac0b03c7a973d148b1",
+      "international_phone_number" : "+91 33 2406 2745",
+      "name" : "A. B. Corporation",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1100"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 11:00 am – 8:00 pm",
+            "Tuesday: 11:00 am – 8:00 pm",
+            "Wednesday: 11:00 am – 8:00 pm",
+            "Thursday: 11:00 am – 8:00 pm",
+            "Friday: 11:00 am – 8:00 pm",
+            "Saturday: 11:00 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJHfnbhql3AjoRlpCIo7FC7rw",
+      "reference" : "CnRlAAAA0QjC-12QCdnpX7E5BZqXvptw7ZA-L43JX_rWyV5jhsHhJqM7i8RrF7TCurrD5mZnyQKaFgsfhQsURBLODdofdTgZLDzHEKYrqjgA-qqUZPnHaVMkOHmKpmfZOnbOsmJApjgSxLBm6KytpMdvey4tdRIQ6lNCZFW5rOyzt2SZwXABkRoUG3Z5oFII-U16L9LLstFwPnHwRRU",
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/107529335789601443839/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "1 Chandni Chowk Street, Ganesh Chandra Avenue, Chandni Chawk, Bowbazar, Kolkata",
+      "website" : "http://www.abcorp.webnode.com/"
+   },
+   "status" : "OK"
+}

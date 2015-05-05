@@ -1,0 +1,63 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Main Road",
+            "short_name" : "Main Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Sri Krishna Nagar",
+            "short_name" : "Sri Krishna Nagar",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Patna",
+            "short_name" : "Patna",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Patna",
+            "short_name" : "Patna",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "800001",
+            "short_name" : "800001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eMain Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSri Krishna Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003ePatna\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e800001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Main Road, Sri Krishna Nagar, Patna, Bihar 800001, India",
+      "formatted_phone_number" : "097098 33700",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.615207,
+            "lng" : 85.12647699999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "e310cd477608d27b81d1a874926e309b74a3b82f",
+      "international_phone_number" : "+91 97098 33700",
+      "name" : "Student Stationary Greet N Gift",
+      "place_id" : "ChIJv4ASC4p-DRQRc_nMf8iCQak",
+      "reference" : "CoQBcwAAAOIdIhch74E21rVJ98N9xmbEEhpeDvbrJW4gTvvTirjId61nHzkq0davU2gPkjJH3ZhSBblbKk6z6ZRDz29DZg1sbO1zvB5ek9dfdCQpPL_vrm2Gha-6kQDYcvvlbI1WxMrzJteSoZb3HNMPX1VDa-C8cpsmQKYYL9v-uDaLCaD_EhC1N7ifOs9r73bpdkYoqtmlGhQn4O3fnCvIGetoVgrvvSa35QpsUQ",
+      "scope" : "GOOGLE",
+      "types" : [ "book_store", "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/112211010175959057584/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Main Road, Sri Krishna Nagar, Patna"
+   },
+   "status" : "OK"
+}

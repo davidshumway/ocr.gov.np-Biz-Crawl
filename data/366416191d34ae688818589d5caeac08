@@ -1,0 +1,138 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "College Road",
+            "short_name" : "College Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Santinagar",
+            "short_name" : "Santinagar",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Joypurhat",
+            "short_name" : "Joypurhat",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Joypurhat",
+            "short_name" : "Joypurhat",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Rajshahi Division",
+            "short_name" : "Rajshahi Division",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Bangladesh",
+            "short_name" : "BD",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eCollege Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eJoypurhat\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eBangladesh\u003c/span\u003e",
+      "formatted_address" : "College Road, Joypurhat, Bangladesh",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.101916,
+            "lng" : 89.025488
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "975a0d58dcfbca15ba68ae363c62a713e7fd11bc",
+      "name" : "Agrani Bank Limited",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 6:00 pm",
+            "Tuesday: 10:00 am – 6:00 pm",
+            "Wednesday: 10:00 am – 6:00 pm",
+            "Thursday: 10:00 am – 6:00 pm",
+            "Friday: Closed",
+            "Saturday: Closed",
+            "Sunday: 10:00 am – 6:00 pm"
+         ]
+      },
+      "place_id" : "ChIJe1_uJQWS_DkRsklJcqCDRuw",
+      "reference" : "CnRnAAAAVf0AYhshZt0dfo220qLuty7vB0RsixE0-vuvB2tx5LXouYfF8wVnDpKIRanXxfLyEicSkbEjZQJJhiuaYO9GpK1x2ccYH9KY91yqIWCFqsFwsNcziVpURGYez1v-cph5CUqIRl0aYeLRhhwhHd4T6hIQbAywQoKEFgQYH09kuGGOMBoUA4VICReeIAw4ikV5Do2VS7clg-8",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "shohel parvej",
+            "author_url" : "https://plus.google.com/101589964521785891488",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1414782326
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "bank", "finance", "establishment" ],
+      "url" : "https://plus.google.com/101852722182681373477/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 360,
+      "vicinity" : "College Road, Joypurhat",
+      "website" : "http://www.agranibank.org"
+   },
+   "status" : "OK"
+}

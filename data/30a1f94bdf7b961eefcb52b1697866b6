@@ -1,0 +1,138 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "National Highway 31",
+            "short_name" : "NH 31",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Pashchim Tola",
+            "short_name" : "Pashchim Tola",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Maheshkhunt",
+            "short_name" : "Maheshkhunt",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Khagaria",
+            "short_name" : "Khagaria",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "851213",
+            "short_name" : "851213",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNational Highway 31\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003ePashchim Tola\u003c/span\u003e, \u003cspan class=\"locality\"\u003eMaheshkhunt\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e851213\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "National Highway 31, Pashchim Tola, Maheshkhunt, Bihar 851213, India",
+      "formatted_phone_number" : "1800 200 1911",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.464832,
+            "lng" : 86.639055
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "18927c83b45cca366aa6364eb08c366d377c4071",
+      "international_phone_number" : "+91 1800 200 1911",
+      "name" : "Central Bank of India",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1530"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1530"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1530"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1530"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1530"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1530"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1030"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:30 am – 3:30 pm",
+            "Tuesday: 10:30 am – 3:30 pm",
+            "Wednesday: 10:30 am – 3:30 pm",
+            "Thursday: 10:30 am – 3:30 pm",
+            "Friday: 10:30 am – 3:30 pm",
+            "Saturday: 10:30 am – 3:30 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJmVfUguzc8TkRIDtFxP857pI",
+      "reference" : "CnRpAAAA-FRkaO29BhjBBLuV0bZzOtCDlqLXQJJyxMa2uqpckfvj6WY5iV-AioDpSJWqF-G94RvZWi8I20nD2ZQd6x5Q0zdIdt3wyVNNxnRjm-X2t1utRDhZJCeT1-i1ajcFA9GD7ny3CnMj5sR3LvFHeiAzYBIQ0XB6LDO1otOYuuNUmSxHxRoUQkAQQD7mc0LyAAvmt1dlnN8Twgk",
+      "scope" : "GOOGLE",
+      "types" : [ "bank", "finance", "establishment" ],
+      "url" : "https://plus.google.com/108538900472882198219/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "National Highway 31, Pashchim Tola, Maheshkhunt",
+      "website" : "https://www.centralbankofindia.co.in/"
+   },
+   "status" : "OK"
+}

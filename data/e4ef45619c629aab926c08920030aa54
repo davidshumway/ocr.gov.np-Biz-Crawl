@@ -1,0 +1,101 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Dumka",
+            "short_name" : "Dumka",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Jharkhand",
+            "short_name" : "JH",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "814101",
+            "short_name" : "814101",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "by pass road, \u003cspan class=\"locality\"\u003eDumka\u003c/span\u003e, \u003cspan class=\"region\"\u003eJharkhand\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e814101\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "by pass road, Dumka, Jharkhand 814101, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 24.265698,
+            "lng" : 87.24242099999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "9f306678a4017db9aeb64238890f9d4b6a1b70bd",
+      "name" : "Ashok Vatika",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "0900"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1754"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 5:54 pm – 9:00 am",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJG0pcjrW38DkRBEp26GyKDec",
+      "reference" : "CmRgAAAAmj_m41SLZWF60ttMv-0XHVaKxTBp5z45cf-nLTz8BVB-uLy5lJj_3j52yUTf-9UU3GDIoFTxHCocH_Y2up2h3I2Eb2b-aVTGqM8wEgzzw4gkOKjLriZy22qK_3q8v-cfEhCI7xmmci3C_pjKcj33FFw0GhRT7AIvYoeqjkS-ly4wJCiw6FTEPQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "ratan abuwala",
+            "author_url" : "https://plus.google.com/113251119678445338237",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Good",
+            "time" : 1422782678
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Aman Agrawal",
+            "author_url" : "https://plus.google.com/117427817828373313097",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "nice",
+            "time" : 1422781397
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/101823782804177349991/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "by pass road, Dumka"
+   },
+   "status" : "OK"
+}

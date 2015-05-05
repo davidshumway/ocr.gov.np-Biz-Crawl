@@ -1,0 +1,85 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Vashishth Path",
+            "short_name" : "Vashishth Path",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Basudevpur",
+            "short_name" : "Basudevpur",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Munger",
+            "short_name" : "Munger",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Munger",
+            "short_name" : "Munger",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "811201",
+            "short_name" : "811201",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eVashishth Path\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBasudevpur\u003c/span\u003e, \u003cspan class=\"locality\"\u003eMunger\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e811201\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Vashishth Path, Basudevpur, Munger, Bihar 811201, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.386304,
+            "lng" : 86.478898
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "822a313e0b96e846f3f774c2fb04ed587be91b89",
+      "name" : "Keshav Appartment",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJB-hrhR_v8TkR-D07DGwlWSw",
+      "reference" : "CnRkAAAA9p0lCkcuu9XdrWSTFKtVWMDxYkasUzsVue0uUeUv80suUEBNka5uUpyc75EzII07Nm7CnUFrm760MEy-baiIIeXZGJmYm8V87S2GK8PDGyN3UK6SCNpflZqKrEDk6cqE-yNHXg7dOPEOeeVXKUewVhIQPIaw3sy7bHFf3UrJZLEsihoU3xUDc_JVnWYVY09n-6PojlsbGTI",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/102013624959872096678/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Vashishth Path, Basudevpur, Munger"
+   },
+   "status" : "OK"
+}

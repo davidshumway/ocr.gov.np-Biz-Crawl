@@ -1,0 +1,138 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Dharma Path",
+            "short_name" : "Dharma Path",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Pako",
+            "short_name" : "Pako",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Kathmandu",
+            "short_name" : "Kathmandu",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bagmati",
+            "short_name" : "Bagmati",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "44600",
+            "short_name" : "44600",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eDharma Path\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKathmandu\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e44600\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Dharma Path, Kathmandu 44600, Nepal",
+      "formatted_phone_number" : "01-4230248 ext. 4231044",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.702795,
+            "lng" : 85.309121
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "0be4d2c025a60b57d6247fadf15e31ed48778eb7",
+      "international_phone_number" : "+977 1-4230248 ext. 4231044",
+      "name" : "Service Center (SHTC International Pvt. Ltd.)",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "0630"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "0630"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "0630"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "0630"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "0630"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1030"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:30 am – 6:30 am",
+            "Tuesday: 10:30 am – 6:30 am",
+            "Wednesday: 10:30 am – 6:30 am",
+            "Thursday: 10:30 am – 6:30 am",
+            "Friday: 10:30 am – 6:30 am",
+            "Saturday: Closed",
+            "Sunday: 10:30 am – 12:00 am"
+         ]
+      },
+      "place_id" : "ChIJQWHkz1UY6zkRcIOPgDZhKck",
+      "reference" : "CpQBgQAAAPqe7ne7G83sh7ciVaA16GPHn3Z4lTpdNOZmBY_0Zt4FaKMzPlbHpAXZMmyYD3dwd4mbXxZY0UKydbU8utn9CFBQrf1n-cSck-z1TLCLZAJLck8eSSTWWiS1IZ8qe1ssh0I5wHN5k6cXJae8gOBDl4Nlt34UDeMCVdq7HRzPl-fbywBO6RQOee7_4WnDsyTOARIQNtp6Eh2FmsEf6nHdpVphVxoUzEJ6s6bfElVH8MyD9iu_2ndJWDw",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/102807997711585533936/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "Dharma Path, Kathmandu",
+      "website" : "http://www.shtcnepal.com/"
+   },
+   "status" : "OK"
+}

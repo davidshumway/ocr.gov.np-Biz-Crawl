@@ -1,0 +1,123 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Gorakhpur",
+            "short_name" : "Gorakhpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "273001",
+            "short_name" : "273001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "AD Chowk, Bank Road, \u003cspan class=\"street-address\"\u003eShop Unit No. 8, 3rd Floor, “Cross Road”,\u003c/span\u003e, \u003cspan class=\"locality\"\u003eGorakhpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e273001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "AD Chowk, Bank Road, Shop Unit No. 8, 3rd Floor, “Cross Road”,, Gorakhpur, Uttar Pradesh 273001, India",
+      "formatted_phone_number" : "0551 645 0271",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.74485,
+            "lng" : 83.365582
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "ecea2307e062562ddc754d9b275f9510b84c6efc",
+      "international_phone_number" : "+91 551 645 0271",
+      "name" : "Kotak Life Insurance",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 6:00 pm",
+            "Tuesday: 9:00 am – 6:00 pm",
+            "Wednesday: 9:00 am – 6:00 pm",
+            "Thursday: 9:00 am – 6:00 pm",
+            "Friday: 9:00 am – 6:00 pm",
+            "Saturday: 9:00 am – 6:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJAQAAAHFEkTkRN6stRil0u9Q",
+      "reference" : "CnRoAAAANGjKrURig4O0qmHGkX0Aw7MyGtRwotwhU2Te1J6AL9FBLQts6FKA_2XsQidKnL_cLpwTyKXC76_fyc_WsmHjuaQwX1s16TE5Tsmgs9vWnxpJjaBS-PFDA8wnQpqLHm9IyzwE0IAGS6CQg2ToWgxeJhIQtR2k7MLKU3Huolzv5gyZzhoUvsVJA1w9ewUWP-4Q_i3-mlY-yNA",
+      "scope" : "GOOGLE",
+      "types" : [ "insurance_agency", "finance", "establishment" ],
+      "url" : "https://plus.google.com/102006640900918842869/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "AD Chowk, Bank Road, Shop Unit No. 8, 3rd Floor, “Cross Road”,, Gorakhpur",
+      "website" : "http://insurance.kotak.com/home/index.php"
+   },
+   "status" : "OK"
+}

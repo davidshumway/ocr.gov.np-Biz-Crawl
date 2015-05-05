@@ -1,0 +1,66 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700026",
+            "short_name" : "700026",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "15 A, Sahanagar Road, \u003cspan class=\"street-address\"\u003eSahanagar, Kalighat\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700026\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "15 A, Sahanagar Road, Sahanagar, Kalighat, Kolkata, West Bengal 700026, India",
+      "formatted_phone_number" : "098307 19537",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.572646,
+            "lng" : 88.363895
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "c93e385a20c801490702cb0b95fd1142fe5b0de4",
+      "international_phone_number" : "+91 98307 19537",
+      "name" : "Longia Motors P Ltd",
+      "place_id" : "ChIJe6yzIVN2AjoRNfA8pXWe8rU",
+      "reference" : "CnRnAAAAQ7JbdqPfdGSALxNzndlQUu_sSX-2EMrHR6o-8sl0h4CXXn5-czZLMM6PxexZsu9xAPx7ozz8Qg9cYo1rAjR35ZJbpE63gB7iGFzjyOlQ7XTolNUGHnqGdBMM6FI8WrRELW7Axb07tiSJLCmJ0lgNnBIQw5g8HGQb9E1ksAz34h7WRxoUskxvquBmsjfPndmv_SE7DBzVscw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1295426230
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/106904065888472824921/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "15 A, Sahanagar Road, Sahanagar, Kalighat, Kolkata"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,157 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "16",
+            "short_name" : "16",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Bodla Road",
+            "short_name" : "Bodla Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Baghel Market, Sikandra Crossing",
+            "short_name" : "Baghel Market, Sikandra Crossing",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Sikandra",
+            "short_name" : "Sikandra",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Agra",
+            "short_name" : "Agra",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Agra",
+            "short_name" : "Agra",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "282007",
+            "short_name" : "282007",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e16, Bodla Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBaghel Market, Sikandra Crossing, Sikandra\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAgra\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e282007\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "16, Bodla Road, Baghel Market, Sikandra Crossing, Sikandra, Agra, Uttar Pradesh 282007, India",
+      "formatted_phone_number" : "082731 27920",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.214987,
+            "lng" : 77.95068499999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "61f92171e86860492b0bce46d46c717cb41d3c2f",
+      "international_phone_number" : "+91 82731 27920",
+      "name" : "Sheetal Auto Spare Parts",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 am – 8:00 pm",
+            "Tuesday: 8:00 am – 8:00 pm",
+            "Wednesday: 8:00 am – 8:00 pm",
+            "Thursday: 8:00 am – 8:00 pm",
+            "Friday: 8:00 am – 8:00 pm",
+            "Saturday: 8:00 am – 8:00 pm",
+            "Sunday: 8:00 am – 8:00 pm"
+         ]
+      },
+      "place_id" : "ChIJGUIj_h94dDkRlt9ARsbOL00",
+      "reference" : "CnRrAAAAj4tOJaltAwPTdxziHUc9m3AxLyCTATC7UON7-8D4NjEcDfkljgJkKpXS093vIg09vv4SMcdzt6NNVh8g1PUMpB0mojd6qeumcykrNEKJVgFrN1QJu5ZBGS1-CUjVIlvXQDe2cHfwASGLdGivCG5-qRIQ4IceAlLDCyZdyclPvnjM-RoUM7Hd45wed8cZjVOOg_47Fw_fVpo",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/114352002867344729458/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "16, Bodla Road, Baghel Market, Sikandra Crossing, Sikandra, Agra"
+   },
+   "status" : "OK"
+}

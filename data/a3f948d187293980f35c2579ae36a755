@@ -1,0 +1,65 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Circus Avenue",
+            "short_name" : "Circus Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Ballygunge",
+            "short_name" : "Ballygunge",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700017",
+            "short_name" : "700017",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eCircus Avenue\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBallygunge\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700017\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Circus Avenue, Ballygunge, Kolkata, West Bengal 700017, India",
+      "formatted_phone_number" : "033 2442 4687",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.541223,
+            "lng" : 88.36157900000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "dbe7383825698a9afb7165a25404cebed5f44911",
+      "international_phone_number" : "+91 33 2442 4687",
+      "name" : "Krishna Hi-Tech Const & Interior",
+      "place_id" : "ChIJ98ymAkpxAjoRMUZ9cYAsy1I",
+      "reference" : "CoQBcwAAAIVfVBJOHhLv0SRd76GB1VQ91il58TdVkFV4-VBMvUxnyskWTREW583YJlzU0182_FxeEsta1I8btwy5tsAM7nVaWXglSzBWsImu-bFlErWNsANZ3mLZfY2xyzFrp__drXhFlc_OOD8ZRr9tTMPKeEUuka0WEyQOggNQotRH0u7DEhCyAG9eQYRfpTez0iWPopP8GhToLGkcCa7K2A3GM2rOpri_xE0fug",
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/110102147279347442828/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Circus Avenue, Ballygunge, Kolkata"
+   },
+   "status" : "OK"
+}

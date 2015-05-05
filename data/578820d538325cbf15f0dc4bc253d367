@@ -1,0 +1,143 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Kharagpur",
+            "short_name" : "KGP",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "721301",
+            "short_name" : "721301",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Malancha Road, \u003cspan class=\"street-address\"\u003eP.S. Kharagpur, Paschim Mednipore\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKharagpur\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e721301\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Malancha Road, P.S. Kharagpur, Paschim Mednipore, Kharagpur, 721301, India",
+      "formatted_phone_number" : "098310 73333",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.345293,
+            "lng" : 87.294545
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "46b7bdce41eb3102f78569a800fe2ac0ee55042f",
+      "international_phone_number" : "+91 98310 73333",
+      "name" : "HDFC Bank",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1530"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1530"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1530"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1530"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1530"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1230"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0930"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:30 am – 3:30 pm",
+            "Tuesday: 9:30 am – 3:30 pm",
+            "Wednesday: 9:30 am – 3:30 pm",
+            "Thursday: 9:30 am – 3:30 pm",
+            "Friday: 9:30 am – 3:30 pm",
+            "Saturday: 9:30 am – 12:30 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 300,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAY-kVHDZItKJAdKsAesjM3BJfldcz8r_Xf4je2IjjO-3tcciMVPXCwnIKqKypUzLAkTvjsys_Omod8Rs9qnVcaQsbkdND5MtP29Kov4g8Thk0p_mfcWnCFQnm3gjSZUUrnul7HOtAg_2gtsDDxA8IBxIQ9r5Qo91XF3fqHn_kJmIFRRoUpVpYA5Ma9gXPu7xXvgice37VMYQ",
+            "width" : 300
+         }
+      ],
+      "place_id" : "ChIJ-2BPMJBDHToReGE-oJRqIb0",
+      "reference" : "CmRdAAAABGKeLM_uDgXhOW30W__S707nZg00WrjIXgtBizx8yesnbdZnPixkpaxMGpiPI8xVcKY5T4SfrqfBeoIpchPnmFKwlkNuUNAnOw4P-MZaTB15BpvvW8ITY1kgAR6wbJs1EhAh3WDAXPgyggGOH03yGqdAGhROg2Kk5raa8Bn6ClaCFO0cDWeukg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "ravi kumar",
+            "author_url" : "https://plus.google.com/104251471377885293174",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Keep it up...hdfc...",
+            "time" : 1388856602
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "bank", "atm", "finance", "establishment" ],
+      "url" : "https://plus.google.com/111602112592145900155/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Malancha Road, P.S. Kharagpur, Paschim Mednipore, Kharagpur",
+      "website" : "http://www.hdfcbank.com/personal/index?src=googplc"
+   },
+   "status" : "OK"
+}

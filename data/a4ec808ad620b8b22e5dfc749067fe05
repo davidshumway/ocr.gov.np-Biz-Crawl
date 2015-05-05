@@ -1,0 +1,70 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Purulia",
+            "short_name" : "Purulia",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Purulia",
+            "short_name" : "Purulia",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "723101",
+            "short_name" : "723101",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003ePurulia\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e723101\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Purulia, West Bengal 723101, India",
+      "formatted_phone_number" : "03252 222 526",
+      "geometry" : {
+         "location" : {
+            "lat" : 23.332296,
+            "lng" : 86.364307
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+      "id" : "8b961d08b39da776129d673117b82077394a6f23",
+      "international_phone_number" : "+91 3252 222 526",
+      "name" : "Fuel Station",
+      "place_id" : "ChIJ__ZN7Y599jkRfc82GE_AZJw",
+      "reference" : "CmRgAAAA2sbmWTqUoIA17-tf1Nay6irb8mN3X0LUiICZkgu07Eca6OeFGijQmBzPY0pRis7Vp3zUSYWR6QCr-joLhWhmUoiOb46WYD27rRM4gds790xt4GjWHOnK625qzptNEzDTEhAQhdiQvuNyFOusXrCQmaeqGhSs10WRY5VQjng-beLIf1n1pcgLBg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Surajit Paul",
+            "author_url" : "https://plus.google.com/114583359217703269159",
+            "language" : "en",
+            "rating" : 1,
+            "text" : "",
+            "time" : 1386669656
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "gas_station", "establishment" ],
+      "url" : "https://plus.google.com/100724125789749162052/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Purulia"
+   },
+   "status" : "OK"
+}

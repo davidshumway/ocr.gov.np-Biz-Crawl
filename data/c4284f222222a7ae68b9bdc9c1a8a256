@@ -1,0 +1,147 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "11/73",
+            "short_name" : "11/73",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "Victoria Ave",
+            "short_name" : "Victoria Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Gwaltoli",
+            "short_name" : "Gwaltoli",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Permat",
+            "short_name" : "Permat",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208001",
+            "short_name" : "208001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "11/73, \u003cspan class=\"street-address\"\u003eVictoria Ave\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eGwaltoli, Permat\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "11/73, Victoria Ave, Gwaltoli, Permat, Kanpur, Uttar Pradesh 208001, India",
+      "formatted_phone_number" : "093895 31543",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.485932,
+            "lng" : 80.33261
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "e5f87013add7d65f5dd8035adedd67e28d5c34bb",
+      "international_phone_number" : "+91 93895 31543",
+      "name" : "Vasu Hardware",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 9:00 pm",
+            "Tuesday: Closed",
+            "Wednesday: 9:00 am – 9:00 pm",
+            "Thursday: 9:00 am – 9:00 pm",
+            "Friday: 9:00 am – 9:00 pm",
+            "Saturday: 9:00 am – 9:00 pm",
+            "Sunday: 9:00 am – 9:00 pm"
+         ]
+      },
+      "place_id" : "ChIJC-GA_5E4nDkRatj8_61jAS8",
+      "reference" : "CmRgAAAAhLqMh9GplxiCLNnNEDyWAjHed-uYbv3YhNkLPdSoHA58U1gmS_uUWwo5W7LNJhplxOezqUXIMvZEzAcEvFWw2Edk7LAlwbeaivfiXAp2oAndEJNWXHh9nxO6yAHpenPyEhCuUkn0LpPqSJqxnK_pmWGJGhTIY55J7KdJ61NxO1xHsTGaa5r7qg",
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/107086534925750747771/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "11/73, Victoria Ave, Gwaltoli, Permat, Kanpur"
+   },
+   "status" : "OK"
+}

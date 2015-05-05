@@ -1,0 +1,81 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Lenin Sarani Road",
+            "short_name" : "Lenin Sarani Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Taltala",
+            "short_name" : "Taltala",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700013",
+            "short_name" : "700013",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "House No-60, \u003cspan class=\"street-address\"\u003eLenin Sarani Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eTaltala\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700013\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "House No-60, Lenin Sarani Road, Taltala, Kolkata, West Bengal 700013, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.5622,
+            "lng" : 88.360947
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "ce2ef99ded2b8d83eebe1213805db16e345bb4ac",
+      "name" : "Moon Plaza",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "open" : {
+                  "day" : 0,
+                  "time" : "0000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+         ]
+      },
+      "place_id" : "ChIJe8JfQgB3AjoR9fhQQd7xjB4",
+      "reference" : "CmRdAAAAbQ9W9kgTRnLSutgquOt_Wx1z14ApZJQIU36fym7GcjUQGwH9t9cVl5jBEvVRAVs_hah-UyQMz0FMtLflFiFVviCK1yjsuGrMUYfkGDivsD4X237W4lbEkBm9cS75D4xZEhAOlCvmS8diZNp1NaYsfrU9GhQ_yWKKFArrbJccyVJbenIy_HMC9A",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/108437563185815543965/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "House No-60, Lenin Sarani Road, Taltala, Kolkata"
+   },
+   "status" : "OK"
+}

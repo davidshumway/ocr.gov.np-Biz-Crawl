@@ -1,0 +1,61 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Mall Road",
+            "short_name" : "Mall Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Colonelganj",
+            "short_name" : "Colonelganj",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208001",
+            "short_name" : "208001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eMall Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eColonelganj\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Mall Road, Colonelganj, Kanpur, Uttar Pradesh 208001, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.477616,
+            "lng" : 80.335561
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "f0837201484100a6b2c4f04142b1b0f7711f7066",
+      "name" : "Nokia",
+      "place_id" : "ChIJy65wVJo4nDkRmutOFgLkm-c",
+      "reference" : "CmRZAAAARGrjCToB0SaL_0rKsjF43zjR7cY4MUPMPAhiLvmKYrzUyRBhmuD8djU9C5p-yI30jIfUveX2pchmd5S2ASEQXFF2gRq24c5Uyjh3fy7X3VivQtBduDCitSBaX214drTcEhAyn780j1ICt6qu68P05ZWXGhSp1jOluo8r3zcp7-Rsg22pOngUfA",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/106343673236856834353/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Mall Road, Colonelganj, Kanpur"
+   },
+   "status" : "OK"
+}

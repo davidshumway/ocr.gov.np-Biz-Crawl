@@ -1,0 +1,154 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "B-273",
+            "short_name" : "B-273",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Barra 8",
+            "short_name" : "Barra 8",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Barra",
+            "short_name" : "Barra",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208027",
+            "short_name" : "208027",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eB-273\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBarra 8, Barra\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208027\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "B-273, Barra 8, Barra, Kanpur, Uttar Pradesh 208027, India",
+      "formatted_phone_number" : "092357 10052",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.429469,
+            "lng" : 80.29341599999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+      "id" : "3ec41cbb343cd0893f7b0e821daa74e97e5ca0c9",
+      "international_phone_number" : "+91 92357 10052",
+      "name" : "Verma Electronic",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 9:00 pm",
+            "Tuesday: 10:00 am – 9:00 pm",
+            "Wednesday: 10:00 am – 9:00 pm",
+            "Thursday: 10:00 am – 9:00 pm",
+            "Friday: 10:00 am – 9:00 pm",
+            "Saturday: 10:00 am – 9:00 pm",
+            "Sunday: 10:00 am – 9:00 pm"
+         ]
+      },
+      "place_id" : "ChIJAQAAAMdHnDkRY6dafE9WUr8",
+      "reference" : "CnRkAAAAFWpvobp8RyVIP7rFrC8kZAQeg9s_rf0BPu9kzwrFjeCtaU7ZN46Uu6Ug8G85X34TsqdC9D1JeFEStOMh9K2S-i1nfI3VrmpQLQEV-DVOI-rKzK8PurPKSv6WcolFrhaTL3g6C5nxAbWGxh1j-mspGBIQsv15F29fFrmwyLwXrv3OyBoULwWeUIkdxccXmGHlG7nul0he2Xs",
+      "scope" : "GOOGLE",
+      "types" : [ "electronics_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/107770481678427156391/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "B-273, Barra 8, Barra, Kanpur"
+   },
+   "status" : "OK"
+}

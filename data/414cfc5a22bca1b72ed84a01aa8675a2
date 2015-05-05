@@ -1,0 +1,73 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "12",
+            "short_name" : "12",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Banerjee Para Road",
+            "short_name" : "Banerjee Para Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "New Panchanantala",
+            "short_name" : "New Panchanantala",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Paschim Putiary",
+            "short_name" : "Paschim Putiary",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700041",
+            "short_name" : "700041",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e12, Banerjee Para Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNew Panchanantala, Paschim Putiary\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700041\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "12, Banerjee Para Road, New Panchanantala, Paschim Putiary, Kolkata, West Bengal 700041, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.479453,
+            "lng" : 88.342405
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "1ad72861b591d0d6bfd6300e831a0901aaa0a638",
+      "name" : "H.M. Associates",
+      "place_id" : "ChIJ5QtDQ41wAjoRVYd2eF4vRAw",
+      "price_level" : 1,
+      "reference" : "CnRiAAAA7ZzoD1waZZPMUq6SdGX_TzYQffn9Ml0Mdr5C9FWJEeOKhCbis5Jl9cTmwNTovZxYvwu7m4dC7nCOdt0PuWTOGKdMvUKNYvsRZNScKuy2j-h3MTiiaf8kueCde5MKW34g00j87R4PHvx-b3FsSTE0tBIQs6aoNzPns_R_FlsPpWFzwRoUD7LLAYWeyEA4-AafsibKYZci3Bk",
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/105334101259455625369/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "12, Banerjee Para Road, New Panchanantala, Paschim Putiary, Kolkata",
+      "website" : "http://www.hm.com/"
+   },
+   "status" : "OK"
+}

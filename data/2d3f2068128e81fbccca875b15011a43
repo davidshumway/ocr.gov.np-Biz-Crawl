@@ -1,0 +1,147 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "55/22",
+            "short_name" : "55/22",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Kadepur Road",
+            "short_name" : "Kadepur Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Yogendra Vihar",
+            "short_name" : "Yogendra Vihar",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Naubasta",
+            "short_name" : "Naubasta",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208021",
+            "short_name" : "208021",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e55/22, Kadepur Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eYogendra Vihar, Naubasta\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208021\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "55/22, Kadepur Road, Yogendra Vihar, Naubasta, Kanpur, Uttar Pradesh 208021, India",
+      "formatted_phone_number" : "088965 33036",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.411825,
+            "lng" : 80.304728
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "f804f2a6649620a39b929a1e04fc5cedc4033591",
+      "international_phone_number" : "+91 88965 33036",
+      "name" : "Krisna Foam House",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 10:00 pm",
+            "Tuesday: Closed",
+            "Wednesday: 10:00 am – 10:00 pm",
+            "Thursday: 10:00 am – 10:00 pm",
+            "Friday: 10:00 am – 10:00 pm",
+            "Saturday: 10:00 am – 10:00 pm",
+            "Sunday: 10:00 am – 10:00 pm"
+         ]
+      },
+      "place_id" : "ChIJlwtyzU5GnDkRFVvA4qmHj10",
+      "reference" : "CnRkAAAATJ-alpjWC9hc7BinhiOTfC_NPW0LbarbaTlasuTI7di3t5Od5eVyrg9Y2LgiIG1kOmgM6C2yffwjZ9jbd1jimzp9SIr7BWzPQ1KRGOC6MoLGDvNXBisLUDE1fQQBnhqPAE4Kud76d063Hxybu7B9XBIQ_bQCtEpi5Zc5Gs6DoLExMhoU7zQwWRtxLDgtkmLQmzFe63ug_PE",
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/117891063411552152549/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "55/22, Kadepur Road, Yogendra Vihar, Naubasta, Kanpur"
+   },
+   "status" : "OK"
+}

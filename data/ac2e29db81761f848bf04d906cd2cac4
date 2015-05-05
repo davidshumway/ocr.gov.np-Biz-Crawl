@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "204 Provincial Road",
+            "short_name" : "204 Provincial Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Yadong",
+            "short_name" : "Yadong",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Xigaze",
+            "short_name" : "Xigaze",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Tibet",
+            "short_name" : "Tibet",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "China",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e204 Provincial Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eYadong\u003c/span\u003e, \u003cspan class=\"locality\"\u003eXigaze\u003c/span\u003e, \u003cspan class=\"region\"\u003eTibet\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eChina\u003c/span\u003e",
+      "formatted_address" : "204 Provincial Road, Yadong, Xigaze, Tibet, China",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.488391,
+            "lng" : 88.91336699999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "7c24a76fd56259744cab57f5e5b99d8453f45be9",
+      "name" : "Jinchi Automobile Repair",
+      "place_id" : "ChIJ8ZbfbfBI4TkRfMJIQiupAAs",
+      "reference" : "CnRrAAAALbA368iwZPDPX31EtsUt94FIgxOgNQ4dTETsVnzRst0vrCUPJC2MtSJRoa8GwsKrNFqPdB7pQ-hsUGK0Py1eitl_SkeG9aYyzCntTzSq6gMWU-ciUR0anvsLo4JUxbQupOvYr9WrMODYmJDlhF06XxIQ5q53UXH_D_eIzqT0gbf5yRoUiPAukMCqmasTRYJu7vFJpmAsxWM",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/106618034299171040628/about?hl=en-US",
+      "utc_offset" : 480,
+      "vicinity" : "204 Provincial Road, Yadong, Xigaze"
+   },
+   "status" : "OK"
+}

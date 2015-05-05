@@ -1,0 +1,142 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "111/136",
+            "short_name" : "111/136",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Brahm Nagar",
+            "short_name" : "Brahm Nagar",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Harsh Nagar",
+            "short_name" : "Harsh Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208002",
+            "short_name" : "208002",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e111/136\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBrahm Nagar, Harsh Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208002\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "111/136, Brahm Nagar, Harsh Nagar, Kanpur, Uttar Pradesh 208002, India",
+      "formatted_phone_number" : "092355 07461",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.474133,
+            "lng" : 80.322682
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "3de37d1d90006f0d171ee8a4037bd0f3fa26d329",
+      "international_phone_number" : "+91 92355 07461",
+      "name" : "Radha Swami Motors",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1100"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 11:00 am – 8:00 pm",
+            "Tuesday: 11:00 am – 8:00 pm",
+            "Wednesday: 11:00 am – 8:00 pm",
+            "Thursday: 11:00 am – 8:00 pm",
+            "Friday: 11:00 am – 8:00 pm",
+            "Saturday: 11:00 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJt_MpNoc4nDkR7fuuihP1hlk",
+      "reference" : "CnRlAAAAFYl4aUzAEFjOepzvAPmZ2BWscitLoqxR9tpU14LlD6Sep7ZDHWMJf9pUWN-KNTTZObKgUjpwDrl7i2W_3ARiluGvaiPpJfUb7mFC-8K6JjrXr6JtdACPAJCWNU2H_-G5d2QW1bC36brJQLZ9aiamMRIQibo4qfaZVcQm0jrb2xK6TRoUA-mXOAyKG2kDbZrG0T7bIUIUftk",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/105383491485965226302/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "111/136, Brahm Nagar, Harsh Nagar, Kanpur"
+   },
+   "status" : "OK"
+}

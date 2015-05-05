@@ -1,0 +1,147 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "C.22/25",
+            "short_name" : "C.22/25",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "St Kabir Rd",
+            "short_name" : "St Kabir Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Kabir Nagar Churaha",
+            "short_name" : "Kabir Nagar Churaha",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kotwali",
+            "short_name" : "Kotwali",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Varanasi",
+            "short_name" : "Varanasi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Varanasi",
+            "short_name" : "Varanasi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "221001",
+            "short_name" : "221001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "C.22/25, \u003cspan class=\"street-address\"\u003eSt Kabir Rd\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eKabir Nagar Churaha, Kotwali\u003c/span\u003e, \u003cspan class=\"locality\"\u003eVaranasi\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e221001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "C.22/25, St Kabir Rd, Kabir Nagar Churaha, Kotwali, Varanasi, Uttar Pradesh 221001, India",
+      "formatted_phone_number" : "0542 258 7433",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.32123,
+            "lng" : 83.006119
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "f9b1b08036e8a44834d50fcecce4d81c33d40da8",
+      "international_phone_number" : "+91 542 258 7433",
+      "name" : "Chaudhary Cycle Store",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1100"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 11:00 am – 8:00 pm",
+            "Tuesday: 11:00 am – 8:00 pm",
+            "Wednesday: 11:00 am – 8:00 pm",
+            "Thursday: 11:00 am – 8:00 pm",
+            "Friday: 11:00 am – 8:00 pm",
+            "Saturday: 11:00 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJWTmIXhAujjkRCQTh6dDuY44",
+      "reference" : "CnRpAAAAXuGW-GMyAkTqQpuSXhR4U7lGtcNCFESyL5yvFxn03JVHvUrv5oZOCOompIwkbiniQBcStCyYDqEU7aixmh74L-Uhy59bqtxg8Cengkp8pdl_tDX4i8pfNtWAip8d-W1gTYMT5uEUhIgDdO0N9EUyOxIQxgPMAA4aWxtEmPn9QtydohoUwtqk0xJXvo3_h4JOjEsijbBZwOM",
+      "scope" : "GOOGLE",
+      "types" : [ "bicycle_store", "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/100189643836595896298/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "C.22/25, St Kabir Rd, Kabir Nagar Churaha, Kotwali, Varanasi"
+   },
+   "status" : "OK"
+}

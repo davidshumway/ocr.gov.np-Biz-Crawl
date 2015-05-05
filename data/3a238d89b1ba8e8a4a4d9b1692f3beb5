@@ -1,0 +1,50 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Patna",
+            "short_name" : "Patna",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "800010",
+            "short_name" : "800010",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Kurji, \u003cspan class=\"locality\"\u003ePatna\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e800010\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Kurji, Patna, Bihar 800010, India",
+      "formatted_phone_number" : "093043 36225",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.636087,
+            "lng" : 85.11292400000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "dd8784171b9a35e20f9fcdf8fec4fd62378c2448",
+      "international_phone_number" : "+91 93043 36225",
+      "name" : "Sagar Hardware",
+      "place_id" : "ChIJl2UeR0dY7TkRvw93X9nPlxg",
+      "reference" : "CnRhAAAA7pNWR3UM_P0E790eCze3JIw2lWeMclQaFXoRP0nsUnGfjVX1CFJ42X_XPbDz8WIn4s8xArfDOXXrTd00xH8CnVuU5cX7-6hG1oNJDXtnRURuI1Y0yg4XcqBDJPlgL_r7KTLekRE8rdDBVCCPeW9QWxIQItl_kFAVcJZt4sOkCyPYVxoUS2Agp3d3tKVFu7cxqQMZBSl8gOk",
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/118136446200776131791/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Kurji, Patna"
+   },
+   "status" : "OK"
+}

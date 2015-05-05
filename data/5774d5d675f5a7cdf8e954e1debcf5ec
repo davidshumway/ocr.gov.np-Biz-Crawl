@@ -1,0 +1,81 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "35",
+            "short_name" : "35",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Road 7",
+            "short_name" : "Rd 7",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Block-C",
+            "short_name" : "Block-C",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Bogra",
+            "short_name" : "Bogra",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bogra",
+            "short_name" : "Bogra",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Rajshahi Division",
+            "short_name" : "Rajshahi Division",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Bangladesh",
+            "short_name" : "BD",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e35 Road 7\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBogra\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eBangladesh\u003c/span\u003e",
+      "formatted_address" : "35 Road 7, Bogra, Bangladesh",
+      "formatted_phone_number" : "01711-974741",
+      "geometry" : {
+         "location" : {
+            "lat" : 24.844388,
+            "lng" : 89.35739
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "e26927d280514fa1f84d3703fd14aa0bb9daa761",
+      "international_phone_number" : "+880 1711-974741",
+      "name" : "Peace School & College",
+      "place_id" : "ChIJp8qDaFdU_DkRJ1_DwUMJChY",
+      "reference" : "CnRpAAAAFw259lN9n-BTd7iCr4opUFhySOrNijUOlkybaolkTXa6dgG5Rd6Jxe1GXQB3PmR9R8GwXRvBvV9bZ1EYjCEmjzkf_UyNK3V1uCQzC8gUJ9TT2nP_VQPJs0LYPrLVvarzJKL8d_qpxEplWxh3aNGHNhIQc79mzhL_xaX1v-jbr3mk6BoUafpj8JMCBvpbqvBf5lGwRvVB2v4",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "S M Sarwar",
+            "author_url" : "https://plus.google.com/104195824821905817633",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1426136283
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "school", "establishment" ],
+      "url" : "https://plus.google.com/115164042142150534755/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 360,
+      "vicinity" : "35 Road 7, Bogra",
+      "website" : "http://ipeaceschool.com/"
+   },
+   "status" : "OK"
+}

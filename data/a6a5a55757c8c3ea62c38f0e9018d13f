@@ -1,0 +1,137 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Kanpur Road",
+            "short_name" : "Kanpur Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Transport Nagar",
+            "short_name" : "Transport Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Lucknow",
+            "short_name" : "Lucknow",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Lucknow",
+            "short_name" : "Lucknow",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "226012",
+            "short_name" : "226012",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eKanpur Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eTransport Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eLucknow\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e226012\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Kanpur Road, Transport Nagar, Lucknow, Uttar Pradesh 226012, India",
+      "formatted_phone_number" : "0522 404 6070",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.779703,
+            "lng" : 80.886726
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "96f3846023aa8d11d12b06bfa3fa78edee2c4465",
+      "international_phone_number" : "+91 522 404 6070",
+      "name" : "Rencom Automobile",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJbeGH4k35mzkR1NHxFLFSEkI",
+      "reference" : "CnRkAAAAbKKYvk_ZzcXLjDzjgJMLGBGBEm6xuVeXUN5EWbqJ3hyJfChgQNVV3GfNAxnH1MLhE2gewvCQpa6m-rNghsCumftwDPX-e_lNbUBCoWo7zH5P7lL3m6Z3IffYhQbmBjiSAwykdfzhhGKnO44rupr1kxIQfjJqJdqIm28tWrSqzqKJHxoUdQL2dTbRZp_ZwBDhrsJS5D1eT3Q",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/104873009060582411259/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Kanpur Road, Transport Nagar, Lucknow"
+   },
+   "status" : "OK"
+}

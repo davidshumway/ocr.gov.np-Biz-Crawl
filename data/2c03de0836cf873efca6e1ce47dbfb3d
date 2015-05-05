@@ -1,0 +1,145 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "78/205",
+            "short_name" : "78/205",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Latouche Road",
+            "short_name" : "Latouche Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Hatia",
+            "short_name" : "Hatia",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208001",
+            "short_name" : "208001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e78/205, Latouche Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eHatia\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "78/205, Latouche Road, Hatia, Kanpur, Uttar Pradesh 208001, India",
+      "formatted_phone_number" : "0512 239 0262",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.464198,
+            "lng" : 80.345418
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "2f947f38ea797d96af8e866a2e84f7ad07ef8f80",
+      "international_phone_number" : "+91 512 239 0262",
+      "name" : "Kumar Enterprises",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1030"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:30 am – 8:00 pm",
+            "Tuesday: 10:30 am – 8:00 pm",
+            "Wednesday: 10:30 am – 8:00 pm",
+            "Thursday: 10:30 am – 8:00 pm",
+            "Friday: 10:30 am – 8:00 pm",
+            "Saturday: 10:30 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJfVUsBl5HnDkRdb80In7e5ZU",
+      "reference" : "CnRlAAAAVcARhpAOptaRDCGlFJmc9oHzypHf-DyQChGX03kNoAvtQPQ3XvP-kXpFPtg8Jdkit6p1QBWF48ZEu7rEssSZqpoHhMbL6QyFU6zZixrD9P8w0bB4L3XCHTP9D2Eg3HTMBjSNA6ItUmM9s5BOQWUAWRIQN8L9XZgSFfDmiqJ9UETCIRoU7uyLL9l3vL8Ka2qxeAKRs28022M",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "establishment" ],
+      "url" : "https://plus.google.com/100673393826096770194/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "78/205, Latouche Road, Hatia, Kanpur",
+      "website" : "http://www.kumar-enterprises.in"
+   },
+   "status" : "OK"
+}

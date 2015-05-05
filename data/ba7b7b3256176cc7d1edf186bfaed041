@@ -1,0 +1,151 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Meston Road",
+            "short_name" : "Meston Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Topi Bazar, Near Indira Gandhi Pratima",
+            "short_name" : "Topi Bazar, Near Indira Gandhi Pratima",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Parade",
+            "short_name" : "Parade",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208001",
+            "short_name" : "208001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eMeston Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eTopi Bazar, Near Indira Gandhi Pratima, Parade\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Meston Road, Topi Bazar, Near Indira Gandhi Pratima, Parade, Kanpur, Uttar Pradesh 208001, India",
+      "formatted_phone_number" : "098391 00268",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.46835,
+            "lng" : 80.348488
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "7a8d04c0fa8515debc171f87a63dce38818db035",
+      "international_phone_number" : "+91 98391 00268",
+      "name" : "White Metal House",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2130"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2130"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2130"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2130"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2130"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2130"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1030"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:30 am – 9:30 pm",
+            "Tuesday: 10:30 am – 9:30 pm",
+            "Wednesday: 10:30 am – 9:30 pm",
+            "Thursday: 10:30 am – 9:30 pm",
+            "Friday: 10:30 am – 9:30 pm",
+            "Saturday: 10:30 am – 9:30 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJDc89q6A4nDkRixJLE1jO9dM",
+      "reference" : "CnRlAAAATA_pTOPj0i-bftx0GZljm69tlBy6BbPQi_Gldql-kreEPhL09uNblmZJhsK1ITNYQrRmHnEP0rSVmkWOWFIE2qbO8sK2mHBjHOYIPDpAvBK0ZzPfq5uHLYbhbbFt7drKNL9BDLlLafsd6CjnoUNTgRIQ_aRRqoBFrebEFHrJRsdUGRoUBVpIOGWBo86WYm5Yww0a5e7-QXo",
+      "scope" : "GOOGLE",
+      "types" : [
+         "furniture_store",
+         "art_gallery",
+         "general_contractor",
+         "home_goods_store",
+         "store",
+         "establishment"
+      ],
+      "url" : "https://plus.google.com/103600342241224998120/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Meston Road, Topi Bazar, Near Indira Gandhi Pratima, Parade, Kanpur"
+   },
+   "status" : "OK"
+}

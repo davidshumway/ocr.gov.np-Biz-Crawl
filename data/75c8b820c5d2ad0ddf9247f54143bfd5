@@ -1,0 +1,73 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "National Highway 29",
+            "short_name" : "NH 29",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Pepeeganj",
+            "short_name" : "Pepeeganj",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Gorakhpur",
+            "short_name" : "Gorakhpur",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "273165",
+            "short_name" : "273165",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNational Highway 29\u003c/span\u003e, \u003cspan class=\"locality\"\u003ePepeeganj\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e273165\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "National Highway 29, Pepeeganj, Uttar Pradesh 273165, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.929181,
+            "lng" : 83.29594
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "ef6868b67f743663cd7266ea04fc7319a95ec266",
+      "name" : "Rahul Auto Spares",
+      "place_id" : "ChIJ70LYAdNLkTkR4MHksIgllJM",
+      "reference" : "CnRlAAAAes3pEus6_b2WBQaUICItYXFh1FWPBYer8x1ntHMexA1T4mP21bHZ60QT7JjgfFws6Fe2L65X6ZQGC_tjwMDfkLbCKUxWBCmkxYdR7UzEbHy6zwpxzWJK_VRJVYzIjuEJWQtp2h3kuhD88tlegwYA4hIQHXRD4LsDKgBy75-05bVaKxoUI_VjOt59oYLRsja7BgttvVOZWRA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Rahul Singh",
+            "author_url" : "https://plus.google.com/110409253144888011518",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1413978858
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/104194106753751777668/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "National Highway 29, Pepeeganj"
+   },
+   "status" : "OK"
+}

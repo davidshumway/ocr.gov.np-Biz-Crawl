@@ -1,0 +1,108 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Swarnakhali",
+            "short_name" : "Swarnakhali",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Nadia",
+            "short_name" : "Nadia",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "741506",
+            "short_name" : "741506",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eSwarnakhali\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e741506\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Swarnakhali, West Bengal 741506, India",
+      "formatted_phone_number" : "097498 45555",
+      "geometry" : {
+         "location" : {
+            "lat" : 23.449113,
+            "lng" : 88.68580300000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "2dc3dbba85e483935044d372241aeea658dfdbfb",
+      "international_phone_number" : "+91 97498 45555",
+      "name" : "Nitya's",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2330"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0830"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: Closed",
+            "Sunday: 8:30 am – 11:30 pm"
+         ]
+      },
+      "place_id" : "ChIJhT6X7T0p-TkR7kIWE7Sf9S4",
+      "reference" : "CmRaAAAACsBV-c1OcSS9nrxk5DprUMJsxVvbciXcIsi21B9oX_jp830vSz2RgK-P2SycnJ6omJPHwOl6js7TVg_X07boPDAZud6dy_voa3xr-Pq6MupnFzib3jEeOI9d9IDNElmeEhAPQM-9aSK89Q0YEcdVXNPTGhTw5PwzD26ICDnM6yH1vu3VGBNkwQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Amit Baidya",
+            "author_url" : "https://plus.google.com/111418562284798151419",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Excellent dada",
+            "time" : 1378562853
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Nitya Sikari",
+            "author_url" : "https://plus.google.com/112908772233261452027",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1376721768
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/103809674812012654364/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "Swarnakhali"
+   },
+   "status" : "OK"
+}

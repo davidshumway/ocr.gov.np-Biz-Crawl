@@ -1,0 +1,66 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Church Road",
+            "short_name" : "Church Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Ward 10",
+            "short_name" : "Ward 10",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Janta Nagar",
+            "short_name" : "Janta Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Siliguri",
+            "short_name" : "Siliguri",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Darjeeling",
+            "short_name" : "Darjeeling",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "734001",
+            "short_name" : "734001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eChurch Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eWard 10, Janta Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eSiliguri\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e734001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Church Road, Ward 10, Janta Nagar, Siliguri, West Bengal 734001, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.718007,
+            "lng" : 88.42356599999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "3ef51c20ceeccbeadd5c5622afc7de44236486c1",
+      "name" : "Arun Enterprises",
+      "place_id" : "ChIJ73121xRB5DkRP3T3RwOyDbE",
+      "reference" : "CnRkAAAAp0kaX2uO20guo9aaSFp8YvpcFqmE5SWMd8PeG6QWmaccTmJFfn5coTy8g3Xb0XJbuOYxjyDYsXSxU3sSAO7AvZz7bb8Q7RtB_d4nGUK3z7PLaDUiuRF_2juki2xFJJZCacGMfemYChT2AU2__tCmtBIQdQzyVwew8SOPG-_FsNS3zxoUU68S5dvXZdUsQswkJwANUlabz0A",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "establishment" ],
+      "url" : "https://plus.google.com/102784021452692122601/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Church Road, Ward 10, Janta Nagar, Siliguri"
+   },
+   "status" : "OK"
+}

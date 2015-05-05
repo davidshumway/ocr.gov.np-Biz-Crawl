@@ -1,0 +1,150 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Jhansi",
+            "short_name" : "Jhansi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "284001",
+            "short_name" : "284001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Plot No. 119, Station Rd, \u003cspan class=\"street-address\"\u003eC/O. Rathore Traders\u003c/span\u003e, \u003cspan class=\"locality\"\u003eJhansi\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e284001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Plot No. 119, Station Rd, C/O. Rathore Traders, Jhansi, Uttar Pradesh 284001, India",
+      "formatted_phone_number" : "1800 102 4455",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.455818,
+            "lng" : 78.550985
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "74b821df4e5929cb761f53aff459942c41bbd636",
+      "international_phone_number" : "+91 1800 102 4455",
+      "name" : "Bank of Baroda ATM",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2330"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2330"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2330"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2330"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2330"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2330"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2330"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 12:00 am – 11:30 pm",
+            "Tuesday: 12:00 am – 11:30 pm",
+            "Wednesday: 12:00 am – 11:30 pm",
+            "Thursday: 12:00 am – 11:30 pm",
+            "Friday: 12:00 am – 11:30 pm",
+            "Saturday: 12:00 am – 11:30 pm",
+            "Sunday: 12:00 am – 11:30 pm"
+         ]
+      },
+      "place_id" : "ChIJUfMGJyRxdzkR3sw7dC75OnE",
+      "reference" : "CnRlAAAAf9RVVCGFX8ICWXKxbHpBCFO6FiWTOUYXOOHf9hrh9iZ1heRi7ctmaTNlxQZGYJSjqF8RJwXUKOAhojo1yvuWEvjrCKEiofgmHnNvteJ8d1ufpjXlxPHLOcHFDbPxKsX8sO7DiWMj6qSR1MVdwQbs9RIQhBo-2XT0TjVfNwtUHNEOqRoU8zIvX0gjmCcmIs0TGT2_uMlYlNY",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "ramgopal kushwaha",
+            "author_url" : "https://plus.google.com/101838007147517393592",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1403373690
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "atm", "finance", "establishment" ],
+      "url" : "https://plus.google.com/108772564260785903496/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Plot No. 119, Station Rd, C/O. Rathore Traders, Jhansi",
+      "website" : "http://www.bankofbaroda.com/"
+   },
+   "status" : "OK"
+}

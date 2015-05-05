@@ -1,0 +1,50 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Patna",
+            "short_name" : "Patna",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "800024",
+            "short_name" : "800024",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Rajiv Nagar, \u003cspan class=\"locality\"\u003ePatna\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e800024\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Rajiv Nagar, Patna, Bihar 800024, India",
+      "formatted_phone_number" : "094314 32061",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.629488,
+            "lng" : 85.09216499999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "738862d8bec951aac8a4ee322db399872c8677a2",
+      "international_phone_number" : "+91 94314 32061",
+      "name" : "Shree Vastralay",
+      "place_id" : "ChIJAQAAcHVX7TkRVbFQQM7rQ6s",
+      "reference" : "CnRjAAAA5WIOHj0OvGst4s2SoRz-Zwrq11IzqUHjPKPLLc4CH2af4JfT8VpDSQQJrC3wWM5m5ila11PpWkRFklDzY3K85-qE2IgN81vcGZeQGOQurNRjMUlsLmlnHsc6898tpvMLtHoNARWkjNJ2ZsMZQvN5qRIQEuGVgnaf3p2qoATgQpcmNxoUMM6jb-vyzsFB2H3Cikmx68d2ERw",
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/100119130489918084051/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Rajiv Nagar, Patna"
+   },
+   "status" : "OK"
+}

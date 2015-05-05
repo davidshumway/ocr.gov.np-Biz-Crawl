@@ -1,0 +1,123 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "A P Colony",
+            "short_name" : "A P Colony",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Gaya",
+            "short_name" : "Gaya",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Gaya",
+            "short_name" : "Gaya",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "823001",
+            "short_name" : "823001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"extended-address\"\u003eA P Colony\u003c/span\u003e, \u003cspan class=\"locality\"\u003eGaya\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e823001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "A P Colony, Gaya, Bihar 823001, India",
+      "formatted_phone_number" : "1800 425 3800",
+      "geometry" : {
+         "location" : {
+            "lat" : 24.785171,
+            "lng" : 84.98468800000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "197e0c090fa879af888a1e8f9014c3e49b0649d1",
+      "international_phone_number" : "+91 1800 425 3800",
+      "name" : "Bank of India",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 6:00 pm",
+            "Tuesday: 9:00 am – 6:00 pm",
+            "Wednesday: 9:00 am – 6:00 pm",
+            "Thursday: 9:00 am – 6:00 pm",
+            "Friday: 9:00 am – 6:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJNxqn1lkq8zkRn5DF-SgDvlg",
+      "reference" : "CmRgAAAAKSOXnVGM5JVxDfHLWUUX8So-SH0-Jkg2KaDE97zizk3OgJaoNrq1neulYkXR-zHZcM4eG2SgVO4Wk3ydcOqfxabSRhztjVAyVrd1aTErRKdfzk9q5a8A0dygo58QivVbEhCUtZ8LariQNJR6HyaD85OIGhTOa_L6EVF11xpleFZKXymHK05MnA",
+      "scope" : "GOOGLE",
+      "types" : [ "bank", "finance", "establishment" ],
+      "url" : "https://plus.google.com/100987187219830775590/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "A P Colony, Gaya",
+      "website" : "http://www.bankofindia.com/"
+   },
+   "status" : "OK"
+}

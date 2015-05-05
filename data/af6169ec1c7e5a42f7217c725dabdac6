@@ -1,0 +1,123 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Station Road",
+            "short_name" : "Station Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Supaul",
+            "short_name" : "Supaul",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Supaul",
+            "short_name" : "Supaul",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "852131",
+            "short_name" : "852131",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eStation Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eSupaul\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e852131\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Station Road, Supaul, Bihar 852131, India",
+      "formatted_phone_number" : "1800 200 1911",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.117246,
+            "lng" : 86.601652
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "e12fc8fb9062b291cf21a618daee5ea952ede56c",
+      "international_phone_number" : "+91 1800 200 1911",
+      "name" : "Central Bank of India",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 3:00 pm",
+            "Tuesday: 10:00 am – 3:00 pm",
+            "Wednesday: 10:00 am – 3:00 pm",
+            "Thursday: 10:00 am – 3:00 pm",
+            "Friday: 10:00 am – 3:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJMwtltz9C7jkRCCKHGFLDCws",
+      "reference" : "CnRoAAAAPFwCSPcbtJ_gxtcdVhmNK_NATetkMbyt4Fj9ytKRzYafEwmTxHpwk_iuvUyu9A1qOQxJsXkU7Wv-cbem3dmNeaX7WsX1T2S6Q0Rjkfsmu7W7VI8-1xMZPePisHTgmPwKj-cit7nmK3DsaTj-WqfGmxIQJgbYbRosbWh6-AqhLVydJxoU5WG8bAvyKRBAAJmmtk8JQlrMEc0",
+      "scope" : "GOOGLE",
+      "types" : [ "bank", "finance", "establishment" ],
+      "url" : "https://plus.google.com/110204627202521969684/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Station Road, Supaul",
+      "website" : "http://www.centralbankofindia.co.in/"
+   },
+   "status" : "OK"
+}

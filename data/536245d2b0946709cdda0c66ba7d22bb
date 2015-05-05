@@ -1,0 +1,153 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Thakdari Road",
+            "short_name" : "Thakdari Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Christian Para",
+            "short_name" : "Christian Para",
+            "types" : [ "sublocality_level_3", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Krishnapur",
+            "short_name" : "Krishnapur",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Keshtopur",
+            "short_name" : "Keshtopur",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "North 24 Parganas",
+            "short_name" : "North 24 Parganas",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700102",
+            "short_name" : "700102",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eThakdari Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eChristian Para, Krishnapur, Keshtopur\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700102\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Thakdari Road, Christian Para, Krishnapur, Keshtopur, Kolkata, West Bengal 700102, India",
+      "formatted_phone_number" : "090076 99886",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.58988,
+            "lng" : 88.43470000000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "544cf86a9cfe49f2c109c89a45e22fc036a51ae1",
+      "international_phone_number" : "+91 90076 99886",
+      "name" : "Raj Furniture",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 10:00 pm",
+            "Tuesday: 9:00 am – 10:00 pm",
+            "Wednesday: 9:00 am – 10:00 pm",
+            "Thursday: 9:00 am – 10:00 pm",
+            "Friday: 9:00 am – 10:00 pm",
+            "Saturday: 9:00 am – 10:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJiyC9uJh1AjoROMhoCtYDb1w",
+      "reference" : "CmRgAAAABCvDR-rRJZcV7IaffTzpOZ24FGfAvLfoW1pGIWHFD-a4LpLH0YJG8b2Lt74QZPhtByluCdLMMW31vSPZ_aJoLLdlmuUDnSDijeDZ5T2dWZGeAHVxlhWEGxDRIkzgJnxtEhByFBrktLOMSWwBdPHsZaEfGhTG4m9CWj1osvOIR3yIsTctzt6KTA",
+      "scope" : "GOOGLE",
+      "types" : [
+         "furniture_store",
+         "general_contractor",
+         "home_goods_store",
+         "store",
+         "establishment"
+      ],
+      "url" : "https://plus.google.com/105180346579236851448/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Thakdari Road, Christian Para, Krishnapur, Keshtopur, Kolkata"
+   },
+   "status" : "OK"
+}

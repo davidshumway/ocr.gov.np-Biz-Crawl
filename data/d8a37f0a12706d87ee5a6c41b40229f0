@@ -1,0 +1,213 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "104",
+            "short_name" : "104",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "Lake Mall",
+            "short_name" : "Lake Mall",
+            "types" : [ "premise" ]
+         },
+         {
+            "long_name" : "Rash Behari Ave",
+            "short_name" : "Rash Behari Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Lake Market",
+            "short_name" : "Lake Market",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kalighat",
+            "short_name" : "Kalighat",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700029",
+            "short_name" : "700029",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "104, Lake Mall, \u003cspan class=\"street-address\"\u003eRash Behari Ave\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eLake Market, Kalighat\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700029\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "104, Lake Mall, Rash Behari Ave, Lake Market, Kalighat, Kolkata, West Bengal 700029, India",
+      "formatted_phone_number" : "099030 34365",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.516564,
+            "lng" : 88.34919600000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "d084604871f544ccf24a432d8c4caa74f84fe1d1",
+      "international_phone_number" : "+91 99030 34365",
+      "name" : "Hardware Collection",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1330"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1330"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1330"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1330"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1330"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1330"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1600"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 8:30 am – 1:30 pm, 4:00 – 8:00 pm",
+            "Wednesday: 8:30 am – 1:30 pm, 4:00 – 8:00 pm",
+            "Thursday: 8:30 am – 1:30 pm, 4:00 – 8:00 pm",
+            "Friday: 8:30 am – 1:30 pm, 4:00 – 8:00 pm",
+            "Saturday: 8:30 am – 1:30 pm, 4:00 – 8:00 pm",
+            "Sunday: 8:30 am – 1:30 pm, 4:00 – 8:00 pm"
+         ]
+      },
+      "place_id" : "ChIJEXY_STN3AjoRk9Q6q2bT_gE",
+      "reference" : "CnRmAAAAlYa-t3lmnql6s2tTsOA1BCIkT_Hr9lNZntmFAOAC-Eb-6rSqiwfZLjyt8Myjl2yxrlcSd1GE7tO7DOd913hXjWpHu9F7creti_RylussIAoKQxVJv4Zu2ARUTgCLJEZzp7o6XdlfWCg3wdmKWoFt5hIQZdn59rTMJKSd6kM4jSVVmRoUIYd0H8tTxe3kWutKoDXtB0oBSdA",
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/113150288752698029564/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "104, Lake Mall, Rash Behari Ave, Lake Market, Kalighat, Kolkata",
+      "website" : "http://hardwarecollection.in/"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,67 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700016",
+            "short_name" : "700016",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "3c, Canal Street, \u003cspan class=\"street-address\"\u003eCanal Street\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700016\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "3c, Canal Street, Canal Street, Kolkata, West Bengal 700016, India",
+      "formatted_phone_number" : "033 2427 1058",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.598505,
+            "lng" : 88.402912
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "6368b83259900ad802979f5481957ef2ecdeaecc",
+      "international_phone_number" : "+91 33 2427 1058",
+      "name" : "Patton International Limited",
+      "place_id" : "ChIJbcqQ6uJ1AjoRQrc4azzQsFk",
+      "reference" : "CnRvAAAAh1eocAw3Uf_2pYvXJHrO4KGkIWw1Ktv2FUyArFnf9Gj707De98eyR7bJRQoXmfMl3HBC2y8r-X1rmXkmHdb2B2vL13Lzz8wWt-MHYYeVm5q3cTlWY6eGurSmOgslAjGYNUIymPRg4qJZCwKlgL84TBIQdbATyTn1CkSdjzRMc88KERoUAr4ES5_vVtNfHxjUvq6J3F0rVGE",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Sunita Lohia",
+            "author_url" : "https://plus.google.com/113767369236130635419",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "The Address in the site is wrong.\nIt should be CAMAC STREET instead of CANAL STREET.\nPls rectify.\nRegards,\nSunita Lohia",
+            "time" : 1425825698
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/110320446401574643786/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "3c, Canal Street, Canal Street, Kolkata"
+   },
+   "status" : "OK"
+}

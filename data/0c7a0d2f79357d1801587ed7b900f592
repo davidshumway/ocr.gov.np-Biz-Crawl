@@ -1,0 +1,149 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1",
+            "short_name" : "1",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Tollygunge Circular Road",
+            "short_name" : "Tollygunge Circular Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Sadapur",
+            "short_name" : "Sadapur",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New Alipore",
+            "short_name" : "New Alipore",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700053",
+            "short_name" : "700053",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e1, Tollygunge Circular Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSadapur, New Alipore\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700053\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "1, Tollygunge Circular Road, Sadapur, New Alipore, Kolkata, West Bengal 700053, India",
+      "formatted_phone_number" : "033 2400 9539",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.507059,
+            "lng" : 88.33488699999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "bce662cec80281c3859a480fa5bd366ac7d778dc",
+      "international_phone_number" : "+91 33 2400 9539",
+      "name" : "Vicky Auto Centre",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0930"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 9:30 am – 6:00 pm",
+            "Wednesday: 9:30 am – 6:00 pm",
+            "Thursday: 9:30 am – 6:00 pm",
+            "Friday: 9:30 am – 6:00 pm",
+            "Saturday: 9:30 am – 6:00 pm",
+            "Sunday: 9:30 am – 6:00 pm"
+         ]
+      },
+      "place_id" : "ChIJdT5NtbFwAjoRC0uGspPajf8",
+      "reference" : "CnRlAAAADS-6Je0qJv67L04xWF_Y_hwrVDh_cnomcZvqaQD18mWFxOSpWEzEyjr0gcYrQkcQcxHF39XwmANTrmYosraR2j8fXE1DuVvz06uL8i6WxAPxt3YNmExd7xptFrl6o_A6iefSlOjV80H41p9FQLLDsRIQIMwlb_HPpXJwrytKeOXOyRoU7PwscIYXFyeVwYdzgtS1Jw-Huvo",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/107463833822414056779/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "1, Tollygunge Circular Road, Sadapur, New Alipore, Kolkata"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,73 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "College Road",
+            "short_name" : "College Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Kalitola",
+            "short_name" : "Kalitola",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Bogra",
+            "short_name" : "Bogra",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bogra",
+            "short_name" : "Bogra",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Rajshahi Division",
+            "short_name" : "Rajshahi Division",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Bangladesh",
+            "short_name" : "BD",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "Sadharan Bima Bhaban, \u003cspan class=\"street-address\"\u003eCollege Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBogra\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eBangladesh\u003c/span\u003e",
+      "formatted_address" : "Sadharan Bima Bhaban, College Road, Bogra, Bangladesh",
+      "geometry" : {
+         "location" : {
+            "lat" : 24.863726,
+            "lng" : 89.37191900000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "e6b605197929e39e2c4758ad26a106e1f154fd75",
+      "name" : "Titu Motors",
+      "place_id" : "ChIJK3EwBRtV_DkRzl5-1jUdy4M",
+      "reference" : "CmRfAAAAatrGuO0OkPkP8dWoaDD12IrXggegLOhGzahrRz9cZbim1UUPrTqPBV2zRcMWeAtBLyRMQTar7qkAbrpy_pxW6hHOw-Me3n3czzypwvlh3CxswEge80Z-VjeWK6BPKHNyEhCp3udIVjpxt515MnbRVgGcGhRVhxw9TD-bOvnHt3Qc7V5bXVuGqA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "মো মাহফুজার রহমান",
+            "author_url" : "https://plus.google.com/104554209436753155674",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1418760482
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/109811728295069235034/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 360,
+      "vicinity" : "Sadharan Bima Bhaban, College Road, Bogra"
+   },
+   "status" : "OK"
+}

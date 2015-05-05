@@ -1,0 +1,138 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Old Post Office Street",
+            "short_name" : "Old Post Office St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "B B D Bagh",
+            "short_name" : "B B D Bagh",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700001",
+            "short_name" : "700001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eOld Post Office Street\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eB B D Bagh\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Old Post Office Street, B B D Bagh, Kolkata, West Bengal 700001, India",
+      "formatted_phone_number" : "033 2230 3486",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.568622,
+            "lng" : 88.344311
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "f299f941437a4dbb842e4d07afc4fb2b1aa15679",
+      "international_phone_number" : "+91 33 2230 3486",
+      "name" : "Shivshakti Engineering Company",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 6:00 pm",
+            "Tuesday: 10:00 am – 6:00 pm",
+            "Wednesday: 10:00 am – 6:00 pm",
+            "Thursday: 10:00 am – 6:00 pm",
+            "Friday: 10:00 am – 6:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 210,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAq-ArmJ-z4YbBUDZbLLX1PE55aOA0Ltc_k8RzYO_5b4Usx-3U5kF4kMRWEp2C5oDxEn1xvjYEt06RMOvobPNvFaoKjxgcoNM5w3dd2Y0Kw4qoXG7csiCEHzfW_DfeBiZObslYJ5AhPSr33rIUFLLg6RIQaT5t-6l7kOhpgPxBFZBPyxoUIXWHL1w4meYALlh0IAyAeyzoTvg",
+            "width" : 210
+         }
+      ],
+      "place_id" : "ChIJfRN17aF3AjoRnoO3c4tkua4",
+      "reference" : "CoQBcgAAAHrMHiHKCrWoSkf3z5IQHkmc1L1ibHdoerZlJGMDAiz07A8Th3K86Lc5sf_rg4MA-eMd5Qp3w4biCwve4BForXs6HdLiUsyPosr_xAnCXD56A95fmIq0QniAZ1lsRYQ-YnhLaeLxCogDxT_k8ZI7WCv_-dbrPavp8ePYYfRYo6KQEhCv9PDljKnEbZgVKRC5POqGGhTTD6BAlyaRBismP246vWM1jlOseA",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/114328992769006825256/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Old Post Office Street, B B D Bagh, Kolkata",
+      "website" : "http://www.shivshakti.co.in/"
+   },
+   "status" : "OK"
+}

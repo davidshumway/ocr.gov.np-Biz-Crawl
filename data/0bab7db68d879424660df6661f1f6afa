@@ -1,0 +1,78 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "SRCM Road",
+            "short_name" : "SRCM Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Gopalpur Gram",
+            "short_name" : "Gopalpur Gram",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Rajarhat",
+            "short_name" : "Rajarhat",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700135",
+            "short_name" : "700135",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eSRCM Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eGopalpur Gram\u003c/span\u003e, \u003cspan class=\"locality\"\u003eRajarhat\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700135\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "SRCM Road, Gopalpur Gram, Rajarhat, West Bengal 700135, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.638877,
+            "lng" : 88.47397100000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "6624d9ccedf1f84eae04c62ee745b0570dbead31",
+      "name" : "H.B Weighbridge",
+      "place_id" : "ChIJHdmIhIyf-DkR3pKlJlYrFt4",
+      "reference" : "CnRjAAAA3db5qD9_PtGW2dAclsCC61r383O2nctDBiyV1nTgMpeOCSX3hPtg2N83VorDfBwONbi8rmC3I7ShrKDBIniwaA0zdmBt_n9SLpObwpweGa7nao0Z5XVks8BGD6OiOZh9dE7z3eb7GkQN04h2YXWD4hIQIgaucq3EPk2qukjbgI8QwRoUFBdGXOd31zQg04XRHhkii92Dvzc",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Umaer Khan",
+            "author_url" : "https://plus.google.com/115491976873617177104",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1338983614
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/110824411991965055367/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "SRCM Road, Gopalpur Gram, Rajarhat"
+   },
+   "status" : "OK"
+}

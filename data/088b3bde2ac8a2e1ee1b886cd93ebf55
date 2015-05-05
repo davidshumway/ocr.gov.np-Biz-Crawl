@@ -1,0 +1,97 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "East School Road",
+            "short_name" : "East School Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Hanskhali",
+            "short_name" : "Hanskhali",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Nadia",
+            "short_name" : "Nadia",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "741505",
+            "short_name" : "741505",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eEast School Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eHanskhali\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e741505\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "East School Road, Hanskhali, West Bengal 741505, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 23.364029,
+            "lng" : 88.605428
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "74857d2a6aa6aa5ef1f92c418c906760491901bd",
+      "name" : "Vodafone Tower",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJZ9Zd8m_Y-DkRVH6dQzBQ1P4",
+      "reference" : "CnRiAAAAF8cuOqYoqyAmJCEYAiPEucanInCkoD2yNUca-8Jiq7Tihq8lVw14jjIiCFsttI0OUIwQZ7c2EYS0gKHcfuoLNh4wHJmjPblk-O04XMErNumoRdIZPpg-0fUornIMPw8yjhRb305QZhV5wBTOaMmnyBIQAijNH0-sCqcdA-Yqk3hJJBoU6oTKXC3y-TGf57kzBFg2JE_4rXA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Mithun Biswas",
+            "author_url" : "https://plus.google.com/109053244131375243583",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1313683118
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/108280759541186232508/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "East School Road, Hanskhali"
+   },
+   "status" : "OK"
+}

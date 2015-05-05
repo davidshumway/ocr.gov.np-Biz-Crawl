@@ -1,0 +1,155 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Lucknow Road",
+            "short_name" : "Lucknow Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Sadar Bazar",
+            "short_name" : "Sadar Bazar",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Shah Ganj",
+            "short_name" : "Shah Ganj",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Sharda Nahar",
+            "short_name" : "Sharda Nahar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Unnao",
+            "short_name" : "Unnao",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Unnao",
+            "short_name" : "Unnao",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "209801",
+            "short_name" : "209801",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eLucknow Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSadar Bazar, Shah Ganj, Sharda Nahar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eUnnao\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e209801\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Lucknow Road, Sadar Bazar, Shah Ganj, Sharda Nahar, Unnao, Uttar Pradesh 209801, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.545091,
+            "lng" : 80.48493000000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "0df7fc3887e19114050d82ec1ad90edb7c5a166c",
+      "name" : "Garg Clothe Store",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1100"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 11:00 am – 9:00 pm",
+            "Tuesday: 11:00 am – 9:00 pm",
+            "Wednesday: 11:00 am – 9:00 pm",
+            "Thursday: 11:00 am – 9:00 pm",
+            "Friday: 11:00 am – 9:00 pm",
+            "Saturday: 11:00 am – 9:00 pm",
+            "Sunday: 11:00 am – 9:00 pm"
+         ]
+      },
+      "place_id" : "ChIJs_eaD7kVnDkRhn8Vff9bc28",
+      "reference" : "CnRkAAAAPbm3pWFSpe93C788JzpQHsYEbUCh9nZMNKJvX1hgy08gF-DvxKGaQ5I_aYxDdYvjCCRSz8irfBgmNabM7LUMiDjlKOJ97Q2KOdsCZrjilC_iVdEGKNVYmpjPTIqoOMuGLwjkx8B-CBnPMa536E7s9BIQqzomP9qecPW5ByolUiYe3RoUlkDxbSgyjQ_sgfHV_Qvkie3NSaQ",
+      "scope" : "GOOGLE",
+      "types" : [ "clothing_store", "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/114654917397299224320/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Lucknow Road, Sadar Bazar, Shah Ganj, Sharda Nahar, Unnao"
+   },
+   "status" : "OK"
+}

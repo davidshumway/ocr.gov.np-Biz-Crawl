@@ -1,0 +1,142 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Panki Road",
+            "short_name" : "Panki Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Awas Vikas - 3 - Saray Chowk",
+            "short_name" : "Awas Vikas - 3 - Saray Chowk",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Kalyanpur",
+            "short_name" : "Kalyanpur",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208017",
+            "short_name" : "208017",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003ePanki Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eAwas Vikas - 3 - Saray Chowk, Kalyanpur\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208017\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Panki Road, Awas Vikas - 3 - Saray Chowk, Kalyanpur, Kanpur, Uttar Pradesh 208017, India",
+      "formatted_phone_number" : "0512 257 0285",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.481161,
+            "lng" : 80.250203
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "5f01c78a563da6f9abe67a5dcc37c571cc0ec43f",
+      "international_phone_number" : "+91 512 257 0285",
+      "name" : "Shukla Hardware",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: Closed",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: 10:00 am – 8:00 pm"
+         ]
+      },
+      "place_id" : "ChIJdwqTQsE3nDkRGQzegV8s45s",
+      "reference" : "CnRjAAAAnn4qNFD2hGVoAwQsfBvwEa9KorXlYQtK-b51e85QavbsoEGaXo9gtx5ru0G3B8jZA5hM5gvqEQCEFiMsR80fCWahgQG6k2twORu7J1gYiVgtYU135-_Ij0EHVH_pZiiyxMcZAkOEdenfn7_nWhg_hhIQCk44tZGEiJDbkpskxWulAxoU70ic-OhsPxWRkCTtyVEclha8GRs",
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/103688778607247763678/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Panki Road, Awas Vikas - 3 - Saray Chowk, Kalyanpur, Kanpur"
+   },
+   "status" : "OK"
+}

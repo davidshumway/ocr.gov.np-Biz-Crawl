@@ -1,0 +1,88 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Mall Road",
+            "short_name" : "Mall Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208001",
+            "short_name" : "208001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Chunniganj Chauraha, \u003cspan class=\"street-address\"\u003eMall Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Chunniganj Chauraha, Mall Road, Kanpur, Uttar Pradesh 208001, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.477428,
+            "lng" : 80.33563599999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "7379b618edfb63251555c45b39f3a0bc315611c5",
+      "name" : "HCL Service Centre",
+      "place_id" : "ChIJZ5dPU5o4nDkRD89adYKR8DM",
+      "reference" : "CnRlAAAA7q0wzCR5-Q7YIDE1rQSDZkNBHvBhIJ1Fw8QlIjEM605cf2zK3LR0yer2HYGWNwdCow6Xs1ySpHlfjcuL8l-k2_wGqBdk4ja27uMdGmSX0_k-Ew8mn2ZvqoO0P5BErXfDIoTxkXzqyr4VVvpHhYBKhBIQKQeTtVErWnGz5eBMXQ-q7xoU0rukIFLmw7RJlUeoIHVsnlZKLF0",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Sushil Kumar",
+            "author_url" : "https://plus.google.com/102386045421803434622",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Nice",
+            "time" : 1426740386
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Prabhat Bajpai",
+            "author_url" : "https://plus.google.com/109951139013751278791",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "This is a nice way that a very companies offer as facility to the customer for the most authentic service which is not given by many a other companies. \n",
+            "time" : 1384267791
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/116764654863564952041/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "Chunniganj Chauraha, Mall Road, Kanpur",
+      "website" : "http://www.hcl.com/"
+   },
+   "status" : "OK"
+}

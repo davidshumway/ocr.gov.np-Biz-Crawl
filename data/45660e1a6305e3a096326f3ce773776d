@@ -1,0 +1,145 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Civil Line Rikabganj Road",
+            "short_name" : "Civil Line Rikabganj Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Lajpat Nagar",
+            "short_name" : "Lajpat Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Faizabad",
+            "short_name" : "Faizabad",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Faizabad",
+            "short_name" : "Faizabad",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "224001",
+            "short_name" : "224001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eCivil Line Rikabganj Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eLajpat Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eFaizabad\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e224001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Civil Line Rikabganj Road, Lajpat Nagar, Faizabad, Uttar Pradesh 224001, India",
+      "formatted_phone_number" : "1800 200 1911",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.778088,
+            "lng" : 82.136662
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "26d59eca9368bb5b070e6ebff6495eed011caf1c",
+      "international_phone_number" : "+91 1800 200 1911",
+      "name" : "CBI ATM",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2330"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2330"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2330"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2330"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2330"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 12:00 am – 11:30 pm",
+            "Tuesday: 12:00 am – 11:30 pm",
+            "Wednesday: 12:00 am – 11:30 pm",
+            "Thursday: 12:00 am – 11:30 pm",
+            "Friday: 12:00 am – 11:30 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJGdjRegUGmjkRRtW5fl3xLoU",
+      "reference" : "CmRbAAAATQi6l4bPUqh9B18UPH6l-st0Kwbohtrlp1oUWTCIrS003IZhviGz4fG5TY2h4z0t4vl09gZncXG2iN8HK3N7endabS5LCjPy3TU6xLDKSUh734vRmOpVwQidtYQYP1WPEhDYb64E2Nr6F_qOF6DBAXrMGhRzWXncd6DB8g7U7vk7zDlxdQJFpw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Digvijay Singh",
+            "author_url" : "https://plus.google.com/101258533538042693124",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Create a better around us",
+            "time" : 1388908862
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "bank", "finance", "establishment" ],
+      "url" : "https://plus.google.com/103570777524480131686/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Civil Line Rikabganj Road, Lajpat Nagar, Faizabad",
+      "website" : "http://www.centralbankofindia.co.in/"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,157 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "5/2B/10A/11A",
+            "short_name" : "5/2B/10A/11A",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "100 Feet Road",
+            "short_name" : "100 Feet Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Prithvinath Fatak, Near Shankar Garh Ki Puliya, Shankar Puri Colony",
+            "short_name" : "Prithvinath Fatak, Near Shankar Garh Ki Puliya, Shankar Puri Colony",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Shahganj",
+            "short_name" : "Shahganj",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Agra",
+            "short_name" : "Agra",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Agra",
+            "short_name" : "Agra",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "282010",
+            "short_name" : "282010",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e5/2B/10A/11A, 100 Feet Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003ePrithvinath Fatak, Near Shankar Garh Ki Puliya, Shankar Puri Colony, Shahganj\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAgra\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e282010\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "5/2B/10A/11A, 100 Feet Road, Prithvinath Fatak, Near Shankar Garh Ki Puliya, Shankar Puri Colony, Shahganj, Agra, Uttar Pradesh 282010, India",
+      "formatted_phone_number" : "084392 05206",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.177574,
+            "lng" : 77.97095400000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "b5bf7870bb3c428c477e3d9f8bb35d976b5c9530",
+      "international_phone_number" : "+91 84392 05206",
+      "name" : "Hemant Building Material",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 10:00 pm",
+            "Tuesday: 10:00 am – 10:00 pm",
+            "Wednesday: 10:00 am – 10:00 pm",
+            "Thursday: 10:00 am – 10:00 pm",
+            "Friday: 10:00 am – 10:00 pm",
+            "Saturday: 10:00 am – 10:00 pm",
+            "Sunday: 10:00 am – 10:00 pm"
+         ]
+      },
+      "place_id" : "ChIJO1IqLqp3dDkRzSxqQgds84E",
+      "reference" : "CnRsAAAAZ9nVve6Ha3ypPX9Nyvn5a_c10SgjJ8jPpvQuZ0jz1oDt0rXVKBdIlN1J5Yax9EUVe7I_BG1GNVU8AWw8mx-O3PXWhkhicHvK0k031PEXGJ8q3vjgJpQ37e9ObDDGrZDHv3rRXDdbWObRBQ9q_DuMjBIQtYH1x06a86IulVxDv6APPBoU0S45Wmq5U-4E4SP3krEPRABeyog",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "establishment" ],
+      "url" : "https://plus.google.com/107697210528183168746/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "5/2B/10A/11A, 100 Feet Road, Prithvinath Fatak, Near Shankar Garh Ki Puliya, Shankar Puri Colony, Shahganj, Agra"
+   },
+   "status" : "OK"
+}

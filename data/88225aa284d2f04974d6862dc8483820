@@ -1,0 +1,147 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "A/8",
+            "short_name" : "A/8",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Station Market",
+            "short_name" : "Station Market",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "E Block",
+            "short_name" : "E Block",
+            "types" : [ "sublocality_level_3", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Panki",
+            "short_name" : "Panki",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208020",
+            "short_name" : "208020",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eA/8\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eStation Market, E Block, Panki\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208020\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "A/8, Station Market, E Block, Panki, Kanpur, Uttar Pradesh 208020, India",
+      "formatted_phone_number" : "094503 40056",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.460513,
+            "lng" : 80.240058
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "e525adf35b962637eb6160e18ad7940050f7f455",
+      "international_phone_number" : "+91 94503 40056",
+      "name" : "Dev Hardware Paints & Electricals",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 9:00 pm",
+            "Tuesday: 9:00 am – 9:00 pm",
+            "Wednesday: 9:00 am – 9:00 pm",
+            "Thursday: 9:00 am – 9:00 pm",
+            "Friday: 9:00 am – 9:00 pm",
+            "Saturday: Closed",
+            "Sunday: 9:00 am – 9:00 pm"
+         ]
+      },
+      "place_id" : "ChIJU3xCtilInDkRP3mcaMna844",
+      "reference" : "CoQBdQAAAGYQ4YHNpB7a79k8vboAYywY9OXRv7ARApGHT-UuRZtIv4cZe_fJxF0L_cu_YgkYVWKESCoUwiMoSGbCztL2r9GA98nR-8XHpWqv7srvo-0b9OqWx7hdFmqPOnN41ybXcQV1qzBaxjOP-pgCIY7EaXSiP1Lu8lpYPkKBmzMGXF-rEhCr26uDnv38OORjGrFcuEwlGhSUxQaIqBRDETQiU0zRn-b_rRANrA",
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/106001757882802422159/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "A/8, Station Market, E Block, Panki, Kanpur"
+   },
+   "status" : "OK"
+}

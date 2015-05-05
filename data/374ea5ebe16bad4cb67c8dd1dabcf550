@@ -1,0 +1,76 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "National Highway 75",
+            "short_name" : "NH 75",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Belhatthi",
+            "short_name" : "Belhatthi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Sonbhadra",
+            "short_name" : "Sonbhadra",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "231208",
+            "short_name" : "231208",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNational Highway 75\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBelhatthi\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e231208\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "National Highway 75, Belhatthi, Uttar Pradesh 231208, India",
+      "formatted_phone_number" : "1800 209 7979",
+      "geometry" : {
+         "location" : {
+            "lat" : 24.234374,
+            "lng" : 83.05328299999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/car_dealer-71.png",
+      "id" : "4fa1f339a7d2d9eebaa8db9b39e3976f7aad7bf2",
+      "international_phone_number" : "+91 1800 209 7979",
+      "name" : "TATA Motors",
+      "place_id" : "ChIJvcix6BnbjjkRLTkVj8ViRmQ",
+      "reference" : "CmReAAAAeyHKqZMBLZQhAELBs5N06g7At80KxuA6Ljumk5Q4B-vxxpHb_xz9qMcjQD6wxGWRJy-Ak0voDJUQ9n_anyMEl2J-zKfz8fRMSuxVbxUNGvHhr_ZkmZ-uIfW14E1dbXKLEhCDofHwQx6Fi_a0U9zoYFmUGhRUOW13Z9H4cYjI8oTemCjerBpeSQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "vibha Augustine",
+            "author_url" : "https://plus.google.com/104915753012597723931",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1430475414
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "car_dealer", "store", "establishment" ],
+      "url" : "https://plus.google.com/102005513346344737232/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "National Highway 75, Belhatthi",
+      "website" : "http://www.tatamotors.com/"
+   },
+   "status" : "OK"
+}

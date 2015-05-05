@@ -1,0 +1,164 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "State Highway 22",
+            "short_name" : "SH 22",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Katoria",
+            "short_name" : "Katoria",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Banka",
+            "short_name" : "Banka",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "813106",
+            "short_name" : "813106",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eState Highway 22\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKatoria\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e813106\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "State Highway 22, Katoria, Bihar 813106, India",
+      "formatted_phone_number" : "1800 22 0229",
+      "geometry" : {
+         "location" : {
+            "lat" : 24.746353,
+            "lng" : 86.71813400000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "0e3e8a954ad99e011a94842c3ad2c8e0b7db1fb0",
+      "international_phone_number" : "+91 1800 22 0229",
+      "name" : "Bank of India",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1430"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1430"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1430"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1430"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1430"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1430"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 2:30 pm",
+            "Tuesday: 10:00 am – 2:30 pm",
+            "Wednesday: 10:00 am – 2:30 pm",
+            "Thursday: 10:00 am – 2:30 pm",
+            "Friday: 10:00 am – 2:30 pm",
+            "Saturday: 10:00 am – 2:30 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJGfuTThQP8TkR4Qx2uixgtGE",
+      "reference" : "CmRgAAAAo_NtD2epdqS8onJRJu_3zxMeaJ8G89SJmyDOZDim-I4LNoyaRX1jd7mpY5N8pfHLak2Vf-8ys0fguNGVmwSLG2M9kIFeBowS-i-tcsY1VcR-rMTuEKCTKhBUNv2dFN6fEhCyFi4blyTM8C7y3UX13LGuGhRgnJuiSmC_pYC1omA8EPev6bTsvg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Manish Raichand",
+            "author_url" : "https://plus.google.com/110967461509158717627",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1396877208
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Divyansh kumar",
+            "author_url" : "https://plus.google.com/104620517456211647249",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1414220455
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "bank", "finance", "establishment" ],
+      "url" : "https://plus.google.com/102145892023176980303/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "State Highway 22, Katoria",
+      "website" : "http://www.bankofindia.com/"
+   },
+   "status" : "OK"
+}

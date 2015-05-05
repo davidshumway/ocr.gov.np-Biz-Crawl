@@ -1,0 +1,162 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "610, 9",
+            "short_name" : "610, 9",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Kanpur-Jhansi Hwy",
+            "short_name" : "Kanpur-Jhansi Hwy",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Near Chakeri Airport",
+            "short_name" : "Near Chakeri Airport",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Sanjeev Nagar",
+            "short_name" : "Sanjeev Nagar",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ahriwan",
+            "short_name" : "Ahriwan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208001",
+            "short_name" : "208001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e610, 9, Kanpur-Jhansi Hwy\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNear Chakeri Airport, Sanjeev Nagar, Ahriwan\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "610, 9, Kanpur-Jhansi Hwy, Near Chakeri Airport, Sanjeev Nagar, Ahriwan, Kanpur, Uttar Pradesh 208001, India",
+      "formatted_phone_number" : "099368 14676",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.390254,
+            "lng" : 80.40768199999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "c794ee63fb2555b31f19c08086af50cde7295b82",
+      "international_phone_number" : "+91 99368 14676",
+      "name" : "Shreya Traders",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 am – 7:00 pm",
+            "Tuesday: 8:00 am – 7:00 pm",
+            "Wednesday: 8:00 am – 7:00 pm",
+            "Thursday: 8:00 am – 7:00 pm",
+            "Friday: 8:00 am – 7:00 pm",
+            "Saturday: 8:00 am – 7:00 pm",
+            "Sunday: 8:00 am – 7:00 pm"
+         ]
+      },
+      "place_id" : "ChIJTaZeNXhBnDkRGRRYbBkaZ74",
+      "reference" : "CnRiAAAA1XlYbdMPFFLHkMRM2x6pwnjJDTcCOhNDRxev-fznojIIWi6EMGiIWQPLrZMBEdtTv67jrZ2XyE9bLQ70PQyo6ZHCuct0x4cCVDjXSMLE1AgPiJv6vkoyUnE730jWLmUEX8cHXGEB3phPgVgKNDL0zxIQxSyTOJMq7RiNh6bJRCu7txoUNYRnz7FMPeUT1zhLXM8no14W_oI",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/113675730585639455413/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "610, 9, Kanpur-Jhansi Hwy, Near Chakeri Airport, Sanjeev Nagar, Ahriwan, Kanpur"
+   },
+   "status" : "OK"
+}

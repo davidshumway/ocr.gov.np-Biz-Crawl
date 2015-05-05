@@ -1,0 +1,68 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Lucknow",
+            "short_name" : "Lucknow",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "226018",
+            "short_name" : "226018",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "17, Shivaji Marg, \u003cspan class=\"street-address\"\u003eShivaji Marg\u003c/span\u003e, \u003cspan class=\"locality\"\u003eLucknow\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e226018\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "17, Shivaji Marg, Shivaji Marg, Lucknow, Uttar Pradesh 226018, India",
+      "formatted_phone_number" : "0522 262 6165",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.841113,
+            "lng" : 80.93122700000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "5bfd969c233c15fd491db7b1e212d2722936b09a",
+      "international_phone_number" : "+91 522 262 6165",
+      "name" : "Sleek Kitchen",
+      "place_id" : "ChIJXTQu97H9mzkRVb1ntkeH8Fw",
+      "reference" : "CmRgAAAApZx_RGTVisOZhqlbmyHjW85zkMQV33qB3_0QZR7bRvO0PR6C2hpuD-29mAp-5L6FN9bvC2wC_4OwxC_ZH1ookAmkhNoScFVIOF-8aEbX3hjyI2twzl2urmMZu0FNBhUvEhCNbtxX7JhUd1pEVGpf4hJxGhQc-YT_u8dTkANKgg9K14ZsbxwcKg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Ishaq Idrisi",
+            "author_url" : "https://plus.google.com/104216734570966860733",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Cool dishes...",
+            "time" : 1346432463
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/103468306604468788572/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "17, Shivaji Marg, Shivaji Marg, Lucknow",
+      "website" : "http://www.sleekworld.com/"
+   },
+   "status" : "OK"
+}

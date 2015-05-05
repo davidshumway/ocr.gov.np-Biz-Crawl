@@ -1,0 +1,147 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "St Kabir Rd",
+            "short_name" : "St Kabir Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bara Ganesh",
+            "short_name" : "Bara Ganesh",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Maidagin",
+            "short_name" : "Maidagin",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kotwali",
+            "short_name" : "Kotwali",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Varanasi",
+            "short_name" : "Varanasi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Varanasi",
+            "short_name" : "Varanasi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "221001",
+            "short_name" : "221001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eSt Kabir Rd\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBara Ganesh, Maidagin, Kotwali\u003c/span\u003e, \u003cspan class=\"locality\"\u003eVaranasi\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e221001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "St Kabir Rd, Bara Ganesh, Maidagin, Kotwali, Varanasi, Uttar Pradesh 221001, India",
+      "formatted_phone_number" : "0542 233 3871",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.318956,
+            "lng" : 83.011691
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "7c66296094a713484738cd282437770e4adc5850",
+      "international_phone_number" : "+91 542 233 3871",
+      "name" : "Varanasi Sanitary House",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJUR0O0hkujjkRqH1H9IJ-Axk",
+      "reference" : "CnRqAAAAfhAJmgtLvyYfYceeBT-lVA1c1T_vf0cDY4SmIuZ6WCIV8slI6Y62LZETAD8lsLgzZCjNinUZrVSBe0q-byXC4NL4d255neAeUDiHvNGnlLT4zQgkv5-HfmarV-KIgx3dSwUJBmqV3U-RpbXsHR2D1BIQih9kZkDVIhmW2YGVDHs3VhoUf64Se6RylF7oXNyS5xvaMW-WnuQ",
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/113844444146609025641/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "St Kabir Rd, Bara Ganesh, Maidagin, Kotwali, Varanasi"
+   },
+   "status" : "OK"
+}

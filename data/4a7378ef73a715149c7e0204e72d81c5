@@ -1,0 +1,97 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "110",
+            "short_name" : "110",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Hem Chandra Naskar Road",
+            "short_name" : "Hem Chandra Naskar Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Subhas Sarobar Park",
+            "short_name" : "Subhas Sarobar Park",
+            "types" : [ "sublocality_level_3", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Phool Bagan",
+            "short_name" : "Phool Bagan",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kankurgachi",
+            "short_name" : "Kankurgachi",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700010",
+            "short_name" : "700010",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e110, Hem Chandra Naskar Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSubhas Sarobar Park, Phool Bagan, Kankurgachi\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700010\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "110, Hem Chandra Naskar Road, Subhas Sarobar Park, Phool Bagan, Kankurgachi, Kolkata, West Bengal 700010, India",
+      "formatted_phone_number" : "033 2371 0012",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.570367,
+            "lng" : 88.39002000000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+      "id" : "ed72c6170a27c81e40330f3e3a27edaf9baf911f",
+      "international_phone_number" : "+91 33 2371 0012",
+      "name" : "Deluxe Service Station",
+      "place_id" : "ChIJYcI8g2R2AjoR35vAg3qbCFs",
+      "reference" : "CnRpAAAArF1U12Y3RFGm7ziO2iMkTo1FD5Te_VdyWqmYxSa0VgSA3VOHI2eMuEs55fwZSykq8lvlcTnzevaTl4LscuktBrJhHHugUb5oPvOP_Eg_bloDZeQlwu3p3b2cRRsisTmqL_OODUsQrHEVqLYX_d-YthIQUbmUc_U_Dsp3Bb6wMyu35BoUAJl8mxzkYuyYPLHgehWcY_0E8rw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Suman Paul",
+            "author_url" : "https://plus.google.com/106648299972220755301",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1398565613
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "gas_station", "establishment" ],
+      "url" : "https://plus.google.com/115049908088672747007/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "110, Hem Chandra Naskar Road, Subhas Sarobar Park, Phool Bagan, Kankurgachi, Kolkata"
+   },
+   "status" : "OK"
+}

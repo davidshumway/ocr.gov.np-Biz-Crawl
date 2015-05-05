@@ -1,0 +1,80 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Chakhamid Road",
+            "short_name" : "Chakhamid Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bakhri",
+            "short_name" : "Bakhri",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Khagaria",
+            "short_name" : "Khagaria",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "848201",
+            "short_name" : "848201",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eChakhamid Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBakhri\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e848201\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Chakhamid Road, Bakhri, Bihar 848201, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.60121,
+            "lng" : 86.261752
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "b44b4ffe9991e28a8f9f35fc86fe02423cbe4c59",
+      "name" : "Railway Godown Bakhri",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJeReEzfD_8TkROfSaLGT07nI",
+      "reference" : "CnRoAAAAgnY0m1aTbK5KTbqrAe98uCESsV8o68AzVGC4C_GExV16EcHJtzbmCmGKf3XQ3pH4D9YQ49og1NX_RzMrmKjp8x7ZxjkkQG6zKk_MkNReC9HqFTVA57FngUeJGARyEQysmJg3OUFX9YjkaSpHnbnA7hIQ9en4mt9EfW5bkEfemlPWohoUH2cZE_48hv9ar75NCtRaC1oXlb4",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/107021485804277089895/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Chakhamid Road, Bakhri"
+   },
+   "status" : "OK"
+}

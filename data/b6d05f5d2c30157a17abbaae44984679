@@ -1,0 +1,144 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "52A",
+            "short_name" : "52A",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "Mirza Ghalib St, Free School Street",
+            "short_name" : "Mirza Ghalib St, Free School Street",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Taltala",
+            "short_name" : "Taltala",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700016",
+            "short_name" : "700016",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "52A, \u003cspan class=\"street-address\"\u003eMirza Ghalib St, Free School Street\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eTaltala\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700016\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "52A, Mirza Ghalib St, Free School Street, Taltala, Kolkata, West Bengal 700016, India",
+      "formatted_phone_number" : "033 2229 5939",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.555527,
+            "lng" : 88.35435699999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "b3328573dc2035d012ed4b8569f9379a875c5bf9",
+      "international_phone_number" : "+91 33 2229 5939",
+      "name" : "Calcutta Blinds Corporation",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 9:00 pm",
+            "Tuesday: 10:00 am – 9:00 pm",
+            "Wednesday: 10:00 am – 9:00 pm",
+            "Thursday: 10:00 am – 9:00 pm",
+            "Friday: 10:00 am – 9:00 pm",
+            "Saturday: 10:00 am – 9:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJcdW62wV3AjoRiWk1E9jBTcA",
+      "reference" : "CnRvAAAAJW06ZuPoDWp4OgXAKSqD4S2bGwpx7lzq2WSYIaG4qz64RhK7FVs_VSRkZyKTwnn5jd3hhc6nXt8hvKA5I71x-zKe3PlX9nd4bOgbs8zSYrhnny3mnJlPv89dmUzq7UeOrzFyTYB0mmEGB_egDm9hyRIQlOXO6AhLvyRyBB5W-dyPDxoUC8FVB_d05wV6YfLnbhnmdjRGqhw",
+      "scope" : "GOOGLE",
+      "types" : [ "food", "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/118058428250827908915/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "52A, Mirza Ghalib St, Free School Street, Taltala, Kolkata"
+   },
+   "status" : "OK"
+}

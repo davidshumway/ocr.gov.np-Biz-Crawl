@@ -1,0 +1,77 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "108/10",
+            "short_name" : "108/10",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Kanpur P Road",
+            "short_name" : "Kanpur P Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Jawahar Nagar",
+            "short_name" : "Jawahar Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208003",
+            "short_name" : "208003",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e108/10, Kanpur P Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eJawahar Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208003\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "108/10, Kanpur P Road, Jawahar Nagar, Kanpur, Uttar Pradesh 208003, India",
+      "formatted_phone_number" : "0512 261 2502",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.464609,
+            "lng" : 80.324197
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "568447d0ba66cf2499d4a206dcf680703981810c",
+      "international_phone_number" : "+91 512 261 2502",
+      "name" : "Pacific Gallery",
+      "place_id" : "ChIJ571kmoJHnDkRbdtZNlHGvOc",
+      "reference" : "CnRjAAAAiKYPBhCgeMyUzEwGFS9qJ_ePjhOVFME7ucFs59tr9NNpXWbQanLESlkixI3w0r8SyUJ9YL2NGN42R2duJHx50IbeGFTf1MqIaqGa1kfw4RebX_XehVwX5MG1ofU7_nuU4kCZUh3v4_dAQHquNPEfTxIQWZucY5SdOoU2nqQQ8MApDxoU2bGWbhmdpyWsZY7Nzx4On7lNTJA",
+      "scope" : "GOOGLE",
+      "types" : [
+         "furniture_store",
+         "hardware_store",
+         "general_contractor",
+         "home_goods_store",
+         "store",
+         "establishment"
+      ],
+      "url" : "https://plus.google.com/105220921673293865977/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "108/10, Kanpur P Road, Jawahar Nagar, Kanpur"
+   },
+   "status" : "OK"
+}

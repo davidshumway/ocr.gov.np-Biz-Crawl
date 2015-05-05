@@ -1,0 +1,68 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Hospital Road",
+            "short_name" : "Hospital Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Dinajpur",
+            "short_name" : "Dinajpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Dinajpur",
+            "short_name" : "Dinajpur",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Rangpur Division",
+            "short_name" : "Rangpur Division",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Bangladesh",
+            "short_name" : "BD",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eHospital Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eDinajpur\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eBangladesh\u003c/span\u003e",
+      "formatted_address" : "Hospital Road, Dinajpur, Bangladesh",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.626635,
+            "lng" : 88.636797
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "ec49d8fd836dd9a8acd8d3ac6d233bfa0ba43e49",
+      "name" : "Babul Brothers",
+      "place_id" : "ChIJFeafKJxS-zkRcx6vRDmCxy4",
+      "reference" : "CnRhAAAAXU5G9VxUm78m6_gSWRVJE3942jhwVEluaapz5lu3X8O2J0od0kziK3glH6GoIbJ-jrTRUBLpGT3f-zwCwKJWbMpkDalmLtDTYi2L5Si1LVDQFsP7xUlg5OxMB99j9tBgQ4TYKcLGOI0V_lO5UqKUVhIQjhenQq-rbAy6mszA7FEfSRoUXN5B9HjTPE2Q9uqRdQ5TIG7g6F8",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Mujammal Haque",
+            "author_url" : "https://plus.google.com/115410918645469350560",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1427059412
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/110104960937521785441/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 360,
+      "vicinity" : "Hospital Road, Dinajpur"
+   },
+   "status" : "OK"
+}

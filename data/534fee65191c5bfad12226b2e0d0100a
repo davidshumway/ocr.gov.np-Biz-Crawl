@@ -1,0 +1,86 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Kanpur Road",
+            "short_name" : "Kanpur Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Shanti Nagar",
+            "short_name" : "Shanti Nagar",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Sarojini Nagar",
+            "short_name" : "Sarojini Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Lucknow",
+            "short_name" : "Lucknow",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Lucknow",
+            "short_name" : "Lucknow",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "226023",
+            "short_name" : "226023",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eKanpur Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eShanti Nagar, Sarojini Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eLucknow\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e226023\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Kanpur Road, Shanti Nagar, Sarojini Nagar, Lucknow, Uttar Pradesh 226023, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.755431,
+            "lng" : 80.868976
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "f73bb4eb407db7210901665720fb901fea56f78c",
+      "name" : "Aaditya Plaza",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "open" : {
+                  "day" : 0,
+                  "time" : "0000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+         ]
+      },
+      "place_id" : "ChIJm57szRb5mzkRx9LyMcID2Iw",
+      "reference" : "CnRhAAAAkAtbfyubllwnotyUWB6WCr34DumPnKN3M0mLeVIRuxTlAP_aXYI6w80sKvVIakRh2WslMyalR-L7KaoKDpdAQeYCAq8Quw8p8HGI-lnkZdH-qB-ZCACjc-RU2Qw0UsFsMVebwvj1v7fQrdm76y3IcBIQEEu-iCcqStRLbC-p246yuhoUsJ0Uj4n5hRn4pt_OTJNDbaV0Xt8",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/107067114832692979144/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Kanpur Road, Shanti Nagar, Sarojini Nagar, Lucknow"
+   },
+   "status" : "OK"
+}

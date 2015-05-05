@@ -1,0 +1,151 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Agra",
+            "short_name" : "Agra",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "282004",
+            "short_name" : "282004",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "C-2/62, Kamla Nagar, Bypass Road, \u003cspan class=\"street-address\"\u003eBypass Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAgra\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e282004\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "C-2/62, Kamla Nagar, Bypass Road, Bypass Road, Agra, Uttar Pradesh 282004, India",
+      "formatted_phone_number" : "0562 258 1557",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.208724,
+            "lng" : 78.020353
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "a8d41013cf5db5782b40446c17e0ea671f0a60ce",
+      "international_phone_number" : "+91 562 258 1557",
+      "name" : "Nav Bharat Wheels",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 7:00 pm",
+            "Tuesday: 10:00 am – 3:00 pm",
+            "Wednesday: 10:00 am – 7:00 pm",
+            "Thursday: 10:00 am – 7:00 pm",
+            "Friday: 10:00 am – 7:00 pm",
+            "Saturday: 10:00 am – 7:00 pm",
+            "Sunday: 10:00 am – 7:00 pm"
+         ]
+      },
+      "place_id" : "ChIJAQAAAKxwdDkRwjcMSB_O4DU",
+      "reference" : "CnRkAAAAVmIuo7m95sE0ddP45DlvVgqS2m2AbGgxk4cLA6e11fvP9A4ObEOEXdvOO_Ipja0PGwJXfuleEbFYu89HF9zN5wFK8PneTvdNH9rdTgm5pAle1GmTC8FPYn40zdPzOdfT6m7nzoLLTxW1dzGUe0rJVxIQuo4TE3F64T_JrSrIkssLoRoUg9hbKHr26zPgxOE-3dSp2byvZ80",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Mohit Agarwal",
+            "author_url" : "https://plus.google.com/108124095337401936327",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "This is the best place for Car Wheel Alignment and Balancing. My experience was good. Also the owners are decent and helpful. ",
+            "time" : 1339239327
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/109047304008321600200/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "C-2/62, Kamla Nagar, Bypass Road, Bypass Road, Agra"
+   },
+   "status" : "OK"
+}

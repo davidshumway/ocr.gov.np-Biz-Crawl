@@ -1,0 +1,140 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Agra Road",
+            "short_name" : "Agra Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Girraj Market",
+            "short_name" : "Girraj Market",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Suhag Nagar",
+            "short_name" : "Suhag Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Firozabad",
+            "short_name" : "Firozabad",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Firozabad",
+            "short_name" : "Firozabad",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "283203",
+            "short_name" : "283203",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eAgra Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eGirraj Market, Suhag Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eFirozabad\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e283203\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Agra Road, Girraj Market, Suhag Nagar, Firozabad, Uttar Pradesh 283203, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.162986,
+            "lng" : 78.38124500000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "2b5c5d5a041ca6d57d97add62c130807e13aabaf",
+      "name" : "Girraj Building Material",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 9:00 pm",
+            "Tuesday: Closed",
+            "Wednesday: 10:00 am – 9:00 pm",
+            "Thursday: 10:00 am – 9:00 pm",
+            "Friday: 10:00 am – 9:00 pm",
+            "Saturday: 10:00 am – 9:00 pm",
+            "Sunday: 10:00 am – 9:00 pm"
+         ]
+      },
+      "place_id" : "ChIJbWCt4f5DdDkRkYTJNTxwrk0",
+      "reference" : "CnRrAAAA7oxHYx6HNRdMuVkW49-iAQNuAdda8WOo4hKazFWDMgZ7JYtDMObGWwRNHIfGQMPS9TkgnDKgRnr90rMm1aJ_0G7E9LaZmfozOJGdbetqhrNvvxXKoN-Lw5478X_I-idj6QHk8xkHtfwzTTOyMEE5sxIQHdHQoFK0odCe75v7Dsff3hoU9C0SmULvxfSDRU8Y1AJmScv23Fk",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "establishment" ],
+      "url" : "https://plus.google.com/109313222709143950084/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Agra Road, Girraj Market, Suhag Nagar, Firozabad"
+   },
+   "status" : "OK"
+}

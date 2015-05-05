@@ -1,0 +1,139 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Madan Street",
+            "short_name" : "Madan St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bowbazar",
+            "short_name" : "Bowbazar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700072",
+            "short_name" : "700072",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eMadan Street\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBowbazar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700072\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Madan Street, Bowbazar, Kolkata, West Bengal 700072, India",
+      "formatted_phone_number" : "033 3257 0495",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.566396,
+            "lng" : 88.354277
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "7bbd6ab54bfb75a6b046445bd5b188fe250ecc8a",
+      "international_phone_number" : "+91 33 3257 0495",
+      "name" : "Prabhat Sales Corporation",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1630"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1100"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 11:00 am – 6:30 pm",
+            "Tuesday: 11:00 am – 6:30 pm",
+            "Wednesday: 11:00 am – 6:30 pm",
+            "Thursday: 11:00 am – 6:30 pm",
+            "Friday: 11:00 am – 6:30 pm",
+            "Saturday: 11:00 am – 4:30 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJz4AvF2h3AjoRs5CDpFwC7CI",
+      "reference" : "CnRsAAAAr4EensdE5KmSmaG88GYWkP6O8hxIoSIUccJilbYvUEz7AAdX2k2QoDHXWz4_znpuhnOSnYSNztTf6HCU_ppPYaGlE9qdKQQ-8CmTLfqBVlZCZ3PnyUo7KJ3qktvKZx8T2KKC2VdjbYHrnMYO9ADDpxIQZ0DdG2sKHQ85E8S8fy8FXhoUpZyzCoJlsnsg7UVfXlEMwWDriYA",
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/112630894690125621942/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Madan Street, Bowbazar, Kolkata"
+   },
+   "status" : "OK"
+}

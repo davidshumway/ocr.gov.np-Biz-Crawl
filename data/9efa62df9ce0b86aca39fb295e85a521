@@ -1,0 +1,147 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Riyaz St",
+            "short_name" : "Riyaz St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Near Jhasi to Kanpur Highway",
+            "short_name" : "Near Jhasi to Kanpur Highway",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Jajmau",
+            "short_name" : "Jajmau",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "J K Puri",
+            "short_name" : "J K Puri",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208007",
+            "short_name" : "208007",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eRiyaz St\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNear Jhasi to Kanpur Highway, Jajmau, J K Puri\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208007\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Riyaz St, Near Jhasi to Kanpur Highway, Jajmau, J K Puri, Kanpur, Uttar Pradesh 208007, India",
+      "formatted_phone_number" : "098387 19832",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.430519,
+            "lng" : 80.400829
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "e5e43bb444169a926781a3048881abc0dafdc4db",
+      "international_phone_number" : "+91 98387 19832",
+      "name" : "A.A Lubricants",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 10:00 am – 9:00 pm",
+            "Wednesday: 10:00 am – 9:00 pm",
+            "Thursday: 10:00 am – 9:00 pm",
+            "Friday: 10:00 am – 9:00 pm",
+            "Saturday: 10:00 am – 9:00 pm",
+            "Sunday: 10:00 am – 9:00 pm"
+         ]
+      },
+      "place_id" : "ChIJMfz96vxAnDkR7fWvaBG1_B0",
+      "reference" : "CnRhAAAAHGG_58LITociQ0hpKEA9fTgWAoPHVKpMceLsR-YOohCkQ-VgVg0tf-ij6bROcEQihH02NQIEL7cmU9Ua3_qjenFusTeP1GOeuIiv75Jz1xLfYJ9mfoB-bShpXCcFFVGu5eiVwmCwUoHSkxzc2GDhjxIQLuEsq8hQemH7-P0HU5qq0xoUtMrJKAgX4YCmpZFfu_IT5Pp-ygE",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/100341128814300283036/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Riyaz St, Near Jhasi to Kanpur Highway, Jajmau, J K Puri, Kanpur"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,85 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Haldia",
+            "short_name" : "Haldia",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Purba Medinipur",
+            "short_name" : "Purba Medinipur",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "721606",
+            "short_name" : "721606",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eHaldia\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e721606\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Haldia, West Bengal 721606, India",
+      "formatted_phone_number" : "03224 251 001",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.064786,
+            "lng" : 88.14804700000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "f1f28a5d7d0c881ef7a3251c30100560bb660109",
+      "international_phone_number" : "+91 3224 251 001",
+      "name" : "Tata Chemicals Limited",
+      "place_id" : "ChIJK97wgL_3AjoRfEalBj_FXmU",
+      "reference" : "CnRpAAAAOMrH9TsbNV_77wvzEz1lAbOLBwfym6uvZqvZ1757mK8YyMfSyLXzHM0xvF-R-Uk0alAUIwQ1gfc3b95lkVkiWvcHGShSSKuUYYWIYCxH4yFdLM0IS69-PYWPuUGntvF-U6xFdUnK1aaEvazRoXz3IhIQQIEU5HsXvk2n9e0D2bp3-BoUFYUB_628kETVOcOo3ro4LrNdVZc",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "pankaj upadhyay",
+            "author_url" : "https://plus.google.com/111498540588750907023",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "Nice",
+            "time" : 1345371994
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "mohan raj",
+            "author_url" : "https://plus.google.com/117959703746859119615",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "Hi how are you",
+            "time" : 1364708951
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/113590046346416774072/about?hl=en-US",
+      "user_ratings_total" : 3,
+      "utc_offset" : 330,
+      "vicinity" : "Haldia",
+      "website" : "http://www.tatachemicals.com/"
+   },
+   "status" : "OK"
+}

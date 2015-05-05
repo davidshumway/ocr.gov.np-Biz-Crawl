@@ -1,0 +1,78 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Rajendra Path",
+            "short_name" : "Rajendra Path",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Golambar",
+            "short_name" : "Golambar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Patna",
+            "short_name" : "Patna",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Patna",
+            "short_name" : "Patna",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "800001",
+            "short_name" : "800001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eRajendra Path\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eGolambar\u003c/span\u003e, \u003cspan class=\"locality\"\u003ePatna\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e800001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Rajendra Path, Golambar, Patna, Bihar 800001, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.609809,
+            "lng" : 85.14864799999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "6bd2f6cea680cab633b1a7114f529b22c28df498",
+      "name" : "HP Service Centre",
+      "place_id" : "ChIJb27cmvVY7TkR58Oz-TgoW5E",
+      "reference" : "CnRlAAAAfV3mUVV5-lG-Z03asBzYX7x00MGRBD-3knlT92fFOeKo7OLBBlSdVsfJmUIkJkCGji9grRLim6gEgva6UGktnLHVUDL2i0jKd9Ea9bpPBA0dX6jNmdAJnDJBDccadS-pJ6JwNcmjkuzQjZTL0CjW4xIQo-UPfE3ohFqbKBuMTdiJIBoUuzRnBWniU4ubTXyN1ExKCQdF98E",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Abhishek kumar",
+            "author_url" : "https://plus.google.com/112682128792048067761",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1401987305
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/100100122622122739037/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Rajendra Path, Golambar, Patna"
+   },
+   "status" : "OK"
+}

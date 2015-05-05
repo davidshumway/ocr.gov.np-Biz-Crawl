@@ -1,0 +1,68 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "College Road",
+            "short_name" : "College Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bogra",
+            "short_name" : "Bogra",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bogra",
+            "short_name" : "Bogra",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Rajshahi Division",
+            "short_name" : "Rajshahi Division",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Bangladesh",
+            "short_name" : "BD",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "Shubil Mor, \u003cspan class=\"street-address\"\u003eCollege Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBogra\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eBangladesh\u003c/span\u003e",
+      "formatted_address" : "Shubil Mor, College Road, Bogra, Bangladesh",
+      "geometry" : {
+         "location" : {
+            "lat" : 24.863764,
+            "lng" : 89.372007
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "cb3e53f7217e6dec67d0aa11fde4526c841bca9d",
+      "name" : "Sony Autos",
+      "place_id" : "ChIJg08cBRtV_DkRK3M50tKBkkY",
+      "reference" : "CmRdAAAArxDqedceGRPwxDrekHW96AjtjMnnwcRcV6c_-CXHEfuK9ZX28rsEaPn539-uu9vnw6frruU-4i5pS7s6nG8UVA0sHr_30G3KSyTWGQgHLr0di2oQqgc1jPMkMt6GqMuNEhD2cytXMPi4X4Uik5PD4QntGhTjuolqttVSTZLtK1m4mDpmchUpWQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "মো মাহফুজার রহমান",
+            "author_url" : "https://plus.google.com/104554209436753155674",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1418760474
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/115717884566408720909/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 360,
+      "vicinity" : "Shubil Mor, College Road, Bogra"
+   },
+   "status" : "OK"
+}

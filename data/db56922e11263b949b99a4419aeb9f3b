@@ -1,0 +1,142 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Birhana Road",
+            "short_name" : "Birhana Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "The Mall",
+            "short_name" : "The Mall",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "General Ganj",
+            "short_name" : "General Ganj",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208001",
+            "short_name" : "208001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eBirhana Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eThe Mall, General Ganj\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Birhana Road, The Mall, General Ganj, Kanpur, Uttar Pradesh 208001, India",
+      "formatted_phone_number" : "096219 33004",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.465232,
+            "lng" : 80.358025
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "6d54f44da35e08b159c9d1d94dacac5d83ccaad9",
+      "international_phone_number" : "+91 96219 33004",
+      "name" : "Bharat Tyre",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 7:00 pm",
+            "Tuesday: 10:00 am – 7:00 pm",
+            "Wednesday: 10:00 am – 7:00 pm",
+            "Thursday: 10:00 am – 7:00 pm",
+            "Friday: 10:00 am – 7:00 pm",
+            "Saturday: 10:00 am – 7:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ-TWq21ZHnDkRndCauFL6KZc",
+      "reference" : "CmRfAAAAv6C-t6ZaZiWGZapkUrG7YEGsupwXuTwzsqeJtvjMUy85SH6EBuXBuyu0RozQqGasW47O58_4SNoKslfpyBwcbMo8x5TxGIEmY2jrpmx0mJo7qoob_ilRXvIKAfxVGGebEhAz9keW_ekt6Y0GJ5-DaISJGhROyMqLAfF2mG3By27d7oD_XTEZtA",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/117037419039156195277/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Birhana Road, The Mall, General Ganj, Kanpur"
+   },
+   "status" : "OK"
+}

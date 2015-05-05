@@ -1,0 +1,139 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "55/8, Canning Street, Chitpur",
+            "short_name" : "55/8, Canning Street, Chitpur",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Barabazar Market",
+            "short_name" : "Barabazar Market",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700001",
+            "short_name" : "700001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e55/8, Canning Street, Chitpur\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBarabazar Market\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "55/8, Canning Street, Chitpur, Barabazar Market, Kolkata, West Bengal 700001, India",
+      "formatted_phone_number" : "033 2235 4083",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.576608,
+            "lng" : 88.35402499999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "4f0cc469b8f99914663a95a41f3697e200100951",
+      "international_phone_number" : "+91 33 2235 4083",
+      "name" : "Regal Plastics",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 7:00 pm",
+            "Tuesday: 10:00 am – 7:00 pm",
+            "Wednesday: 10:00 am – 7:00 pm",
+            "Thursday: 10:00 am – 7:00 pm",
+            "Friday: 10:00 am – 7:00 pm",
+            "Saturday: 10:00 am – 7:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJe6yzIVN2AjoR8pVIMQq2r3g",
+      "reference" : "CnRhAAAAluZYEnICi0OMvkNGV4a_QIRLONHgQ8Jr07dX7BmWHBfu-PlXBhznqE3yVUIZ6-rhmE4Zay7ZorayEeVXEVEON3ou09TXJTF1At_DtB7SMiVYieFlHLz9CVKoZelj9A52KKPGDZBs49Ppll6V9ZIjjRIQDgWfDxBqR68KmRHFwEV8hBoUJiU06uR54N3nJidQV9_cg_W44hQ",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/100805678247373361249/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "55/8, Canning Street, Chitpur, Barabazar Market, Kolkata"
+   },
+   "status" : "OK"
+}

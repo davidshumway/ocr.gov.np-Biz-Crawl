@@ -1,0 +1,147 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "12 A",
+            "short_name" : "12 A",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "G.T. Rd, University Road",
+            "short_name" : "G.T. Rd, University Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Lakhanpur",
+            "short_name" : "Lakhanpur",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Khyora",
+            "short_name" : "Khyora",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208024",
+            "short_name" : "208024",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "12 A, \u003cspan class=\"street-address\"\u003eG.T. Rd, University Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eLakhanpur, Khyora\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208024\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "12 A, G.T. Rd, University Road, Lakhanpur, Khyora, Kanpur, Uttar Pradesh 208024, India",
+      "formatted_phone_number" : "0512 326 5493",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.492292,
+            "lng" : 80.28205199999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "cfe29e3a012cf648e2459886713aa450fe21b1d7",
+      "international_phone_number" : "+91 512 326 5493",
+      "name" : "Vinyaltech Traders",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 9:00 pm",
+            "Tuesday: Closed",
+            "Wednesday: 10:00 am – 9:00 pm",
+            "Thursday: 10:00 am – 9:00 pm",
+            "Friday: 10:00 am – 9:00 pm",
+            "Saturday: 10:00 am – 9:00 pm",
+            "Sunday: 10:00 am – 9:00 pm"
+         ]
+      },
+      "place_id" : "ChIJoUTCYyE4nDkRnLiFhH2ps9U",
+      "reference" : "CnRmAAAAos1KW5V2CFrOIgXx6AN-dvGpAIFGmMIxrm_D9P20wj0T4Ns-NuBniZt99v8iojaRxW4BBUdN4cR6uvJ69Jlq_2-7ZS6-hTkT6gv_I2EpROm5Do7xfBj4JjScEBrw-TIVDGAUet-6gi2O6KNAiCfMORIQtIelvfR_Hq8gAt2VzygzcRoUHmBSJIjJsUXSqFVqFfsSULFP1LU",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "establishment" ],
+      "url" : "https://plus.google.com/111654089876073293670/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "12 A, G.T. Rd, University Road, Lakhanpur, Khyora, Kanpur"
+   },
+   "status" : "OK"
+}

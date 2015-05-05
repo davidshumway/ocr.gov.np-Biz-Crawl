@@ -1,0 +1,67 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700102",
+            "short_name" : "700102",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "97/1, Foreshore Road, Shapur, How, \u003cspan class=\"street-address\"\u003eForeshore Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700102\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "97/1, Foreshore Road, Shapur, How, Foreshore Road, Kolkata, West Bengal 700102, India",
+      "formatted_phone_number" : "033 2678 7250",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.55354,
+            "lng" : 88.30393100000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+      "id" : "c46396269807d693cefed45f7dbbee428ddfb804",
+      "international_phone_number" : "+91 33 2678 7250",
+      "name" : "Grewal Auto Service",
+      "place_id" : "ChIJe6yzIVN2AjoRBQf0VQh-cw8",
+      "reference" : "CnRmAAAA7AQ2xkGFXXQL_rUXHBIcpVvGYH-Mg5EPrlTehJBu9irk5DV14BPpPPDwiyqu8qNEZ6bF75LE2T8DagIaKuRrh_xZsZgLEVvqnCS5H41Pi9HIdlLhwZC5xManXrsaeWmSARmeZ3BsOmBA5KaYAcHFcxIQaksuidDF2p6Oy0GrJFLJ8xoUlA2GzH6ZrjDQQ60ytBVFOViGpYQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Manjit Grewal",
+            "author_url" : "https://plus.google.com/109866189263719902807",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1359345388
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "gas_station", "establishment" ],
+      "url" : "https://plus.google.com/101082587444396560683/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "97/1, Foreshore Road, Shapur, How, Foreshore Road, Kolkata"
+   },
+   "status" : "OK"
+}

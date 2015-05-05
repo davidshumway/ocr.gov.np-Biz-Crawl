@@ -1,0 +1,85 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Phooli",
+            "short_name" : "Phooli",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Ghazipur",
+            "short_name" : "Ghazipur",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "232329",
+            "short_name" : "232329",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003ePhooli\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e232329\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Phooli, Uttar Pradesh 232329, India",
+      "formatted_phone_number" : "1800 11 2011",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.433432,
+            "lng" : 83.62222800000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "685fe377206ac87b02271be1867688f068469c05",
+      "international_phone_number" : "+91 1800 11 2011",
+      "name" : "Post Office",
+      "place_id" : "ChIJNyyED3f-jTkR4-bMl7DQQns",
+      "reference" : "CmReAAAAIJF3Y_zqSxtHm8cOwycuRNK6biTNGL4orym2_IztJG2nqO3lnIfkUOvO8bpIvcihS9c2a7ApSUGK-dcc7z3ZPkjftrRSKIgbNocYEkUr7GPwYzbSUi4zfXM0lAi7NFo-EhDpMiOl7YDpvIhp90HHkdhKGhT7XT_tKObrdR5zR0H6unNYeFQYKg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Rajesh Singh",
+            "author_url" : "https://plus.google.com/102950416677395266869",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "R N YADAV MARG",
+            "time" : 1389078310
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "NAWNEET SINGH",
+            "author_url" : "https://plus.google.com/104440895310510542873",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "",
+            "time" : 1414687135
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "post_office", "finance", "establishment" ],
+      "url" : "https://plus.google.com/104304056981171468954/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "Phooli",
+      "website" : "http://www.indiapost.gov.in/"
+   },
+   "status" : "OK"
+}

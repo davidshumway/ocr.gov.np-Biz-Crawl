@@ -1,0 +1,141 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700089",
+            "short_name" : "700089",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "190, Lake Town, \u003cspan class=\"street-address\"\u003eLake Town\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700089\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "190, Lake Town, Lake Town, Kolkata, West Bengal 700089, India",
+      "formatted_phone_number" : "033 2521 0842",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.609569,
+            "lng" : 88.403131
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+      "id" : "47c046b4a8bff29b5e5f56a0e52a6b66811814a5",
+      "international_phone_number" : "+91 33 2521 0842",
+      "name" : "Deco World",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 10:00 am – 9:00 pm",
+            "Wednesday: 10:00 am – 9:00 pm",
+            "Thursday: 10:00 am – 9:00 pm",
+            "Friday: 10:00 am – 9:00 pm",
+            "Saturday: 10:00 am – 9:00 pm",
+            "Sunday: 10:00 am – 9:00 pm"
+         ]
+      },
+      "place_id" : "ChIJd_ElRPt1AjoRnJaq2TDn9m8",
+      "reference" : "CmRdAAAA8Luf1GCABgmrVwndAzipGBWmytzOB3L7h_jMVMhVhTS7-oJ3gRI92zPwKkMcOvSKoVlab_vxBy1Lb_ZRD9rzXSZ0_9sqecW1VjM08HB7OSNinB9dmWHr7vZsw8IrhckjEhB-JMh6SuOsEynrlyzYW6aYGhTo7R5SigdLGLjUztQiBDcaQMdwmA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Prosenjit Mondal",
+            "author_url" : "https://plus.google.com/114240720160038596023",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1419580388
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "electronics_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/111677041838294298776/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "190, Lake Town, Lake Town, Kolkata"
+   },
+   "status" : "OK"
+}

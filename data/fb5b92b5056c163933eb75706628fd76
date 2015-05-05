@@ -1,0 +1,81 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "27",
+            "short_name" : "27",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Princep Street",
+            "short_name" : "Princep St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Chowringhee North",
+            "short_name" : "Chowringhee North",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Bow Barracks",
+            "short_name" : "Bow Barracks",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700072",
+            "short_name" : "700072",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e27, Princep Street\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eChowringhee North, Bow Barracks\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700072\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "27, Princep Street, Chowringhee North, Bow Barracks, Kolkata, West Bengal 700072, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.567808,
+            "lng" : 88.35480699999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "61d4249f1fef5ee18bb22bdb5156934a17b54168",
+      "name" : "Kohinoor Engineering Company",
+      "photos" : [
+         {
+            "height" : 125,
+            "html_attributions" : [],
+            "photo_reference" : "CnRmAAAAjiPUK3sXfix1JueMN2eHDbF5FSiG5l3qEE482AVWGjpVyAOFbOoYnRtvpEyocAZ7Q5BUMBjg-StI1tWTLSyKogLPubD8S3pD6RJYw2EIvsBXTlQ05pJEmChfcYAq2c_ntS-KyS0zzOQllRuz2taO3xIQ-eIivvTg-FHe4EsFGLUXaBoUzCbA2bxAGt4tVFKD3ORG04c_9JQ",
+            "width" : 141
+         }
+      ],
+      "place_id" : "ChIJQ3xVlKh3AjoRLPdIc-W7JWQ",
+      "reference" : "CnRvAAAAyhndsNji1SCufg7I-yJxhnJh0ob3q5pbs5mTzxV3Q0LA1t5fbc5t_lq8liqx5CbZtljsBSHkFDzYapRRcxAyDJ_-4rGrWgN-n0wrHAnrgcrI1AVATWIKGgvP-zZcEVG8hra38eX17wfsfKaujz_2UxIQvp6M0fR1ZiRQolOEZkP7YxoU9kxL0UPQUdRdXGFRRicM4bpQevE",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/110509304208922405160/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "27, Princep Street, Chowringhee North, Bow Barracks, Kolkata"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,80 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Diagonal Road",
+            "short_name" : "Diagonal Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bistupur",
+            "short_name" : "Bistupur",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Jamshedpur",
+            "short_name" : "Jamshedpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "East Singhbhum",
+            "short_name" : "East Singhbhum",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Jharkhand",
+            "short_name" : "JH",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "831001",
+            "short_name" : "831001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eDiagonal Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBistupur\u003c/span\u003e, \u003cspan class=\"locality\"\u003eJamshedpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eJharkhand\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e831001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Diagonal Road, Bistupur, Jamshedpur, Jharkhand 831001, India",
+      "formatted_phone_number" : "0657 230 5497",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.790952,
+            "lng" : 86.183609
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "fe10155ddb14f3aeae9f2e088f32c4129efe0f3e",
+      "international_phone_number" : "+91 657 230 5497",
+      "name" : "Jatin Motors",
+      "place_id" : "ChIJp4cAu2fj9TkR-O82AofH4vg",
+      "reference" : "CmRgAAAA2VqQ1NRMDY9a0fuAUI5u9a_aUzdHD2huvqjosVaAcvlsBrVVhi7z5iPuGPdPIyqfcOfmcAraJMJ9VYF8iM3rHmHRKfcF67NL9ext2qcJohVdGvY1kzrulV-JesVObU8sEhBnhFmMRgF54PHoi3qSjeXvGhRas_KCFF6FNXgbzc77DPy6nW0oFg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Jatin Singh",
+            "author_url" : "https://plus.google.com/101208212542381402443",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1403029261
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/113635027693985294217/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Diagonal Road, Bistupur, Jamshedpur"
+   },
+   "status" : "OK"
+}

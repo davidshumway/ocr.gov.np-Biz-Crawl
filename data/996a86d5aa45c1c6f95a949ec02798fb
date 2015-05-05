@@ -1,0 +1,145 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "24/12",
+            "short_name" : "24/12",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Mall Road",
+            "short_name" : "Mall Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Mall Road Chouraha",
+            "short_name" : "Mall Road Chouraha",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "General Ganj",
+            "short_name" : "General Ganj",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208001",
+            "short_name" : "208001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e24/12, Mall Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eMall Road Chouraha, General Ganj\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "24/12, Mall Road, Mall Road Chouraha, General Ganj, Kanpur, Uttar Pradesh 208001, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.464501,
+            "lng" : 80.358603
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "339308be05c8d401d90c95f37444bc68b3caf1ef",
+      "name" : "Vrindavan Bhavan",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1100"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 11:00 am – 8:00 pm",
+            "Tuesday: 11:00 am – 8:00 pm",
+            "Wednesday: 11:00 am – 8:00 pm",
+            "Thursday: 11:00 am – 8:00 pm",
+            "Friday: 11:00 am – 8:00 pm",
+            "Saturday: 11:00 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJk1J3y1ZHnDkRt_7aSYXDDg0",
+      "reference" : "CnRjAAAAcmuUemTqBnIMDzuWhSaNp4qAhpROGaI2u8q1yfJh8z754X50HABvHmsNBkbo6U37ULRT_ee5YS9Wf2aGSFYmbPvNkEMqqKeif3yoagohTtsuMBuy1bJbSCAUufquElirR_yj4hWB0iYdRFUPMt4DoRIQNzR9os0iN1PO6yQXoxcMOhoUYOL7-jM2-UGG9rN7HBpRgKsyzWw",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/115334892395021771802/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "24/12, Mall Road, Mall Road Chouraha, General Ganj, Kanpur"
+   },
+   "status" : "OK"
+}

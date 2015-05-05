@@ -1,0 +1,81 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Faizabad Road",
+            "short_name" : "Faizabad Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Chinhat",
+            "short_name" : "Chinhat",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Lucknow",
+            "short_name" : "Lucknow",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Lucknow",
+            "short_name" : "Lucknow",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "227105",
+            "short_name" : "227105",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Near Petrol Pump, \u003cspan class=\"street-address\"\u003eFaizabad Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eChinhat\u003c/span\u003e, \u003cspan class=\"locality\"\u003eLucknow\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e227105\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Near Petrol Pump, Faizabad Road, Chinhat, Lucknow, Uttar Pradesh 227105, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.884572,
+            "lng" : 81.04825200000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "badb3dfa5d851076f27a08ee4db152f9ec17ea16",
+      "name" : "Sri Mohan Apartment",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "open" : {
+                  "day" : 0,
+                  "time" : "0000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+         ]
+      },
+      "place_id" : "ChIJBXVQGXTimzkR5ySwryyn6k4",
+      "reference" : "CnRmAAAAP497QxwGFna5bPuKhTZLCOI1sgNCFkSESreNaOOjeuFpZyJCM-NG4y9L37pzYCpAYoQACn7FlKa292y1PbLOgjEg0TUJz5rcGYyZpOhwgoLDZ_iKc3by-27htI-6r5AdDXUkn8kj5naLOtnAmJip2hIQxmIZCBqHZdrl1q0M-ad-aRoU8pVCLFHJspH_OUDIRZ1LI_2XxjY",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/114752273874356081902/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Near Petrol Pump, Faizabad Road, Chinhat, Lucknow"
+   },
+   "status" : "OK"
+}

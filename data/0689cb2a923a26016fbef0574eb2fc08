@@ -1,0 +1,130 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Gurudwara Road",
+            "short_name" : "Gurudwara Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "ShalBagan",
+            "short_name" : "ShalBagan",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Benachity",
+            "short_name" : "Benachity",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Durgapur",
+            "short_name" : "Durgapur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bardhaman",
+            "short_name" : "Bardhaman",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "713213",
+            "short_name" : "713213",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eGurudwara Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eShalBagan, Benachity\u003c/span\u003e, \u003cspan class=\"locality\"\u003eDurgapur\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e713213\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Gurudwara Road, ShalBagan, Benachity, Durgapur, West Bengal 713213, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 23.561558,
+            "lng" : 87.279612
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "aa38534edf61d4d63015d2a4f95994e1a7cb606e",
+      "name" : "Ghosh Hardware",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0830"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:30 am – 2:00 pm",
+            "Tuesday: 8:30 am – 2:00 pm",
+            "Wednesday: 8:30 am – 2:00 pm",
+            "Thursday: 8:30 am – 2:00 pm",
+            "Friday: 8:30 am – 2:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJB-WjhpJt9zkRBhN-hAirHhE",
+      "reference" : "CnRhAAAAv-I_5758p07jIegkSfZLuZ6EFWI5_nFYw2ZVDTt7o91dkaRz7S63bqsko0uBKJKvyitpJV1EkajohVLJkwR4JeNPzmj8ue-AgTj0DOMuxRVDFIBHa1V7ZWUtB9TwEDaPDTjFz7RYsPBRbyPCD7oFXBIQS2cRDgnsj0e9mtiuB0gUOBoUrstlK-sl4gaSpsrNmz5hSnC2zKo",
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/115210429127979378904/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Gurudwara Road, ShalBagan, Benachity, Durgapur"
+   },
+   "status" : "OK"
+}

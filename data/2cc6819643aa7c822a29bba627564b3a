@@ -1,0 +1,147 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "25B",
+            "short_name" : "25B",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "Chandni Chowk Street",
+            "short_name" : "Chandni Chowk St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Chandni Chawk",
+            "short_name" : "Chandni Chawk",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Bowbazar",
+            "short_name" : "Bowbazar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700072",
+            "short_name" : "700072",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "25B, \u003cspan class=\"street-address\"\u003eChandni Chowk Street\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eChandni Chawk, Bowbazar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700072\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "25B, Chandni Chowk Street, Chandni Chawk, Bowbazar, Kolkata, West Bengal 700072, India",
+      "formatted_phone_number" : "033 2237 9039",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.56596,
+            "lng" : 88.355441
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "3f3fe19e15d709d59d100180c39bf4b0aad29371",
+      "international_phone_number" : "+91 33 2237 9039",
+      "name" : "Fancy Material Paradise",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJe3xVlKh3AjoRwHbbrrUEhDE",
+      "reference" : "CnRqAAAA_hERyDs7-8KtJ0vhhBI0fxFpJ0AJDVAnnlYomSXv2VzBcyYHhd9z4tdypx-A3SxXve44e9qfvZliAJX_tKWPh9NenNiMQsCnWRUtngAz1V9mxPxr8DAFRuxb4Dpg0tsfnmqSI4H1B02WjyJFZCPbDxIQ_RbBX0XkgPYwIHhk1Z3BMRoUwkWrMhTnnv7MbDW8uFyDigCp2Cw",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/114348937515144983845/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "25B, Chandni Chowk Street, Chandni Chawk, Bowbazar, Kolkata"
+   },
+   "status" : "OK"
+}

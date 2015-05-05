@@ -1,0 +1,126 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Ghatsila",
+            "short_name" : "Ghatsila",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "East Singhbhum",
+            "short_name" : "East Singhbhum",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Jharkhand",
+            "short_name" : "JH",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "832103",
+            "short_name" : "832103",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eGhatsila\u003c/span\u003e, \u003cspan class=\"region\"\u003eJharkhand\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e832103\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Ghatsila, Jharkhand 832103, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.586161,
+            "lng" : 86.477199
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "6d3c48893272e75092652c48f3e43851fee4dba2",
+      "name" : "Bata store",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 10:00 pm",
+            "Tuesday: 10:00 am – 10:00 pm",
+            "Wednesday: 10:00 am – 10:00 pm",
+            "Thursday: 10:00 am – 10:00 pm",
+            "Friday: 10:00 am – 10:00 pm",
+            "Saturday: 10:00 am – 10:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJs8sMdIsd9jkRgiiz20avnN0",
+      "reference" : "CmReAAAAdMQA8MLqSGbrv4W9m9xMykT7XrMpcf3mu2CO3HXnUHTdNOnE_rEqODZI8uZN4kMdgbZz5u8_ubKeIciePWu0OT5GWLeqLPO5DaNV_xP027YEBu3RxvpTlP3YRQK2MBBjEhAtWXd89UT9Ru4FRoLFM2mFGhSSn3fmgZuYEYJMXt9VywQWfFdEhg",
+      "scope" : "GOOGLE",
+      "types" : [ "shoe_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/111838330848769450607/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Ghatsila",
+      "website" : "http://www.bata.in/"
+   },
+   "status" : "OK"
+}

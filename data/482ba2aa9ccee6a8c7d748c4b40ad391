@@ -1,0 +1,84 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Shakespeare Sarani Road",
+            "short_name" : "Shakespeare Sarani Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Kankaria Estates",
+            "short_name" : "Kankaria Estates",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Park Street area",
+            "short_name" : "Park Street area",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700071",
+            "short_name" : "700071",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "8, \u003cspan class=\"street-address\"\u003eShakespeare Sarani Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eKankaria Estates, Park Street area\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700071\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "8, Shakespeare Sarani Road, Kankaria Estates, Park Street area, Kolkata, West Bengal 700071, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.545455,
+            "lng" : 88.35008999999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "8f58a6cd9f788f7dbd94e2c3662a840b5565cf91",
+      "name" : "Sri Aurobindo Bhavan",
+      "place_id" : "ChIJJyEbLBd3AjoRBLEjZRtTTtk",
+      "reference" : "CnRoAAAA5ZfIt3AMLKQb-PLIoKjgzD9dSFIb3abs8ZGn5wdAHH8VkDI4-VDALr38-7BVLUelRV0aLcmJ45_qzd4RwgAs1JTKUJPZsfi2YrIV1xWoqPzX2m4OsU4eGtpQrDsDHGFmgxbWRu0MRqOVsu7jpOCePRIQfDku5sDu3HRBLsGVNTRzgBoUk_6ft-c48UpgvcYUx_y0jaMzC-k",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Soumya Bhattacharya",
+            "author_url" : "https://plus.google.com/105157583526835497545",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1414523291
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "book_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/111636408574103999786/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "8, Shakespeare Sarani Road, Kankaria Estates, Park Street area, Kolkata",
+      "website" : "http://www.sriaurobindobhavankolkata.org/departments.htm"
+   },
+   "status" : "OK"
+}

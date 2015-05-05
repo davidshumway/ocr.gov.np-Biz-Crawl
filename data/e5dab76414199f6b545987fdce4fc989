@@ -1,0 +1,142 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "MDR",
+            "short_name" : "MDR",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Khutehi",
+            "short_name" : "Khutehi",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Rewa",
+            "short_name" : "Rewa",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Rewa",
+            "short_name" : "Rewa",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Madhya Pradesh",
+            "short_name" : "MP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "486002",
+            "short_name" : "486002",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eMDR\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eKhutehi\u003c/span\u003e, \u003cspan class=\"locality\"\u003eRewa\u003c/span\u003e, \u003cspan class=\"region\"\u003eMadhya Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e486002\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "MDR, Khutehi, Rewa, Madhya Pradesh 486002, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 24.549014,
+            "lng" : 81.30720599999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "afafe626709490f63410ec54e4093d9254ff30cb",
+      "name" : "Little Auto Parts and Little Mobile",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 10:00 pm",
+            "Tuesday: 9:00 am – 10:00 pm",
+            "Wednesday: 9:00 am – 10:00 pm",
+            "Thursday: 9:00 am – 10:00 pm",
+            "Friday: 9:00 am – 10:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJkfjdfiVahDkRJvQyApH9ons",
+      "reference" : "CoQBdgAAAP1XWpYIike0lwGzPPlFT8dhi18Gx1pq5S-6XCU7pe2uyIBOrZRp2P6jItKg7RmNYv8Z1KdTITlzf-GE0DjCMBsfvLsc05zJsxWg1ZuLh1nnNApKZHo6yl-swvtE-D9jof-8GfJtKt4hfw2B3pjYZMgIRPURJO5Tb23QZsVdy2hxEhBT8IJgpcLRN5H4o0EBpZPwGhSIugZSqzYr0Xzg121hhBgZmjdzog",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Akshat Shrivastava",
+            "author_url" : "https://plus.google.com/110824428508018774023",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1373483154
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/104959816246750720392/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "MDR, Khutehi, Rewa"
+   },
+   "status" : "OK"
+}

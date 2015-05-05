@@ -1,0 +1,163 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1",
+            "short_name" : "1",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Alba Colony",
+            "short_name" : "Alba Colony",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Phulwari Sharif",
+            "short_name" : "Phulwari Sharif",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Patna",
+            "short_name" : "Patna",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Patna",
+            "short_name" : "Patna",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "801505",
+            "short_name" : "801505",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e1\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eAlba Colony, Phulwari Sharif\u003c/span\u003e, \u003cspan class=\"locality\"\u003ePatna\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e801505\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "1, Alba Colony, Phulwari Sharif, Patna, Bihar 801505, India",
+      "formatted_phone_number" : "093341 19919",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.573092,
+            "lng" : 85.07605700000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "96906d5790ab8b48c00d2f1dae8bd1167b1d8c72",
+      "international_phone_number" : "+91 93341 19919",
+      "name" : "Alba Enclave",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 5:00 pm",
+            "Tuesday: 10:00 am – 5:00 pm",
+            "Wednesday: 10:00 am – 5:00 pm",
+            "Thursday: 10:00 am – 5:00 pm",
+            "Friday: 10:00 am – 5:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ3_W67SWo8jkRLCmUl9Sa1Cc",
+      "reference" : "CmRfAAAAHW6JCrsh5VkfXaHuVTtehNtv99rhucJO8K_K-HRum7k8PJFz3eMCr_dzYj8LZ8_eNT34M12XXOuLbUlXtaSUMcAfT8l-_NbCeY8UZo9wqXw2mdZop8IxmYs8ZtDh999REhA-nCmTsFn7uUDaWSgyxUfnGhRQigCMAqJ6tI6_0sCU7GGv8NLfkw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "sami alam",
+            "author_url" : "https://plus.google.com/118257920261123048992",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1425980091
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Md. Intekhab",
+            "author_url" : "https://plus.google.com/108114985956301694519",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "",
+            "time" : 1387613594
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/101651892826808959075/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "1, Alba Colony, Phulwari Sharif, Patna"
+   },
+   "status" : "OK"
+}

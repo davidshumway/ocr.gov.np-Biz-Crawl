@@ -1,0 +1,142 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Hospital Road",
+            "short_name" : "Hospital Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Qarol Para",
+            "short_name" : "Qarol Para",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Mantola",
+            "short_name" : "Mantola",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Agra",
+            "short_name" : "Agra",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Agra",
+            "short_name" : "Agra",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "282003",
+            "short_name" : "282003",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eHospital Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eQarol Para, Mantola\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAgra\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e282003\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Hospital Road, Qarol Para, Mantola, Agra, Uttar Pradesh 282003, India",
+      "formatted_phone_number" : "099979 55399",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.186165,
+            "lng" : 78.011318
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "2ff691b436b4730bd1e9c104755938fd394052eb",
+      "international_phone_number" : "+91 99979 55399",
+      "name" : "Rachna Art",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 9:00 am – 8:00 pm",
+            "Wednesday: 9:00 am – 8:00 pm",
+            "Thursday: 9:00 am – 8:00 pm",
+            "Friday: 9:00 am – 8:00 pm",
+            "Saturday: 9:00 am – 8:00 pm",
+            "Sunday: 9:00 am – 8:00 pm"
+         ]
+      },
+      "place_id" : "ChIJkxvhzTF3dDkRyKUyj9ZudDM",
+      "reference" : "CmRdAAAAQt6Y8wdLTxIx_uOapey35skTbHANvBjU2DheYmSohhzl38scSXaN6LdHyIrpscWWkL8Of1u-zCD-_i0NXToZybmKKRfPYbHmaSO3wguk2njMjfkTd27VWYEER_IwfCKOEhAHGTmIuVYDaLlJbe6faW9wGhR8PWaaTvKA-DmYk92i95YqsuwPYQ",
+      "scope" : "GOOGLE",
+      "types" : [ "painter", "store", "establishment" ],
+      "url" : "https://plus.google.com/112227838060590186052/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Hospital Road, Qarol Para, Mantola, Agra"
+   },
+   "status" : "OK"
+}

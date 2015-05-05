@@ -1,0 +1,75 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Rangpur Road",
+            "short_name" : "Rangpur Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Kalitola",
+            "short_name" : "Kalitola",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Bogra",
+            "short_name" : "Bogra",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bogra",
+            "short_name" : "Bogra",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Rajshahi Division",
+            "short_name" : "Rajshahi Division",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Bangladesh",
+            "short_name" : "BD",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eRangpur Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBogra\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eBangladesh\u003c/span\u003e",
+      "formatted_address" : "Rangpur Road, Bogra, Bangladesh",
+      "formatted_phone_number" : "051-64207",
+      "geometry" : {
+         "location" : {
+            "lat" : 24.856845,
+            "lng" : 89.37242999999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "0b036be13014400550b98e99082f95096b914c1d",
+      "international_phone_number" : "+880 51-64207",
+      "name" : "Jagoran Motors",
+      "place_id" : "ChIJSchpdR1V_DkRuqQvr8DjGmY",
+      "reference" : "CnRhAAAAcRyqW82UkS8HYe8EDyz7RUIThCoFAkqaL6CI4Sdp59LsF_RBgpf3ooaLkvlr0ja01hB3RFTCOhEBAaAnMzn2MyYHMI89meTkIgA3_WIRO-19PxjGh1ECNsM5ifovrjlGAivLRAbBoKOm0yA6eAklwBIQTXUP8QVPTWOiW8ky1Zi6yxoU4qCulMyIBUZ4QD6kk84qOtuPtww",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Md. Alauddin Akash",
+            "author_url" : "https://plus.google.com/109786606293998783175",
+            "language" : "en",
+            "rating" : 5,
+            "text" : " Borogola",
+            "time" : 1388776679
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/105926763047392614299/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 360,
+      "vicinity" : "Rangpur Road, Bogra"
+   },
+   "status" : "OK"
+}

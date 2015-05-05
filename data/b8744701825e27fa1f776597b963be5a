@@ -1,0 +1,105 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Tangail",
+            "short_name" : "Tangail",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Dhaka Division",
+            "short_name" : "Dhaka Division",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Bangladesh",
+            "short_name" : "BD",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "Tangail, \u003cspan class=\"country-name\"\u003eBangladesh\u003c/span\u003e",
+      "formatted_address" : "Tangail, Bangladesh",
+      "geometry" : {
+         "location" : {
+            "lat" : 24.237619,
+            "lng" : 89.890826
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "3d97db189ad82b06be49d8f550fdf3490ecfe63b",
+      "name" : "MBSTU New Academic Building",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 am – 5:00 pm",
+            "Tuesday: 8:00 am – 5:00 pm",
+            "Wednesday: 8:00 am – 5:00 pm",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 8:00 am – 5:00 pm",
+            "Sunday: 8:00 am – 5:00 pm"
+         ]
+      },
+      "place_id" : "ChIJ27Gicn_8_TkRYfJncuswh3Q",
+      "reference" : "CnRuAAAA8ylyyGJxKkq8x9E5FCeLhBEAPwHlAr6vHvOSkS53rMyuTJHcm-Zwp9rZdIi-4zi4VJYUWTQ_4YuohsbKAMSqj-S-kLrasWK32-XsjYFAFDuFDWwycbk8qGQB1B6HcgQjnZ3XDX4SfOCCeypoO0vm-BIQmYnR4fyg3hO5_m60GZAGyxoU_PA9FBLmN1-5SS4EEsrCF3Vdh9g",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/118318008903212949331/about?hl=en-US",
+      "utc_offset" : 360,
+      "vicinity" : ""
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,76 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Gohail Road",
+            "short_name" : "Gohail Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Khandar",
+            "short_name" : "Khandar",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Bogra",
+            "short_name" : "Bogra",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bogra",
+            "short_name" : "Bogra",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Rajshahi Division",
+            "short_name" : "Rajshahi Division",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Bangladesh",
+            "short_name" : "BD",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eGohail Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBogra\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eBangladesh\u003c/span\u003e",
+      "formatted_address" : "Gohail Road, Bogra, Bangladesh",
+      "formatted_phone_number" : "051-66348",
+      "geometry" : {
+         "location" : {
+            "lat" : 24.839712,
+            "lng" : 89.36917699999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "9a7a1b9e28dbaf242544112c7c807faa93149fa3",
+      "international_phone_number" : "+880 51-66348",
+      "name" : "Cotton Development Board",
+      "place_id" : "ChIJ5ZVvxvFU_DkRDKu5AGC78qM",
+      "reference" : "CnRsAAAAQwzN10R8hUZBPf61iICxgjCyVUzK19azjqBGBT1g-3xBDkqZS1domsfmr2OXaXbA2gjtaqPCcmL4x1aEkRc_m17yGzehlsifo_wkiAK_03ph527lnaDAkKOl1kLWoZBohHTgu6yFI433YCnMA3b9yhIQitIRjwWeOynhwvT-IMrmehoUbj_Uan6PZkTFMmLiIa9dzEkEZnw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Sirajish Salakin Sirajish Salakin",
+            "author_url" : "https://plus.google.com/108522374359438933796",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1383268137
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "local_government_office", "establishment" ],
+      "url" : "https://plus.google.com/116271517890282354237/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 360,
+      "vicinity" : "Gohail Road, Bogra",
+      "website" : "https://cdb.gov.bd/"
+   },
+   "status" : "OK"
+}

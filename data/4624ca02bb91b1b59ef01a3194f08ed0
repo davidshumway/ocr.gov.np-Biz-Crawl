@@ -1,0 +1,150 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "438/21",
+            "short_name" : "438/21",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Kotwali Road",
+            "short_name" : "Kotwali Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Raghav Nagar",
+            "short_name" : "Raghav Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Deoria",
+            "short_name" : "Deoria",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Deoria",
+            "short_name" : "Deoria",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "274001",
+            "short_name" : "274001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e438/21, Kotwali Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eRaghav Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eDeoria\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e274001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "438/21, Kotwali Road, Raghav Nagar, Deoria, Uttar Pradesh 274001, India",
+      "formatted_phone_number" : "05568 229 538",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.501391,
+            "lng" : 83.781319
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "9344aa71a3e213037b91951f1891450897bfb46e",
+      "international_phone_number" : "+91 5568 229 538",
+      "name" : "HDFC Bank",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 5:00 pm",
+            "Tuesday: 9:00 am – 5:00 pm",
+            "Wednesday: 9:00 am – 5:00 pm",
+            "Thursday: 9:00 am – 5:00 pm",
+            "Friday: 9:00 am – 5:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ91CAZD7FkzkR_F6V4MbwpAg",
+      "reference" : "CmRcAAAAVO15oQkFHplWRnUab_7RRH4x4rhARy0Q01zsxu8K5n45DfmlfIGcIjB-HjKrcnq69RzUoA-3IwuUJJ5BpbJ42SwzSngZ2gh7pUKxfpaOluHQMrad9qMWL3rxcVjfNRZ4EhD5akgVTj9Qi06UT8nYiWf0GhRCbt3Kkn5KlIj0Y1GYkWGGUuaYVA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Sushma Bhaskar",
+            "author_url" : "https://plus.google.com/103080939447291047842",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1374586345
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "bank", "finance", "establishment" ],
+      "url" : "https://plus.google.com/113365922197693267580/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "438/21, Kotwali Road, Raghav Nagar, Deoria",
+      "website" : "http://www.hdfcbank.com"
+   },
+   "status" : "OK"
+}

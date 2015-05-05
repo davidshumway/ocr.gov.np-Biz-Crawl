@@ -1,0 +1,149 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "National Highway 75",
+            "short_name" : "NH 75",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Satna",
+            "short_name" : "Satna",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Satna",
+            "short_name" : "Satna",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Madhya Pradesh",
+            "short_name" : "MP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "485441",
+            "short_name" : "485441",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNational Highway 75\u003c/span\u003e, \u003cspan class=\"locality\"\u003eSatna\u003c/span\u003e, \u003cspan class=\"region\"\u003eMadhya Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e485441\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "National Highway 75, Satna, Madhya Pradesh 485441, India",
+      "formatted_phone_number" : "073899 17777",
+      "geometry" : {
+         "location" : {
+            "lat" : 24.578728,
+            "lng" : 80.77539
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "f9f222919486a11f2722297e59281d8a51a1701f",
+      "international_phone_number" : "+91 73899 17777",
+      "name" : "Goel Ashok Leyland",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 7:00 pm",
+            "Tuesday: 10:00 am – 7:00 pm",
+            "Wednesday: 10:00 am – 7:00 pm",
+            "Thursday: 10:00 am – 7:00 pm",
+            "Friday: 10:00 am – 7:00 pm",
+            "Saturday: 10:00 am – 7:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ3STx01CAgzkRIqxKEEwLG_4",
+      "reference" : "CnRmAAAASzpOCDQDkyZmyVOARDB9CQOAwaOeHHq_eXAppvOzXHqj3mYahGBRCwoHFSRdpEXMLA0c7Ak9TgrlRnoJLKCBzClzf6iI2ZQwqECRbWXqAp5YoLoJ0zjO9IG5s3wHsWjCtLw_r-EXq_7QMfe3df1OahIQ2XDqZBYSC6ZVqj9Isab95RoU7U-UfPJphw8gHFl1tLHHZOVcmAQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Yakub Passana",
+            "author_url" : "https://plus.google.com/102097760929047150381",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1402302938
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/111913559992778228648/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "National Highway 75, Satna"
+   },
+   "status" : "OK"
+}

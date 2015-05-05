@@ -1,0 +1,85 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Shahabad",
+            "short_name" : "Shahabad",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "241124",
+            "short_name" : "241124",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Bazaar Road, Mohalla Chowk, \u003cspan class=\"locality\"\u003eShahabad\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e241124\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Bazaar Road, Mohalla Chowk, Shahabad, 241124, India",
+      "formatted_phone_number" : "1800 22 0229",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.64198,
+            "lng" : 79.936666
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "a32c97b32c40429a0118a998ce41060456fe2b81",
+      "international_phone_number" : "+91 1800 22 0229",
+      "name" : "Bank Of India",
+      "photos" : [
+         {
+            "height" : 640,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/104953819814207745505\"\u003eayush verma\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAQCBZBjD1bbKGNLwY3M-5n_MCeZVKEh9ONH3fEM_aG7_qL_U_QF5PKKj8ZFv48nw-b_um-F_7uZn-YF7z5OQFuV9laOAbOwmP599e1ZSAAqLAKqnKP6YoFTmKMsM5Dk6FcjYQCAQ21k1KxWjf_cYfXBIQ-Q53y2eXYEKHm3xq2L9XUhoU9kStOFiLyAw0UNk72x-YzuZcwuQ",
+            "width" : 480
+         }
+      ],
+      "place_id" : "ChIJnwQYcuatnzkRhJJSCna6LBQ",
+      "reference" : "CmRgAAAAJ83E-TR8WQm_29E9l4L4L8Y58lFnRY_xQO9exAYwmXJw5Aa4QllUL56q2eDdil2O-Av93OvVqhaBkJwCWRX19Y6ntbrxHq33Aaf3_1Mqd3sz1Ril_gsHCTulShwH1YzzEhBvj6Ar0QdLyvynudrjNQsBGhSraljB4Ej0fj9ttPsrMx45e4pu3g",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Sumit Kumar",
+            "author_url" : "https://plus.google.com/103297125591297297298",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "Sumit",
+            "time" : 1411291766
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "ayush verma",
+            "author_url" : "https://plus.google.com/104953819814207745505",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1383928345
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "bank", "finance", "establishment" ],
+      "url" : "https://plus.google.com/103777865708576615796/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "Bazaar Road, Mohalla Chowk, Shahabad",
+      "website" : "http://www.bankofindia.co.in"
+   },
+   "status" : "OK"
+}

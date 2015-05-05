@@ -1,0 +1,63 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Patna",
+            "short_name" : "Patna",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Patna",
+            "short_name" : "Patna",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "neema, \u003cspan class=\"locality\"\u003ePatna\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "neema, Patna, Bihar, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.451374,
+            "lng" : 85.088854
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "fac647def6b8437441504f387d9d831eb93406a1",
+      "name" : "Royal Tiles",
+      "place_id" : "ChIJ9xRBhW2v8jkR1M4WHRN5Uak",
+      "reference" : "CmRfAAAAPYU-MOLCRChuh5rdhgYqcCzVXCEjymdg_6Kex90j4jKF_MxnZsIj-gRQpRCnVvKRCjeqLX_9GGtaFJ9iAVW0QmeHnpsLqCIOAHD-qgJGHUXLKsojhkHvrobB5GicKiC-EhC_qE3poaOtmzsdi_kZ429VGhQ2ZA90eox21sP_Q3RQTI2MIPvOwQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Prakash Raj",
+            "author_url" : "https://plus.google.com/105251120087246893586",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1384859919
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/100301681770321887063/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "neema, Patna"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,137 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Kanpur Road",
+            "short_name" : "Kanpur Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Transport Nagar",
+            "short_name" : "Transport Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Lucknow",
+            "short_name" : "Lucknow",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Lucknow",
+            "short_name" : "Lucknow",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "226012",
+            "short_name" : "226012",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eKanpur Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eTransport Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eLucknow\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e226012\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Kanpur Road, Transport Nagar, Lucknow, Uttar Pradesh 226012, India",
+      "formatted_phone_number" : "094157 97734",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.781165,
+            "lng" : 80.887878
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "d70cb3d3cd7324b2fa0c8227282be12863223804",
+      "international_phone_number" : "+91 94157 97734",
+      "name" : "Raja Transport Company",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 8:00 pm",
+            "Tuesday: 9:00 am – 8:00 pm",
+            "Wednesday: 9:00 am – 8:00 pm",
+            "Thursday: 9:00 am – 8:00 pm",
+            "Friday: 9:00 am – 8:00 pm",
+            "Saturday: 9:00 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ02FOC1L5mzkRSnsdm3cRk90",
+      "reference" : "CnRqAAAA2VEaz9WQ4gSLjm6vP8TRfHRkK7J8NG2q_5x_wZnNLGS28UMIwbjcvQ1nUOHsXIxbA4aZSaow3wr5W0cTSQlVGhVRK1jwOksxPJGqEcxQBDMxgWXJN5HbWOVNvFIlruUjoT3INS696Bn8cOaEELVGXBIQkPBorabsfaWl_VIbTKPkVRoUaqK4qpGPkoxyVoIQrTfDnP9Pu1k",
+      "scope" : "GOOGLE",
+      "types" : [ "moving_company", "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/100732299818954354379/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Kanpur Road, Transport Nagar, Lucknow"
+   },
+   "status" : "OK"
+}

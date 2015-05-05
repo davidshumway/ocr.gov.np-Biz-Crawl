@@ -1,0 +1,144 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Ambah Road",
+            "short_name" : "Ambah Road",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "SH 2",
+            "short_name" : "SH 2",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Porsa",
+            "short_name" : "Porsa",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Morena",
+            "short_name" : "Morena",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Madhya Pradesh",
+            "short_name" : "MP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "476115",
+            "short_name" : "476115",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eAmbah Road, SH 2\u003c/span\u003e, \u003cspan class=\"locality\"\u003ePorsa\u003c/span\u003e, \u003cspan class=\"region\"\u003eMadhya Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e476115\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Ambah Road, SH 2, Porsa, Madhya Pradesh 476115, India",
+      "formatted_phone_number" : "075382 53254",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.673019,
+            "lng" : 78.368177
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "778d16754e33204cea9271ca1916086928739fd3",
+      "international_phone_number" : "+91 75382 53254",
+      "name" : "Kalimai Gas Agency",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 4:00 pm",
+            "Tuesday: 10:00 am – 4:00 pm",
+            "Wednesday: 10:00 am – 4:00 pm",
+            "Thursday: 10:00 am – 4:00 pm",
+            "Friday: 10:00 am – 4:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJj7cAdhOedjkRyvuSJQLb88U",
+      "reference" : "CnRmAAAAKY3ZXMCoVi_swgssUSfgeabxSNVCI7muXS0ZNnTfOly_xB1DiMdJDKlF5m2CtXCJWp1-dBVwbxBupuv6BNbNWRJolxfAFcLXUvXmDInxyRRRrBdT4RDYTKf7C2m9IEf-KMWCBfiXlaCcpv_R1gVe0BIQAJ4nIKGMyANOu6McZa8PFxoUD-H6fu1iHUv-Bsjd-CFSFyVriXU",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Kunj Bihari Singhal",
+            "author_url" : "https://plus.google.com/108582588672293142211",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1422939465
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/103805985930293378537/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Ambah Road, SH 2, Porsa"
+   },
+   "status" : "OK"
+}

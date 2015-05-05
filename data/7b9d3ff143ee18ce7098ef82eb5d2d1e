@@ -1,0 +1,154 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "5",
+            "short_name" : "5",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Dhaka - Khulna Highway",
+            "short_name" : "Dhaka - Khulna Hwy",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Jessore",
+            "short_name" : "Jessore",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Jessore",
+            "short_name" : "Jessore",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Khulna Division",
+            "short_name" : "Khulna Division",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Bangladesh",
+            "short_name" : "BD",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "7400",
+            "short_name" : "7400",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "5 Purba Barandi Para, Dhaka Road, \u003cspan class=\"street-address\"\u003e5 Dhaka - Khulna Highway\u003c/span\u003e, \u003cspan class=\"locality\"\u003eJessore\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e7400\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eBangladesh\u003c/span\u003e",
+      "formatted_address" : "5 Purba Barandi Para, Dhaka Road, 5 Dhaka - Khulna Highway, Jessore 7400, Bangladesh",
+      "formatted_phone_number" : "01711-323590",
+      "geometry" : {
+         "location" : {
+            "lat" : 23.163926,
+            "lng" : 89.22234
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "c898f3ce7ea3df9773a7638dd98bba59705957c5",
+      "international_phone_number" : "+880 1711-323590",
+      "name" : "Chowdhury & Sons",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0830"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:30 am – 9:00 pm",
+            "Tuesday: 8:30 am – 9:00 pm",
+            "Wednesday: 8:30 am – 9:00 pm",
+            "Thursday: 8:30 am – 9:00 pm",
+            "Friday: Closed",
+            "Saturday: 8:30 am – 9:00 pm",
+            "Sunday: 8:30 am – 9:00 pm"
+         ]
+      },
+      "place_id" : "ChIJ-ZVFOkIQ_zkRSr1fAxCywAM",
+      "reference" : "CnRjAAAAeUsevCDSVhvxOWJmiw13JhOuJXejwkU0Lv1uZ94qovwXc5Vs24Bst1DYXpgStcck1279WRmEHiedQ-TSxwEndiGRRmukLctlYYZOs4bInRfhbA8mHhNMGWWIPKYgZ3a-MPUMi1gvhnTRYK9c42HdPhIQnQjqbQlT-F8TJX5X39TzGhoUGEXLgzD9RFSpqgaQrZNCtDtNxKc",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Ahamed Chowdhury",
+            "author_url" : "https://plus.google.com/103461407748118020502",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Excellent customer service and wide range of products available to fit your best needs",
+            "time" : 1410116867
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/106568279418651470429/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 360,
+      "vicinity" : "5 Purba Barandi Para, Dhaka Road, 5 Dhaka - Khulna Highway, Jessore"
+   },
+   "status" : "OK"
+}

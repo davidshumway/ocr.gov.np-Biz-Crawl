@@ -1,0 +1,162 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Main Road",
+            "short_name" : "Main Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bara Panchayat",
+            "short_name" : "Bara Panchayat",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Saharsa",
+            "short_name" : "Saharsa",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "852124",
+            "short_name" : "852124",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eMain Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBara Panchayat\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e852124\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Main Road, Bara Panchayat, Bihar 852124, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.929285,
+            "lng" : 86.523957
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "3d17b86c0ec02d585c734c635127f0be00d3fe38",
+      "name" : "Post Office",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0930"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:30 am – 5:00 pm",
+            "Tuesday: 9:30 am – 5:00 pm",
+            "Wednesday: 9:30 am – 5:00 pm",
+            "Thursday: 9:30 am – 5:00 pm",
+            "Friday: 9:30 am – 5:00 pm",
+            "Saturday: 9:30 am – 5:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJwx6tpkAU7jkR2Wfe39APFuY",
+      "reference" : "CmRfAAAA02uRpwMuYWmCoqxd_badINvkvkbcdl_dRDHfJy1p5WnWZFUQzEZrJxAaIGraCyh2mVhl9fvBeYlTpS_1MpTaMbOWblGoV3fk5TZrq9vFsgKei2YCLWuPVHz_2AveVR9JEhBIIx8uYLUn1Ze2FwObPkm8GhRPFXcsPvjwscDxCfDUUKaO7MdEqg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Sanjeet Chaudhary",
+            "author_url" : "https://plus.google.com/108166973113477168367",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "Bad.      Yaaaaa ",
+            "time" : 1359817968
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Amit Thakur",
+            "author_url" : "https://plus.google.com/105991187013755023894",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1359008078
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "post_office", "finance", "establishment" ],
+      "url" : "https://plus.google.com/108948913563965026042/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "Main Road, Bara Panchayat",
+      "website" : "http://www.indiapost.gov.in/"
+   },
+   "status" : "OK"
+}

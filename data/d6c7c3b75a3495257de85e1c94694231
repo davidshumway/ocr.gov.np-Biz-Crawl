@@ -1,0 +1,78 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "State Highway 23",
+            "short_name" : "SH 23",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Tilkamanjhi",
+            "short_name" : "Tilkamanjhi",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Bhagalpur",
+            "short_name" : "Bhagalpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bhagalpur",
+            "short_name" : "Bhagalpur",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "812002",
+            "short_name" : "812002",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eState Highway 23\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eTilkamanjhi\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBhagalpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e812002\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "State Highway 23, Tilkamanjhi, Bhagalpur, Bihar 812002, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.234789,
+            "lng" : 86.97374000000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "f7bbbd4e08ecdd2bf38639c9d131fd50c5012925",
+      "name" : "Axis Bank ATM",
+      "place_id" : "ChIJD41aixlK8DkRUK3XW-psfzE",
+      "reference" : "CmRgAAAA-HOHUgZU4Z0inKzdZ0mbJ8_wOE76xg4E6D8P4tjENZ9oue88JnC-kLe-RYk-xFFfpEEGEzsn-qmQOhlw7XVf70or4HjnyMx6nJTPzuyhsd9QFuhzppUQh838aFJU52NrEhAY5n3pS8VcqlN26QMsUhkNGhTi2ouiAFnI3ARzC5Y6rK-G8Jpm3g",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1369931379
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "atm", "finance", "establishment" ],
+      "url" : "https://plus.google.com/117382816141347792216/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "State Highway 23, Tilkamanjhi, Bhagalpur",
+      "website" : "http://www.axisbank.com/"
+   },
+   "status" : "OK"
+}

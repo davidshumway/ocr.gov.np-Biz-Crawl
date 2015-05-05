@@ -1,0 +1,152 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "L - 1",
+            "short_name" : "L - 1",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "130/83",
+            "short_name" : "130/83",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Bagahi",
+            "short_name" : "Bagahi",
+            "types" : [ "sublocality_level_3", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "T.P Nagar",
+            "short_name" : "T.P Nagar",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kidwai Nagar",
+            "short_name" : "Kidwai Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208023",
+            "short_name" : "208023",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "L - 1, \u003cspan class=\"street-address\"\u003e130/83\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBagahi, T.P Nagar, Kidwai Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208023\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "L - 1, 130/83, Bagahi, T.P Nagar, Kidwai Nagar, Kanpur, Uttar Pradesh 208023, India",
+      "formatted_phone_number" : "098387 98197",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.436467,
+            "lng" : 80.339855
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "42abea5b0fa31aec9353237b769b44f7313b863a",
+      "international_phone_number" : "+91 98387 98197",
+      "name" : "Regal Motor",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 9:00 pm",
+            "Tuesday: Closed",
+            "Wednesday: 10:00 am – 9:00 pm",
+            "Thursday: 10:00 am – 9:00 pm",
+            "Friday: 10:00 am – 9:00 pm",
+            "Saturday: 10:00 am – 9:00 pm",
+            "Sunday: 10:00 am – 9:00 pm"
+         ]
+      },
+      "place_id" : "ChIJzRVtHBdHnDkRCvhs04URJK4",
+      "reference" : "CmRfAAAA9yF8Wt-yu8n_10jB1mWcGA6B_fVZzq_tsYfs8mqmmfFlFIcdsIvlHd0CbMmmDEoShe3awN99MycyHfIMP4IaHaiJ8859ESVXiSCovatO0GqfwYlfn3-_Jf8VCjRKRD_AEhA4D0nmL97ltoFOg3aWgRoCGhTet2VGT2ax9uB5rbyMricPSi-hlQ",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/104482772263224817542/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "L - 1, 130/83, Bagahi, T.P Nagar, Kidwai Nagar, Kanpur"
+   },
+   "status" : "OK"
+}

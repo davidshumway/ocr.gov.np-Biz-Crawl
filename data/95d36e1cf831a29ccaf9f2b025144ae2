@@ -1,0 +1,85 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Bina",
+            "short_name" : "Bina",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Sonbhadra",
+            "short_name" : "Sonbhadra",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Madhya Pradesh",
+            "short_name" : "MP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "231220",
+            "short_name" : "231220",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eBina\u003c/span\u003e, \u003cspan class=\"region\"\u003eMadhya Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e231220\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Bina, Madhya Pradesh 231220, India",
+      "formatted_phone_number" : "05446 276 077",
+      "geometry" : {
+         "location" : {
+            "lat" : 24.147163,
+            "lng" : 82.770824
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "9d2196df8e89ee38ca0ae65640a388a3ad8e9e00",
+      "international_phone_number" : "+91 5446 276 077",
+      "name" : "Union Bank Of India",
+      "place_id" : "ChIJ3-t_u5svjzkRe_TfMUPWV2g",
+      "reference" : "CnRmAAAAm2p6h4b6JWWMg_pVi1U9ynXeTsH26Z-lNppVfXWA8HSTIz-TEZr0AJMjDgloKZsCbUYahSd14wf0WqHj_apOZ47h9GKxQHE9-5O-_vwLe-BUPcnu8PAb5IYhBNOV4m7TWVhRCjg3Ie6g4DiPNzky6BIQ2kIgcqaaNxQayRSVYNIwihoUgMdcN3gp2hq3MecAuVYa_BswdU4",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Mohan Biyar",
+            "author_url" : "https://plus.google.com/100210323940132598969",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "Good service",
+            "time" : 1377574749
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Pravesh Yadav",
+            "author_url" : "https://plus.google.com/108888431390783628147",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1363507922
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "bank", "finance", "establishment" ],
+      "url" : "https://plus.google.com/111057445161110407528/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "Bina",
+      "website" : "http://unionbankofindia.com/"
+   },
+   "status" : "OK"
+}

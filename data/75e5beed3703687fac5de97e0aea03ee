@@ -1,0 +1,73 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "National Highway 84",
+            "short_name" : "NH 84",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bhojpur Jadid",
+            "short_name" : "Bhojpur Jadid",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Buxar",
+            "short_name" : "Buxar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "802133",
+            "short_name" : "802133",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNational Highway 84\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBhojpur Jadid\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e802133\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "National Highway 84, Bhojpur Jadid, Bihar 802133, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.577092,
+            "lng" : 84.16224699999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "30edd28bda914332039d6978926b69c4a30302e8",
+      "name" : "Tile kiln",
+      "place_id" : "ChIJXYiRnOl4kjkRgjJq5s0XaIk",
+      "reference" : "CmRdAAAAdqZ0YKz7O576tXgFHH9xHV7zxJIpjBstwnFj5Yho7H2I5jed602a4luHHpVhp3ezkJShAbJfkV583onal3LPCV7yHN7c-yGIFMEWKsm2Nczp2vNXvacA6m2VuaxSonymEhAhOOwpiPX_IllRu80h18wAGhRWa0sGX_4QjrGi2B8q24aG0c9ZSQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Kishore Kumar Das",
+            "author_url" : "https://plus.google.com/110122805972284461601",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1372241945
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "general_contractor", "establishment" ],
+      "url" : "https://plus.google.com/116713213955336186024/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "National Highway 84, Bhojpur Jadid"
+   },
+   "status" : "OK"
+}

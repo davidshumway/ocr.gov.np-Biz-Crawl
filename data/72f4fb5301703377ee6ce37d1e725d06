@@ -1,0 +1,162 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "123/12A, 356-B",
+            "short_name" : "123/12A, 356-B",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "New Sabzi Mandi Street",
+            "short_name" : "New Sabzi Mandi Street",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Harjender Nagar",
+            "short_name" : "Harjender Nagar",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Lal bangla",
+            "short_name" : "Lal bangla",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Krishna Nagar",
+            "short_name" : "Krishna Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208007",
+            "short_name" : "208007",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e123/12A, 356-B, New Sabzi Mandi Street\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eHarjender Nagar, Lal bangla, Krishna Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208007\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "123/12A, 356-B, New Sabzi Mandi Street, Harjender Nagar, Lal bangla, Krishna Nagar, Kanpur, Uttar Pradesh 208007, India",
+      "formatted_phone_number" : "094150 40861",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.418752,
+            "lng" : 80.391662
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "f839c1bda0d843ea531470582c1cfc008e3664e8",
+      "international_phone_number" : "+91 94150 40861",
+      "name" : "Universal Tubes Industries",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 10:00 pm",
+            "Tuesday: 10:00 am – 10:00 pm",
+            "Wednesday: 10:00 am – 10:00 pm",
+            "Thursday: 10:00 am – 10:00 pm",
+            "Friday: 10:00 am – 10:00 pm",
+            "Saturday: 10:00 am – 10:00 pm",
+            "Sunday: 10:00 am – 10:00 pm"
+         ]
+      },
+      "place_id" : "ChIJuxeVkfRHnDkRfi7d792kIUs",
+      "reference" : "CnRtAAAAmFloLQI5-_U8T0peO8zq9lXgsan8iot8wkZjYrYTjvo3VWsYWjdkq_qESDT4Y_J9508uXaXJJbkwsq7x3RFO0TTs2ihHbLZTOxymMd5p1elNYg6sZDeT1SZil2UHI204WqXVjq9m8HbcjK4w9i7GTBIQJV8FwSLoK-dGCHp-VDcQJRoUmm3blb9xRga9xGj-dQP1gw_biIk",
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/117571418039904514385/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "123/12A, 356-B, New Sabzi Mandi Street, Harjender Nagar, Lal bangla, Krishna Nagar, Kanpur"
+   },
+   "status" : "OK"
+}

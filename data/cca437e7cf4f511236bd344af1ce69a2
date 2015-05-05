@@ -1,0 +1,82 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Bagula",
+            "short_name" : "Bagula",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Nadia",
+            "short_name" : "Nadia",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "741502",
+            "short_name" : "741502",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eBagula\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e741502\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Bagula, West Bengal 741502, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 23.334252,
+            "lng" : 88.644567
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+      "id" : "eb8915b64eedadbffe2cf30cb752d5ebc2db21a5",
+      "name" : "Rabindra Bhavan",
+      "place_id" : "ChIJ--OMopzX-DkRWb4HpeWQvMo",
+      "reference" : "CnRjAAAA3k1vLBfn8sYUikvOCk_HR5g-UndaQAy7ATbFC4uZ30oy6OjvpAFfsfpmdVv6o6fc0FhiSd9xa__yVPR3MXh2nZB0qKfNZvVtXpgO1jDcAnb_0cgRGagt3V8j-ANxZskuJcyoKAlF_LYMWdaLm_kPhRIQiFw0Xahg_a5UOJIoyk3NfRoUtty8ebCXLdu52nluBZbZrxq8Kdc",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Mithun Biswas",
+            "author_url" : "https://plus.google.com/109053244131375243583",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Gr8",
+            "time" : 1367587989
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Poli Singha",
+            "author_url" : "https://plus.google.com/106943399911793971658",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1309843375
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "city_hall", "local_government_office", "establishment" ],
+      "url" : "https://plus.google.com/104207486702389017342/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "Bagula"
+   },
+   "status" : "OK"
+}

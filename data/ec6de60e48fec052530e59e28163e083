@@ -1,0 +1,67 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700023",
+            "short_name" : "700023",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "New Fancy Market, 1, Dent Mission Road, Kidderpore, \u003cspan class=\"street-address\"\u003eKidderpore\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700023\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "New Fancy Market, 1, Dent Mission Road, Kidderpore, Kidderpore, Kolkata, West Bengal 700023, India",
+      "formatted_phone_number" : "033 2459 0021",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.536012,
+            "lng" : 88.322778
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "b1cc25c7b0073eccff6b38e161453378088a58ca",
+      "international_phone_number" : "+91 33 2459 0021",
+      "name" : "City Music Cafe",
+      "place_id" : "ChIJ5TUUyOF5AjoR3P9Ucyz3TtU",
+      "reference" : "CnRjAAAAu1GdcNWb7ypDPM6fh2L0-IaRkeXDZBsZ0OwvWCELzub9X3jQi4xPVUJT8DSiVUQnxaLKw0PzHHgWW8dMC-iXROwreZiuaNkrhd_DjGto310Aq2jARMok2nPe0B-m5fjNxDA3H2EhCH4DEslrc-KwNhIQ0kV8jMVNDzBGZFwO2uQ7sRoUouBr1kQkLVqnnlQP97Da6U34HJY",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Subhrodip Mohanto",
+            "author_url" : "https://plus.google.com/112309177657532911916",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Well having a good stock it has got a reasonable price tag.",
+            "time" : 1430653456
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "store", "establishment" ],
+      "url" : "https://plus.google.com/100501279409290115971/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "New Fancy Market, 1, Dent Mission Road, Kidderpore, Kidderpore, Kolkata"
+   },
+   "status" : "OK"
+}

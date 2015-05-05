@@ -1,0 +1,139 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "State Highway 7",
+            "short_name" : "SH 7",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Khutahan",
+            "short_name" : "Khutahan",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Jaunpur",
+            "short_name" : "Jaunpur",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "223104",
+            "short_name" : "223104",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eState Highway 7\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKhutahan\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e223104\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "State Highway 7, Khutahan, Uttar Pradesh 223104, India",
+      "formatted_phone_number" : "094500 87888",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.984761,
+            "lng" : 82.571889
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "d74791711b9217e93cf61700103bde54d38ef179",
+      "international_phone_number" : "+91 94500 87888",
+      "name" : "Azad Traictors",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0700"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 7:00 am – 8:00 pm",
+            "Tuesday: 7:00 am – 8:00 pm",
+            "Wednesday: 7:00 am – 8:00 pm",
+            "Thursday: 7:00 am – 8:00 pm",
+            "Friday: 7:00 am – 8:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJPaMvOntCkDkRlraZGgf1_R8",
+      "reference" : "CnRhAAAAQ2zR8PVrUrd6zpsRIKAP_YRXqPSD2jD7XFfRa0OMeI-QrXIj5kTOUvHkgaCq_MUo4sC7knrl2WA9Bvvw8wb0tGOa3Yfs8TY_gMihqLWDMwaLCVfmNfKr877Mn3ca7I7nE8ohquboJf-Usd3FFcfr2xIQffO3QPPUV-Na0yj4hOn-HxoUw-a6DTccNcAguN4glxB231KRJao",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "sharad mishara",
+            "author_url" : "https://plus.google.com/102253331703020833736",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1401876700
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/105112038467706764930/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "State Highway 7, Khutahan"
+   },
+   "status" : "OK"
+}

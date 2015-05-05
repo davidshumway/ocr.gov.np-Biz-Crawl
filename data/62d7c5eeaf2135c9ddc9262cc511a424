@@ -1,0 +1,79 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Patna",
+            "short_name" : "Patna",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "800001",
+            "short_name" : "800001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Mohini Market, Exhibhition Road, \u003cspan class=\"street-address\"\u003eExhibhition Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003ePatna\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e800001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Mohini Market, Exhibhition Road, Exhibhition Road, Patna, Bihar 800001, India",
+      "formatted_phone_number" : "098354 60507",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.6125,
+            "lng" : 85.128333
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "e93201255826e4fad3876891a43d87768755a409",
+      "international_phone_number" : "+91 98354 60507",
+      "name" : "Car Club",
+      "place_id" : "ChIJl2UeR0dY7TkRpZSvGPzCyZU",
+      "reference" : "CmRcAAAAn7mk5UT9foBimOx5e80W0lYOLHJdghk8BC_z2FUjH8n2bOIjBc_LU9yNywRvgUU9G75LIhdpzISeg4Rp8O9M2QGYeOisleL8u4IfajMsCqCoFLrdBXA0rBVO5UvPP3gdEhD8Ae4eus3JscJVgixbW8jmGhTYU7n-5BBHI4sqwZtVfIKJi1XK8Q",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Its so good",
+            "time" : 1313470610
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "",
+            "time" : 1326216258
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/112832239122920268455/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "Mohini Market, Exhibhition Road, Exhibhition Road, Patna"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,150 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "G.T. Road",
+            "short_name" : "G.T. Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Near IIT Kanpur",
+            "short_name" : "Near IIT Kanpur",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Kalyanpur",
+            "short_name" : "Kalyanpur",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208016",
+            "short_name" : "208016",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eG.T. Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNear IIT Kanpur, Kalyanpur\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208016\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "G.T. Road, Near IIT Kanpur, Kalyanpur, Kanpur, Uttar Pradesh 208016, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.511341,
+            "lng" : 80.24615
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "8acc61c64d041c9f74479100ee20624036ab02d2",
+      "name" : "Chotu Auto Center",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 6:30 pm",
+            "Tuesday: 10:00 am – 6:30 pm",
+            "Wednesday: 10:00 am – 6:30 pm",
+            "Thursday: 10:00 am – 6:30 pm",
+            "Friday: 10:00 am – 6:30 pm",
+            "Saturday: 10:00 am – 6:30 pm",
+            "Sunday: 10:00 am – 6:30 pm"
+         ]
+      },
+      "place_id" : "ChIJN5m_sgk3nDkRBGDfIVEZKsY",
+      "reference" : "CnRlAAAAQx_-aVbLlgNT-h7tZZ2WVmBzLm4oRc3jzcd0R3k1HMCeWvt7jsjXkrZw_yvs7cYWY8t0xbyxtTiGcSzJERRqMhrzAdUCu7tNxJrn2zJ8O-XIyIamrUGbtH27uaEmKG4Ku2CRsSA0txxw5LX5GhfHXhIQY3BYEv8LH4hwbQ-O-7H6ERoU9SEOTZpX3ECdeeZSSF3-a1CYOUk",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/115042073434447318701/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "G.T. Road, Near IIT Kanpur, Kalyanpur, Kanpur"
+   },
+   "status" : "OK"
+}

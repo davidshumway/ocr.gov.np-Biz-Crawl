@@ -1,0 +1,124 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "50/275",
+            "short_name" : "50/275",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Halsey Road",
+            "short_name" : "Halsey Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "General Ganj",
+            "short_name" : "General Ganj",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208001",
+            "short_name" : "208001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e50/275, Halsey Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eGeneral Ganj\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "50/275, Halsey Road, General Ganj, Kanpur, Uttar Pradesh 208001, India",
+      "formatted_phone_number" : "098395 74724",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.458242,
+            "lng" : 80.349864
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "c516b9cd79abe899a8dd47ea1d95d4d204cb8b9f",
+      "international_phone_number" : "+91 98395 74724",
+      "name" : "Rang Mahal",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 11:00 am – 8:00 pm",
+            "Wednesday: 11:00 am – 8:00 pm",
+            "Thursday: 11:00 am – 8:00 pm",
+            "Friday: 11:00 am – 8:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ571kmoJHnDkRW1WXeR46Vxc",
+      "reference" : "CmRdAAAAs8ZyPwGpDstxz4f1wNf9bDBkoPu5ZrLuoYaiXq_8cjwY-2tDVY31NoYONugZTyQys2VwgTGxhmYqVIA5yYtVsYlZ_jpxpVMzok9LheBms9GkV05uDVizE0cM0X2guPOsEhD9wrqCATKofyXnAwcZ6pNpGhQZRgHo5yzO3i-fIS9J7uUZ4nx_xg",
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/108794516598005648224/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "50/275, Halsey Road, General Ganj, Kanpur"
+   },
+   "status" : "OK"
+}

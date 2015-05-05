@@ -1,0 +1,70 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "BJ Market, Shop No-12",
+            "short_name" : "BJ Market, Shop No-12",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "BJ Block",
+            "short_name" : "BJ Block",
+            "types" : [ "sublocality_level_3", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Salt Lake",
+            "short_name" : "Salt Lake",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700091",
+            "short_name" : "700091",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eBJ Market, Shop No-12\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBJ Block, Salt Lake\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700091\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "BJ Market, Shop No-12, BJ Block, Salt Lake, Kolkata, West Bengal 700091, India",
+      "formatted_phone_number" : "033 2334 0362",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.591151,
+            "lng" : 88.425436
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "0b29246839a1f9eaecdcb9ddd57a1259c18b5737",
+      "international_phone_number" : "+91 33 2334 0362",
+      "name" : "B. K. Glass",
+      "place_id" : "ChIJGQs9UcF1AjoRJVDSLENbK0Y",
+      "reference" : "CmReAAAAO4WMfOtKTOkLd3WBgu37kq5ZQ_Y7BUWFVGN40PkwZXxTJwiYhdfYy7iihzDrCujMahI0xOF6eBiaV0Gn9SGM7zGVenyMy6wXV59w3kQ_ovbFz2pjEXsrlDpKrVLvxGE1EhDm-mkGRjDRmyclw4PYBuknGhS1sj14icXxje3HXo3eEFnt9oWjzg",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/101106275173199397862/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "BJ Market, Shop No-12, BJ Block, Salt Lake, Kolkata"
+   },
+   "status" : "OK"
+}

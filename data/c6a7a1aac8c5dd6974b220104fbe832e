@@ -1,0 +1,145 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "62A",
+            "short_name" : "62A",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Sree Nagar Main Road",
+            "short_name" : "Sree Nagar Main Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "STN",
+            "short_name" : "STN",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Panchpota",
+            "short_name" : "Panchpota",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700150",
+            "short_name" : "700150",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e62A, Sree Nagar Main Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSTN, Panchpota\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700150\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "62A, Sree Nagar Main Road, STN, Panchpota, Kolkata, West Bengal 700150, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.473787,
+            "lng" : 88.40391200000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "d88345cf43504dc7757fc8009350437c5d8f997c",
+      "name" : "Vaishali Motors",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 9:00 pm",
+            "Tuesday: 10:00 am – 9:00 pm",
+            "Wednesday: 10:00 am – 9:00 pm",
+            "Thursday: 10:00 am – 9:00 pm",
+            "Friday: 10:00 am – 9:00 pm",
+            "Saturday: 10:00 am – 9:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJFz97y9VzAjoRXC4SjnaJGCg",
+      "reference" : "CnRiAAAAfI_0nJzpfSimcn_Ts-s-OacZfgTTb7OYMDAW0oXAp2eqHFavzNq_JDhUTTVQ_mghPbu8sPJoBauGGjpa32AjTaQBuOIBdlAtnHY1Tsdr4SM8nV2F9BMRHJwIwERj_kjxC1bVAleBQIWeLl3ALsBL3BIQxh-x3QpVYH0p5LJeusSisRoUOWv7mDZuOV_u1L82aDFvSR8yA7c",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/105483135085926649340/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "62A, Sree Nagar Main Road, STN, Panchpota, Kolkata"
+   },
+   "status" : "OK"
+}

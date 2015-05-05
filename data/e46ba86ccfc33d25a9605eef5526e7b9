@@ -1,0 +1,142 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "P.A.C Rd",
+            "short_name" : "P.A.C Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Ram Puram",
+            "short_name" : "Ram Puram",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Shyam Nagar",
+            "short_name" : "Shyam Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208007",
+            "short_name" : "208007",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eP.A.C Rd\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eRam Puram, Shyam Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208007\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "P.A.C Rd, Ram Puram, Shyam Nagar, Kanpur, Uttar Pradesh 208007, India",
+      "formatted_phone_number" : "093361 19167",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.41326,
+            "lng" : 80.36341
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "8412223c325ead3abc3ac16ee70e9e8e21086fac",
+      "international_phone_number" : "+91 93361 19167",
+      "name" : "Painter Sagar Art",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 10:00 am – 9:00 pm",
+            "Wednesday: 10:00 am – 9:00 pm",
+            "Thursday: 10:00 am – 9:00 pm",
+            "Friday: 10:00 am – 9:00 pm",
+            "Saturday: 10:00 am – 9:00 pm",
+            "Sunday: 10:00 am – 9:00 pm"
+         ]
+      },
+      "place_id" : "ChIJQYX0i9JGnDkRjB5zQpEBBfQ",
+      "reference" : "CnRlAAAA-VczBQmGq2Ki09PnVBTsUL9mOFriPVxED-qWAVlSZ7XtkJcad3UyzKytUonyallVtlqqvIFKBEGVkNhS5HtfITBzVq1hct14BfuJ54lQB3nKg6_4KDseoViTJLuTtWJMQu5QHBjGw8JSvuZO4_FlPRIQEYXRyqL2Ih4g1662FR1HqRoUPdxYE9W9HnSovlnhjil7ZHVugq0",
+      "scope" : "GOOGLE",
+      "types" : [ "painter", "establishment" ],
+      "url" : "https://plus.google.com/117029498863753066762/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "P.A.C Rd, Ram Puram, Shyam Nagar, Kanpur"
+   },
+   "status" : "OK"
+}

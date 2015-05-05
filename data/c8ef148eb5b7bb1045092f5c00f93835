@@ -1,0 +1,145 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "SH 9",
+            "short_name" : "SH 9",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Narendra Dev Nagar",
+            "short_name" : "Narendra Dev Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Faizabad",
+            "short_name" : "Faizabad",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Faizabad",
+            "short_name" : "Faizabad",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "224001",
+            "short_name" : "224001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eSH 9\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNarendra Dev Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eFaizabad\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e224001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "SH 9, Narendra Dev Nagar, Faizabad, Uttar Pradesh 224001, India",
+      "formatted_phone_number" : "05278 232 032",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.78277,
+            "lng" : 82.15034199999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "ef6bea43c78d1d84e3ccb4a158f2ffedd9af7153",
+      "international_phone_number" : "+91 5278 232 032",
+      "name" : "HDFC Bank ATM",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2330"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2330"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2330"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2330"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2330"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 12:00 am – 11:30 pm",
+            "Tuesday: 12:00 am – 11:30 pm",
+            "Wednesday: 12:00 am – 11:30 pm",
+            "Thursday: 12:00 am – 11:30 pm",
+            "Friday: 12:00 am – 11:30 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJkaVbmz0GmjkR8Lrc05ydu5k",
+      "reference" : "CnRhAAAAKBNZnQN01E13Ahw6ECpRQ7pkGY7oMeNv8fvabni-ewRjpZdKab7-h8JcYjYbPv1nktdNNV9SgdmQUcUPsT9Q8XgFUYexm6pYM2wU-QamxM7AvbkaWQOHQWWiXywbM90bFCcBrPyE2ks6e-VUbTwDthIQwNyiU7uEFZ5NtBOWewqryhoU5BT1N1XxZmQvraBYQ2UPrC6NUL8",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "ramesh singh",
+            "author_url" : "https://plus.google.com/116356856420139551565",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1411633595
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "atm", "finance", "establishment" ],
+      "url" : "https://plus.google.com/106218063004274229727/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "SH 9, Narendra Dev Nagar, Faizabad",
+      "website" : "http://www.hdfcbank.com/"
+   },
+   "status" : "OK"
+}

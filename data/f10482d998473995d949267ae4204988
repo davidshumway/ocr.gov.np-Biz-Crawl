@@ -1,0 +1,80 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Patna",
+            "short_name" : "Patna",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "800007",
+            "short_name" : "800007",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Paschim Darwaza, \u003cspan class=\"locality\"\u003ePatna\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e800007\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Paschim Darwaza, Patna, Bihar 800007, India",
+      "formatted_phone_number" : "098350 16512",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.6125,
+            "lng" : 85.128333
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "727f563351077941f4a194b3da6b9d7795ae02ab",
+      "international_phone_number" : "+91 98350 16512",
+      "name" : "Patna General Store",
+      "place_id" : "ChIJl2UeR0dY7TkRXV5dT37psh4",
+      "reference" : "CnRmAAAAnEzihXKvFbaD5C5ZjbnxOkZRHvI7AbdRvqa5DKIKV6tc5g3uBxR2FD4ccCKROS6fm5FrQjysb53kJjtl09J1tAJ_dx1j8Dbd4pRRtxN7eh9x4hIBweh9rebSkIq79-HscerwaUIMPT4yOP84ZtVC7RIQ6dWBNjXLpcpbyASVWlLjBxoUFxnIqURHXwfNW7t3Jj8PhK9W-wM",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Gaurav Raj Anand",
+            "author_url" : "https://plus.google.com/114259978713672798911",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1329324235
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1328559941
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/112574885337294622629/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "Paschim Darwaza, Patna"
+   },
+   "status" : "OK"
+}

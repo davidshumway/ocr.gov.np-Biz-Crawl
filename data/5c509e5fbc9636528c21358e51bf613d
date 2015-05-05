@@ -1,0 +1,83 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Bashudev Marg",
+            "short_name" : "Bashudev Marg",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bashudev Nagar",
+            "short_name" : "Bashudev Nagar",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Kachuara",
+            "short_name" : "Kachuara",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Shekhpura",
+            "short_name" : "Shekhpura",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Patna",
+            "short_name" : "Patna",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "800016",
+            "short_name" : "800016",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eBashudev Marg\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBashudev Nagar, Kachuara\u003c/span\u003e, \u003cspan class=\"locality\"\u003eShekhpura\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e800016\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Bashudev Marg, Bashudev Nagar, Kachuara, Shekhpura, Bihar 800016, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.564834,
+            "lng" : 85.156187
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "fc03fbfd39da7bf118c9c66685580d310c4b0378",
+      "name" : "Bajrang Tiles",
+      "place_id" : "ChIJYwcqKXKn8jkRXq4ems8iwrQ",
+      "reference" : "CnRhAAAAgKF82lQMC0t0ZyIm11CqInpVK35qSvrfj5HAu9u4m7yCA5tekwBb1N72N2poBXD0yGnqzzl8HdKiYY0vLPC9BqoxFMu_gfbq3gk84-sm_SvrlYagH8gATZD7R5mhCaa4N4qkbFYsc0MbXH1eHLJq3BIQt_NgmbtDhIDoi0MyiKhi-hoUAyQDWsaNL3aJzNLFfcZOfssJT1I",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "prem kumar",
+            "author_url" : "https://plus.google.com/107036700130004159922",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Like it ",
+            "time" : 1426411945
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/103616814411369447513/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Bashudev Marg, Bashudev Nagar, Kachuara, Shekhpura"
+   },
+   "status" : "OK"
+}

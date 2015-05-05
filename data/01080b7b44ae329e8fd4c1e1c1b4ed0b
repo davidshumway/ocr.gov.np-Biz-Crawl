@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "School Road",
+            "short_name" : "School Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Gaya",
+            "short_name" : "Gaya",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "824118",
+            "short_name" : "824118",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eSchool Road\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e824118\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "School Road, Bihar 824118, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 24.761071,
+            "lng" : 84.790206
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+      "id" : "d198b511cffe79eefc56b773cd0581f0448f585e",
+      "name" : "Panchayat Office, Tilori",
+      "place_id" : "ChIJG-YYDXTXjDkRjr42JTj00dc",
+      "reference" : "CnRsAAAAp65_k3B2ABwjuT9cd1ZW_G-Y7oxIzG58Jxg5MUQhw3TxPvSmDMk149xBoE8gjLkUi2PahuFg2D_n3h32qIZepdBFbNLgw5sOaIDAq192MIg4WakHSZt2bu65KE8kUmFCuBjxqy0qaPKwZBP34KaPNhIQNvD6D6eomR0V9iLw6eqLuxoU636znBLNmnOOYeY0d5HMABuUf7Y",
+      "scope" : "GOOGLE",
+      "types" : [ "city_hall", "local_government_office", "establishment" ],
+      "url" : "https://plus.google.com/104025327008031762088/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "School Road"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,142 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "The Mall",
+            "short_name" : "The Mall",
+            "types" : [ "premise" ]
+         },
+         {
+            "long_name" : "In Mari Company Bridge",
+            "short_name" : "In Mari Company Bridge",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Sadr Bazaar",
+            "short_name" : "Sadr Bazaar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208001",
+            "short_name" : "208001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "The Mall, \u003cspan class=\"extended-address\"\u003eIn Mari Company Bridge, Sadr Bazaar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "The Mall, In Mari Company Bridge, Sadr Bazaar, Kanpur, Uttar Pradesh 208001, India",
+      "formatted_phone_number" : "093359 30271",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.458818,
+            "lng" : 80.360401
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "ba54f4a516f60fd51656ed4a4909bc0126363b79",
+      "international_phone_number" : "+91 93359 30271",
+      "name" : "Perfect Automobile",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1100"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 11:00 am – 8:00 pm",
+            "Tuesday: 11:00 am – 8:00 pm",
+            "Wednesday: 11:00 am – 8:00 pm",
+            "Thursday: 11:00 am – 8:00 pm",
+            "Friday: 11:00 am – 8:00 pm",
+            "Saturday: 11:00 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJfWi0AVJHnDkRScBkHZJtO1s",
+      "reference" : "CnRlAAAAjdPIWiT49acZuVDfqD4WyMBxTHOWK20kKh90YFsiIqAC-xH3mvOZu3bjW4YbIeU30Umd3Yo19RUFQe935iQSpS29h2wT1IN5VZ4m6OPadfGYoQWq6gVyi3myvveoKKHH9LZruS9U4GwDROOzIHUHvhIQnhEK3GdSbf9MYR5HZXD_LxoUY8MEp8SSUYEhhYM--ZC-9azAImg",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/116989116076974532587/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "The Mall, In Mari Company Bridge, Sadr Bazaar, Kanpur"
+   },
+   "status" : "OK"
+}

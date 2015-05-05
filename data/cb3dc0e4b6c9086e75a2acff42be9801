@@ -1,0 +1,133 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "National Highway 98",
+            "short_name" : "NH 98",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Arwal",
+            "short_name" : "Arwal",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Arwal",
+            "short_name" : "Arwal",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "804401",
+            "short_name" : "804401",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Patna road, Arwal, \u003cspan class=\"street-address\"\u003eNational Highway 98\u003c/span\u003e, \u003cspan class=\"locality\"\u003eArwal\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e804401\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Patna road, Arwal, National Highway 98, Arwal, Bihar 804401, India",
+      "formatted_phone_number" : "022 4091 9191",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.247338,
+            "lng" : 84.66479
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "efff214b0957722bdae19ac9e47a3ee5556dd2cf",
+      "international_phone_number" : "+91 22 4091 9191",
+      "name" : "Bank of India",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1030"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:30 am – 4:00 pm",
+            "Tuesday: 10:30 am – 4:00 pm",
+            "Wednesday: 10:30 am – 4:00 pm",
+            "Thursday: 10:30 am – 4:00 pm",
+            "Friday: 10:30 am – 4:00 pm",
+            "Saturday: 10:30 am – 4:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJAwwLXhdBjTkRTAwvYHKiXZM",
+      "reference" : "CnRhAAAAg0GX1qiV8ePJEx8AlWDTyCD1qd9k6oxsxjCNqcz1gqhhyu73eorg5gan1x6YIv4t9PcUQ-pBoJJNId_xxzCARiKkqHvUT-PWhY2y8yyR1huyxDX_cZNwpnVr_WD9oZGJi3f-j2iCRVqFuFEfgoYeIxIQEYUi4JfTXrJ_-dWdD4_rkxoUfbkojilbNpkhCBHZZ1J5HzODyXg",
+      "scope" : "GOOGLE",
+      "types" : [ "bank", "finance", "establishment" ],
+      "url" : "https://plus.google.com/113677714638553203105/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Patna road, Arwal, National Highway 98, Arwal",
+      "website" : "http://www.bankofindia.com/"
+   },
+   "status" : "OK"
+}

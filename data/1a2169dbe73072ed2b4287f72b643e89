@@ -1,0 +1,162 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Ratu Road",
+            "short_name" : "Ratu Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Panchsheel Colony",
+            "short_name" : "Panchsheel Colony",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ranchi",
+            "short_name" : "Ranchi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Ranchi",
+            "short_name" : "Ranchi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Jharkhand",
+            "short_name" : "JH",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "834001",
+            "short_name" : "834001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "National Highway 75, \u003cspan class=\"street-address\"\u003eRatu Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003ePanchsheel Colony\u003c/span\u003e, \u003cspan class=\"locality\"\u003eRanchi\u003c/span\u003e, \u003cspan class=\"region\"\u003eJharkhand\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e834001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "National Highway 75, Ratu Road, Panchsheel Colony, Ranchi, Jharkhand 834001, India",
+      "formatted_phone_number" : "0651 645 6002",
+      "geometry" : {
+         "location" : {
+            "lat" : 23.38638,
+            "lng" : 85.281828
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "37fddc62c1c16eeb8d777f5dc534742c6fc492b9",
+      "international_phone_number" : "+91 651 645 6002",
+      "name" : "Garodia Tiles",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 7:00 pm",
+            "Tuesday: 10:00 am – 7:00 pm",
+            "Wednesday: 10:00 am – 7:00 pm",
+            "Thursday: 10:00 am – 7:00 pm",
+            "Friday: 10:00 am – 7:00 pm",
+            "Saturday: 10:00 am – 7:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ1anCb6Pg9DkRvI5nnhTiwc0",
+      "reference" : "CnRhAAAAsNG08EoWDJR5an1OhEpAz3ctTpMxLEfRaMYwgXUW1wUMLatkPVEuA5aiuebINRii4_5uR9qSN3SJWyELZO7IMoLye1Dmd90xCb_Q54RrJz0NqeSAjPVGwMtJkVDGj_Hffea0qhmEf2jMW2cu0A3bfxIQD5EnWpqjwVIeO4PjobYdHBoU1sHATUtECICiMoOOB6oqg6dz9go",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Diwakar Singh",
+            "author_url" : "https://plus.google.com/116049021171843919861",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Pretty nice service ",
+            "time" : 1388250443
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/106745688885572513095/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "National Highway 75, Ratu Road, Panchsheel Colony, Ranchi"
+   },
+   "status" : "OK"
+}

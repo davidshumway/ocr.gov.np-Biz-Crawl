@@ -1,0 +1,135 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Kathmandu Mall",
+            "short_name" : "Kathmandu Mall",
+            "types" : [ "premise" ]
+         },
+         {
+            "long_name" : "Kanti Path",
+            "short_name" : "Kanti Path",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Naya Sadak",
+            "short_name" : "Naya Sadak",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kathmandu",
+            "short_name" : "Kathmandu",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Central Region",
+            "short_name" : "Central Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "44600",
+            "short_name" : "44600",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Kathmandu Mall, \u003cspan class=\"street-address\"\u003eKanti Path\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e44600\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "Kathmandu Mall, Kanti Path, 44600, Nepal",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.701255,
+            "lng" : 85.313024
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "ebbec74c3f6f738f473bf3602fc697293f3970c9",
+      "name" : "Ghoriwala Mart Carpet",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 5:00 pm",
+            "Tuesday: 10:00 am – 5:00 pm",
+            "Wednesday: 10:00 am – 5:00 pm",
+            "Thursday: 10:00 am – 5:00 pm",
+            "Friday: 10:00 am – 5:00 pm",
+            "Saturday: Closed",
+            "Sunday: 10:00 am – 5:00 pm"
+         ]
+      },
+      "place_id" : "ChIJSfpoz1QY6zkRgk4Sh0tCv6A",
+      "reference" : "CnRpAAAAic63WxdPqxKa_7LWalwFGPr7juJo6VQy9rBxeYAHCphUuJEyENSpC0gJrotg6zLqL6quvmEVetOKqA-BhVgq255aPqMF7NumfafuT30GqHenWo1ICzBgCd9MfkUP_cEbX9kEk1-35aDn_XNuyBkwZBIQWD0pPxMjztHO6T2aktWjixoUwctck4WwCGpuwBinxhGQn9Vwoho",
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/115477781096628950139/about?hl=en-US",
+      "utc_offset" : 345,
+      "vicinity" : "Kathmandu Mall, Kanti Path"
+   },
+   "status" : "OK"
+}

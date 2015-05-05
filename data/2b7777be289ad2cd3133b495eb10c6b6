@@ -1,0 +1,68 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Kharagpur",
+            "short_name" : "KGP",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "West Medinipur",
+            "short_name" : "West Medinipur",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "721301",
+            "short_name" : "721301",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eKharagpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e721301\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Kharagpur, West Bengal 721301, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.344566,
+            "lng" : 87.288544
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "154b55744cd9ce569a34da39152e917b3057e2ae",
+      "name" : "Electric Office",
+      "place_id" : "ChIJqwEr5ZBDHToRTzmWmUrdyHk",
+      "reference" : "CnRiAAAAVKr19Kjcx0vpgCFXw-owbTc-ZNdTr70Mr9is7vvXaXeCZTup0Ap4c0vFwVB3g5SSdofAD-aeID0Vrn7X1DwOE-QIWCAkXbudlCC4uDMXC3gPueBW6JFh-3zagr_eGyCmCJlrWZTJUrzJVADbhbz48BIQUNToCbCLoU-6FhPa1WXs0hoUJa5iJXa7GGBUv_Tz6F5EFmN577I",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Revd.Nathan Hazra",
+            "author_url" : "https://plus.google.com/105583453466507410224",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Near electric office",
+            "time" : 1358171428
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "store", "establishment" ],
+      "url" : "https://plus.google.com/102016148340648598886/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Kharagpur"
+   },
+   "status" : "OK"
+}

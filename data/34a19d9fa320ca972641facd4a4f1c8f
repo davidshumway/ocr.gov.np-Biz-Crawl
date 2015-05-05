@@ -1,0 +1,138 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Bank Street",
+            "short_name" : "Bank St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Jajpur",
+            "short_name" : "Jajpur",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Jajpur",
+            "short_name" : "Jajpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Jajpur",
+            "short_name" : "Jajpur",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Odisha",
+            "short_name" : "OD",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "755019",
+            "short_name" : "755019",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eBank Street\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eJajpur\u003c/span\u003e, \u003cspan class=\"locality\"\u003eJajpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eOdisha\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e755019\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Bank Street, Jajpur, Jajpur, Odisha 755019, India",
+      "formatted_phone_number" : "1800 209 5577",
+      "geometry" : {
+         "location" : {
+            "lat" : 20.947141,
+            "lng" : 86.13423
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "5a899afa98eaf590f42d4e2ef21dd3d9fb4fffb5",
+      "international_phone_number" : "+91 1800 209 5577",
+      "name" : "Axis Bank Ltd",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1530"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1530"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1530"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1530"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1530"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1330"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0930"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:30 am – 3:30 pm",
+            "Tuesday: 9:30 am – 3:30 pm",
+            "Wednesday: 9:30 am – 3:30 pm",
+            "Thursday: 9:30 am – 3:30 pm",
+            "Friday: 9:30 am – 3:30 pm",
+            "Saturday: 9:30 am – 1:30 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJYf6TXXdRGToR4t6BJLQQm4Q",
+      "reference" : "CnRhAAAA7C4rOcgd_Lv2ikTVotaq3O6qsnZun8AjpFivzP05bNIFyzO1CSV1Sk1bXiHlwHd-x78HrP4tTxUtXG7c101_64qTCJozKlVANOoy-_DVUXIhYOkKTsmhNmZdulv_b5ww9_IcOep6IIs0aLm_hJNgHxIQyBof1fNQeKfo-C_uCbWRdxoUfXYeiBoZ7wYCkByr_SgObt8aul4",
+      "scope" : "GOOGLE",
+      "types" : [ "bank", "finance", "establishment" ],
+      "url" : "https://plus.google.com/107992076522610673387/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Bank Street, Jajpur",
+      "website" : "http://www.axisbank.com/"
+   },
+   "status" : "OK"
+}

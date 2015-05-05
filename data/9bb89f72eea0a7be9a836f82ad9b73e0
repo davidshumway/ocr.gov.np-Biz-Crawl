@@ -1,0 +1,115 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "SH 2",
+            "short_name" : "SH 2",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Ranchi",
+            "short_name" : "Ranchi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Jharkhand",
+            "short_name" : "JH",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "835103",
+            "short_name" : "835103",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eSH 2\u003c/span\u003e, \u003cspan class=\"region\"\u003eJharkhand\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e835103\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "SH 2, Jharkhand 835103, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 23.385336,
+            "lng" : 85.459052
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "12ca239230feb72f3c11fa9844edf75aced0af99",
+      "name" : "FCI Godown",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 5:00 pm",
+            "Tuesday: 10:00 am – 5:00 pm",
+            "Wednesday: 10:00 am – 5:00 pm",
+            "Thursday: 10:00 am – 5:00 pm",
+            "Friday: 10:00 am – 5:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ9zdjher89DkR1_FhA8Kc-Jg",
+      "reference" : "CmReAAAALtkHrJD7nJfPFQmXpwGweVyfl03wD_HYkNNNG5nnV1yzlKTuP07O4XVd4jw0cPCC7TD97MCBMor0UktEo4CAu2-TgcJxp-hafifIyM1GE58_iFf-3YqSPkZQF6B_A1ofEhDmWcpiEufcsL__bms89dI4GhQx9EeHp06L4mZDQZ0YP3EU48qF-g",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/113578776241255479525/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "SH 2"
+   },
+   "status" : "OK"
+}

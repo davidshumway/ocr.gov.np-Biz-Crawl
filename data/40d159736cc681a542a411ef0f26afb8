@@ -1,0 +1,150 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "30",
+            "short_name" : "30",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Strand Rd, Jassdp Gali",
+            "short_name" : "Strand Rd, Jassdp Gali",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Main Gate",
+            "short_name" : "Main Gate",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "B B D Bagh",
+            "short_name" : "B B D Bagh",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700001",
+            "short_name" : "700001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e30, Strand Rd, Jassdp Gali\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eMain Gate, B B D Bagh\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "30, Strand Rd, Jassdp Gali, Main Gate, B B D Bagh, Kolkata, West Bengal 700001, India",
+      "formatted_phone_number" : "033 2243 1378",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.57953,
+            "lng" : 88.348642
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "7e9832d867fc70d69e81565b38f64ca03ac13159",
+      "international_phone_number" : "+91 33 2243 1378",
+      "name" : "Hardware & Pneumatics",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 9:00 pm",
+            "Tuesday: 10:00 am – 9:00 pm",
+            "Wednesday: 10:00 am – 9:00 pm",
+            "Thursday: 10:00 am – 9:00 pm",
+            "Friday: 10:00 am – 9:00 pm",
+            "Saturday: 10:00 am – 9:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJywBWCbl3AjoRn0mC_Oq4g0U",
+      "reference" : "CnRoAAAAKIDO8QqcR_NFedTvwkhOySbuZGwHH5-69jFug-zDm6edyilYUcIy8a0Uj_Gfq994m7-jxx-9wUn8i2w_SrIOP9u6kPHp4RYzdjKL67gJyOn6jJA01LJUjB2OXUrHpNqtQPm-_oXWA5JhO6EKurf-3RIQYjf4e9r876xoLdDOw8LCShoUuxcwP9Fn_2oqTgQuEEptIdsKvOY",
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/112054223309452720455/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "30, Strand Rd, Jassdp Gali, Main Gate, B B D Bagh, Kolkata",
+      "website" : "http://www.hardwarenpneumatics.com/"
+   },
+   "status" : "OK"
+}

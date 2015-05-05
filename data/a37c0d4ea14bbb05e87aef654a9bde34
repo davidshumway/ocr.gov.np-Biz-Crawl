@@ -1,0 +1,86 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "National Highway 100",
+            "short_name" : "NH 100",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Nutan Nagar Colony",
+            "short_name" : "Nutan Nagar Colony",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Hazaribagh",
+            "short_name" : "Hazaribagh",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Hazaribagh",
+            "short_name" : "Hazaribagh",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Jharkhand",
+            "short_name" : "JH",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "825303",
+            "short_name" : "825303",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNational Highway 100\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNutan Nagar Colony\u003c/span\u003e, \u003cspan class=\"locality\"\u003eHazaribagh\u003c/span\u003e, \u003cspan class=\"region\"\u003eJharkhand\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e825303\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "National Highway 100, Nutan Nagar Colony, Hazaribagh, Jharkhand 825303, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 23.991777,
+            "lng" : 85.396699
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "b5ecda9a08eeb8b80ad67389650abaca0b88d497",
+      "name" : "Durga Steel",
+      "place_id" : "ChIJE32l_Yec9DkRCvXrXE9pWYo",
+      "reference" : "CmRfAAAA_huwd2eF9znpHLl6bq7w1CEcM2daQo739hBBUEtm1hInevBASqx6ugX56YV1PrLGkyeCIN6q3MmeZxXg3Kq_c2pa0VjZybPRCeCTSbdov9nXbXmvXpbbG9Hk_u_98CCUEhB6bcAPvV4LUO48yTHja0SHGhQmGqSwkch8JHN2zzurB73kGzF9tg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Shailendra Kumar",
+            "author_url" : "https://plus.google.com/111740754674658296247",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1364180078
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "store", "establishment" ],
+      "url" : "https://plus.google.com/114270787281092351853/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "National Highway 100, Nutan Nagar Colony, Hazaribagh"
+   },
+   "status" : "OK"
+}

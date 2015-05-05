@@ -1,0 +1,70 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Avenue 1st Rd",
+            "short_name" : "Avenue 1st Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Aurobindo Block",
+            "short_name" : "Aurobindo Block",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Santoshpur",
+            "short_name" : "Santoshpur",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700075",
+            "short_name" : "700075",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eAvenue 1st Rd\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eAurobindo Block, Santoshpur\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700075\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Avenue 1st Rd, Aurobindo Block, Santoshpur, Kolkata, West Bengal 700075, India",
+      "formatted_phone_number" : "033 2289 5495",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.491891,
+            "lng" : 88.381474
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "b9e4712725028d3a777342dc4ee79300ede4b04c",
+      "international_phone_number" : "+91 33 2289 5495",
+      "name" : "Parry Enterprises India Limited",
+      "place_id" : "ChIJxUkuCD13AjoRRlTlfaMJzGU",
+      "reference" : "CoQBcgAAADiUwwHNyjkK0mNJvbojF1x0cBhrKrt8qAR_BQfd8Xyh7qzpYxQEOftv4X5qE0pUUEkIqnM69t-GQvOLwjJEmTxLda1bAcFkVxD9_nNjJGVRDqgqvknY_Yg2RqcPiDAEPo-fh8JGwWI1ataA94n-JtkvzgSss9fVZfrLK_fvXM_gEhAMcMlnNlon7M19NNUXXmKsGhR6IrT4JYsnqcPTyvB_uEDls5w6Uw",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/111884419079571317714/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Avenue 1st Rd, Aurobindo Block, Santoshpur, Kolkata"
+   },
+   "status" : "OK"
+}

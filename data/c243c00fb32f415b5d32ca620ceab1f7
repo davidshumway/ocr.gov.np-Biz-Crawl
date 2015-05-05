@@ -1,0 +1,67 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "National Highway 80",
+            "short_name" : "NH 80",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bhagalpur",
+            "short_name" : "Bhagalpur",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "813205",
+            "short_name" : "813205",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNational Highway 80\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e813205\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "National Highway 80, Bihar 813205, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.218997,
+            "lng" : 87.163264
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "f8b3f3660d8b791aaa63d48c2f973856ab48a7cc",
+      "name" : "Tile Kiln",
+      "place_id" : "ChIJZRsUl-dA8DkR-xe0p20J7jI",
+      "reference" : "CmRcAAAAh7NS_64RxaaXH1NcCFJ-a7HoH1DiUXBbeSeHBqib9LqPZ1pupv-M4sfNbppCaDsfYTJR29a8G8e3Y8ZV-ChKUzSTYv8tiniXUIRmCpaB2a57n-5Jt2vrAt5TW6PENfslEhA0rwAAHhD55jcaGJOg8PGmGhSE3tyEceq-rzZSKkNSTmTQb25elw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "CHANDAN kumar",
+            "author_url" : "https://plus.google.com/105928253774481563824",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "",
+            "time" : 1391925667
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "general_contractor", "establishment" ],
+      "url" : "https://plus.google.com/105133032556017423498/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "National Highway 80"
+   },
+   "status" : "OK"
+}

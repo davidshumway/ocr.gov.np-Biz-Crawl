@@ -1,0 +1,204 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "42",
+            "short_name" : "42",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "Chandi Ghosh Road",
+            "short_name" : "Chandi Ghosh Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Ashok Nagar",
+            "short_name" : "Ashok Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700040",
+            "short_name" : "700040",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "42, \u003cspan class=\"street-address\"\u003eChandi Ghosh Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eAshok Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700040\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "42, Chandi Ghosh Road, Ashok Nagar, Kolkata, West Bengal 700040, India",
+      "formatted_phone_number" : "033 2471 7241",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.483024,
+            "lng" : 88.346926
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "97e5898ce10fde6bafafcd79370f895d234021aa",
+      "international_phone_number" : "+91 33 2471 7241",
+      "name" : "Ramkrishna Enterprises",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1300"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1300"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1300"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1300"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1300"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1300"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1700"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:30 am – 1:00 pm, 5:00 – 8:30 pm",
+            "Tuesday: 8:30 am – 1:00 pm, 5:00 – 8:30 pm",
+            "Wednesday: 8:30 am – 1:00 pm, 5:00 – 8:30 pm",
+            "Thursday: 8:30 am – 1:00 pm, 5:00 – 8:30 pm",
+            "Friday: 8:30 am – 1:00 pm, 5:00 – 8:30 pm",
+            "Saturday: 8:30 am – 1:00 pm, 5:00 – 8:30 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJxXXxS-xwAjoRRTql_6h0g20",
+      "reference" : "CnRpAAAAPrWiZJgVG5Fe0LQf2JpUsy7J9dri-4MBSgfZPV1hifiyiMAyVD0_ORV6kuWz62DKwms3mxLxiHIhUHkI2oQ_zuaxjTe02ZCP-ws3rRHMWPPcgHPPJiqAOGZpc879X8mrJ9IC6qy2g1R8crVaQ8dzNxIQXQMYq5kO6b7lZuXYdTwvVhoUnXfh6B7KS3ncXgy7l9klrBESkoE",
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/112624275995754169376/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "42, Chandi Ghosh Road, Ashok Nagar, Kolkata"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,83 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "State Highway 5",
+            "short_name" : "SH 5",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Kusauri",
+            "short_name" : "Kusauri",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Basti",
+            "short_name" : "Basti",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "272301",
+            "short_name" : "272301",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eState Highway 5\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKusauri\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e272301\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "State Highway 5, Kusauri, Uttar Pradesh 272301, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.654998,
+            "lng" : 82.678731
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "a136d2b4c1c8c1050b1dd77b11bc47f6f3be3645",
+      "name" : "Power Station",
+      "photos" : [
+         {
+            "height" : 600,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/116447612831907293753\"\u003eIrshad Ahmad\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAAyVWu4F8PiLn93ZmkcW41VsXO5iki1DASupgx91IPQMWbu2AXnF68QogS-cOL2lLI0Ph93zQs7PlEP20W9_SK_hTpf26whWMNYcHOH4CC6MV8OWgwrJ1yRk_Krr20NICfp1diwTgCfLyYYm5LxPtWRIQ5u81_sjWZ8s30SxV7_uLhRoUA1phDQY2cTl5y3aD4TAbBxt1eis",
+            "width" : 800
+         }
+      ],
+      "place_id" : "ChIJa6r9MU3CkDkRq1oRaDa4LZY",
+      "reference" : "CnRhAAAAfCLa2KIN2tb7805RUOtwRcSubPegLRFI9N5AYJWg2RgPxMy431cLqLAPcYVlwIa-lwCT3uLFK_r1NORbkGv40DcNpCjXSeXIWzpwB8iOLZDpL7XCdhLCBBSWP0IKT9t5Disq_uC0_n8huoUn4rVVXxIQJ_yTtaqESl4py9aTzjaV9xoUhQRstltxHxG_zDHiHBLxLiYmb94",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Irshad Ahmad",
+            "author_url" : "https://plus.google.com/116447612831907293753",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Excellent",
+            "time" : 1384182499
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/114749262317473652951/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "State Highway 5, Kusauri"
+   },
+   "status" : "OK"
+}

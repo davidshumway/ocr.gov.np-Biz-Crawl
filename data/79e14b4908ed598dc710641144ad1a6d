@@ -1,0 +1,147 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "DLW-BHU Road",
+            "short_name" : "DLW-BHU Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Near Adarsh Hospital",
+            "short_name" : "Near Adarsh Hospital",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Sunderpur",
+            "short_name" : "Sunderpur",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Newada",
+            "short_name" : "Newada",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Varanasi",
+            "short_name" : "Varanasi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Varanasi",
+            "short_name" : "Varanasi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "221005",
+            "short_name" : "221005",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eDLW-BHU Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNear Adarsh Hospital, Sunderpur, Newada\u003c/span\u003e, \u003cspan class=\"locality\"\u003eVaranasi\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e221005\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "DLW-BHU Road, Near Adarsh Hospital, Sunderpur, Newada, Varanasi, Uttar Pradesh 221005, India",
+      "formatted_phone_number" : "094505 45221",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.28358,
+            "lng" : 82.972683
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "ff8cf9402c74c818f6fb549baafafa64c19825fe",
+      "international_phone_number" : "+91 94505 45221",
+      "name" : "Adhunik Service Center",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJeZdNQRUyjjkR8LIH_minTDk",
+      "reference" : "CnRpAAAA58vYLyc_mAG9KnXG4u0y4gfY88_7BrwK68laxCL87wQNps_t1oJVif0lv1EqxgOVy1VuDtFq2jcvz-tmRYZYRB-WDngiFaxVuux3eK_A41Rv3xS_eIYajrolaQAbLs2zwX2MQAROfXsNseefOGNXiRIQkGs0b8CcHNfAT9XQ8-0GEBoUGkfGvUiAkaGDj3NvWYVV9FxnkEY",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/102608919679677270768/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "DLW-BHU Road, Near Adarsh Hospital, Sunderpur, Newada, Varanasi"
+   },
+   "status" : "OK"
+}

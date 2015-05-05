@@ -1,0 +1,154 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Laheria Tola",
+            "short_name" : "Laheria Tola",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Dulhingunj",
+            "short_name" : "Dulhingunj",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Gaya",
+            "short_name" : "Gaya",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Gaya",
+            "short_name" : "Gaya",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "823001",
+            "short_name" : "823001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eLaheria Tola\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eDulhingunj\u003c/span\u003e, \u003cspan class=\"locality\"\u003eGaya\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e823001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Laheria Tola, Dulhingunj, Gaya, Bihar 823001, India",
+      "formatted_phone_number" : "0631 222 0540",
+      "geometry" : {
+         "location" : {
+            "lat" : 24.798067,
+            "lng" : 85.009164
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "3febf3f5eb3c062ca541032bb29fc0daa8b4ebd9",
+      "international_phone_number" : "+91 631 222 0540",
+      "name" : "The Auto Spares",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 8:30 pm",
+            "Tuesday: 9:00 am – 8:30 pm",
+            "Wednesday: 9:00 am – 8:30 pm",
+            "Thursday: 9:00 am – 8:30 pm",
+            "Friday: 9:00 am – 8:30 pm",
+            "Saturday: 9:00 am – 8:30 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ56SHIhYq8zkRAZ1wSgBBMJ0",
+      "reference" : "CnRjAAAAHqGopuNoF4IyahECIf2HQdQTDdG_dnGM0YvBL1INR6raE9HQGHlIBy1B4E5FGLTydopp2U0o0mdOQN8bspwKdilzlGRuk3oDrfx8KaqmQKPgqXcIPYzBf5NmJrRS71MmDBqwg_RMxtzap1LhnOUQYhIQlK7f-ZVw2YU1LP56YCyI5xoUKFfjmpz_VSsLxQ2Y85JWoxtrTsQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "ASHISH SHARMA",
+            "author_url" : "https://plus.google.com/113606950149004806662",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Nice shop",
+            "time" : 1400955042
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/110621452083892629987/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Laheria Tola, Dulhingunj, Gaya"
+   },
+   "status" : "OK"
+}

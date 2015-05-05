@@ -1,0 +1,92 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Local Main Road",
+            "short_name" : "Local Main Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bidhuli",
+            "short_name" : "Bidhuli",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Auraiya",
+            "short_name" : "Auraiya",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Auraiya",
+            "short_name" : "Auraiya",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "206122",
+            "short_name" : "206122",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eLocal Main Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBidhuli\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAuraiya\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e206122\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Local Main Road, Bidhuli, Auraiya, Uttar Pradesh 206122, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.4546,
+            "lng" : 79.51911800000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "fcee398e2749f155dbe2daae44d53a7e89f952ee",
+      "name" : "Maruti Service Station",
+      "place_id" : "ChIJ6e6QHf_ynTkRDTpAocD67pM",
+      "reference" : "CnRqAAAAZfph50sNjqF_A59IhPtardu58Shc3M1pbBCJZwzdLUGynPGyJkE9u8LznUt7QIzikrsG1ynKgz9K76AvtTRrvvnvACVE05FshyhlFSUuCBPw8Fzyu-V8xrgdNFppNsmksnKyQJTT-zv5f1oqmcjguRIQSk-CyrRPcF2zhRGHN4FYORoUpsXgGineYGGwpjCbS7rvmKBOB1I",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Namo Dixit",
+            "author_url" : "https://plus.google.com/110933943868782847880",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "Ganesh nagar",
+            "time" : 1416534101
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "ashvani mishra",
+            "author_url" : "https://plus.google.com/102355907003922593932",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1382725004
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/109857859346684669291/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "Local Main Road, Bidhuli, Auraiya"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,144 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Ganesh Chandra Avenue",
+            "short_name" : "Ganesh Chandra Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Chowringhee North",
+            "short_name" : "Chowringhee North",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Bow Barracks",
+            "short_name" : "Bow Barracks",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700013",
+            "short_name" : "700013",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "19, \u003cspan class=\"street-address\"\u003eGanesh Chandra Avenue\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eChowringhee North, Bow Barracks\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700013\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "19, Ganesh Chandra Avenue, Chowringhee North, Bow Barracks, Kolkata, West Bengal 700013, India",
+      "formatted_phone_number" : "033 2236 3465",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.568996,
+            "lng" : 88.35424
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "3abcb4750ebaf757453396dbcb871fd64069b6b0",
+      "international_phone_number" : "+91 33 2236 3465",
+      "name" : "Jyoti Motor Stores",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1100"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 11:00 am – 8:00 pm",
+            "Tuesday: 11:00 am – 8:00 pm",
+            "Wednesday: 11:00 am – 8:00 pm",
+            "Thursday: 11:00 am – 8:00 pm",
+            "Friday: 11:00 am – 8:00 pm",
+            "Saturday: 11:00 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ35sbuKh3AjoReCkybfTcDcw",
+      "reference" : "CnRmAAAA2y_4k3l6U2S4W6r1bqK7KGsMrRfnEKBCDkxX55wr2pKZX__T4LbNqQI2i6Y-6xxDMIQbwsbnVOsghYRg4SHFJQyw5WIRoCd6G6UHvw40LUNBe4FZgIqUn96yWHcEzq6Vdx1U_t9it4Vytw926D5RCRIQx_0jb_LXEEESRn89g_c-ChoUUD64kuqkweKaE6rdZhYtzekCT_4",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/107734103391663626001/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "19, Ganesh Chandra Avenue, Chowringhee North, Bow Barracks, Kolkata"
+   },
+   "status" : "OK"
+}

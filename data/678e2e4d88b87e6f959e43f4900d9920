@@ -1,0 +1,60 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Exhibition Road",
+            "short_name" : "Exhibition Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Patna",
+            "short_name" : "Patna",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Patna",
+            "short_name" : "Patna",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "Bihar",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "800001",
+            "short_name" : "800001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eExhibition Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003ePatna\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e800001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Exhibition Road, Patna, Bihar 800001, India",
+      "formatted_phone_number" : "0612 232 0403",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.609319,
+            "lng" : 85.14261
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "55487f9db7980ef9a3828525441ff83459206e57",
+      "international_phone_number" : "+91 612 232 0403",
+      "name" : "Tyre Centre",
+      "place_id" : "ChIJ2c_lpl5Y7TkR5-YRcYaNRKI",
+      "reference" : "CmRfAAAA66Xl1wXi1pkHIkw2H4XBWv31B4JubRinQzQR2ws7_0Zm0-sXIcsqk2TQf3SZYbdNxfBnjufSPJ11pdu5pNBhOrye5zA8oB0jL2C32tcKtfWczKHOEofLAQWR7-2Lm3p5EhCP0it21M10qgFPBtanOFV4GhR5l79c0JTCk2nSTpfy5MC5RaTbtw",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/111787180778454725701/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Exhibition Road, Patna"
+   },
+   "status" : "OK"
+}

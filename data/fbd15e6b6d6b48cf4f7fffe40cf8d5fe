@@ -1,0 +1,142 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "C- Block",
+            "short_name" : "C- Block",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "37",
+            "short_name" : "37",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Shyam Nagar",
+            "short_name" : "Shyam Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208013",
+            "short_name" : "208013",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "C- Block, \u003cspan class=\"street-address\"\u003e37\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eShyam Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208013\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "C- Block, 37, Shyam Nagar, Kanpur, Uttar Pradesh 208013, India",
+      "formatted_phone_number" : "093361 12327",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.41656,
+            "lng" : 80.36458
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "0931388c1b50a73be733e11df4d42a83825683de",
+      "international_phone_number" : "+91 93361 12327",
+      "name" : "Divya Auto Parts",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 8:00 am – 10:00 pm",
+            "Wednesday: 8:00 am – 10:00 pm",
+            "Thursday: 8:00 am – 10:00 pm",
+            "Friday: 8:00 am – 10:00 pm",
+            "Saturday: 8:00 am – 10:00 pm",
+            "Sunday: 8:00 am – 10:00 pm"
+         ]
+      },
+      "place_id" : "ChIJDSJ0QNNGnDkReMioFEKdnw4",
+      "reference" : "CnRjAAAAnOVkIZhucXGNgHVT_uyA92dDzj2CQAg1pKISLfiAA4c0IHBT0daYOf7fFcRMFW3DCazvYn6W3E03VXBV3gmj6mhoBMuafPqcMCpbBaI1X1cGLgZ7_PbQw0FAXoiz3mAi9_sK0BrpLSSsNQYbhnHIFhIQIDYigwlD3LFlLaHEzdOKeBoUi6rPR1lnCRHUgcSvT9BQvQEflQ8",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/115513409849104647954/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "C- Block, 37, Shyam Nagar, Kanpur"
+   },
+   "status" : "OK"
+}

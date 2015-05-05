@@ -1,0 +1,113 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "State Highway 1",
+            "short_name" : "SH 1",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "North 24 Parganas",
+            "short_name" : "North 24 Parganas",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "Bhatpara, \u003cspan class=\"street-address\"\u003eState Highway 1\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Bhatpara, State Highway 1, West Bengal, India",
+      "formatted_phone_number" : "094000 24365",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.870649,
+            "lng" : 88.40471100000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "16bffb1c891819527fbbc3d5d0b68e4bbb9ef1ad",
+      "international_phone_number" : "+91 94000 24365",
+      "name" : "BSNL Office",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0930"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:30 am – 6:00 pm",
+            "Tuesday: 9:30 am – 6:00 pm",
+            "Wednesday: 9:30 am – 6:00 pm",
+            "Thursday: 9:30 am – 6:00 pm",
+            "Friday: 9:30 am – 6:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJI-HgscuW-DkRJDScW7Qchy4",
+      "reference" : "CmReAAAASzC-H9EzX1oNDz94H72ObpNg2p9T_5W1GYnp3K4JWuh8JouEKgUwu35L9lfsT2VO-4S48f6O1xa46H3rG_vvjzCGypg2cjZYjUkXlV0IBJM47tX15sljb64BTb9UIODHEhDrLfEItH7FRn7a4h4YHWBIGhQtwIDPDywVhw5gN3PpG3DMowJ91w",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/101747920154473118645/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Bhatpara, State Highway 1",
+      "website" : "http://www.bsnl.co.in/"
+   },
+   "status" : "OK"
+}

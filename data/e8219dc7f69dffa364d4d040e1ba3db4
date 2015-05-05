@@ -1,0 +1,73 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Fraser Road Area",
+            "short_name" : "Fraser Road Area",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Patna",
+            "short_name" : "Patna",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Patna",
+            "short_name" : "Patna",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "800001",
+            "short_name" : "800001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"extended-address\"\u003eFraser Road Area\u003c/span\u003e, \u003cspan class=\"locality\"\u003ePatna\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e800001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Fraser Road Area, Patna, Bihar 800001, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.609821,
+            "lng" : 85.13428
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/pet-71.png",
+      "id" : "ca95a61f62441937344279fdc0ef9879d263a455",
+      "name" : "Maurya Garden",
+      "place_id" : "ChIJbYhau0NY7TkRw0RIn0pLbDg",
+      "reference" : "CmRgAAAAqseeOx0G9lDFa4C2HN5r-fv7cE04QlUuKquT11UrP_21COOnXOSqm4FK6aqDUH0_9Y6SQwUepMuZbwhbKr1K0yXzkVhy5iq27ZmGyEJCvO9sZFzYWRiTQW--YVVpwSmuEhCRF42qrfFw2jh2-h_hvBKTGhTLPz3FZ67iOAFj5CfggFtJq6Lmew",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Pushpanayak CAO",
+            "author_url" : "https://plus.google.com/113068369685535312462",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1428635574
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "pet_store", "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/116725513074222874328/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Fraser Road Area, Patna"
+   },
+   "status" : "OK"
+}

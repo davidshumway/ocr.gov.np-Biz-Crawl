@@ -1,0 +1,138 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "National Highway 107",
+            "short_name" : "NH107",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Rani Nagar",
+            "short_name" : "Rani Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Purnea",
+            "short_name" : "Purnea",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Purnia",
+            "short_name" : "Purnia",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "854301",
+            "short_name" : "854301",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNational Highway 107\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eRani Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003ePurnea\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e854301\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "National Highway 107, Rani Nagar, Purnea, Bihar 854301, India",
+      "formatted_phone_number" : "1800 22 0229",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.782251,
+            "lng" : 87.46214999999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "f82a17e107a7995416bd4e1ed303ab2b1b69083c",
+      "international_phone_number" : "+91 1800 22 0229",
+      "name" : "Bank Of India",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1030"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:30 am – 5:00 pm",
+            "Tuesday: 10:30 am – 5:00 pm",
+            "Wednesday: 10:30 am – 5:00 pm",
+            "Thursday: 10:30 am – 5:00 pm",
+            "Friday: 10:30 am – 5:00 pm",
+            "Saturday: 10:30 am – 5:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ3YSmj3_57zkRPtL8fMvVeds",
+      "reference" : "CnRhAAAAqNEWDq27iXgz-R0QqNAFqmKdx5atT7sJTWtbCCFyFqULJZnzhjAozCt5txC_UyL5_WWlQ9IqpvGG-VRqrBW-1QGeu4OMGCKRXYEkB9-cAu1ECkTgJ7tcai3-tp9CBJ6mYaGCb-fhn_wjYiXuib3yaRIQ4VQ5KC7njolBlbj9RT6IlxoUxi-N-jmvicjuFDT8AzhE8uFQbWM",
+      "scope" : "GOOGLE",
+      "types" : [ "bank", "finance", "establishment" ],
+      "url" : "https://plus.google.com/103315133991265763948/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "National Highway 107, Rani Nagar, Purnea",
+      "website" : "http://www.bankofindia.com/"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,152 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "17",
+            "short_name" : "17",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "Plot No. 66",
+            "short_name" : "Plot No. 66",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Panki Road",
+            "short_name" : "Panki Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Near Shree Hospital",
+            "short_name" : "Near Shree Hospital",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Kalyanpur",
+            "short_name" : "Kalyanpur",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208017",
+            "short_name" : "208017",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "17, \u003cspan class=\"street-address\"\u003ePlot No. 66, Panki Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNear Shree Hospital, Kalyanpur\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208017\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "17, Plot No. 66, Panki Road, Near Shree Hospital, Kalyanpur, Kanpur, Uttar Pradesh 208017, India",
+      "formatted_phone_number" : "099185 53399",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.491744,
+            "lng" : 80.246832
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "921159185198256ce484f9f51d0c36fe761dbfa8",
+      "international_phone_number" : "+91 99185 53399",
+      "name" : "Chandel Traders",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 8:00 am – 9:00 pm",
+            "Wednesday: 8:00 am – 9:00 pm",
+            "Thursday: 8:00 am – 9:00 pm",
+            "Friday: 8:00 am – 9:00 pm",
+            "Saturday: 8:00 am – 9:00 pm",
+            "Sunday: 8:00 am – 9:00 pm"
+         ]
+      },
+      "place_id" : "ChIJu0s_2rs3nDkR6YYM2CqS_S0",
+      "reference" : "CnRiAAAAT1wmSTXTkD3Ml-Zf9PErG5ZZxpDhcUtotKzQ6vHqQTtCO4DARInFimCz-916kHHjtZC1kCKlmIIUa1Kjip3OKegZhwIE1L5EDXi0-1213z1NCqPJol6jrTkaHZlPYfW8GcpCxoixPvs20GCvcsjS-BIQVNPMJt2X4XH0tTACVU-LlxoU9Yqkgo001tqw3GeCi8dRSOdk2Lo",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "establishment" ],
+      "url" : "https://plus.google.com/102676459880100077206/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "17, Plot No. 66, Panki Road, Near Shree Hospital, Kalyanpur, Kanpur"
+   },
+   "status" : "OK"
+}

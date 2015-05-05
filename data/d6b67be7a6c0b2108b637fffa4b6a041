@@ -1,0 +1,140 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "State Highway 13A",
+            "short_name" : "SH 13A",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Husainganj",
+            "short_name" : "Husainganj",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Fatehpur",
+            "short_name" : "Fatehpur",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "212651",
+            "short_name" : "212651",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eState Highway 13A\u003c/span\u003e, \u003cspan class=\"locality\"\u003eHusainganj\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e212651\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "State Highway 13A, Husainganj, Uttar Pradesh 212651, India",
+      "formatted_phone_number" : "05180 241 261",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.00105,
+            "lng" : 80.929939
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "d0256775754cfe98e7579dbe516d6b046c9efa60",
+      "international_phone_number" : "+91 5180 241 261",
+      "name" : "Bank of Baroda",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 2:00 pm",
+            "Tuesday: 10:00 am – 2:00 pm",
+            "Wednesday: 10:00 am – 2:00 pm",
+            "Thursday: 10:00 am – 2:00 pm",
+            "Friday: 10:00 am – 2:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJVVyApqV7mzkRTfc7kgLgSt4",
+      "reference" : "CnRiAAAAowXe5dePkhGBjv1FphYb6_HaCRUET1UXB57GWKjE9v3Ko8zOtkXH3JvUZviX0ZYdVw_eYLp0EHTDzISZMvic0VHkvo8Zdw76TtBnycZrn2wUacZKlV_SmnlDxFrGcU-soLX2EqitqYQ5bGFV-jc2VxIQFn45aM_12DVCJKQ8u_3JZRoUk5gpxatm-hgRE3kiuJQkgl3OGP4",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "manoj nirmal",
+            "author_url" : "https://plus.google.com/111603754245956672460",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Nice bank",
+            "time" : 1421364567
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "bank", "finance", "establishment" ],
+      "url" : "https://plus.google.com/118295509346612469515/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "State Highway 13A, Husainganj",
+      "website" : "http://www.bankofbaroda.com/"
+   },
+   "status" : "OK"
+}

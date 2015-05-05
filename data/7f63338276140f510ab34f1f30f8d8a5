@@ -1,0 +1,169 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Lanka Road",
+            "short_name" : "Lanka Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Near Paramhans Ashram, Lanka",
+            "short_name" : "Near Paramhans Ashram, Lanka",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Samne Ghat",
+            "short_name" : "Samne Ghat",
+            "types" : [ "sublocality_level_3", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Patel Nagar",
+            "short_name" : "Patel Nagar",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Bhagwanpur",
+            "short_name" : "Bhagwanpur",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Varanasi",
+            "short_name" : "Varanasi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Varanasi",
+            "short_name" : "Varanasi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "221005",
+            "short_name" : "221005",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eLanka Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNear Paramhans Ashram, Lanka, Samne Ghat, Patel Nagar, Bhagwanpur\u003c/span\u003e, \u003cspan class=\"locality\"\u003eVaranasi\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e221005\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Lanka Road, Near Paramhans Ashram, Lanka, Samne Ghat, Patel Nagar, Bhagwanpur, Varanasi, Uttar Pradesh 221005, India",
+      "formatted_phone_number" : "080901 95741",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.265781,
+            "lng" : 83.016384
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "1bd7232647a1997c832308eb1433703efb963a66",
+      "international_phone_number" : "+91 80901 95741",
+      "name" : "Shri Sai Hardware & Plywood",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 10:00 pm",
+            "Tuesday: 9:00 am – 10:00 pm",
+            "Wednesday: 9:00 am – 10:00 pm",
+            "Thursday: 9:00 am – 10:00 pm",
+            "Friday: 9:00 am – 10:00 pm",
+            "Saturday: 9:00 am – 10:00 pm",
+            "Sunday: 9:00 am – 10:00 pm"
+         ]
+      },
+      "place_id" : "ChIJW6dDkaExjjkR059kdtBGtww",
+      "reference" : "CnRuAAAAWV0ncxXpFlXKylyph60sLbsuTCVLQ1NckTxWI44amifWfVgDIjL5_DFUIWKrIyaon0pFZz3uNeD47X05L66BbJAfoObAaog4slNZ21EsPsVIvJAVSmeO4gyO--XFutJW0T1rDYWzkHx8vmMgIKW4eBIQOQBfXG_W-_GHvkjlABadtBoUHkpY7HPYr2Dz4MZRz6zf2_OB5Ts",
+      "scope" : "GOOGLE",
+      "types" : [
+         "hardware_store",
+         "furniture_store",
+         "general_contractor",
+         "home_goods_store",
+         "store",
+         "establishment"
+      ],
+      "url" : "https://plus.google.com/114198770189436318937/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Lanka Road, Near Paramhans Ashram, Lanka, Samne Ghat, Patel Nagar, Bhagwanpur, Varanasi"
+   },
+   "status" : "OK"
+}

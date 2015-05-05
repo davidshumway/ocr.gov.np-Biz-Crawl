@@ -1,0 +1,123 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Mau Road",
+            "short_name" : "Mau Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Chitbaragaon",
+            "short_name" : "Chitbaragaon",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Ballia",
+            "short_name" : "Ballia",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "277506",
+            "short_name" : "277506",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eMau Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eChitbaragaon\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e277506\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Mau Road, Chitbaragaon, Uttar Pradesh 277506, India",
+      "formatted_phone_number" : "1800 200 1911",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.744969,
+            "lng" : 84.012924
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "eea9f56c176e7705af1a4903e21941e3095fbcb3",
+      "international_phone_number" : "+91 1800 200 1911",
+      "name" : "Central Bank of India",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 4:00 pm",
+            "Tuesday: 10:00 am – 4:00 pm",
+            "Wednesday: 10:00 am – 4:00 pm",
+            "Thursday: 10:00 am – 4:00 pm",
+            "Friday: 10:00 am – 4:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJkTIhveNtkjkR98wG2_zKfSI",
+      "reference" : "CnRoAAAA8JzWJhhwz8OS52M8vlJWno6AEOmqeXTb5sldVmongrnEcgLAUuaxtJOc_0Lk5c3iVJTRYstlfSHyekDx9HhLX5KNYImXb90mQT72G4WlrJtJI7s5LHzqt1z9LnndsoDFYbBSbSdQyinFd6JqlDJdRRIQTNF2bHzn5d_ld0KhAbumgxoUmjfYEEYNJecLVAuU0aWatEqY-d0",
+      "scope" : "GOOGLE",
+      "types" : [ "bank", "finance", "establishment" ],
+      "url" : "https://plus.google.com/107300721107885299081/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Mau Road, Chitbaragaon",
+      "website" : "https://www.centralbankofindia.co.in/"
+   },
+   "status" : "OK"
+}

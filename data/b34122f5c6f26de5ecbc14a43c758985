@@ -1,0 +1,148 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "40",
+            "short_name" : "40",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Netaji Subhas Road",
+            "short_name" : "NS Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Fairley Place",
+            "short_name" : "Fairley Place",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "B B D Bagh",
+            "short_name" : "B B D Bagh",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700001",
+            "short_name" : "700001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e40, Netaji Subhas Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eFairley Place, B B D Bagh\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "40, Netaji Subhas Road, Fairley Place, B B D Bagh, Kolkata, West Bengal 700001, India",
+      "formatted_phone_number" : "099030 35157",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.576529,
+            "lng" : 88.34899900000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "e7a40c8febd42959847b88cc820a5359e7f65c93",
+      "international_phone_number" : "+91 99030 35157",
+      "name" : "Hardware & Agency",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1100"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 11:00 am – 7:00 pm",
+            "Tuesday: 11:00 am – 7:00 pm",
+            "Wednesday: 11:00 am – 7:00 pm",
+            "Thursday: 11:00 am – 7:00 pm",
+            "Friday: 11:00 am – 7:00 pm",
+            "Saturday: 11:00 am – 7:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJheijRbt3AjoRoyAyk3mTOsk",
+      "reference" : "CnRlAAAAcRX4MW8jV7MW_vpMXKRrjYkDkpdQHAwsgKyDKKWE4lbdFt7VKainc3gLLhqjJL1tJoo04n_Rt1KEN34uWIt4e9r-iB6b1KTIFjA6Duxo7v54CHOIiEaECb6e_WFIDzo2O1qkahe2LIrymbPJ6InEvRIQft9TCdKevc1iPH2qdCSLYRoU4RXbDk67OYVQ0Hd2LUVMv8iMi4k",
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/107199615497591696749/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "40, Netaji Subhas Road, Fairley Place, B B D Bagh, Kolkata",
+      "website" : "http://www.hardwareandagency.com/"
+   },
+   "status" : "OK"
+}

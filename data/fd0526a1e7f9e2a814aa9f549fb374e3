@@ -1,0 +1,149 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1A",
+            "short_name" : "1A",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "Raja Mullick Square",
+            "short_name" : "Raja Mullick Square",
+            "types" : [ "premise" ]
+         },
+         {
+            "long_name" : "Nirmal Chandra Street",
+            "short_name" : "Nirmal Chandra St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bowbazar",
+            "short_name" : "Bowbazar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700013",
+            "short_name" : "700013",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "1A, Raja Mullick Square, \u003cspan class=\"street-address\"\u003eNirmal Chandra Street\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBowbazar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700013\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "1A, Raja Mullick Square, Nirmal Chandra Street, Bowbazar, Kolkata, West Bengal 700013, India",
+      "formatted_phone_number" : "033 2236 5273",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.56562,
+            "lng" : 88.359734
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "002b89032d6bd460182497b579e8a5323fb3798e",
+      "international_phone_number" : "+91 33 2236 5273",
+      "name" : "Bowbazar Steel House",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 7:00 pm",
+            "Tuesday: 10:00 am – 7:00 pm",
+            "Wednesday: 10:00 am – 7:00 pm",
+            "Thursday: Closed",
+            "Friday: 10:00 am – 7:00 pm",
+            "Saturday: 10:00 am – 7:00 pm",
+            "Sunday: 10:00 am – 7:00 pm"
+         ]
+      },
+      "place_id" : "ChIJ9TwAnQB3AjoRODXycyP0344",
+      "reference" : "CnRoAAAAP0Ql1cwBEb-hf5AchyxoDj7_naTQKVqHZ3kaGH7LoqHUbA995yTSc3IzoMAJ5N7vKQIZ6mifJYGS2J2kRv8qjomaGp_lKEwV_39HGc4ZpASmcXJVGMtC-cSpvkHRCF90-7uOK3AkZGSu0Va5Ia7YyRIQCxkFRgYe0aCUVcmU9HktKBoUdi3Xd9ibIADDLxe4JFKgcv5_mfg",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "establishment" ],
+      "url" : "https://plus.google.com/116475042212301955096/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "1A, Raja Mullick Square, Nirmal Chandra Street, Bowbazar, Kolkata"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,151 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Badu Road",
+            "short_name" : "Badu Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Madhyamgram",
+            "short_name" : "Madhyamgram",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "North 24 Parganas",
+            "short_name" : "North 24 Parganas",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700129",
+            "short_name" : "700129",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Chowmatha, \u003cspan class=\"street-address\"\u003eBadu Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eMadhyamgram\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700129\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Chowmatha, Badu Road, Madhyamgram, Kolkata, West Bengal 700129, India",
+      "formatted_phone_number" : "098301 69179",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.692126,
+            "lng" : 88.465734
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "10e0d67a9c0e23e152947149f26c1294bec7d591",
+      "international_phone_number" : "+91 98301 69179",
+      "name" : "Unique Furniture",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJLxBDOESf-DkRRtsSf5t6EHM",
+      "reference" : "CnRjAAAAIVTAVRZcjgfrExLk0aZBJQn5U3gez_pQ6G6V3WaG0A5eOSy2ourEqBKGE689aCaYa-X0u6nI--h_ijxcVBcjIvcSBo5sEd3iVZhuKqJqVHO_CBCk6J_lZMUraeYBbshsobQb8u2Ln4clFqaV6tzE_xIQHI-H1nFeE7_QT55EuGTtTBoUIl1ONNZ8bDXaNoXXOnSfZ7T_BUE",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Trade Yellow Pages",
+            "author_url" : "https://plus.google.com/109930050475261643038",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Very Good Shop",
+            "time" : 1423483671
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [
+         "furniture_store",
+         "general_contractor",
+         "home_goods_store",
+         "store",
+         "establishment"
+      ],
+      "url" : "https://plus.google.com/106202685836497273351/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Chowmatha, Badu Road, Madhyamgram, Kolkata",
+      "website" : "http://www.uniquefurnitureandinterio.in/"
+   },
+   "status" : "OK"
+}

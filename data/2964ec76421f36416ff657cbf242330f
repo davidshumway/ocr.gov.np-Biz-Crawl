@@ -1,0 +1,222 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Nabapally Circular Road",
+            "short_name" : "Nabapally Circular Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Nabapally",
+            "short_name" : "Nabapally",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Barasat",
+            "short_name" : "Barasat",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700124",
+            "short_name" : "700124",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNabapally Circular Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNabapally, Barasat\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700124\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Nabapally Circular Road, Nabapally, Barasat, Kolkata, West Bengal 700124, India",
+      "formatted_phone_number" : "033 2542 0420",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.72482,
+            "lng" : 88.47471899999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "8fa767081ee789a1e52a8dc226a71310f71e9164",
+      "international_phone_number" : "+91 33 2542 0420",
+      "name" : "S.S. Sanitary",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2230"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2230"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2230"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2230"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2230"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2230"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2230"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1700"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 2:00 pm, 5:00 – 10:30 pm",
+            "Tuesday: 9:00 am – 2:00 pm, 5:00 – 10:30 pm",
+            "Wednesday: 9:00 am – 2:00 pm, 5:00 – 10:30 pm",
+            "Thursday: 9:00 am – 2:00 pm, 5:00 – 10:30 pm",
+            "Friday: 9:00 am – 2:00 pm, 5:00 – 10:30 pm",
+            "Saturday: 9:00 am – 2:00 pm, 5:00 – 10:30 pm",
+            "Sunday: 9:00 am – 2:00 pm, 5:00 – 10:30 pm"
+         ]
+      },
+      "place_id" : "ChIJWaVnpKaY-DkRHX_Ktpsl_b8",
+      "reference" : "CnRhAAAAsocYxE80EgHgtsvA_PZzqVgSSgAvGls1mAHLYX84jkRLOUpWNwqu0Kbi6kCM0au5pdSuafNd9aaa7twUh8YLU-Tt4aK16LkHPWeHpAM4vASbCYcXGIIHFiOOQJ6BCEjNSYE-Rbp0i2hm0un8z5SMrhIQE79-IismCkkQlLDvgA8YWBoU3IrYsXTWTfGCCoUeZVQkMullSqY",
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/102388667703580430034/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Nabapally Circular Road, Nabapally, Barasat, Kolkata"
+   },
+   "status" : "OK"
+}

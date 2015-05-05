@@ -1,0 +1,126 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Station Road",
+            "short_name" : "Station Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Rangpur",
+            "short_name" : "Rangpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Rangpur",
+            "short_name" : "Rangpur",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Rangpur Division",
+            "short_name" : "Rangpur Division",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Bangladesh",
+            "short_name" : "BD",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eStation Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eRangpur\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eBangladesh\u003c/span\u003e",
+      "formatted_address" : "Station Road, Rangpur, Bangladesh",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.756392,
+            "lng" : 89.24471800000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "fba30f4741dd75c707e560fddd9b2c17194643d7",
+      "name" : "Red Crescent Rangpur",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 5:00 pm",
+            "Tuesday: 9:00 am – 5:00 pm",
+            "Wednesday: 9:00 am – 5:00 pm",
+            "Thursday: 9:00 am – 5:00 pm",
+            "Friday: Closed",
+            "Saturday: 9:00 am – 5:00 pm",
+            "Sunday: 9:00 am – 5:00 pm"
+         ]
+      },
+      "place_id" : "ChIJb0EInf8x4zkRw3vhrGyzjIk",
+      "reference" : "CnRoAAAAwLtq2pIRzhZR-OLGBhMqpgVV4_5uTCf166n_5tXl6TVc9Rl_LWB0alKDMhnnSABsKyqo8OTVYmDxocBkliir6dhxsg5rKiEpclYR-abdJgJZo7HaawqAfT6jR4KIYbzeyRLXy6GlJBpeyd87FSnlehIQmVufm-IlemBssm7tLf9J3hoUZcruDGWWG1RscAnfdxqq2hOhq80",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/110350707776319172694/about?hl=en-US",
+      "utc_offset" : 360,
+      "vicinity" : "Station Road, Rangpur",
+      "website" : "http://www.bdrcs.org/"
+   },
+   "status" : "OK"
+}

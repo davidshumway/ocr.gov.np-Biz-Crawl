@@ -1,0 +1,75 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Narayanpur",
+            "short_name" : "Narayanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Birbhum",
+            "short_name" : "Birbhum",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "731239",
+            "short_name" : "731239",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eNarayanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e731239\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Narayanpur, West Bengal 731239, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 24.243034,
+            "lng" : 87.687865
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "cc77323c3de72d601ac40724b3d91dbe8ecfbb92",
+      "name" : "Airtel Tower",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ2b41hrcE-jkRvURfgHLtekQ",
+      "reference" : "CmRfAAAA2m6cqSnrvygttly1ztVrreD4C_6oouzpftYuWasIPjv2FVrHX7NoBSxaz-q6zwxE6JeX_LaU3SWzzweMvbv5pVjSvpRB6cKZKnOHqZ_0viBA4rITJwspjRQImDKFP8_aEhAlJPFpuegfc0NR2JQx8c5DGhQck-PiP8hLKuEf4sLFCWWgXBYkFg",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/111726463323317951293/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Narayanpur"
+   },
+   "status" : "OK"
+}

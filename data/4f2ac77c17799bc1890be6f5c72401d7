@@ -1,0 +1,142 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "840",
+            "short_name" : "840",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Panchanantala Lane",
+            "short_name" : "Panchanantala Lane",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Shibpur",
+            "short_name" : "Shibpur",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Howrah",
+            "short_name" : "Howrah",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Howrah",
+            "short_name" : "Howrah",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "711102",
+            "short_name" : "711102",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e840, Panchanantala Lane\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eShibpur\u003c/span\u003e, \u003cspan class=\"locality\"\u003eHowrah\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e711102\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "840, Panchanantala Lane, Shibpur, Howrah, West Bengal 711102, India",
+      "formatted_phone_number" : "098316 58213",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.584723,
+            "lng" : 88.334003
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "ef40f86dfb8615b0c4ee041710ec97be27d533a9",
+      "international_phone_number" : "+91 98316 58213",
+      "name" : "S.B. Hardware",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2300"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2300"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2300"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2300"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2300"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2300"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 am – 11:00 pm",
+            "Tuesday: 8:00 am – 11:00 pm",
+            "Wednesday: Closed",
+            "Thursday: 8:00 am – 11:00 pm",
+            "Friday: 8:00 am – 11:00 pm",
+            "Saturday: 8:00 am – 11:00 pm",
+            "Sunday: 8:00 am – 11:00 pm"
+         ]
+      },
+      "place_id" : "ChIJF-DGhpJ3AjoR1YKUlJ_MBcw",
+      "reference" : "CnRhAAAARfYowzUAPLMkA9dBXb6Z1dfSjhq_cmtALEvFBxEWP4fPZThlU1nVVVGmzRpTXVhxTxBZqcwqKquaM8Uzqx6n8IKw-465fLtmG61nnhZafXp0L4nXXoWTN79DzkA6ua3msvwMwPxfj8jXVfjF54A1uhIQIFfs9ktJZrzPEjAXXjbE2xoUSBNg2_uSkw1k9wNrncuFKbsx1Ws",
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/110785516070304580423/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "840, Panchanantala Lane, Shibpur, Howrah"
+   },
+   "status" : "OK"
+}

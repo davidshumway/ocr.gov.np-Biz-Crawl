@@ -1,0 +1,148 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "87",
+            "short_name" : "87",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Diamond Harbour Road",
+            "short_name" : "Diamond Harbour Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Sahapur",
+            "short_name" : "Sahapur",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New Alipore",
+            "short_name" : "New Alipore",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700060",
+            "short_name" : "700060",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e87, Diamond Harbour Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSahapur, New Alipore\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700060\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "87, Diamond Harbour Road, Sahapur, New Alipore, Kolkata, West Bengal 700060, India",
+      "formatted_phone_number" : "033 2346 3478",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.507972,
+            "lng" : 88.32038900000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "d2c8a2f9761c5095128c01fa002ccb61ff98ce8b",
+      "international_phone_number" : "+91 33 2346 3478",
+      "name" : "Mobile Bazaar",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1030"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:30 am – 8:30 pm",
+            "Tuesday: 10:30 am – 8:30 pm",
+            "Wednesday: 10:30 am – 8:30 pm",
+            "Thursday: 10:30 am – 8:30 pm",
+            "Friday: 10:30 am – 8:30 pm",
+            "Saturday: 10:30 am – 8:30 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJnaKd7AZ6AjoRYwp5AGvmv8I",
+      "reference" : "CnRhAAAAuM0oFUoy08SAzW1yj36zQFjV9OnBo-CrfwlwfKEUqNqLhKmayNtgPLNAwYGvCYftkbh3fp7B60L5hS2stL8LxDdpP6sjGhMGEAqUE70ymHIdHZ0UBXETBc6ZPqwGejG4lyTHcMiSRpq4MtmeGo8O3RIQDpjpqsrsodCVXNcw9iZ6HBoUEtLZrp9TcJH24T-lXBQAFNtTj7Y",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/112121390171824915046/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "87, Diamond Harbour Road, Sahapur, New Alipore, Kolkata",
+      "website" : "http://www.geepee.co.in/"
+   },
+   "status" : "OK"
+}

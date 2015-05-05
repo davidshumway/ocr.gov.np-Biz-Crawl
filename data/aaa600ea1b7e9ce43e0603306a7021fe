@@ -1,0 +1,149 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "78/283",
+            "short_name" : "78/283",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Latouche Road",
+            "short_name" : "Latouche Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Gurudwara",
+            "short_name" : "Gurudwara",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Kasimganj",
+            "short_name" : "Kasimganj",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208001",
+            "short_name" : "208001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e78/283, Latouche Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eGurudwara, Kasimganj\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "78/283, Latouche Road, Gurudwara, Kasimganj, Kanpur, Uttar Pradesh 208001, India",
+      "formatted_phone_number" : "093052 96543",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.463923,
+            "lng" : 80.34373100000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "bc20efcbc9c8ce14b10862919c05d221fe9652e8",
+      "international_phone_number" : "+91 93052 96543",
+      "name" : "Jeet Sewing Machine Co.",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJfVUsBl5HnDkRByTx-udQpz4",
+      "reference" : "CnRqAAAAkmxB9zAMPYJZNU6PogsmbenHTwUB5pZRuVe80ukj-WcAM6qG9RelC8lIcbHzPh6560yxiAHFH2m0kceJuzbSeG3w-GsyV0UkwP9RGXZfNn8VdtUpppgZ39aWcnBVba-abk_I4ve4M0UtSwnsJiW1GRIQt51TrnioDvRpmntAsHigFRoUeXemJkl3oeuZuGnxX03rxhm-5Ys",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/108919890218288256767/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "78/283, Latouche Road, Gurudwara, Kasimganj, Kanpur"
+   },
+   "status" : "OK"
+}

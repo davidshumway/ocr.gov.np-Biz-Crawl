@@ -1,0 +1,149 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "4",
+            "short_name" : "4",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Ashutosh Mukherjee Road",
+            "short_name" : "Ashutosh Mukherjee Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Jadubabur Bazar",
+            "short_name" : "Jadubabur Bazar",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Bhowanipore",
+            "short_name" : "Bhowanipore",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700020",
+            "short_name" : "700020",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e4, Ashutosh Mukherjee Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eJadubabur Bazar, Bhowanipore\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700020\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "4, Ashutosh Mukherjee Road, Jadubabur Bazar, Bhowanipore, Kolkata, West Bengal 700020, India",
+      "formatted_phone_number" : "033 2455 7093",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.537677,
+            "lng" : 88.346442
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "bb42dfffbfc688956b162085fde6f77e2e7909bf",
+      "international_phone_number" : "+91 33 2455 7093",
+      "name" : "Decor Calcutta",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1030"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:30 am – 7:00 pm",
+            "Tuesday: 10:30 am – 7:00 pm",
+            "Wednesday: 10:30 am – 7:00 pm",
+            "Thursday: 10:30 am – 7:00 pm",
+            "Friday: 10:30 am – 7:00 pm",
+            "Saturday: 10:30 am – 7:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ8aZNRT53AjoRDCfmXhE2YC8",
+      "reference" : "CnRhAAAAo4GL7vMFtFNtWaEqx7Q6SFClD_KWD7nq9tQ2aY2YOu0jwpG_xxKRnagiTtqxXcMzB1-Wu-PwcCdzzselxEudXBCyRjm7g9Gy-BQwlCloBGvrBwkiy-hUC5k7fdwPdZwv2WlY7pZKG3etw1JW0R6nwxIQN0yQbkuj_AbkP47bqKbQ8hoUxeHf3cj7_yVIlBCDCt2Xt4sGgZM",
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/117049195587734841440/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "4, Ashutosh Mukherjee Road, Jadubabur Bazar, Bhowanipore, Kolkata"
+   },
+   "status" : "OK"
+}

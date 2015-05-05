@@ -1,0 +1,145 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Kharagpur",
+            "short_name" : "KGP",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "West Medinipur",
+            "short_name" : "West Medinipur",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "721301",
+            "short_name" : "721301",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eKharagpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e721301\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Kharagpur, West Bengal 721301, India",
+      "formatted_phone_number" : "03222 255 208",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.338113,
+            "lng" : 87.27886100000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "f1c92548bfd07cc179bea45b1e749e2b4b2e2603",
+      "international_phone_number" : "+91 3222 255 208",
+      "name" : "Nimpura Post Office",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0930"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:30 am – 5:00 pm",
+            "Tuesday: 9:30 am – 5:00 pm",
+            "Wednesday: 9:30 am – 5:00 pm",
+            "Thursday: 9:30 am – 5:00 pm",
+            "Friday: 9:30 am – 5:00 pm",
+            "Saturday: 9:30 am – 5:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ4fw4_L5DHToRuOyrzIe4LNI",
+      "reference" : "CnRnAAAA6bNL0v0Ioc1nsZW6kCpOOR7LWY3b718PzkSazAQ478DZfM0vQaLtUd5t_hOw3O6rl83PnRein__73lfeWa11oSZXdz4WafYS0TcI9Tee37pQ4urjqqsBmSWmJYSQ6aBTIKH8pp0I6lPXUXmU8guunRIQfVLHYvp3DHA2W4jx-gFBzRoUhRv22Pp2-kGt1H32GQEV5JCG54k",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Samrat Das",
+            "author_url" : "https://plus.google.com/113014873625858098242",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1420460488
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "post_office", "finance", "establishment" ],
+      "url" : "https://plus.google.com/112619515721370872655/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Kharagpur",
+      "website" : "http://www.indiapost.gov.in/"
+   },
+   "status" : "OK"
+}

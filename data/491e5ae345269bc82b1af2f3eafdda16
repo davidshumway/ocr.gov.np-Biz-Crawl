@@ -1,0 +1,142 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "543",
+            "short_name" : "543",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "Jessore Road, Vivekananda Road",
+            "short_name" : "Jessore Road, Vivekananda Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Girish Park",
+            "short_name" : "Girish Park",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "North 24 Parganas",
+            "short_name" : "North 24 Parganas",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700006",
+            "short_name" : "700006",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "543, \u003cspan class=\"street-address\"\u003eJessore Road, Vivekananda Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eGirish Park\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700006\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "543, Jessore Road, Vivekananda Road, Girish Park, Kolkata, West Bengal 700006, India",
+      "formatted_phone_number" : "078901 88302",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.637552,
+            "lng" : 88.42739
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "2905385baca193e131eb2604a6f7ac2e120c56cf",
+      "international_phone_number" : "+91 78901 88302",
+      "name" : "Rony Automobile",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 10:00 pm",
+            "Tuesday: 10:00 am – 10:00 pm",
+            "Wednesday: 10:00 am – 10:00 pm",
+            "Thursday: 10:00 am – 10:00 pm",
+            "Friday: 10:00 am – 10:00 pm",
+            "Saturday: 10:00 am – 10:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJW3JRE0ee-DkRbvgdRYtxgfo",
+      "reference" : "CnRjAAAA4pYNVk9Iqj8J-wCx03ckR81yVUJLIAiLgB5nuvDuUIqaPt3_oTbavfxjTVB1xlMmgzZIDmjPdgCMzb5r2M0XCgmtRk0zzbZxlIDo0JvUlK9wIwnWVcOjwLRXPn1Y8JkXW-3uMAtO2XsG1-JGYgVuvxIQ1hzxVyoN3o9GhUhiMLWg5hoUOQxM560XZ1xOX5oCjkK3dBG9Fa8",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/112283756692521579430/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "543, Jessore Road, Vivekananda Road, Girish Park, Kolkata"
+   },
+   "status" : "OK"
+}

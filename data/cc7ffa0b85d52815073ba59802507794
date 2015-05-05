@@ -1,0 +1,66 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Dover Lane",
+            "short_name" : "Dover Ln",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Dover Terrace",
+            "short_name" : "Dover Terrace",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ballygunge",
+            "short_name" : "Ballygunge",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700029",
+            "short_name" : "700029",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "14A,, \u003cspan class=\"street-address\"\u003eDover Lane\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eDover Terrace, Ballygunge\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700029\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "14A,, Dover Lane, Dover Terrace, Ballygunge, Kolkata, West Bengal 700029, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.521089,
+            "lng" : 88.363632
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "28699bad0e3323e686dd29f79f9fe619979e1820",
+      "name" : "Espee Trading",
+      "place_id" : "ChIJS8Kj7tV2AjoROrvUoEHmZnc",
+      "reference" : "CmRgAAAAy0AoukRZg0chHoCLCOeK15VhsHynChy00i1gql1dh6IGnlhfSwLwcMcLrE5_bU5S8ABS2Y-uDTSgnYEA98hhYz6nhpRkHBAlNo7Vlr9SaK5C1tqtK3-q-opO4VQXfvLjEhD1l7ujgy7knOfur07bSgrOGhT3iDkcxLyzhsLigLUj_bbUudI5bg",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "electrician", "establishment" ],
+      "url" : "https://plus.google.com/103743928986140166206/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "14A,, Dover Lane, Dover Terrace, Ballygunge, Kolkata"
+   },
+   "status" : "OK"
+}

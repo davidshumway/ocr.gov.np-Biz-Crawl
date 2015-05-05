@@ -1,0 +1,147 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "BT College Road",
+            "short_name" : "BT College Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "BT College",
+            "short_name" : "BT College",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Bidhanpally",
+            "short_name" : "Bidhanpally",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Madhyamgram",
+            "short_name" : "Madhyamgram",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700133",
+            "short_name" : "700133",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eBT College Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBT College, Bidhanpally, Madhyamgram\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700133\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "BT College Road, BT College, Bidhanpally, Madhyamgram, Kolkata, West Bengal 700133, India",
+      "formatted_phone_number" : "092314 47538",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.680195,
+            "lng" : 88.452308
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "0723cfcf5c22c78f53470bf1ab8700cab255ad4a",
+      "international_phone_number" : "+91 92314 47538",
+      "name" : "Roy Automobiles",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2130"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2130"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2130"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2130"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2130"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2130"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 9:30 pm",
+            "Tuesday: 10:00 am – 9:30 pm",
+            "Wednesday: 10:00 am – 9:30 pm",
+            "Thursday: 10:00 am – 9:30 pm",
+            "Friday: 10:00 am – 9:30 pm",
+            "Saturday: 10:00 am – 9:30 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJZ1ldHRef-DkRudBnfK7TiBM",
+      "reference" : "CnRiAAAA0iLVuXOlERmVpppbMSc9awvsiNWxn_db4Jesa3b8hZ_hWybfa_hkduAWVOfqoVlox0yTw9ChxacIX0sdS6L8u_buajZqrptlSCVsLHgVdZrBI8GBpjcqBOErsEJQBytN4ZMOQNlncH5rWmQP5lIJ0hIQNIOszOExf60MVpNgBjJJTxoUCBfnj5gVQECXUdrMtobUCPS0F3g",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/103900608415049532469/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "BT College Road, BT College, Bidhanpally, Madhyamgram, Kolkata"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,170 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "ITI Road",
+            "short_name" : "ITI Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "South Gautam Nagar",
+            "short_name" : "South Gautam Nagar",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Gautam Nagar",
+            "short_name" : "Gautam Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Fatehpur",
+            "short_name" : "Fatehpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Fatehpur",
+            "short_name" : "Fatehpur",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "212601",
+            "short_name" : "212601",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eITI Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSouth Gautam Nagar, Gautam Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eFatehpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e212601\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "ITI Road, South Gautam Nagar, Gautam Nagar, Fatehpur, Uttar Pradesh 212601, India",
+      "formatted_phone_number" : "1800 22 0229",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.923747,
+            "lng" : 80.80444199999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "b35096cf1810b1b657d67d99da19d59acfdc1b6a",
+      "international_phone_number" : "+91 1800 22 0229",
+      "name" : "Bank of India ATM",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2330"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2330"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2330"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2330"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2330"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2330"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2330"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 11:30 pm",
+            "Tuesday: 9:00 am – 11:30 pm",
+            "Wednesday: 9:00 am – 11:30 pm",
+            "Thursday: 9:00 am – 11:30 pm",
+            "Friday: 9:00 am – 11:30 pm",
+            "Saturday: 9:00 am – 11:30 pm",
+            "Sunday: 9:00 am – 11:30 pm"
+         ]
+      },
+      "place_id" : "ChIJb-1NKFqdnDkRZg0U6_5BStg",
+      "reference" : "CnRlAAAAR3JilbD8r0MP8PRjwLnufQWnwGQ-13zySRHvh7ITNRqSU-wmMFNyADLJw0jptBjUVHrMulwtr_YypglRAKqf1FAk9GtvbpgFMxnRUf1V15G7q9IFhWMy-E2gce_b9vXAx4YbaYjdpdaVjx8neO1qTxIQ6KkjlWUwRg3XlrZoxm3grBoUoS3eYRMQXc_6Fy-o499G_-FJ0-U",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Amit Kumar",
+            "author_url" : "https://plus.google.com/104277844937055577931",
+            "language" : "en",
+            "rating" : 1,
+            "text" : "Good",
+            "time" : 1428997316
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "atm", "finance", "establishment" ],
+      "url" : "https://plus.google.com/107153648550334643512/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "ITI Road, South Gautam Nagar, Gautam Nagar, Fatehpur",
+      "website" : "http://www.bankofindia.com/"
+   },
+   "status" : "OK"
+}

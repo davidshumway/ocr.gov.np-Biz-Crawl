@@ -1,0 +1,66 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "22/A1",
+            "short_name" : "22/A1",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Moti Sao Lane",
+            "short_name" : "Moti Sao Ln",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bakerganj",
+            "short_name" : "Bakerganj",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Dujra Diara",
+            "short_name" : "Dujra Diara",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Patna",
+            "short_name" : "Patna",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "800004",
+            "short_name" : "800004",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e22/A1, Moti Sao Lane\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBakerganj\u003c/span\u003e, \u003cspan class=\"locality\"\u003eDujra Diara\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e800004\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "22/A1, Moti Sao Lane, Bakerganj, Dujra Diara, Bihar 800004, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.618678,
+            "lng" : 85.14945
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "610d91dc4fb33891b7ef0e0fa858c3094752eead",
+      "name" : "Sani Hardware Store",
+      "place_id" : "ChIJJxMJI_hY7TkRB01oVeDERZI",
+      "reference" : "CnRnAAAAn5qMsisuUeVTwBDFmDDC7LQ26dP-q2ZdMwRuNJ_pSZWMmf1PVG9kjjxFAbrYVfUeLpxs6VMSe4HFlXls02XIEjS3bwxEemaArgkBb7CszTwFRKKEd4XcFihSZT5q_OSL_o590yF7OT7oKEzCJBoSaBIQFM6svwjBSgTD8njlNVazFBoU3oRQot0HepyauN9zl8E3DWeokRw",
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/106554168418149935615/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "22/A1, Moti Sao Lane, Bakerganj, Dujra Diara"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,85 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Barharia",
+            "short_name" : "Barharia",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Siwan",
+            "short_name" : "Siwan",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "841232",
+            "short_name" : "841232",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eBarharia\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e841232\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Barharia, Bihar 841232, India",
+      "formatted_phone_number" : "1800 200 1911",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.314411,
+            "lng" : 84.457663
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "6f3b7f580620d3595e9ab65f857f4010b30a85ae",
+      "international_phone_number" : "+91 1800 200 1911",
+      "name" : "Central Bank of India",
+      "place_id" : "ChIJC_5FuV8dkzkRamB6ZHCHfEs",
+      "reference" : "CnRoAAAAZT_LPx1I-dp77v71YH18o3CvFaLa93MulvrIBRs2EfWVEkGq47O4NMv-b-qnE3ZH-C-tJvYrTdb_MPbVIjtMJJ64H05EYXrWQq0jeXkhzs8TpJnlauEQkH6MZJehD2JphPkTisfRhPIOboVj3Ua8NRIQjdHYkAh-lRtvH8x4V6fwGRoUffr7bm5noQfrcBDlzpEy-kEoMpQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Dinesh Beniwal",
+            "author_url" : "https://plus.google.com/116942024793206529350",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Very nice",
+            "time" : 1399999632
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Shahid Quamar",
+            "author_url" : "https://plus.google.com/116206773322097564670",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1369395940
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "bank", "finance", "establishment" ],
+      "url" : "https://plus.google.com/102434173714340424233/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "Barharia",
+      "website" : "http://www.centralbankofindia.co.in/"
+   },
+   "status" : "OK"
+}

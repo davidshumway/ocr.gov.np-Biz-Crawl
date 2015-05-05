@@ -1,0 +1,137 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Colvin Road",
+            "short_name" : "Colvin Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Civil Lines",
+            "short_name" : "Civil Lines",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Allahabad",
+            "short_name" : "Allahabad",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Allahabad",
+            "short_name" : "Allahabad",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "211001",
+            "short_name" : "211001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eColvin Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCivil Lines\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAllahabad\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e211001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Colvin Road, Civil Lines, Allahabad, Uttar Pradesh 211001, India",
+      "formatted_phone_number" : "093351 53159",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.45311,
+            "lng" : 81.828872
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "44aab9dc919dbb4302e3a5af2c29dab9ddcfdf2d",
+      "international_phone_number" : "+91 93351 53159",
+      "name" : "Razi Auto Garage",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1930"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1930"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1930"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1930"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1930"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1930"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 7:30 pm",
+            "Tuesday: 10:00 am – 7:30 pm",
+            "Wednesday: 10:00 am – 7:30 pm",
+            "Thursday: 10:00 am – 7:30 pm",
+            "Friday: 10:00 am – 7:30 pm",
+            "Saturday: 10:00 am – 7:30 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJHUeOCdzKmjkR4mzLjGUnBYk",
+      "reference" : "CnRkAAAAjgX-_Mj5fiJCkVm0t4s9sk3O5yy-sj0UW-KMd7iGXsQzzOCy2_M9dNu3eNkfbIzH4_AFTa5K2nBvBqrCE_TWbHZ1Pndjo9Y9tD8vZgPfekwIHfw4IzrYjh3IvL2hJJIgFnHd2UD5Qf32l2p5OfEo4BIQYvb6TpsjPCWNta-yWvZKhBoUJ8Ev2F3LwTfuZOVp_MaWzFzu5PQ",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/105850119720278772225/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Colvin Road, Civil Lines, Allahabad"
+   },
+   "status" : "OK"
+}

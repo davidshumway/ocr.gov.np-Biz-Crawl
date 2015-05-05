@@ -1,0 +1,137 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "State Highway 5",
+            "short_name" : "SH 5",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Akbarpur",
+            "short_name" : "Akbarpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Ambedkar Nagar",
+            "short_name" : "Ambedkar Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "224122",
+            "short_name" : "224122",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eState Highway 5\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAkbarpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e224122\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "State Highway 5, Akbarpur, Uttar Pradesh 224122, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.432899,
+            "lng" : 82.53739
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "159ed323f0ba875f186d5293328e5dd8e0736743",
+      "name" : "Shri Gandhi Ashram",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 am – 5:00 pm",
+            "Tuesday: 8:00 am – 5:00 pm",
+            "Wednesday: 8:00 am – 5:00 pm",
+            "Thursday: 8:00 am – 5:00 pm",
+            "Friday: 8:00 am – 5:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJyehOS5SSkDkRNg0qcOsaH8s",
+      "reference" : "CnRmAAAAiRR_QWMh9rZGyfqLmZhGAF27d51FaLGfaF6ekpiB_XSMhNsJj8ctui6CfGq9g_UEARGYO3TLnRx_MevN6135HNLzD4vspj_x2kUFs9TnN0uImienOD4gBF5kPhOGJNaq-4965YQcUbYsTDWEszTbmRIQPvKu_24PwjhQLf6qVFcb9hoUtogkRw2Ir7XoOK66cPtJLMeKhzI",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "vinod maurya",
+            "author_url" : "https://plus.google.com/100134369952728598580",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Good service",
+            "time" : 1403879135
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/104849092418668557871/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "State Highway 5, Akbarpur"
+   },
+   "status" : "OK"
+}

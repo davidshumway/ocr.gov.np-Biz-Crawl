@@ -1,0 +1,50 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700007",
+            "short_name" : "700007",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "42, Strand Road, \u003cspan class=\"street-address\"\u003eStrand Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700007\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "42, Strand Road, Strand Road, Kolkata, West Bengal 700007, India",
+      "formatted_phone_number" : "093397 27986",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.583508,
+            "lng" : 88.350363
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "cabc6996afe5dc2b80af0647e37681590c81194a",
+      "international_phone_number" : "+91 93397 27986",
+      "name" : "Pioneer Hardware Store",
+      "place_id" : "ChIJywBWCbl3AjoRgJTmRixZjPM",
+      "reference" : "CnRqAAAACNQ8ax0D2uotg7we_uNJhZM8I4FPX4MIzq-egqhv2qW-vvZHQkn__12s-Oecq1yHEBtra0JSSIqxR5Us84yX9ElRrtKe9CLVeXbQDh1ziqS7XoPB7eHzK7wBo52e0ZryfoR--AQ1HUfAJZmoTFT5VhIQ73ktNtluWyU1COU6P8JtVBoUE6KYEMf8rJQQonYC09kLGSqE1Zs",
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/109544442663035277451/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "42, Strand Road, Strand Road, Kolkata"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,147 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "B-3",
+            "short_name" : "B-3",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Dayal Bagh Road",
+            "short_name" : "Dayal Bagh Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Super Market",
+            "short_name" : "Super Market",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Naglapadi",
+            "short_name" : "Naglapadi",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Agra",
+            "short_name" : "Agra",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Agra",
+            "short_name" : "Agra",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "282005",
+            "short_name" : "282005",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eB-3, Dayal Bagh Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSuper Market, Naglapadi\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAgra\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e282005\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "B-3, Dayal Bagh Road, Super Market, Naglapadi, Agra, Uttar Pradesh 282005, India",
+      "formatted_phone_number" : "081266 84851",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.21446,
+            "lng" : 78.00499000000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "3568ecbf7fbe204d1546fead9eff4d0610609f65",
+      "international_phone_number" : "+91 81266 84851",
+      "name" : "Naresh Cloth Store",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0830"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:30 am – 8:30 pm",
+            "Tuesday: Closed",
+            "Wednesday: 8:30 am – 8:30 pm",
+            "Thursday: 8:30 am – 8:30 pm",
+            "Friday: 8:30 am – 8:30 pm",
+            "Saturday: 8:30 am – 8:30 pm",
+            "Sunday: 8:30 am – 8:30 pm"
+         ]
+      },
+      "place_id" : "ChIJpa3neVl3dDkRDfXl3pqkxXk",
+      "reference" : "CnRlAAAAXUMUz-Uu-XC3iDDC69pn7ob35CszBVvhqaFqdB3X67b0_BH10mPHsU64Ihaf5-MrlFGI_PuG00hBtVuYyRW-MoyvfNm_3pCS6yoXrcNPTRPfiEXxSAATvymhdXvKgc1XDUoAWIOujHKYhSlOq5fNuBIQE_3HLtUFiwrSFN2VyaxLLRoU5QI0gOyYTNABVqS7LQZBvYmD4FY",
+      "scope" : "GOOGLE",
+      "types" : [ "clothing_store", "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/112042044674811255723/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "B-3, Dayal Bagh Road, Super Market, Naglapadi, Agra"
+   },
+   "status" : "OK"
+}

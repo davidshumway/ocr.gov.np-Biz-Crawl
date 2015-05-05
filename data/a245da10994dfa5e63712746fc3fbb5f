@@ -1,0 +1,132 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "60-A",
+            "short_name" : "60-A",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "150 Feet Road",
+            "short_name" : "150 Feet Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Jajmau",
+            "short_name" : "Jajmau",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208010",
+            "short_name" : "208010",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e60-A, 150 Feet Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eJajmau\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208010\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "60-A, 150 Feet Road, Jajmau, Kanpur, Uttar Pradesh 208010, India",
+      "formatted_phone_number" : "093350 89303",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.428435,
+            "lng" : 80.403048
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "0d04d2acd8a7095a3df04f611d04e760b4b6bb67",
+      "international_phone_number" : "+91 93350 89303",
+      "name" : "T.A. Hardware",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1930"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1930"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1930"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1930"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1930"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 9:00 am – 7:30 pm",
+            "Wednesday: 9:00 am – 7:30 pm",
+            "Thursday: 9:00 am – 7:30 pm",
+            "Friday: 9:00 am – 7:30 pm",
+            "Saturday: 9:00 am – 7:30 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJjQnSu_1AnDkRzNdiL14X3VI",
+      "reference" : "CmRgAAAAAmF1z-lobMnGpQbmxsTe7OUmwcPXILBemBjqjDtMzZ44ZKyhTDe4fmanjnx_9fA4Q_LyD_EQcp7dozNucIGTyqPSkW7sziW7EMQcuhlAJfpfEFFjbRUoN3guqG4Bqw-yEhCKUR-m7tne8cFmQEm7OCZuGhQtdXYRwFLpv32A4xIv1z0fLU2LBw",
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/116161479333560846079/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "60-A, 150 Feet Road, Jajmau, Kanpur"
+   },
+   "status" : "OK"
+}

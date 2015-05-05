@@ -1,0 +1,140 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "SN Roy Road",
+            "short_name" : "SN Roy Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Sahapur",
+            "short_name" : "Sahapur",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New Alipore",
+            "short_name" : "New Alipore",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700038",
+            "short_name" : "700038",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Shop No. 27, \u003cspan class=\"street-address\"\u003eSN Roy Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSahapur, New Alipore\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700038\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Shop No. 27, SN Roy Road, Sahapur, New Alipore, Kolkata, West Bengal 700038, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.50686,
+            "lng" : 88.325069
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "d5b02ec651c183bfe225f2d91a6bef653c8b65d4",
+      "name" : "Joyguru Stores",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJwQc4NahwAjoRt22oMUqpB3o",
+      "reference" : "CnRhAAAAJ8_aEyGWRRgcAfz_lbv6wjfHrIfwgmOYQlCWRJIYXd-qHILieaJ6GiRpWw3XbR4hN3tcZ0H4sq_UJHe67_TWhxDSBk9a0ivB-JgQ51AOoiSerJwHM9xSIb8DfUrffR3ULEAW_KZrKCQL2tdmX5HEsRIQL0oY3US_fTLNRlZ4dw8wAxoUmVuVUWQNF5F3N-lBEaSi9qKYK7I",
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/111967290935912413682/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Shop No. 27, SN Roy Road, Sahapur, New Alipore, Kolkata"
+   },
+   "status" : "OK"
+}

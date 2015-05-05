@@ -1,0 +1,155 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "P-14",
+            "short_name" : "P-14",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "Ganesh Chandra Avenue",
+            "short_name" : "Ganesh Chandra Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Chandni Chawk",
+            "short_name" : "Chandni Chawk",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Bowbazar",
+            "short_name" : "Bowbazar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700072",
+            "short_name" : "700072",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "P-14, \u003cspan class=\"street-address\"\u003eGanesh Chandra Avenue\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eChandni Chawk, Bowbazar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700072\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "P-14, Ganesh Chandra Avenue, Chandni Chawk, Bowbazar, Kolkata, West Bengal 700072, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.565658,
+            "lng" : 88.357981
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "5e61e4f804f46262e3969451b954e8385ca6a231",
+      "name" : "Satyapriya Bhavan",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0600"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 6:00 am – 9:00 pm",
+            "Tuesday: 6:00 am – 9:00 pm",
+            "Wednesday: 6:00 am – 9:00 pm",
+            "Thursday: 6:00 am – 9:00 pm",
+            "Friday: 6:00 am – 9:00 pm",
+            "Saturday: 6:00 am – 9:00 pm",
+            "Sunday: 6:00 am – 9:00 pm"
+         ]
+      },
+      "place_id" : "ChIJzbe7IKp3AjoRD0EjpwbCtpo",
+      "reference" : "CnRlAAAAAnKCAvwcxsxjVrwYNmy-dcpJ0QA1v85cwXeY6Dix-czxfKX31GtXABv4J3I5V1hc4rnzE4vjFvR4_45tzdpJkHp2IsLN_MKSlQe3RBl-ITKXglmcFh58Lp48950qz9oeUm4ZDKiBGVIlOifVd88fvhIQBznFG-wLI-9E12mxsLxO5RoUbnLIoU_QH0TsWxKZa3ILeGV9SgQ",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/117227286209040095443/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "P-14, Ganesh Chandra Avenue, Chandni Chawk, Bowbazar, Kolkata"
+   },
+   "status" : "OK"
+}

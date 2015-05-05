@@ -1,0 +1,147 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "State Highway 12",
+            "short_name" : "SH 12",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Alipurduar",
+            "short_name" : "Alipurduar",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Jalpaiguri",
+            "short_name" : "Jalpaiguri",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "736121",
+            "short_name" : "736121",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Sovaganj, \u003cspan class=\"street-address\"\u003eState Highway 12\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAlipurduar\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e736121\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Sovaganj, State Highway 12, Alipurduar, West Bengal 736121, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.479735,
+            "lng" : 89.539025
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "a817711a29ae4ba92e78d92e2a9805e330158d9c",
+      "name" : "Auto House",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 am – 8:00 pm",
+            "Tuesday: 8:00 am – 8:00 pm",
+            "Wednesday: 8:00 am – 8:00 pm",
+            "Thursday: 8:00 am – 8:00 pm",
+            "Friday: 8:00 am – 8:00 pm",
+            "Saturday: 8:00 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJQzcbvW9X4jkRUNiCYTbBI_o",
+      "reference" : "CmReAAAA0NnFESicRAy82qSGDEx1jX2jvZd8__O666rH-nIjVj592E-KNAYGTahsQJkv1rPkIvOOLEm-o-9XCBtQkA7EtpXKISz5NCmna7R6cZG7ombbLwLx8yRzcMD97T9uaTw6EhDfsUf5isUtazMhxCcH8ZqjGhR1uMWGz8M1r85Pf8GNHGJXhZ8IZg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "SOURADEEP DEBNATH",
+            "author_url" : "https://plus.google.com/101975235793224130728",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Great business effort- responsive, timely - couldn't ask for more! ",
+            "time" : 1391883414
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/107947285195007971380/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Sovaganj, State Highway 12, Alipurduar"
+   },
+   "status" : "OK"
+}

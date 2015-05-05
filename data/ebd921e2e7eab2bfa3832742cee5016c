@@ -1,0 +1,175 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "13",
+            "short_name" : "13",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "Alipur Road",
+            "short_name" : "Alipur Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Alipore",
+            "short_name" : "Alipore",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700027",
+            "short_name" : "700027",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "13, \u003cspan class=\"street-address\"\u003eAlipur Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eAlipore\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700027\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "13, Alipur Road, Alipore, Kolkata, West Bengal 700027, India",
+      "formatted_phone_number" : "098300 69112",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.52238,
+            "lng" : 88.33119499999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "1eb54792edfeaa82c9b89adc3e3af339213bdb7d",
+      "international_phone_number" : "+91 98300 69112",
+      "name" : "Glix",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ7UxTHFt3AjoRIBre_lfErQc",
+      "reference" : "CmRXAAAA94Zf0ubeXWbHOGXHzThvNMGqCxfVsjJGX61y0Z_DHuGnHk6p7_jCEy4WVNZ06R8t_OP0b9w85wFuh86yuUY_eH15j0Cs4RQT1DK-5ciboPfPEx5kN7iitdnOb_tZOKf5EhCtImvfeK3s5v4rQMSYXT5ZGhTaaATcFDDPnY8Xnsdp0tfVSz6jRA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Karan Khare",
+            "author_url" : "https://plus.google.com/117657110136993718492",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Cool shop",
+            "time" : 1430216404
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Best Place for Car Gizmos..... Glix Thank you!!",
+            "time" : 1305108957
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/118134528962417453753/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "13, Alipur Road, Alipore, Kolkata",
+      "website" : "http://glix2000.com"
+   },
+   "status" : "OK"
+}

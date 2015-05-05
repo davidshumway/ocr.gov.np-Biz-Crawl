@@ -1,0 +1,137 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "National Highway 31",
+            "short_name" : "NH 31",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Koderma",
+            "short_name" : "Koderma",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Koderma",
+            "short_name" : "Koderma",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Jharkhand",
+            "short_name" : "JH",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "825410",
+            "short_name" : "825410",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNational Highway 31\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKoderma\u003c/span\u003e, \u003cspan class=\"region\"\u003eJharkhand\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e825410\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "National Highway 31, Koderma, Jharkhand 825410, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 24.463879,
+            "lng" : 85.58985800000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+      "id" : "6515f24bc084248352f709bfc9f71766df496bf2",
+      "name" : "India Automobiles, H. P. Pump",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "0900"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "0900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "0900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "0900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "0900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0600"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 6:00 – 9:00 am",
+            "Tuesday: 6:00 – 9:00 am",
+            "Wednesday: 6:00 – 9:00 am",
+            "Thursday: 6:00 – 9:00 am",
+            "Friday: 6:00 – 9:00 am",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJC2ACTrIK8zkRiEunF0TV_PU",
+      "reference" : "CoQBcQAAADkpPVPouJGyKP9FpVgnTDBnEdI1O8kI-JQTOsgBCEUX8PLd8x6tCT7UrvsZ4e9vZR-CyLXUUtQeVDpl5R39_sSBhn3JNoHvV8jWOq032nxaaF7HY6YI3wmy2oiPXv7tVg0kA5dY2ddBR5urTQm9Y_NjZ0qgOjFPko8Gd0bI4YbREhDLtIfCE2GsXf6NnX5Cf2ggGhT0A5rd23zpoHu2avD3rs4rYfXpEw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Subhash Pandey",
+            "author_url" : "https://plus.google.com/113416047582082485016",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1391431933
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "gas_station", "establishment" ],
+      "url" : "https://plus.google.com/115467067153779760373/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "National Highway 31, Koderma"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,147 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "40",
+            "short_name" : "40",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Strand Road",
+            "short_name" : "Strand Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Fairley Place",
+            "short_name" : "Fairley Place",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "B B D Bagh",
+            "short_name" : "B B D Bagh",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700001",
+            "short_name" : "700001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e40, Strand Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eFairley Place, B B D Bagh\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "40, Strand Road, Fairley Place, B B D Bagh, Kolkata, West Bengal 700001, India",
+      "formatted_phone_number" : "033 2210 1332",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.579139,
+            "lng" : 88.34823400000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "729a87425809e52bd6f6da0214ea0dfefc33aadc",
+      "international_phone_number" : "+91 33 2210 1332",
+      "name" : "Hassanally And Company",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJxwvmdPR6AjoRzrv4LWmoruA",
+      "reference" : "CnRqAAAAIz-saRmt88obmxKoH5ET81K-H22vo229vDi-lCg4pN6WMVZdavSkjMO12Jwg6yYrO1-VXxXe7IlIT5KrMKj89tc1BafTvfzz-RFTBZZpvKTNIaBuBgxipi0VFcF5g-MUs1RNAlSMAI2GHxCW_Y329xIQiNl37KvUu3py9EvMWlMkGxoUAWx2T-gZbXQMpH4ovHWDFw81dIM",
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/114046520510970179456/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "40, Strand Road, Fairley Place, B B D Bagh, Kolkata"
+   },
+   "status" : "OK"
+}

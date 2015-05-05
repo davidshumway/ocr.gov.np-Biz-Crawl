@@ -1,0 +1,81 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "State Highway 5",
+            "short_name" : "SH 5",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Hosenpur",
+            "short_name" : "Hosenpur",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Egra",
+            "short_name" : "Egra",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Purba Medinipur",
+            "short_name" : "Purba Medinipur",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "721429",
+            "short_name" : "721429",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eState Highway 5\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eHosenpur\u003c/span\u003e, \u003cspan class=\"locality\"\u003eEgra\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e721429\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "State Highway 5, Hosenpur, Egra, West Bengal 721429, India",
+      "formatted_phone_number" : "1800 425 0018",
+      "geometry" : {
+         "location" : {
+            "lat" : 21.894938,
+            "lng" : 87.541343
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "cc2ad7fd5890f415f9f779771901058980727927",
+      "international_phone_number" : "+91 1800 425 0018",
+      "name" : "Canara Bank",
+      "place_id" : "ChIJvVmIHNPUAjoRHw8NSiDVrwA",
+      "reference" : "CmRdAAAAdYkkdPAkzJjZDk-Xa8tArNzdelI9kbMqfjZbGOm_d61cVuY4F65KEHy6kBh0fuxotGVUVjPNzVt90Sq2sCltZliU6JQ0LzRoJWtHeYHEczxde8g8paCNftYYuxyppnewEhAtWFVY8kjGgF9SpKHlVGb5GhRD-Gj5BM5ekU10lWhSRyC_xCZuLg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "prabhat dasmahapatra",
+            "author_url" : "https://plus.google.com/116965396440878489567",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1429268401
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "bank", "finance", "establishment" ],
+      "url" : "https://plus.google.com/110878809657381276468/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "State Highway 5, Hosenpur, Egra",
+      "website" : "https://www.canarabank.in/"
+   },
+   "status" : "OK"
+}

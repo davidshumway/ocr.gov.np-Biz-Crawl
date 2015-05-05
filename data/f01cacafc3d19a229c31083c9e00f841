@@ -1,0 +1,150 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "8",
+            "short_name" : "8",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Old GT Road",
+            "short_name" : "Old GT Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Near Sabjimandi , Dohsadak",
+            "short_name" : "Near Sabjimandi , Dohsadak",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Tiwari Market",
+            "short_name" : "Tiwari Market",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ahirwan",
+            "short_name" : "Ahirwan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208007",
+            "short_name" : "208007",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e8, Old GT Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNear Sabjimandi , Dohsadak, Tiwari Market, Ahirwan\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208007\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "8, Old GT Road, Near Sabjimandi , Dohsadak, Tiwari Market, Ahirwan, Kanpur, Uttar Pradesh 208007, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.397696,
+            "lng" : 80.400976
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "397dc90aa483b6b1e3b641e8c0705c0ab0e0dcff",
+      "name" : "S. Chandra Glass House",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: 10:00 am – 8:00 pm"
+         ]
+      },
+      "place_id" : "ChIJ0UBkI3JBnDkRCb30DFPAh3A",
+      "reference" : "CnRpAAAAof050rT3jmGaCTFnEomf8RgRcmdfPRmKinFn2oyVaSCliDe35-coWnQzQH_v10d9PeUd20nU303wY0YfaR39h-XDpsRNHOKvyl0XZwln_4iZgBOyAYQeIcYlocQGE7UGv0VNRmCawRbkFKKD_X2tohIQEuEosG4KEisAnmlvr2wLyBoUVF4Vf7ZgHA_zksnUurrP0tJtmWA",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "establishment" ],
+      "url" : "https://plus.google.com/111916119363849975836/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "8, Old GT Road, Near Sabjimandi , Dohsadak, Tiwari Market, Ahirwan, Kanpur"
+   },
+   "status" : "OK"
+}

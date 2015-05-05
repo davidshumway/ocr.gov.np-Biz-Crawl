@@ -1,0 +1,81 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Kanpur Road",
+            "short_name" : "Kanpur Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Sarojini Nagar",
+            "short_name" : "Sarojini Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Lucknow",
+            "short_name" : "Lucknow",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Lucknow",
+            "short_name" : "Lucknow",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "226012",
+            "short_name" : "226012",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eKanpur Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSarojini Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eLucknow\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e226012\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Kanpur Road, Sarojini Nagar, Lucknow, Uttar Pradesh 226012, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.750539,
+            "lng" : 80.87025800000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "953b770249ce6bc3cb15a7b4859a240c63792da6",
+      "name" : "Shukla Nivash",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "open" : {
+                  "day" : 0,
+                  "time" : "0000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+         ]
+      },
+      "place_id" : "ChIJPUDw7RH5mzkRew7ul5M0t5Q",
+      "reference" : "CnRhAAAAeZonVIFJBzGDf9L8JBoUxhaCZs91ya9x8-SneZXCw3ceMQ3y5NYnPxBtADr6q6MLo-gN1UOBkPi6sHdJXaPT-78HdRaF8VH5QkxL8fb9nZ2Rm6G4ns_dHNnfCB4yP0-uJC84plm7i7Bgo2XzuVDvqhIQAF3PQJ6DgF-B-Lg2kzImoxoUtNTzekxSvtAxbVWzhy1QJJamZf0",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/103481175118563367518/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Kanpur Road, Sarojini Nagar, Lucknow"
+   },
+   "status" : "OK"
+}

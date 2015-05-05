@@ -1,0 +1,128 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "College Road",
+            "short_name" : "College Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Rangpur",
+            "short_name" : "Rangpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Rangpur",
+            "short_name" : "Rangpur",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Rangpur Division",
+            "short_name" : "Rangpur Division",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Bangladesh",
+            "short_name" : "BD",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eCollege Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eRangpur\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eBangladesh\u003c/span\u003e",
+      "formatted_address" : "College Road, Rangpur, Bangladesh",
+      "formatted_phone_number" : "01911-304121",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.738646,
+            "lng" : 89.25479799999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "1249e8c7d6d397451caabeb25d392e0c9a78aa90",
+      "international_phone_number" : "+880 1911-304121",
+      "name" : "Banglalink Point",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 5:00 pm",
+            "Tuesday: 9:00 am – 5:00 pm",
+            "Wednesday: 9:00 am – 5:00 pm",
+            "Thursday: 9:00 am – 5:00 pm",
+            "Friday: Closed",
+            "Saturday: 9:00 am – 5:00 pm",
+            "Sunday: 9:00 am – 5:00 pm"
+         ]
+      },
+      "place_id" : "ChIJIwsNkvEt4zkRJhR25s9Xd08",
+      "reference" : "CnRjAAAAatAHpxW5txbOhhc47879-50t6BOAKtddD6ODlIlUn78tGwi4VDXvd1Tu91XnMzV9rQ8Rxy_jaZJgJI3Hr8HcH9cwaPcoSXm3U3JKMlnLDR7ihyU91PAk0QyslIJsrJ2BRgl-cJSF0jhtxJJKTgxS2BIQj9hEX24WwmyIpA6fAcagLxoUuRVMR498zH8bx1zOzJdhMQn8pBY",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/102582127253824822224/about?hl=en-US",
+      "utc_offset" : 360,
+      "vicinity" : "College Road, Rangpur",
+      "website" : "http://www.banglalinkgsm.com/"
+   },
+   "status" : "OK"
+}

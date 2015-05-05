@@ -1,0 +1,150 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Vidyapeeth Road",
+            "short_name" : "Vidyapeeth Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Near IP Mall, Near ABC Tower",
+            "short_name" : "Near IP Mall, Near ABC Tower",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Sigra",
+            "short_name" : "Sigra",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Varanasi",
+            "short_name" : "Varanasi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Varanasi",
+            "short_name" : "Varanasi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "221010",
+            "short_name" : "221010",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eVidyapeeth Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNear IP Mall, Near ABC Tower, Sigra\u003c/span\u003e, \u003cspan class=\"locality\"\u003eVaranasi\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e221010\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Vidyapeeth Road, Near IP Mall, Near ABC Tower, Sigra, Varanasi, Uttar Pradesh 221010, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.31549,
+            "lng" : 82.988737
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "fafeddc38e6fcd6ec43a5476f20b2e2a05632cf5",
+      "name" : "Satish Gupta Cycle And Hardware",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: 10:00 am – 8:00 pm"
+         ]
+      },
+      "place_id" : "ChIJ5ZQ7YvwtjjkR3OQFGdp4jkU",
+      "reference" : "CoQBcgAAACzR5MbSRM__yon2POLU28F61jPCC2CyUrwWAHEAodJrEnypKK80tMmERnfxNcaVrq_VaAtJ2HevLCFmup4Uvp8kZIcI_ufei0oTrpppojtCTkAgVy25Vvw6JY5UuTyJYRruhsdzWnd1WM4t-tnaBfNq5l-HEX1ospVksOhGoL4KEhB6GKvvJnSCvzGZVQnqzWCdGhQuCIuooVzyk-A5ET_sbloM1OFQCA",
+      "scope" : "GOOGLE",
+      "types" : [ "bicycle_store", "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/108845825331670416461/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Vidyapeeth Road, Near IP Mall, Near ABC Tower, Sigra, Varanasi"
+   },
+   "status" : "OK"
+}

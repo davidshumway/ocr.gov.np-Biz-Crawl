@@ -1,0 +1,102 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Ramkrishna Avenue",
+            "short_name" : "Ramkrishna Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "A-Zone",
+            "short_name" : "A-Zone",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Durgapur",
+            "short_name" : "Durgapur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bardhaman",
+            "short_name" : "Bardhaman",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "713204",
+            "short_name" : "713204",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eRamkrishna Avenue\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eA-Zone\u003c/span\u003e, \u003cspan class=\"locality\"\u003eDurgapur\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e713204\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Ramkrishna Avenue, A-Zone, Durgapur, West Bengal 713204, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 23.576991,
+            "lng" : 87.28654400000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "acd2e402307abff0d5b4322000f20ce8ab136294",
+      "name" : "Lal Maidan",
+      "photos" : [
+         {
+            "height" : 1280,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/105475478244433196826\"\u003eSusanta Mondal\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAA6H-q41xGQDgDkLEswdn1yIrA4hpZVMyzpc2M5xTua6pJyhKdk1fa1wvo2OCHn6mjLJ4EG6PixhEUIv7lL8zJ-oXETC0JsZiBR4th4lpOXPrcEmTnsq6USJbpfISyFPNdT4LPzWhUuihhcBDQ2H_RLhIQwhvU6IDrnSIMpqhT28NCLRoUcM-csNrX4KtrkGRsRd3tWUFnX2Q",
+            "width" : 960
+         }
+      ],
+      "place_id" : "ChIJTwDrZMFt9zkRLip2rTLJdz4",
+      "reference" : "CmRdAAAA5QkCIhRaY6EDmUzDhBN32RPHB4aA8LEodB09hiIZnCOSP0rkcIZlLheUOAY-98BjdW657BENq8rXiDySrhTIxK3pAqWC-MvCeaqSdNSqi60-tj156ZcuW50bVUIJsEEbEhCwEiMyWfCxta48WvGKpMk0GhRuMA5ymd53bhBpazpVKl7upPHOUw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "sourajit saha",
+            "author_url" : "https://plus.google.com/102438506620459024922",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Good field, host of many sports activites, even good for a morning jog or casual warmup workout!",
+            "time" : 1376899286
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Manohar Karmakar",
+            "author_url" : "https://plus.google.com/115883958894895326064",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "New Computer Shop of LalMoidan Market ,(A-Zone).\n",
+            "time" : 1413882135
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/104291153358949023977/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "Ramkrishna Avenue, A-Zone, Durgapur"
+   },
+   "status" : "OK"
+}

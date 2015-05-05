@@ -1,0 +1,144 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "22",
+            "short_name" : "22",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Sadananda Rd,Rash Behari Avenue",
+            "short_name" : "Sadananda Rd,Rash Behari Avenue",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Kalighat",
+            "short_name" : "Kalighat",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700026",
+            "short_name" : "700026",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e22, Sadananda Rd,Rash Behari Avenue\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eKalighat\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700026\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "22, Sadananda Rd,Rash Behari Avenue, Kalighat, Kolkata, West Bengal 700026, India",
+      "formatted_phone_number" : "033 2455 3840",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.521517,
+            "lng" : 88.345389
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "670f8fa79b84c5fcc5b4e108d6abf0ef9867e84c",
+      "international_phone_number" : "+91 33 2455 3840",
+      "name" : "Kayal Battery Co.",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 9:00 pm",
+            "Tuesday: 9:00 am – 9:00 pm",
+            "Wednesday: 9:00 am – 9:00 pm",
+            "Thursday: 9:00 am – 9:00 pm",
+            "Friday: 9:00 am – 9:00 pm",
+            "Saturday: 9:00 am – 9:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJn0o9sTV3AjoRJNGt_ZJmMeM",
+      "reference" : "CnRlAAAAT1x67TuFi2p-PLkJiuTd7B7mN-5E8_5VJamKREAHKWTAF2vHpqJN5Otegoz4trwV-lK2r-ZygK7m79qhVeIe0MM_6Dyyh4XAc_UazVUDOtP4R-sjTBaS9f7rWxb-k7s3xapR9EN9oSQjG8lAK6gMrBIQYRE--nxXqXZxmJpWq08JFhoUqnqmARBDAY0XTDsFWGN958KU3ps",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/105140512140646251024/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "22, Sadananda Rd,Rash Behari Avenue, Kalighat, Kolkata"
+   },
+   "status" : "OK"
+}

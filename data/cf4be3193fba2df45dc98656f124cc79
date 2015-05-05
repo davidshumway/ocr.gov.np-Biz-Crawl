@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Deji Road",
+            "short_name" : "Deji Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Saga",
+            "short_name" : "Saga",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Xigaze",
+            "short_name" : "Xigaze",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Tibet",
+            "short_name" : "Tibet",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "China",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eDeji Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSaga\u003c/span\u003e, \u003cspan class=\"locality\"\u003eXigaze\u003c/span\u003e, \u003cspan class=\"region\"\u003eTibet\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eChina\u003c/span\u003e",
+      "formatted_address" : "Deji Road, Saga, Xigaze, Tibet, China",
+      "geometry" : {
+         "location" : {
+            "lat" : 29.328258,
+            "lng" : 85.23619600000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "5290163f0db6f5284e817c988413c15ff25cd01c",
+      "name" : "Xiaochen Auto Parts Automobile Repair",
+      "place_id" : "ChIJp8WcWSlgwDkRgKe0ZR4v4RQ",
+      "reference" : "CoQBeAAAAMRu_zJKhTcNyDTdAd6hFMbs2_x_kVmTFRetM9rs8DLlsbpc0LZQ2yWwRU7zB7tHAP_s6CTQXS3lNZpW5XZbY_XKm34MCB8GIBkeSymlstmC1ft1N9dYXoP3gSSBbcUbtl549-H0za80VhmW6_4blCx4J1m-OgeUBlbZAuASweZtEhDGuTIWx-BB8LSUEb-Kjw1hGhS7Or2y_NYuc7mi9G9aKAy_gf990A",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/108227522470212360175/about?hl=en-US",
+      "utc_offset" : 480,
+      "vicinity" : "Deji Road, Saga, Xigaze"
+   },
+   "status" : "OK"
+}

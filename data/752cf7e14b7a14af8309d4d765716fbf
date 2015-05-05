@@ -1,0 +1,83 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "National Highway 75",
+            "short_name" : "NH 75",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Hawai Nagar",
+            "short_name" : "Hawai Nagar",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Gitilpiri",
+            "short_name" : "Gitilpiri",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ranchi",
+            "short_name" : "Ranchi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Ranchi",
+            "short_name" : "Ranchi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Jharkhand",
+            "short_name" : "JH",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "834003",
+            "short_name" : "834003",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNational Highway 75\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eHawai Nagar, Gitilpiri\u003c/span\u003e, \u003cspan class=\"locality\"\u003eRanchi\u003c/span\u003e, \u003cspan class=\"region\"\u003eJharkhand\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e834003\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "National Highway 75, Hawai Nagar, Gitilpiri, Ranchi, Jharkhand 834003, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 23.317023,
+            "lng" : 85.31488299999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "733b1a7102d759f58c3451dd5b9d3c4f7974f1fd",
+      "name" : "Landmark Apartment",
+      "place_id" : "ChIJP6sHwNTh9DkRee7WI18_Nlw",
+      "reference" : "CnRlAAAA1mKlp9Fvt6MXthz_UArdv4F8c-SCrE2N0zrb7zcw3MRX89kahUaa6BpRuYjX4gIZsNUJtkBtIHQtangjd3qmdFBmpIY_gp_7t3znmfXQARQXXgleztn2HBwYj1H0MmszubESuXtu4Zmr-rQ-p-OR-hIQ7_5adWi2v8WCMdg0cKT1KhoUyKoTv0AnFiS0AKum9N0KuFT-CRA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Shubham Baidya",
+            "author_url" : "https://plus.google.com/115757850692552972490",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "Good...",
+            "time" : 1429454835
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/102830905183252685407/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "National Highway 75, Hawai Nagar, Gitilpiri, Ranchi"
+   },
+   "status" : "OK"
+}

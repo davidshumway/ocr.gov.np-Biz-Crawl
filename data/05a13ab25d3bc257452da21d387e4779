@@ -1,0 +1,155 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "GB Road",
+            "short_name" : "GB Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Chand Chaura",
+            "short_name" : "Chand Chaura",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Gaya",
+            "short_name" : "Gaya",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Gaya",
+            "short_name" : "Gaya",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "823001",
+            "short_name" : "823001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eGB Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eChand Chaura\u003c/span\u003e, \u003cspan class=\"locality\"\u003eGaya\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e823001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "GB Road, Chand Chaura, Gaya, Bihar 823001, India",
+      "formatted_phone_number" : "0631 222 3329",
+      "geometry" : {
+         "location" : {
+            "lat" : 24.779891,
+            "lng" : 85.004699
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "1c947f653f7a9a1c18494232a90031a1ae6a7b40",
+      "international_phone_number" : "+91 631 222 3329",
+      "name" : "Chand Chaura Post Office",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 4:00 pm",
+            "Tuesday: 10:00 am – 4:00 pm",
+            "Wednesday: 10:00 am – 4:00 pm",
+            "Thursday: 10:00 am – 4:00 pm",
+            "Friday: 10:00 am – 4:00 pm",
+            "Saturday: 10:00 am – 4:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJMUWfeTYq8zkRMcBhAqkFgF4",
+      "reference" : "CnRrAAAAs93x2QpLwx0hLOiaDLRqWyLZLF46Fm0MbI4QreMvnQrGzaeXWSJSsMYMCrjuXKX2QRDRbtomILR3Hods-BGK1ycv3Plb3oilnbl7trzaGRvDCgBtRO70eTgat0Kz_vUv027ZsrgoZVkxh5yx-HGhkxIQidJ6ZvBlq9iK-QM5_sMfMhoUPVCmkpzvIW1iRAH4pY5fwqIY9KU",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Ankush Kumar",
+            "author_url" : "https://plus.google.com/104718708775224627011",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1409925719
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "post_office", "finance", "establishment" ],
+      "url" : "https://plus.google.com/104590440003433927006/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "GB Road, Chand Chaura, Gaya",
+      "website" : "http://www.indiapost.gov.in/"
+   },
+   "status" : "OK"
+}

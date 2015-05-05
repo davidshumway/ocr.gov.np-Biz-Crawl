@@ -1,0 +1,67 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Patna",
+            "short_name" : "Patna",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "800001",
+            "short_name" : "800001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Exhibhition Road, \u003cspan class=\"locality\"\u003ePatna\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e800001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Exhibhition Road, Patna, Bihar 800001, India",
+      "formatted_phone_number" : "0612 222 5664",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.609321,
+            "lng" : 85.14233299999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "7b5873039c374e2e8bf1c0eede94dfca337f1c77",
+      "international_phone_number" : "+91 612 222 5664",
+      "name" : "Ashoka Auto Enterprises",
+      "place_id" : "ChIJ2c_lpl5Y7TkRVA1p5I5oK6k",
+      "reference" : "CnRrAAAAi8_fx7aIQFkYBlo1vvU-jtqGjzja1ndKWFA2kV5QpuiHMyrlHqOziuAiQl1ahq762-iueGvKH684-SCJdoNJZDfqkfKdMoVemFMXvnQ4KWYrykxRQD_u24z0AsZHiC3HJllAdqHk7pGQko1Qe0KRQRIQw9lxrBYSW8i6HyqshS1pRBoUONL4FSRz7vEdXxvKhx33AdDnlOw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "ushma sahu",
+            "author_url" : "https://plus.google.com/102196433857930706557",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "We are authorized dealers of bajaj motorbikes.",
+            "time" : 1286265677
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/115151991730967106179/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Exhibhition Road, Patna"
+   },
+   "status" : "OK"
+}

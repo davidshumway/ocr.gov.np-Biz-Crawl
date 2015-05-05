@@ -1,0 +1,76 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Station Rd",
+            "short_name" : "Station Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Patna",
+            "short_name" : "Patna",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Patna",
+            "short_name" : "Patna",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "Bihar",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "800001",
+            "short_name" : "800001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Ishwari Market, \u003cspan class=\"street-address\"\u003eStation Rd\u003c/span\u003e, \u003cspan class=\"locality\"\u003ePatna\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e800001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Ishwari Market, Station Rd, Patna, Bihar 800001, India",
+      "formatted_phone_number" : "099348 05450",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.605401,
+            "lng" : 85.140506
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "556aa4c6af57a7fc6da647f7e4da6f571a741035",
+      "international_phone_number" : "+91 99348 05450",
+      "name" : "Patna Tools & Hardware",
+      "place_id" : "ChIJF76jDl5Y7TkR_slDnNG4uIQ",
+      "reference" : "CnRqAAAAIKym3z5E0wIatTTddFKLLjEifotbkrFExWXgls1Q9qkerc-DmGhqk7-qRUvoymGVrK3Og5r6Dd9Z9CdxfSNsFwYijNCuIzFbX4koWFQf-_dQyaFfIDNWyDaSj353gFK0_y5GjMhJaJ2rQZwsPW6l-hIQtapIfkibgzldmUwMRj9z3hoUQF2jaiv7jd_ANEmLAZ5Ti48ypxw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "one of the best hardware shop n dealer in patna.",
+            "time" : 1315725704
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/105852354827893260851/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Ishwari Market, Station Rd, Patna"
+   },
+   "status" : "OK"
+}

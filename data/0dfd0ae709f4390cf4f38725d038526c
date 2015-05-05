@@ -1,0 +1,91 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "National Highway 86",
+            "short_name" : "NH86",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Kidwai Nagar",
+            "short_name" : "Kidwai Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208011",
+            "short_name" : "208011",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNational Highway 86\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eKidwai Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208011\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "National Highway 86, Kidwai Nagar, Kanpur, Uttar Pradesh 208011, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.421303,
+            "lng" : 80.31970099999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "092c38a543b44d781cfcc8467f00a4e30f832f85",
+      "name" : "Awasthi Transport Company",
+      "place_id" : "ChIJ0fwPyapHnDkRdYkK1u3ZnII",
+      "reference" : "CnRtAAAAYHaxz0MNNWt4RM3A9lyyr71XPSOBlRquA3b7sQB-UO_kLpPbyC2Gskq0LP9OLNE4OZHqXSd6cwT_a-2SBP4AozU41IIhoNcNftyjMRbiPiM3F60Mc2Il2ULJukRI6ts4R6BSUuI-3YwxyTYMaGPsNRIQ_tfPkJ-Y_Vv7bQcIXqrbKRoUvpZPS6sTe9qqK9dTsxgDEWN_ycc",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "Not bad ",
+            "time" : 1369158087
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Rishi Awasthi",
+            "author_url" : "https://plus.google.com/105996600325174774141",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1376987475
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "moving_company", "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/106101125021603481903/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "National Highway 86, Kidwai Nagar, Kanpur"
+   },
+   "status" : "OK"
+}

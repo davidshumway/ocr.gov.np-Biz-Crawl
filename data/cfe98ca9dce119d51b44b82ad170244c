@@ -1,0 +1,88 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "A P Colony",
+            "short_name" : "A P Colony",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Gaya",
+            "short_name" : "Gaya",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Gaya",
+            "short_name" : "Gaya",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "823001",
+            "short_name" : "823001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"extended-address\"\u003eA P Colony\u003c/span\u003e, \u003cspan class=\"locality\"\u003eGaya\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e823001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "A P Colony, Gaya, Bihar 823001, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 24.786132,
+            "lng" : 84.98795800000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "db19aaddfe1cf969ac3733824a4f3dd008a652c8",
+      "name" : "India Post",
+      "place_id" : "ChIJY9MNFFoq8zkRDEKpUQlQdPM",
+      "reference" : "CmReAAAAe26JYE6vZjU-7-4jPc72Smv1RLKYW0N7OHVgV7zZnmtRnewfSjR3SqMJHmgqYH37fpZXFxRWyhlrVv6FJJj-OvCmMkPdMEJVmfoboKLL82zp4d-FynPbo9CK-kBLN_r_EhBuuq3JfY7tgzUUdLvRChaIGhSZbwV8IZlt_m0wMFW-QIKAg0R-mQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "niraj kumar",
+            "author_url" : "https://plus.google.com/111038064665958687728",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Orhanpur,madho bigha",
+            "time" : 1380538675
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Niraj singh",
+            "author_url" : "https://plus.google.com/111508159450650461204",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1418271874
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "post_office", "finance", "establishment" ],
+      "url" : "https://plus.google.com/100633304264295983018/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "A P Colony, Gaya",
+      "website" : "http://www.indiapost.gov.in/"
+   },
+   "status" : "OK"
+}

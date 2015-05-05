@@ -1,0 +1,61 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "South Avenue Road",
+            "short_name" : "S Ave Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "The Mall Avenue",
+            "short_name" : "The Mall Avenue",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Lucknow",
+            "short_name" : "Lucknow",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Lucknow",
+            "short_name" : "Lucknow",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "226001",
+            "short_name" : "226001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eSouth Avenue Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eThe Mall Avenue\u003c/span\u003e, \u003cspan class=\"locality\"\u003eLucknow\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e226001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "South Avenue Road, The Mall Avenue, Lucknow, Uttar Pradesh 226001, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.836963,
+            "lng" : 80.94727
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "a8a3c12e506575da25ba9f6f5ebeef7d35bbfc60",
+      "name" : "Apartment Building",
+      "place_id" : "ChIJv7_u6AH9mzkRWOhrx5rIqEs",
+      "reference" : "CnRlAAAAAVHqFKoZYIzQRwc90QcypnlaqnpHG0Jjv57pPc9NdyKWsdFY3zGXGBA9xKrHiPCrjF-B6oGMENftFKvA2LKaFXXe5RABp12xHPPUE9PCLYydjBDcnm_yflWzEecdeH6tANgMZAfoPWSKoCikyWy28RIQIAshUcRLhiB4SSvri-qkGxoUysW9y3j4YLuF1RvFrMofx3fXkyI",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/106921529847789317892/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "South Avenue Road, The Mall Avenue, Lucknow"
+   },
+   "status" : "OK"
+}

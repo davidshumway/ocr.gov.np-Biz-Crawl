@@ -1,0 +1,141 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700025",
+            "short_name" : "700025",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "76, Sarat Bose Road, Bhawanipur, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700025\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "76, Sarat Bose Road, Bhawanipur, Kolkata, West Bengal 700025, India",
+      "formatted_phone_number" : "033 2455 9390",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.527193,
+            "lng" : 88.352754
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "3caf1e46dc293481ef9a9b67e246787416478c66",
+      "international_phone_number" : "+91 33 2455 9390",
+      "name" : "South Auto Centre",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 9:00 pm",
+            "Tuesday: 10:00 am – 9:00 pm",
+            "Wednesday: 10:00 am – 9:00 pm",
+            "Thursday: 10:00 am – 9:00 pm",
+            "Friday: 10:00 am – 9:00 pm",
+            "Saturday: 10:00 am – 9:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJAQAAwDh3AjoRj_suFn9Ow0Q",
+      "reference" : "CnRkAAAAfxA-aGsA_ZmTxJM7yhu1uZe0eyqUuRZRKmm6YERkB9_ehjef3WMo3duIw3jpJdMXBJMClyE_egMuIsuaxRtZCRLtFDCfjYdt-NoVHT8e7qKUkzHROpI4RcbPRkYjUhx8pYIjOJfd9cV_iCPu83dtHRIQWQgW2EIS3SeoMeVYRsiWUxoUGipTA0PT07MOBl9Thh-ywC2mlT8",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "samrat bhatacharjee",
+            "author_url" : "https://plus.google.com/112355950187158935577",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1386533169
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/109251390352204148654/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "76, Sarat Bose Road, Bhawanipur, Kolkata"
+   },
+   "status" : "OK"
+}

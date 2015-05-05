@@ -1,0 +1,157 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Campbell Road",
+            "short_name" : "Campbell Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Thakurganj",
+            "short_name" : "Thakurganj",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Baraura Hussain Bari",
+            "short_name" : "Baraura Hussain Bari",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Lucknow",
+            "short_name" : "Lucknow",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Lucknow",
+            "short_name" : "Lucknow",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "226003",
+            "short_name" : "226003",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eCampbell Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eThakurganj, Baraura Hussain Bari\u003c/span\u003e, \u003cspan class=\"locality\"\u003eLucknow\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e226003\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Campbell Road, Thakurganj, Baraura Hussain Bari, Lucknow, Uttar Pradesh 226003, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.870696,
+            "lng" : 80.880337
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "85e8a7bfbd5ed3cccaf35d5d76ee0a696fcadf5c",
+      "name" : "Shree Balaji Market",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 am – 10:00 pm",
+            "Tuesday: 8:00 am – 10:00 pm",
+            "Wednesday: 8:00 am – 10:00 pm",
+            "Thursday: Closed",
+            "Friday: 8:00 am – 10:00 pm",
+            "Saturday: 8:00 am – 10:00 pm",
+            "Sunday: 8:00 am – 10:00 pm"
+         ]
+      },
+      "place_id" : "ChIJxVj3Exn-mzkRnNrvtr4j6wM",
+      "reference" : "CnRmAAAAhauYJQAv4teTeV_o3SZVY2v369wfVcbBJUNbIUQwjQncruKC11RW-y_OXCHkbQCbstr8zhaB7cR7lcLwuHB7sQ7_klmQ6ure0MCDuqNVciQVORra9XlR6sm5gLqwIHMRP7Vy7KVsKk-NG4EGYGPkSBIQw6H6bpP3p5gNfS50Dw4jXBoUZ1E6C3MNb00bVQh19EU1XJFMYFE",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "bhanu singh",
+            "author_url" : "https://plus.google.com/110230947040752435096",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1425872195
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/105696966414728702941/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Campbell Road, Thakurganj, Baraura Hussain Bari, Lucknow"
+   },
+   "status" : "OK"
+}

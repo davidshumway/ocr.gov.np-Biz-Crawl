@@ -1,0 +1,160 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Major District Road",
+            "short_name" : "Major District Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Narendra Nagar",
+            "short_name" : "Narendra Nagar",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Amaiya Colony",
+            "short_name" : "Amaiya Colony",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Rewa",
+            "short_name" : "Rewa",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Rewa",
+            "short_name" : "Rewa",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Madhya Pradesh",
+            "short_name" : "MP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "486001",
+            "short_name" : "486001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eMajor District Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNarendra Nagar, Amaiya Colony\u003c/span\u003e, \u003cspan class=\"locality\"\u003eRewa\u003c/span\u003e, \u003cspan class=\"region\"\u003eMadhya Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e486001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Major District Road, Narendra Nagar, Amaiya Colony, Rewa, Madhya Pradesh 486001, India",
+      "formatted_phone_number" : "097134 81792",
+      "geometry" : {
+         "location" : {
+            "lat" : 24.543012,
+            "lng" : 81.299983
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "bebeee6fab35d4e304caad806a60e05c7ec5319a",
+      "international_phone_number" : "+91 97134 81792",
+      "name" : "Vivek Dwivedi",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJZba-SjJahDkRWqnc_E8CglA",
+      "reference" : "CmRgAAAAygb8clT7DQRMhrc6ccrPBmH-2VMjPuyQuUxGYaCld9saOz0iM_u8TClDgeNgzqdDQtAboAuQb3nbJWc52xPxrsnmGgVlOM03A8bY7ptWWnoZmOueZld1jaKYL79EZK-5EhCWMnLnrHVE5T--OvzxCfqmGhQGQ1wOVPPmW1pZfgzyETsXIh4a6A",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Atul Kumar Patel",
+            "author_url" : "https://plus.google.com/115071529629204701451",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "love it dear",
+            "time" : 1419922609
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/118222031437893336024/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Major District Road, Narendra Nagar, Amaiya Colony, Rewa",
+      "website" : "http://www.vivekdwivedi.com/"
+   },
+   "status" : "OK"
+}

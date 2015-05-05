@@ -1,0 +1,68 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "AB/AC",
+            "short_name" : "AB/AC",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "AB Block",
+            "short_name" : "AB Block",
+            "types" : [ "sublocality_level_3", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Salt Lake",
+            "short_name" : "Salt Lake",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700064",
+            "short_name" : "700064",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eAB/AC\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eAB Block, Salt Lake\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700064\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "AB/AC, AB Block, Salt Lake, Kolkata, West Bengal 700064, India",
+      "formatted_phone_number" : "033 2359 4307",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.594618,
+            "lng" : 88.401253
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "e5a10235ab70c8aafcf22090b580f6c9058f0119",
+      "international_phone_number" : "+91 33 2359 4307",
+      "name" : "Motor Pump Service Centre",
+      "place_id" : "ChIJM1Sc-wl2AjoR2SBTBveBysw",
+      "reference" : "CnRtAAAAu-Vt0midinrEFWcIE3_GyJJyV_MwyfL3SmLHgv_IPcrNu_XjY4F9lmaakZUlyhb5Ag9M0SqDSgu4wFZXvLOBkJDAVLork5JzSrBJXfqDEBVngkPMfmWS_yUwws61s1H6NEp-4pqBH-1mEOBkuxwWHxIQJ1oBA_z4z3bca_QR9iyTPxoUBR27t4PnlOJojS1HPt93eUx46wM",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/111806425104977533755/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "AB/AC, AB Block, Salt Lake, Kolkata"
+   },
+   "status" : "OK"
+}

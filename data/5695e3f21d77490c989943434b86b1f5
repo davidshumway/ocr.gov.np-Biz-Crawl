@@ -1,0 +1,53 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "城东路",
+            "short_name" : "城东路",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Yadong",
+            "short_name" : "Yadong",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Xigaze",
+            "short_name" : "Xigaze",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Tibet",
+            "short_name" : "Tibet",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "China",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003eChina\u003c/span\u003e, \u003cspan class=\"region\"\u003eTibet\u003c/span\u003e, \u003cspan class=\"locality\"\u003eXigaze\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eYadong\u003c/span\u003e, \u003cspan class=\"street-address\"\u003e城东路\u003c/span\u003e",
+      "formatted_address" : "China, Tibet, Xigaze, Yadong, 城东路",
+      "formatted_phone_number" : "0892 822 2390",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.478398,
+            "lng" : 88.90671399999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "63a42518e5cc2f031d6e673a7555b6e4faba8a22",
+      "international_phone_number" : "+86 892 822 2390",
+      "name" : "Large Automobile Repair Factory",
+      "place_id" : "ChIJyT2SIuFI4TkRrkH3-bNNsEU",
+      "reference" : "CoQBcgAAAGZtxSZkJagAhsTwCd2Vlx6xsZ2beqgtEZvBP986duvO1SadqMFdNGYBRNGZIyXocc_oC0JmRV6w5fe47OjFPdc3qo26qe7CWTSQpBl5mjhozRkXyDVDQrCefLyr1c4rf4nWAQ9mHntMCPdlqdVXPuhru48SqYPZYFQ2TtCXK9dFEhAeuhWykeJ3Gpo-nHzEVQA5GhQx2eo1eOW7pc88BEy9xdd6lfVOkw",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/104775175190953869721/about?hl=en-US",
+      "utc_offset" : 480,
+      "vicinity" : "城东路, Yadong, Xigaze"
+   },
+   "status" : "OK"
+}

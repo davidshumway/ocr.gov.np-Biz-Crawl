@@ -1,0 +1,164 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Patnaik Estate",
+            "short_name" : "Patnaik Estate",
+            "types" : [ "premise" ]
+         },
+         {
+            "long_name" : "National Highway Road No.6",
+            "short_name" : "National Highway Road No.6",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Kendujhar",
+            "short_name" : "Kendujhar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Odisha",
+            "short_name" : "OD",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "758001",
+            "short_name" : "758001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "College Square, Patnaik Estate, \u003cspan class=\"street-address\"\u003eNational Highway Road No.6\u003c/span\u003e, \u003cspan class=\"region\"\u003eOdisha\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e758001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "College Square, Patnaik Estate, National Highway Road No.6, Odisha 758001, India",
+      "formatted_phone_number" : "1800 209 5577",
+      "geometry" : {
+         "location" : {
+            "lat" : 21.641339,
+            "lng" : 85.60953600000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "b42dd401d287d4e46756d646c55cbfb1566bde93",
+      "international_phone_number" : "+91 1800 209 5577",
+      "name" : "Axis Bank",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1530"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1530"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1530"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1530"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1530"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1330"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0930"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:30 am – 3:30 pm",
+            "Tuesday: 9:30 am – 3:30 pm",
+            "Wednesday: 9:30 am – 3:30 pm",
+            "Thursday: 9:30 am – 3:30 pm",
+            "Friday: 9:30 am – 3:30 pm",
+            "Saturday: 9:30 am – 1:30 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJhTj6-WT9HjoRESphIymxLcY",
+      "reference" : "CmRdAAAAy2MFAyI40SXy5npONXxGf8PhWHbbkxl6XgHxQOkIvHXtKjNNIOI1hPCB4c7Wepz9hB6mXtsj9u2ez93t-5i58CvfPoRT2Rgxk9BuIiMqaZGaHS0IV5z7Wv8El8dOPXBfEhAYCm83vb2-Izi-Z1DMZJnkGhRYvix1yU2Fy7DWetEc_k50zwWMew",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Laxman Mahanta",
+            "author_url" : "https://plus.google.com/107413696753669187346",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "Medium.",
+            "time" : 1390895076
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Nagaraj Bitta",
+            "author_url" : "https://plus.google.com/101913741481959837308",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1370587633
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "atm", "finance", "establishment" ],
+      "url" : "https://plus.google.com/114610940771536685340/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "College Square, Patnaik Estate, National Highway Road No.6",
+      "website" : "http://www.axisbank.com/"
+   },
+   "status" : "OK"
+}

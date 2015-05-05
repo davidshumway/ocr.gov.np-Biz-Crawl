@@ -1,0 +1,144 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1, Ground Floor",
+            "short_name" : "1, Ground Floor",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "Ganesh Chandra Ave",
+            "short_name" : "Ganesh Chandra Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bowbazar",
+            "short_name" : "Bowbazar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700013",
+            "short_name" : "700013",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "1, Ground Floor, \u003cspan class=\"street-address\"\u003eGanesh Chandra Ave\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBowbazar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700013\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "1, Ground Floor, Ganesh Chandra Ave, Bowbazar, Kolkata, West Bengal 700013, India",
+      "formatted_phone_number" : "033 2225 8503",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.569678,
+            "lng" : 88.353418
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "0fe81ee05497af15c99fb129ead5fc0992359af4",
+      "international_phone_number" : "+91 33 2225 8503",
+      "name" : "N.B.Electricals",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1130"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1130"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1130"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1130"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1130"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1130"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 11:30 am – 7:00 pm",
+            "Tuesday: 11:30 am – 7:00 pm",
+            "Wednesday: 11:30 am – 7:00 pm",
+            "Thursday: 11:30 am – 7:00 pm",
+            "Friday: 11:30 am – 7:00 pm",
+            "Saturday: 11:30 am – 7:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJT6kTGql3AjoRRAO8UN51O3Q",
+      "reference" : "CnRiAAAAoJh17tzdpdkVb6MNhVp8nIW179uPSEYOfNuBq5jUedIZIzOqwPn-lHgLFf3eI9I_FH5r4qaOFvVPHRQ2v8lkzPr62IQHX812vsmD-7UkZbSaSgYPt3xED-Q1PkeyT9foEIVGpy5syp3VC8wJX9eOfBIQdkaSBZi_4DswJqNaalo-JxoUhYdS22Up6YqfzrefHDO-BIge2-0",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "establishment" ],
+      "url" : "https://plus.google.com/118131380492954180876/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "1, Ground Floor, Ganesh Chandra Ave, Bowbazar, Kolkata"
+   },
+   "status" : "OK"
+}

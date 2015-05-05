@@ -1,0 +1,147 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Shop No.22",
+            "short_name" : "Shop No.22",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "128/233",
+            "short_name" : "128/233",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Near Post Office",
+            "short_name" : "Near Post Office",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Yashoda Nagar",
+            "short_name" : "Yashoda Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208011",
+            "short_name" : "208011",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Shop No.22, \u003cspan class=\"street-address\"\u003e128/233\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNear Post Office, Yashoda Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208011\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Shop No.22, 128/233, Near Post Office, Yashoda Nagar, Kanpur, Uttar Pradesh 208011, India",
+      "formatted_phone_number" : "090268 37238",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.411015,
+            "lng" : 80.327675
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "7f744edef1914152306cbd8393e23695f15dc250",
+      "international_phone_number" : "+91 90268 37238",
+      "name" : "Satyam Automobiles",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: Closed",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: 10:00 am – 8:00 pm"
+         ]
+      },
+      "place_id" : "ChIJMebqO_pGnDkRW7L4eIW_BYU",
+      "reference" : "CnRmAAAAT6nzQcRosACkDcHXRMjCBc6s9hugjHE7EGH-whvPxenujZ8gRg_Oopx3WdVWjjmCCJEwIPqZcSPLA4Wc4GhC4KubHBesTrxtThAo4ztG8Cwefadw2lGr0gxFXzULrYekhpBr4cL2m8rbB3rC-jyDyBIQwbXt8Yndtxw8RElNfncXLxoULKa108PyDzgEbbvB8His2Q9Ta3Y",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/115082761272593029329/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Shop No.22, 128/233, Near Post Office, Yashoda Nagar, Kanpur"
+   },
+   "status" : "OK"
+}

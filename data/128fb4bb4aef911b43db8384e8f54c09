@@ -1,0 +1,159 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "11/2",
+            "short_name" : "11/2",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "Mall Road",
+            "short_name" : "Mall Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Harsh Nagar",
+            "short_name" : "Harsh Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208012",
+            "short_name" : "208012",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "11/2, \u003cspan class=\"street-address\"\u003eMall Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eHarsh Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208012\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "11/2, Mall Road, Harsh Nagar, Kanpur, Uttar Pradesh 208012, India",
+      "formatted_phone_number" : "0512 254 0764",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.475911,
+            "lng" : 80.32565700000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+      "id" : "86f5f198752b170630f7038517be01f40c86e3f7",
+      "international_phone_number" : "+91 512 254 0764",
+      "name" : "New Happy Motors",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 9:00 pm",
+            "Tuesday: 10:00 am – 9:00 pm",
+            "Wednesday: 10:00 am – 9:00 pm",
+            "Thursday: 10:00 am – 9:00 pm",
+            "Friday: 10:00 am – 9:00 pm",
+            "Saturday: 10:00 am – 9:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ09rnkoY4nDkRb_njJXOaDu4",
+      "reference" : "CnRkAAAA3nS1UIHDu2M4ictlJvVAtNPmtxLL2mGMMk1995OpPA5wmC-zW0dYmyTYttV6ipG_JCnGF6nAn-ko_zRp9mIunmw1mvg3AFbyQ7_h3z25jRZEvK5iwgqWjkQnq_CWS7WUAJsgc3zepdaO42lIum4RwBIQvUxB5_ElM8o_RWeekZQfQhoU_F8BOk1PomBmFKvn8isnopf_Z08",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Chirag Kakkar",
+            "author_url" : "https://plus.google.com/110373601910204055217",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Very gud",
+            "time" : 1411561523
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "electronics_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/105320262516200150149/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "11/2, Mall Road, Harsh Nagar, Kanpur"
+   },
+   "status" : "OK"
+}

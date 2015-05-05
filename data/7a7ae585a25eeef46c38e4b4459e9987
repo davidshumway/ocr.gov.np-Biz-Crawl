@@ -1,0 +1,142 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "90/120",
+            "short_name" : "90/120",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Iftikharabad",
+            "short_name" : "Iftikharabad",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Mulganj",
+            "short_name" : "Mulganj",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208001",
+            "short_name" : "208001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e90/120\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eIftikharabad, Mulganj\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "90/120, Iftikharabad, Mulganj, Kanpur, Uttar Pradesh 208001, India",
+      "formatted_phone_number" : "099350 24292",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.465842,
+            "lng" : 80.344005
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "1bdad62e1d70e060eb81c737818852c87cb70b31",
+      "international_phone_number" : "+91 99350 24292",
+      "name" : "Star Material Store",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJMQm8Ll5HnDkRaYN5I6nLbDg",
+      "reference" : "CnRmAAAAqhMoFde2EzYjWu2z7OFa6IqOCebHfPy7I5VrCVoPmT3-mBzYZH4FrBaNW5rqQN9PAoJE9jZGd8631f57oTQveQoyATrDQGR7h5jX94eVcEopHuaTvnvutZmI2BMuW6qvXEEZGKXKf6DgFbIcuWac7RIQQF6IEdQ3zhTq1auYWStGExoU7rLHhcwVx3DgGR3tQ3s6nw1ROFk",
+      "scope" : "GOOGLE",
+      "types" : [ "shoe_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/114219387931047334545/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "90/120, Iftikharabad, Mulganj, Kanpur"
+   },
+   "status" : "OK"
+}

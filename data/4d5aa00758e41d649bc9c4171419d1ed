@@ -1,0 +1,65 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "20",
+            "short_name" : "20",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Noor Ali Lane",
+            "short_name" : "Noor Ali Ln",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Intally",
+            "short_name" : "Intally",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700014",
+            "short_name" : "700014",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e20, Noor Ali Lane\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eIntally\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700014\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "20, Noor Ali Lane, Intally, Kolkata, West Bengal 700014, India",
+      "formatted_phone_number" : "033 2284 7728",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.552956,
+            "lng" : 88.366578
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "95de330c49f41199437546516e5cf2d4bc4c8350",
+      "international_phone_number" : "+91 33 2284 7728",
+      "name" : "Anjuman Mufidul Islam",
+      "place_id" : "ChIJkeZIuPx2AjoRqs-qn7IFJyo",
+      "reference" : "CnRoAAAA9-inFAVuZeEY0cNRNpc93PdAWb-kMJ93YF2HkIDXjlNXlG8NyBMtiZ_zG8yCsfVv1M53F775JUHCIqCFHK5OkY4ZEl6sbK8xOozHPjNRKgvfmD_-PMPSf_I5185VCSYg4HO32igzAK22dsOMKp6r_RIQgy9yySTy2P_QT_VigtYQFxoUkkFAI_P8YmW--fYfnU1wnDnyRtk",
+      "scope" : "GOOGLE",
+      "types" : [ "health", "establishment" ],
+      "url" : "https://plus.google.com/109279007480543692901/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "20, Noor Ali Lane, Intally, Kolkata"
+   },
+   "status" : "OK"
+}

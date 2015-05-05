@@ -1,0 +1,150 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Taherpur Road",
+            "short_name" : "Taherpur Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Birnagar",
+            "short_name" : "Birnagar",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Nadia",
+            "short_name" : "Nadia",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "741127",
+            "short_name" : "741127",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eTaherpur Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBirnagar\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e741127\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Taherpur Road, Birnagar, West Bengal 741127, India",
+      "formatted_phone_number" : "03473 260 224",
+      "geometry" : {
+         "location" : {
+            "lat" : 23.242194,
+            "lng" : 88.55732
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "d5606d58e8a2899330483ca7f04e4175d74f4f4e",
+      "international_phone_number" : "+91 3473 260 224",
+      "name" : "Post Office",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0930"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:30 am – 5:00 pm",
+            "Tuesday: 9:30 am – 5:00 pm",
+            "Wednesday: 9:30 am – 5:00 pm",
+            "Thursday: 9:30 am – 5:00 pm",
+            "Friday: 9:30 am – 5:00 pm",
+            "Saturday: 9:30 am – 5:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJgUJgmYfb-DkR6_7h1P8ncSQ",
+      "reference" : "CmReAAAAW9sGLxTw0Hy5rk1exO_Snj6SNK4aIArM_oIZ7WomFn9WK_QpxyF2rBv26Fl5XdOVIRfxdC_Twe4kJsVz7kWcDCBB9cQpzDpeSmB6IzGnYmejJ-iR0eApCjcrb7vzHb1iEhC0fUUON-W2LTP6tNpwMqHCGhTdx-0yM9KP5SIFeLxT7hkWFqgH0w",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Yamin Mondal",
+            "author_url" : "https://plus.google.com/102115941226241330304",
+            "language" : "en",
+            "rating" : 1,
+            "text" : "Yamin mondal",
+            "time" : 1412024594
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "post_office", "finance", "establishment" ],
+      "url" : "https://plus.google.com/108423859401638562154/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Taherpur Road, Birnagar",
+      "website" : "http://www.indiapost.gov.in/"
+   },
+   "status" : "OK"
+}

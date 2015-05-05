@@ -1,0 +1,86 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Jail Road",
+            "short_name" : "Jail Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Sitapur",
+            "short_name" : "Sitapur",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Sitapur",
+            "short_name" : "Sitapur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Sitapur",
+            "short_name" : "Sitapur",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "261001",
+            "short_name" : "261001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eJail Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSitapur\u003c/span\u003e, \u003cspan class=\"locality\"\u003eSitapur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e261001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Jail Road, Sitapur, Sitapur, Uttar Pradesh 261001, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.566148,
+            "lng" : 80.684659
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "70a90470067f057fdd0e72adac4cec10945b02f8",
+      "name" : "Krishna Bhawan",
+      "place_id" : "ChIJRwsfOFbWnjkRWTTqR2L3RG4",
+      "reference" : "CnRhAAAA_0uW5w7zuSNELlwOhJbKAgwwF7vvV37rK8txNJh6r8gtjjCkwQwwZSnQ9GZUW0044dK2KXK4kMDRVKJK_j_rvHMU0j_mgpREqJThPnY5N3pFYfJuBSX0rhQMMgg0kTzVJOmVdaCOXSrMcBeUp6pinxIQcT_qqXcnkxZjtenHWGqZQhoUP9F7N354Z8RIbJFR66-nDO6F0cg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 2,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Manu Bhargava",
+            "author_url" : "https://plus.google.com/111713099367120929189",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "This is my house",
+            "time" : 1373305219
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/108592067090015537498/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Jail Road, Sitapur"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,73 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "NH 110",
+            "short_name" : "NH110",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Jahanabad",
+            "short_name" : "Jahanabad",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Jehanabad",
+            "short_name" : "Jehanabad",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "804417",
+            "short_name" : "804417",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNH 110\u003c/span\u003e, \u003cspan class=\"locality\"\u003eJahanabad\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e804417\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "NH 110, Jahanabad, Bihar 804417, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.224835,
+            "lng" : 84.99834
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "61a16e9508998ecc4792535e9b9f9aa61011b4ab",
+      "name" : "Mobile Tower",
+      "place_id" : "ChIJH62La7618jkRY7qhfWYn9d8",
+      "reference" : "CmRgAAAAzxvb4u3jnmBTZVnnugM8PH_KbfjZWzzNfPqj5i4cGdj4ivlyALNt7W8JH4t7kVHXT2xy7KCZRiJ9YDDh9HcIBcQLBeP9PMy18oqeKm_PVhgT-BszxNb0iAG-WSf21PulEhBYo5WBPgRBeDKCpuTcNeyXGhQNVM_3t7QpyRdeBi6wTQ2xLfnAgQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "rohit prakash",
+            "author_url" : "https://plus.google.com/115761528889415211052",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "My house",
+            "time" : 1402678856
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/111270612911465378912/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "NH 110, Jahanabad"
+   },
+   "status" : "OK"
+}

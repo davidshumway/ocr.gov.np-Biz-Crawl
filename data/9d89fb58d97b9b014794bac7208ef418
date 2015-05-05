@@ -1,0 +1,142 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Kamachha Road",
+            "short_name" : "Kamachha Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bhelupur",
+            "short_name" : "Bhelupur",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Varanasi",
+            "short_name" : "Varanasi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Varanasi",
+            "short_name" : "Varanasi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "221001",
+            "short_name" : "221001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eKamachha Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBhelupur\u003c/span\u003e, \u003cspan class=\"locality\"\u003eVaranasi\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e221001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Kamachha Road, Bhelupur, Varanasi, Uttar Pradesh 221001, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.299929,
+            "lng" : 83.000939
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "33f91c3b14e64ae3bf8f2854af0205adaf594f05",
+      "name" : "Nokia Service Centre",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 11:00 am – 5:00 pm",
+            "Tuesday: 11:00 am – 5:00 pm",
+            "Wednesday: 11:00 am – 5:00 pm",
+            "Thursday: 11:00 am – 5:00 pm",
+            "Friday: 11:00 am – 5:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJlTfkofsxjjkRqOV52Yi_CtE",
+      "reference" : "CnRoAAAAGNDlJlq12t91XoGEBrd_i3t8r_NGanoTpB4AQZnkjahhFyUSshb94X_8_2teySW5FCjRzJAI1PQ20txbcgO4iccZSnOwj63IWQcgkMJD_JiZbIVIWL5c83KKWvaxsdE95QsNt8iSBeAEWjJRlGZaxBIQQjD459pHqBkr3DEkjynZIBoUNhm59Se7aL6yOqzVKjPuE9BeuFo",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Manish Yadav",
+            "author_url" : "https://plus.google.com/108016357502848908918",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Manish",
+            "time" : 1422208280
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/107511651555813224788/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Kamachha Road, Bhelupur, Varanasi"
+   },
+   "status" : "OK"
+}

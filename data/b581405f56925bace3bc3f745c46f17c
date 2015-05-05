@@ -1,0 +1,153 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Post Office Building",
+            "short_name" : "Post Office Building",
+            "types" : [ "premise" ]
+         },
+         {
+            "long_name" : "87/10",
+            "short_name" : "87/10",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Kalpi Road",
+            "short_name" : "Kalpi Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Acharya Magar",
+            "short_name" : "Acharya Magar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208003",
+            "short_name" : "208003",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Post Office Building, \u003cspan class=\"street-address\"\u003e87/10, Kalpi Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eAcharya Magar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208003\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Post Office Building, 87/10, Kalpi Road, Acharya Magar, Kanpur, Uttar Pradesh 208003, India",
+      "formatted_phone_number" : "098072 07608",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.462998,
+            "lng" : 80.32717599999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "ea629d8e0dcb8b2de9684a95de97b499bc5d36b4",
+      "international_phone_number" : "+91 98072 07608",
+      "name" : "Natraj Furniture",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJE62FDXxHnDkRnQ-mikxdio8",
+      "reference" : "CnRkAAAA-fA7cMJFrRgXtdvR9SnAh_OuGrAkixt0G7HyMUY_1c4dtq_sOuZ0UYBkzbp9PjDEA8rBfHVh-QY0LztG-F8TeFcu4Y72n2ormJDPXnveB_StVf4to0ES_uur6pA6CRce6155_8UdhDmNsXZlfp1FIhIQgX7oAbmuF_eqSwoYuWxC_BoU8pK7SzmfZaQhtzZQlMI4Y59S69E",
+      "scope" : "GOOGLE",
+      "types" : [
+         "furniture_store",
+         "general_contractor",
+         "home_goods_store",
+         "store",
+         "establishment"
+      ],
+      "url" : "https://plus.google.com/100120392158316189951/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Post Office Building, 87/10, Kalpi Road, Acharya Magar, Kanpur"
+   },
+   "status" : "OK"
+}

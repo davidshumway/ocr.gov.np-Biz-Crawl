@@ -1,0 +1,149 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Mahatma Gandhi Road",
+            "short_name" : "Mahatma Gandhi Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Haridevpur",
+            "short_name" : "Haridevpur",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Paschim Putiary",
+            "short_name" : "Paschim Putiary",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700082",
+            "short_name" : "700082",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eMahatma Gandhi Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eHaridevpur, Paschim Putiary\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700082\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Mahatma Gandhi Road, Haridevpur, Paschim Putiary, Kolkata, West Bengal 700082, India",
+      "formatted_phone_number" : "098312 41902",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.479,
+            "lng" : 88.33822000000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "826fb59173537282b43297b9ed1d61cde1fd4900",
+      "international_phone_number" : "+91 98312 41902",
+      "name" : "Kutchina",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1100"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 11:00 am – 10:00 pm",
+            "Tuesday: 11:00 am – 10:00 pm",
+            "Wednesday: 11:00 am – 10:00 pm",
+            "Thursday: 11:00 am – 10:00 pm",
+            "Friday: 11:00 am – 10:00 pm",
+            "Saturday: 11:00 am – 10:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJeWVQdo5wAjoR42HldUb8cFM",
+      "reference" : "CmRbAAAAlkVBbuddlKfu3dlypw_llTMrW9sJH7Vx-VZv4i_gvw3zoS0P5xltqG2o1MwNIAhwWIBWIm4Ck0KFIMUSJet99QPbfjU3bK8ua1SiD_e5sd_rLiSXHgzY93qiYz-QW10SEhCxZoWUjKq7h-d7y9A-J5ZlGhQi40Us0hRvw0WzWD7kkMuDcq11Vw",
+      "scope" : "GOOGLE",
+      "types" : [
+         "furniture_store",
+         "general_contractor",
+         "home_goods_store",
+         "store",
+         "establishment"
+      ],
+      "url" : "https://plus.google.com/109986776241040695321/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Mahatma Gandhi Road, Haridevpur, Paschim Putiary, Kolkata",
+      "website" : "http://www.kutchina.com/"
+   },
+   "status" : "OK"
+}

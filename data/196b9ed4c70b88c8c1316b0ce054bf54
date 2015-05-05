@@ -1,0 +1,156 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700071",
+            "short_name" : "700071",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Alom House, 2nd Floor 7B, Pretoria Street, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700071\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Alom House, 2nd Floor 7B, Pretoria Street, Kolkata, West Bengal 700071, India",
+      "formatted_phone_number" : "033 2282 9166",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.542897,
+            "lng" : 88.3503
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "0085c3c7b84bc0a792f08be0157f28ef89acd185",
+      "international_phone_number" : "+91 33 2282 9166",
+      "name" : "Diamond Group",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 5:30 pm",
+            "Tuesday: 10:00 am – 5:30 pm",
+            "Wednesday: 10:00 am – 5:30 pm",
+            "Thursday: 10:00 am – 5:30 pm",
+            "Friday: 10:00 am – 5:30 pm",
+            "Saturday: 10:00 am – 5:30 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJpVXF-BZ3AjoRrqXuX92LimM",
+      "reference" : "CmRgAAAAND7P4KjLRgZ9zSMNdT5Z1U1vVEYvb_mzPvxg1BMIDUqfJJ2fOj3E7gL1f3lSR5cQvW8roPjMIBnRegl5xhmBBwezm6lCEjN9WwUbUuF7QkFHkAYQCYxnKAKjk4oVCsH1EhAKQgXe5aMZIly7YCAvBbCFGhRc25jCUzpmBYDjQ0U2sG9jI8ipmg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Apurba Sarkar",
+            "author_url" : "https://plus.google.com/113658857634739902619",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "It will be the Tallest building in north-east india. 62 floors.",
+            "time" : 1420979236
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Santosh Kumar",
+            "author_url" : "https://plus.google.com/115653623478508596481",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1380609796
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/107460248963962280115/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "Alom House, 2nd Floor 7B, Pretoria Street, Kolkata",
+      "website" : "http://www.diamondgroupweb.com/"
+   },
+   "status" : "OK"
+}

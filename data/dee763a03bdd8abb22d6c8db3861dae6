@@ -1,0 +1,142 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "St Kabir Rd",
+            "short_name" : "St Kabir Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bada Ganesh, Maidagin, Near Gyan Mandal Plaza",
+            "short_name" : "Bada Ganesh, Maidagin, Near Gyan Mandal Plaza",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Bulanala",
+            "short_name" : "Bulanala",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Varanasi",
+            "short_name" : "Varanasi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Varanasi",
+            "short_name" : "Varanasi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "221001",
+            "short_name" : "221001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eSt Kabir Rd\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBada Ganesh, Maidagin, Near Gyan Mandal Plaza, Bulanala\u003c/span\u003e, \u003cspan class=\"locality\"\u003eVaranasi\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e221001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "St Kabir Rd, Bada Ganesh, Maidagin, Near Gyan Mandal Plaza, Bulanala, Varanasi, Uttar Pradesh 221001, India",
+      "formatted_phone_number" : "0542 241 4555",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.318749,
+            "lng" : 83.011616
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "5d56c9576c3847d64a18d1e83852438a89d05a67",
+      "international_phone_number" : "+91 542 241 4555",
+      "name" : "Dhiraj Lime Company",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 9:00 pm",
+            "Tuesday: 10:00 am – 9:00 pm",
+            "Wednesday: 10:00 am – 9:00 pm",
+            "Thursday: 10:00 am – 9:00 pm",
+            "Friday: 10:00 am – 9:00 pm",
+            "Saturday: 10:00 am – 9:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJsXg3zBkujjkRNUOaibj1F9o",
+      "reference" : "CnRnAAAAHojkJi5l3iWDWMYH8MDvrJpIXQX4MqWZrAWg7agjaUDW6DSpX1Dh0eW9xixmiB7zSAYYwHxX3UAfsvfjx3yhYMn4PFiaSbCC517Y1ecxdSkvFCmlutSQPs0EffC1sUQZgKLAAXWNinfy-0VEkS747BIQMyNA83EGGQOgDRext4yGOxoUUJatDYbmmQ0pVwainpJMFOCwrNo",
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/100690275822410992120/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "St Kabir Rd, Bada Ganesh, Maidagin, Near Gyan Mandal Plaza, Bulanala, Varanasi"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,152 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "University Rd, BHU Road",
+            "short_name" : "University Rd, BHU Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Near JIT College",
+            "short_name" : "Near JIT College",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Karaundi",
+            "short_name" : "Karaundi",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Varanasi",
+            "short_name" : "Varanasi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Varanasi",
+            "short_name" : "Varanasi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "221005",
+            "short_name" : "221005",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eUniversity Rd, BHU Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNear JIT College, Karaundi\u003c/span\u003e, \u003cspan class=\"locality\"\u003eVaranasi\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e221005\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "University Rd, BHU Road, Near JIT College, Karaundi, Varanasi, Uttar Pradesh 221005, India",
+      "formatted_phone_number" : "075239 48595",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.274361,
+            "lng" : 82.983875
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "85a520fabab3f961cd2f0e84c0edc4acba2898b5",
+      "international_phone_number" : "+91 75239 48595",
+      "name" : "Chandan Auto Service Centre",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 am – 8:00 pm",
+            "Tuesday: 8:00 am – 8:00 pm",
+            "Wednesday: 8:00 am – 8:00 pm",
+            "Thursday: 8:00 am – 8:00 pm",
+            "Friday: 8:00 am – 8:00 pm",
+            "Saturday: 8:00 am – 8:00 pm",
+            "Sunday: 8:00 am – 8:00 pm"
+         ]
+      },
+      "place_id" : "ChIJLTzv4CQyjjkRKfHMz7vRW4k",
+      "reference" : "CnRvAAAAOU-wZ0c56Vs9zWscXlEHLssDWdDGhdJscP8KT0Cr4ZYVbbRLusoy6YopLNCHMjR7r5OTiqq_1T1WKek8fvjprdc-OXDASO8yZkMjjbscYwWsf1EASssrM0tzEA3DLS2_4ix67Bdn5jx8dTxcUTX4GBIQ7UyrQimO5WDi-ch8RDUOVBoU1uGjJWW61ZCgWr0qyw7tNEiR7kU",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/118093984935737666154/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "University Rd, BHU Road, Near JIT College, Karaundi, Varanasi"
+   },
+   "status" : "OK"
+}

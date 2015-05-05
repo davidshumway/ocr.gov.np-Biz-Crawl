@@ -1,0 +1,147 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "13",
+            "short_name" : "13",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Chandi Ghosh Road",
+            "short_name" : "Chandi Ghosh Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Kudghat",
+            "short_name" : "Kudghat",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ashok Nagar",
+            "short_name" : "Ashok Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700040",
+            "short_name" : "700040",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e13, Chandi Ghosh Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eKudghat, Ashok Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700040\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "13, Chandi Ghosh Road, Kudghat, Ashok Nagar, Kolkata, West Bengal 700040, India",
+      "formatted_phone_number" : "098304 72317",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.484259,
+            "lng" : 88.34639300000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "2e9243009e9d871b8a34fbfb9e240c66c7f843bb",
+      "international_phone_number" : "+91 98304 72317",
+      "name" : "Saha Enterprises",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 9:00 pm",
+            "Tuesday: 10:00 am – 9:00 pm",
+            "Wednesday: 10:00 am – 9:00 pm",
+            "Thursday: 10:00 am – 9:00 pm",
+            "Friday: 10:00 am – 9:00 pm",
+            "Saturday: 10:00 am – 9:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJSYAxRexwAjoR0S9nrnSVVZg",
+      "reference" : "CnRkAAAAFer41z284owGspuz7T-fuOz5RnES7uHQzckrPKc2QOdIYoYoQbWZof9e4orH00AxqTIr8XPAYIUL10otSXO-FAgyM78nUnDoZIY2xIuwsaF_q-YC1zddRTe99NXoBinmi_F0SR3pj5rxO3S9KYP34xIQeWtLIgwMglRFBTrdJoqMJBoU5IiN_vrg38vMkjeqZeVxpyMK7xg",
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/105967132212605092808/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "13, Chandi Ghosh Road, Kudghat, Ashok Nagar, Kolkata"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,133 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "2nd Floor",
+            "short_name" : "2nd Floor",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "Sone Bhawan",
+            "short_name" : "Sone Bhawan",
+            "types" : [ "premise" ]
+         },
+         {
+            "long_name" : "B.C. Patel Marg",
+            "short_name" : "B.C. Patel Marg",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Patna",
+            "short_name" : "Patna",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Patna",
+            "short_name" : "Patna",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "800001",
+            "short_name" : "800001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "2nd Floor, Sone Bhawan, \u003cspan class=\"street-address\"\u003eB.C. Patel Marg\u003c/span\u003e, \u003cspan class=\"locality\"\u003ePatna\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e800001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "2nd Floor, Sone Bhawan, B.C. Patel Marg, Patna, Bihar 800001, India",
+      "formatted_phone_number" : "0612 222 4002",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.601434,
+            "lng" : 85.125845
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "3c8bae2482a6bf0ce166efb9a7f9fa73d09e88f8",
+      "international_phone_number" : "+91 612 222 4002",
+      "name" : "Bihar State Hydroelectric Power Corporation",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 5:00 pm",
+            "Tuesday: 10:00 am – 5:00 pm",
+            "Wednesday: 10:00 am – 5:00 pm",
+            "Thursday: 10:00 am – 5:00 pm",
+            "Friday: 10:00 am – 5:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJqR3flBRY7TkRNgkwqAXltps",
+      "reference" : "CoQBfwAAAOJr539N6uztjA1_ANqCmSQLgn2M8Z-o8Exz750mpwlw_fS66Z8tEoBTmt2kmSFVLbBuBznK6hHRuP-Gb1HnnoJ9phNRFDtX7wq0pmhPr9-BiVy_-K-M0VEOJLsrULY1CtaZSiV9__yefWmteWFI4lmSqGiCnvwXb1BtHMw9PnMeEhAutjI3ASvn0prtdO_Pru6IGhTeC8uswmdCSriGfG-DTp2ZSrcgQA",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/102255512973947878756/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "2nd Floor, Sone Bhawan, B.C. Patel Marg, Patna",
+      "website" : "http://www.bshpcltd.com/"
+   },
+   "status" : "OK"
+}

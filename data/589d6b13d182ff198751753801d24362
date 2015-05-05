@@ -1,0 +1,145 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Bhagalpur Road",
+            "short_name" : "Bhagalpur Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Dumka",
+            "short_name" : "Dumka",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Dumka",
+            "short_name" : "Dumka",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Jharkhand",
+            "short_name" : "JH",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "At PO - 814101, \u003cspan class=\"street-address\"\u003eBhagalpur Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eDumka\u003c/span\u003e, \u003cspan class=\"region\"\u003eJharkhand\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "At PO - 814101, Bhagalpur Road, Dumka, Jharkhand, India",
+      "formatted_phone_number" : "06434 231 041",
+      "geometry" : {
+         "location" : {
+            "lat" : 24.271824,
+            "lng" : 87.246026
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "a5d474fdec23050243a4b8c046c6bc72b2d38b20",
+      "international_phone_number" : "+91 6434 231 041",
+      "name" : "Axis Bank",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1530"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1530"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1530"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1530"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1530"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1330"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0930"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:30 am – 3:30 pm",
+            "Tuesday: 9:30 am – 3:30 pm",
+            "Wednesday: 9:30 am – 3:30 pm",
+            "Thursday: 9:30 am – 3:30 pm",
+            "Friday: 9:30 am – 3:30 pm",
+            "Saturday: 9:30 am – 1:30 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJZRRZObe38DkRfMj_FcY_T0k",
+      "reference" : "CmRcAAAA-PjEHbddCbrdbe89OiAs30zhsd0ZA3ysPzEA49r3iJEtDOaNfLuyJPxFYVnfwchH7xIoi_psX76XdVfClS72UFepBcCZwePMtM8RvYg44uaZ6ZZPY43ypQUgJz-u-IN9EhCUT6X3ewj6FkH6ZdgIM_lFGhRkXK6DhP9ovGb-Jher2gIBOwcJ4A",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Nishant Aryan",
+            "author_url" : "https://plus.google.com/115862465139556266781",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1374264715
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "bank", "finance", "establishment" ],
+      "url" : "https://plus.google.com/100029322994580152079/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "At PO - 814101, Bhagalpur Road, Dumka",
+      "website" : "http://www.axisbank.com/"
+   },
+   "status" : "OK"
+}

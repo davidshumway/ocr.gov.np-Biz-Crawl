@@ -1,0 +1,66 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "130",
+            "short_name" : "130",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Diamond Harbour Road",
+            "short_name" : "Diamond Harbour Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Behala",
+            "short_name" : "Behala",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700060",
+            "short_name" : "700060",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e130, Diamond Harbour Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBehala\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700060\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "130, Diamond Harbour Road, Behala, Kolkata, West Bengal 700060, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.507049,
+            "lng" : 88.320774
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "503e2e1a4ed4312c0582a68d588cfab936f8cd22",
+      "name" : "M.K.Auto Agency",
+      "place_id" : "ChIJQySo9wZ6AjoRk5_TSNgOncE",
+      "reference" : "CnRjAAAAp-7kWU0y-eGjDD_lG1D1waZno9Z7IQcc2r9LlKPzvq_gNkhz_Pq5dPHU7yjdfrGoa86Ho3lTaDlZ3du5XB5CgNnp4FV5OOs9JIB_JBj886nmVWsy_1yz3WsoyCDiR8vTmABTaYEXks_E1iG58a2-QxIQtDBH4OuFKWeUg1HEz9uvExoUzncNnyfSE1GXQQjjjf1xHnJR7oA",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/104713591965378480781/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "130, Diamond Harbour Road, Behala, Kolkata"
+   },
+   "status" : "OK"
+}

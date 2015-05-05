@@ -1,0 +1,76 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Fraser Rd",
+            "short_name" : "Fraser Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Patna",
+            "short_name" : "Patna",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Patna",
+            "short_name" : "Patna",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "Bihar",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "800001",
+            "short_name" : "800001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Chandni Chowk Market, \u003cspan class=\"street-address\"\u003eFraser Rd\u003c/span\u003e, \u003cspan class=\"locality\"\u003ePatna\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e800001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Chandni Chowk Market, Fraser Rd, Patna, Bihar 800001, India",
+      "formatted_phone_number" : "093081 37652",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.605868,
+            "lng" : 85.138085
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "4ce050f7698f9c125cd664c79e0a27e58e42ed7d",
+      "international_phone_number" : "+91 93081 37652",
+      "name" : "Jaiswal Electricals",
+      "place_id" : "ChIJ7fS8tlxY7TkR5d_XAhlVUi4",
+      "reference" : "CnRmAAAArIKmqNNzSl4eD6AFIpGmdaTccshfMMFd_f6shzVlCdlFGAkYXu-MRbUKqQi0A-Iv2B7-YZJexPReCBbl4IxqFmcB-7-gt06DfWgyW1Wk3kQq83--UHlEbM7I6vEx7kx3EBON7mnD7oq5Yagxxz7NehIQHkGNAw5WeUYa3emm-8wMhhoUr1O-MbMD3e6DREaOzklYVf-TUEg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "best in decorating item.... n goods.",
+            "time" : 1315726029
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "store", "establishment" ],
+      "url" : "https://plus.google.com/114811129499890802957/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Chandni Chowk Market, Fraser Rd, Patna"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,157 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "165",
+            "short_name" : "165",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Main Road",
+            "short_name" : "Main Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "LIG",
+            "short_name" : "LIG",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Barra 4",
+            "short_name" : "Barra 4",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208027",
+            "short_name" : "208027",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e165, Main Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eLIG, Barra 4\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208027\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "165, Main Road, LIG, Barra 4, Kanpur, Uttar Pradesh 208027, India",
+      "formatted_phone_number" : "094157 38983",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.439828,
+            "lng" : 80.290429
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "ac6e5ead497813b9c0770ebd8d01ff512caffd3a",
+      "international_phone_number" : "+91 94157 38983",
+      "name" : "City Auto Parts",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 6:00 pm",
+            "Tuesday: 10:00 am – 6:00 pm",
+            "Wednesday: 10:00 am – 6:00 pm",
+            "Thursday: 10:00 am – 6:00 pm",
+            "Friday: 10:00 am – 6:00 pm",
+            "Saturday: 10:00 am – 6:00 pm",
+            "Sunday: 10:00 am – 6:00 pm"
+         ]
+      },
+      "place_id" : "ChIJT3su_MJHnDkRuMPMFToz9_8",
+      "reference" : "CnRjAAAAEnM9wBiAFMqsPZi5M1_81CFjb6MDLOUXSwj_Xw3QGRhr3TyCkJ9qcoZD2P8HYlMafOXWEP_2n0HwsZBgNY55IStNheSv8nc4DrT9OL8UsZDQqNz6WZ-BWGy3TMnSaBElo_WWsVMcnqb3L8w1693YzBIQSydt2Ccsf1S4u3VpcEpfbBoUoufGV5Qlz9AtQC4pzH3ILITAJkA",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/103739082253141666096/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "165, Main Road, LIG, Barra 4, Kanpur"
+   },
+   "status" : "OK"
+}

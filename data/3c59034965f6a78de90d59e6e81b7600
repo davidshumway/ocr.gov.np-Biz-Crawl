@@ -1,0 +1,149 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Shamshabad Road",
+            "short_name" : "Shamshabad Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Opp. Rajeshwar Mandir",
+            "short_name" : "Opp. Rajeshwar Mandir",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Shamsabad",
+            "short_name" : "Shamsabad",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Agra",
+            "short_name" : "Agra",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Agra",
+            "short_name" : "Agra",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "282001",
+            "short_name" : "282001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eShamshabad Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eOpp. Rajeshwar Mandir, Shamsabad\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAgra\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e282001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Shamshabad Road, Opp. Rajeshwar Mandir, Shamsabad, Agra, Uttar Pradesh 282001, India",
+      "formatted_phone_number" : "094560 24946",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.143002,
+            "lng" : 78.043717
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "3440237a72db5015ea67ae66ab9eb427beb329f7",
+      "international_phone_number" : "+91 94560 24946",
+      "name" : "M G Electronics And Furniture",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 9:00 pm",
+            "Tuesday: Closed",
+            "Wednesday: 10:00 am – 9:00 pm",
+            "Thursday: 10:00 am – 9:00 pm",
+            "Friday: 10:00 am – 9:00 pm",
+            "Saturday: 10:00 am – 9:00 pm",
+            "Sunday: 10:00 am – 9:00 pm"
+         ]
+      },
+      "place_id" : "ChIJ3VXAFGhxdDkR0l52plbHH3I",
+      "reference" : "CnRwAAAATP3CHy2vQD2F1zMJsnxmCcESZ5zv7FlCv4S0gfXqyrdHKBjm-nxXqKh0bjAaq0MHc8AmNHt0bBcV4y92weKuFyG3xySytRphWfWfDjlgNQxfUgvyZBF8ad5iQUxAaYwNFWhL_1uGI9yxLsbM2daNpBIQ33OhGU_R8iL-6Hav___VXhoUlXQVHAzrXQ3DDhmQthfQAvUa9V8",
+      "scope" : "GOOGLE",
+      "types" : [
+         "furniture_store",
+         "electronics_store",
+         "general_contractor",
+         "home_goods_store",
+         "store",
+         "establishment"
+      ],
+      "url" : "https://plus.google.com/106569587324444870373/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Shamshabad Road, Opp. Rajeshwar Mandir, Shamsabad, Agra"
+   },
+   "status" : "OK"
+}

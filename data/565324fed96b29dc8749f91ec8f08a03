@@ -1,0 +1,88 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Joka",
+            "short_name" : "Joka",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700063",
+            "short_name" : "700063",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"extended-address\"\u003eJoka\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700063\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Joka, Kolkata, West Bengal 700063, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.456639,
+            "lng" : 88.31641399999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "e9df586676558a7b7f91c51c8c24f3b1c06aa3a6",
+      "name" : "Eden Brookside",
+      "place_id" : "ChIJm7NsKYV6AjoRffxBNmYuHak",
+      "reference" : "CnRiAAAA97LYZLX17S1_FsYTh0ys2j3mnNrySHVkR9bQBuQvTC6Litu6eym6IlBZgUPCM5cwoFDWXHPrfKrSA_sSS_JmE3HkyewjWrHEnk3Y_askrtgcM_8D8RobJgFCypSwLail8fwX4_hnqkc1z6-AIs4O-BIQ2Nzep44ffYe-81HeKcCjvBoUWGTXCv1eYt_S38h8tmMnHlUDMVg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Sandip Ray",
+            "author_url" : "https://plus.google.com/111268373811999280607",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "Peaceful",
+            "time" : 1412487809
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Pradip Kp",
+            "author_url" : "https://plus.google.com/100162827439281214054",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1426398941
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/105064324108104359382/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "Joka, Kolkata",
+      "website" : "http://www.edengroup.in/"
+   },
+   "status" : "OK"
+}

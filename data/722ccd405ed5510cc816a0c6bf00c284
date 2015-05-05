@@ -1,0 +1,82 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Kusmi Mahartha Road",
+            "short_name" : "Kusmi Mahartha Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Saharsa",
+            "short_name" : "Saharsa",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Saharsa",
+            "short_name" : "Saharsa",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "852202",
+            "short_name" : "852202",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eKusmi Mahartha Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eSaharsa\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e852202\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Kusmi Mahartha Road, Saharsa, Bihar 852202, India",
+      "formatted_phone_number" : "06478 223 243",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.860223,
+            "lng" : 86.57737299999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "aaa723df01d9935d1b3613d6ba42c9b39a50799c",
+      "international_phone_number" : "+91 6478 223 243",
+      "name" : "bhola gupta warehouse",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJCwAiJSsW7jkReLS5ozPM4vU",
+      "reference" : "CnRpAAAACcTx9HFRbzhcGOD93ojQU7ddnYx__2k7RtMwpUq0vU9Dcf49yGWodFQ55hs2cImY3g8P_KQOaGI5bSjDhTzR6aA716yZjlKw-uYz3X3XknDcVWSl0tAnoEpnnpAvRHZZJkEuq6jzV4oukcUgGRuoiRIQdoXPHdGJMfZ3QQQN1KRoYhoUSCmMkGQqpaiUc5wp-A2VvNxc2oA",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/107755200801184788841/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Kusmi Mahartha Road, Saharsa"
+   },
+   "status" : "OK"
+}

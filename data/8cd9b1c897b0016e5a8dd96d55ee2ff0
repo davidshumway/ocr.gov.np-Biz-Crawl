@@ -1,0 +1,87 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Jamalpur Road",
+            "short_name" : "Jamalpur Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Tangail",
+            "short_name" : "Tangail",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Dhaka Division",
+            "short_name" : "Dhaka Division",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Bangladesh",
+            "short_name" : "BD",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eJamalpur Road\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eBangladesh\u003c/span\u003e",
+      "formatted_address" : "Jamalpur Road, Bangladesh",
+      "geometry" : {
+         "location" : {
+            "lat" : 24.671793,
+            "lng" : 89.954939
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "23aabd7fe32d06111bf8723a32dd82293ffa75a5",
+      "name" : "Titas Oil Service",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJhXMYkfyI_TkRR8wTUh3YqZA",
+      "reference" : "CnRlAAAAsulRAky_3j-0dIIvbSM_OTR5bVp-jPzictK28ale0oxouL2XyUnI87Uv2OUUhXcP3E7g2rkpHOjYccvWi3ryh6c_2Phsx1omgMqC8jn_ck5UT75i4hmcpNWToIlcEFiN1MzpnQoUZ9b7wfhnBqLufBIQmWCh5W0xB8gp8Ig20cCmTRoUg4CatqLZq7FlMvARvq1L6X3HCYc",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "abu momin",
+            "author_url" : "https://plus.google.com/102895996323816780841",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "ok",
+            "time" : 1399585593
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/103166512404635418574/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 360,
+      "vicinity" : "Jamalpur Road"
+   },
+   "status" : "OK"
+}

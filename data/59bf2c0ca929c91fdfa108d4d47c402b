@@ -1,0 +1,50 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700016",
+            "short_name" : "700016",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "111, Park Street, \u003cspan class=\"street-address\"\u003ePark Street\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700016\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "111, Park Street, Park Street, Kolkata, West Bengal 700016, India",
+      "formatted_phone_number" : "033 2283 7653",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.560678,
+            "lng" : 88.363981
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "8c5229301bf55829086a3b45ac3930a9fc37b11f",
+      "international_phone_number" : "+91 33 2283 7653",
+      "name" : "Sarbani Sarees",
+      "place_id" : "ChIJja5Q6eF2AjoR7rGzN0l9etA",
+      "reference" : "CnRiAAAAEvyf4UmrYT8B1bUUHw6h4ldEe11jItzFx2Q18LSXnf3uIC2RxPLByMM7Ew1ql8gYi3wfAaF2aqm6UqCr_nlU1gRMq2gypXgXprm0-HU2CImhxk-XpI6p9laTzRDz3lU8PlbPOHSc4kmQgzaU-LGsDBIQYBTTIVLiII4O_B0tO2_D-RoUCcFpPVUebrUUh7rsKsCT5ASnUco",
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/116282632113803770102/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "111, Park Street, Park Street, Kolkata"
+   },
+   "status" : "OK"
+}

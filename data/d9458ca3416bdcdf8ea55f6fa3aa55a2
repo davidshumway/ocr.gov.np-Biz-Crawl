@@ -1,0 +1,149 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "20,3",
+            "short_name" : "20,3",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "Sarat Bose Road",
+            "short_name" : "Sarat Bose Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Lake Market",
+            "short_name" : "Lake Market",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kalighat",
+            "short_name" : "Kalighat",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700029",
+            "short_name" : "700029",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "20,3, \u003cspan class=\"street-address\"\u003eSarat Bose Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eLake Market, Kalighat\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700029\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "20,3, Sarat Bose Road, Lake Market, Kalighat, Kolkata, West Bengal 700029, India",
+      "formatted_phone_number" : "033 2466 3497",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.515262,
+            "lng" : 88.35372599999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+      "id" : "1e6d6004514b080aec023b8ea5041d8435987ce5",
+      "international_phone_number" : "+91 33 2466 3497",
+      "name" : "Auto Motion",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJAwMBSil3AjoRBJh3k6YQt4k",
+      "reference" : "CmRfAAAA9XxbCXGA0BOPLinc5ygYHXU53wrfYNlq33NzqtjzaDdHDC0ThzVmLfFlU3m5REviTe0N2KZG2wf8qEIIzDZPR_48pxET5ndqZH8Kbs2i2GZwYr1m8mD62XFvFsXdkcbcEhBtNIBHHT1ylZiVTLmRAR-RGhRFBROQZUT0SJ34eUj4kCAV_XiXAw",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "electronics_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/111216169672205914296/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "20,3, Sarat Bose Road, Lake Market, Kalighat, Kolkata"
+   },
+   "status" : "OK"
+}

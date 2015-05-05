@@ -1,0 +1,76 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Grand Trunk Road",
+            "short_name" : "Grand Trunk Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Serampore",
+            "short_name" : "Serampore",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Hooghly",
+            "short_name" : "Hooghly",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "712203",
+            "short_name" : "712203",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eGrand Trunk Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSerampore\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e712203\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Grand Trunk Road, Serampore, West Bengal 712203, India",
+      "formatted_phone_number" : "1800 209 7979",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.753718,
+            "lng" : 88.32811700000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "f2b9cae0a476df900f5bb00987e8da3f3a04a90a",
+      "international_phone_number" : "+91 1800 209 7979",
+      "name" : "TATA Motors Service Center",
+      "place_id" : "ChIJQc5BDyqb-DkRVEUdOwJ-hbk",
+      "reference" : "CnRuAAAAYZuHHouCiIjbi45xRfCXabp4a153jRKrO9LrsavGL4I8SrirOL23knPBkrdRbUFh5z8o_p_innK5mBmardMcmTTEQ6n3c_-d1A7TBKkOQmMAf8Mv1geKBZv7m6XGDA3B5CjuTAFvod4_YLxzeZm6PhIQ1ECPvk-tpPdwGGswAGmnNhoUNgGMAhd-oMPVEGH-JWFf-eQ-imQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Rahul Saha",
+            "author_url" : "https://plus.google.com/112732986486403661297",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1423213143
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/111807619452910504482/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Grand Trunk Road, Serampore",
+      "website" : "http://www.tatamotors.com/"
+   },
+   "status" : "OK"
+}

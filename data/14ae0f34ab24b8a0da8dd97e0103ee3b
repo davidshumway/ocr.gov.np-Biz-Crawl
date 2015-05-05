@@ -1,0 +1,80 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "AD Block",
+            "short_name" : "AD Block",
+            "types" : [ "sublocality_level_3", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700064",
+            "short_name" : "700064",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "AD10, \u003cspan class=\"extended-address\"\u003eAD Block\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700064\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "AD10, AD Block, Kolkata, West Bengal 700064, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.597436,
+            "lng" : 88.404882
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "152454f91c5e4bb973409bd40fdc3577140ab758",
+      "name" : "Car Repair Garage",
+      "photos" : [
+         {
+            "height" : 480,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CoQBcwAAAAO0YSPdK36qsvy__FPDJ9I32-CP5M8xXwg58kqjtVKkC_HisE60bxf0tq8svgNILltdaJ3rVedEiHNgJnk1fG_ki1v8hmYe8mdj71O_4B7os5dmt9LiLMJ6pnG0r7SaJ39ujiMg0km9QFfYOblk_qn8zcGVgMhN8oxcpFaiXvyJEhAtSSGKBho1jdoaeW-KAWXkGhTzxdebKTNMxI3IxY_8EUT4nb8vHA",
+            "width" : 640
+         }
+      ],
+      "place_id" : "ChIJEV3wC-N1AjoRqAr1ZZPGYnQ",
+      "reference" : "CnRkAAAApf5FfVuJnxryyrHFoSUSS1nlCfUm71UeUuiIwCUUGzA4cnSOKkoetFeNo6LKLbH1qF6sI7jVRfUK048jIma92aZ3dZ4PzImGN4LYbuUwlB5h44SfBzN5c9gZXIjnbYpKF_GuObytpRiX4ZX_aV7VJhIQYLQ3JQ9pfmoTGQsjVEvPDBoURCYY-GPjsbo1tl_o9FctxpBTWp8",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "",
+            "time" : 1327548077
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/106904228694486801665/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "AD10, AD Block, Kolkata"
+   },
+   "status" : "OK"
+}

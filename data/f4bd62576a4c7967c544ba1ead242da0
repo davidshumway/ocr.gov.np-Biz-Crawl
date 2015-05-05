@@ -1,0 +1,155 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "30",
+            "short_name" : "30",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Karrahi Road",
+            "short_name" : "Karrahi Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Barra Bypass",
+            "short_name" : "Barra Bypass",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Barra",
+            "short_name" : "Barra",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208027",
+            "short_name" : "208027",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e30, Karrahi Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBarra Bypass, Barra\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208027\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "30, Karrahi Road, Barra Bypass, Barra, Kanpur, Uttar Pradesh 208027, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.426536,
+            "lng" : 80.305994
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "a32e43b10b0ac3a2e499ded67f6e6577c6d5a564",
+      "name" : "Sahu Auto Parts",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 10:00 pm",
+            "Tuesday: 10:00 am – 10:00 pm",
+            "Wednesday: 10:00 am – 10:00 pm",
+            "Thursday: 10:00 am – 10:00 pm",
+            "Friday: 10:00 am – 10:00 pm",
+            "Saturday: 10:00 am – 10:00 pm",
+            "Sunday: 10:00 am – 10:00 pm"
+         ]
+      },
+      "place_id" : "ChIJ4R0gaLFHnDkR8MK4ZlBbO3A",
+      "reference" : "CnRiAAAAMmwUGHqD2ui76T2ZElm0J1umQeZZBFbPv6wKdXtiFm6AmzQW9SBKrU57q8ucl64ALEoIda6Oz7t03qFzMnxiyDgrqHXa_78M1cp85dkE1Os38b-J-WPLF7yWa4NgLqb95OPYD19O1_tE1Ceuu1AFWRIQwp1CDyrq0Ts5Eknc7V6kjBoUbOgk30utFcDZoH5TSi1Lav6qfb0",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/104621308180351450828/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "30, Karrahi Road, Barra Bypass, Barra, Kanpur"
+   },
+   "status" : "OK"
+}

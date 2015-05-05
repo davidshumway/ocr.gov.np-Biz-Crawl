@@ -1,0 +1,202 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Sree Nagar Main Road, Garia Station Road",
+            "short_name" : "Sree Nagar Main Road, Garia Station Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Garia Station",
+            "short_name" : "Garia Station",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Panchpota",
+            "short_name" : "Panchpota",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700017",
+            "short_name" : "700017",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eSree Nagar Main Road, Garia Station Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eGaria Station, Panchpota\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700017\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Sree Nagar Main Road, Garia Station Road, Garia Station, Panchpota, Kolkata, West Bengal 700017, India",
+      "formatted_phone_number" : "033 2432 4063",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.469056,
+            "lng" : 88.40410300000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "ae88515efd72643340981a9c39ca6e296f3c454f",
+      "international_phone_number" : "+91 33 2432 4063",
+      "name" : "Baba Taraknath Enterprise",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1300"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1300"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1300"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1300"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1300"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1300"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1700"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 1:00 pm, 5:00 – 9:00 pm",
+            "Tuesday: 10:00 am – 1:00 pm, 5:00 – 9:00 pm",
+            "Wednesday: 10:00 am – 1:00 pm, 5:00 – 9:00 pm",
+            "Thursday: 10:00 am – 1:00 pm, 5:00 – 9:00 pm",
+            "Friday: 10:00 am – 1:00 pm, 5:00 – 9:00 pm",
+            "Saturday: 10:00 am – 1:00 pm, 5:00 – 9:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ9YRA1dRzAjoROgIxx4b5dcw",
+      "reference" : "CnRtAAAAeR79j3ERgTQSFTtzc3-B40gVH9zOk0OlH7r94ncYwH-rPXIVzZGX4uBJsYkI_bZAAsmE_e6FyIMZ9Lqw6GwQkmaucqFXH3D8EOTXNd-pxHdzOy6GT3JiBDzcVVKzWN4TalblkXSxQwVRmMbcCPnE2RIQACEVhP7Pwq_-6OVGIbam4RoUH6vpskuNZpHtnN2ejquvzjDNgZ4",
+      "scope" : "GOOGLE",
+      "types" : [ "general_contractor", "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/103554134287898384522/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Sree Nagar Main Road, Garia Station Road, Garia Station, Panchpota, Kolkata"
+   },
+   "status" : "OK"
+}

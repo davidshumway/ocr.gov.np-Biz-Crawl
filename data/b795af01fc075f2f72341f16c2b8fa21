@@ -1,0 +1,105 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Sadikpur",
+            "short_name" : "Sadikpur",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Patna",
+            "short_name" : "Patna",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Patna",
+            "short_name" : "Patna",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "800008",
+            "short_name" : "800008",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"extended-address\"\u003eSadikpur\u003c/span\u003e, \u003cspan class=\"locality\"\u003ePatna\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e800008\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Sadikpur, Patna, Bihar 800008, India",
+      "formatted_phone_number" : "093040 76680",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.596469,
+            "lng" : 85.21191899999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "d55c7aba25ca046e5b14ea0bf69ac11e768788ed",
+      "international_phone_number" : "+91 93040 76680",
+      "name" : "(ramesh) city book center",
+      "place_id" : "ChIJ83th2Gdf7TkR7OArj0nO7xQ",
+      "reference" : "CnRsAAAAvcqGbKXpmBtyx3s9A5H9lrTjmuzP91ny16mR1_RpmUJtAnNclUXV1ptpR-8FMWV6LnpRiJvPulmJT_9Alf7HLV5RdAxSbD55-H_jZRXXO5XB72D3PoqBMSzQnwm-9a_2rGnTYMpC2EblvQPxmH8ithIQssNR3nCoL60i1wFDaca8rBoUXjfzfqGz8C8bAE0i13PV76VUgM8",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 0,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Roushan Kumar",
+            "author_url" : "https://plus.google.com/111706865329832255373",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1365087646
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 2,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Anand Raj",
+            "author_url" : "https://plus.google.com/114976645807728427950",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1373963194
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/116950946126416536149/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "Sadikpur, Patna"
+   },
+   "status" : "OK"
+}

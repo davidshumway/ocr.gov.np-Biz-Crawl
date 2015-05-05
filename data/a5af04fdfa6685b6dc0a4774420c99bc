@@ -1,0 +1,73 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "National Highway 81",
+            "short_name" : "NH 81",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Alpara",
+            "short_name" : "Alpara",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Malda",
+            "short_name" : "Malda",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "732205",
+            "short_name" : "732205",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNational Highway 81\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAlpara\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e732205\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "National Highway 81, Alpara, West Bengal 732205, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.19252,
+            "lng" : 87.92908799999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "6add3eff6d92b3f6a1df5f9367c0f2b0c6741bdb",
+      "name" : "Oil Station (Pump)",
+      "place_id" : "ChIJR6URV-Hr-jkR6QxDTdj-mLs",
+      "reference" : "CnRmAAAAxJUH7gh7LWGPzGrIeb8C9MeM14csLvG2NEQRJgkWKTC7sPZBtsRaJ8hgMqN4Kl8S7gp28sb0qWadoLxenDTiZDv4VUxIkWKwnfA5CSlCta7EnRJR-0s4uB-nd9bpb7FcdUB2o4B5OQk7Tj5QKRWIQBIQVs0AluQRVST2-JfxxcUhJxoUyvs0xUc4P5WNPywt9AOrrp696Ng",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Md piyara hossain",
+            "author_url" : "https://plus.google.com/115936549188008747729",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1422264439
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/112120931873180655578/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "National Highway 81, Alpara"
+   },
+   "status" : "OK"
+}

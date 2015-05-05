@@ -1,0 +1,81 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "School Road",
+            "short_name" : "School Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Harirampur",
+            "short_name" : "Harirampur",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Uttar Dinajpur",
+            "short_name" : "Uttar Dinajpur",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "733125",
+            "short_name" : "733125",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eSchool Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eHarirampur\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e733125\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "School Road, Harirampur, West Bengal 733125, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.373148,
+            "lng" : 88.264869
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "ad933ad7498d0f5cf6166fb30802f13e77012c11",
+      "name" : "Kundu Hardware",
+      "place_id" : "ChIJZ5ZsRgsk-zkRINQKVOSMVbY",
+      "reference" : "CnRiAAAABb20D5peWojCzxtDQyRSluVVBZXkDOAcXV8o_ARZ6CGfYfPzd_CoR0alGjWRfCI6iDuqCkgx_AnsVu70kMUwriyLXZKGS3ZKm0yksMuVKeG5vwSPrimAGCpz5O7guObo5hN90ZKg0e-0_UwGIIpHxBIQBIlKIli9yXujwSBWrc6NkhoUc7ipQ1-sBAD-5o-MCHeCdCoZVGM",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Partha Kundu",
+            "author_url" : "https://plus.google.com/113019425874615616058",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Excellent",
+            "time" : 1383161919
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/112313182775301155072/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "School Road, Harirampur"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,157 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "19/27",
+            "short_name" : "19/27",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Shivaji Marg",
+            "short_name" : "Shivaji Marg",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Ghasyari Mandi",
+            "short_name" : "Ghasyari Mandi",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Lucknow",
+            "short_name" : "Lucknow",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Lucknow",
+            "short_name" : "Lucknow",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "226018",
+            "short_name" : "226018",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Regency Tower,Hewett Road, \u003cspan class=\"street-address\"\u003e19/27, Shivaji Marg\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eGhasyari Mandi\u003c/span\u003e, \u003cspan class=\"locality\"\u003eLucknow\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e226018\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Regency Tower,Hewett Road, 19/27, Shivaji Marg, Ghasyari Mandi, Lucknow, Uttar Pradesh 226018, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.840628,
+            "lng" : 80.932337
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "dc7c97b29fb49a3b3bdac04a30cf4550d4f16c0a",
+      "name" : "All India Sanitary Store",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1100"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 11:00 am – 7:00 pm",
+            "Tuesday: 11:00 am – 7:00 pm",
+            "Wednesday: 11:00 am – 7:00 pm",
+            "Thursday: 11:00 am – 7:00 pm",
+            "Friday: 11:00 am – 7:00 pm",
+            "Saturday: 11:00 am – 7:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ_b9__K39mzkRemBQXj12QG0",
+      "reference" : "CnRrAAAAj3bWN0cj4uPsE09TcEJJ9Cv4jkSj2O3h1gFqghcq_FFSYVPTDxjzXYouzepUPG6Bup7u69D5AsrEFUNm13PrU16rBNrn-80wwGjA7I81RTZCw2ksE58QgbiL9_b5yizr7_iKpr1pU6JN4FmmtyhDmhIQVp0Qq1yCbaOwey8tgF03IBoUv_WkIfAgLqnM0pI1Sv-YVDA3GPU",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "sandeep sharma",
+            "author_url" : "https://plus.google.com/112109329788984403244",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1416418551
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/118277007920019118766/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Regency Tower,Hewett Road, 19/27, Shivaji Marg, Ghasyari Mandi, Lucknow"
+   },
+   "status" : "OK"
+}

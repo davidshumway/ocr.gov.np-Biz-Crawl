@@ -1,0 +1,82 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Singar Nagar, Kanpur Road",
+            "short_name" : "Singar Nagar, Kanpur Road",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Alambagh",
+            "short_name" : "Alambagh",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Lucknow",
+            "short_name" : "Lucknow",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Lucknow",
+            "short_name" : "Lucknow",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "226017",
+            "short_name" : "226017",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eSingar Nagar, Kanpur Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eAlambagh\u003c/span\u003e, \u003cspan class=\"locality\"\u003eLucknow\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e226017\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Singar Nagar, Kanpur Road, Alambagh, Lucknow, Uttar Pradesh 226017, India",
+      "formatted_phone_number" : "0522 245 5711",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.803587,
+            "lng" : 80.89680799999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "420a98977aadd6378d9321ad9fbc3b4febe3146c",
+      "international_phone_number" : "+91 522 245 5711",
+      "name" : "Hardas Hardware and Paints Shop",
+      "place_id" : "ChIJIXUkM6f-mzkRe8cwe6t9LRE",
+      "reference" : "CoQBcgAAALE3uCWBGdLp7aQyEoihc6DT0Yj_x5q67nDn077gtyO_IbWkx1FT03c6c3ysiXp5iROQzE0sN87GKT-GUln3XckcEg1U9vcN0wT-SxLZKWo00mmIpycrATQd9ZzKnFH1hVOONNeOaDPasE1i3xRv7de_2V0HGk8jYI8nHnZ89mBxEhCyNt6eyw19jRk3s9EfE_MAGhTyeSwocZhGZIm3inE08RC0K919Wg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "HAMILTON PAINTS",
+            "author_url" : "https://plus.google.com/102251771991355120761",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1381311586
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/114508306157686614701/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Singar Nagar, Kanpur Road, Alambagh, Lucknow"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,144 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "111/133",
+            "short_name" : "111/133",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "Chandra Gupta Road",
+            "short_name" : "Chandra Gupta Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Harsh Nagar",
+            "short_name" : "Harsh Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208012",
+            "short_name" : "208012",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "111/133, \u003cspan class=\"street-address\"\u003eChandra Gupta Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eHarsh Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208012\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "111/133, Chandra Gupta Road, Harsh Nagar, Kanpur, Uttar Pradesh 208012, India",
+      "formatted_phone_number" : "093075 35735",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.473865,
+            "lng" : 80.32241399999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+      "id" : "3adbebf5fe6f5616b059ea842dc3db8ab1c7e4af",
+      "international_phone_number" : "+91 93075 35735",
+      "name" : "Car villa",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJq6qqaoc4nDkRNtSXWOwPU5w",
+      "reference" : "CmRdAAAA1XKcFQbA99vfVI09ekUm1OX4uAq8x2F9Tcxy2ja8Lb_OsbHG8VdWYCLyVtjVyXTGWtPnb8ncT1c-_3SgBmv7Ylacy7vS_M4g7TBmXEkzISk5b4chxa5shj8EtAb2Bo9rEhBFtZ8tNn_GRe2zCHJLV5c7GhTlBrytggtczVU_VWezFEGwMOQ7Qw",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "electronics_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/102894792547142830939/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "111/133, Chandra Gupta Road, Harsh Nagar, Kanpur"
+   },
+   "status" : "OK"
+}

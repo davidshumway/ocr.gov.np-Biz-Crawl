@@ -1,0 +1,85 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Guru Teg Bahadur Road",
+            "short_name" : "GTB Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bidyapara",
+            "short_name" : "Bidyapara",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Dhubri",
+            "short_name" : "Dhubri",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Dhubri",
+            "short_name" : "Dhubri",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Assam",
+            "short_name" : "AS",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "783324",
+            "short_name" : "783324",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eGuru Teg Bahadur Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBidyapara\u003c/span\u003e, \u003cspan class=\"locality\"\u003eDhubri\u003c/span\u003e, \u003cspan class=\"region\"\u003eAssam\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e783324\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Guru Teg Bahadur Road, Bidyapara, Dhubri, Assam 783324, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.025874,
+            "lng" : 89.98009999999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "7fdcb51aaadc71b4c3e60ffb423dfb212a3d6c4b",
+      "name" : "Hello Bike",
+      "place_id" : "ChIJ1440vT2g4jkRJhfG1ptMo1o",
+      "reference" : "CmRdAAAA3xGjp31C9z5vdO0utGOD4yHaF8wea3IueVIRUmnHPbszvPDs9erzconlkVterFqZix2xioNuJBkEUP1_9hCLCDr-LDhHH8QvTJBZVXF0NEVEkLC0q3hMSplvJVczhJrnEhD3J6qDFfvrD-Eb4uH_NKNbGhRK2E5FGZRC23U272g1Dii7kG_fpQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1369581242
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/107252166021505831570/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Guru Teg Bahadur Road, Bidyapara, Dhubri"
+   },
+   "status" : "OK"
+}

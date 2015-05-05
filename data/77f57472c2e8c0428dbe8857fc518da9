@@ -1,0 +1,64 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "25B, Park Street, Park Street",
+            "short_name" : "25B, Park Street, Park Street",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Park Street area",
+            "short_name" : "Park Street area",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700016",
+            "short_name" : "700016",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e25B, Park Street, Park Street\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003ePark Street area\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700016\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "25B, Park Street, Park Street, Park Street area, Kolkata, West Bengal 700016, India",
+      "formatted_phone_number" : "033 2249 8121",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.55409,
+            "lng" : 88.351268
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "76f3c67622eb402bbf0a9ec136becbac3de3d9a3",
+      "international_phone_number" : "+91 33 2249 8121",
+      "name" : "Blue Star",
+      "place_id" : "ChIJGzVTpQ93AjoR3AlLqbwfa5k",
+      "reference" : "CmRdAAAAPyzeEIHx5ir5hbXF1vX1tvutQMDGThG1dSKZ7S6mGwiTOILahh5XpmtRt9wKoZBVA_V47kUqAukjbQPA1MNaFRDfk1eq85r9xTLum20C9a8PEj0NmxCy0MRWX1g8k9HcEhBV707YxsQdO9IchtC1pgZnGhQ9MPi5zuSUb8_83vulDS46h3Gi8Q",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/108543698460552718413/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "25B, Park Street, Park Street, Park Street area, Kolkata",
+      "website" : "https://www.bluestarindia.com/"
+   },
+   "status" : "OK"
+}

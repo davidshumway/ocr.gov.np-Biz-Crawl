@@ -1,0 +1,101 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Exhibition Road",
+            "short_name" : "Exhibition Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Patna",
+            "short_name" : "Patna",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Patna",
+            "short_name" : "Patna",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "Bihar",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "800001",
+            "short_name" : "800001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eExhibition Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003ePatna\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e800001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Exhibition Road, Patna, Bihar 800001, India",
+      "formatted_phone_number" : "0612 232 0249",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.610108,
+            "lng" : 85.142826
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "9e20a0555c3beea0ae7cefb66c58f987844fb888",
+      "international_phone_number" : "+91 612 232 0249",
+      "name" : "Madhubani Paints",
+      "photos" : [
+         {
+            "height" : 640,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/114920810994591675321\"\u003eShiv Kumar\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAX2QytFMZpAlnrC9U9_kRjdSprWJ3iKdfNqMIlIAwjuur3UBOTAp5k4HBMORG6hYANEEezhR0bIJ_DTliqQA6lIHPt3NA5fOEOnsItQgJSPKHoz_mo0AhtewbbZk_8e-0CVutR6qQX51c26DRHj9_xRIQE10QGZjYIg4lzjb5BmHLuhoUBpkJbNCvDthX7-EhrkzSiQzFvis",
+            "width" : 480
+         }
+      ],
+      "place_id" : "ChIJl2UeR0dY7TkRXA6XtkAozoU",
+      "reference" : "CnRkAAAAPKU-pXQ_CfOnBIeCvq2H08N3LAE-WrvUAhS_s2YeeNaroBuwEtRUZW2dYY85o5ywXq_KGRX4ru5wkRU5heJQSHUwcsJIL11c7L5LhQADpwNSQFFvEDt9hhwCUMaQ3XdxHR_DP1lzKXjCRDlcr8BllhIQqNOIIULigx8e8PLORgSmLhoUnlserLlQFcQdTxDgACez5q0mIng",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Shiv Kumar",
+            "author_url" : "https://plus.google.com/114920810994591675321",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "Shiv Kumar sahani",
+            "time" : 1399028889
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Mantu Singh",
+            "author_url" : "https://plus.google.com/111180603764430917691",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1358508309
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/102910746274667357017/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "Exhibition Road, Patna"
+   },
+   "status" : "OK"
+}

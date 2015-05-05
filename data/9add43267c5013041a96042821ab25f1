@@ -1,0 +1,149 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "13/369",
+            "short_name" : "13/369",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "Govind Nagar Road",
+            "short_name" : "Govind Nagar Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Opposite Police Station",
+            "short_name" : "Opposite Police Station",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Govind Nagar",
+            "short_name" : "Govind Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208006",
+            "short_name" : "208006",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "13/369, \u003cspan class=\"street-address\"\u003eGovind Nagar Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eOpposite Police Station, Govind Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208006\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "13/369, Govind Nagar Road, Opposite Police Station, Govind Nagar, Kanpur, Uttar Pradesh 208006, India",
+      "formatted_phone_number" : "072751 98555",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.449278,
+            "lng" : 80.306196
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "39b210c331e2ce90984d46bd3be5b73f66dee496",
+      "international_phone_number" : "+91 72751 98555",
+      "name" : "Tandon Hardware And Sanitary Store",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: Closed",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: 10:00 am – 8:00 pm"
+         ]
+      },
+      "place_id" : "ChIJnSgYH5FHnDkR26YBsWQ37UQ",
+      "reference" : "CoQBdQAAAP4vA9MqIOVs0FF5W6O31P6rgSg-azG0-rk-UDUan_cEt0LyAQp_4FqFZXQBfmlKJqxIpLcOuJ2bE6VuwvyyX0AX5VdRUgL2994f9hi09PTmK5ij0-c3oI4JByQepF3DWVkbSW9nfmmVlYrrxeFw6MDe7IjgZLAHhuiZsMMmq4XgEhD_o3RzRKQsE72FGJrZrMhsGhQQXbnPfewbDedJ-OPkuWk2WM7WbA",
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/111089714123870076653/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "13/369, Govind Nagar Road, Opposite Police Station, Govind Nagar, Kanpur"
+   },
+   "status" : "OK"
+}

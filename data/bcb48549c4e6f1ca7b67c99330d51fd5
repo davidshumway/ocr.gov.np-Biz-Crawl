@@ -1,0 +1,156 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "106/371-D",
+            "short_name" : "106/371-D",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Kalpi Road",
+            "short_name" : "Kalpi Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Opposite Thana Sisamau",
+            "short_name" : "Opposite Thana Sisamau",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Gandhi Nagar",
+            "short_name" : "Gandhi Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208012",
+            "short_name" : "208012",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e106/371-D, Kalpi Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eOpposite Thana Sisamau, Gandhi Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208012\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "106/371-D, Kalpi Road, Opposite Thana Sisamau, Gandhi Nagar, Kanpur, Uttar Pradesh 208012, India",
+      "formatted_phone_number" : "094151 25135",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.462707,
+            "lng" : 80.324067
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "cfa95c63d71578756635419231e9768911801b9b",
+      "international_phone_number" : "+91 94151 25135",
+      "name" : "Shanker Hardware Store",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ571kmoJHnDkRb_BE7AqCWME",
+      "reference" : "CnRqAAAA7P1JGZPwkUXYU0kadiubo9W166g9k7izsdirIlVBtec3lrbhBC8Q3RMO5Ka6IZu5T-wvmYqCoVLMyhWt3Y-kssEtzlv5iG5jv1lQ3HIyzXz2WNY-oZNS4nhaeAjiYmYp3s2y6-A8dyKhhQ9XtYa7_RIQjReFPt-hKJpZN811IFY1yxoUbsWPSKwDp9qRYbKj-SUwK9RV0e4",
+      "scope" : "GOOGLE",
+      "types" : [
+         "hardware_store",
+         "furniture_store",
+         "general_contractor",
+         "home_goods_store",
+         "store",
+         "establishment"
+      ],
+      "url" : "https://plus.google.com/116724828537002376384/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "106/371-D, Kalpi Road, Opposite Thana Sisamau, Gandhi Nagar, Kanpur"
+   },
+   "status" : "OK"
+}

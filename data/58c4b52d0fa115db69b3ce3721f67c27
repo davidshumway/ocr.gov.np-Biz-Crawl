@@ -1,0 +1,152 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "17/22",
+            "short_name" : "17/22",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "City Station Road",
+            "short_name" : "City Station Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Crossing Ghatiya",
+            "short_name" : "Crossing Ghatiya",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Garhia Azam Khan",
+            "short_name" : "Garhia Azam Khan",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Civil Lines",
+            "short_name" : "Civil Lines",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Agra",
+            "short_name" : "Agra",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Agra",
+            "short_name" : "Agra",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "282003",
+            "short_name" : "282003",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e17/22, City Station Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCrossing Ghatiya, Garhia Azam Khan, Civil Lines\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAgra\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e282003\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "17/22, City Station Road, Crossing Ghatiya, Garhia Azam Khan, Civil Lines, Agra, Uttar Pradesh 282003, India",
+      "formatted_phone_number" : "099173 58525",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.194106,
+            "lng" : 78.010322
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "c0d4ea0564fc22fc314456f5881aaaa60da8e39a",
+      "international_phone_number" : "+91 99173 58525",
+      "name" : "Vishal Hardware Store",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: Closed",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: 10:00 am – 8:00 pm"
+         ]
+      },
+      "place_id" : "ChIJCbSJqDd3dDkRZHAxSeGjo4c",
+      "reference" : "CnRpAAAAaMjrHJlgkSIQcpr-09eO8zlloUyM1XEUmExt117dANa726nRFJaL1_XTE6DfU5M8VH6SQ7FTIbauBuONK2Tu9VhdseVyJ5jueVIZ-3ZwbW28xP521xeI95Msg0RnMc6vWCdYB33sfE2RmRqh134tVxIQyYCJbtuXL8DkQbgdZSzRSRoUe4LiXuyH2LJKJP5zoNxjMx_p9Xk",
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/102804735843606597017/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "17/22, City Station Road, Crossing Ghatiya, Garhia Azam Khan, Civil Lines, Agra"
+   },
+   "status" : "OK"
+}

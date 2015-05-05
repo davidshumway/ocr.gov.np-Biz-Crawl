@@ -1,0 +1,73 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Dhaka - Bogra Highway",
+            "short_name" : "Dhaka - Bogra Hwy",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "B-Block",
+            "short_name" : "B-Block",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Aria Bazar",
+            "short_name" : "Aria Bazar",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bogra",
+            "short_name" : "Bogra",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Rajshahi Division",
+            "short_name" : "Rajshahi Division",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Bangladesh",
+            "short_name" : "BD",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eDhaka - Bogra Highway\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAria Bazar\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eBangladesh\u003c/span\u003e",
+      "formatted_address" : "Dhaka - Bogra Highway, Aria Bazar, Bangladesh",
+      "geometry" : {
+         "location" : {
+            "lat" : 24.753515,
+            "lng" : 89.397288
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "128dd2be08d4c9519c0b8555a7121748e9aca9f4",
+      "name" : "Minar Iron Store",
+      "place_id" : "ChIJBXT6atNS_DkRD2dFfKBbmXU",
+      "reference" : "CnRjAAAA_rBzE6BcuemVF7KWqX6hvaktaq5Ub0VePin8ZWlXHoYW-Jukm2sOR6wUQX9ppjJWBQ4m7NWD2E0-AUIy4svehg5w7_MqMWgCRsURSnVV3bxOTQ8ZVN1a2kCvxNyoYg8KOVVe7J7DMiCtOgrgG96RXBIQM2xmv-ruumCrfGUAHoOCuRoUCosIqe9xJZ90FPQx8JCYS4FwmSM",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Night Star",
+            "author_url" : "https://plus.google.com/113260339906890856114",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "My house.... I love the place",
+            "time" : 1398962674
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/117567972441695790599/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 360,
+      "vicinity" : "Dhaka - Bogra Highway, Aria Bazar"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,130 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "NS Road",
+            "short_name" : "NS Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Kushtia",
+            "short_name" : "Kushtia",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kushtia",
+            "short_name" : "Kushtia",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Khulna Division",
+            "short_name" : "Khulna Division",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Bangladesh",
+            "short_name" : "BD",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "7000",
+            "short_name" : "7000",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNS Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKushtia\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e7000\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eBangladesh\u003c/span\u003e",
+      "formatted_address" : "NS Road, Kushtia 7000, Bangladesh",
+      "geometry" : {
+         "location" : {
+            "lat" : 23.909218,
+            "lng" : 89.126124
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "ca24b8be8dbd5aaa4bf1182be5280b2c35f88d16",
+      "name" : "Talukdar Enterprise",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 8:00 pm",
+            "Tuesday: 9:00 am – 8:00 pm",
+            "Wednesday: 9:00 am – 8:00 pm",
+            "Thursday: 9:00 am – 8:00 pm",
+            "Friday: Closed",
+            "Saturday: 9:00 am – 8:00 pm",
+            "Sunday: 9:00 am – 8:00 pm"
+         ]
+      },
+      "place_id" : "ChIJBXKQJqyX_jkRxhyK8jgvgMI",
+      "reference" : "CnRnAAAANSVeU4hDmheWbRrUp3PJtma-i3xLJuBTf1_mK9RZHWQt_DmGcRizQQHgxgmQLsQ-iAKEn9a-PqlShiN3Fn_wnbgRL8vjD4ZM9LU-72ZOJaepAiqV2ZMdLuBWgVFlQArNgMtdEknKx15lDQhlbUcfoRIQjM1W47X5JLO7SmtHFdcP2xoU1od5GHgFwFsTHbEwfcFUKOrSrjY",
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/106052685130753886500/about?hl=en-US",
+      "utc_offset" : 360,
+      "vicinity" : "NS Road, Kushtia"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,163 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "State Highway 5",
+            "short_name" : "SH 5",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Tanda",
+            "short_name" : "Tanda",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Ambedkar Nagar",
+            "short_name" : "Ambedkar Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "224190",
+            "short_name" : "224190",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eState Highway 5\u003c/span\u003e, \u003cspan class=\"locality\"\u003eTanda\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e224190\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "State Highway 5, Tanda, Uttar Pradesh 224190, India",
+      "formatted_phone_number" : "1800 102 4455",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.551847,
+            "lng" : 82.66068799999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "c8c27622af4834a2e37bbf6dca1566aa0790b14b",
+      "international_phone_number" : "+91 1800 102 4455",
+      "name" : "Bank Of Baroda",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 5:00 pm",
+            "Tuesday: 10:00 am – 5:00 pm",
+            "Wednesday: 10:00 am – 5:00 pm",
+            "Thursday: 10:00 am – 5:00 pm",
+            "Friday: 10:00 am – 5:00 pm",
+            "Saturday: 10:00 am – 5:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJlyZ8X3DpkDkRMIiU4gHkp90",
+      "reference" : "CnRiAAAADXyDB5qJayuWDWca17g-AeCI9k7pvCsi0-lRgrHCIyBT54TIy_4VsIG-81TTa_qgSoLzQj2JguH__gA1OIWYDMPkTvvdzq8prxsKDKTAaJBKl52Kg-6ro60VPEUJ9qEU4akjm0c_tlwWU3fgDH2CgxIQjYOyA0-vpmDGkysGkigunhoUw-kfAe1xfjz1re5POTfGPyrYsbU",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "IMTIYAZ HUSAIN",
+            "author_url" : "https://plus.google.com/117818395337513525996",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "Bob srvises is very poor",
+            "time" : 1380865120
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1345369713
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "bank", "finance", "establishment" ],
+      "url" : "https://plus.google.com/100602947450598468795/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "State Highway 5, Tanda",
+      "website" : "http://www.bankofbaroda.com/"
+   },
+   "status" : "OK"
+}

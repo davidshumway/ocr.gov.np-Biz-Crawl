@@ -1,0 +1,72 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "23",
+            "short_name" : "23",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Camac Street",
+            "short_name" : "Camac St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Kankaria Estates",
+            "short_name" : "Kankaria Estates",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Park Street area",
+            "short_name" : "Park Street area",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700016",
+            "short_name" : "700016",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e23, Camac Street\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eKankaria Estates, Park Street area\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700016\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "23, Camac Street, Kankaria Estates, Park Street area, Kolkata, West Bengal 700016, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.547406,
+            "lng" : 88.353471
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "a81726963916924056f74cffc6800f8284f439d0",
+      "name" : "wbidc",
+      "place_id" : "ChIJ64LLDBp3AjoRFxph2Jvugkc",
+      "reference" : "CmRYAAAAe0d-EtV3Rh_nk6XlCv7ouesVEBRAS2c5_QszujdRRlJOjUVZAuG4QbnByqtYzZYqnTpbZDDJfVGFBWBOeNJfpxf5zUJB-MFB3cRH-0j7FPWOhHVaFQ58eGoyMAWMGbqjEhBtexzWEJk-76w0BaHTDvCxGhT2OjOioCpl3qqZ9rHaYcMBF_Wt5A",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/108137349667166292114/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "23, Camac Street, Kankaria Estates, Park Street area, Kolkata",
+      "website" : "http://www.wbidc.com/"
+   },
+   "status" : "OK"
+}

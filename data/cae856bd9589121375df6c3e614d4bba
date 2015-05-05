@@ -1,0 +1,162 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "365",
+            "short_name" : "365",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Near Lal Kuwan",
+            "short_name" : "Near Lal Kuwan",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Rail Bazar",
+            "short_name" : "Rail Bazar",
+            "types" : [ "sublocality_level_3", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Haris Ganj",
+            "short_name" : "Haris Ganj",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Mirpur",
+            "short_name" : "Mirpur",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208004",
+            "short_name" : "208004",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e365\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNear Lal Kuwan, Rail Bazar, Haris Ganj, Mirpur\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208004\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "365, Near Lal Kuwan, Rail Bazar, Haris Ganj, Mirpur, Kanpur, Uttar Pradesh 208004, India",
+      "formatted_phone_number" : "093364 22796",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.450047,
+            "lng" : 80.347533
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "cba47ae16da99609d8bdf86f7a108f2d643284f2",
+      "international_phone_number" : "+91 93364 22796",
+      "name" : "Perfect Auto Parts Repairing Center",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 9:00 pm",
+            "Tuesday: 9:00 am – 9:00 pm",
+            "Wednesday: 9:00 am – 9:00 pm",
+            "Thursday: 9:00 am – 9:00 pm",
+            "Friday: 9:00 am – 9:00 pm",
+            "Saturday: 9:00 am – 9:00 pm",
+            "Sunday: 9:00 am – 9:00 pm"
+         ]
+      },
+      "place_id" : "ChIJc8ubFkFHnDkRqfh7zQTkheI",
+      "reference" : "CoQBdwAAAEsbOb5DJ62tZyuqVrFh9rRW0gry5FUjTiWvXCsAt4W2xWF1mhpmjRRSAYOUcubHxH8QE27YlHg5kYoU6W-h7CoAR6j-ipHklPY5RmszFQZ-ZpLNpc43GuDJHuJVUnLshNjCL_CqsUQ4e89rgQACXlKzh-X4joiugNCCIDSYVxn1EhDY6oUJw3ZdBCqDkAwabNdLGhSX5yLOCyJD6kIMig7u-fhN5uKrgQ",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/108623846389417316816/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "365, Near Lal Kuwan, Rail Bazar, Haris Ganj, Mirpur, Kanpur"
+   },
+   "status" : "OK"
+}

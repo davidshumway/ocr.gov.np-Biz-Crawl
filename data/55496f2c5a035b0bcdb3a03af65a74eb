@@ -1,0 +1,81 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "National Highway 2",
+            "short_name" : "NH 2",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Allahabad",
+            "short_name" : "Allahabad",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "211019",
+            "short_name" : "211019",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNational Highway 2\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e211019\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "National Highway 2, Uttar Pradesh 211019, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.428627,
+            "lng" : 81.913529
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "3dc165753b972a6b58db891d7c439d6d40a217fc",
+      "name" : "Power House",
+      "place_id" : "ChIJ7YawmShLhTkRi7TO-e7KEhc",
+      "reference" : "CmReAAAAl0l6dkSMXqKiHW1Z-wDyB0G2HaMmT_w1jJu4DYA-nAlZlF2TWHPGK-spQG-Rm17DsszU8IMkr4Fg8Q-MNjk41yhmdQmP_LmXoncQPXNxxGjGxGmR4Qtgn6S6ZhCnvOagEhDB5pr4L34jxhcibcKnpj5lGhRPpw8NZyB8LC3L0HFd5i4NBhdmSw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Debashish Das",
+            "author_url" : "https://plus.google.com/117058096658299356028",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1297522813
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "",
+            "time" : 1339609803
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/101078911743859383105/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "National Highway 2"
+   },
+   "status" : "OK"
+}

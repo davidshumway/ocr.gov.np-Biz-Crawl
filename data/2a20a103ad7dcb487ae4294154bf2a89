@@ -1,0 +1,222 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Baguiati Road",
+            "short_name" : "Baguiati Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Ashwini Nagar",
+            "short_name" : "Ashwini Nagar",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Baguihati",
+            "short_name" : "Baguihati",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700159",
+            "short_name" : "700159",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "7/7-7, \u003cspan class=\"street-address\"\u003eBaguiati Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eAshwini Nagar, Baguihati\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700159\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "7/7-7, Baguiati Road, Ashwini Nagar, Baguihati, Kolkata, West Bengal 700159, India",
+      "formatted_phone_number" : "098300 79261",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.609572,
+            "lng" : 88.432097
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "269b2cbbf9ca5ebaf60ff954afc36e05b44d160a",
+      "international_phone_number" : "+91 98300 79261",
+      "name" : "Sweet-N-Sour Catering Services",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1300"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2130"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1730"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1300"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2130"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1730"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1300"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2130"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1730"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1300"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2130"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1730"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1300"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2130"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1730"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1300"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2130"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1730"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1300"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2130"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1730"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 am – 1:00 pm, 5:30 – 9:30 pm",
+            "Tuesday: 8:00 am – 1:00 pm, 5:30 – 9:30 pm",
+            "Wednesday: 8:00 am – 1:00 pm, 5:30 – 9:30 pm",
+            "Thursday: 8:00 am – 1:00 pm, 5:30 – 9:30 pm",
+            "Friday: 8:00 am – 1:00 pm, 5:30 – 9:30 pm",
+            "Saturday: 8:00 am – 1:00 pm, 5:30 – 9:30 pm",
+            "Sunday: 8:00 am – 1:00 pm, 5:30 – 9:30 pm"
+         ]
+      },
+      "place_id" : "ChIJ4f85tId1AjoRCq4kK0ai4uk",
+      "reference" : "CoQBcgAAACFqq4tbGqFRlBKDm5g2pEAJC9OHvhjzdH-_skf9pXKcBjaeLJxJUR6i6wXdTXWXfNaiujKd4oLMWEg3mTQsgdEcVfo2hr9QAotl89PFxPJTwnMz0Sg3nzrIY81m1XjZ00BEgMm61Eh7PIKitey71v_zpNA_kAmCouaRRJHVa_ccEhD8O3frXqeQcxBhC9qUmoHCGhTxysDl9N_4jbyCIaDG1MIhxEI96g",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/101359415897305038117/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "7/7-7, Baguiati Road, Ashwini Nagar, Baguihati, Kolkata"
+   },
+   "status" : "OK"
+}

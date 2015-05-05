@@ -1,0 +1,67 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700019",
+            "short_name" : "700019",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "53, Syed Amir Ali Avenue, Ballygunge, \u003cspan class=\"street-address\"\u003eBallygunge\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700019\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "53, Syed Amir Ali Avenue, Ballygunge, Ballygunge, Kolkata, West Bengal 700019, India",
+      "formatted_phone_number" : "033 2281 4516",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.535222,
+            "lng" : 88.364778
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "d4c7e26459ac5f6f43333a159c1c95342b9554a8",
+      "international_phone_number" : "+91 33 2281 4516",
+      "name" : "Birla Tyres",
+      "place_id" : "ChIJzVB5JN92AjoRiHgKiWZy5XY",
+      "reference" : "CmReAAAAkfGqdg3p3XJ2bq7pu6NnW0LfV3djd9ks-iXkaV5HHztG5dRzM2eNVI0UjkuJfDkOe16L4HU30A4tbnyZmmeCa8DxbZGOLwAFLfsferLNBESW_6mqphLoTIGiDI5fjUVYEhAqAOyvUK_Q7SjXSqA_TZj0GhT8Jbc3X4isWJhs8FOT8ou9avoI5A",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "sadhansaha saha",
+            "author_url" : "https://plus.google.com/116508807665494259732",
+            "language" : "en",
+            "rating" : 1,
+            "text" : "",
+            "time" : 1420041923
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/106240999055244578056/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "53, Syed Amir Ali Avenue, Ballygunge, Ballygunge, Kolkata"
+   },
+   "status" : "OK"
+}

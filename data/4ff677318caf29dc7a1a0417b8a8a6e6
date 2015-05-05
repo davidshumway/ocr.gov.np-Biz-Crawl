@@ -1,0 +1,149 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "25, Ground Floor, Room No.57",
+            "short_name" : "25, Ground Floor, Room No.57",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "Strand Road",
+            "short_name" : "Strand Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Marshal House",
+            "short_name" : "Marshal House",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "B B D Bagh",
+            "short_name" : "B B D Bagh",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700001",
+            "short_name" : "700001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "25, Ground Floor, Room No.57, \u003cspan class=\"street-address\"\u003eStrand Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eMarshal House, B B D Bagh\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "25, Ground Floor, Room No.57, Strand Road, Marshal House, B B D Bagh, Kolkata, West Bengal 700001, India",
+      "formatted_phone_number" : "033 3022 5158",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.578251,
+            "lng" : 88.348264
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "83fdd2d079a1cb459737dbc3bdccef0eccbe1796",
+      "international_phone_number" : "+91 33 3022 5158",
+      "name" : "Bharat Engineering Corporation",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 8:30 pm",
+            "Tuesday: 9:00 am – 8:30 pm",
+            "Wednesday: 9:00 am – 8:30 pm",
+            "Thursday: 9:00 am – 8:30 pm",
+            "Friday: 9:00 am – 8:30 pm",
+            "Saturday: 9:00 am – 8:30 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJMW4M-qJ3AjoRm21T55m0muo",
+      "reference" : "CoQBcgAAAD3vmOsbd3201Tamxod9hFxCM3IF3a5UENCRD0_eNAMH3TGoL9Nkstbzx2MkYxSgkiKgl-ZzbaC4EIfiwUKW2--3sc-kO3ZFKs53SxYPi42kdZpoJpInSroWWjpmQSVIOif8m4przGYvOht4FHbzbOKo4xCKoH27ojtNjuwB8x0mEhBaGpleormM17a3PuROGOVIGhSiuxo7zuwBY06j8yLkwT1nNmd2cQ",
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/114181549353523209696/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "25, Ground Floor, Room No.57, Strand Road, Marshal House, B B D Bagh, Kolkata"
+   },
+   "status" : "OK"
+}

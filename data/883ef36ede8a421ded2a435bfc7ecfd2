@@ -1,0 +1,162 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "352-A",
+            "short_name" : "352-A",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Jhansi-Kanpur Hwy",
+            "short_name" : "Jhansi-Kanpur Hwy",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Ramadevi Chauraha",
+            "short_name" : "Ramadevi Chauraha",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ramadevi",
+            "short_name" : "Ramadevi",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Safipur IInd",
+            "short_name" : "Safipur IInd",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208007",
+            "short_name" : "208007",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e352-A, Jhansi-Kanpur Hwy\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eRamadevi Chauraha, Ramadevi, Safipur IInd\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208007\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "352-A, Jhansi-Kanpur Hwy, Ramadevi Chauraha, Ramadevi, Safipur IInd, Kanpur, Uttar Pradesh 208007, India",
+      "formatted_phone_number" : "097941 07596",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.410473,
+            "lng" : 80.388327
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "1035f9291cdb8ffdd3616e80fe4e7fb01f51c3c4",
+      "international_phone_number" : "+91 97941 07596",
+      "name" : "Surendra Automobiles",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 9:00 pm",
+            "Tuesday: 9:00 am – 9:00 pm",
+            "Wednesday: 9:00 am – 9:00 pm",
+            "Thursday: 9:00 am – 9:00 pm",
+            "Friday: 9:00 am – 9:00 pm",
+            "Saturday: 9:00 am – 9:00 pm",
+            "Sunday: 9:00 am – 9:00 pm"
+         ]
+      },
+      "place_id" : "ChIJHQ6DgD1BnDkRSNqF-AERk3c",
+      "reference" : "CnRnAAAASmF465R_LaC5RXC4dUcccDjocJPNGYBtLmpm2_FJeA17t7m9ODMFYqEhCcdHD7_29VOO31RDe2M9TCkiI4OZUnY4if_Y1SDUJEZNKe7wmbtKrMpHO2oOisJ7dDApekdWziulGGTdL10_gc6HsOkIHRIQDIKNX4cT8h9t7EgC6X677xoUBOr6-TCpa-k14LSKnKelK3yg7Uk",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/109200081399680170699/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "352-A, Jhansi-Kanpur Hwy, Ramadevi Chauraha, Ramadevi, Safipur IInd, Kanpur"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,83 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "71",
+            "short_name" : "71",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Taltala",
+            "short_name" : "Taltala",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700016",
+            "short_name" : "700016",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e71\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eTaltala\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700016\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "71, Taltala, Kolkata, West Bengal 700016, India",
+      "formatted_phone_number" : "033 2225 4304",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.551092,
+            "lng" : 88.354281
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "0708fe47aaedc3482b9873a221c402f577ded15b",
+      "international_phone_number" : "+91 33 2225 4304",
+      "name" : "Techno Electric & Engineering Co. Ltd.",
+      "place_id" : "ChIJja5Q6eF2AjoRBylJOxuD784",
+      "reference" : "CoQBegAAAFbokGJbmcyYd4mJX7TcFOUam96rv4G_C0JYWO4n6nH_coN0ogWzlb1cLWGyHTlCHe2571edo_hQtidi_tdoqdhaOEW_uCGscMoM3SdeaNUyCKy-yI8nT7wK4kIZcEHYOBZLslv_INi2Q5-SxuNhTOdmpVQ4z0FeRwDoQk7D3vI7EhAcbr7uGR-L0TG82YcBCPKaGhTmOJC_9GU2XoHT39qJF-YhYJvGdg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Vasanth Rayudu",
+            "author_url" : "https://plus.google.com/109549976029426257134",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1384494342
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/103731735120652426062/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "71, Taltala, Kolkata",
+      "website" : "http://www.techno.co.in/"
+   },
+   "status" : "OK"
+}

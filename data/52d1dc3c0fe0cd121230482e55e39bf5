@@ -1,0 +1,87 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Purba Medinipur",
+            "short_name" : "Purba Medinipur",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "721603",
+            "short_name" : "721603",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Purba Medinipur, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e721603\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Purba Medinipur, West Bengal 721603, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.189649,
+            "lng" : 88.059534
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "dc6328b3b02b8e9cbde1dafc62f6f7b4855c21aa",
+      "name" : "Public Health Engineering",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJxWeqAgXzAjoR5N_OVW1t8A0",
+      "reference" : "CnRsAAAA7PeIEuXYFj_IWlb8HXFQDiHF4o7xVizLi1L2ivOV9iuRPzYezuIv5mMZUFVYTMmDYS-WsDc71JoAFiIplvaYRZWN2b6ewA6x6Bk9uqJ9MjIZXtvlc7jl2mo4Qx4LE8TcTbzEQaj76lobLPeZWvmytRIQ7eLXJ1AveZGU8y4YgOgmkhoU6XeA7tyQeOiwpmAdKo5kJ8CWKig",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 1,
+            "text" : "",
+            "time" : 1334199564
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/103108702464297738208/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "",
+      "website" : "http://www.wbphed.gov.in/"
+   },
+   "status" : "OK"
+}

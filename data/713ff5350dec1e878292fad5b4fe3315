@@ -1,0 +1,140 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Ashutosh Mukherjee Road",
+            "short_name" : "Ashutosh Mukherjee Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bhowanipore",
+            "short_name" : "Bhowanipore",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700020",
+            "short_name" : "700020",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "1-C, \u003cspan class=\"street-address\"\u003eAshutosh Mukherjee Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBhowanipore\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700020\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "1-C, Ashutosh Mukherjee Road, Bhowanipore, Kolkata, West Bengal 700020, India",
+      "formatted_phone_number" : "033 2486 9052",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.537382,
+            "lng" : 88.346722
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+      "id" : "71bff79f4c1af2f571480592db9b2672c5a891b4",
+      "international_phone_number" : "+91 33 2486 9052",
+      "name" : "United Services Station",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJxUkuCD13AjoRs8-fMOWDQlE",
+      "reference" : "CnRqAAAA1uRmf4Ek91UxZJCwFfn9RyNd8KS9jXpGk3F0VFqNZPZycpMRWe_NPyutXfMNBhnY_v9NQYUKHbmKaIPpANvHrUb8nvjXN9XFEBFiPvSWg5u5CATTq5oWFzBSSfIrRRnft8PPjr3K9VTrkyEQC6TehhIQolyzdpBSL-Cwia3at_7WrhoUyGG2ydQpGyp6am2UX_2Dc6sZkzc",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "gas_station", "establishment" ],
+      "url" : "https://plus.google.com/110550746051593233543/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "1-C, Ashutosh Mukherjee Road, Bhowanipore, Kolkata",
+      "website" : "http://www.hindustanpetroleum.com/"
+   },
+   "status" : "OK"
+}

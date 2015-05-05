@@ -1,0 +1,68 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700010",
+            "short_name" : "700010",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "1c, Sura Cross Lane, \u003cspan class=\"street-address\"\u003eSura Cross Lane\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700010\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "1c, Sura Cross Lane, Sura Cross Lane, Kolkata, West Bengal 700010, India",
+      "formatted_phone_number" : "033 2353 7956",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.567231,
+            "lng" : 88.39346
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "ec4ac30991d6cebc347a629a02737e665a1dbb26",
+      "international_phone_number" : "+91 33 2353 7956",
+      "name" : "Sunil International",
+      "place_id" : "ChIJAQAAAGN2AjoR_pVBT2wpDr4",
+      "reference" : "CnRnAAAA5pLOqPiiJUepvy2jFGh4XMW_na-ymspxt2oiM0DaDc--QYzTtEmCQ0JT0EOdH_Hlo5Dp1tZFFa18Dq5pDExapx0Es-9VUB-Qnu5n_-bJhZTasxbIKx8765YbbINQc3yaLv5Mwy_-0y3hR0q6bJYMBRIQDV3P-PZgQoLjHY0zAuSTqBoUIv0P2FJamG-Hw2XU7FGfvhOicdg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Krish Dutta",
+            "author_url" : "https://plus.google.com/114470219777460569866",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1373205857
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/118242997339749292872/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "1c, Sura Cross Lane, Sura Cross Lane, Kolkata",
+      "website" : "http://www.sunilinternational.com/"
+   },
+   "status" : "OK"
+}

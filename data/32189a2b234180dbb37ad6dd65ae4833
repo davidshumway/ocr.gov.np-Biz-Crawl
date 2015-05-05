@@ -1,0 +1,81 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Kanpur Road",
+            "short_name" : "Kanpur Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "LDA colony",
+            "short_name" : "LDA colony",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Lucknow",
+            "short_name" : "Lucknow",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Lucknow",
+            "short_name" : "Lucknow",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "226012",
+            "short_name" : "226012",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Building 2, \u003cspan class=\"street-address\"\u003eKanpur Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eLDA colony\u003c/span\u003e, \u003cspan class=\"locality\"\u003eLucknow\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e226012\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Building 2, Kanpur Road, LDA colony, Lucknow, Uttar Pradesh 226012, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.791692,
+            "lng" : 80.90216100000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "8799fb5afa8a408dd9eb5c18706e4d52220fbe40",
+      "name" : "BSNL Apartment Building 2",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "open" : {
+                  "day" : 0,
+                  "time" : "0000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+         ]
+      },
+      "place_id" : "ChIJF51HZQH8mzkR9TmTcPIfdEQ",
+      "reference" : "CnRsAAAADdNRBlq4i3ueQhvfnyUDoUh09P7TSTDXsK6jHxbB5-HyZiVcOk7svUXaJ876Bcw9xytC_LUQzLXS1hQZBNKMVqcXPvjlpgxTUMnwLdfOEhwwk-pa5aO8yd9N7l-fIIouvMUa-L3UUu_BjRgOZiT56hIQz6PjoBav16kGrH0F-EXpGBoUQ1LstLh8GyjqKjQoHowVxpL4KgY",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/114123484044162560753/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Building 2, Kanpur Road, LDA colony, Lucknow"
+   },
+   "status" : "OK"
+}

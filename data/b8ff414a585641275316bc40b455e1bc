@@ -1,0 +1,113 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Gaya",
+            "short_name" : "Gaya",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "823001",
+            "short_name" : "823001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Swarajpuri Road, \u003cspan class=\"street-address\"\u003e1st Floor, Raja Niwas, Near Oxbridge Campus\u003c/span\u003e, \u003cspan class=\"locality\"\u003eGaya\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e823001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Swarajpuri Road, 1st Floor, Raja Niwas, Near Oxbridge Campus, Gaya, Bihar 823001, India",
+      "formatted_phone_number" : "0631 222 0893",
+      "geometry" : {
+         "location" : {
+            "lat" : 24.795452,
+            "lng" : 84.999431
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "e591fa544f1786601636dc15f728d68a2d4d8896",
+      "international_phone_number" : "+91 631 222 0893",
+      "name" : "HDFC Life",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 6:00 pm",
+            "Tuesday: 9:00 am – 6:00 pm",
+            "Wednesday: 9:00 am – 6:00 pm",
+            "Thursday: 9:00 am – 6:00 pm",
+            "Friday: 9:00 am – 6:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJAQAAAEQq8zkRKyBruyVNnX0",
+      "reference" : "CmRcAAAAjvdIK6fNvPb4lSWRfaoZhV-kyhTa1Gu6QzH5ITXkA7s1AWgx9tkdcXHXYOglrNIJtaQa5DsxuosYRTYR2GSJ6ucxRtuPvvraRxasflpA8KMKU07EGPMUX0woiJX7oSTmEhDZrMWbG4HC-gCzKE2UOBChGhR8j5T54Gba_6JUPWOKlO8YpvLXzw",
+      "scope" : "GOOGLE",
+      "types" : [ "insurance_agency", "finance", "establishment" ],
+      "url" : "https://plus.google.com/112178596798152857080/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Swarajpuri Road, 1st Floor, Raja Niwas, Near Oxbridge Campus, Gaya",
+      "website" : "http://www.hdfclife.com/"
+   },
+   "status" : "OK"
+}

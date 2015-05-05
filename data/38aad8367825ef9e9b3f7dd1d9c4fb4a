@@ -1,0 +1,58 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Patna",
+            "short_name" : "Patna",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "800001",
+            "short_name" : "800001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "3-Ashiana Tower,Exhibition Road, \u003cspan class=\"locality\"\u003ePatna\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e800001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "3-Ashiana Tower,Exhibition Road, Patna, Bihar 800001, India",
+      "formatted_phone_number" : "0612 232 3350",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.613966,
+            "lng" : 85.14410700000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "6bfe4a513559c2283a2f61920bf03e2eb3c2875d",
+      "international_phone_number" : "+91 612 232 3350",
+      "name" : "Shelter Enterprises",
+      "photos" : [
+         {
+            "height" : 147,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAgt9zEkTiavax00Gd5mBXpmLFaQRWi31jPe41zKRofk2ldxciApI0T1m52jwpgMBvKVDPYqbj5BJI4OuJ2nEFkzKwU5j2PzK_vZ1oqnGOklT8rW0sMFnFa20SUYLsTXCRhlM5cZb7_RLb7SNN6gMQ7BIQVXyF4g999fXIsWvUaGQ9VRoUlHhLn4vFsxR05_ocNDpY-tih-Qc",
+            "width" : 159
+         }
+      ],
+      "place_id" : "ChIJv59QEVlY7TkRTya_biftfqg",
+      "reference" : "CnRnAAAAF4znfs04kdUpadLK2FD5-L88QHeYnfbAs3Iod2L0QYF81L4ORwSFYcbbpPSWeiTu2EFy7rqooO2Jpaq_KvBTb_JRyDeoFqphyNghIHJSJPs0FSl2QZTuX471qo6Ws66MMAJ7c8cIBDN7Mp1OgNYv7hIQPNrli8-OYNO2lAWrH1ICgxoUablLXDxKKw6E1EwxHGVo1zBOZ04",
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/110933215370949594093/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "3-Ashiana Tower,Exhibition Road, Patna"
+   },
+   "status" : "OK"
+}

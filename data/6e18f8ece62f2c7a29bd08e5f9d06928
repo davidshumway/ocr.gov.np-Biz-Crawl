@@ -1,0 +1,142 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Local road",
+            "short_name" : "Local road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Birbhum",
+            "short_name" : "Birbhum",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "731123",
+            "short_name" : "731123",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Water, \u003cspan class=\"street-address\"\u003eLocal road\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e731123\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Water, Local road, West Bengal 731123, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 23.881423,
+            "lng" : 87.366167
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "59623cda26d754ee548016bddf8736fdb20398d9",
+      "name" : "Dey Pond I",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1300"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1300"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1300"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1300"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1300"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0700"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1300"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0700"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 7:00 am – 1:00 pm",
+            "Tuesday: 7:00 am – 1:00 pm",
+            "Wednesday: 7:00 am – 1:00 pm",
+            "Thursday: 7:00 am – 1:00 pm",
+            "Friday: 7:00 am – 1:00 pm",
+            "Saturday: 7:00 am – 1:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJSd2rMt9E9zkRfh-bFAPiipc",
+      "reference" : "CmReAAAAYlAYLlQVPeqPtJWmD3wzfKVV7MhLZKDTvCH4YZPvSI1iPdRB9S-VPcnbb4q6jV4hcKx1SLEzxfkFejiyRHf1NmeaVKrHuBwma7ijzPZQKddZu9uWEGmrlNWdE3DWy4V6EhDcnHlicyxzIAsLAb1C4nI7GhTC9D9PwBwu_E0UjZ9cqkAZWLLZig",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Sukumar Kora",
+            "author_url" : "https://plus.google.com/107741017114500326317",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1369480698
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "general_contractor", "establishment" ],
+      "url" : "https://plus.google.com/117114573033626859118/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Water, Local road"
+   },
+   "status" : "OK"
+}

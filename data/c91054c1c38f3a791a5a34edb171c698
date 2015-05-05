@@ -1,0 +1,145 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "P-27, Princep Street, Dalhousie",
+            "short_name" : "P-27, Princep Street, Dalhousie",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Ganesh Chandra Avenue",
+            "short_name" : "Ganesh Chandra Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bow Barracks",
+            "short_name" : "Bow Barracks",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700072",
+            "short_name" : "700072",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eP-27, Princep Street, Dalhousie, Ganesh Chandra Avenue\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBow Barracks\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700072\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "P-27, Princep Street, Dalhousie, Ganesh Chandra Avenue, Bow Barracks, Kolkata, West Bengal 700072, India",
+      "formatted_phone_number" : "033 2234 7347",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.569155,
+            "lng" : 88.353627
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "221c43cf9c8057f5897ebd92dfb395265bc8c4e5",
+      "international_phone_number" : "+91 33 2234 7347",
+      "name" : "Hariyana Tractors",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 10:00 pm",
+            "Tuesday: 10:00 am – 10:00 pm",
+            "Wednesday: 10:00 am – 10:00 pm",
+            "Thursday: 10:00 am – 10:00 pm",
+            "Friday: 10:00 am – 10:00 pm",
+            "Saturday: 10:00 am – 10:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJe3xVlKh3AjoRoKR_yjtUqjc",
+      "reference" : "CnRkAAAAJ_M6O_0aXbHUuVtEdMuh-9P2aqCMquUJTbUl993LrMWtC2LP8zNyeHD93ph6gLtZCkn8qaFjC_700wPv0rIe_BhVKHzD9wxcwir7VYY3tj8Uyr97DQNamiXODs7xWXwINb_HOIVJ6tbcto7IPRrzWBIQEm_lH4lKvAEOfspQWjWLGhoUWo2pzh-hp_vPfZ5v_pMlXVu22Os",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/109810177044344061582/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "P-27, Princep Street, Dalhousie, Ganesh Chandra Avenue, Bow Barracks, Kolkata",
+      "website" : "http://www.hariyanatractors.com/"
+   },
+   "status" : "OK"
+}

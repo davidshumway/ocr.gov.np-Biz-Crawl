@@ -1,0 +1,71 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "National Highway 34",
+            "short_name" : "NH34",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Chuapur",
+            "short_name" : "Chuapur",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Baharampur",
+            "short_name" : "Baharampur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNational Highway 34\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eChuapur\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBaharampur\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "National Highway 34, Chuapur, Baharampur, West Bengal, India",
+      "formatted_phone_number" : "1800 209 7979",
+      "geometry" : {
+         "location" : {
+            "lat" : 24.0893,
+            "lng" : 88.2685
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/car_dealer-71.png",
+      "id" : "197b559b69b3540ac42a50a33b77487408db2591",
+      "international_phone_number" : "+91 1800 209 7979",
+      "name" : "Tata Motors",
+      "place_id" : "ChIJsf6m-bR9-TkRH0kLheM_Yhg",
+      "reference" : "CmReAAAA_KpHdIOjzTx2_qPBqoDPSbjA2dPcHJ9dzR_H22uJMdFqlpCEWerjuN9aogkZkFDObLjMV69UnFpVWKOa-gfrwzr9kLcPd0yt4PXouUcGeCTgrzeE3AUlhyy7Q18N4mcxEhABbd0XhXqC6vdmtCX-ZewzGhSjxIAZ8JsoFEQPKOqE5E003ahmjA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "chandrasekhar roy",
+            "author_url" : "https://plus.google.com/109734320304996424394",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1388754007
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "car_dealer", "store", "establishment" ],
+      "url" : "https://plus.google.com/115845904374708905775/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "National Highway 34, Chuapur, Baharampur",
+      "website" : "http://www.tatamotors.com/"
+   },
+   "status" : "OK"
+}

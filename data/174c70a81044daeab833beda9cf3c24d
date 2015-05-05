@@ -1,0 +1,80 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Road",
+            "short_name" : "Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Sirajganj",
+            "short_name" : "Sirajganj",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Rajshahi Division",
+            "short_name" : "Rajshahi Division",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Bangladesh",
+            "short_name" : "BD",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eRoad\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eBangladesh\u003c/span\u003e",
+      "formatted_address" : "Road, Bangladesh",
+      "formatted_phone_number" : "02-8810910",
+      "geometry" : {
+         "location" : {
+            "lat" : 24.127795,
+            "lng" : 89.58705999999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "6f0c1144e59a0d77e3590778ee63b660054dda06",
+      "international_phone_number" : "+880 2-8810910",
+      "name" : "Deshbandhu Cement Mills Ltd.",
+      "place_id" : "ChIJieZ1xMx3_jkRqqS3LOmHBWw",
+      "reference" : "CnRvAAAAQI2viU--GV4fiLzPjrzXVUPLZcRKH1wpX32NHz0cc6lCvmhakYQYfw4D1AtJVCA9SKHMgQyJnnIqMy-41iExASQhyElxv1XRo9uOifrqSdCyLAmf3-A8UKuF_8-5CnEfFYXW6FEvhNlh9CTABI-AOhIQzPDF6r_tML0tFBnHfWeCnhoUuBnrmbHMMRaOmGY_k3ZgcP7SnzQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Khairul Bashar Nahid",
+            "author_url" : "https://plus.google.com/112538309100961843237",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "Fantastic surrounding area.",
+            "time" : 1423834722
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "mahedi hasan",
+            "author_url" : "https://plus.google.com/116242974392562975908",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Best place",
+            "time" : 1424559922
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/108082332375468760174/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 360,
+      "vicinity" : "Road",
+      "website" : "http://dbg.com.bd/"
+   },
+   "status" : "OK"
+}

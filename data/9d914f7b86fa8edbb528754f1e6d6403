@@ -1,0 +1,147 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "277/A",
+            "short_name" : "277/A",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "Mahatma Gandhi Road",
+            "short_name" : "Mahatma Gandhi Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Haridevpur",
+            "short_name" : "Haridevpur",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Paschim Putiary",
+            "short_name" : "Paschim Putiary",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700082",
+            "short_name" : "700082",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "277/A, \u003cspan class=\"street-address\"\u003eMahatma Gandhi Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eHaridevpur, Paschim Putiary\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700082\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "277/A, Mahatma Gandhi Road, Haridevpur, Paschim Putiary, Kolkata, West Bengal 700082, India",
+      "formatted_phone_number" : "094320 72992",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.478595,
+            "lng" : 88.33845700000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "5555fbb48faea3b9fd1206be20c64109d44414b2",
+      "international_phone_number" : "+91 94320 72992",
+      "name" : "A.P. Auto",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 am – 9:00 pm",
+            "Tuesday: 8:00 am – 9:00 pm",
+            "Wednesday: 8:00 am – 9:00 pm",
+            "Thursday: 8:00 am – 9:00 pm",
+            "Friday: 8:00 am – 9:00 pm",
+            "Saturday: 8:00 am – 9:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ8T1ldY5wAjoR5gOmXMMbaH4",
+      "reference" : "CmRcAAAAaL7Woj_GijxFiQLoowWk4Rdc-SFkpNv87Y1RaaXozRYLTUkkUj8_SCIC4spCvl690r7Q_6Wq06taQsxNQwrT0rkDBnHfeBDgfKYvT_4muyYiEYqfMv4j--XlPcdlEFdzEhAdtOBHTdrfYvBlY7J6cgAOGhSLUhXCeMAVD3ewZ6tRQdHA4tL_dQ",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/113949283254210209710/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "277/A, Mahatma Gandhi Road, Haridevpur, Paschim Putiary, Kolkata"
+   },
+   "status" : "OK"
+}

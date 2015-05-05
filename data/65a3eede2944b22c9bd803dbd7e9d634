@@ -1,0 +1,63 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "50A, Hazra Road",
+            "short_name" : "50A, Hazra Road",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Ballygunge",
+            "short_name" : "Ballygunge",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700019",
+            "short_name" : "700019",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e50A, Hazra Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBallygunge\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700019\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "50A, Hazra Road, Ballygunge, Kolkata, West Bengal 700019, India",
+      "formatted_phone_number" : "098315 90248",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.525382,
+            "lng" : 88.361621
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "0a671acc308826ce76995eee23360eafc5ef504a",
+      "international_phone_number" : "+91 98315 90248",
+      "name" : "Hazra Auto Parts",
+      "place_id" : "ChIJs1qaNSh3AjoR50IoXR2gk3E",
+      "reference" : "CnRjAAAAC9-saObq9V8koYROCO5KzbroXFxmb0QuiZWnWKz5KqRp269WeeG89Usp_wqtkX1f2aQXDiWwHWbfKnjby1KukSV_mMwSy-_U7GPxV4h3900hqLQB08L_GDXtgS8gFVLCrHnSOa5y5YFJMOURf4iyCBIQexlxg-RgKzC96lg0bsSODRoUCuojpPtM-aT4d7h60XFlAprK-Iw",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/114846620177627442668/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "50A, Hazra Road, Ballygunge, Kolkata"
+   },
+   "status" : "OK"
+}

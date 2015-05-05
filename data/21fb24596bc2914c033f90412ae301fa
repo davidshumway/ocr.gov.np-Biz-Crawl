@@ -1,0 +1,148 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "5th Floor",
+            "short_name" : "5th Floor",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "Arihant",
+            "short_name" : "Arihant",
+            "types" : [ "premise" ]
+         },
+         {
+            "long_name" : "Mirza Ghalib Street",
+            "short_name" : "Mirza Ghalib Street",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Taltala",
+            "short_name" : "Taltala",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700016",
+            "short_name" : "700016",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "5th Floor, Arihant, \u003cspan class=\"street-address\"\u003eMirza Ghalib Street\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eTaltala\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700016\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "5th Floor, Arihant, Mirza Ghalib Street, Taltala, Kolkata, West Bengal 700016, India",
+      "formatted_phone_number" : "033 2227 2128",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.554558,
+            "lng" : 88.354401
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "4803dd27d95c81dc716008c0525b980c658c7c96",
+      "international_phone_number" : "+91 33 2227 2128",
+      "name" : "H & R Johnson India",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 7:00 pm",
+            "Tuesday: 10:00 am – 7:00 pm",
+            "Wednesday: 10:00 am – 7:00 pm",
+            "Thursday: 10:00 am – 7:00 pm",
+            "Friday: 10:00 am – 7:00 pm",
+            "Saturday: 10:00 am – 7:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJW9dvCwV3AjoRk4hut7lKPOs",
+      "reference" : "CnRnAAAAbUito3yVeo0ZlrreCDMgHmauXgZDHaM-xO0aoKCN8QJ2K2kHo4SDdAeEFuAegD83WhlDgNKPkBG9dZP_k9WXxZTb_Fn9Fx2T2AqN8e8oHndUuksG1Me3TAWFFgl_7k7OKAArREQduGavugs0v5YQkhIQbNMQh9v617wv72HG-FHKvBoU-ritNYpTIFwRc2AXUydLFrdhqoA",
+      "scope" : "GOOGLE",
+      "types" : [ "general_contractor", "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/107203701274254971901/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "5th Floor, Arihant, Mirza Ghalib Street, Taltala, Kolkata",
+      "website" : "http://www.hrjohnsonindia.com"
+   },
+   "status" : "OK"
+}

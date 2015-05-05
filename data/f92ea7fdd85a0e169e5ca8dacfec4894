@@ -1,0 +1,145 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "7/2",
+            "short_name" : "7/2",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Onkarmal Jetia Rd,A.J.C. Bose Road",
+            "short_name" : "Onkarmal Jetia Rd,A.J.C. Bose Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Kazipara",
+            "short_name" : "Kazipara",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Shibpur",
+            "short_name" : "Shibpur",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Howrah",
+            "short_name" : "Howrah",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Howrah",
+            "short_name" : "Howrah",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700118",
+            "short_name" : "700118",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e7/2, Onkarmal Jetia Rd,A.J.C. Bose Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eKazipara, Shibpur\u003c/span\u003e, \u003cspan class=\"locality\"\u003eHowrah\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700118\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "7/2, Onkarmal Jetia Rd,A.J.C. Bose Road, Kazipara, Shibpur, Howrah, West Bengal 700118, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.56358,
+            "lng" : 88.313423
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "2f57ddc569f73103d45566e4c1c26c54cda82b65",
+      "name" : "Star Motors",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 10:00 pm",
+            "Tuesday: 10:00 am – 10:00 pm",
+            "Wednesday: 10:00 am – 10:00 pm",
+            "Thursday: 10:00 am – 10:00 pm",
+            "Friday: 10:00 am – 10:00 pm",
+            "Saturday: 10:00 am – 10:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJfzGoszJ4AjoR0bix_UYNbQY",
+      "reference" : "CmReAAAAiWiIH7euwJyt2v93hunwiCaMwR2kdY6lJlVuMG2K7RQD9kjm9MZC7hX10i-z17XlobNwAVvik-jV3zaqBqveRipIaz586ZhxWQv9e4_zRwfTzsmkDFMS5QBwABdAvdtaEhAanxVVLL6YFGUf1d7b3FwlGhS7aC8SNCcIBP50NReUIKMe1g4pZg",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/106649826074454185820/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "7/2, Onkarmal Jetia Rd,A.J.C. Bose Road, Kazipara, Shibpur, Howrah"
+   },
+   "status" : "OK"
+}

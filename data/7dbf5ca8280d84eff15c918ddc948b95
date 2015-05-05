@@ -1,0 +1,149 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "18",
+            "short_name" : "18",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "Chandni Chowk Street",
+            "short_name" : "Chandni Chowk St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Chandni Chawk",
+            "short_name" : "Chandni Chawk",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Bowbazar",
+            "short_name" : "Bowbazar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700072",
+            "short_name" : "700072",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "18, \u003cspan class=\"street-address\"\u003eChandni Chowk Street\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eChandni Chawk, Bowbazar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700072\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "18, Chandni Chowk Street, Chandni Chawk, Bowbazar, Kolkata, West Bengal 700072, India",
+      "formatted_phone_number" : "033 2212 7599",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.565732,
+            "lng" : 88.354916
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+      "id" : "078fe35224a2fcf08b2bde18af37c5f9ca12eb9a",
+      "international_phone_number" : "+91 33 2212 7599",
+      "name" : "Naresh Radio & TV Company",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 9:00 pm",
+            "Tuesday: 10:00 am – 9:00 pm",
+            "Wednesday: 10:00 am – 9:00 pm",
+            "Thursday: 10:00 am – 9:00 pm",
+            "Friday: 10:00 am – 9:00 pm",
+            "Saturday: 10:00 am – 9:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJsQ5RT6h3AjoRqU86KywaQU0",
+      "reference" : "CnRsAAAAEYEggedcHKXdxI_ae905Sw7MMml7ZNkSE2gBeB33xVZHKz7vOMXEbWELWu49fg41x1ztT1jk-FSl3j32LtCwMyBk3qz2N94-UAYW6v6neUWf2G--Sfs5H6chyzUKEQfhJC6dMi8aE2OHVaUi5RsOBBIQYLplVPLAFPYgs7erk5iqTxoUzB1vs5k5NYesjKypznCEU3Ku4R4",
+      "scope" : "GOOGLE",
+      "types" : [ "electronics_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/112996679379243510930/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "18, Chandni Chowk Street, Chandni Chawk, Bowbazar, Kolkata"
+   },
+   "status" : "OK"
+}

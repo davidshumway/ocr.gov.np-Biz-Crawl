@@ -1,0 +1,140 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Albatiya Road",
+            "short_name" : "Albatiya Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Shankar Puri Crossing",
+            "short_name" : "Shankar Puri Crossing",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Shahganj",
+            "short_name" : "Shahganj",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Agra",
+            "short_name" : "Agra",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Agra",
+            "short_name" : "Agra",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "282010",
+            "short_name" : "282010",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eAlbatiya Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eShankar Puri Crossing, Shahganj\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAgra\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e282010\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Albatiya Road, Shankar Puri Crossing, Shahganj, Agra, Uttar Pradesh 282010, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.178744,
+            "lng" : 77.969606
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "8b8f9a2317cf3bfad1d10fc6fe381653097734be",
+      "name" : "Dinesh Hardware",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 9:00 am – 10:00 pm",
+            "Wednesday: 9:00 am – 10:00 pm",
+            "Thursday: 9:00 am – 10:00 pm",
+            "Friday: 9:00 am – 10:00 pm",
+            "Saturday: 9:00 am – 10:00 pm",
+            "Sunday: 9:00 am – 10:00 pm"
+         ]
+      },
+      "place_id" : "ChIJcbaOH6l3dDkRTWGxzqpJJrI",
+      "reference" : "CnRjAAAA_t77mCLr79c8bTXxOwoK2dsD_SDaLPG4BtmKtRN1GX30oQzCZSTtf2KUdY-cV9KK0kHLR83_res5u1fWlMGS2Ar4odSpWH-Zqtac2JIH8KH85t18FFRysnfuHEtlZTQ3S1USehD2db_oaCB7unV8DxIQgUSAJahafXlNOetDlQjMlBoUpjGJZbHB6XbQJuB01_ho_en-PgI",
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/105979788510842058067/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Albatiya Road, Shankar Puri Crossing, Shahganj, Agra"
+   },
+   "status" : "OK"
+}

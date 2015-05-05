@@ -1,0 +1,74 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Rangpur Road",
+            "short_name" : "Rangpur Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Kalitola",
+            "short_name" : "Kalitola",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Nishindara",
+            "short_name" : "Nishindara",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bogra",
+            "short_name" : "Bogra",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Rajshahi Division",
+            "short_name" : "Rajshahi Division",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Bangladesh",
+            "short_name" : "BD",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eRangpur Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNishindara\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eBangladesh\u003c/span\u003e",
+      "formatted_address" : "Rangpur Road, Nishindara, Bangladesh",
+      "geometry" : {
+         "location" : {
+            "lat" : 24.85967,
+            "lng" : 89.37270700000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "e6db0f9d44938b05b14a9c530a9b0a1ac662b8ef",
+      "name" : "Agrani Bank Limited",
+      "place_id" : "ChIJh2KPXhxV_DkRDQx6_yVLQKw",
+      "reference" : "CnRnAAAAZOIujYp8hRJRzxFTfzpaoMih7SqTKwe6Grm8t4pULzNMAg4leTp8vpCDYk89ENXJH1jKNjsP3LLszSZYoy4Toa9Vilv9-wHIQQRvOVlX1y76qG3QkPG3uBCIuz_Ppfl-wS4ef-hNQkERW4X0rPqn6RIQNWHAQ3STrlFINtwqZgtgvBoUmkDHeg0B83CtDD1kdygpAi0vdIg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "মো মাহফুজার রহমান",
+            "author_url" : "https://plus.google.com/104554209436753155674",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1418760572
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "bank", "finance", "establishment" ],
+      "url" : "https://plus.google.com/104315641554621481382/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 360,
+      "vicinity" : "Rangpur Road, Nishindara",
+      "website" : "http://www.agranibank.org/"
+   },
+   "status" : "OK"
+}

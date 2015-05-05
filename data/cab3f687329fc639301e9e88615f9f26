@@ -1,0 +1,92 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700056",
+            "short_name" : "700056",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "77, D P Nagar, Nandan Kanan Military Road, Belgharia, \u003cspan class=\"street-address\"\u003eBelgharia\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700056\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "77, D P Nagar, Nandan Kanan Military Road, Belgharia, Belgharia, Kolkata, West Bengal 700056, India",
+      "formatted_phone_number" : "093318 86707",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.661623,
+            "lng" : 88.38928300000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "bc646cd2d251da8ee1874f6e09755f922640b25a",
+      "international_phone_number" : "+91 93318 86707",
+      "name" : "Star Autocare",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 4:00 pm",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: 10:00 am – 4:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 988,
+            "html_attributions" : [],
+            "photo_reference" : "CoQBcQAAAIlL2e0VIpgY3fzHzmlW6UBIV8HFdbk58l8BByiiwtSeQ3dKDozm_me2j0Hurrj31G9cfXJXktP0AM1YCGT2F9lB1LlTd_OO13SeT-VmZZ_FJANYFn8x-f2HIRKmJ5X1LGDgFPAauGSzIlsKfDxSFtF9ikUL6GpyolMsdprFIYTiEhA3iHjr9G8eXrUZD2kQ9Uq7GhSrcb0iJbcIZOdLw8IySIM_AscYpw",
+            "width" : 988
+         }
+      ],
+      "place_id" : "ChIJ92roHDOc-DkRTGoAHnUJMas",
+      "reference" : "CnRhAAAASssCXxv5vr5g8pIuW3lVKPSBIC0kIC1Amsvrz3NPK4Fy11GcoK0HFpIaQ_iBiBwa94WYJTYW5tQGbS0xvidTElKxC_m5K7JIcchWhl5x6OPrQDIKorbWnpD888xq5-P-B6xs_V3CcG7K1uF-fPu-ThIQOHu2bgeQkgjL2etArRwH6xoUaMQbPu2EIA7XvrNLeAnW_PSXQ1A",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/113571935320729399166/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "77, D P Nagar, Nandan Kanan Military Road, Belgharia, Belgharia, Kolkata"
+   },
+   "status" : "OK"
+}

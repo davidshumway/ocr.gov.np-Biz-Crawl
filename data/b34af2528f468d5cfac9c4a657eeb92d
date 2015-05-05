@@ -1,0 +1,87 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "State Highway 8",
+            "short_name" : "SH 8",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Arha",
+            "short_name" : "Arha",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Jamui",
+            "short_name" : "Jamui",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "811315",
+            "short_name" : "811315",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eState Highway 8\u003c/span\u003e, \u003cspan class=\"locality\"\u003eArha\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e811315\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "State Highway 8, Arha, Bihar 811315, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 24.940664,
+            "lng" : 85.82953000000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "932514ea18bb216290ce50cae3abc569779795d3",
+      "name" : "RAZA COTTAGE",
+      "place_id" : "ChIJnUtx3h9M8jkR-VEUZmCD4_g",
+      "reference" : "CmRgAAAAFFXUVPuvuOz5Yo09fYmFYWJvmfoCcriAhtt5znNL1iqE1y1p3XZiqNzC3UZACEIi9dREc1uS8RS5tX3aTrWWjzkiutDw6Cd19KeZsstbW_oDCzb1yAlqMMpYhCwdEq95EhBvjRsi2dqbLNyCdbKWZ115GhSPCPQbDBvNQoTC9A7aFyJXfws8Pg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "uHazmi Fazal",
+            "author_url" : "https://plus.google.com/113658327045815370930",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Safdar sabbait",
+            "time" : 1371725761
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "saddam hussain",
+            "author_url" : "https://plus.google.com/118260924570908589639",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Jamharia",
+            "time" : 1382566722
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/112628011866781899130/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "State Highway 8, Arha"
+   },
+   "status" : "OK"
+}

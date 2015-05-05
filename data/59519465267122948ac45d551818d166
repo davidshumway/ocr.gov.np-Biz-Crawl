@@ -1,0 +1,82 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Allahabad",
+            "short_name" : "Allahabad",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Allahabad",
+            "short_name" : "Allahabad",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "211105",
+            "short_name" : "211105",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eAllahabad\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e211105\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Allahabad, Uttar Pradesh 211105, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.389539,
+            "lng" : 81.87250400000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/fitness-71.png",
+      "id" : "dbd939bf3452d93d482127aecdfeda9940e8c450",
+      "name" : "Shakti Power Gym",
+      "place_id" : "ChIJq-W7B35KhTkRABhBvvwlvik",
+      "reference" : "CnRjAAAA-ijGqU0fzfwqhFogp6qF_lqAwZ1_aJWXh2Hj7esLXLMj4coKzJmIVtv-sRWH8bZ3FFsTcPuh7mOrGPereTetjpU9yhXUITSEiGJnnfCx6KLGeXBBUCAUzFXnjKjNaKfdmeQOnWSNWFCJI-D_xDYZsRIQst6DnNNid77KAUS3xD-DvBoUEWY-GFr6cq4G2Un3bNpmQUSmhmE",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "amit rai",
+            "author_url" : "https://plus.google.com/111524590292790379637",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Enjoing at home....",
+            "time" : 1352554199
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "anindya yamdagni",
+            "author_url" : "https://plus.google.com/100392306086573647981",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1394029829
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "gym", "health", "establishment" ],
+      "url" : "https://plus.google.com/116827283418557655492/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "Allahabad"
+   },
+   "status" : "OK"
+}

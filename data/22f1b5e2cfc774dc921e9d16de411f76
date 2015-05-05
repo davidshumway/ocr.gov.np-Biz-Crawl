@@ -1,0 +1,73 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "State Highway 50",
+            "short_name" : "SH 50",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Dih lahi",
+            "short_name" : "Dih lahi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Darbhanga",
+            "short_name" : "Darbhanga",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "846002",
+            "short_name" : "846002",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eState Highway 50\u003c/span\u003e, \u003cspan class=\"locality\"\u003eDih lahi\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e846002\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "State Highway 50, Dih lahi, Bihar 846002, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.100741,
+            "lng" : 85.846704
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "5eb8ab7ef166abd7facfcc282d99eaf46206b345",
+      "name" : "Brick factory",
+      "place_id" : "ChIJeekBf-C77TkRfrqJ2Tqb_Hc",
+      "reference" : "CmRgAAAADYonKxxMpeDdYjCIUpRoZuBJ-rWYcq_r_I3rGydUDBkfC1YL2mfqG5wIMaemJx4mIU8XbocR_S-y4lPs9pDucKw5uZ7kkcTDEXWj_zQum4eLFfnKu3cAqxdzFHoRj2MQEhCLuyTR1c2VdJFm1sM4zlRNGhT4aNZTGuVjBRYEI5KH58geYj8iYg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "devkant kumaR",
+            "author_url" : "https://plus.google.com/116271344125365034915",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "JKR Bricks darbhanga ",
+            "time" : 1416662399
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "store", "establishment" ],
+      "url" : "https://plus.google.com/110729491980025810859/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "State Highway 50, Dih lahi"
+   },
+   "status" : "OK"
+}

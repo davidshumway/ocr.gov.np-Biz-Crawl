@@ -1,0 +1,130 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "e b rd",
+            "short_name" : "e b rd",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Eastern Bypass",
+            "short_name" : "Eastern Bypass",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Jalpaiguri",
+            "short_name" : "Jalpaiguri",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "734004",
+            "short_name" : "734004",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Estern Bypass rd, \u003cspan class=\"street-address\"\u003ee b rd, Eastern Bypass\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e734004\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Estern Bypass rd, e b rd, Eastern Bypass, West Bengal 734004, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.700076,
+            "lng" : 88.459754
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "13cf97e1ce0256ac1faec3ab7ebb30fc7d45ed79",
+      "name" : "Ranjit Auto",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0930"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:30 am – 10:00 pm",
+            "Tuesday: 9:30 am – 10:00 pm",
+            "Wednesday: 9:30 am – 10:00 pm",
+            "Thursday: 9:30 am – 10:00 pm",
+            "Friday: 9:30 am – 10:00 pm",
+            "Saturday: 9:30 am – 10:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJi9xVVfNB5DkRanHyK4-y9w8",
+      "reference" : "CmReAAAADhwt1OHxJI8JXZ1pqBZsjXI14Ha0vsqShkysYjQF9LwFNB851pPRstoj7G1d1lEESfSQZ6XZ57YC4ofAS6HW4Yw3Qcje3fyVmNPXTqW7_uEpp6lao62hRb4NJa8yhFiBEhACae8HWISUdUELQDnUJMW3GhQIaMuIATdotmyhWSZ3a7c24nmtmA",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/108303707910467013630/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Estern Bypass rd, e b rd, Eastern Bypass"
+   },
+   "status" : "OK"
+}

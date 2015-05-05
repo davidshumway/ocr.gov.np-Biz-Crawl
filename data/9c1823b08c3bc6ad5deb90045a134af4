@@ -1,0 +1,81 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Faizabad Road",
+            "short_name" : "Faizabad Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Chinhat",
+            "short_name" : "Chinhat",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Lucknow",
+            "short_name" : "Lucknow",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Lucknow",
+            "short_name" : "Lucknow",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "226005",
+            "short_name" : "226005",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eFaizabad Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eChinhat\u003c/span\u003e, \u003cspan class=\"locality\"\u003eLucknow\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e226005\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Faizabad Road, Chinhat, Lucknow, Uttar Pradesh 226005, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.889516,
+            "lng" : 81.05504500000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "cdd0581ebdb6a7c524e1c43b02589ba2d86ad524",
+      "name" : "Goyal Apartment",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "open" : {
+                  "day" : 0,
+                  "time" : "0000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+         ]
+      },
+      "place_id" : "ChIJ3yuKngrimzkRtskly3DqnMk",
+      "reference" : "CnRjAAAAwA1yuiOuRYQ419hjJCKPKKtYGKywrWNditgssebPvKL8WiBGbLP3Wi-AwUzF1stNthYKW_-UHOZRmG5sdMlKUqeEIMMT-_CmsCBHhWyctyfXf_o8QL9eRHt0wPU8AbY9fDJ-TanTADnG7B7HlL6IhBIQKiDu7J8XrUZLCtG9yEA5HxoUWZLhbOAr08oOZfIXPJrxO8CXMF0",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/115529693442466063186/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Faizabad Road, Chinhat, Lucknow"
+   },
+   "status" : "OK"
+}

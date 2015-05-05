@@ -1,0 +1,127 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1",
+            "short_name" : "1",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "National Highway 80",
+            "short_name" : "NH 80",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bhagalpur",
+            "short_name" : "Bhagalpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bhagalpur",
+            "short_name" : "Bhagalpur",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "812002",
+            "short_name" : "812002",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Alok Ranjan, \u003cspan class=\"street-address\"\u003e1, National Highway 80\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBhagalpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e812002\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Alok Ranjan, 1, National Highway 80, Bhagalpur, Bihar 812002, India",
+      "formatted_phone_number" : "094700 70171",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.253614,
+            "lng" : 87.008146
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "1f0ac96d0e5edea1f0660c1d44294a3af47660d8",
+      "international_phone_number" : "+91 94700 70171",
+      "name" : "Kuhu Construction Co",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 5:00 pm",
+            "Tuesday: 10:00 am – 5:00 pm",
+            "Wednesday: 10:00 am – 5:00 pm",
+            "Thursday: 10:00 am – 5:00 pm",
+            "Friday: 10:00 am – 5:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJI3xzWCc28DkR-ub9CASLpS4",
+      "reference" : "CnRnAAAA4jJnJsjNf8ARNXiDg81dGAMj7eJGexSBOHZqQ-kUuCVAu7ey9OhQlkfsHJ6QpqWU5VxFlEPUpYfNEjlSAZQl7n_osMnGcTsGJ9hAATOB5kAYMsAIbCBpOgx1Lfa__sgg-NcmATrgGog6SEnOoYf6_BIQH0z6wIJoFAUdXG2LpyE5GRoUhChgA1EBKvp7FQSO7DxmLzvpj8o",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/102190747915110480319/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Alok Ranjan, 1, National Highway 80, Bhagalpur"
+   },
+   "status" : "OK"
+}

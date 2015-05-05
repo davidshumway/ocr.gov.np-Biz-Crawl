@@ -1,0 +1,159 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "B.P. Construction Company",
+            "short_name" : "B.P. Construction Company",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "NH 75",
+            "short_name" : "NH 75",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Kuldomari",
+            "short_name" : "Kuldomari",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Sidhi",
+            "short_name" : "Sidhi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "231225",
+            "short_name" : "231225",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eB.P. Construction Company, NH 75\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKuldomari\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e231225\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "B.P. Construction Company, NH 75, Kuldomari, Uttar Pradesh 231225, India",
+      "formatted_phone_number" : "05446 274 089",
+      "geometry" : {
+         "location" : {
+            "lat" : 24.208328,
+            "lng" : 82.802013
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "5ca0e20f0d7ceea6446177b4209606cbd321e31b",
+      "international_phone_number" : "+91 5446 274 089",
+      "name" : "B.P.Construction Company",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 6:00 pm",
+            "Tuesday: 10:00 am – 6:00 pm",
+            "Wednesday: 10:00 am – 6:00 pm",
+            "Thursday: 10:00 am – 6:00 pm",
+            "Friday: 10:00 am – 6:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJD0thU8oljzkRV28qpGs_VhQ",
+      "reference" : "CnRrAAAAUGSMw803-9c6o-OvhSkxtzDbTz2stjNa-gBVCRa76cXk7nlkT0namgHDQd6Uk3SRtPKRSOys9HhMQXTqxHscYdDpAWiEbaq0XS3TlmRB1DWJl0nrIm5YwZzs-L5TenUxrd9FnQnAaaj_GKHyQodDIxIQzO3so7ngltlmHAm1ldgu6xoU8YMeY11yGuVyPM-yNJ7QQqTHO2A",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "satyendra singh",
+            "author_url" : "https://plus.google.com/105042108745093078800",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Satyendra Singh Service Engineer , NH 75",
+            "time" : 1429444517
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Kshitij Prakash",
+            "author_url" : "https://plus.google.com/101019621814479211188",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1401596147
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/106274253572672889852/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "B.P. Construction Company, NH 75, Kuldomari",
+      "website" : "http://www.bpconstructioncompany.com/"
+   },
+   "status" : "OK"
+}

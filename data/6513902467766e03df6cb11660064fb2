@@ -1,0 +1,65 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "101/B, Ripon Street, Park Street",
+            "short_name" : "101/B, Ripon Street, Park Street",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Taltala",
+            "short_name" : "Taltala",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700016",
+            "short_name" : "700016",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e101/B, Ripon Street, Park Street\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eTaltala\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700016\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "101/B, Ripon Street, Park Street, Taltala, Kolkata, West Bengal 700016, India",
+      "formatted_phone_number" : "033 2229 2250",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.55398,
+            "lng" : 88.357608
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "e4faeec0ebab2f41342a152ccaf480b6ba45c23a",
+      "international_phone_number" : "+91 33 2229 2250",
+      "name" : "Jafri & Sons",
+      "place_id" : "ChIJUxVl6gR3AjoRuUV8RPFc16k",
+      "reference" : "CmRgAAAAi8rzvnPs7EE_UHYzyj1uOf6l7CPxuDRwmZ8XuwCP-5puFbxwIfACGVwZjSkUPlzGdEHlcAaQ8-I8_g4lF12e6ANCuqvfS970agxcpiPX6Beq_ZIhyoEpFWzcBA9OT7nGEhB6QtvYi7tQcAKfIxQO9KffGhR8i1NLm4qHfTcJv7b40hgPbNQpLw",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/108767209443865428762/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "101/B, Ripon Street, Park Street, Taltala, Kolkata"
+   },
+   "status" : "OK"
+}

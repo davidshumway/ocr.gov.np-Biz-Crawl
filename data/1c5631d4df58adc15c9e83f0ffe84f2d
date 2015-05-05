@@ -1,0 +1,149 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "45/97",
+            "short_name" : "45/97",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Main Road",
+            "short_name" : "Main Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Near police Station, Nai Sarak",
+            "short_name" : "Near police Station, Nai Sarak",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Govind Nagar",
+            "short_name" : "Govind Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208006",
+            "short_name" : "208006",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e45/97, Main Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNear police Station, Nai Sarak, Govind Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208006\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "45/97, Main Road, Near police Station, Nai Sarak, Govind Nagar, Kanpur, Uttar Pradesh 208006, India",
+      "formatted_phone_number" : "095046 04305",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.449539,
+            "lng" : 80.306341
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "ae0765530ce585010c9b8872268a4f9c5d6b6f58",
+      "international_phone_number" : "+91 95046 04305",
+      "name" : "Amar Hardware And Paint Store",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 am – 9:00 pm",
+            "Tuesday: Closed",
+            "Wednesday: 8:00 am – 9:00 pm",
+            "Thursday: 8:00 am – 9:00 pm",
+            "Friday: 8:00 am – 9:00 pm",
+            "Saturday: 8:00 am – 9:00 pm",
+            "Sunday: 8:00 am – 9:00 pm"
+         ]
+      },
+      "place_id" : "ChIJnSgYH5FHnDkR-2FOK-mnKhw",
+      "reference" : "CnRwAAAAbdXbx3fwE2CJ0Nr7Mfbi4rMxrNnUBDAeXVD_XVxSc7Y7GXi5wPxzWCB_q7Vc7k6iQ0r6vuJqsehOYEft30Gwrqg4qIWfR0so2McmNGqKDfZV4uy-kOifqa-Cj9QBHZ7AoCy2hVy34Vl-U7JjT_Kf-BIQCTDKNXV0CJ1_7a8IvvcFGhoUl0s08Pvt_FoXaqACaCpzmnyzD7g",
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/102338101156694582173/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "45/97, Main Road, Near police Station, Nai Sarak, Govind Nagar, Kanpur"
+   },
+   "status" : "OK"
+}

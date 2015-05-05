@@ -1,0 +1,147 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "12",
+            "short_name" : "12",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "Kotla Road",
+            "short_name" : "Kotla Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Om Market",
+            "short_name" : "Om Market",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Dakhal",
+            "short_name" : "Dakhal",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Firozabad",
+            "short_name" : "Firozabad",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Firozabad",
+            "short_name" : "Firozabad",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "283203",
+            "short_name" : "283203",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "12, \u003cspan class=\"street-address\"\u003eKotla Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eOm Market, Dakhal\u003c/span\u003e, \u003cspan class=\"locality\"\u003eFirozabad\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e283203\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "12, Kotla Road, Om Market, Dakhal, Firozabad, Uttar Pradesh 283203, India",
+      "formatted_phone_number" : "098976 66623",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.167555,
+            "lng" : 78.40320699999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "e4e279e2ff872786bf5ff00575d3ae71e9a5e9f9",
+      "international_phone_number" : "+91 98976 66623",
+      "name" : "Jai Bajrang Paints & Hardware Store",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: Closed",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: 10:00 am – 8:00 pm"
+         ]
+      },
+      "place_id" : "ChIJp6l5PBlEdDkRsodNQlSf_Kg",
+      "reference" : "CoQBdwAAAA_ctZoJ8P8ADhdZFwFIKumsWGHXzERjgpq9eD4VPWwBkaTeDqxfofTPKXao5Mi2AXpb4-Fq9JhCyJbz90-uGfdrWkT4Ewa0vevFXfopLHjn9SuTihhsZg0GxwnsMYyzTTJz5RSBf0NEPVRC1mrGcC_Btx1fMtVlOr2GgHQ1CK5wEhDmxp4-3j5YbbLfbkJz_5tPGhRa4G5NCtLzabFswfghssH_X2TLaQ",
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/113183882860258463310/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "12, Kotla Road, Om Market, Dakhal, Firozabad"
+   },
+   "status" : "OK"
+}

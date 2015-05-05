@@ -1,0 +1,89 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Paro",
+            "short_name" : "Paro",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Paro",
+            "short_name" : "Paro",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Bhutan",
+            "short_name" : "BT",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eParo\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eBhutan\u003c/span\u003e",
+      "formatted_address" : "Paro, Bhutan",
+      "formatted_phone_number" : "8 271 597",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.415957,
+            "lng" : 89.42824899999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+      "id" : "dd146863f9ba1de4955d04d10b78ba2700c1e84b",
+      "international_phone_number" : "+975 8 271 597",
+      "name" : "Uma by COMO Paro",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "open" : {
+                  "day" : 0,
+                  "time" : "0000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 2048,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAwxIosPJTtijGaKQbGl2udM8WfHuvBJNvSZEu3Ow_ksry_jHfDUY0JdS4mYs-IYPgB7zDmo8ZKqCuIggcn-yJte-m24D8P74e_lIWb0Kv3fTgZsCYOej1mq8iaVElPh6V7NjoR_xyu-xtjrxXq4awWRIQ3imAWz78vKNCl3MUOcwOnhoU9ds8tHOLFiEMJNC8j1f9EBiH4_o",
+            "width" : 2048
+         }
+      ],
+      "place_id" : "ChIJlyCNi2c7XzcRihoIF_3rrAg",
+      "reference" : "CnRjAAAA0COgqpG717liB2DFVcghtHAB-pLB77J20v4lHP-Wh3MvNQ2_uwYIZaqrBK0K7U26OjFAKjZ3I2ZyDB0DbPfLUyTyv7tbZ3y9eSliPD3bLWz-RIAdbgN_u_dPOWpTaaWlJ2CGhRLd7kj52yjtm5l8XBIQmSr_kUfFMWdxCiBa18EslBoUKetd1bm8ZIAFeWlWBa5Lpoqj9z8",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "조민준",
+            "author_url" : "https://plus.google.com/117465014518207298978",
+            "language" : "ko",
+            "rating" : 4,
+            "text" : "Bhutan!",
+            "time" : 1426686155
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "lodging", "establishment" ],
+      "url" : "https://plus.google.com/106889712204358455621/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 360,
+      "vicinity" : "Paro",
+      "website" : "http://www.comohotels.com/umaparo"
+   },
+   "status" : "OK"
+}

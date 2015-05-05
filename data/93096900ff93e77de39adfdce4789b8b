@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "204省道",
+            "short_name" : "204省道",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Yadong",
+            "short_name" : "Yadong",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Xigaze",
+            "short_name" : "Xigaze",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Tibet",
+            "short_name" : "Tibet",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "China",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003eChina\u003c/span\u003e, \u003cspan class=\"region\"\u003eTibet\u003c/span\u003e, \u003cspan class=\"locality\"\u003eXigaze\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eYadong\u003c/span\u003e, \u003cspan class=\"street-address\"\u003e204省道\u003c/span\u003e",
+      "formatted_address" : "China, Tibet, Xigaze, Yadong, 204省道",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.485028,
+            "lng" : 88.90783999999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "6e6bc623fce95c97b69d91ec5ba527281b8b9b2f",
+      "name" : "Yuzu Building Materials",
+      "place_id" : "ChIJ5URkYONI4TkRQJUNyoVnM38",
+      "reference" : "CnRqAAAAwcWvk7CzK6OkxryXG_oDygck7ELJVSm_HDbfwdHJGklMCr4CCGf4H3krtUGtRCzBPB3r3ixUKCbftleCdAZHeGe_Oah06yVyH_afuF2ieqANDByuKDADmUCzUdPc-5IHOdhPu4Izt-scqtZIVCRPkRIQD4NpGGubRTdZb1LQvz3l8BoUX_urq173MFm3Yrncsap2BL4mhas",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "establishment" ],
+      "url" : "https://plus.google.com/110076631714962959914/about?hl=en-US",
+      "utc_offset" : 480,
+      "vicinity" : "204省道, Yadong, Xigaze"
+   },
+   "status" : "OK"
+}

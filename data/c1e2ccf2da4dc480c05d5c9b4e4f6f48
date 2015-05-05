@@ -1,0 +1,144 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Purbo Bazar Masjid Road",
+            "short_name" : "Purbo Bazar Masjid Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Joypurhat",
+            "short_name" : "Joypurhat",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Joypurhat",
+            "short_name" : "Joypurhat",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Rajshahi Division",
+            "short_name" : "Rajshahi Division",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Bangladesh",
+            "short_name" : "BD",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003ePurbo Bazar Masjid Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eJoypurhat\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eBangladesh\u003c/span\u003e",
+      "formatted_address" : "Purbo Bazar Masjid Road, Joypurhat, Bangladesh",
+      "formatted_phone_number" : "01712-688999",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.102065,
+            "lng" : 89.029861
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "7246bed78a55b912e7551a5617443ac28a9380c8",
+      "international_phone_number" : "+880 1712-688999",
+      "name" : "Rowshon Hardware Store",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 9:00 pm",
+            "Tuesday: 9:00 am – 9:00 pm",
+            "Wednesday: 9:00 am – 9:00 pm",
+            "Thursday: 9:00 am – 9:00 pm",
+            "Friday: Closed",
+            "Saturday: 9:00 am – 9:00 pm",
+            "Sunday: 9:00 am – 9:00 pm"
+         ]
+      },
+      "place_id" : "ChIJiR-s0g-S_DkRITnot3dErnw",
+      "reference" : "CnRpAAAAtAtOOvYqriigzX1HDrIGISuogVeQck5dBNIJcmjFU12sLrWpIckwTw4vNCT2T2URiukgQ6mwwG56CqcLNPI00w93dzYdAhj_QNaFqo3MsLBS5MIzKXyahXFgo2i-mvPoWV-h456iovRWVTSy78SEDhIQgeFRYgtJ9JPJkmqyXT2PpxoUmc05eJqhDCt3j3_XtUxP4KER21g",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Raiyan Mahim",
+            "author_url" : "https://plus.google.com/113844383950473751221",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "nice shop",
+            "time" : 1429730217
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/105575996263228779146/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 360,
+      "vicinity" : "Purbo Bazar Masjid Road, Joypurhat"
+   },
+   "status" : "OK"
+}

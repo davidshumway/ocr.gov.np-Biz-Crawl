@@ -1,0 +1,152 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Gwalior Rd",
+            "short_name" : "Gwalior Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Sewla Jatt",
+            "short_name" : "Sewla Jatt",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Gopal Pura",
+            "short_name" : "Gopal Pura",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Agra",
+            "short_name" : "Agra",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Agra",
+            "short_name" : "Agra",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "282001",
+            "short_name" : "282001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eGwalior Rd\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSewla Jatt, Gopal Pura\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAgra\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e282001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Gwalior Rd, Sewla Jatt, Gopal Pura, Agra, Uttar Pradesh 282001, India",
+      "formatted_phone_number" : "082736 18571",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.12572,
+            "lng" : 78.00494
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "5ff1fb2d574e735c031065fdc4f27719b8c7bfc4",
+      "international_phone_number" : "+91 82736 18571",
+      "name" : "Jadaun Auto Parts",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1100"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 11:00 am – 9:00 pm",
+            "Tuesday: 11:00 am – 9:00 pm",
+            "Wednesday: 11:00 am – 9:00 pm",
+            "Thursday: 11:00 am – 9:00 pm",
+            "Friday: 11:00 am – 9:00 pm",
+            "Saturday: 11:00 am – 9:00 pm",
+            "Sunday: 11:00 am – 9:00 pm"
+         ]
+      },
+      "place_id" : "ChIJO0G2nh10dDkRsUzIQWR3oMM",
+      "reference" : "CnRlAAAA7JD_k7zThjI9w8kFiZI3Yd3-OrsC9_AnR8l9oXUWXWGPJpR7w-rAHAD5ICw29hJFrEjzMILoCVAaefhvJJ7VS0HC0_T3Ke2bIkkrt08BRsE_xZuZOh4w1aboPnNEieACdx4zkxhsbt1RXlOKLi3R9hIQ7uVpbFtUcIV2bBFskxJTCxoU7Pc8IrkE3I2aHu2PHoMvZX2VGEc",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/106630802220428692760/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Gwalior Rd, Sewla Jatt, Gopal Pura, Agra"
+   },
+   "status" : "OK"
+}

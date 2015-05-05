@@ -1,0 +1,142 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "42",
+            "short_name" : "42",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "Babuganj",
+            "short_name" : "Babuganj",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Chaudrana",
+            "short_name" : "Chaudrana",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Unnao",
+            "short_name" : "Unnao",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Unnao",
+            "short_name" : "Unnao",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "209801",
+            "short_name" : "209801",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "42, \u003cspan class=\"extended-address\"\u003eBabuganj, Chaudrana\u003c/span\u003e, \u003cspan class=\"locality\"\u003eUnnao\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e209801\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "42, Babuganj, Chaudrana, Unnao, Uttar Pradesh 209801, India",
+      "formatted_phone_number" : "094515 14999",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.549838,
+            "lng" : 80.49397500000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "f4d951849cf89b5be6c7afe7cac3099a4f9cc906",
+      "international_phone_number" : "+91 94515 14999",
+      "name" : "Kumar Traders",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 6:00 pm",
+            "Tuesday: 10:00 am – 6:00 pm",
+            "Wednesday: 10:00 am – 6:00 pm",
+            "Thursday: 10:00 am – 6:00 pm",
+            "Friday: 10:00 am – 6:00 pm",
+            "Saturday: 10:00 am – 6:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJgbM2AsoVnDkRYEpTniDZ8OQ",
+      "reference" : "CnRhAAAAbh4wezGdewClZReuxqCuwxIJyHTfSP9SGDnRMMp5Ku-b2JOA3cGX7Gj3DZX_9_Osr62YgHZgn0AgPyxvrnruve5ZUJhezWlqYXKU_cBAjBzMHyHrPxIbv14BOeIq8eDeX8Zberu-5r3D5eadZe9M8hIQuzfOY7OKLlZt2EuG7MsVxRoU6xmlcmm-oi4G4K_bJp4odAiYSz8",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/100378830361495574547/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "42, Babuganj, Chaudrana, Unnao"
+   },
+   "status" : "OK"
+}

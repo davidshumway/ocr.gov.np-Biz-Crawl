@@ -1,0 +1,80 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "State Highway 2",
+            "short_name" : "SH 2",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Mollaber Village",
+            "short_name" : "Mollaber Village",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Bamunari",
+            "short_name" : "Bamunari",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Hooghly",
+            "short_name" : "Hooghly",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "712310",
+            "short_name" : "712310",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eState Highway 2\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eMollaber Village\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBamunari\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e712310\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "State Highway 2, Mollaber Village, Bamunari, West Bengal 712310, India",
+      "formatted_phone_number" : "033 2672 5808",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.721466,
+            "lng" : 88.307306
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "5d8c4521a44a7c75c8ea57b5ae2aacca6734dba6",
+      "international_phone_number" : "+91 33 2672 5808",
+      "name" : "Excel Wheels",
+      "place_id" : "ChIJ2x_rVryE-DkRbdIw9xz6808",
+      "reference" : "CmRfAAAAPAdodtYfjcxk8NK5FnYJDZqlMMxjqWjInTbvQWRlcz6XQuvzcOwan87avSdGadHYYUAILCsOgXalzRRJe8XMIbXKeVhMgafmPZhiPcr3E3qbTA24Mc4-zK1i7dmUQMzAEhCYG6YdLlZ5msprrVKinY91GhQiLFsffMz7YZAZ9o8QSLVwPbTeqQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Saief Arbaaz",
+            "author_url" : "https://plus.google.com/114414927869909779937",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "All good. But installing problem that I faced..",
+            "time" : 1424964142
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/107237834190475884375/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "State Highway 2, Mollaber Village, Bamunari"
+   },
+   "status" : "OK"
+}

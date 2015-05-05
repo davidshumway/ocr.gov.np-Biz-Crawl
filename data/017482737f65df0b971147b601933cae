@@ -1,0 +1,80 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700017",
+            "short_name" : "700017",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "28b, Shakespeare Sarani, \u003cspan class=\"street-address\"\u003eShakespeare Sarani\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700017\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "28b, Shakespeare Sarani, Shakespeare Sarani, Kolkata, West Bengal 700017, India",
+      "formatted_phone_number" : "033 2287 4835",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.544844,
+            "lng" : 88.35391799999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "93c3dd53a64141efc9a38dd4987a9dbd1b0cbc30",
+      "international_phone_number" : "+91 33 2287 4835",
+      "name" : "DECOHOME",
+      "place_id" : "ChIJBTBd5Rl3AjoRDdYAWUz4xgI",
+      "reference" : "CmRbAAAAv82KNqvcm48uNCsgaiZJubs6u20i7VrQhYoJO0S2oPF2U_-8CEyZG-zI1xFR5HVfnxYBpU0OHg6yR9w43V8iQsAF4u4Nj-pdih8Y9p2wyXRMZnv1s21IwvYlD3vgXt_cEhC7XwJteW1LIJVG-NpBi_jgGhSkoZ76rzUZuZnjtV88RAABi3UyFA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "sidharth lath",
+            "author_url" : "https://plus.google.com/115049288634396400029",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1405849016
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1336556218
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/103319096437512310502/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "28b, Shakespeare Sarani, Shakespeare Sarani, Kolkata"
+   },
+   "status" : "OK"
+}

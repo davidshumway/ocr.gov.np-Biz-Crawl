@@ -1,0 +1,78 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "National Highway 100",
+            "short_name" : "NH 100",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "New Area",
+            "short_name" : "New Area",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Hazaribagh",
+            "short_name" : "Hazaribagh",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Hazaribagh",
+            "short_name" : "Hazaribagh",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Jharkhand",
+            "short_name" : "JH",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "825301",
+            "short_name" : "825301",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNational Highway 100\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNew Area\u003c/span\u003e, \u003cspan class=\"locality\"\u003eHazaribagh\u003c/span\u003e, \u003cspan class=\"region\"\u003eJharkhand\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e825301\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "National Highway 100, New Area, Hazaribagh, Jharkhand 825301, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 23.992926,
+            "lng" : 85.35436900000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "ecda9146520c1781d1c5d6adbe2a460eaa59a819",
+      "name" : "NOKIA care",
+      "place_id" : "ChIJI8E7haee9DkRKLz60RPo38g",
+      "reference" : "CmReAAAAW9qRybsv6vhaztsr19wEF74yxGzZdR_IW1CjuX8l3sJSNx_CmIKB3VKZG7mTJvF1cWv-F__tBafEdxvie75G7M9_itar3Im1I1sC8cFJhhSk6_pUA0MUt7WoHBStAArUEhD-grw4SI6SXOZy1dYG0xUOGhT9QTe_vALIDAmiHF4N_MycoheTRQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "samim ansari",
+            "author_url" : "https://plus.google.com/105456216454635581872",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1374301218
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/118181527447406502416/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "National Highway 100, New Area, Hazaribagh"
+   },
+   "status" : "OK"
+}

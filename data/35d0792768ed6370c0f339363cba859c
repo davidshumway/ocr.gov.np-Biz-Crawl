@@ -1,0 +1,76 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Hardoi",
+            "short_name" : "Hardoi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Hardoi",
+            "short_name" : "Hardoi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "241001",
+            "short_name" : "241001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eHardoi\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e241001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Hardoi, Uttar Pradesh 241001, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.396714,
+            "lng" : 80.12768
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+      "id" : "b1be0fbf42a8485eeb617b36119da51d18900588",
+      "name" : "Victoria Memorial Hall",
+      "photos" : [
+         {
+            "height" : 800,
+            "html_attributions" : [ "From a Google User" ],
+            "photo_reference" : "CnRrAAAAAeR8yr5ZGmJBTEbqzSbxpZAm8Vcn8lPjOeLTOchfjEThQt873jfxiBMzmdq2Dh2BxEPOSyInWfI_6EK3fi17cazYb6lVYC6IKeVdglHg3FiPG0s6z1aT7ODRv-Drl6WqEfh1wfphSxScwR4gSxof7BIQzOnOq9P8fFDCeQN0FAzMcxoUXUB7EzafS7B5jFY8Qe3AAmKTaYc",
+            "width" : 600
+         }
+      ],
+      "place_id" : "ChIJMVHuvyT4njkRvjKWEnrrN5Y",
+      "reference" : "CnRqAAAAxppUsKeTm1ievjL8cMjQ6IuqE8WsuH_zDD79-Y9Ocwkjvuqe5SND2GNhelQhVLnUdF9TaJlll1bnnLe3uM4R8ysKspzoGEwnSVi9uaKtroIFP6_aREPkSDr0DWmNVN22UztZu76FfqHH-FxWW0O3sBIQOobHlfTEBkaiVZpprslPIBoUT7umXflWep6-lJxU3fBM6LYzYLE",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Salil Mishra",
+            "author_url" : "https://plus.google.com/105827099253103154001",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "Victoria memorial hall is a historic building in hardoi.and only two Victoria hall are in India one in Calcutta.",
+            "time" : 1333379282
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "city_hall", "local_government_office", "establishment" ],
+      "url" : "https://plus.google.com/103948372614202236446/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Hardoi"
+   },
+   "status" : "OK"
+}

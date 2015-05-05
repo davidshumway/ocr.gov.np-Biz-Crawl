@@ -1,0 +1,71 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Kolaras",
+            "short_name" : "Kolaras",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Shivpuri",
+            "short_name" : "Shivpuri",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Madhya Pradesh",
+            "short_name" : "MP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "473770",
+            "short_name" : "473770",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eKolaras\u003c/span\u003e, \u003cspan class=\"region\"\u003eMadhya Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e473770\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Kolaras, Madhya Pradesh 473770, India",
+      "formatted_phone_number" : "1800 11 2011",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.221549,
+            "lng" : 77.61112900000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "a91c27c36af7055156639ada430680ee9e5764cb",
+      "international_phone_number" : "+91 1800 11 2011",
+      "name" : "India Post Office",
+      "place_id" : "ChIJLRNZ1nmhcDkR8WYHreyeKwQ",
+      "reference" : "CnRkAAAA0BZl2KGD8Y1a-o9qU8Ui9estjClaC0cbLfDPPJ4wfMhTphY7-X6YdmFXgmiMWFReR_BPMzODlhmxayVvvz_05gAoyYks2yPqydv9EIaZwF24Yy-kwlNY4fTUxIUB8OLZgSXKwdw_7gL6Mbll52pfLBIQt9hotFRc-RWCwcuA7DjzQBoU3_jVpqOyLMS54431TvexzSyNpHY",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "banty jha",
+            "author_url" : "https://plus.google.com/110394925224337509900",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1384344893
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "post_office", "finance", "establishment" ],
+      "url" : "https://plus.google.com/103030796464710212772/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Kolaras",
+      "website" : "http://www.indiapost.gov.in"
+   },
+   "status" : "OK"
+}

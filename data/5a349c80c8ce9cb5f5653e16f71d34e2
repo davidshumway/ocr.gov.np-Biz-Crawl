@@ -1,0 +1,78 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Kachhari Road",
+            "short_name" : "Kachhari Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Kalibazar",
+            "short_name" : "Kalibazar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Burdwan",
+            "short_name" : "Burdwan",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bardhaman",
+            "short_name" : "Bardhaman",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "713101",
+            "short_name" : "713101",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eKachhari Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eKalibazar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBurdwan\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e713101\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Kachhari Road, Kalibazar, Burdwan, West Bengal 713101, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 23.238467,
+            "lng" : 87.868955
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+      "id" : "c28ebb26349a0cb1386b813a720235a4f3767a41",
+      "name" : "Bardhaman Court Building",
+      "place_id" : "ChIJvQ8q6MVJ-DkRBkd-G0rYjK4",
+      "reference" : "CnRsAAAAct5829BFvgiuNUn_TUWxsVfXrzHiYEQBzMn0SzNfRrxt-VVGE_cqhlwLWN_X8VFlv70RXLGKFesSbxtFUmmUg1YVhCEJ0NqyOuFKZECRwkSiDKcVCQ4DXtNUOFcWaF6wRbIM0yo_Pqc6dvRNpaOu6BIQ9e-Hcj0RiOPb5jtLoAnZeBoUbHmKzX0SWVIqiUs00M1GZKFlf0Q",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Sujoy Kangsabanik",
+            "author_url" : "https://plus.google.com/107243245041413361893",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Madan tea stall",
+            "time" : 1397740114
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "courthouse", "establishment" ],
+      "url" : "https://plus.google.com/108267877450369951620/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Kachhari Road, Kalibazar, Burdwan"
+   },
+   "status" : "OK"
+}

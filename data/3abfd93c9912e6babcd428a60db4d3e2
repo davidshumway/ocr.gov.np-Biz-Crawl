@@ -1,0 +1,103 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Kanchanpur Rd",
+            "short_name" : "Kanchanpur Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Kandwa Gate",
+            "short_name" : "Kandwa Gate",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Kanchanpur",
+            "short_name" : "Kanchanpur",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Varanasi",
+            "short_name" : "Varanasi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Varanasi",
+            "short_name" : "Varanasi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "221004",
+            "short_name" : "221004",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eKanchanpur Rd\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eKandwa Gate, Kanchanpur\u003c/span\u003e, \u003cspan class=\"locality\"\u003eVaranasi\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e221004\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Kanchanpur Rd, Kandwa Gate, Kanchanpur, Varanasi, Uttar Pradesh 221004, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.276838,
+            "lng" : 82.963007
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "b1016633b03f7c64b066b081773c13df4356d706",
+      "name" : "Shree Vinayakam Green",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "open" : {
+                  "day" : 0,
+                  "time" : "0000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+         ]
+      },
+      "place_id" : "ChIJxdkMcEMyjjkR7X6PrGYYH_w",
+      "reference" : "CnRpAAAAKE_tFGvDvKEWh9JacIIP65LtAVyo2PniHbQEyGaDkUyr7AkQ0vnm95inv1_-m9aN8urEK37xZ3xjtpMOAHgKAC57YcFHDTmE333GPWkCaPhZqRW4Qit3ywy7R2VIFM2o0T9E096rFRpLjq88u_y0jhIQI1wiWoRKgD92I9b5RYSf6BoUDEmp_3CllakSUBe_n9t6MwxReV0",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Sanjay Barnwal",
+            "author_url" : "https://plus.google.com/102405789979190137495",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "very good",
+            "time" : 1429017262
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/116481946253686734488/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Kanchanpur Rd, Kandwa Gate, Kanchanpur, Varanasi"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,147 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "50",
+            "short_name" : "50",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Kali Krishna Tagore Street",
+            "short_name" : "Kali Krishna Tagore St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Girish Park",
+            "short_name" : "Girish Park",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Jorabagan",
+            "short_name" : "Jorabagan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700007",
+            "short_name" : "700007",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e50, Kali Krishna Tagore Street\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eGirish Park, Jorabagan\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700007\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "50, Kali Krishna Tagore Street, Girish Park, Jorabagan, Kolkata, West Bengal 700007, India",
+      "formatted_phone_number" : "033 5539 9001",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.586908,
+            "lng" : 88.35380499999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "38c6e3670269c7f4c41b147014a68725130b2503",
+      "international_phone_number" : "+91 33 5539 9001",
+      "name" : "Nadia Transport",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2230"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2230"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2230"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2230"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2230"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2230"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 10:30 pm",
+            "Tuesday: 10:00 am – 10:30 pm",
+            "Wednesday: 10:00 am – 10:30 pm",
+            "Thursday: 10:00 am – 10:30 pm",
+            "Friday: 10:00 am – 10:30 pm",
+            "Saturday: 10:00 am – 10:30 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJL7Xx_rd3AjoRHSbsKrnUQBc",
+      "reference" : "CnRiAAAAg9o59NQO0EKEG1AIhghcA91Ip04HxnY2Zdiv38Y5wzVzp9iq3Khj7Yb9PyO0ZQ57dtOQstOlZkeD21qsIVNeWFy4iw4_TQsDPRJy_Rz9VjR0wtc_Oh7LPq296a9qmGFx-XBAMTfRXz5fWQC0yFQZ_BIQxkAm5LwAaZMlob2qqXg0LxoUOT4WlHax0It1wAgiR3r582iEjuM",
+      "scope" : "GOOGLE",
+      "types" : [ "moving_company", "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/110163216228246212809/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "50, Kali Krishna Tagore Street, Girish Park, Jorabagan, Kolkata"
+   },
+   "status" : "OK"
+}

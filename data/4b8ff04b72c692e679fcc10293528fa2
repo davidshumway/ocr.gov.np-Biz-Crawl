@@ -1,0 +1,232 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Jessore Road",
+            "short_name" : "Jessore Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "2 1/2 No.Airport",
+            "short_name" : "2 1/2 No.Airport",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Manikpur",
+            "short_name" : "Manikpur",
+            "types" : [ "sublocality_level_3", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Rajbari",
+            "short_name" : "Rajbari",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Dum Dum",
+            "short_name" : "Dum Dum",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700081",
+            "short_name" : "700081",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eJessore Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003e2 1/2 No.Airport, Manikpur, Rajbari, Dum Dum\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700081\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Jessore Road, 2 1/2 No.Airport, Manikpur, Rajbari, Dum Dum, Kolkata, West Bengal 700081, India",
+      "formatted_phone_number" : "093396 82532",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.650388,
+            "lng" : 88.435205
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "170f9af1d08df0740678b389735db93fe03be660",
+      "international_phone_number" : "+91 93396 82532",
+      "name" : "East Bengal Decorator And Bengal Caterers",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1300"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1300"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1300"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1300"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1300"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1300"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1300"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1600"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 1:00 pm, 4:00 – 9:00 pm",
+            "Tuesday: 10:00 am – 1:00 pm, 4:00 – 9:00 pm",
+            "Wednesday: 10:00 am – 1:00 pm, 4:00 – 9:00 pm",
+            "Thursday: 10:00 am – 1:00 pm, 4:00 – 9:00 pm",
+            "Friday: 10:00 am – 1:00 pm, 4:00 – 9:00 pm",
+            "Saturday: 10:00 am – 1:00 pm, 4:00 – 9:00 pm",
+            "Sunday: 10:00 am – 1:00 pm, 4:00 – 9:00 pm"
+         ]
+      },
+      "place_id" : "ChIJydjahVGe-DkRYg7Wp3S0AgA",
+      "reference" : "CoQBewAAAHb5yhEZZ0CGwQsHjj6X7wRZAheWFZRCj-bDihTw5rt99FMFZwOF-DXGsrFowIFvtm8onwG49Vsy6zn6IRPVqQYKVZUuGphQw7JzuX8qSCYQMkyG-x_NYCIqWxwkGx1hvy1F5kR7bOEsP7nFMfNMa_BZnYge_XDOxsqbEn_h12W-EhCSeXrfiC2kKH9JKsk8dnoDGhSRuQ4aAZuyRr-nS3OXFA4cwVdTgQ",
+      "scope" : "GOOGLE",
+      "types" : [ "food", "establishment" ],
+      "url" : "https://plus.google.com/109346193495464952221/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Jessore Road, 2 1/2 No.Airport, Manikpur, Rajbari, Dum Dum, Kolkata"
+   },
+   "status" : "OK"
+}

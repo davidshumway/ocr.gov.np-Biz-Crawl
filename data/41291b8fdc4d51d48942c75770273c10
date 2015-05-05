@@ -1,0 +1,149 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "P-25",
+            "short_name" : "P-25",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "Princep Street",
+            "short_name" : "Princep St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Chowringhee North",
+            "short_name" : "Chowringhee North",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Bow Barracks",
+            "short_name" : "Bow Barracks",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700072",
+            "short_name" : "700072",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "P-25, \u003cspan class=\"street-address\"\u003ePrincep Street\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eChowringhee North, Bow Barracks\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700072\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "P-25, Princep Street, Chowringhee North, Bow Barracks, Kolkata, West Bengal 700072, India",
+      "formatted_phone_number" : "033 2215 3103",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.568271,
+            "lng" : 88.35349600000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "7c7e74267e754422ff4dd3dc25cd6c05e793ebd2",
+      "international_phone_number" : "+91 33 2215 3103",
+      "name" : "Rajdoot Motors",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJe3xVlKh3AjoRI6Bfrx2S2C4",
+      "reference" : "CnRhAAAARhOYyBmPW2v3tUANySc4d-2vaWVNwxNL1iDNNMWtBtUXkG0n84XR5W29_4zfqTfBjPZyh7PEohpFSpXuZSe2NBjzFYJLPcfh4RmNtfXUYrr5wtKvViqP2eSLe_LdTrmT3MDtGoeGqrBxaXG5Lp_EQBIQ-sPvnsqJ317XdSB1axSX6RoUjUDX3_hglde6feGUPSO2lo2iZ_U",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/102174725117622802902/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "P-25, Princep Street, Chowringhee North, Bow Barracks, Kolkata"
+   },
+   "status" : "OK"
+}

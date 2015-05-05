@@ -1,0 +1,64 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "CST Road",
+            "short_name" : "CST Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Phuentsholing",
+            "short_name" : "Phuentsholing",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Chhukha",
+            "short_name" : "Chhukha",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Bhutan",
+            "short_name" : "BT",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eCST Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003ePhuentsholing\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eBhutan\u003c/span\u003e",
+      "formatted_address" : "CST Road, Phuentsholing, Bhutan",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.84945,
+            "lng" : 89.39175
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+      "id" : "72ec64dd648de608b77041e6785acc87fb08f8bb",
+      "name" : "Information Technology Building",
+      "place_id" : "ChIJfYTR2y7L4zkRnqIgO4E7mUU",
+      "reference" : "CoQBcgAAACxUfXuKkfpjFS5QKYV4LPHjwhWWVAGmswjzEmkRl8eTKDgCbUlZnuLeTie1i-ymL8AeJ3_1h_Sb1XtKvo_GHHpfs0KuIbcpSpRD6NQ1XUZ1dyuwJ4hyI4VXDB2JkAz1ZtYLT03wPk3S6GrfTsbLBZgTgQkBe4YS-NTSRk_8uLtdEhA2lH9vMQuQ8XNP6PubFIehGhQe1_dAwvufsv5FFWYX5TbM0NmxIQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Parshu Ram Sharma",
+            "author_url" : "https://plus.google.com/106768222532759001542",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1370743230
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "university", "establishment" ],
+      "url" : "https://plus.google.com/103360046108495482553/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "CST Road, Phuentsholing",
+      "website" : "http://www.cst.edu.bt/"
+   },
+   "status" : "OK"
+}

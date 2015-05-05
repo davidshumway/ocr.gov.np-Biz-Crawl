@@ -1,0 +1,152 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "58A",
+            "short_name" : "58A",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Panki Road",
+            "short_name" : "Panki Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Khurd",
+            "short_name" : "Khurd",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Khurd Kalyanpur",
+            "short_name" : "Khurd Kalyanpur",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kalyanpur",
+            "short_name" : "Kalyanpur",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208017",
+            "short_name" : "208017",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e58A, Panki Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eKhurd, Khurd Kalyanpur, Kalyanpur\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208017\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "58A, Panki Road, Khurd, Khurd Kalyanpur, Kalyanpur, Kanpur, Uttar Pradesh 208017, India",
+      "formatted_phone_number" : "094501 29415",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.494576,
+            "lng" : 80.248572
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "9abbc3bebdc077321fd50bf121ad1ffdb458b16a",
+      "international_phone_number" : "+91 94501 29415",
+      "name" : "Aatmanand Auto Parts",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1100"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 11:00 am – 8:00 pm",
+            "Wednesday: 11:00 am – 8:00 pm",
+            "Thursday: 11:00 am – 8:00 pm",
+            "Friday: 11:00 am – 8:00 pm",
+            "Saturday: 11:00 am – 8:00 pm",
+            "Sunday: 11:00 am – 8:00 pm"
+         ]
+      },
+      "place_id" : "ChIJex5ugbs3nDkRHFLG4lhaUXY",
+      "reference" : "CnRnAAAAM6f_DshY42VsqWUQgPmk0GZM8xkJEYLQuRNut_Oybk_uE10pceqtyZvyH1QHamEniWv9ayXerHzTb2TAnhaJCXwlHcYSfARF6VJg5ZMzgpNixzn-pVOewLswM2pdAGF5m5QpKHJTBOzQV-pDoGddnBIQFL5lcevuqxFp4zClZPJSJxoUlUpoHlgl5I5mq9Sj--I1BqWcpTU",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/101228093983618762281/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "58A, Panki Road, Khurd, Khurd Kalyanpur, Kalyanpur, Kanpur"
+   },
+   "status" : "OK"
+}

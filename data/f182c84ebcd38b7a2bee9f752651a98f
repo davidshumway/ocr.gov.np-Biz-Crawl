@@ -1,0 +1,152 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Riyaz Street",
+            "short_name" : "Riyaz St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Near Jhansi To Kanpur Highway",
+            "short_name" : "Near Jhansi To Kanpur Highway",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Jajmau",
+            "short_name" : "Jajmau",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208007",
+            "short_name" : "208007",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eRiyaz Street\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNear Jhansi To Kanpur Highway, Jajmau\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208007\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Riyaz Street, Near Jhansi To Kanpur Highway, Jajmau, Kanpur, Uttar Pradesh 208007, India",
+      "formatted_phone_number" : "093362 25762",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.430519,
+            "lng" : 80.400829
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "c4d8ffddc6c0571a2398d689de8e76a887b9a1f7",
+      "international_phone_number" : "+91 93362 25762",
+      "name" : "Auto Electrician",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 9:00 pm",
+            "Tuesday: 10:00 am – 9:00 pm",
+            "Wednesday: 10:00 am – 9:00 pm",
+            "Thursday: 10:00 am – 9:00 pm",
+            "Friday: 10:00 am – 9:00 pm",
+            "Saturday: 10:00 am – 9:00 pm",
+            "Sunday: 10:00 am – 9:00 pm"
+         ]
+      },
+      "place_id" : "ChIJMfz96vxAnDkRGAqLVTlJjQo",
+      "reference" : "CnRjAAAArWbEGJ5iTpBAoil9NoIaKxdskRKyAv0-YcLwgKJCM3oMskvzu33oOs57_dzYFR0FC5D3tkAIig12s2ZoXaLzR6ih9O5X7Xktmp7JAq9_jYFE4P2l693JQnNTO19OOS0VQ7YgbcLb3Tx3ld_pQVJ-WBIQtodOnlRSzEsSiw4ssUBhexoUngPOqPY_JN-lginVTLTmD3YJSuQ",
+      "scope" : "GOOGLE",
+      "types" : [ "electrician", "establishment" ],
+      "url" : "https://plus.google.com/118023194650380957152/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Riyaz Street, Near Jhansi To Kanpur Highway, Jajmau, Kanpur"
+   },
+   "status" : "OK"
+}

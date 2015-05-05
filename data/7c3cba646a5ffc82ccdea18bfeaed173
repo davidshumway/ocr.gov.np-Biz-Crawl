@@ -1,0 +1,90 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "11",
+            "short_name" : "11",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Rishi Bankim Chandra Road",
+            "short_name" : "Rishi Bankim Chandra Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Golpark",
+            "short_name" : "Golpark",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "South Dum Dum",
+            "short_name" : "South Dum Dum",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700028",
+            "short_name" : "700028",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e11, Rishi Bankim Chandra Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eGolpark, South Dum Dum\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700028\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "11, Rishi Bankim Chandra Road, Golpark, South Dum Dum, Kolkata, West Bengal 700028, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.630832,
+            "lng" : 88.421577
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+      "id" : "a971a6f21de926196b275c892ceb0c4b7d4dbb9a",
+      "name" : "Dwarka Service Station",
+      "place_id" : "ChIJre16BD6e-DkRZPtQWHx6Cp0",
+      "reference" : "CnRqAAAAWxt7hz77eCCkfMg315ZUDDdJpOgRe_K8kx7kcg9mhDQOgOz3ckUUVuOYyOpYrZzfoCGm5n-7SAYJlIM-F47dsoL6mZr4WtXjh6Fc_x68GWx0Ae4u3vgDBk3xkXjpRmVf21RChOLwNBYktLcpshKZSBIQbSoaVaLYs3sKSixHq2Jx9RoUBcnqdnndkTv5CwX5adu0zmhS5U8",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Debapriyo Sarker",
+            "author_url" : "https://plus.google.com/114369015880667555510",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Service centre including Car Wash, Pollution testing facility, tyre air pressure checking. ",
+            "time" : 1429552023
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "gas_station", "establishment" ],
+      "url" : "https://plus.google.com/107260445976829978442/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "11, Rishi Bankim Chandra Road, Golpark, South Dum Dum, Kolkata"
+   },
+   "status" : "OK"
+}

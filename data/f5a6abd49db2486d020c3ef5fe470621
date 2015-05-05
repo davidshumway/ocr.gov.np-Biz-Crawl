@@ -1,0 +1,159 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "National Highway 23",
+            "short_name" : "NH 23",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Railway Colony",
+            "short_name" : "Railway Colony",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Bokaro Steel City",
+            "short_name" : "Bokaro Steel City",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bokaro",
+            "short_name" : "Bokaro",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Jharkhand",
+            "short_name" : "JH",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "827010",
+            "short_name" : "827010",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNational Highway 23\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eRailway Colony\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBokaro Steel City\u003c/span\u003e, \u003cspan class=\"region\"\u003eJharkhand\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e827010\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "National Highway 23, Railway Colony, Bokaro Steel City, Jharkhand 827010, India",
+      "formatted_phone_number" : "06542 253 543",
+      "geometry" : {
+         "location" : {
+            "lat" : 23.650608,
+            "lng" : 86.072844
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "e87937d9a5d998287141a6b88cf59d91c8f21843",
+      "international_phone_number" : "+91 6542 253 543",
+      "name" : "Holy Cross Bal-Niketan",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1330"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0630"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1330"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0630"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1330"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0630"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1330"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0630"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1330"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0630"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 6:30 am – 1:30 pm",
+            "Tuesday: 6:30 am – 1:30 pm",
+            "Wednesday: 6:30 am – 1:30 pm",
+            "Thursday: 6:30 am – 1:30 pm",
+            "Friday: 6:30 am – 1:30 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJCwJn0Ok89DkRj9n0frDIIHA",
+      "reference" : "CnRpAAAAnDbGcsXCMCyxQCu1R2iKsOi_2EKp-b44MUxmaplrLaLyQDH-DKA32G_XJJD1-L0gYhwPv6ydq-ek7MU40L7AcBxXiD_3SWeEqobScenOsHYzkvVOPI7RLg9i1SLBrFHn_Kvv4MVY5tRkKxZ5JwhsfBIQhu6kePkpZx0D7PYoagNQthoUBFUKVJY4eUMCcvIwMF2qtpV3HnM",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "AJAY KUMAR",
+            "author_url" : "https://plus.google.com/107241919230928788582",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "GOOD ",
+            "time" : 1429450286
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Neelima Bansingh",
+            "author_url" : "https://plus.google.com/107360927509690213384",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1404408794
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/117452051107929151141/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "National Highway 23, Railway Colony, Bokaro Steel City",
+      "website" : "http://holycrossbokaro.com/"
+   },
+   "status" : "OK"
+}

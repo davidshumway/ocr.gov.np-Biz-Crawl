@@ -1,0 +1,142 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "111/149",
+            "short_name" : "111/149",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "Chandra Gupta Road",
+            "short_name" : "Chandra Gupta Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Harsh Nagar",
+            "short_name" : "Harsh Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208012",
+            "short_name" : "208012",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "111/149, \u003cspan class=\"street-address\"\u003eChandra Gupta Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eHarsh Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208012\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "111/149, Chandra Gupta Road, Harsh Nagar, Kanpur, Uttar Pradesh 208012, India",
+      "formatted_phone_number" : "098390 08396",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.474887,
+            "lng" : 80.32350599999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "3383c4ff7f78195a22173da277671b9fed27ac8e",
+      "international_phone_number" : "+91 98390 08396",
+      "name" : "Car Plaza",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJIR4aI4c4nDkRZN3_PKzreNU",
+      "reference" : "CmRdAAAA9vMkNjHNNyf2ftjcgV4Nyfkhaitad59EgEUAS5TNfxY9gc5T_e0nqNzjrCiIh_hUBAgjiI1xSZd_rZUgN5-okvOShXrrEhQVOvaynKmdjFwKE5rs2DnWfv0MhpGl3GpdEhABp5I7y1Axp9PpnAseA92JGhQ6aXOcfDKmT3evRS1UmApsGkNzBQ",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/101521832367780642255/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "111/149, Chandra Gupta Road, Harsh Nagar, Kanpur"
+   },
+   "status" : "OK"
+}

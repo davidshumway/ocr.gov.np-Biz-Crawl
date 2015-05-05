@@ -1,0 +1,81 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "National Highway 25",
+            "short_name" : "NH 25",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Shivaji Nagar",
+            "short_name" : "Shivaji Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Jhansi",
+            "short_name" : "Jhansi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Jhansi",
+            "short_name" : "Jhansi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "284127",
+            "short_name" : "284127",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNational Highway 25\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eShivaji Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eJhansi\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e284127\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "National Highway 25, Shivaji Nagar, Jhansi, Uttar Pradesh 284127, India",
+      "formatted_phone_number" : "1800 22 3344",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.448566,
+            "lng" : 78.59734899999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "e3de0c6cf84f49aa328fdda6d3c456de7f459025",
+      "international_phone_number" : "+91 1800 22 3344",
+      "name" : "Bank of Baroda",
+      "place_id" : "ChIJfSXZiRx3dzkRLOzIAQXRQG0",
+      "reference" : "CnRhAAAAt5r0SFufE3Kokb5MvlX2DNejSe6sy-DuZjqAcKKH7MvupL_PdxK9mC9ME6XX0DKglCPMP3V8MSWfhy_hAi9j_lNi75c7L1t3ShImWzxpXEKbkbAG-Gm_9oYttCsMMgH9pafwhlQflesSBIpMJr7bRxIQ0p02E9fNsKiiyVxNJlApOxoUovUiciJ0CXEkFF5ihsJXyX3dJ1U",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Dheeraj Kanojiya",
+            "author_url" : "https://plus.google.com/103787208467817417354",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "good",
+            "time" : 1421295462
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "bank", "finance", "establishment" ],
+      "url" : "https://plus.google.com/101609505205680014430/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "National Highway 25, Shivaji Nagar, Jhansi",
+      "website" : "http://www.bankofbaroda.com/"
+   },
+   "status" : "OK"
+}

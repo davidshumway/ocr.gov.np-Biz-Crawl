@@ -1,0 +1,149 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "111A/401",
+            "short_name" : "111A/401",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "80 Feet Rd",
+            "short_name" : "80 Feet Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Ashok Nagar",
+            "short_name" : "Ashok Nagar",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Harsh Nagar",
+            "short_name" : "Harsh Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208012",
+            "short_name" : "208012",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e111A/401, 80 Feet Rd\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eAshok Nagar, Harsh Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208012\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "111A/401, 80 Feet Rd, Ashok Nagar, Harsh Nagar, Kanpur, Uttar Pradesh 208012, India",
+      "formatted_phone_number" : "0512 324 4405",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.472485,
+            "lng" : 80.322036
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+      "id" : "6bc606fbfec81822b3c54d9433b034680b0cfc65",
+      "international_phone_number" : "+91 512 324 4405",
+      "name" : "Kinescope Sales",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2130"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2130"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2130"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2130"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2130"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2130"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1100"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 11:00 am – 9:30 pm",
+            "Tuesday: 11:00 am – 9:30 pm",
+            "Wednesday: 11:00 am – 9:30 pm",
+            "Thursday: 11:00 am – 9:30 pm",
+            "Friday: 11:00 am – 9:30 pm",
+            "Saturday: 11:00 am – 9:30 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ571kmoJHnDkRbO14abrsc28",
+      "reference" : "CnRiAAAAoi5Y0JIIZ3jo-wLWLcLYkNDIankwMgtEbyUQNHBMSwb5usmy7AdKqIwUsTa7LVc_-yiK6y9qewkNnl1CQiPUMlFzv7s2GcukW5xOQRxvdkGyDZ7iogxBM7RQhUbSCvPOAJGdJjoXb4mhtvlLucZyXhIQmU6-5bEcU8w-dMpBIAwEgxoUACiCZT_K28spl0dI8fnffnBlFBg",
+      "scope" : "GOOGLE",
+      "types" : [ "electronics_store", "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/116277617380793737173/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "111A/401, 80 Feet Rd, Ashok Nagar, Harsh Nagar, Kanpur"
+   },
+   "status" : "OK"
+}

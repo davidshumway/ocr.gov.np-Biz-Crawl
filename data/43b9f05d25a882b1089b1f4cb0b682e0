@@ -1,0 +1,71 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "2",
+            "short_name" : "2",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Sardar Patel Marg",
+            "short_name" : "Sardar Patel Marg",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Civil Lines",
+            "short_name" : "Civil Lines",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Allahabad",
+            "short_name" : "Allahabad",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Allahabad",
+            "short_name" : "Allahabad",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "211001",
+            "short_name" : "211001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e2, Sardar Patel Marg\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCivil Lines\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAllahabad\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e211001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "2, Sardar Patel Marg, Civil Lines, Allahabad, Uttar Pradesh 211001, India",
+      "formatted_phone_number" : "0532 256 0742",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.454302,
+            "lng" : 81.835002
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/car_dealer-71.png",
+      "id" : "e9b3a8062422bf616c24a6547f6d8575a5cf3d77",
+      "international_phone_number" : "+91 532 256 0742",
+      "name" : "Eldee Motors",
+      "place_id" : "ChIJldNqn8TKmjkR_H2O9YQY1us",
+      "reference" : "CmRgAAAAhuoyCvEIeT8phRQHA97MYlP8HCOkUERpN46mSNyeK9hPE62D_i_I8V-LZPnftAk4r3Eyj7YINANxyNzg_kf1uTaLf9q85Kn-cMY1XvuGx8Dvfx96Tc8MRv5IuPXsTu-sEhBx6H4J6JSSDUs333gbu8lvGhQypx6Mq7VUJtDDIbKJdFoOHHmUMQ",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "car_dealer", "store", "establishment" ],
+      "url" : "https://plus.google.com/115021561109665032272/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "2, Sardar Patel Marg, Civil Lines, Allahabad",
+      "website" : "http://www.chevrolet.co.in/locate-a-car-dealer.html"
+   },
+   "status" : "OK"
+}

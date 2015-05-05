@@ -1,0 +1,145 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Shubhas Road",
+            "short_name" : "Shubhas Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Rama Devi Chauraha, Trimurti Mandir",
+            "short_name" : "Rama Devi Chauraha, Trimurti Mandir",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Harjinder Nagar",
+            "short_name" : "Harjinder Nagar",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Gandhigram",
+            "short_name" : "Gandhigram",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208007",
+            "short_name" : "208007",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eShubhas Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eRama Devi Chauraha, Trimurti Mandir, Harjinder Nagar, Gandhigram\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208007\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Shubhas Road, Rama Devi Chauraha, Trimurti Mandir, Harjinder Nagar, Gandhigram, Kanpur, Uttar Pradesh 208007, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.413507,
+            "lng" : 80.384755
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "465be04ae756d21f89ccb7923d3a007676444845",
+      "name" : "Tirupathi Tent House",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 9:00 am – 8:00 pm",
+            "Wednesday: 9:00 am – 8:00 pm",
+            "Thursday: 9:00 am – 8:00 pm",
+            "Friday: 9:00 am – 8:00 pm",
+            "Saturday: 9:00 am – 8:00 pm",
+            "Sunday: 9:00 am – 8:00 pm"
+         ]
+      },
+      "place_id" : "ChIJDcjL0jxBnDkRlyicziqFuLI",
+      "reference" : "CnRoAAAAgs-bw1zkqMILIB13-SaCkPArvIlpwSPZrVtVkyx0Q5By-tMjsmWjKNj_yxx5_J3hhTHsOL6Pg8VsFrrTNZhzRAq-Vo7p2Pz-MKo77XO5BWOec-XtotOpGsqSOLSBnE_WdezBk31A-p21GDnbprPEZBIQxKQGjP2CWMRa71h759JUIBoUJVzwaKNARMKKbYaD5t1pXpJMfQM",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/112525998597249659590/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Shubhas Road, Rama Devi Chauraha, Trimurti Mandir, Harjinder Nagar, Gandhigram, Kanpur"
+   },
+   "status" : "OK"
+}

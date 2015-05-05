@@ -1,0 +1,136 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Station Road",
+            "short_name" : "Station Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Lashkar",
+            "short_name" : "Lashkar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Gwalior",
+            "short_name" : "Gwalior",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Gwalior",
+            "short_name" : "Gwalior",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Madhya Pradesh",
+            "short_name" : "MP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "474002",
+            "short_name" : "474002",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eStation Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eLashkar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eGwalior\u003c/span\u003e, \u003cspan class=\"region\"\u003eMadhya Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e474002\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Station Road, Lashkar, Gwalior, Madhya Pradesh 474002, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.212735,
+            "lng" : 78.177924
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "c626c9eaeb097edc035966d0f1c6f9ce8d0d601c",
+      "name" : "Nokia Care",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 5:30 pm",
+            "Tuesday: 10:00 am – 5:30 pm",
+            "Wednesday: 10:00 am – 5:30 pm",
+            "Thursday: 10:00 am – 5:30 pm",
+            "Friday: 10:00 am – 5:30 pm",
+            "Saturday: 10:00 am – 5:30 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJv_r54J_GdjkRwymJyUzwXvA",
+      "reference" : "CmReAAAA_oHQcOiveND2ccnSg6bdC8iOw_fcQj9P9VU0iNxFTp02CaRd5liJ6ZKuTxt86XynIYMvcYdh77BM2u7vO21s7VY0pWA6xaeIntvCQgOOqD5p3iZQ8iuhjiHTMnjnza3sEhD43gtaNLDsckE1MhwMDS4GGhTB0F1fy_rhcOtGKK9ZUlcYGQ9aUA",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/105087864082169058411/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Station Road, Lashkar, Gwalior",
+      "website" : "http://www.nokia.co.in/"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,144 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "111",
+            "short_name" : "111",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "Feeder Road",
+            "short_name" : "Feeder Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Belgharia",
+            "short_name" : "Belgharia",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700056",
+            "short_name" : "700056",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "111, \u003cspan class=\"street-address\"\u003eFeeder Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBelgharia\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700056\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "111, Feeder Road, Belgharia, Kolkata, West Bengal 700056, India",
+      "formatted_phone_number" : "033 2541 5134",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.660763,
+            "lng" : 88.387276
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "9f1e6f16c823c818bdc513ac577cf089845918e6",
+      "international_phone_number" : "+91 33 2541 5134",
+      "name" : "Binapani Variety Cloth Store",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 8:00 pm",
+            "Tuesday: Closed",
+            "Wednesday: 9:00 am – 8:00 pm",
+            "Thursday: 9:00 am – 8:00 pm",
+            "Friday: 9:00 am – 8:00 pm",
+            "Saturday: 9:00 am – 8:00 pm",
+            "Sunday: 9:00 am – 8:00 pm"
+         ]
+      },
+      "place_id" : "ChIJo0yzpjSc-DkRzvHVSvvP28k",
+      "reference" : "CnRwAAAAt5SN8mLr2yDusjB-E89G9BNu9KsXPLNUCm_x5e2UQbKlXIyEWiWaphX0huqdV-Gwjgq3pOigDkYpe0cIqc-drUJUuP258h7iRa9emFuwa-wHxJhEUBFIbgfxLxHOwzUyO84qq3gMu8Bk5ZCfDZk7LRIQ22jtnx9bwdqdlbOkeHxyDBoU7S0H30Gj_whHKPzppPOu9Y8cVc4",
+      "scope" : "GOOGLE",
+      "types" : [ "clothing_store", "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/113534589376080777208/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "111, Feeder Road, Belgharia, Kolkata"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,150 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Taki Road",
+            "short_name" : "Taki Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Block B",
+            "short_name" : "Block B",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Barasat",
+            "short_name" : "Barasat",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700124",
+            "short_name" : "700124",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Bidhan Park, No. 5, \u003cspan class=\"street-address\"\u003eTaki Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBlock B, Barasat\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700124\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Bidhan Park, No. 5, Taki Road, Block B, Barasat, Kolkata, West Bengal 700124, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.718276,
+            "lng" : 88.490258
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "4ec25a2ab68383e4b23977afde3033065f0681c2",
+      "name" : "Renuka Apartment",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 9:00 pm",
+            "Tuesday: 10:00 am – 9:00 pm",
+            "Wednesday: 10:00 am – 9:00 pm",
+            "Thursday: 10:00 am – 9:00 pm",
+            "Friday: 10:00 am – 9:00 pm",
+            "Saturday: 10:00 am – 9:00 pm",
+            "Sunday: 10:00 am – 9:00 pm"
+         ]
+      },
+      "place_id" : "ChIJ1XK-6xqi-DkRSNOI142uAq0",
+      "reference" : "CnRkAAAAMl_K-CbyMLsYX03QmZnmk9a2jsII-zDP9VONiYgwBe4NuQHfS0uutUaJLXUkWRGtCU6HU96eAZfjzNx6SS7fWGnFmu3poBI18cz6fmlOYQ8-t7fcx7RSQIhlLAO7PBHrPyx5eG0LG2D_RQc6x1k9pxIQyfX8GVk4BW6F5WLuptR9fRoUVNz5pjXhVX3xXr4daXITxazgSOo",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/104835509739764497681/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Bidhan Park, No. 5, Taki Road, Block B, Barasat, Kolkata"
+   },
+   "status" : "OK"
+}

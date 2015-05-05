@@ -1,0 +1,84 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "National Highway 7",
+            "short_name" : "NH7",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Mirzapur",
+            "short_name" : "Mirzapur",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "231211",
+            "short_name" : "231211",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNational Highway 7\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e231211\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "National Highway 7, Uttar Pradesh 231211, India",
+      "formatted_phone_number" : "0542 230 7220",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.067073,
+            "lng" : 82.488812
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+      "id" : "e4fca663bb2d2bc895880b2382e4741f842bdc68",
+      "international_phone_number" : "+91 542 230 7220",
+      "name" : "Rajiv Gandhi South Campus",
+      "place_id" : "ChIJIRlCSZiUjzkRnGW8E2ExfpE",
+      "reference" : "CnRtAAAA3AObCeRw3aagXfOQXI7tnFwOqrmMRORka1H4_WYR3eClB6UCroL5EqZFILiIa74pa5OoMWf9csByJQbFS75G4jHuQTmi3SZL0zFruICZu4_xOSaquySHD68_cRi8tYNWy-jUkhBTh82pMs4_sdKN0BIQVAKABgr05WwUT1K-NlrdgRoUWsUXe5MN3FuY_bcihCYeXSNR5vA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "vikash jaiswal",
+            "author_url" : "https://plus.google.com/113761433302930367633",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Best institute",
+            "time" : 1373254599
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1338279207
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "university", "establishment" ],
+      "url" : "https://plus.google.com/100808865427060262436/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "National Highway 7",
+      "website" : "http://www.bhu.ac.in/"
+   },
+   "status" : "OK"
+}

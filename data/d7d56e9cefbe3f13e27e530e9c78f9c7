@@ -1,0 +1,145 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "A-14",
+            "short_name" : "A-14",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "Dabauli Main Road, Main Road",
+            "short_name" : "Dabauli Main Road, Main Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Panki Site Number 5",
+            "short_name" : "Panki Site Number 5",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Dabauli",
+            "short_name" : "Dabauli",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208022",
+            "short_name" : "208022",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "A-14, \u003cspan class=\"street-address\"\u003eDabauli Main Road, Main Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003ePanki Site Number 5, Dabauli\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208022\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "A-14, Dabauli Main Road, Main Road, Panki Site Number 5, Dabauli, Kanpur, Uttar Pradesh 208022, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.447586,
+            "lng" : 80.270447
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "40d532581c0dbe671264529bc788e54c0d292556",
+      "name" : "Gaurav Auto Service",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: Closed",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: 10:00 am – 8:00 pm"
+         ]
+      },
+      "place_id" : "ChIJtet-ug5InDkR4VYQuZiTmh4",
+      "reference" : "CnRmAAAAoe7Cn7Ei4v_HjNP6azrNbTl5oOlKOMMzSC47KcU-wpzlmrC7x6ZMkrTOGmgcOPDGvFQ_DaE1vu2EnankTJ-jh_m8M_PxS8LO2TclAr5gMnso66sc-wRIEY9NYzUmWb0TkDD8AbtNyCQkRi4h7IlDthIQ17Q00jOye_MCaMgvmgSNYxoUz0bTmpltVQHku4bTJOOJx3a86zU",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/106525282819298051854/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "A-14, Dabauli Main Road, Main Road, Panki Site Number 5, Dabauli, Kanpur"
+   },
+   "status" : "OK"
+}

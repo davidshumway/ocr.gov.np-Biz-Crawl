@@ -1,0 +1,67 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Patna",
+            "short_name" : "Patna",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "800001",
+            "short_name" : "800001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Bailey Road, \u003cspan class=\"locality\"\u003ePatna\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e800001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Bailey Road, Patna, Bihar 800001, India",
+      "formatted_phone_number" : "0612 220 2082",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.605753,
+            "lng" : 85.115075
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "94fe2360571faf6b4d293e77bdb926159ff12c76",
+      "international_phone_number" : "+91 612 220 2082",
+      "name" : "Aditya Vision",
+      "place_id" : "ChIJzQ8FRfVX7TkRRDRKn5oFC90",
+      "reference" : "CnRhAAAAc3rSvaMT2-xmsttBwJgDOkOxfBoBFWVBkd2GerN-F3gfJ-Fac7c7SUNjh25QnFmivvF2BTjSoZi5EeD2qkF77yL8NnbM2K2WZM7qrosEHeXHF-7uUz0yjAEfwDT2NBT1Gdz88t0stlbQpNY0PuwoQBIQQ_qKNMm6HLxtZREvRm5gHhoUDczkSsc7ufoiVaGsuFcfaZxFZ38",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "mithilesh kumar",
+            "author_url" : "https://plus.google.com/108312579987720427644",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1378951349
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/104010285393670700351/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Bailey Road, Patna"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,142 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Andul Road",
+            "short_name" : "Andul Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Andul Bus Stop",
+            "short_name" : "Andul Bus Stop",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Andul",
+            "short_name" : "Andul",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Howrah",
+            "short_name" : "Howrah",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Howrah",
+            "short_name" : "Howrah",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "711302",
+            "short_name" : "711302",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eAndul Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eAndul Bus Stop, Andul\u003c/span\u003e, \u003cspan class=\"locality\"\u003eHowrah\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e711302\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Andul Road, Andul Bus Stop, Andul, Howrah, West Bengal 711302, India",
+      "formatted_phone_number" : "090383 50023",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.585243,
+            "lng" : 88.237256
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "1a99149f853e4ba7b6fe6133f4bb8a714d20d6e9",
+      "international_phone_number" : "+91 90383 50023",
+      "name" : "United Traders",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1930"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1930"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1930"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1930"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1930"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1930"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 7:30 pm",
+            "Tuesday: 10:00 am – 7:30 pm",
+            "Wednesday: 10:00 am – 7:30 pm",
+            "Thursday: 10:00 am – 7:30 pm",
+            "Friday: 10:00 am – 7:30 pm",
+            "Saturday: 10:00 am – 7:30 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJxwEQ7Dd_AjoRKCAGXP2e464",
+      "reference" : "CnRiAAAAm2ocGkCPrNF-nXSpZ12pvgcYtTG4ZVytoF4qo44MkDEJJmkkcS0-TqIIL-nzLdQxy0EHdKLiMJ6LqHk4hgTtXe7oZZcP5nYGczO47uzycxN66OpcGugncluy11gOc29RNHDszzh49zr_dOEjHv_d1xIQmL1HmrSSTP1l2IgMXSm2sxoUl3LaKveH5wPRwaKz6ULKJH4pcI0",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "establishment" ],
+      "url" : "https://plus.google.com/114321400110125873313/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Andul Road, Andul Bus Stop, Andul, Howrah"
+   },
+   "status" : "OK"
+}

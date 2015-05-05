@@ -1,0 +1,150 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "54",
+            "short_name" : "54",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "Netaji Nagar Road",
+            "short_name" : "Netaji Nagar Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Sree Colony Bazar",
+            "short_name" : "Sree Colony Bazar",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Sree Colony",
+            "short_name" : "Sree Colony",
+            "types" : [ "sublocality_level_3", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Netaji Nagar",
+            "short_name" : "Netaji Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700092",
+            "short_name" : "700092",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "54, \u003cspan class=\"street-address\"\u003eNetaji Nagar Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSree Colony Bazar, Sree Colony, Netaji Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700092\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "54, Netaji Nagar Road, Sree Colony Bazar, Sree Colony, Netaji Nagar, Kolkata, West Bengal 700092, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.485292,
+            "lng" : 88.363084
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "c44a9c05c08aa67cc801081457062fb57119e891",
+      "name" : "New Lokenath Hardware",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 8:00 pm",
+            "Tuesday: 9:00 am – 8:00 pm",
+            "Wednesday: 9:00 am – 8:00 pm",
+            "Thursday: 9:00 am – 8:00 pm",
+            "Friday: 9:00 am – 8:00 pm",
+            "Saturday: 9:00 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJG3UH9B1xAjoR_HUjkUn0s0E",
+      "reference" : "CnRoAAAA7E4zL1IYvx7JHP8EIJBveYXoBnoS8DI9vs1lSmVHOLcpdPW7sm9UnYiS1WaU_I9OiwyvjHXA3Lgb1e8PQ1_HCt8mKXd_voTiOHSi6fpG3Ss1PhuDvtYCf1epmwPr2ooHjO_7c6hGu0jH3vFpmmeYahIQgdmyyNV9UMPBHOOZVZHxrxoUZhpCL5caBDMggsX2UOnJ_0pJ5XE",
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/111607863788032356747/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "54, Netaji Nagar Road, Sree Colony Bazar, Sree Colony, Netaji Nagar, Kolkata"
+   },
+   "status" : "OK"
+}

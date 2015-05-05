@@ -28,9 +28,12 @@ if (isset($argv[1])) {
 		$key1 = $argv[2]; // Google API
 		if (isset($argv[3])) {
 			$key2 = $argv[3]; // Facebook API
+			if (isset($argv[4])) {
+				$key3 = $argv[4]; // Geonames Username API Key
+			}
 		}
 	}
-	new regions($argv[1], $key1, $key2);
+	new regions($argv[1], $key1, $key2, $key3);
 }
 
 /**
@@ -48,6 +51,10 @@ class regions {
 	
 	private $gapi_key; // Google API key for translate.
 	
+	private $fb_key; // FB key
+	
+	private $gn_key; // Geonames key
+	
 	private $translations_array = array(); // Translations associative array.
 	
 	private $locations_array = array(); // All locations associative array.
@@ -58,13 +65,11 @@ class regions {
 	
 	private $categories; // Categories object
 	
-	private $fb_key; // Categories object
-	
 	//~ private $fusion_tables_id = 1000001; // Lat/Lng differentiation is necessary to show all points on Google's Fusion Tables. Seems to be a bug.
 	
 	//~ private $geo_folder; // Save geocoded addresses to this folder.
 	
-	function __construct($folder, $gapi_key = false, $fb_key = false) {
+	function __construct($folder, $gapi_key = false, $fb_key = false, $gn_key = false) {
 		
 		// Set $this->folder
 		$this->folder = $folder; 
@@ -94,6 +99,9 @@ class regions {
 		
 		// Set fb_key
 		$this->fb_key = $fb_key;
+		
+		// Set gn_key
+		$this->gn_key = $gn_key;
 		
 		// Init. regions.
 		$this->build_regions();
@@ -130,8 +138,7 @@ class regions {
 	 */
 	function google_places() {
 		include 'google_places.class.php'; // Include class file
-		new google_places($this->regional_locations_array, $this->gapi_key, $this->tmp_folder);
-		//~ new google_places($this->all_lat_lng_pairs_array, $this->gapi_key, $this->tmp_folder);
+		new google_places($this->regional_locations_array, $this->gapi_key, $this->tmp_folder, $this->gn_key);
 	}
 	/**
 	 * function build_regions

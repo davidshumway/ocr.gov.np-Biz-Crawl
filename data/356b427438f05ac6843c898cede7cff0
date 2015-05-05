@@ -1,0 +1,154 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "RN Avenue",
+            "short_name" : "RN Ave",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Pansila",
+            "short_name" : "Pansila",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "North 24 Parganas",
+            "short_name" : "North 24 Parganas",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700112",
+            "short_name" : "700112",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eRN Avenue\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003ePansila\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700112\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "RN Avenue, Pansila, Kolkata, West Bengal 700112, India",
+      "formatted_phone_number" : "092318 75985",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.714132,
+            "lng" : 88.38638899999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "c8ab972e34a5fde856f063eb1a2d106394e925e7",
+      "international_phone_number" : "+91 92318 75985",
+      "name" : "Sri Kaibalyanath Hardware",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 am – 9:00 pm",
+            "Tuesday: Closed",
+            "Wednesday: 8:00 am – 9:00 pm",
+            "Thursday: 8:00 am – 9:00 pm",
+            "Friday: 8:00 am – 9:00 pm",
+            "Saturday: 8:00 am – 9:00 pm",
+            "Sunday: 8:00 am – 9:00 pm"
+         ]
+      },
+      "place_id" : "ChIJpyhE7_Ob-DkR7_FyFkMLZ-o",
+      "reference" : "CnRtAAAAb-6QteADj6gjwkXLMwGBj7eFhRn8yVgEwruXTb3XbdXg-tTNFmRQ13Cn2lBNwcQbj77O9r2pEaCv82I1qD_zhjFYOtmuaY3XgvM1iS4EIzTnMoen0jXuRFdUlLm4QNPJqT1nOdan7yS_6Di0mi3AuhIQSfGajcTPLY-KkLz5Q2rpMRoUcHd47iS1bK4NK6eHMsGfIne6nAo",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Anirban Sen",
+            "author_url" : "https://plus.google.com/107564000724857439697",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1429449094
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/101728767038548477693/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "RN Avenue, Pansila, Kolkata"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,50 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700078",
+            "short_name" : "700078",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Haltu, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700078\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Haltu, Kolkata, West Bengal 700078, India",
+      "formatted_phone_number" : "033 2415 3358",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.507562,
+            "lng" : 88.389477
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+      "id" : "b927462c968631b239540553667b7c0d555120e9",
+      "international_phone_number" : "+91 33 2415 3358",
+      "name" : "Tarun Service Station",
+      "place_id" : "ChIJVVVVVU5xAjoReCw2TMMqUPA",
+      "reference" : "CnRpAAAAYer2VS6ZBASp_9URZv5BupylprVG_4zw5SPCFM31YjIewMcIL1W9Lt55iQytDOvRZEt9d3l_JpB_45pML1CF2mdTFhb6jmuew50JUvKW4XTY8Dm1EUvia5uv15q-Huz2K3lT6vz-SNr5Aj2YaHyhHRIQCH_aM8OrjDmAGRo25JI59hoUUxsp0Mwc-cFul1mGAR0MywdcPUw",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "gas_station", "establishment" ],
+      "url" : "https://plus.google.com/110143675864719726277/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Haltu, Kolkata"
+   },
+   "status" : "OK"
+}

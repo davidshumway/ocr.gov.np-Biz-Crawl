@@ -1,0 +1,142 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "P.A.C Road",
+            "short_name" : "P.A.C Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Near PAC Bypass",
+            "short_name" : "Near PAC Bypass",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Shyam Nagar",
+            "short_name" : "Shyam Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208013",
+            "short_name" : "208013",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eP.A.C Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNear PAC Bypass, Shyam Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208013\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "P.A.C Road, Near PAC Bypass, Shyam Nagar, Kanpur, Uttar Pradesh 208013, India",
+      "formatted_phone_number" : "094151 34246",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.406835,
+            "lng" : 80.35572500000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "c03372a496196357125aa5eb9d23a1b43c7ec2ae",
+      "international_phone_number" : "+91 94151 34246",
+      "name" : "Royal Carriers",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 9:00 pm",
+            "Tuesday: 10:00 am – 9:00 pm",
+            "Wednesday: 10:00 am – 9:00 pm",
+            "Thursday: 10:00 am – 9:00 pm",
+            "Friday: 10:00 am – 9:00 pm",
+            "Saturday: 10:00 am – 9:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJRxy9Q89GnDkRc_ebmOZcSq0",
+      "reference" : "CnRiAAAApLhRtZZkzRRTI1k2rJHV9BGgpcS9EnkY0Fyutgg1EFpsYkH_IX2z4xm-O82infClt1XxhL-6gDbmqKXp7uqmQ8oVIPva7hsmis_fOt-tKcz6BL6Vy4Rv8e-jXFDTuc-YsSQ9K0dcwgdkXEy3MQdudBIQDUT3ltryWD8le7aXe4Td7BoUu2irthXkWKCwvZ3yskJMwj6p8EA",
+      "scope" : "GOOGLE",
+      "types" : [ "moving_company", "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/106880533777746368973/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "P.A.C Road, Near PAC Bypass, Shyam Nagar, Kanpur"
+   },
+   "status" : "OK"
+}

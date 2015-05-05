@@ -1,0 +1,65 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "12, Bhopal House",
+            "short_name" : "12, Bhopal House",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Lalbagh",
+            "short_name" : "Lalbagh",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Lucknow",
+            "short_name" : "Lucknow",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Lucknow",
+            "short_name" : "Lucknow",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "226001",
+            "short_name" : "226001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e12, Bhopal House\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eLalbagh\u003c/span\u003e, \u003cspan class=\"locality\"\u003eLucknow\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e226001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "12, Bhopal House, Lalbagh, Lucknow, Uttar Pradesh 226001, India",
+      "formatted_phone_number" : "0522 221 5575",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.848081,
+            "lng" : 80.94093599999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "1d50a4e8338fafe04f9c5a81bf9b39e037f69798",
+      "international_phone_number" : "+91 522 221 5575",
+      "name" : "G. S. Automobile",
+      "place_id" : "ChIJw5IDMKb9mzkRCT382z0itFg",
+      "reference" : "CnRjAAAA8v4-E_0-awS00P35UItB4k4In_cmgxZkL3VrlXrMd-BuIUl2ZNbrjd_kB_W5ePuq-j7b-j_Ju63uPYGrNu3YusL3624QrmH4IbWHirKsDmjJ2TYZUiARE2vWF1ppSyKPZWyF-Kk7YUFiQ_O9x_8B6BIQd6XPopc-J9eLat27L4us1hoUKx3LY0p4lCcWFD0ysoV64mBxI04",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/101177178654718919499/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "12, Bhopal House, Lalbagh, Lucknow"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,70 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "A.E. Market",
+            "short_name" : "A.E. Market",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "A.E. Block sector 1",
+            "short_name" : "A.E. Block sector 1",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Salt Lake",
+            "short_name" : "Salt Lake",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700064",
+            "short_name" : "700064",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eA.E. Market\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eA.E. Block sector 1, Salt Lake\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700064\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "A.E. Market, A.E. Block sector 1, Salt Lake, Kolkata, West Bengal 700064, India",
+      "formatted_phone_number" : "033 2321 4271",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.600006,
+            "lng" : 88.412454
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "f58fbe47a13d694038250a0658518dbaa2dd27a0",
+      "international_phone_number" : "+91 33 2321 4271",
+      "name" : "Satellite",
+      "place_id" : "ChIJGQs9UcF1AjoRVItMt2VWZjE",
+      "reference" : "CmRcAAAAEJfd2J0-8Hr4O9M1hlBRdP2upMYjyjWb5Ies4ZxcbsRhXUsj5UvNSNScd3UG20YjqxjOLPWqqPFsRpZPOleoOBUssIF0_UPZbIv-IjRtpPyBovzltOZ7IpnrF1avUieSEhAeyd2XSEaGQ-ijx5FrPX72GhRwNHNDytq5_YdAMxAsbHnrM1fUqw",
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/104755185385891003105/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "A.E. Market, A.E. Block sector 1, Salt Lake, Kolkata"
+   },
+   "status" : "OK"
+}

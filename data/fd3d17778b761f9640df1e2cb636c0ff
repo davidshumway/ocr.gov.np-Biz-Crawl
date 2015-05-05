@@ -1,0 +1,81 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700016",
+            "short_name" : "700016",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "8, Marquis Road, \u003cspan class=\"street-address\"\u003eMarquis Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700016\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "8, Marquis Road, Marquis Road, Kolkata, West Bengal 700016, India",
+      "formatted_phone_number" : "033 2252 1177",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.548011,
+            "lng" : 88.348422
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "3e9c8c869480297bad06bb16055d8dc573a820ed",
+      "international_phone_number" : "+91 33 2252 1177",
+      "name" : "M M Weather Control (Hitachi)",
+      "place_id" : "ChIJe6yzIVN2AjoRzgHky4X0Tnc",
+      "reference" : "CnRwAAAAAVzI38poYduiLJg2eeXvi3Zz2EQgKRgddct91ipqDWYD6mfvTtAF5msOEhX7qoxDARJfkAiBmzizuPQI0xgD4yQL9A6845e6r6UJH6equhxVkqNcGGoA-GhVpEIqGVKcNVp4sy1LFnULo_o5e2nC0BIQoNC-_vvwdMWCEUcPLpQJlBoUlSN9VcIfYgzYJi9Ke4oJPgN5YXs",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "drabhisekbiswas",
+            "author_url" : "https://plus.google.com/117910461710672876168",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Good",
+            "time" : 1427950255
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Murad Ahmed",
+            "author_url" : "https://plus.google.com/116031224207606678459",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1422681421
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/114686961357105367494/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "8, Marquis Road, Marquis Road, Kolkata"
+   },
+   "status" : "OK"
+}

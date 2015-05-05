@@ -1,0 +1,82 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Patna",
+            "short_name" : "Patna",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "800020",
+            "short_name" : "800020",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Bhoothnath Road, Kankar Bagh, \u003cspan class=\"locality\"\u003ePatna\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e800020\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Bhoothnath Road, Kankar Bagh, Patna, Bihar 800020, India",
+      "formatted_phone_number" : "0612 329 7110",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.58803,
+            "lng" : 85.15506600000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/car_dealer-71.png",
+      "id" : "c5f58a4850540f9ff77a43b83f6050312b464268",
+      "international_phone_number" : "+91 612 329 7110",
+      "name" : "Pandey Motors Private Limited",
+      "place_id" : "ChIJl2UeR0dY7TkRv8OmaH0yaEA",
+      "reference" : "CnRwAAAAdaTaFWT6mBbRNYgUC5eb1vmPVFeI2XMsdL86pMKQk8_8B7c9_R3IoOAWUme5zR3dZqTr6-8vIfaEMs5gVpsvDvZRC8z1FVNoyR3v8CfAzLxRFm3PgW_oZ_N469HmR_UY_ZRHlYKNfrhLr_vR1vAUuBIQR4G1Wiluru7_txZpajKEhBoUMw8uhT4vG78OSi3wVLe_dHG3EzA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "rohit singh",
+            "author_url" : "https://plus.google.com/114593252281779962900",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1403060816
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Avinash Raj",
+            "author_url" : "https://plus.google.com/111142406874933830677",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1335030984
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "car_dealer", "car_repair", "store", "establishment" ],
+      "url" : "https://plus.google.com/115271589003284356699/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "Bhoothnath Road, Kankar Bagh, Patna",
+      "website" : "http://www.chevrolet.co.in/"
+   },
+   "status" : "OK"
+}

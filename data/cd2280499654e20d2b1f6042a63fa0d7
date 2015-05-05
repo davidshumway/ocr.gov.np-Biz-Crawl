@@ -1,0 +1,152 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "G.T. Road",
+            "short_name" : "G.T. Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Crossing No. 9",
+            "short_name" : "Crossing No. 9",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Nawabganj",
+            "short_name" : "Nawabganj",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208002",
+            "short_name" : "208002",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eG.T. Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCrossing No. 9, Nawabganj\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208002\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "G.T. Road, Crossing No. 9, Nawabganj, Kanpur, Uttar Pradesh 208002, India",
+      "formatted_phone_number" : "099359 51281",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.487572,
+            "lng" : 80.29154800000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "4a5793f6e83823c84604769254c574cfbe28ea03",
+      "international_phone_number" : "+91 99359 51281",
+      "name" : "Jaiswal Battery",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: 10:00 am – 8:00 pm"
+         ]
+      },
+      "place_id" : "ChIJkyBiRxY4nDkROHGW_ngMJxU",
+      "reference" : "CnRiAAAAZnAjKBqm8oobUjavEQT112OQsnCBDV1_ULPAhzm9BtIlN6Z4Ufvzqh4SHMvmZOZd8FaLr-3X__Y1s81C9l38j5ZLoM2wTtohTcGIlgXWvaXgTh6K1VdxkRJVE14vRcxesOh3dVSKXxCsENcYvC0YFhIQGfPpHu4DfrGWA3YOvKrASRoUwEntCgaPr2jdgHSQVmh0nb--uxI",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/101587660250223077177/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "G.T. Road, Crossing No. 9, Nawabganj, Kanpur"
+   },
+   "status" : "OK"
+}

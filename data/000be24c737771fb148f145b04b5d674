@@ -1,0 +1,90 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Linton Street",
+            "short_name" : "Linton St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Beniapukur",
+            "short_name" : "Beniapukur",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700014",
+            "short_name" : "700014",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eLinton Street\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBeniapukur\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700014\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Linton Street, Beniapukur, Kolkata, West Bengal 700014, India",
+      "formatted_phone_number" : "033 2284 7880",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.550047,
+            "lng" : 88.370255
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "7984bf7d76290b2be92b28969c5d7f290dd12b56",
+      "international_phone_number" : "+91 33 2284 7880",
+      "name" : "Poligon Initiative",
+      "place_id" : "ChIJo3dQHOV2AjoR8AjioTknQYs",
+      "reference" : "CnRmAAAAcW9g5vL3sjEH1CE6RsuCm_oYFpi_rpofxJgxgEmLrSee7EWflUyrQtvmPl9JSUQUn7iK3YAxc_rx0uYtjrQw-tUk3UAmTrvZ4zeghrZGdRluxdqNqCAO2VBX63hc9TiD05RAJv2pTbACiSjS57os4hIQ7FrjirgOTPdPxWTtOKSWKRoU7kPE3Q6JLdfEFRos3-0x664CHPk",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "fatma arshi",
+            "author_url" : "https://plus.google.com/113272618495859263362",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1391687154
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/112940351047172998777/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Linton Street, Beniapukur, Kolkata"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,82 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Faizabad Road",
+            "short_name" : "Faizabad Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Barabanki",
+            "short_name" : "Barabanki",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "225001",
+            "short_name" : "225001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eFaizabad Road\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e225001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Faizabad Road, Uttar Pradesh 225001, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.922697,
+            "lng" : 81.255471
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "938d58d28fc61098e2351ba0af0ab859cdc3e935",
+      "name" : "Amaze Awadh",
+      "place_id" : "ChIJOcaF4h5imTkRkkvAzG6oa9k",
+      "reference" : "CmRfAAAAFCuWo8sise75DwhKEMhZfJ3s7rxoIhLGvezhPtAW0-tiSfg_fIO5P5xy7F7LmhJkVoQ2Ks3tqa-8HiZGKGhdOKZ4kzQ71vloDA8l2Digm5ZdkRuHYjjPlqY1DB1r5De-EhCWK6_5JDYZaF8RwVKpfFrIGhScwZK12cHq9iYz99qSKntPwKPifg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Atta Rehmaan",
+            "author_url" : "https://plus.google.com/104340665453272886818",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Good township plan.. honest people",
+            "time" : 1411910906
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "suman gautam",
+            "author_url" : "https://plus.google.com/102046191907128879878",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "amesome project",
+            "time" : 1422694578
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/106839003136048393994/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "Faizabad Road"
+   },
+   "status" : "OK"
+}

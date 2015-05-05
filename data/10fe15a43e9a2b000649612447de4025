@@ -1,0 +1,149 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "101/9",
+            "short_name" : "101/9",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Surendra Nath Banerjee Road",
+            "short_name" : "SN Banerjee Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Esplanded",
+            "short_name" : "Esplanded",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Taltala",
+            "short_name" : "Taltala",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700014",
+            "short_name" : "700014",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e101/9, Surendra Nath Banerjee Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eEsplanded, Taltala\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700014\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "101/9, Surendra Nath Banerjee Road, Esplanded, Taltala, Kolkata, West Bengal 700014, India",
+      "formatted_phone_number" : "094337 20874",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.560694,
+            "lng" : 88.360767
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "50dd711e8b174743378d62596c6361ca23b87fdb",
+      "international_phone_number" : "+91 94337 20874",
+      "name" : "Dulux",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 9:00 pm",
+            "Tuesday: 10:00 am – 9:00 pm",
+            "Wednesday: 10:00 am – 9:00 pm",
+            "Thursday: 10:00 am – 9:00 pm",
+            "Friday: 10:00 am – 9:00 pm",
+            "Saturday: 10:00 am – 9:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJXZhZrAF3AjoRWcwtjXjeYyQ",
+      "price_level" : 2,
+      "reference" : "CmRYAAAAnL_QA_JNbPx7jkjYey9vuRoNboCSism12niuBpaYEerh3Sj3fVKMjjUcoF9mG15E0_e8Dx8SxK_Fh3-xe-p9VBOIfEYQ99-2gesYMdXLnzSn35CIslNldnloDHP2RU0vEhC4GvfTILSNvwf92oT2vvx6GhSDxvhk2A2sKD3itVb9kJlvnhoyEg",
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/104846268643481818351/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "101/9, Surendra Nath Banerjee Road, Esplanded, Taltala, Kolkata",
+      "website" : "http://www.dulux.in"
+   },
+   "status" : "OK"
+}

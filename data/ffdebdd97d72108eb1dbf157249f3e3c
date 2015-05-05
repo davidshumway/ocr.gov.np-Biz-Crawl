@@ -1,0 +1,150 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "616 A",
+            "short_name" : "616 A",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "Arya Samaj Road",
+            "short_name" : "Arya Samaj Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Safipur 1st",
+            "short_name" : "Safipur 1st",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Harjender Nagar",
+            "short_name" : "Harjender Nagar",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Krishna Nagar",
+            "short_name" : "Krishna Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208007",
+            "short_name" : "208007",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "616 A, \u003cspan class=\"street-address\"\u003eArya Samaj Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSafipur 1st, Harjender Nagar, Krishna Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208007\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "616 A, Arya Samaj Road, Safipur 1st, Harjender Nagar, Krishna Nagar, Kanpur, Uttar Pradesh 208007, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.416056,
+            "lng" : 80.39121799999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "d9af40f2913882870cf079712d68c7bbe2f72b4e",
+      "name" : "Quality Hardware",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1100"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 11:00 am – 10:00 pm",
+            "Wednesday: 11:00 am – 10:00 pm",
+            "Thursday: 11:00 am – 10:00 pm",
+            "Friday: 11:00 am – 10:00 pm",
+            "Saturday: 11:00 am – 10:00 pm",
+            "Sunday: 11:00 am – 10:00 pm"
+         ]
+      },
+      "place_id" : "ChIJ10U9shlBnDkRmmhHqZa0CuY",
+      "reference" : "CnRkAAAADH-XxfKFVDaazctdyLsQqutWHD9lsP6I2HUcj-cMu7Qp2BeiJSMW_CVZCYJHOhi7nUK99jILGKvM02nyX-OLWhniJgECoPATpiSVyPJLLULk4gSzLd2o4vlV_9cfRpyMj0RUODxSfbhug1lnTiNLXRIQL3F-itvVyKhouundL1b7rxoUJ1m3ISpIKDNPOtSvZTYjfLCTq0I",
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/106281600669997552316/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "616 A, Arya Samaj Road, Safipur 1st, Harjender Nagar, Krishna Nagar, Kanpur"
+   },
+   "status" : "OK"
+}

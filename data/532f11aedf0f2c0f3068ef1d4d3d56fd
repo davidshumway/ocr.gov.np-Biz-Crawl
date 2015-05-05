@@ -1,0 +1,67 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1",
+            "short_name" : "1",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "3rd Street",
+            "short_name" : "3rd Street",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Santoshpur",
+            "short_name" : "Santoshpur",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700075",
+            "short_name" : "700075",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "1, \u003cspan class=\"street-address\"\u003e3rd Street\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSantoshpur\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700075\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "1, 3rd Street, Santoshpur, Kolkata, West Bengal 700075, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.489517,
+            "lng" : 88.384719
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "76481218f40433fc7f1b0c026e030c2ffa9edd76",
+      "name" : "Ashiana",
+      "place_id" : "ChIJjyHsqmtxAjoRYWJz15ufQ6A",
+      "reference" : "CmRbAAAAVQfbNGzX91U8OSVsenjraXI4AdLQfR306N5toRarBH8qYxS7JgYSmsLsJk-GtR-ngFDHZIJRQSK-a4iRqK4H3U8RVXKx-YtAKURfy72Bfb05F8F0vdQIZAxnSX9GJ3X9EhCxDU8h4LdGaFQfj8qfJs8OGhQFEJijxcsA1JSnNb7ZNy7eyVlA_g",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/110998439269345073250/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "1, 3rd Street, Santoshpur, Kolkata",
+      "website" : "https://www.ashianahousing.com/"
+   },
+   "status" : "OK"
+}

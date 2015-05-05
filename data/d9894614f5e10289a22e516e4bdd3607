@@ -1,0 +1,160 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "11A",
+            "short_name" : "11A",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "Braunfield Row",
+            "short_name" : "Braunfield Row",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Mominpore",
+            "short_name" : "Mominpore",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700027",
+            "short_name" : "700027",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "11A, \u003cspan class=\"street-address\"\u003eBraunfield Row\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eMominpore\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700027\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "11A, Braunfield Row, Mominpore, Kolkata, West Bengal 700027, India",
+      "formatted_phone_number" : "033 2448 1611",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.526606,
+            "lng" : 88.324062
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/car_dealer-71.png",
+      "id" : "dd0d908b2316cb59df0fe3d41d1844d05fa337b7",
+      "international_phone_number" : "+91 33 2448 1611",
+      "name" : "Saini Hyundai Workshop",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0830"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:30 am – 6:30 pm",
+            "Tuesday: 8:30 am – 6:30 pm",
+            "Wednesday: 8:30 am – 6:30 pm",
+            "Thursday: 8:30 am – 6:30 pm",
+            "Friday: Closed",
+            "Saturday: 8:30 am – 6:30 pm",
+            "Sunday: 8:30 am – 6:30 pm"
+         ]
+      },
+      "place_id" : "ChIJ-7E94ld3AjoRZqk7e7m0AiE",
+      "reference" : "CnRpAAAAvpsYtmOaPwcrNxUr4KymQ2-VsfAJuj_qd_qBunrtARp3qjLEmNAMBSW0D7LKPExUc_0fxDfOXwvBpFFYmTi_iFjkvcrGtx3RpzjZ7BY4zBRmF-ZxEjWgitUxNK8gU9vr8W1x1wrWaFBLezGuKIdiSBIQx2Zo_wSumm3LjHgrvRKwrhoUUrX56eW78QYwec06mmE05WLvq7A",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "arshad khan",
+            "author_url" : "https://plus.google.com/104086226091828938178",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1400708365
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "car_dealer", "store", "establishment" ],
+      "url" : "https://plus.google.com/108216863213979676671/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "11A, Braunfield Row, Mominpore, Kolkata",
+      "website" : "http://www.hyundai.com/"
+   },
+   "status" : "OK"
+}

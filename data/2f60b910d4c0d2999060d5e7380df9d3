@@ -1,0 +1,104 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Billi Road",
+            "short_name" : "Billi Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Obra",
+            "short_name" : "Obra",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Sonbhadra",
+            "short_name" : "Sonbhadra",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "231219",
+            "short_name" : "231219",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eBilli Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eObra\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e231219\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Billi Road, Obra, Uttar Pradesh 231219, India",
+      "formatted_phone_number" : "1800 22 0229",
+      "geometry" : {
+         "location" : {
+            "lat" : 24.457128,
+            "lng" : 83.002562
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "1aef35ad1a7afbcea814beb173e35ee53026eab1",
+      "international_phone_number" : "+91 1800 22 0229",
+      "name" : "Bank of India",
+      "place_id" : "ChIJ_wNOH6jmjjkRxDfIcpVIK3s",
+      "reference" : "CmRgAAAA5m3yHmPY1jAiWI-Jlr-W4DJGKyFKs8VVlBfgVtb8RJdtnVZusUXXnH8pyxSvk2slRofMkBir13T7Ubbhog7d53Obv5ofA2EgCI5Gy6rfS3PisUJTCiFQKoJ-JL8Cbdi0EhCuxUyFpGqObYl3aBiQRJd9GhQXxeLXXgq5CPIWJMZanouIeKiyVw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "shitij shrivastava",
+            "author_url" : "https://plus.google.com/105395376989369832359",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Good",
+            "time" : 1429614076
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "vikash modanwal",
+            "author_url" : "https://plus.google.com/117339643433695897464",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "",
+            "time" : 1375450623
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "sambhw sohit",
+            "author_url" : "https://plus.google.com/115827221617780364050",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1386360929
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "bank", "finance", "establishment" ],
+      "url" : "https://plus.google.com/116438502501921251994/about?hl=en-US",
+      "user_ratings_total" : 3,
+      "utc_offset" : 330,
+      "vicinity" : "Billi Road, Obra",
+      "website" : "http://www.bankofindia.co.in"
+   },
+   "status" : "OK"
+}

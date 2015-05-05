@@ -1,0 +1,161 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Daresi Road",
+            "short_name" : "Daresi Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Agra",
+            "short_name" : "Agra",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Agra",
+            "short_name" : "Agra",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "282004",
+            "short_name" : "282004",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Daresi No.2 , Agra., \u003cspan class=\"street-address\"\u003eDaresi Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAgra\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e282004\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Daresi No.2 , Agra., Daresi Road, Agra, Uttar Pradesh 282004, India",
+      "formatted_phone_number" : "0562 246 1690",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.184081,
+            "lng" : 78.01873999999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "0d08db086c2bfe1a05e7fbebfb828e87b322cdd7",
+      "international_phone_number" : "+91 562 246 1690",
+      "name" : "Agarwal Cycle Company",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1030"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:30 am – 9:00 pm",
+            "Tuesday: 10:30 am – 9:00 pm",
+            "Wednesday: 10:30 am – 9:00 pm",
+            "Thursday: 10:30 am – 9:00 pm",
+            "Friday: 10:30 am – 9:00 pm",
+            "Saturday: 10:30 am – 9:00 pm",
+            "Sunday: 10:30 am – 9:00 pm"
+         ]
+      },
+      "place_id" : "ChIJrYDOHiZ3dDkRtpqNe-Ilzvg",
+      "reference" : "CnRpAAAAdshnj84yM342SOf468VpHABKgAlddNKjKo9LMkN9Q3t6VPK1yjQ1IbsVesaXshy16mrJYRyJSN2s0NnxN5DukVtuQHUphiTXdGhHHgimej9QxSDd2d1YBSKrb6bYB6ktMMg_gz0PTUZV4FX9iDnLjBIQeZ__K-JjJPdkSWsMFamIDxoUHzDmDDCUHimCOP4IRMtLMo06Dj0",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Yash Agarwal",
+            "author_url" : "https://plus.google.com/103554134864841426029",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "All kinds of bicycle..wow\n",
+            "time" : 1425711027
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "bicycle_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/117566312466671532600/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Daresi No.2 , Agra., Daresi Road, Agra"
+   },
+   "status" : "OK"
+}

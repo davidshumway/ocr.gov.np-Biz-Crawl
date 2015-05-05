@@ -1,0 +1,152 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "25/39 B-2",
+            "short_name" : "25/39 B-2",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Fatehabad Road",
+            "short_name" : "Fatehabad Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Near Indra Hospital",
+            "short_name" : "Near Indra Hospital",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Basai Khurd",
+            "short_name" : "Basai Khurd",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Tajganj",
+            "short_name" : "Tajganj",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Agra",
+            "short_name" : "Agra",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Agra",
+            "short_name" : "Agra",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "282001",
+            "short_name" : "282001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e25/39 B-2, Fatehabad Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNear Indra Hospital, Basai Khurd, Tajganj\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAgra\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e282001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "25/39 B-2, Fatehabad Road, Near Indra Hospital, Basai Khurd, Tajganj, Agra, Uttar Pradesh 282001, India",
+      "formatted_phone_number" : "093599 05128",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.158007,
+            "lng" : 78.05036200000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "0d4f98c1293288411257bf0bc6450a6b662ba493",
+      "international_phone_number" : "+91 93599 05128",
+      "name" : "A.R.Engineer",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: Closed",
+            "Sunday: 10:00 am – 8:00 pm"
+         ]
+      },
+      "place_id" : "ChIJLaMltxNxdDkRWbpdDx2UZwc",
+      "reference" : "CmRfAAAAQql85HnLkU7RO0irmtEmOQBEJAd9hZhm6HKiEl2YHCt-ZhVC4jv5_7UyoLKVUsYrpErf_3hV0AqyOOM4x8UKQCGKgOcsxfmsGNpIFp1I9DYrLDVxKWRh3OQnlVCj8B8AEhBKw8zcEl-q5o-vDMHJvoIvGhRDfYIbI5JG_cdSpYrugmIvxo1IVQ",
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/105639142942972892567/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "25/39 B-2, Fatehabad Road, Near Indra Hospital, Basai Khurd, Tajganj, Agra"
+   },
+   "status" : "OK"
+}

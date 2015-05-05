@@ -1,0 +1,150 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "110/123",
+            "short_name" : "110/123",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "80 Feet Road",
+            "short_name" : "80 Feet Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Near Samrat Guest House",
+            "short_name" : "Near Samrat Guest House",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ram Krishna Nagar",
+            "short_name" : "Ram Krishna Nagar",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Jawahar Nagar",
+            "short_name" : "Jawahar Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208001",
+            "short_name" : "208001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e110/123, 80 Feet Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNear Samrat Guest House, Ram Krishna Nagar, Jawahar Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "110/123, 80 Feet Road, Near Samrat Guest House, Ram Krishna Nagar, Jawahar Nagar, Kanpur, Uttar Pradesh 208001, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.469815,
+            "lng" : 80.31845
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "0fdfdc2ac69d760ef8a1ca912659122a37abe7c0",
+      "name" : "Kashmir Tent House",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJj_ueB384nDkRuoTHyaT9Euo",
+      "reference" : "CnRmAAAA-Oddqtqbim5spKBzRWBb-zXoqnVs8A1IvxQFivjZ_CNPt2j4pEs8arGo9Q4U5masJFdtb2oik3RaOSgq2yNE4YDPRRodYC9BOmfrFaAmRhvk0CGHk6dp-SaG1Zg4GGfMZKv4ECfZ0BCgTJ2U-UafaBIQw9j1G9CY1uaTGuIxTSNgahoUkvD4XseEkcpxR3-be9If8s5kMdo",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/105255463211628772320/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "110/123, 80 Feet Road, Near Samrat Guest House, Ram Krishna Nagar, Jawahar Nagar, Kanpur"
+   },
+   "status" : "OK"
+}

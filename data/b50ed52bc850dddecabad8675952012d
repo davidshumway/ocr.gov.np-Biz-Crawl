@@ -1,0 +1,178 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Station Rd",
+            "short_name" : "Station Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Nawada",
+            "short_name" : "Nawada",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Bhojpur",
+            "short_name" : "Bhojpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bhojpur",
+            "short_name" : "Bhojpur",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "802301",
+            "short_name" : "802301",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eStation Rd\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNawada\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBhojpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e802301\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Station Rd, Nawada, Bhojpur, Bihar 802301, India",
+      "formatted_phone_number" : "1800 22 3344",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.554701,
+            "lng" : 84.66663699999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "23b9f6b114a070ec4a1c922275cbc79268f6173f",
+      "international_phone_number" : "+91 1800 22 3344",
+      "name" : "Bank of Baroda ATM",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2330"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2330"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2330"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2330"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2330"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2330"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2330"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 12:00 am – 11:30 pm",
+            "Tuesday: 12:00 am – 11:30 pm",
+            "Wednesday: 12:00 am – 11:30 pm",
+            "Thursday: 12:00 am – 11:30 pm",
+            "Friday: 12:00 am – 11:30 pm",
+            "Saturday: 12:00 am – 11:30 pm",
+            "Sunday: 12:00 am – 11:30 pm"
+         ]
+      },
+      "place_id" : "ChIJL4Sp0WdfjTkRaNuMf9f5dJQ",
+      "reference" : "CnRmAAAASFRuvNvJidFkWX58mfq-LedS5-K15efSYFrWjx7hGOEVtYzTju8dElRRht_1jqhN6PQUEfkuFzYUtOMhOw4uswjQS8IJslsEnWxOz8qucYUhwwdjPeYTrEfLcRhPsVncB6DPtrAnHIv5WvPrD6wHRBIQL-60hMmfGxw4mqFPg_EuaBoUex9VwdlDZolG83u_x2L7v55N14g",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Amit Kumar Sinha",
+            "author_url" : "https://plus.google.com/108548838703499026495",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1322407451
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1321618518
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "atm", "finance", "establishment" ],
+      "url" : "https://plus.google.com/100327523950323493826/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "Station Rd, Nawada, Bhojpur",
+      "website" : "http://www.bankofbaroda.com/"
+   },
+   "status" : "OK"
+}

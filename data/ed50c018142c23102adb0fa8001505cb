@@ -1,0 +1,149 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "110",
+            "short_name" : "110",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "College Street",
+            "short_name" : "College St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Calcutta Medical College",
+            "short_name" : "Calcutta Medical College",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "College Square",
+            "short_name" : "College Square",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700012",
+            "short_name" : "700012",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e110, College Street\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCalcutta Medical College, College Square\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700012\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "110, College Street, Calcutta Medical College, College Square, Kolkata, West Bengal 700012, India",
+      "formatted_phone_number" : "033 2237 0802",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.57001,
+            "lng" : 88.360859
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "37f453752fec86e6327edf6325e3623e706d30ab",
+      "international_phone_number" : "+91 33 2237 0802",
+      "name" : "Ashutosh Roy & Son",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1930"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1930"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1930"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1930"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1930"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1630"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1030"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:30 am – 7:30 pm",
+            "Tuesday: 10:30 am – 7:30 pm",
+            "Wednesday: 10:30 am – 7:30 pm",
+            "Thursday: 10:30 am – 7:30 pm",
+            "Friday: 10:30 am – 7:30 pm",
+            "Saturday: 10:30 am – 4:30 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ9wHjgqx3AjoRg0FrAJoau9M",
+      "reference" : "CnRmAAAAcxf2YvDogRiW2co61xVzSJxYoEZhVAOSm-s7VKm5DRbfDl_TtmUdxE72hPvjxaOp4yEPlgLla9wf4j5dOGfQuLq6oMcgGUdUFvWpH7_BDrm4rF5uqNR9G01n2w3FsYxXsOrPfdGCOeMjNxge4_RMFBIQFc7Cap__vEM7FJ_BAo_mZhoU3TakIfNzLk0Zp9N3oV6dFAarlNI",
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/102089411372909133119/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "110, College Street, Calcutta Medical College, College Square, Kolkata"
+   },
+   "status" : "OK"
+}

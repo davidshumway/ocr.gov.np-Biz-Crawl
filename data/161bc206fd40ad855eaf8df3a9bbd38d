@@ -1,0 +1,85 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "National Highway 29",
+            "short_name" : "NH 29",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Rauza",
+            "short_name" : "Rauza",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ghazipur",
+            "short_name" : "Ghazipur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Ghazipur",
+            "short_name" : "Ghazipur",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "233001",
+            "short_name" : "233001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNational Highway 29\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eRauza\u003c/span\u003e, \u003cspan class=\"locality\"\u003eGhazipur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e233001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "National Highway 29, Rauza, Ghazipur, Uttar Pradesh 233001, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.595173,
+            "lng" : 83.57742399999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "aa6f42bcceeaaadca5300c9a1700bb570387047c",
+      "name" : "Triveni Tubes",
+      "place_id" : "ChIJbSDJOUL_kTkRC_V3pyR_Mw8",
+      "reference" : "CmRgAAAAZy-r-a97e6mF3ro-6ipRLcriSIJHqwaPCN2t5bAcovl9SBQQQ7Yf6NNqyXBMazPJyU3NmC6FUNhAycMqoQznngCedX_yqugXxNaZIoBm325wQhIn7yGvcPsQlfrn5aCLEhCGBWUsvJ1ZjhbEKLng5m75GhSwnHTUSVEX1dUopueFb_uSpZ8xmw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1378540602
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/113701327502380045715/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "National Highway 29, Rauza, Ghazipur"
+   },
+   "status" : "OK"
+}

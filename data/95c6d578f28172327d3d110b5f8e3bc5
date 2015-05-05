@@ -1,0 +1,150 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "State Highway 4",
+            "short_name" : "SH 4",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Alipur",
+            "short_name" : "Alipur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Gaya",
+            "short_name" : "Gaya",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "823002",
+            "short_name" : "823002",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eState Highway 4\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAlipur\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e823002\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "State Highway 4, Alipur, Bihar 823002, India",
+      "formatted_phone_number" : "1800 22 3344",
+      "geometry" : {
+         "location" : {
+            "lat" : 24.833606,
+            "lng" : 85.02952500000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "91512e648c1c59c7b9fbcf6170e9ea462af8aee8",
+      "international_phone_number" : "+91 1800 22 3344",
+      "name" : "Bank of Baroda",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1300"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1030"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:30 am – 3:00 pm",
+            "Tuesday: 10:30 am – 3:00 pm",
+            "Wednesday: 10:30 am – 3:00 pm",
+            "Thursday: 10:30 am – 3:00 pm",
+            "Friday: 10:30 am – 3:00 pm",
+            "Saturday: 10:30 am – 1:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJg3R19gXW8jkR-2m3zr83B5A",
+      "reference" : "CnRiAAAA_GtEHiWpNA23_gr7P_fqJCi-pX5l-8cYT-LEm2NvEj4rkKeIpzMd-jsqgOvS8uej8jfqE84rhZoFhUvapx5fzNjBC7Q7ny5zDS44TX7FwOGnX1Y5uJCb0HiJ0WxFzKX34q8hMQX0IgOKJFeyGdz7-xIQ622wIWLSdGzyw4lg_YtajRoUbc4RuGn5DK3gzgoYKOxwaINgOkY",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Mantu Kumar",
+            "author_url" : "https://plus.google.com/106580953278897799462",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "",
+            "time" : 1393328051
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "bank", "finance", "establishment" ],
+      "url" : "https://plus.google.com/117851505704811377726/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "State Highway 4, Alipur",
+      "website" : "http://www.bankofbaroda.com/"
+   },
+   "status" : "OK"
+}

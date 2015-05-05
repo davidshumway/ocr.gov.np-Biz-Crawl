@@ -1,0 +1,162 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "35",
+            "short_name" : "35",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "JN Tewary Road, Mandir Road",
+            "short_name" : "JN Tewary Road, Mandir Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Gora Bazar",
+            "short_name" : "Gora Bazar",
+            "types" : [ "sublocality_level_3", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Rajbari",
+            "short_name" : "Rajbari",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Dum Dum",
+            "short_name" : "Dum Dum",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700028",
+            "short_name" : "700028",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "35, \u003cspan class=\"street-address\"\u003eJN Tewary Road, Mandir Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eGora Bazar, Rajbari, Dum Dum\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700028\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "35, JN Tewary Road, Mandir Road, Gora Bazar, Rajbari, Dum Dum, Kolkata, West Bengal 700028, India",
+      "formatted_phone_number" : "033 2548 8659",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.63747,
+            "lng" : 88.414796
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "9680cea6be37bce2991e6fdb82d1f4cf5a27387a",
+      "international_phone_number" : "+91 33 2548 8659",
+      "name" : "Shree Sai Hardware",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 am – 5:00 pm",
+            "Tuesday: 8:00 am – 5:00 pm",
+            "Wednesday: 8:00 am – 5:00 pm",
+            "Thursday: 8:00 am – 5:00 pm",
+            "Friday: 8:00 am – 5:00 pm",
+            "Saturday: 8:00 am – 5:00 pm",
+            "Sunday: 8:00 am – 5:00 pm"
+         ]
+      },
+      "place_id" : "ChIJU5xa0Gye-DkRxcJRlvdNmpE",
+      "reference" : "CnRmAAAAGdF-6crIQdDJNYwHux5uvWD_GZVqS6s_Ymu2YPlgpZ7JzmMATkod_CA-AK24LqaH2vStqUBGP1ZPMhIUc0Nl9v_yPQ3G4kEsLnfi6Z6U8-cqaZYQeWKWIPS8vPF4RnrEMUbHJ2zpFsA1M0oPUj5wlRIQcqhbB77ueVVKHTnnXcfZ5xoUz7uztnfi570UKBxoIImVtV-pHPc",
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/114441874036411737208/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "35, JN Tewary Road, Mandir Road, Gora Bazar, Rajbari, Dum Dum, Kolkata"
+   },
+   "status" : "OK"
+}

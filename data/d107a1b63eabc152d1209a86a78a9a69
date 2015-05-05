@@ -1,0 +1,142 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Mall Road",
+            "short_name" : "Mall Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Mall Rd Chauraha",
+            "short_name" : "Mall Rd Chauraha",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Downtown",
+            "short_name" : "Downtown",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208001",
+            "short_name" : "208001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eMall Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eMall Rd Chauraha, Downtown\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Mall Road, Mall Rd Chauraha, Downtown, Kanpur, Uttar Pradesh 208001, India",
+      "formatted_phone_number" : "0512 232 5263",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.464278,
+            "lng" : 80.35842100000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "198b044373ac4982793869c9c1c2f001e55db682",
+      "international_phone_number" : "+91 512 232 5263",
+      "name" : "Computerised Keys",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1100"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 11:00 am – 8:00 pm",
+            "Tuesday: 11:00 am – 8:00 pm",
+            "Wednesday: 11:00 am – 8:00 pm",
+            "Thursday: 11:00 am – 8:00 pm",
+            "Friday: 11:00 am – 8:00 pm",
+            "Saturday: 11:00 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJZ0AlM1FHnDkRAwQmpCG0Rn4",
+      "reference" : "CnRkAAAAmOPhOWesUT50p4vRVyl6xfG_ZK3pLbaPQSy7xi5Gp_-OzHnUhEnrtLUi9eqmZzIiGbbI9CnElLssdO7fNH9yeO3H9uZxUU2i4hTjXheffbaE8Uo9lTDp2CcbTV13ai7C87d_7jMVo0HxWXfqsJ7-8hIQgDKxdLiRzOHFiRyMpK-PjBoUMQiJ5prAcJszyfsH5Z94jSnGh3g",
+      "scope" : "GOOGLE",
+      "types" : [ "locksmith", "establishment" ],
+      "url" : "https://plus.google.com/108747159261704180669/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Mall Road, Mall Rd Chauraha, Downtown, Kanpur"
+   },
+   "status" : "OK"
+}

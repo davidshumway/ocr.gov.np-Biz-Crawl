@@ -1,0 +1,41 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Patna",
+            "short_name" : "Patna",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "Bihar",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "Old Khajoor banana, \u003cspan class=\"locality\"\u003ePatna\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Old Khajoor banana, Patna, Bihar, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.613986,
+            "lng" : 85.188031
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "aa024a7adb0caee67ceabba98ad4fe81ddf2583a",
+      "name" : "Kailash Kunj",
+      "place_id" : "ChIJoVqNmMxY7TkRdqOySY-zfKY",
+      "reference" : "CmRgAAAAvDALVuiMatLGXqG5KP7ktVsuaCk2V9mlW-cx8SDqzX1K0hiFxHm6lmNlgxKDP15ere8wqAO9mfSiuV4XcS1cciAg59DtBM6bDyLw3JO5zbhE20chjBkUJcWoAWGyMEsCEhAkR6TLiABSOMCp0IHCPjhJGhQxoW2mciuyArsWmXVRJiJtRyROzQ",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/112447423450442076531/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Old Khajoor banana, Patna"
+   },
+   "status" : "OK"
+}

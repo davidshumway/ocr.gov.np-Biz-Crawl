@@ -1,0 +1,86 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Vidyapeeth Road",
+            "short_name" : "Vidyapeeth Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Near IP Mall",
+            "short_name" : "Near IP Mall",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Sigra",
+            "short_name" : "Sigra",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Varanasi",
+            "short_name" : "Varanasi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Varanasi",
+            "short_name" : "Varanasi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "221010",
+            "short_name" : "221010",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eVidyapeeth Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNear IP Mall, Sigra\u003c/span\u003e, \u003cspan class=\"locality\"\u003eVaranasi\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e221010\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Vidyapeeth Road, Near IP Mall, Sigra, Varanasi, Uttar Pradesh 221010, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.316419,
+            "lng" : 82.989705
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "6f4d98321396f4f0e36d79bfd4007cce4513e9a3",
+      "name" : "Tulsi Complex",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "open" : {
+                  "day" : 0,
+                  "time" : "0000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+         ]
+      },
+      "place_id" : "ChIJGzDc7_wtjjkRquCcuhYdUc4",
+      "reference" : "CnRhAAAAxxzV2MGCx_boeaCxxMFVza8_6nlDmXglb7n_PXHuJOYvBDq6wlbKCxp0GbUPNbTL6t3GcwPtQR5Qjsi-585V0yBMjf27WligYLnZMfVGQgeU0L4Vua_5HqFiGPdbHzKGQLVdVbbJveWKx0TwTuWHvhIQSjNxf-8n2osJ5c0vVI-i-BoUylCvAFeUyY2RfD4EBPGr_mdNBH8",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/113061062004167579427/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Vidyapeeth Road, Near IP Mall, Sigra, Varanasi"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,147 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "10/1E",
+            "short_name" : "10/1E",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Diamond Harbour Road",
+            "short_name" : "Diamond Harbour Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Alipore",
+            "short_name" : "Alipore",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700027",
+            "short_name" : "700027",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Saket Building, \u003cspan class=\"street-address\"\u003e10/1E, Diamond Harbour Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eAlipore\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700027\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Saket Building, 10/1E, Diamond Harbour Road, Alipore, Kolkata, West Bengal 700027, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.524319,
+            "lng" : 88.325301
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "23c7a0220d34c18df8e15bed533bd57fd0f026d2",
+      "name" : "Indo Radial Club",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 7:00 pm",
+            "Tuesday: 10:00 am – 7:00 pm",
+            "Wednesday: 10:00 am – 7:00 pm",
+            "Thursday: 10:00 am – 7:00 pm",
+            "Friday: 10:00 am – 7:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJz7YKSVZ3AjoR0b6aznNFpkM",
+      "reference" : "CnRjAAAAPP4LHPHmdxU-gsNZReIWK4ioxNr1gOdadIe9fO5SwkA_h3I7VOlnyRIIW8XLsO3mpuuiBsgEF9FQmOffE3CaE_eIt11g8bFg-kaYuGwCGdSK_VBlz1Cvc2q8v0PqPufANSAJrHcL8ikJtYEiuGXnEhIQ9FwkP6MhuDjqgGsAi7OIMxoUY9rGL2ZAU0rthM6uVCABdRQP0SY",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Ayush Rathi",
+            "author_url" : "https://plus.google.com/117560770209444941975",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1378671814
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/116819327583540892070/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Saket Building, 10/1E, Diamond Harbour Road, Alipore, Kolkata"
+   },
+   "status" : "OK"
+}

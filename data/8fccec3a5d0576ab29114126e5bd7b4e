@@ -1,0 +1,147 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Station Road",
+            "short_name" : "Station Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "I B P",
+            "short_name" : "I B P",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Moti Nagar",
+            "short_name" : "Moti Nagar",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Station Lines",
+            "short_name" : "Station Lines",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Unnao",
+            "short_name" : "Unnao",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Unnao",
+            "short_name" : "Unnao",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "209801",
+            "short_name" : "209801",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eStation Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eI B P, Moti Nagar, Station Lines\u003c/span\u003e, \u003cspan class=\"locality\"\u003eUnnao\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e209801\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Station Road, I B P, Moti Nagar, Station Lines, Unnao, Uttar Pradesh 209801, India",
+      "formatted_phone_number" : "094529 09286",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.548905,
+            "lng" : 80.48941499999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "e658a5edfafa2c8eaace9c65963a531d37416164",
+      "international_phone_number" : "+91 94529 09286",
+      "name" : "Unnao Glass House",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 8:00 pm",
+            "Tuesday: Closed",
+            "Wednesday: 9:00 am – 8:00 pm",
+            "Thursday: 9:00 am – 8:00 pm",
+            "Friday: 9:00 am – 8:00 pm",
+            "Saturday: 9:00 am – 8:00 pm",
+            "Sunday: 9:00 am – 8:00 pm"
+         ]
+      },
+      "place_id" : "ChIJtzIK4bcVnDkRb42IL-B89No",
+      "reference" : "CnRlAAAA0KQ50Rt7cAAtRRJdBShZm2KTJEOIRa5-vpWSIlRXnhZVutE0yo3nt70iGUZKa2Dqz9aj6j75JHgXTengCwiBu8KayVgNEQbzdUjUmBiW5XOA52bCn3VWVgq3m9krqYQt8OmvZ1Sq7YTEUAnCbpc2UxIQBbbzRUNLPZ_PH0afdRqaORoULLtJKXsMLBt63WS9EecDOFSdcEY",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/102992285053380693970/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Station Road, I B P, Moti Nagar, Station Lines, Unnao"
+   },
+   "status" : "OK"
+}

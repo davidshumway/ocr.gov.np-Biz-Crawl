@@ -1,0 +1,103 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "AF-III",
+            "short_name" : "AF-III",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Major Arterial Road",
+            "short_name" : "Major Arterial Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Action Area I",
+            "short_name" : "AA I",
+            "types" : [ "sublocality_level_3", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Newtown",
+            "short_name" : "Newtown",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700059",
+            "short_name" : "700059",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eAF-III, Major Arterial Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eAction Area I, Newtown\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700059\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "AF-III, Major Arterial Road, Action Area I, Newtown, Kolkata, West Bengal 700059, India",
+      "formatted_phone_number" : "033 2248 8099",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.582967,
+            "lng" : 88.44614199999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "ed59b94a2432525fb4519d4c5dd88e21c637078e",
+      "international_phone_number" : "+91 33 2248 8099",
+      "name" : "Coal India Head Quarters",
+      "place_id" : "ChIJKWEDHgx1AjoR5UxLdJm936o",
+      "reference" : "CnRsAAAAlRy0gO0Qw5w9p2baHn2jrHaaYJ4QjDsqWMCJrzt3KI6m1Ot4bG6Tt1jX-mjgeNu9fZIyZen8uYto67iu3FArQQ7gTyziPczotRxfRaLX6rIbq-LP6VbofULMe7_7TtPRubc9QbuzickVXeNOb35nGRIQf-NRImn_1eTldaNK0A0hcRoUTvO090nMLuz3hdMzAJw0FK-LvYg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1324309475
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 1,
+            "text" : "",
+            "time" : 1336756843
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/103479949658868844614/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "AF-III, Major Arterial Road, Action Area I, Newtown, Kolkata",
+      "website" : "http://www.coalindia.in/"
+   },
+   "status" : "OK"
+}

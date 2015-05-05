@@ -1,0 +1,157 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "98",
+            "short_name" : "98",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Garia Main Road",
+            "short_name" : "Garia Main Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Mahamaya Tala",
+            "short_name" : "Mahamaya Tala",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Garia",
+            "short_name" : "Garia",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700084",
+            "short_name" : "700084",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e98, Garia Main Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eMahamaya Tala, Garia\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700084\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "98, Garia Main Road, Mahamaya Tala, Garia, Kolkata, West Bengal 700084, India",
+      "formatted_phone_number" : "085813 85137",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.455434,
+            "lng" : 88.386055
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+      "id" : "9d4c1b34547ebfbc296b4229fc294208a860f005",
+      "international_phone_number" : "+91 85813 85137",
+      "name" : "Wonder Car",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 am – 10:00 pm",
+            "Tuesday: 8:00 am – 10:00 pm",
+            "Wednesday: 8:00 am – 10:00 pm",
+            "Thursday: 8:00 am – 10:00 pm",
+            "Friday: 8:00 am – 10:00 pm",
+            "Saturday: 8:00 am – 10:00 pm",
+            "Sunday: 8:00 am – 10:00 pm"
+         ]
+      },
+      "place_id" : "ChIJ_TzMQJdxAjoRWk_11FiupL4",
+      "reference" : "CmReAAAA5gBJd1cSmw9sDnKCJgF6O7FCpaNLqMrCkyoEQ3OcYxw0ADDt9WwOcTztXOVfWZnLbd3zAhUZ-FB66oYGESgxxNUWeOVvA-RwUsJ4GdzCLOnavpCdYJZp7JbgLzOyRK2BEhDf_4Fmm-YB67XYScvZ9kv8GhR622BFtxcwJo4kap3FWaVhEdv3PA",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "electronics_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/100479559544232495780/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "98, Garia Main Road, Mahamaya Tala, Garia, Kolkata"
+   },
+   "status" : "OK"
+}

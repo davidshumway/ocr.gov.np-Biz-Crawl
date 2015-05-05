@@ -1,0 +1,133 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Musabani",
+            "short_name" : "Musabani",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "East Singhbhum",
+            "short_name" : "East Singhbhum",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Jharkhand",
+            "short_name" : "JH",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "832104",
+            "short_name" : "832104",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eMusabani\u003c/span\u003e, \u003cspan class=\"region\"\u003eJharkhand\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e832104\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Musabani, Jharkhand 832104, India",
+      "formatted_phone_number" : "092044 04534",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.503282,
+            "lng" : 86.453294
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "2aa99b60a3438060d15d6a55a44c5f7c94a04d50",
+      "international_phone_number" : "+91 92044 04534",
+      "name" : "bhim",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 am – 6:00 pm",
+            "Tuesday: 8:00 am – 6:00 pm",
+            "Wednesday: 8:00 am – 6:00 pm",
+            "Thursday: 8:00 am – 6:00 pm",
+            "Friday: 8:00 am – 6:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJLVsSCST3HToRGxnY1H8CLDk",
+      "reference" : "CmRXAAAATNKuiqEQ9mhJWUdIIO03yxOzetogxdW5EA_pYooX90clqv1xpy55pVSslLOomfKaXULVHAwqIs9hn_cBN_7thaVSIFmE-KmmYNp_Eea9y7CLuJrf7xFnboxEur8AwLYuEhDV7JxBkehOpMDxzmAaHiSuGhSxwQ21YG_2JvjfWI7EcBUe5tvN7Q",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1291439801
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/112699337028774448815/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Musabani"
+   },
+   "status" : "OK"
+}

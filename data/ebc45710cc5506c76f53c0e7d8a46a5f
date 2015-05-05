@@ -1,0 +1,145 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "East-West Highway",
+            "short_name" : "H01",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Birtamode",
+            "short_name" : "Birtamode",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Anarmani",
+            "short_name" : "Anarmani",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Mechi",
+            "short_name" : "Mechi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Eastern Region",
+            "short_name" : "Eastern Region",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Nepal",
+            "short_name" : "NP",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "57204",
+            "short_name" : "57204",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eEast-West Highway\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAnarmani\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e57204\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eNepal\u003c/span\u003e",
+      "formatted_address" : "East-West Highway, Anarmani 57204, Nepal",
+      "formatted_phone_number" : "023-543828",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.643165,
+            "lng" : 87.99234199999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "91baa99af4624405019662bd6d64f7da02caee79",
+      "international_phone_number" : "+977 23-543828",
+      "name" : "Clean Energy Development Bank",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0930"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:30 am – 5:00 pm",
+            "Tuesday: 9:30 am – 5:00 pm",
+            "Wednesday: 9:30 am – 5:00 pm",
+            "Thursday: 9:30 am – 5:00 pm",
+            "Friday: 9:30 am – 5:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJOUNqdmC65TkR41f_1V2GQdo",
+      "reference" : "CoQBcQAAAIWQnmmQ7HmdnVVviEGQwqYnC2Hp5zFt-JLvxhW2HhfW1tWNFxAKYLM1w-tnhp-MqNW1lv9zBn7crbE1IEMnNW6NH8sWHfexI-HkTrhbUxgfcsFIdjKvllXaWi7WLjM1QDZi3Wr4Foj0BcOSzDnZrL7pdECOB5tLzKMk2z--u10bEhDH8l9jJNIR9snzjlzBSc5sGhT8ol4vdQbmp0n-yWUT2CQjkQlMJA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Pratik Ghimire",
+            "author_url" : "https://plus.google.com/112131577814787037812",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "",
+            "time" : 1356642695
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "bank", "finance", "establishment" ],
+      "url" : "https://plus.google.com/117922870139417087251/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 345,
+      "vicinity" : "East-West Highway, Anarmani",
+      "website" : "http://www.cedbl.com/"
+   },
+   "status" : "OK"
+}

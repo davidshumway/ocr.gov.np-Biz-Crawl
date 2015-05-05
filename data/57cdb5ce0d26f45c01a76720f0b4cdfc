@@ -1,0 +1,108 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "SH 42",
+            "short_name" : "SH 42",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Sharma Ward",
+            "short_name" : "Sharma Ward",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Khurai",
+            "short_name" : "Khurai",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Sagar",
+            "short_name" : "Sagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Madhya Pradesh",
+            "short_name" : "MP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "470117",
+            "short_name" : "470117",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eSH 42\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSharma Ward\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKhurai\u003c/span\u003e, \u003cspan class=\"region\"\u003eMadhya Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e470117\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "SH 42, Sharma Ward, Khurai, Madhya Pradesh 470117, India",
+      "formatted_phone_number" : "1800 11 2011",
+      "geometry" : {
+         "location" : {
+            "lat" : 24.045759,
+            "lng" : 78.328486
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "af4d407c05a38ec55f3ffefec666442d7ed70256",
+      "international_phone_number" : "+91 1800 11 2011",
+      "name" : "India Post Office",
+      "place_id" : "ChIJJR9CtLA_eTkRVazLtLzmIYI",
+      "reference" : "CnRlAAAA_1dL2YQw-cLHKM3YmTxY7IUlrDIxvWsK15VyuEKiG2IVwzbP6CsfjvjYk4mCCWMBbZKelvl21VVRvSPLGoXnK2vof4T5HDxIaM8jjtDu33kvtRCEKBFAxA-FWViPwNMjGZoUg-yX6V611ScssNI4UxIQYDjC7ckmk8TR02S8sM-qYhoUD1a5PlqZA4Fk4dwJgPrv6JVZ1NY",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "I'm very well now! Do you know? ",
+            "time" : 1344738072
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "brajendra rajput",
+            "author_url" : "https://plus.google.com/102461945385857831703",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1360093251
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Neeraj Choudhary",
+            "author_url" : "https://plus.google.com/110181695792493518134",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1344923135
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "post_office", "finance", "establishment" ],
+      "url" : "https://plus.google.com/112653516752426655665/about?hl=en-US",
+      "user_ratings_total" : 3,
+      "utc_offset" : 330,
+      "vicinity" : "SH 42, Sharma Ward, Khurai",
+      "website" : "http://www.indiapost.gov.in/"
+   },
+   "status" : "OK"
+}

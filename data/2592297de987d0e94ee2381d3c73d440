@@ -1,0 +1,50 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Patna",
+            "short_name" : "Patna",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "800002",
+            "short_name" : "800002",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Kankarbagh Main Road, \u003cspan class=\"locality\"\u003ePatna\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e800002\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Kankarbagh Main Road, Patna, Bihar 800002, India",
+      "formatted_phone_number" : "093347 54143",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.585665,
+            "lng" : 85.142304
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "ce24c40a6af5e4373ea2c5e060d93c2b99457661",
+      "international_phone_number" : "+91 93347 54143",
+      "name" : "Narayan Batteries",
+      "place_id" : "ChIJux4YKXlY7TkRSW0KtaXaR4g",
+      "reference" : "CnRlAAAAu3Nt-MJ3r-4FU2s338S3O5K0c4wirQpfspQ15IZmC033eMEeks6MXW99eS-cq9JB9LJ4pMZS7L_2ohRKaXf6-TEaXd1L8bEi-rLfy2RSCJJm5dEszebTDquQ8sZ84d7mL03hEuHPIhn5Nesac7K-2RIQHL9wxStj2FHyBzUNjk4DjhoUpK22jupYLFVXQXnTbDlyRzVC8vo",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/115313335007820967200/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Kankarbagh Main Road, Patna"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,134 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "92A",
+            "short_name" : "92A",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Chittaranjan Avenue Road",
+            "short_name" : "Chittaranjan Ave Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bowbazar",
+            "short_name" : "Bowbazar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700012",
+            "short_name" : "700012",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e92A, Chittaranjan Avenue Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBowbazar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700012\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "92A, Chittaranjan Avenue Road, Bowbazar, Kolkata, West Bengal 700012, India",
+      "formatted_phone_number" : "033 2221 9115",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.57151,
+            "lng" : 88.35856099999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "5376d47644087edeaadd21f78697f7cca559c65a",
+      "international_phone_number" : "+91 33 2221 9115",
+      "name" : "Shree Shyam Plywood",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 7:00 pm",
+            "Tuesday: 10:00 am – 7:00 pm",
+            "Wednesday: 10:00 am – 7:00 pm",
+            "Thursday: 10:00 am – 7:00 pm",
+            "Friday: 10:00 am – 7:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJDSbiX7J3AjoRJoiHJzL1_As",
+      "reference" : "CnRmAAAAyVYEKqSXBhp4ZhpcC-X6ommr8hgnooGADLx5Uq7JEsY2B0KkT6qOPHqao0L-kDh9ODi5L64Z4bePiN3VHT6zuPI3f8hWFfovM8olE_yJbTnHtzwJkTsLTzIEjcWciiyYyGjWf59shZ4LTYPXcdC4HBIQd6e5TYUY9t-9AdUpFGUKTRoUAy0DuGFmFOjno7A2m9vFsj8gVxY",
+      "scope" : "GOOGLE",
+      "types" : [ "shopping_mall", "establishment" ],
+      "url" : "https://plus.google.com/110786322580621357168/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "92A, Chittaranjan Avenue Road, Bowbazar, Kolkata"
+   },
+   "status" : "OK"
+}

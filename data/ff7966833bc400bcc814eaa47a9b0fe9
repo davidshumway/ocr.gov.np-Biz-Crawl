@@ -1,0 +1,78 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Newtown",
+            "short_name" : "Newtown",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700102",
+            "short_name" : "700102",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"extended-address\"\u003eNewtown\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700102\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Newtown, West Bengal 700102, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.564636,
+            "lng" : 88.46327100000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "3cb73613932ec9508b602c07108e7053da7187d6",
+      "name" : "Sanjeeva Town Bungalow Complex",
+      "photos" : [
+         {
+            "height" : 458,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/100130463322716541550\"\u003eArnesh Agrawal\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAc3LbUixlu_Fa6s7SxA_aCayXovIPZOoJYOKJXZPWhDKRVElzlQD1zzDCTxQU1WZIoZQrEBaLGxFKX3_JWnWynsFh_bxZH5Hw-57SepyNuo1Jbw35YF-2QZkK5s1eTsbU4cEj2E2iESD8ZVusDcq2iBIQkV83v0NykdCIsyKyzZ0IjhoUWbJMItoMwRMPPApBvOHVhu2aPcU",
+            "width" : 816
+         }
+      ],
+      "place_id" : "ChIJ32jkYN90AjoR7BZAn3acKPM",
+      "reference" : "CoQBcgAAAIifPzEpdEtiTiyNFmkYPqGBqmYIEwhR99bscazWdFlvkTBiyx1zVSBgRBUsCr8ZbM8cLDeqT0icduXpsEl0uArYr9weeMhkjAGXuRUgJMTO6R67P4xpJFl7Zkw1_fJHPbQVdA5DHA4yrzUsc1qpxqyK0PzEwCP8Mc6D5YAaIqqcEhCkP59xZzc_NMFK6bI453wCGhQrlVg032YZCD1dy5gUWrkoS8fiug",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Ankit Prasad",
+            "author_url" : "https://plus.google.com/114841319239541220490",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "I just love this place...  It feels like abroad.. Calm and classy!! ",
+            "time" : 1356906569
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/105638953553297522469/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Newtown"
+   },
+   "status" : "OK"
+}

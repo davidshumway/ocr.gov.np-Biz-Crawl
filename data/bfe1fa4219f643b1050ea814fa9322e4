@@ -1,0 +1,149 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "133/29",
+            "short_name" : "133/29",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Kidwainagar Road",
+            "short_name" : "Kidwainagar Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Block O",
+            "short_name" : "Block O",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Kidwai Nagar",
+            "short_name" : "Kidwai Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208023",
+            "short_name" : "208023",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e133/29, Kidwainagar Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBlock O, Kidwai Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208023\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "133/29, Kidwainagar Road, Block O, Kidwai Nagar, Kanpur, Uttar Pradesh 208023, India",
+      "formatted_phone_number" : "0512 261 3549",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.43742,
+            "lng" : 80.33242799999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "705972bac9c0cbeec5fb4db777a53f68a869f5a4",
+      "international_phone_number" : "+91 512 261 3549",
+      "name" : "Anand Marble",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 am – 8:00 pm",
+            "Tuesday: Closed",
+            "Wednesday: 8:00 am – 8:00 pm",
+            "Thursday: 8:00 am – 8:00 pm",
+            "Friday: 8:00 am – 8:00 pm",
+            "Saturday: 8:00 am – 8:00 pm",
+            "Sunday: 8:00 am – 8:00 pm"
+         ]
+      },
+      "place_id" : "ChIJ571kmoJHnDkR7i-fCCxUVkI",
+      "reference" : "CmRfAAAA4o3Q6cc1aO593MBWH1eUre6ZueTKpWU816letKZ5i8UPtKibuylU-J-JUFh-woE-fwyE5kVslXhsT14FJ3GXX9WLjmbQaoSHlQMDWOT0LBlpAcmG7gL17ijL3huCbc9jEhB4WcnNwLJnivPBlrnk8THtGhRdhAp0Ad4s6f5b8abQWGRsFWedfw",
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/107870798244711223570/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "133/29, Kidwainagar Road, Block O, Kidwai Nagar, Kanpur"
+   },
+   "status" : "OK"
+}

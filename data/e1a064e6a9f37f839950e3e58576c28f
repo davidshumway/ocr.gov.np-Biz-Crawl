@@ -1,0 +1,152 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "2-B",
+            "short_name" : "2-B",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Gyan Prakash Road",
+            "short_name" : "Gyan Prakash Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Near SBI",
+            "short_name" : "Near SBI",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Industrial Area",
+            "short_name" : "Industrial Area",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Dada Nagar",
+            "short_name" : "Dada Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208022",
+            "short_name" : "208022",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e2-B, Gyan Prakash Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNear SBI, Industrial Area, Dada Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208022\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "2-B, Gyan Prakash Road, Near SBI, Industrial Area, Dada Nagar, Kanpur, Uttar Pradesh 208022, India",
+      "formatted_phone_number" : "096286 66601",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.454545,
+            "lng" : 80.282415
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "98014bb0b02130c43f3cb39969dce4ec939d7eea",
+      "international_phone_number" : "+91 96286 66601",
+      "name" : "Laxmi Impex",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJWx0SX_tHnDkR-_rYygsvYq0",
+      "reference" : "CmRfAAAAsunT5JbzmTwoUIZAnRLa3x2FRU-HRAUtOMbk_JWixi035jngcox-PHm_lH--KIgLCBk2jTvQAGPfuyKN4Xc-zP7NvP5tdEQt42WafWre4U7LODsi7nClqkhK0H2NegxgEhDr2kbrxvfhakucueJvmBzxGhQ4BkLN03KbRfo3EksAMfY0naG4CQ",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/117105247670663928600/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "2-B, Gyan Prakash Road, Near SBI, Industrial Area, Dada Nagar, Kanpur"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,65 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "State Highway 1",
+            "short_name" : "SH 1",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Alipore",
+            "short_name" : "Alipore",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700023",
+            "short_name" : "700023",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eSH 1\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eAlipore\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700023\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "SH 1, Alipore, Kolkata, West Bengal 700023, India",
+      "formatted_phone_number" : "033 2281 5546",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.540672,
+            "lng" : 88.334596
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "0094b694aecdae519e33c2ac82f0798669bbe721",
+      "international_phone_number" : "+91 33 2281 5546",
+      "name" : "Silicon Safepack Private Limited",
+      "place_id" : "ChIJZROr8xd3AjoR6tVrrcMKMrs",
+      "reference" : "CoQBdAAAAFk1tMWL69pXuCC5U3BW_Kdk1cZGXiOECvirWBhQzVsRC59RvQuiTdK-J4zqd6d_bTEHxzntzAkfmFjYKK-0sW7MDoHe1ybhO3quhyZnx31CQGNECfIrF_opUXCOl7-AcKRcEGtqhmcZRb9ONZDoLG9Cz14AnbYU_D9iSryoVSV2EhBWSOvRexCN_S1oUxKA4GD4GhTt5RyEcbX5EedLdN3SXGCwyPmmkQ",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "establishment" ],
+      "url" : "https://plus.google.com/108121025746708195401/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "SH 1, Alipore, Kolkata"
+   },
+   "status" : "OK"
+}

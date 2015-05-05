@@ -1,0 +1,130 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Guna",
+            "short_name" : "Guna",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Madhya Pradesh",
+            "short_name" : "MP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "473001",
+            "short_name" : "473001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "A.B.Road, \u003cspan class=\"street-address\"\u003e1st Floor, 975/6 &amp; 975/3, Above Sarita Decorar, Near State Bank of Indore\u003c/span\u003e, \u003cspan class=\"locality\"\u003eGuna\u003c/span\u003e, \u003cspan class=\"region\"\u003eMadhya Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e473001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "A.B.Road, 1st Floor, 975/6 & 975/3, Above Sarita Decorar, Near State Bank of Indore, Guna, Madhya Pradesh 473001, India",
+      "formatted_phone_number" : "075424 01582",
+      "geometry" : {
+         "location" : {
+            "lat" : 24.65,
+            "lng" : 77.31999999999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "6eedc459d6b55d29f9544aeb0ad68f21e135fcb7",
+      "international_phone_number" : "+91 75424 01582",
+      "name" : "HDFC Life",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 6:00 pm",
+            "Tuesday: 9:00 am – 6:00 pm",
+            "Wednesday: 9:00 am – 6:00 pm",
+            "Thursday: 9:00 am – 6:00 pm",
+            "Friday: 9:00 am – 6:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJW0Bn14pbejkRhU2yx3jhDSo",
+      "reference" : "CmRcAAAAwU3L0HRrZwo_AQ9X-SUNOPE4eaNTdgsVo1H8W5hxWKXH-s4-sbxpXdbiCWx9-d06K3tvy_ErEJGJBOGAfmzLyR4iGxfH7XdjyJIAjJUTtiX-cWPbdW3hVDzrOS_sh4LEEhBaMasI-c0NVs1UhRyKzGq8GhTQcPdsSBM2pcVdwHeZ5el_Hyv9pA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Mukesh Pushpad",
+            "author_url" : "https://plus.google.com/105248035109788433969",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "Devraj",
+            "time" : 1420906662
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "insurance_agency", "finance", "establishment" ],
+      "url" : "https://plus.google.com/113970513212260212678/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "A.B.Road, 1st Floor, 975/6 & 975/3, Above Sarita Decorar, Near State Bank of Indore, Guna",
+      "website" : "http://www.hdfclife.com/"
+   },
+   "status" : "OK"
+}

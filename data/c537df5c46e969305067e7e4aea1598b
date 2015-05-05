@@ -1,0 +1,142 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "13B",
+            "short_name" : "13B",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "Nirmal Chandra Street",
+            "short_name" : "Nirmal Chandra Street",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bowbazar",
+            "short_name" : "Bowbazar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700012",
+            "short_name" : "700012",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "13B, \u003cspan class=\"street-address\"\u003eNirmal Chandra Street\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBowbazar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700012\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "13B, Nirmal Chandra Street, Bowbazar, Kolkata, West Bengal 700012, India",
+      "formatted_phone_number" : "098310 80438",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.567708,
+            "lng" : 88.36007600000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "546934be105b5012e2c2e8d073be3ede15bcd292",
+      "international_phone_number" : "+91 98310 80438",
+      "name" : "Sree Gopal Iron Works",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 7:00 pm",
+            "Tuesday: 10:00 am – 7:00 pm",
+            "Wednesday: 10:00 am – 7:00 pm",
+            "Thursday: Closed",
+            "Friday: 10:00 am – 7:00 pm",
+            "Saturday: 10:00 am – 7:00 pm",
+            "Sunday: 10:00 am – 7:00 pm"
+         ]
+      },
+      "place_id" : "ChIJKcJBpKt3AjoRX_2jdytJTas",
+      "reference" : "CnRpAAAAE_1kaH8p2aUhc0qchxZGv_EJ4yd6GsNr10gZDSnMxAqNeG5iB-ofSYZixbDuLYCcbffFlfNdVeR_t_XMqY97KuwNVu9Grexv99p0GwjkNa2X4ciPK-FsYHTIt8CHL487MTgIh8Mn2tKUd3uRSNeyiBIQgRcDmOhFnNre4HHHdgP3cxoU8ncatzIaNPmDXrQZArzyV-Tjvw4",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "general_contractor", "establishment" ],
+      "url" : "https://plus.google.com/102829131544587264644/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "13B, Nirmal Chandra Street, Bowbazar, Kolkata"
+   },
+   "status" : "OK"
+}

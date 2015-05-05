@@ -1,0 +1,120 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Major District Road 138E",
+            "short_name" : "MDR138E",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Faridabad",
+            "short_name" : "Faridabad",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kaushambi",
+            "short_name" : "Kaushambi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "212216",
+            "short_name" : "212216",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eMajor District Road 138E\u003c/span\u003e, \u003cspan class=\"locality\"\u003eFaridabad\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e212216\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Major District Road 138E, Faridabad, Uttar Pradesh 212216, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.38041,
+            "lng" : 81.52667599999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "24f40ca2edada15b03456612c3984367c96b729e",
+      "name" : "Power House",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 4:00 pm",
+            "Tuesday: 10:00 am – 4:00 pm",
+            "Wednesday: 10:00 am – 4:00 pm",
+            "Thursday: 10:00 am – 4:00 pm",
+            "Friday: 10:00 am – 4:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJka7vfYUqhTkRk1yqIX0PJYE",
+      "reference" : "CmRfAAAA29gMrW6OQyuaAeeTsBzh_4J92cI7avffqaq_Ye8svgBMVuI1bGWKoX4jmrGMProwoG5k4BCNhf-R8hGRX8P0dZNbWErDZQZEFO4jcYW9eppXbrcUd48yITkpXBDYzzxcEhBcAqAOVQsvGS-jeMKX_2HKGhRG0ZUgv_9XYY8jVYNyTC64nhw-SA",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/118373400836396412569/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Major District Road 138E, Faridabad"
+   },
+   "status" : "OK"
+}

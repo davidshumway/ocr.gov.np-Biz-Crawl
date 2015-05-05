@@ -1,0 +1,50 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700006",
+            "short_name" : "700006",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "123/1, A P C Road, Sovabazar, \u003cspan class=\"street-address\"\u003eSovabazar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700006\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "123/1, A P C Road, Sovabazar, Sovabazar, Kolkata, West Bengal 700006, India",
+      "formatted_phone_number" : "033 2350 6473",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.595164,
+            "lng" : 88.361571
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "1512f79ced4a7b61b223dcebf2dd209a38eb0cdd",
+      "international_phone_number" : "+91 33 2350 6473",
+      "name" : "G H Kumar & Sons",
+      "place_id" : "ChIJAb9FeEZ2AjoRHvF085rZhdw",
+      "reference" : "CnRkAAAAc2KvHfPr5iO3p-brqjNTCHyiY2b_87ba_xgHM-bve81s43V9xvLKplvyMn7LhSiP4JaM3aUmWom29S9ZACBGN1jMEU0JBfMHwvbGm4VZdVRweG06v7sKtYDnwPtjooo7L3eCxaeDy4ikyJ_RHsbkUxIQSU0H2wdIG_6DASsCr85YDBoU80RuPtGIUEEDm9boGJjYsuzAmKw",
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/114251876812276295335/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "123/1, A P C Road, Sovabazar, Sovabazar, Kolkata"
+   },
+   "status" : "OK"
+}

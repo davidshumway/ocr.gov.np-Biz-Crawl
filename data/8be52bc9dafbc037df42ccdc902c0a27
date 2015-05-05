@@ -1,0 +1,152 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "56, 57",
+            "short_name" : "56, 57",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "Mall Rd",
+            "short_name" : "Mall Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Marry Company Bridge Market",
+            "short_name" : "Marry Company Bridge Market",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Sadr Bazar",
+            "short_name" : "Sadr Bazar",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Mirpur",
+            "short_name" : "Mirpur",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208001",
+            "short_name" : "208001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "56, 57, \u003cspan class=\"street-address\"\u003eMall Rd\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eMarry Company Bridge Market, Sadr Bazar, Mirpur\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "56, 57, Mall Rd, Marry Company Bridge Market, Sadr Bazar, Mirpur, Kanpur, Uttar Pradesh 208001, India",
+      "formatted_phone_number" : "094151 34126",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.457996,
+            "lng" : 80.361002
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "f98154ef426f2ac6997b845a3bf827bd01554c20",
+      "international_phone_number" : "+91 94151 34126",
+      "name" : "Bansal Auto Spare",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ25oJ8E1HnDkRp9E2O1cZowc",
+      "reference" : "CnRkAAAADwIxhG1jv4bWpn3TVKR8bxRVV0gdL9va5lN6SDNdCiSsfKX94Z4hnLBNEY60RUDNNdTYKJI_WRRgLJhAVcPdowkB54AuUK2b930W3J5cyVeaK3S_KkEeODUd6mjONCxBVo-WlT6JthFI1XABVODwLBIQ2_ZGlyBc6hy26qyMO-R10BoUAfuVfBbPsovuG5iDGunqypGWFNQ",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/114053829333170008295/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "56, 57, Mall Rd, Marry Company Bridge Market, Sadr Bazar, Mirpur, Kanpur"
+   },
+   "status" : "OK"
+}

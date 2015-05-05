@@ -1,0 +1,137 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Humayunpur Rd, Main Road",
+            "short_name" : "Humayunpur Rd, Main Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Suhag Nagar",
+            "short_name" : "Suhag Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Firozabad",
+            "short_name" : "Firozabad",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Firozabad",
+            "short_name" : "Firozabad",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "283203",
+            "short_name" : "283203",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eHumayunpur Rd, Main Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSuhag Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eFirozabad\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e283203\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Humayunpur Rd, Main Road, Suhag Nagar, Firozabad, Uttar Pradesh 283203, India",
+      "formatted_phone_number" : "099975 91240",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.157578,
+            "lng" : 78.37809900000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "99c1ff65a7fbdef3afccc8b920972d49cc918700",
+      "international_phone_number" : "+91 99975 91240",
+      "name" : "Ajay Cycle Store",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: Closed",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: 10:00 am – 8:00 pm"
+         ]
+      },
+      "place_id" : "ChIJ363BDlZBdDkRuhmgP_vdiyo",
+      "reference" : "CnRjAAAAeaXOG6qNYBBRWheWwmJXFesOYG6M9hQP9kLDKExn_MKzrKXT3Xr71apWSZIZPFUB84lbexk-07kLksEE-_2ezUAJraoxLclrx_WF_sZiXMPdwn-1I0ZAr3jRU_JRBi5HMN4Wcn7jdMs06Rum7G3YGRIQl2jo60l8XWFYJVub60R7QxoUM1RxH-T_Tba1XFop3zFZKewGgHs",
+      "scope" : "GOOGLE",
+      "types" : [ "bicycle_store", "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/107588995804599951736/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Humayunpur Rd, Main Road, Suhag Nagar, Firozabad"
+   },
+   "status" : "OK"
+}

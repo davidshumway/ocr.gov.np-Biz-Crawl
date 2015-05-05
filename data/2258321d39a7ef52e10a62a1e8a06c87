@@ -1,0 +1,92 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Hartali Mode",
+            "short_name" : "Hartali Mode",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Bailey Road",
+            "short_name" : "Bailey Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Patna",
+            "short_name" : "Patna",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Patna",
+            "short_name" : "Patna",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Bihar",
+            "short_name" : "BR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "800001",
+            "short_name" : "800001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eHartali Mode, Bailey Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003ePatna\u003c/span\u003e, \u003cspan class=\"region\"\u003eBihar\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e800001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Hartali Mode, Bailey Road, Patna, Bihar 800001, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 25.608592,
+            "lng" : 85.118436
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "cccd50bfecad2d8f84f83102d222263fcdca94b7",
+      "name" : "60 Officers Flat",
+      "place_id" : "ChIJm0mp5DxY7TkRIAyWkXIStKE",
+      "reference" : "CnRkAAAAMSiEkuD-g5088AFlH0rLtccYe_f9-1CurgnsfLFuqO1BY0SvW2wY88I10yisbQtzbcRrEdAaMN2XT4cjdOlmf3QudtLkjalCDHd9gT-NjlDMXKLVOzb3Svz1YSo8f9paYko3E8q-4DPTijW-2YNfiBIQIk1QecdQG3exePoLuMq05RoUPMWSOtGVTcr8dP_pyXdC2LQ1Xeg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Chandrashekhar Prasad",
+            "author_url" : "https://plus.google.com/114832878697559355489",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "\n\n",
+            "time" : 1421888049
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Nikhil Kumar",
+            "author_url" : "https://plus.google.com/100085960134390304377",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1402721001
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/110524922361504806906/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "Hartali Mode, Bailey Road, Patna"
+   },
+   "status" : "OK"
+}

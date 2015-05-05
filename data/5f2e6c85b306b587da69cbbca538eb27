@@ -1,0 +1,145 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Hamirpur Road",
+            "short_name" : "Hamirpur Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Thana Naubasta",
+            "short_name" : "Thana Naubasta",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Juhi Kalan",
+            "short_name" : "Juhi Kalan",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Naubasta",
+            "short_name" : "Naubasta",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur",
+            "short_name" : "Kanpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kanpur Nagar",
+            "short_name" : "Kanpur Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "208004",
+            "short_name" : "208004",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eHamirpur Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eThana Naubasta, Juhi Kalan, Naubasta\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKanpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e208004\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Hamirpur Road, Thana Naubasta, Juhi Kalan, Naubasta, Kanpur, Uttar Pradesh 208004, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.420676,
+            "lng" : 80.319176
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "9c8ac136cc22a09fe7fc6421f0114c73d602665b",
+      "name" : "Sanitary House",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 10:00 pm",
+            "Tuesday: Closed",
+            "Wednesday: 9:00 am – 10:00 pm",
+            "Thursday: 9:00 am – 10:00 pm",
+            "Friday: 9:00 am – 10:00 pm",
+            "Saturday: 9:00 am – 10:00 pm",
+            "Sunday: 9:00 am – 10:00 pm"
+         ]
+      },
+      "place_id" : "ChIJ7QNoLVVGnDkRJJ4iN36Orbo",
+      "reference" : "CnRiAAAAYI5brzrjzXyr-PErdH5NqaxHikyusyEMkx92gNJy7hNeBaXUfxqx-j8Uy5_Ol-eS4b7M5GxxDNfTrpEjLtqcFgjhM51J2fIVLuOG0rLCxay_dloLfEQdmwOKXk4vWI30yWpn6eMuiUK_ajySMbFQcRIQg_qmT1iKuMURZLkut2PpuRoUWj5zdYdrH-E6lMSDQ5M7m61Rb4M",
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/110901714496867710320/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Hamirpur Road, Thana Naubasta, Juhi Kalan, Naubasta, Kanpur"
+   },
+   "status" : "OK"
+}
