@@ -1,0 +1,60 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Khotang",
+               "short_name" : "Khotang",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Khotang, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.5181675,
+                  "lng" : 86.95103659999999
+               },
+               "southwest" : {
+                  "lat" : 26.8710138,
+                  "lng" : 86.42300609999999
+               }
+            },
+            "location" : {
+               "lat" : 27.2317177,
+               "lng" : 86.8220341
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.5181675,
+                  "lng" : 86.95103659999999
+               },
+               "southwest" : {
+                  "lat" : 26.8710138,
+                  "lng" : 86.42300609999999
+               }
+            }
+         },
+         "place_id" : "ChIJDeEQQ7sz6TkRt2Oaf9PbAfk",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

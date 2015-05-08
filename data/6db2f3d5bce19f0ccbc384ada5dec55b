@@ -1,0 +1,67 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "New Delhi",
+            "short_name" : "New Delhi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Delhi",
+            "short_name" : "DL",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "110005",
+            "short_name" : "110005",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "12-a/1, Wea, Karol Bagh, \u003cspan class=\"street-address\"\u003eKarol Bagh\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew Delhi\u003c/span\u003e, \u003cspan class=\"region\"\u003eDelhi\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e110005\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "12-a/1, Wea, Karol Bagh, Karol Bagh, New Delhi, Delhi 110005, India",
+      "formatted_phone_number" : "011 2573 7881",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.643957,
+            "lng" : 77.188525
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "6fcbe4cfdf22167d3361e6b89213512631dd5dcb",
+      "international_phone_number" : "+91 11 2573 7881",
+      "name" : "Rajendra Electronics",
+      "place_id" : "ChIJCbfAqZ4CDTkR47KHdHu6tXI",
+      "reference" : "CnRnAAAAy5Eec4dw9RnfFjO3gNkSxvg0Ek7imvI2Fs5seA_NcuSucbFkybQK5qXUzU9GNlawhrfURxiYy5rfOXDiusp7tFoDL4ShFfuUUnBKuUS8dhdmeuife5NpA03hd3NflTIOyaNfG4RT1pzeIhq2M4EFTRIQ_XtlkuInNd1zX4sXVHTAJxoUKH2sbw2usaEmH-c68e7pt8t5Ixs",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Angad Batra",
+            "author_url" : "https://plus.google.com/113875163306927506050",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1420441636
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/117448548189144756265/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "12-a/1, Wea, Karol Bagh, Karol Bagh, New Delhi"
+   },
+   "status" : "OK"
+}

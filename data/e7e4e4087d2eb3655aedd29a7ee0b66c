@@ -1,0 +1,159 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "B-27",
+            "short_name" : "B-27",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Main Road",
+            "short_name" : "Main Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Saket",
+            "short_name" : "Saket",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Meerut",
+            "short_name" : "Meerut",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Meerut",
+            "short_name" : "Meerut",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "250003",
+            "short_name" : "250003",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eB-27, Main Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSaket\u003c/span\u003e, \u003cspan class=\"locality\"\u003eMeerut\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e250003\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "B-27, Main Road, Saket, Meerut, Uttar Pradesh 250003, India",
+      "formatted_phone_number" : "098977 76669",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.989077,
+            "lng" : 77.72534
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "720c8979afbab8b5f3c61fe289e100e339746670",
+      "international_phone_number" : "+91 98977 76669",
+      "name" : "The Wall Creations",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: 10:00 am – 8:00 pm"
+         ]
+      },
+      "place_id" : "ChIJi0D2_t5kDDkRjeIS5CU961s",
+      "reference" : "CnRlAAAA51jRbVemRGaXVgpvi_EwOSPD9YwCGndt78B6XczGOcZSeqARGmd1l_2uEOG-nI350BBlfyPZgdLQVdGHU718UsEmM930aAc4EZ-XVCb1GiqLl11uLraKu8SlRE_5okCubpBrfpjKWkgRXMYoUx2RLBIQDoXRuVocyLNACyAuQBX5JBoUCywEnaqNjkgTrsCe19RNicDMysw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Chandan Narang",
+            "author_url" : "https://plus.google.com/105450785647187979178",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Ultimate atmosphere nd service :)",
+            "time" : 1405680127
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/102884891812906140033/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "B-27, Main Road, Saket, Meerut"
+   },
+   "status" : "OK"
+}

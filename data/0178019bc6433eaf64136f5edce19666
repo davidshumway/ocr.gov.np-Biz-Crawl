@@ -1,0 +1,139 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Gandhi Road",
+            "short_name" : "Gandhi Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Paltan Bazaar",
+            "short_name" : "Paltan Bazaar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Dehradun",
+            "short_name" : "Dehradun",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Dehradun",
+            "short_name" : "Dehradun",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttarakhand",
+            "short_name" : "UK",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "248001",
+            "short_name" : "248001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "63 - Gandhi Road, \u003cspan class=\"street-address\"\u003eGandhi Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003ePaltan Bazaar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eDehradun\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttarakhand\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e248001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "63 - Gandhi Road, Gandhi Road, Paltan Bazaar, Dehradun, Uttarakhand 248001, India",
+      "formatted_phone_number" : "0135 262 5458",
+      "geometry" : {
+         "location" : {
+            "lat" : 30.315972,
+            "lng" : 78.036365
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "3848e1f158fdf19eae1e74152c3aff43f88ec758",
+      "international_phone_number" : "+91 135 262 5458",
+      "name" : "General Motors",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJbV78E5UpCTkRGu6krGmAe-I",
+      "reference" : "CnRiAAAACUaNH0Ut7oYhRo3_Gh6fIlFF5k1Q9rGlSG6iWVcFSjdYRKGvBy4lkoFtSVpLLB9YM0UgrRdyd8EZEdQJHtvOnpWKTQBI5S42zJyTsALPfbbANYJibkxkEiPBMGkW-2Mt_mzPnnBmc9x-LHg_0KpHAxIQGyvJXzPiOUjNA4agso-n3RoUSLdvcWNQNYQZ6TlwOCKTAOenrhc",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/112335883076555986599/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "63 - Gandhi Road, Gandhi Road, Paltan Bazaar, Dehradun"
+   },
+   "status" : "OK"
+}

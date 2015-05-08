@@ -1,0 +1,141 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Saharanpur Road",
+            "short_name" : "Saharanpur Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Transport Nagar",
+            "short_name" : "Transport Nagar",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Subhash Nagar",
+            "short_name" : "Subhash Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Dehradun",
+            "short_name" : "Dehradun",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttarakhand",
+            "short_name" : "UK",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "248001",
+            "short_name" : "248001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eSaharanpur Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eTransport Nagar, Subhash Nagar\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttarakhand\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e248001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Saharanpur Road, Transport Nagar, Subhash Nagar, Uttarakhand 248001, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 30.278986,
+            "lng" : 77.99056400000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "c2eee8c059b6d85e76f05e133319e33472fe4b4f",
+      "name" : "Rajai Gadda Store",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJh8Vc57srCTkRnBeQuWUSWOA",
+      "reference" : "CnRlAAAAMplLwwyRbMdk2mMoIQg41Y_ZCJaySW86wue3Gkhh6Zc1YTtbFEgO1_gpn4fA-FQJcfapcS0k8FXzVpWf9CFk1kieVc_LirO1Y8OrlC4V2jfbyULV9-N2eJU4mVmWkYEzOONp-vVk97UHpkv8bKYNARIQoQlt42udoKEY-RsqW3zvCBoUW1riaSvsX18Zk_VNxunAcTcrCVA",
+      "scope" : "GOOGLE",
+      "types" : [
+         "furniture_store",
+         "general_contractor",
+         "home_goods_store",
+         "store",
+         "establishment"
+      ],
+      "url" : "https://plus.google.com/110592065798817684283/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Saharanpur Road, Transport Nagar, Subhash Nagar"
+   },
+   "status" : "OK"
+}

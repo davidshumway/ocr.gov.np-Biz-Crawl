@@ -1,0 +1,60 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nawalparasi",
+               "short_name" : "Nawalparasi",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lumbini",
+               "short_name" : "Lumbini",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nawalparasi, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.8686717,
+                  "lng" : 84.4264984
+               },
+               "southwest" : {
+                  "lat" : 27.353244,
+                  "lng" : 83.49143389999999
+               }
+            },
+            "location" : {
+               "lat" : 27.6498409,
+               "lng" : 83.88970569999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.8686717,
+                  "lng" : 84.4264984
+               },
+               "southwest" : {
+                  "lat" : 27.353244,
+                  "lng" : 83.49143389999999
+               }
+            }
+         },
+         "place_id" : "ChIJVyvR260ilDkRuawfd5nLy24",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

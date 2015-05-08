@@ -1,0 +1,174 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Rasalganj Road",
+            "short_name" : "Rasalganj Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Sarai Babu",
+            "short_name" : "Sarai Babu",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Aligarh",
+            "short_name" : "Aligarh",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Aligarh",
+            "short_name" : "Aligarh",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "202001",
+            "short_name" : "202001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eRasalganj Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSarai Babu\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAligarh\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e202001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Rasalganj Road, Sarai Babu, Aligarh, Uttar Pradesh 202001, India",
+      "formatted_phone_number" : "092588 92193",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.88827,
+            "lng" : 78.06949400000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "a5d928f1a9bba424bac9601a94211a0e4a4e66c7",
+      "international_phone_number" : "+91 92588 92193",
+      "name" : "Agarwal Traders",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1100"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 11:00 am – 8:00 pm",
+            "Tuesday: Closed",
+            "Wednesday: 11:00 am – 8:00 pm",
+            "Thursday: 11:00 am – 8:00 pm",
+            "Friday: 11:00 am – 8:00 pm",
+            "Saturday: 11:00 am – 8:00 pm",
+            "Sunday: 11:00 am – 8:00 pm"
+         ]
+      },
+      "place_id" : "ChIJQwAcPomkdDkRCjV39uenSF8",
+      "reference" : "CnRiAAAAfrU49c2367nb_EPkC_2I_6yvWiu-8b3KpyTzeiEHjpPlSNzV9J7iGpGA0hdBWudvFfLBAulz5PwLayIK-Xv_scKY_lBxzPt469tQg9yb73D7OIuaP2JZjodG_nDb_bVxoZQouHc0UQuPYI09VXp_QxIQPOiTD8xnhQbeh-CGt69v7RoUfODzWVPA6-756GgVU-8eFQSNxys",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Ankit Agarwal",
+            "author_url" : "https://plus.google.com/104091559049160662319",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "Good experience",
+            "time" : 1406049928
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Gaurav Pratap Singh",
+            "author_url" : "https://plus.google.com/101167627708823324109",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Nice",
+            "time" : 1427213281
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [
+         "furniture_store",
+         "general_contractor",
+         "home_goods_store",
+         "store",
+         "establishment"
+      ],
+      "url" : "https://plus.google.com/104318396408058493274/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "Rasalganj Road, Sarai Babu, Aligarh"
+   },
+   "status" : "OK"
+}

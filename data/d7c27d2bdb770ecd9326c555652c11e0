@@ -1,0 +1,152 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Harola",
+            "short_name" : "Harola",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Sector 5",
+            "short_name" : "Sector 5",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Noida",
+            "short_name" : "Noida",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Gautam Buddh Nagar",
+            "short_name" : "Gautam Buddh Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "201301",
+            "short_name" : "201301",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"extended-address\"\u003eHarola, Sector 5\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNoida\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e201301\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Harola, Sector 5, Noida, Uttar Pradesh 201301, India",
+      "formatted_phone_number" : "099535 24246",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.587902,
+            "lng" : 77.318629
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "e0e43d9fa3ee3a1f9760fe658ce7ee442be1bcc1",
+      "international_phone_number" : "+91 99535 24246",
+      "name" : "cctv camra noida",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 5:00 pm",
+            "Tuesday: 9:00 am – 5:00 pm",
+            "Wednesday: 9:00 am – 5:00 pm",
+            "Thursday: 9:00 am – 5:00 pm",
+            "Friday: 9:00 am – 5:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJVVVVxffkDDkRaSFcB_lN0-s",
+      "reference" : "CnRkAAAAgMkEwnC4FpYiYVNuN5KHT4GejZCuAOCsyBsKAQ3uuxlOMEAOwDYncqZpXQrRzEkdQHnH1Rgsi6CXGEnKsjIVWK5iXUyf0adlM57qG5vX_7LIHa79O8HPAVjoMaCHlPs1smOjo5oICy15exZVV2dYtRIQsPT_l9IH1B3BkKk_IKreBhoUAV1OVwuuQwCjZnPd6j2vs0Sm5KA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 2,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Milvahanam Pragash",
+            "author_url" : "https://plus.google.com/118444613608859012725",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1394331420
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "electrician", "establishment" ],
+      "url" : "https://plus.google.com/107283369621455769961/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Harola, Sector 5, Noida"
+   },
+   "status" : "OK"
+}

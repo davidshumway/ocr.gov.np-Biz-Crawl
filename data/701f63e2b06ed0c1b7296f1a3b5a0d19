@@ -1,0 +1,79 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "New Delhi",
+            "short_name" : "New Delhi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Delhi",
+            "short_name" : "DL",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "110088",
+            "short_name" : "110088",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "118 A, Pitampura, \u003cspan class=\"locality\"\u003eNew Delhi\u003c/span\u003e, \u003cspan class=\"region\"\u003eDelhi\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e110088\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "118 A, Pitampura, New Delhi, Delhi 110088, India",
+      "formatted_phone_number" : "011 2731 4892",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.689639,
+            "lng" : 77.131259
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "fa4b5fc50cef8242972a5db2f4af0c060e5cf136",
+      "international_phone_number" : "+91 11 2731 4892",
+      "name" : "Krish Global",
+      "place_id" : "ChIJVVVVVcEDDTkR-nu5QOJL25w",
+      "reference" : "CmRgAAAAcIUbECJgW8yhB02wAoTbINwWEXq4qh4QjkEkH1dZbMdAWiuMGyJ4VuoTOOdVhWh4YROL8KBdw2eBGev1u5hjJFg6hhx-Eosce7kCEjHaysVpcrCJHQjr8Kw8pPeOAz5lEhB3VhxcS4BnppnwtJRNxJubGhRZ_e_vCzxNzXA8Mo37P3Z9sLow9A",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 3,
+            "text" : " \"in my office my boss wants a copy all the mails(send or receive) through my office ip address.\" the copy should go to a particular mail id. what ever is the mail server (yahoomail,gmail or rediff). is it possible to get users personal mail , if he use my office ip adress. then plz guide me.........................",
+            "time" : 1215643023
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "NEERAJ VERMA",
+            "author_url" : "https://plus.google.com/101904745450108232798",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1417192504
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/111165766735498916773/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "118 A, Pitampura, New Delhi",
+      "website" : "http://www.indiamart.com/krishglobal/"
+   },
+   "status" : "OK"
+}

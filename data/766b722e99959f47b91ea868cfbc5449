@@ -1,0 +1,125 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Post Office Road",
+            "short_name" : "Post Office Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Subhash Nagar",
+            "short_name" : "Subhash Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Dehradun",
+            "short_name" : "Dehradun",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Dehradun",
+            "short_name" : "Dehradun",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttarakhand",
+            "short_name" : "UK",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "248002",
+            "short_name" : "248002",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003ePost Office Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSubhash Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eDehradun\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttarakhand\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e248002\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Post Office Road, Subhash Nagar, Dehradun, Uttarakhand 248002, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 30.27213,
+            "lng" : 77.99423
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "03ab581b380e5e2cd7c97351d492d55a82a3d8eb",
+      "name" : "Haru Auto Repair",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0930"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:30 am – 9:00 pm",
+            "Tuesday: 9:30 am – 9:00 pm",
+            "Wednesday: 9:30 am – 9:00 pm",
+            "Thursday: 9:30 am – 9:00 pm",
+            "Friday: 9:30 am – 9:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJLVjafZUrCTkRN0Fn1cDJBWM",
+      "reference" : "CnRjAAAAtX6CBrGx9GqRYssd6dVJ_cHdouH3LFVaP5Mab0sVHE--lh0HpaEz29donXhR2_t_GhUunQIB6YwOFkHX9JDS_n7hS-_eTZqpYsu0Brpd5KpXjrftI_gmFLfkY4L2jc41dkOQMFvHpmEvOGKLqkPMrBIQUdFAqZbPi5XiwT_Gv7EvDxoUytqNAkH_Nrvxm4--Fs66T-hUinw",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/112129373273294123162/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Post Office Road, Subhash Nagar, Dehradun"
+   },
+   "status" : "OK"
+}

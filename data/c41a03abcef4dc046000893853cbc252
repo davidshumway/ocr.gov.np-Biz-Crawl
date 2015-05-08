@@ -1,0 +1,46 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Shaanxi East Road",
+            "short_name" : "Shaanxi E Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Gar",
+            "short_name" : "Gar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Tibet",
+            "short_name" : "Tibet",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "China",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eShaanxi East Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eGar\u003c/span\u003e, \u003cspan class=\"region\"\u003eTibet\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eChina\u003c/span\u003e",
+      "formatted_address" : "Shaanxi East Road, Gar, Tibet, China",
+      "geometry" : {
+         "location" : {
+            "lat" : 32.509512,
+            "lng" : 80.117217
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "440296f1f1576f634670eb3c88e7800059809a05",
+      "name" : "Dongcheng Car Washing",
+      "place_id" : "ChIJjwmnKR54qTkRsrZMkJ4ax-s",
+      "reference" : "CnRpAAAAOpSchD3Pybe1CjELDyK_pkzoQMD8tCAsn7gTpV2H3oukcxzjJfCWNt-QHZ9T7QjgHS_l834lBoabscUQlR44Jbcd-4dCu-uS24ugSnZY9RfqK5bd3OIEHtCIH3MJ2ERDvQe-w_xPNahCTLBfnhyhPhIQ6QIthqlTE1KTnxQYS-pcRRoU4Z8lX4b2FHhtxOi7PILnzOA0dFQ",
+      "scope" : "GOOGLE",
+      "types" : [ "car_wash", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/108395012294361656110/about?hl=en-US",
+      "utc_offset" : 480,
+      "vicinity" : "Shaanxi East Road, Gar"
+   },
+   "status" : "OK"
+}

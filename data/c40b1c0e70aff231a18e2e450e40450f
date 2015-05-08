@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pokhara",
+               "short_name" : "Pokhara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gandaki",
+               "short_name" : "Gandaki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pokhara, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.3284088,
+                  "lng" : 84.05725480000001
+               },
+               "southwest" : {
+                  "lat" : 28.131036,
+                  "lng" : 83.8559818
+               }
+            },
+            "location" : {
+               "lat" : 28.263889,
+               "lng" : 83.972222
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.3284088,
+                  "lng" : 84.05725480000001
+               },
+               "southwest" : {
+                  "lat" : 28.131036,
+                  "lng" : 83.8559818
+               }
+            }
+         },
+         "place_id" : "ChIJ_3YDv3uTlTkRZCGAJTuCz_Y",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

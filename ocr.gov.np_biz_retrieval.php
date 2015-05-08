@@ -33,7 +33,13 @@ if (isset($argv[1])) {
 			}
 		}
 	}
-	new regions($argv[1], $key1, $key2, $key3);
+	// Add anything else
+	$assoc = array();
+	foreach ($argv as $key=>$value) {
+		$assoc[ $value ] = true;
+	}
+	// New
+	new regions($argv[1], $key1, $key2, $key3, $assoc);
 }
 
 /**
@@ -55,6 +61,8 @@ class regions {
 	
 	private $gn_key; // Geonames key
 	
+	private $instructions; // Geonames key
+	
 	private $translations_array = array(); // Translations associative array.
 	
 	private $locations_array = array(); // All locations associative array.
@@ -65,11 +73,17 @@ class regions {
 	
 	private $categories; // Categories object
 	
+	private $arr_bad_str = array( // Array bad strings
+		'This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console', // google
+		'You have exceeded your daily request quota for this API.', // google
+		'"message":"ERROR: canceling statement due to statement timeout"' // geonames
+	);
+	
 	//~ private $fusion_tables_id = 1000001; // Lat/Lng differentiation is necessary to show all points on Google's Fusion Tables. Seems to be a bug.
 	
 	//~ private $geo_folder; // Save geocoded addresses to this folder.
 	
-	function __construct($folder, $gapi_key = false, $fb_key = false, $gn_key = false) {
+	function __construct($folder, $gapi_key = false, $fb_key = false, $gn_key = false, $instructions = false) {
 		
 		// Set $this->folder
 		$this->folder = $folder; 
@@ -103,6 +117,16 @@ class regions {
 		// Set gn_key
 		$this->gn_key = $gn_key;
 		
+		// Set gn_key
+		$this->instructions = ($instructions) ? $instructions : array();
+		
+		
+		// Check ypnepal.com
+		if (array_key_exists('ypnepal.com', $this->instructions)) {
+			$this->crawl_ypnepal();
+			exit; // Stop here
+		}
+		
 		// Init. regions.
 		$this->build_regions();
 		
@@ -132,6 +156,13 @@ class regions {
 		
 		// Check Google Places
 		$this->google_places();
+	}
+	/**
+	 * function crawl_ypnepal
+	 */
+	function crawl_ypnepal() {
+		include 'crawl_ypnepal.class.php'; // Include class file
+		new crawl_ypnepal($this->tmp_folder, $this->gapi_key, $this->gn_key);
 	}
 	/**
 	 * function build_regions
@@ -660,11 +691,6 @@ class regions {
 		}
 		echo 'Retrieving geocoding. "." denotes a new geocode to retrieve. Duplicate and cached geocoding not displayed.'.
 			"\n".'Number of addresses to geocode:'.count($addresses_to_geocode)."\n";
-		// Array of bad strings.
-		$arr_bad_str = [
-			'This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console',
-			'You have exceeded your daily request quota for this API.'
-		];
 		// It may be necessary to turn this on/off based on the requirements of the search.
 		$use_key = true;
 		// CURL
@@ -680,8 +706,8 @@ class regions {
 			$opts = new StdClass;
 			$opts->url = $u;
 			$opts->filename = md5($ufilename);
-			$opts->overwrite_if_strpos = $arr_bad_str;
-			$opts->do_not_save_if_strpos = $arr_bad_str;
+			$opts->overwrite_if_strpos = $this->arr_bad_str;
+			$opts->do_not_save_if_strpos = $this->arr_bad_str;
 			$opts->request_to_file = true;
 			$opts->request_from_file = true;
 			$opts->folder = $this->tmp_folder;
@@ -701,13 +727,7 @@ class regions {
 				$d = false;
 			}
 			$this->locations_array[ $address ] = $d;
-			// Has bad strings?
-			foreach ($arr_bad_str as $key => $str) {
-				if (strpos($content->html, $str) !== false) {
-					echo 'ERROR: RESPONSE CONTAINS:'.$str;
-					exit;
-				}
-			}
+			check_response_bad_str($content->html);
 		}
 		
 		// Loop
@@ -1254,5 +1274,22 @@ function curl_get($options) {
 	$return->html = $r;
 	$return->status = $x;
 	return $return;
+}
+/**
+ * check_response_bad_str
+ */
+function check_response_bad_str($html) {
+	$arr_bad_str = array( // Array bad strings
+		'This API project is not authorized to use this API. Please ensure that this API is activated in the APIs Console: Learn more: https://code.google.com/apis/console', // google
+		'You have exceeded your daily request quota for this API.', // google
+		'"message":"ERROR: canceling statement due to statement timeout"' // geonames
+	);
+	// Has bad strings?
+	foreach ($arr_bad_str as $key => $str) {
+		if (strpos($html, $str) !== false) {
+			echo 'ERROR: RESPONSE CONTAINS:'.$str;
+			exit;
+		}
+	}
 }
 ?>

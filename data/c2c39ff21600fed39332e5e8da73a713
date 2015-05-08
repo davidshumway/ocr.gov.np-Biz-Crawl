@@ -1,0 +1,127 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Dehradun",
+            "short_name" : "Dehradun",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Dehradun",
+            "short_name" : "Dehradun",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttarakhand",
+            "short_name" : "UK",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "248001",
+            "short_name" : "248001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "9, Astley Hall, \u003cspan class=\"locality\"\u003eDehradun\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttarakhand\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e248001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "9, Astley Hall, Dehradun, Uttarakhand 248001, India",
+      "formatted_phone_number" : "098970 28588",
+      "geometry" : {
+         "location" : {
+            "lat" : 30.326652,
+            "lng" : 78.04722599999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "ac65fb71b587380d388691e87a36c4e5aa27895f",
+      "international_phone_number" : "+91 98970 28588",
+      "name" : "Suraj & Sons",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJr1GlOcEpCTkRSYJdqirLGyk",
+      "reference" : "CmRfAAAAJFzwEbluw6CeU71m3FU57DE9NZs2b3y4pVFMOr-KjEdnDJZXPSZ0l34jC-syk3iEfPJ8pfLIVKSwsNThmMFKw97sCUEDN9gKAOxV4BeBo7nCJ3_hgRulWCKI-MpLd5R0EhBq9yuXF-ue3uSBu-wP7GHNGhS9eHoI5hbtjXg7vbm7Qehbvj95OQ",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/102227525272901080486/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "9, Astley Hall, Dehradun"
+   },
+   "status" : "OK"
+}

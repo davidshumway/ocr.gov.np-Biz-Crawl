@@ -1,0 +1,140 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Kamal Marg",
+            "short_name" : "Kamal Marg",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "B Block",
+            "short_name" : "B Block",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Sector 23",
+            "short_name" : "Sector 23",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Noida",
+            "short_name" : "Noida",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Gautam Buddh Nagar",
+            "short_name" : "Gautam Buddh Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "201301",
+            "short_name" : "201301",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "B-368, \u003cspan class=\"street-address\"\u003eKamal Marg\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eB Block, Sector 23\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNoida\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e201301\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "B-368, Kamal Marg, B Block, Sector 23, Noida, Uttar Pradesh 201301, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.59346,
+            "lng" : 77.35285399999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "62ea32d08f2970714d6a2c8d9d82a55f26794570",
+      "name" : "Paper Center",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 6:00 pm",
+            "Tuesday: 10:00 am – 6:00 pm",
+            "Wednesday: 10:00 am – 6:00 pm",
+            "Thursday: 10:00 am – 6:00 pm",
+            "Friday: 10:00 am – 6:00 pm",
+            "Saturday: 10:00 am – 6:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJAw9oAQvlDDkRY-MW9v1aHJ4",
+      "reference" : "CmRgAAAAbT1zf9ATdaAQHJMRLiSDzB7OSPkRRdv6AVNlmInvb1dUjy0rrguNbKSm_2OLrqA5mLbbR6tK13Lj3DGyemhAH5cu3-RPOdvCgE8F47_hN8TlcrOmJO4R6-16gpyLVkE0EhAF-uSaSvpQtsNNpD3bO6AaGhQ5vl7gBQaZ1YC-ulnsIvTahfsTGg",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/111840617666513029626/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "B-368, Kamal Marg, B Block, Sector 23, Noida"
+   },
+   "status" : "OK"
+}

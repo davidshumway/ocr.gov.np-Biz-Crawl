@@ -1,0 +1,82 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Iglas",
+            "short_name" : "Iglas",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Aligarh",
+            "short_name" : "Aligarh",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "202124",
+            "short_name" : "202124",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eIglas\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e202124\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Iglas, Uttar Pradesh 202124, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.709367,
+            "lng" : 77.941338
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "1f80d104f2bb5c728b1b3fad1350f9bec039075c",
+      "name" : "Kanha Auto Parts",
+      "place_id" : "ChIJWXYo6TqedDkRQhhcK_GoqX8",
+      "reference" : "CnRjAAAAd_DGv-yq-XQixzb453fvk1Xu9WrWfK-A9MuitXij7ULnG1ASj1dlscbMrwcKnWw5CQV1LgCR33DtRmGoTszHocjmnIvYYCIrQ4-d9Oior0--xu8kWUGdTNj7gXhJHf8-E28JjAuKJRIGhZcF10EF1BIQw-CNS4OtZJ9h4oaULtyjlxoU68ul5Z9jYlHn7R0xVUZLmL7vFSQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Yogesh Sharma",
+            "author_url" : "https://plus.google.com/115281759188261702295",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1394588782
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Yogesh Sharma",
+            "author_url" : "https://plus.google.com/100204058844217206852",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1394588562
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/104601870419871555538/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "Iglas"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,46 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Jianshe Street",
+            "short_name" : "Jianshe St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Gar",
+            "short_name" : "Gar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Tibet",
+            "short_name" : "Tibet",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "China",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eJianshe Street\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eGar\u003c/span\u003e, \u003cspan class=\"region\"\u003eTibet\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eChina\u003c/span\u003e",
+      "formatted_address" : "Jianshe Street, Gar, Tibet, China",
+      "geometry" : {
+         "location" : {
+            "lat" : 32.508576,
+            "lng" : 80.11458
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "21db6b63ae65948c70b7e312bdda9c2ca5292f75",
+      "name" : "Boutique Auto Parts",
+      "place_id" : "ChIJVy8hBPZ3qTkR6yI-6MWWDo4",
+      "reference" : "CnRnAAAA7wdiYssz896Huq7cKbN4hGEFwtRYcCznWa5pMBFmTE4wE7T3xqTTRMq5PJcBFfvWjhPOkoMsLI05ls7oGQ26wbz3z1TKKc3PpGcztHoJPp5NQ6uOm5erjVc3E9NK9Zja1paEDkeyENhVPLmMTBXspBIQApu_7LYQPw-sB8b1p-91RBoULcwvFhT7kCBQQWKR5UUe2QwXBq0",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/111517495156454942777/about?hl=en-US",
+      "utc_offset" : 480,
+      "vicinity" : "Jianshe Street, Gar"
+   },
+   "status" : "OK"
+}

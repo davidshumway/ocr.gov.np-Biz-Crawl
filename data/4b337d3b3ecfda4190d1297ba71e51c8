@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Shanghai North Road",
+            "short_name" : "Shanghai N Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Xigaze",
+            "short_name" : "Xigaze",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Xigaze",
+            "short_name" : "Xigaze",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Tibet",
+            "short_name" : "Tibet",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "China",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eShanghai North Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eXigaze\u003c/span\u003e, \u003cspan class=\"locality\"\u003eXigaze\u003c/span\u003e, \u003cspan class=\"region\"\u003eTibet\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eChina\u003c/span\u003e",
+      "formatted_address" : "Shanghai North Road, Xigaze, Xigaze, Tibet, China",
+      "geometry" : {
+         "location" : {
+            "lat" : 29.271083,
+            "lng" : 88.883261
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "8edb7ba2f5eee91443be051de662b661396c4045",
+      "name" : "Wanxiang Wool Firm",
+      "place_id" : "ChIJOSRneDV63jkR-4cQc1WSco8",
+      "reference" : "CnRmAAAAki2Kc61XIHfYzt-mlajtzDBVvd82_9IGNeJ0ZBIeEZuPnYW-WbEZ6vxy1SeTQ89li1Vg1tg8y6Hqvhr642UhW5XepuzBQGXo0zgoF8DnOItskn9Fo0g8cmeaLEs1C8vx-6Zo1dPEZG_KjeV7ylQe7xIQivSSXSjj-XPmaQAbgiAvARoUoB9AUMe_dICCEAvyCDqydmm58p4",
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/101447567785484325930/about?hl=en-US",
+      "utc_offset" : 480,
+      "vicinity" : "Shanghai North Road, Xigaze"
+   },
+   "status" : "OK"
+}

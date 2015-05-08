@@ -1,0 +1,140 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Sitapur Road",
+            "short_name" : "Sitapur Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bargadi",
+            "short_name" : "Bargadi",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Bakshi Ka Talab",
+            "short_name" : "Bakshi Ka Talab",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Lucknow",
+            "short_name" : "Lucknow",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Lucknow",
+            "short_name" : "Lucknow",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "226201",
+            "short_name" : "226201",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "BKT, \u003cspan class=\"street-address\"\u003eSitapur Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBargadi, Bakshi Ka Talab\u003c/span\u003e, \u003cspan class=\"locality\"\u003eLucknow\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e226201\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "BKT, Sitapur Road, Bargadi, Bakshi Ka Talab, Lucknow, Uttar Pradesh 226201, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.988086,
+            "lng" : 80.92111800000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "0568c02308948211debe350e537baee9bdcd0a17",
+      "name" : "Madan Motors Shop",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 10:00 pm",
+            "Tuesday: 9:00 am – 10:00 pm",
+            "Wednesday: 9:00 am – 10:00 pm",
+            "Thursday: 9:00 am – 10:00 pm",
+            "Friday: 9:00 am – 10:00 pm",
+            "Saturday: Closed",
+            "Sunday: 9:00 am – 10:00 pm"
+         ]
+      },
+      "place_id" : "ChIJCzazdjhRmTkRTqogBSJ7TZg",
+      "reference" : "CnRlAAAADM1C1QGwTAmSzHrEyYfzkAeWqY63IT6t-lpztmEhIPrlWiKu-h41dpuMctQfP8lsVkjlDkGdG4tiSzthr4JiDsoA-xM50WRNK-qYyG4fDxC6MsqFb6yWPwdxK7Fv_cVol26HOzjEK88HlVwojgamahIQ2S_HwC1CtzSilnNL5vbE0xoUk8uHuTNOZVsstyscPYqoQSH4YaE",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/110922097737827922943/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "BKT, Sitapur Road, Bargadi, Bakshi Ka Talab, Lucknow"
+   },
+   "status" : "OK"
+}

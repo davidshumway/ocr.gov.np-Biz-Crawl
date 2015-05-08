@@ -1,0 +1,70 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nuwakot",
+               "short_name" : "Nuwakot",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Putalibazar",
+               "short_name" : "Putalibazar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gandaki",
+               "short_name" : "Gandaki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33800",
+               "short_name" : "33800",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nuwakot, Putalibazar 33800, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.1405728,
+                  "lng" : 83.882289
+               },
+               "southwest" : {
+                  "lat" : 28.1325499,
+                  "lng" : 83.86701119999999
+               }
+            },
+            "location" : {
+               "lat" : 28.1378529,
+               "lng" : 83.87248249999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.1405728,
+                  "lng" : 83.882289
+               },
+               "southwest" : {
+                  "lat" : 28.1325499,
+                  "lng" : 83.86701119999999
+               }
+            }
+         },
+         "place_id" : "ChIJN9-L2LjBlTkR1ApsW_Z0DcY",
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

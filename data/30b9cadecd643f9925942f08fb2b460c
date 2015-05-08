@@ -1,0 +1,146 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Patel Nagar Marg",
+            "short_name" : "Patel Nagar Marg",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Block G",
+            "short_name" : "Block G",
+            "types" : [ "sublocality_level_3", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Patel Nagar 3",
+            "short_name" : "Patel Nagar 3",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Patel Nagar",
+            "short_name" : "Patel Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ghaziabad",
+            "short_name" : "Ghaziabad",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Ghaziabad",
+            "short_name" : "Ghaziabad",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "201001",
+            "short_name" : "201001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Shop No: 145, \u003cspan class=\"street-address\"\u003ePatel Nagar Marg\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBlock G, Patel Nagar 3, Patel Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eGhaziabad\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e201001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Shop No: 145, Patel Nagar Marg, Block G, Patel Nagar 3, Patel Nagar, Ghaziabad, Uttar Pradesh 201001, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.676092,
+            "lng" : 77.42763600000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "af28b5b851b7e406e73e0e285809e3c3ec7cedd4",
+      "name" : "Honda Power Product",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 10:00 pm",
+            "Tuesday: 10:00 am – 10:00 pm",
+            "Wednesday: 10:00 am – 10:00 pm",
+            "Thursday: 10:00 am – 10:00 pm",
+            "Friday: 10:00 am – 10:00 pm",
+            "Saturday: 10:00 am – 10:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ97W2XbLxDDkRSv_cIxGhFPs",
+      "reference" : "CnRnAAAAAe56sNV1xP3l0EeGk-mvM4QSAcpvN7zKFtEjtHeqrkYM17UchtT-rVRGPL8vwelxJMToPVmKZdbdGFFiX_eH5NQAFPXIthUuRznDwrMu55w0cIbdDG7Quf0FFnyNxVMfoqtdQZJ55FLi9Yi844ENGBIQZWqYWqCkzthZ07b-pSsJ5RoUq4jFR_yvE6R4vGzMJH-K-s43s0g",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/101619117128949366239/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Shop No: 145, Patel Nagar Marg, Block G, Patel Nagar 3, Patel Nagar, Ghaziabad",
+      "website" : "https://www.hondasielpower.com/"
+   },
+   "status" : "OK"
+}

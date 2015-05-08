@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ilam",
+               "short_name" : "Ilam",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Malda",
+               "short_name" : "Malda",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ilam, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.39471,
+                  "lng" : 87.97951979999999
+               },
+               "southwest" : {
+                  "lat" : 25.3801599,
+                  "lng" : 87.94622
+               }
+            },
+            "location" : {
+               "lat" : 25.3926622,
+               "lng" : 87.96165929999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.39471,
+                  "lng" : 87.97951979999999
+               },
+               "southwest" : {
+                  "lat" : 25.3801599,
+                  "lng" : 87.94622
+               }
+            }
+         },
+         "place_id" : "ChIJ4W-BDWrE-jkR39dcfU2XECo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

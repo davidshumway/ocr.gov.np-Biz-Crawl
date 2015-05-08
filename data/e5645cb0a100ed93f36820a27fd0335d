@@ -1,0 +1,87 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Rishikesh",
+            "short_name" : "Rishikesh",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Tehri Garhwal",
+            "short_name" : "Tehri Garhwal",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttarakhand",
+            "short_name" : "UK",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "249137",
+            "short_name" : "249137",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "DHALWALA INDUSTRIAL AREA, \u003cspan class=\"locality\"\u003eRishikesh\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttarakhand\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e249137\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "DHALWALA INDUSTRIAL AREA, Rishikesh, Uttarakhand 249137, India",
+      "formatted_phone_number" : "0135 243 3881",
+      "geometry" : {
+         "location" : {
+            "lat" : 30.120749,
+            "lng" : 78.28976
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "ddcc77f260600f28fe2a2f622903f88a13e22dea",
+      "international_phone_number" : "+91 135 243 3881",
+      "name" : "KRISHNA MOTORS MAHINDRA AUTH. SERVICE CENTRE",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 6:00 pm",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: Closed",
+            "Sunday: 9:00 am – 6:00 pm"
+         ]
+      },
+      "place_id" : "ChIJTcXRr4s9CTkR1j8-n3vsYls",
+      "reference" : "CoQBfwAAAGkZH5NeLJhVQDMweLHjKMF9-f2OUGQo3NY39F3HMXNJtPr6wfJnTWRfdPy0-uASXF69lRXCqcxs4ihkR3dHpqBZXfZqzJcUonv5gzBis259lMiUBvC9F6PFL1pQ3Z6L41TSKBNjzMC0HazostMjs-HZ6mR5BXjB_9QM0D65u7twEhC2ZwATnP4HpYc2k_088zLDGhRrKe_LlLXo_6GREX00WlfMuAlsPQ",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/112909914884658224533/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "DHALWALA INDUSTRIAL AREA, Rishikesh"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,142 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Hapur Road",
+            "short_name" : "Hapur Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Gokulpuri",
+            "short_name" : "Gokulpuri",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Kharkhauda",
+            "short_name" : "Kharkhauda",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Meerut",
+            "short_name" : "Meerut",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "245206",
+            "short_name" : "245206",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eHapur Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eGokulpuri\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKharkhauda\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e245206\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Hapur Road, Gokulpuri, Kharkhauda, Uttar Pradesh 245206, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.838269,
+            "lng" : 77.74330500000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "45ca0653f2957771564fffc609f252bdd2ee75dc",
+      "name" : "मुकेश गर्ग हार्डवेयर",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 am – 8:00 pm",
+            "Tuesday: 8:00 am – 8:00 pm",
+            "Wednesday: 8:00 am – 8:00 pm",
+            "Thursday: 8:00 am – 8:00 pm",
+            "Friday: 8:00 am – 8:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ4aG_JAqIDDkR-lDHao7Bvh4",
+      "reference" : "CpQBjAAAADDweX5JEzO7_DVFW5ZV-_T2E9bW6y6otDpfmIO6VytbwQrwF6S1c0jM-badwg9Tvte0dUyykkfRDTGnS1L_ZUU0__VaRIRZdkC9eBzzNbUJ5eQ6IlSID1J8DL9d-V9gprfugFDcZLi9v-VUaULKGS9XVxCx1nZQUHV-Touhf1xh0FIvry9sPtsLwUpDgf9L3BIQIi1NIrvdJukA5u4qjYpvWBoU6rW6bp-itZiG2VfQ64Abvapu6mE",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Aakash Garg",
+            "author_url" : "https://plus.google.com/115446534092212477413",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Deals in constructing material",
+            "time" : 1426418396
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/113933972765973481663/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Hapur Road, Gokulpuri, Kharkhauda"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,142 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Main G.T. Road",
+            "short_name" : "Main G.T. Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Sanjay Nagar",
+            "short_name" : "Sanjay Nagar",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Lal Kuan",
+            "short_name" : "Lal Kuan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ghaziabad",
+            "short_name" : "Ghaziabad",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Ghaziabad",
+            "short_name" : "Ghaziabad",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "201001",
+            "short_name" : "201001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "110, \u003cspan class=\"street-address\"\u003eMain G.T. Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSanjay Nagar, Lal Kuan\u003c/span\u003e, \u003cspan class=\"locality\"\u003eGhaziabad\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e201001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "110, Main G.T. Road, Sanjay Nagar, Lal Kuan, Ghaziabad, Uttar Pradesh 201001, India",
+      "formatted_phone_number" : "099117 02874",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.628924,
+            "lng" : 77.469613
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "d4d205d6a91f24f3ad47af2f203a83dc492f579b",
+      "international_phone_number" : "+91 99117 02874",
+      "name" : "Prince Carrier Logistics",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 10:00 pm",
+            "Tuesday: 9:00 am – 10:00 pm",
+            "Wednesday: 9:00 am – 10:00 pm",
+            "Thursday: 9:00 am – 10:00 pm",
+            "Friday: 9:00 am – 10:00 pm",
+            "Saturday: 9:00 am – 10:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJZaxwDgruDDkRoG_mDkfCKG4",
+      "reference" : "CnRrAAAAG-ILe-juX1NL_TRCCXctKiwFjWk-UCktJwF2p9RIB5VMJSr4CkntsxEHsV8BtAfc7YazxUHc_r8GKuY4klsXaICwRtIIceyQr9cCdlKjr4RsBnw-6JnOr0zH47CApn6KLOrkK_4zUjosp8BG72aK9xIQPKPvCUVLjD4SaJk0FWGioxoUHFZ14q0KMHNkxzKXMtmsddsAbO0",
+      "scope" : "GOOGLE",
+      "types" : [ "moving_company", "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/117550555227678661755/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "110, Main G.T. Road, Sanjay Nagar, Lal Kuan, Ghaziabad"
+   },
+   "status" : "OK"
+}

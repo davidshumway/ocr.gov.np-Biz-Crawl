@@ -1,0 +1,62 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Railway Road",
+            "short_name" : "Railway Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "City",
+            "short_name" : "City",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Aligarh",
+            "short_name" : "Aligarh",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Aligarh",
+            "short_name" : "Aligarh",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "202001",
+            "short_name" : "202001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eRailway Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCity\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAligarh\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e202001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Railway Road, City, Aligarh, Uttar Pradesh 202001, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.887479,
+            "lng" : 78.072891
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "2d412901b9291d531e316dad66e8a9308af658e4",
+      "name" : "Asian Paints",
+      "place_id" : "ChIJi4VD4o6kdDkRdNC_fbD8-Zk",
+      "reference" : "CmRgAAAAaVD4mlm4MlRIUxeE2YoRzHWJQH-caukRzpasGfSnjwFn9mxlwwG4va5J8V4PllJvgQ3uULve08JCxNUO6yZMXfHYDqPrbyrIwumXscLfCzm9hL3AUTjc9tsV3Xg7tm6hEhAccYzXt78Dp7_POLerLrTvGhS0pAoUhRT-0-jLvBi0iwzMsT6Zcg",
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/105485539231240115640/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Railway Road, City, Aligarh",
+      "website" : "https://www.asianpaints.com/"
+   },
+   "status" : "OK"
+}

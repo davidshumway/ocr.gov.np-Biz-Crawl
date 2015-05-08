@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "203省道",
+            "short_name" : "203省道",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Namling",
+            "short_name" : "Namling",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Xigaze",
+            "short_name" : "Xigaze",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Tibet",
+            "short_name" : "Tibet",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "China",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003eChina\u003c/span\u003e, \u003cspan class=\"region\"\u003eTibet\u003c/span\u003e, \u003cspan class=\"locality\"\u003eXigaze\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNamling\u003c/span\u003e, \u003cspan class=\"street-address\"\u003e203省道\u003c/span\u003e",
+      "formatted_address" : "China, Tibet, Xigaze, Namling, 203省道",
+      "geometry" : {
+         "location" : {
+            "lat" : 29.676496,
+            "lng" : 89.096985
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "70bc553d9c861672dc19d6c014957d71e125d271",
+      "name" : "Nanmulin Motor Repair Department",
+      "place_id" : "ChIJ0dNag7Ps3jkRwkQEr-n6-Tg",
+      "reference" : "CoQBcwAAAKurMLZ0MHGpI2ifa3_PIQlvxAodcB-FMEzt1lAPPKDfG4tgjPc9JCpe8uBM_ZtkUxkERIgnqifw45Js9-UtBe_kHcZZyIVf2XBHaVI07YjVVfT0muwutLLLnh5JuyDtivao2YFSsR0unLpNkbWVbIjvP0W20M4LTrqcKioerVATEhDawKKQKOaB7V86UVKN-IdCGhTiJzn3_9Ow-Kc_u9hWBhuuH7bUlA",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/107154439585436281835/about?hl=en-US",
+      "utc_offset" : 480,
+      "vicinity" : "203省道, Namling, Xigaze"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,50 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "New Delhi",
+            "short_name" : "New Delhi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Delhi",
+            "short_name" : "DL",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "110003",
+            "short_name" : "110003",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "1st Floor, Khan Market, \u003cspan class=\"street-address\"\u003eKhan Market\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew Delhi\u003c/span\u003e, \u003cspan class=\"region\"\u003eDelhi\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e110003\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "1st Floor, Khan Market, Khan Market, New Delhi, Delhi 110003, India",
+      "formatted_phone_number" : "098101 52299",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.600218,
+            "lng" : 77.227023
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "834087aabde9a7601687bb7c637781fca79a82fa",
+      "international_phone_number" : "+91 98101 52299",
+      "name" : "Lime Light Candles",
+      "place_id" : "ChIJE0XP3OniDDkRFwXjh2XZzbM",
+      "reference" : "CnRmAAAADBByfh9BzdRRw0w3FJL5D9eH3YHqMeo9_cP0QPJQ20G2zTcSu1R5YXmw5NgNr1jGUk_aQB07KS_eU34HrFklZnFRsO71p-1ECxts0zN_vkEmFERcNxwXW1wDFTxjll6JWEKtqE6yqMAHCnH7ARGR-BIQObIGQwqzR85L7BgmcL8bRRoUe7oZrBa4pSD1BKUlRnr2O6T3XMI",
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/112936201336826188145/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "1st Floor, Khan Market, Khan Market, New Delhi"
+   },
+   "status" : "OK"
+}

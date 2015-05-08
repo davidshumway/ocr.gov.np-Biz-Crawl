@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "318 National Road",
+            "short_name" : "318 National Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Xigaze",
+            "short_name" : "Xigaze",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Xigaze",
+            "short_name" : "Xigaze",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Tibet",
+            "short_name" : "Tibet",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "China",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e318 National Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eXigaze\u003c/span\u003e, \u003cspan class=\"locality\"\u003eXigaze\u003c/span\u003e, \u003cspan class=\"region\"\u003eTibet\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eChina\u003c/span\u003e",
+      "formatted_address" : "318 National Road, Xigaze, Xigaze, Tibet, China",
+      "geometry" : {
+         "location" : {
+            "lat" : 29.337505,
+            "lng" : 89.31579499999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "c8cdf8cdb7fcb745c80445f3fb6eda2b1fb9ce7d",
+      "name" : "Yuchuan Automobile Repair",
+      "place_id" : "ChIJn41nqaVW3jkR7djkihlF4yY",
+      "reference" : "CnRsAAAAUk0BfE1tDss0Jph2xXjkX-fK3mT30bIXgkA9_KKgtiXwGQx0iJe_7CjWfcIXqSkCW4yawGSS6JgN8ciaWWaYJZ1iEUuKc3dbWcD18G6SmDxquu6QUO5tQ6wVFQHtN-zdSbq4fVHDr9dPstXdB3z-FBIQEYil7eQ5dLfELqi9OaO87hoUIu2coxLo9TfOT24FvJlF7ktWweo",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/116187606908360344477/about?hl=en-US",
+      "utc_offset" : 480,
+      "vicinity" : "318 National Road, Xigaze"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,81 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "National Highway 74",
+            "short_name" : "NH 74",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Sherkot",
+            "short_name" : "Sherkot",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Bijnor",
+            "short_name" : "Bijnor",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "246747",
+            "short_name" : "246747",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNational Highway 74\u003c/span\u003e, \u003cspan class=\"locality\"\u003eSherkot\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e246747\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "National Highway 74, Sherkot, Uttar Pradesh 246747, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 29.325476,
+            "lng" : 78.570233
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "2ec438d4dabf9fbf58ade6859ec6d76ea1ae0dea",
+      "name" : "Vikas Paint Store",
+      "place_id" : "ChIJZYJcyibKCzkRzVlGt8Hcb1A",
+      "reference" : "CnRkAAAA2Gg982WrKcVdrLxeNROR1FhB3wf9_iodjsStOan7YwYF38l4OWeBOTVf_m6Zyu0WRNmAlaEIYu8FMpWH3DXXqiPs5_shLi0A0YtpIuCC8epiHVLngyD1hvUwPyk4qx9TZBmPqiShJXTqMqOBWE5gyRIQxXFFHwgF0pD9TsSjI1OQ3RoUPGf_Nq7wklCJXHN25lF_ccL0XBA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 2,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 2,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Amit Sahdev",
+            "author_url" : "https://plus.google.com/103195889097797426365",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1394986422
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/115298975886520108540/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "National Highway 74, Sherkot"
+   },
+   "status" : "OK"
+}

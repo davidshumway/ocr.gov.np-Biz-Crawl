@@ -1,0 +1,140 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Saharanpur Road",
+            "short_name" : "Saharanpur Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Transport Nagar",
+            "short_name" : "Transport Nagar",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Subhash Nagar",
+            "short_name" : "Subhash Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Chandrwani Khalsa",
+            "short_name" : "Chandrwani Khalsa",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Dehradun",
+            "short_name" : "Dehradun",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttarakhand",
+            "short_name" : "UK",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "248001",
+            "short_name" : "248001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eSaharanpur Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eTransport Nagar, Subhash Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eChandrwani Khalsa\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttarakhand\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e248001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Saharanpur Road, Transport Nagar, Subhash Nagar, Chandrwani Khalsa, Uttarakhand 248001, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 30.280108,
+            "lng" : 77.989524
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "1ce70abc8281961f89b8c78e4c017b645aefd9d7",
+      "name" : "Mehfuz Repairing Shop",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 8:30 pm",
+            "Tuesday: 9:00 am – 8:30 pm",
+            "Wednesday: 9:00 am – 8:30 pm",
+            "Thursday: 9:00 am – 8:30 pm",
+            "Friday: 9:00 am – 8:30 pm",
+            "Saturday: 9:00 am – 8:30 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJowCOtbsrCTkRvKaLTb-MCJ8",
+      "reference" : "CnRpAAAA-XnN2Drbb-fLFJDa5elNtIcvZMfxznEKgtfEviLWTFjyLtYStPtqqpWDjkdpVDk5_C8e-5oiEj8GbNbBtMKpRG5Ir0mC087pgzrDFQUtThezNf-occC8H_DOfdgWO7BePkD5eBNXWBtxrwe3tBwv_RIQXzvW5F4m6OH2RJkXRXU_WhoULEB896ZWlqdYq4qDP0OvEEZlzZE",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/115796199835514644250/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Saharanpur Road, Transport Nagar, Subhash Nagar, Chandrwani Khalsa"
+   },
+   "status" : "OK"
+}

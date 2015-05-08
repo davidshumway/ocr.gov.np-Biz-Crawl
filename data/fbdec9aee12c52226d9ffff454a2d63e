@@ -1,0 +1,137 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "State Highway 40",
+            "short_name" : "SH 40",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Chowk",
+            "short_name" : "Chowk",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Lucknow",
+            "short_name" : "Lucknow",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Lucknow",
+            "short_name" : "Lucknow",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "226003",
+            "short_name" : "226003",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Park Road, \u003cspan class=\"street-address\"\u003eState Highway 40\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eChowk\u003c/span\u003e, \u003cspan class=\"locality\"\u003eLucknow\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e226003\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Park Road, State Highway 40, Chowk, Lucknow, Uttar Pradesh 226003, India",
+      "formatted_phone_number" : "099352 04238",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.866832,
+            "lng" : 80.911164
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "a65a5a85c4d5726b299f6e34007cb960e5c8d0eb",
+      "international_phone_number" : "+91 99352 04238",
+      "name" : "S.K Service Center",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: Closed",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: 10:00 am – 8:00 pm"
+         ]
+      },
+      "place_id" : "ChIJa5Geve_9mzkRit0UyUcY-8k",
+      "reference" : "CnRmAAAASAh0mEHsqPZ1dQlVc4y35m1R2LNmuSRBhgFE1FYBQ-MrqkB724VcMq3bDA3anEjx8gAq4mz_baAuc0uTf267vCke3cn4m4hDntlL_C5JKUNzmW51oSw_xk49C5eCkbyd7WxA9QlLjDFGvHTQkG-lzhIQ5GCNLLsT06s1XGalYmbjYhoUpviOncwAUbIgQkhJY94tD9YjReI",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/105669309620326294259/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Park Road, State Highway 40, Chowk, Lucknow"
+   },
+   "status" : "OK"
+}

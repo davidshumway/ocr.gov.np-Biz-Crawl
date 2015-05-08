@@ -1,0 +1,153 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "New Delhi",
+            "short_name" : "New Delhi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Delhi",
+            "short_name" : "DL",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "110092",
+            "short_name" : "110092",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Shop No 63, Pandav Nagar, Opposite Mother Dairy, \u003cspan class=\"locality\"\u003eNew Delhi\u003c/span\u003e, \u003cspan class=\"region\"\u003eDelhi\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e110092\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Shop No 63, Pandav Nagar, Opposite Mother Dairy, New Delhi, Delhi 110092, India",
+      "formatted_phone_number" : "098111 24670",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.618582,
+            "lng" : 77.282295
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "08884a43bf3b4ac6d8dd2d98df26d103eff4e4ae",
+      "international_phone_number" : "+91 98111 24670",
+      "name" : "Bhola Interiors",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0930"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 9:30 am – 9:00 pm",
+            "Wednesday: 9:30 am – 9:00 pm",
+            "Thursday: 9:30 am – 9:00 pm",
+            "Friday: 9:30 am – 9:00 pm",
+            "Saturday: 9:30 am – 9:00 pm",
+            "Sunday: 9:30 am – 9:00 pm"
+         ]
+      },
+      "place_id" : "ChIJ3b0OZ1fjDDkRWFghPlU3EbY",
+      "reference" : "CnRjAAAAXkLjTjljlU2cD6dQEcujcDv8LFXLRd-DJL98V_jkOfmzfr3_BM_NNJEmNcuvIfZpEDj2hjyf9JycaRb8vHj-B2LcTdbo1_38tDjFlRTtujkP6DGjAdfZcWNzYmd9Ggtx9YgxwGMljOPt4VQhKEzlFBIQUr9oWuYAq6pG8rNJh6mxAxoUM-jY9WWhec-WBFNZyBAV8N5Zo7Q",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "IBhola INteriors is the best company for wall papers and interiors flooring. The wooden flooring provided by the Bhola Interiors & wall papers is best in INdustry and suits the requirements of every type of interior work. As and architect I am very satisfied with delivery and performance of Bhola interiors Products‎.One of the best interior designers and suppliers of interior products. Best in corporate interiors, interior decoration and modular kitchen‎",
+            "time" : 1261057248
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 1,
+            "text" : "",
+            "time" : 1318265876
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/102402441533820785101/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "Shop No 63, Pandav Nagar, Opposite Mother Dairy, New Delhi"
+   },
+   "status" : "OK"
+}

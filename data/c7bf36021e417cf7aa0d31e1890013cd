@@ -1,0 +1,120 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "State Highway 93",
+            "short_name" : "SH 93",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Gola",
+            "short_name" : "Gola",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Lakhimpur Kheri",
+            "short_name" : "Lakhimpur Kheri",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "262802",
+            "short_name" : "262802",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eState Highway 93\u003c/span\u003e, \u003cspan class=\"locality\"\u003eGola\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e262802\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "State Highway 93, Gola, Uttar Pradesh 262802, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.076593,
+            "lng" : 80.46460999999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "cf652b533df28548c55d7de42ec4419c049eb74a",
+      "name" : "Shafiq Honda Repairing",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 8:30 pm",
+            "Tuesday: 9:00 am – 8:30 pm",
+            "Wednesday: 9:00 am – 8:30 pm",
+            "Thursday: 9:00 am – 8:30 pm",
+            "Friday: 9:00 am – 8:30 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJDaN_QA5CnzkR9pcMPLkwXmw",
+      "reference" : "CnRpAAAAMMNiKeUyf97njlK1Yszy-UX0ODqD7Mgs5rZyQ8bQ6xCLVdIoqSKFyDaMKVLr5a9LC21iDGEd_TsuCCOgfEuurUHz2OaPdVPLXt5dOmGwQ2BhK5ZpTzXUgALQQhC2lC-o6cHna26Ke3U54DXpi3eS_hIQ16C3-SfURB2dgahyNC_iShoUOnpEc6LzeM6q-0HE5IPMtBOEJyM",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/106526610289497466056/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "State Highway 93, Gola"
+   },
+   "status" : "OK"
+}

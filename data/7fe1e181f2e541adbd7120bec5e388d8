@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Qingdao Road",
+            "short_name" : "Qingdao Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Xigaze",
+            "short_name" : "Xigaze",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Xigaze",
+            "short_name" : "Xigaze",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Tibet",
+            "short_name" : "Tibet",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "China",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eQingdao Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eXigaze\u003c/span\u003e, \u003cspan class=\"locality\"\u003eXigaze\u003c/span\u003e, \u003cspan class=\"region\"\u003eTibet\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eChina\u003c/span\u003e",
+      "formatted_address" : "Qingdao Road, Xigaze, Xigaze, Tibet, China",
+      "geometry" : {
+         "location" : {
+            "lat" : 29.270354,
+            "lng" : 88.894324
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "70ecc4be2fcb1f1b60e921c89482247f55e122dd",
+      "name" : "North China Auto Parts",
+      "place_id" : "ChIJM3DqZVJ63jkRxelKOpaLdvk",
+      "reference" : "CnRqAAAAktP6eC2yhE-rj11RXKE6W7Gz8K3OB6J4BIMD90njQgfjSOWMZMs6kPmP1e2Twou5swWQoaB8U_iQlXpbdfL5vhIClVHi4bMA_NrY70d7IwigHBB28DcAUfaufce31nlyJHM65M9iXAJmR3D0whvztRIQzHItkUPHixFQMIAnyjATTxoUg4ZKCaJuGTwYj6nFiEmtlkH8-1E",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/111712712665627042456/about?hl=en-US",
+      "utc_offset" : 480,
+      "vicinity" : "Qingdao Road, Xigaze"
+   },
+   "status" : "OK"
+}

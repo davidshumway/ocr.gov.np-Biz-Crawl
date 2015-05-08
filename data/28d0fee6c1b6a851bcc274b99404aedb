@@ -1,0 +1,137 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Gandhi Road",
+            "short_name" : "Gandhi Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Prince Chowk",
+            "short_name" : "Prince Chowk",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Dehradun",
+            "short_name" : "Dehradun",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Dehradun",
+            "short_name" : "Dehradun",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttarakhand",
+            "short_name" : "UK",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "248001",
+            "short_name" : "248001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Shop No.65,66/2,, \u003cspan class=\"street-address\"\u003eGandhi Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003ePrince Chowk\u003c/span\u003e, \u003cspan class=\"locality\"\u003eDehradun\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttarakhand\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e248001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Shop No.65,66/2,, Gandhi Road, Prince Chowk, Dehradun, Uttarakhand 248001, India",
+      "formatted_phone_number" : "0135 262 4629",
+      "geometry" : {
+         "location" : {
+            "lat" : 30.315793,
+            "lng" : 78.03591400000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "76adba125a13b1560cab1df877707565928d6c77",
+      "international_phone_number" : "+91 135 262 4629",
+      "name" : "Sushil Motor Store",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJe_giWJEpCTkRJsghOtsnFEI",
+      "reference" : "CnRlAAAAs_mwbtECnjG9LTvkihShatG4gwdd8mdsdDr7S1DqYCFhO9S2GCdFK0GF4zLXhx5rKg8wiAsX7jbw40cXe4kLbW-bQRc38h9hpZN8lzQNbQt-JrQ-9mFhKcgHaSA9qIl_od1es93s2_b2Vs7yo66_zxIQhzvOWmrMrRmIeOoV6E_bKhoUkfBp5VGCZ-6idh-B40QMlk5lXeA",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/102756843066256123359/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Shop No.65,66/2,, Gandhi Road, Prince Chowk, Dehradun"
+   },
+   "status" : "OK"
+}

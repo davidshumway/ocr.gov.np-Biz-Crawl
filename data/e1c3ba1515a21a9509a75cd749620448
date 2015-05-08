@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pokhara Airport",
+               "short_name" : "Pokhara Airport",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Nagdhunga",
+               "short_name" : "Nagdhunga",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Pokhara",
+               "short_name" : "Pokhara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gandaki",
+               "short_name" : "Gandaki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33700",
+               "short_name" : "33700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Pokhara Airport (PKR), Pokhara 33700, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.2068381,
+                  "lng" : 83.98725449999999
+               },
+               "southwest" : {
+                  "lat" : 28.1943618,
+                  "lng" : 83.9749753
+               }
+            },
+            "location" : {
+               "lat" : 28.2,
+               "lng" : 83.981667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.2068381,
+                  "lng" : 83.98725449999999
+               },
+               "southwest" : {
+                  "lat" : 28.1943618,
+                  "lng" : 83.9749753
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJBTRVuaWVlTkR3SO1W9S-8Es",
+         "types" : [ "airport", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

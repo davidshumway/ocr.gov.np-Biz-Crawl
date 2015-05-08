@@ -1,0 +1,83 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "State Highway 12",
+            "short_name" : "SH 12",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Shamli",
+            "short_name" : "Shamli",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Shamli",
+            "short_name" : "Shamli",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "247776",
+            "short_name" : "247776",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eState Highway 12\u003c/span\u003e, \u003cspan class=\"locality\"\u003eShamli\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e247776\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "State Highway 12, Shamli, Uttar Pradesh 247776, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 29.443837,
+            "lng" : 77.29923599999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "0ece873fd06f91c7efd319956d97a81cd69c76df",
+      "name" : "royal motors",
+      "photos" : [
+         {
+            "height" : 612,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/111721821298891081616\"\u003eAbhinav Kamboj\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAsxm6KbhjUliaDzuPgAHSKVcMHh3gy9fAsKHNVoFr9-G8Mv23tsl05utkF-OQ6PSd_3IiyOAnvLGjU3hMM-f6v4fcwxq29W3iLjveFAY829QLMbVxaxR6AKOR1m09SnuYm6dXdlRVfUdDnE89cN-KLhIQMoqKON3S-fNnkmvjI9YuGRoUcf_t3_1VT-1bNxa5kUDK5LbpkUc",
+            "width" : 816
+         }
+      ],
+      "place_id" : "ChIJQ4N4C7AuDDkRC8gu3F1sW8Q",
+      "reference" : "CmRgAAAAzo0rb6J1LwXfP7TLEZzmRfOuzmgf248ZUH2wzdEAmy1ZWWEDFElaJTBlVxD0YyFzFSgCY1ozFql_r21H4xDT19nwFgPnXgrzMhJj3fgTAV9LkjV87wDET3gwLwKXMaxLEhAsKHY6GAXcaxxbQ4fV7mnsGhRSw8P3fLH9gdV0tkh2G-EGBMqVbg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Abhinav Kamboj",
+            "author_url" : "https://plus.google.com/111721821298891081616",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1376387190
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/101933149684463129052/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "State Highway 12, Shamli"
+   },
+   "status" : "OK"
+}

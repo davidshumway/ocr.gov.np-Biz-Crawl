@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bhojpur",
+               "short_name" : "Bhojpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bihar",
+               "short_name" : "BR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bhojpur, Bihar, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.7366046,
+                  "lng" : 84.852829
+               },
+               "southwest" : {
+                  "lat" : 25.1602916,
+                  "lng" : 84.2752991
+               }
+            },
+            "location" : {
+               "lat" : 25.466155,
+               "lng" : 84.5222189
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.7366046,
+                  "lng" : 84.852829
+               },
+               "southwest" : {
+                  "lat" : 25.1602916,
+                  "lng" : 84.2752991
+               }
+            }
+         },
+         "place_id" : "ChIJGQxF_11fjTkR_doBJrJRHTI",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

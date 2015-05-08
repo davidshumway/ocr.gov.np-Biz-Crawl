@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Okhaldhunga",
+               "short_name" : "Okhaldhunga",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56100",
+               "short_name" : "56100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Okhaldhunga, 56100, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.3439813,
+                  "lng" : 86.52595989999999
+               },
+               "southwest" : {
+                  "lat" : 27.2985707,
+                  "lng" : 86.4808774
+               }
+            },
+            "location" : {
+               "lat" : 27.316667,
+               "lng" : 86.5
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.3439813,
+                  "lng" : 86.52595989999999
+               },
+               "southwest" : {
+                  "lat" : 27.2985707,
+                  "lng" : 86.4808774
+               }
+            }
+         },
+         "place_id" : "ChIJb0RzoR1G6TkRdrok8H-bu70",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

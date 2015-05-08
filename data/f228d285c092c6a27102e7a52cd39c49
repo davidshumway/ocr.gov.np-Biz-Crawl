@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sarlahi",
+               "short_name" : "Sarlahi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Begusarai",
+               "short_name" : "Begusarai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bihar",
+               "short_name" : "BR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "851129",
+               "short_name" : "851129",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sarlahi, Bihar 851129, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.2805767,
+                  "lng" : 86.20164869999999
+               },
+               "southwest" : {
+                  "lat" : 25.2727185,
+                  "lng" : 86.187873
+               }
+            },
+            "location" : {
+               "lat" : 25.2749571,
+               "lng" : 86.19678789999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.2805767,
+                  "lng" : 86.20164869999999
+               },
+               "southwest" : {
+                  "lat" : 25.2727185,
+                  "lng" : 86.187873
+               }
+            }
+         },
+         "place_id" : "ChIJr9AZ9yEf8jkRAXLI-pt_tPI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

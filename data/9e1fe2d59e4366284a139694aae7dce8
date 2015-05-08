@@ -1,0 +1,145 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "587",
+            "short_name" : "587",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Fasil Road",
+            "short_name" : "Fasil Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Farash Khana",
+            "short_name" : "Farash Khana",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Chandni Chowk",
+            "short_name" : "Chandni Chowk",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New Delhi",
+            "short_name" : "New Delhi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Central Delhi",
+            "short_name" : "Central Delhi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Delhi",
+            "short_name" : "DL",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "110006",
+            "short_name" : "110006",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e587, Fasil Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eFarash Khana, Chandni Chowk\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew Delhi\u003c/span\u003e, \u003cspan class=\"region\"\u003eDelhi\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e110006\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "587, Fasil Road, Farash Khana, Chandni Chowk, New Delhi, Delhi 110006, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.652476,
+            "lng" : 77.219477
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "b24c84d03ba9b334acf81177fe5db9bd3930857e",
+      "name" : "Mujal Ali Paper Store",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 7:00 pm",
+            "Tuesday: 10:00 am – 7:00 pm",
+            "Wednesday: 10:00 am – 7:00 pm",
+            "Thursday: 10:00 am – 7:00 pm",
+            "Friday: 10:00 am – 7:00 pm",
+            "Saturday: 10:00 am – 7:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJKS9tYxP9DDkRJBUacX9WcgY",
+      "reference" : "CnRoAAAAs2JMtEnBVwb97VIlfQIMycfaU0LEdDXws6fsNUpQnc6NYrbu9t6LOHfUBVAP2usskC1EIm0A5Vz2RT5ib2OMZNOeqIrNotuaUgfBVd2wp0p2NwVKCmqOHHpjXxk1OFcCB_91idZbT6KiHoHBBZPxrBIQXyfdrOoa8x36TODbDNPeShoUoOSRArrm0u6ld0Tb45XSY1nUcCk",
+      "scope" : "GOOGLE",
+      "types" : [ "establishment" ],
+      "url" : "https://plus.google.com/106583519404517983976/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "587, Fasil Road, Farash Khana, Chandni Chowk, New Delhi"
+   },
+   "status" : "OK"
+}

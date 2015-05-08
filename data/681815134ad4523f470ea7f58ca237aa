@@ -1,0 +1,136 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "GT Road",
+            "short_name" : "GT Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Sarsol",
+            "short_name" : "Sarsol",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Aligarh",
+            "short_name" : "Aligarh",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Aligarh",
+            "short_name" : "Aligarh",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "202002",
+            "short_name" : "202002",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eGT Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSarsol\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAligarh\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e202002\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "GT Road, Sarsol, Aligarh, Uttar Pradesh 202002, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.918952,
+            "lng" : 78.032872
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "f50cb4de967282ee67788b72e5157c7f02066bd0",
+      "name" : "Radhey Motors",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0730"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0730"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0730"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0730"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0730"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1200"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0730"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 7:30 am – 6:00 pm",
+            "Tuesday: 7:30 am – 6:00 pm",
+            "Wednesday: 7:30 am – 6:00 pm",
+            "Thursday: 7:30 am – 6:00 pm",
+            "Friday: 7:30 am – 6:00 pm",
+            "Saturday: 7:30 am – 12:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJPwswpM2ldDkRsoh_Y5Fk-WA",
+      "reference" : "CmRgAAAA1g2r9L3oe_JELjsXul4NcVUsYPg2XiIuFBQK4GepynCdSSFzhUtwW0nFjL6DQRNmFar1HIhto8UPgDTbFNZAvRB-An5-g9Sy2AKwQmZk38B4bqD1h0d3CBdxgvORUzlPEhBFfiS1Tv5ZPUiR1o1UFHSYGhTkJCdHCWefkhYY1PgDkdjYMsj8BQ",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/109684150014375109653/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "GT Road, Sarsol, Aligarh",
+      "website" : "http://www.radheymotors.com/"
+   },
+   "status" : "OK"
+}

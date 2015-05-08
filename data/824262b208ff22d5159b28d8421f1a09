@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bardiya",
+               "short_name" : "Bardiya",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bardiya, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.64721,
+                  "lng" : 81.7475511
+               },
+               "southwest" : {
+                  "lat" : 28.0696326,
+                  "lng" : 81.04494079999999
+               }
+            },
+            "location" : {
+               "lat" : 28.3102323,
+               "lng" : 81.42789839999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.64721,
+                  "lng" : 81.7475511
+               },
+               "southwest" : {
+                  "lat" : 28.0696326,
+                  "lng" : 81.04494079999999
+               }
+            }
+         },
+         "place_id" : "ChIJ2wLb7I6JmDkRRQjASesnl6I",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

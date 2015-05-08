@@ -1,0 +1,100 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "16/5",
+            "short_name" : "16/5",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Mathura Road",
+            "short_name" : "Mathura Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Friends Colony",
+            "short_name" : "Friends Colony",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Faridabad",
+            "short_name" : "Faridabad",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Faridabad",
+            "short_name" : "Faridabad",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Haryana",
+            "short_name" : "HR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "121001",
+            "short_name" : "121001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e16/5, Mathura Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eFriends Colony\u003c/span\u003e, \u003cspan class=\"locality\"\u003eFaridabad\u003c/span\u003e, \u003cspan class=\"region\"\u003eHaryana\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e121001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "16/5, Mathura Road, Friends Colony, Faridabad, Haryana 121001, India",
+      "formatted_phone_number" : "0129 416 4322",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.41786,
+            "lng" : 77.310153
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "fa710c7543a8979c3f994c0e54bc66646247dafb",
+      "international_phone_number" : "+91 129 416 4322",
+      "name" : "Castrol Bike Zone",
+      "place_id" : "ChIJLyWIkLjdDDkRbl4489RbpYU",
+      "reference" : "CnRlAAAAALStXYZMCyQ5OwVa8WcOaL0d_QiAtgiYWdeKtn7P1FS1mqQUoVf_EUCzod3o5_iXwoeU8ypgD03Ex0t6z6exgqpJ7lfONCHfb8qwzj9bMwS2VXGJLqRR0wyTIbn7KxE-epUz2R1uXSR0ok9cfotGixIQyxvNQN8izW0Oz2RaaXZw4xoUq9uGpgtwXbW1Pn7oKJJGOIs7My4",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "sridhar mohankumar",
+            "author_url" : "https://plus.google.com/109336796590623838169",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Mummy",
+            "time" : 1429545979
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Amber Khanna",
+            "author_url" : "https://plus.google.com/106748604533086733205",
+            "language" : "en",
+            "rating" : 1,
+            "text" : "",
+            "time" : 1322479165
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/115689503740940746402/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "16/5, Mathura Road, Friends Colony, Faridabad",
+      "website" : "http://www.castrolbikezone.com/"
+   },
+   "status" : "OK"
+}

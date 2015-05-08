@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Shanghai South Road",
+            "short_name" : "Shanghai S Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Xigaze",
+            "short_name" : "Xigaze",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Xigaze",
+            "short_name" : "Xigaze",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Tibet",
+            "short_name" : "Tibet",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "China",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eShanghai South Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eXigaze\u003c/span\u003e, \u003cspan class=\"locality\"\u003eXigaze\u003c/span\u003e, \u003cspan class=\"region\"\u003eTibet\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eChina\u003c/span\u003e",
+      "formatted_address" : "Shanghai South Road, Xigaze, Xigaze, Tibet, China",
+      "geometry" : {
+         "location" : {
+            "lat" : 29.253679,
+            "lng" : 88.886768
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "566ed2cb5d76981d6aaeb76cfb067c5bf06b4cc5",
+      "name" : "Tianyi Youbeng Youju Service Station",
+      "place_id" : "ChIJ9eV0CEF63jkRhKR3X_iToDo",
+      "reference" : "CoQBdwAAAEgeYYHS6xSXhvESvzikBgTHMlwZ2QDZst1TJAVzTLBUpZ8inyZ_CZWoIvEskRPGn6l5DVsubm6QIQ5hPrnQfULAu79gxfh6XrkqJ7WC8-l4QVCVuoGa6gsF3R7E3BNr4mcvKvse19xGLHvpeXEZ2VTnL7J_TI942hGNNZWDzI6KEhCRGFaw-RDkdikUc5-tv4qUGhTIhbeG81LD4egA05HSWUXiQiqBbA",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/113669357236808572915/about?hl=en-US",
+      "utc_offset" : 480,
+      "vicinity" : "Shanghai South Road, Xigaze"
+   },
+   "status" : "OK"
+}

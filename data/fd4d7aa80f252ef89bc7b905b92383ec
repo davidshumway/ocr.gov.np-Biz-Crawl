@@ -1,0 +1,60 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ramechhap",
+               "short_name" : "Ramechhap",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Janakpur",
+               "short_name" : "Janakpur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ramechhap, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.369176,
+                  "lng" : 86.1779595
+               },
+               "southwest" : {
+                  "lat" : 27.2679053,
+                  "lng" : 86.02106089999999
+               }
+            },
+            "location" : {
+               "lat" : 27.333333,
+               "lng" : 86.083333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.369176,
+                  "lng" : 86.1779595
+               },
+               "southwest" : {
+                  "lat" : 27.2679053,
+                  "lng" : 86.02106089999999
+               }
+            }
+         },
+         "place_id" : "ChIJMbumn8jv6zkR0baq8EfQwKU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

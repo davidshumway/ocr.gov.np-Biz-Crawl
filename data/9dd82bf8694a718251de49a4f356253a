@@ -1,0 +1,137 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "DL Road",
+            "short_name" : "DL Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Kandholi",
+            "short_name" : "Kandholi",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Dehradun",
+            "short_name" : "Dehradun",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Dehradun",
+            "short_name" : "Dehradun",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttarakhand",
+            "short_name" : "UK",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "248001",
+            "short_name" : "248001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "106, \u003cspan class=\"street-address\"\u003eDL Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eKandholi\u003c/span\u003e, \u003cspan class=\"locality\"\u003eDehradun\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttarakhand\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e248001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "106, DL Road, Kandholi, Dehradun, Uttarakhand 248001, India",
+      "formatted_phone_number" : "099976 78440",
+      "geometry" : {
+         "location" : {
+            "lat" : 30.333123,
+            "lng" : 78.06196199999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "137f2da32fe09a62ad00eeab29f333c4398e08cd",
+      "international_phone_number" : "+91 99976 78440",
+      "name" : "Janta Cycle Store",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 8:00 pm",
+            "Tuesday: 9:00 am – 8:00 pm",
+            "Wednesday: 9:00 am – 8:00 pm",
+            "Thursday: 9:00 am – 8:00 pm",
+            "Friday: 9:00 am – 8:00 pm",
+            "Saturday: 9:00 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ_SBKr80pCTkRkv2F72Nyu8A",
+      "reference" : "CnRlAAAAvbau7ZRdpo-_Vnc4EsUZGWwJ2ymDtT1kAw9N59YqE1r0TxOJCyUif7JSxqUJza14crmLRaslsgCNv_P_FvjiW3v7Qr9LCFS5Ru4a6N-4lP5QjjMx35EDUJRwTcAjuoKmnBD8B7rI7XJGZnY_nfAU5hIQlyBc3aSJirIIS3EXeOxlsBoULefgkQi2dum8k9HdwIlPcOBgkPA",
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/116819061539459919719/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "106, DL Road, Kandholi, Dehradun"
+   },
+   "status" : "OK"
+}

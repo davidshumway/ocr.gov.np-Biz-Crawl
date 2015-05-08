@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kanchanpur",
+               "short_name" : "Kanchanpur",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Mahakali",
+               "short_name" : "Mahakali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kanchanpur, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.127572,
+                  "lng" : 80.54351799999999
+               },
+               "southwest" : {
+                  "lat" : 28.5676378,
+                  "lng" : 80.0499059
+               }
+            },
+            "location" : {
+               "lat" : 28.8372008,
+               "lng" : 80.32131059999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.127572,
+                  "lng" : 80.54351799999999
+               },
+               "southwest" : {
+                  "lat" : 28.5676378,
+                  "lng" : 80.0499059
+               }
+            }
+         },
+         "place_id" : "ChIJOemvtO66oTkRRLRV1bXvHwY",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,63 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Paper Mill Road",
+            "short_name" : "Paper Mill Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Pabna",
+            "short_name" : "Pabna",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Rajshahi Division",
+            "short_name" : "Rajshahi Division",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Bangladesh",
+            "short_name" : "BD",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003ePaper Mill Road\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eBangladesh\u003c/span\u003e",
+      "formatted_address" : "Paper Mill Road, Bangladesh",
+      "geometry" : {
+         "location" : {
+            "lat" : 24.077358,
+            "lng" : 89.049064
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "70c902952d70b9bae63e1f7e497c57abed4b0264",
+      "name" : "Paper Mill School",
+      "place_id" : "ChIJ3USu9Q6h_jkR-Izm1hK36Sg",
+      "reference" : "CnRkAAAAsvXMFvPYnzbBG5nbG9l9jNsQ0QmkCXa6sUFzcj17NRVcdFM4LrQTv7x0ehxPoVWWmL32bx0MPD4YisrxGmh216GCa-n1JkIFcE4v8qGKDspDbp90-prmNvkE9qClcektjJ0Jpt55nuybbqm4OC2ShhIQzeyBsu1uJh5dJx1Cj20-6xoUjTuikPJynnYsspHV-gXg7n5KuSU",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Hasib Ahmed",
+            "author_url" : "https://plus.google.com/115888984990138542186",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1402049907
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "school", "establishment" ],
+      "url" : "https://plus.google.com/112975105599572686729/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 360,
+      "vicinity" : "Paper Mill Road"
+   },
+   "status" : "OK"
+}

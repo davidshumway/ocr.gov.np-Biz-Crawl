@@ -1,0 +1,129 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "KL Mehta Road",
+            "short_name" : "KL Mehta Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "New Industrial Township 1",
+            "short_name" : "New Industrial Twp 1",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New Industrial Township",
+            "short_name" : "NIT",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Faridabad",
+            "short_name" : "Faridabad",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Haryana",
+            "short_name" : "HR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "121001",
+            "short_name" : "121001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Shop No. 48, Tikona Park, \u003cspan class=\"street-address\"\u003eKL Mehta Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNew Industrial Township 1, New Industrial Township\u003c/span\u003e, \u003cspan class=\"locality\"\u003eFaridabad\u003c/span\u003e, \u003cspan class=\"region\"\u003eHaryana\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e121001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Shop No. 48, Tikona Park, KL Mehta Road, New Industrial Township 1, New Industrial Township, Faridabad, Haryana 121001, India",
+      "formatted_phone_number" : "0129 405 7074",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.384332,
+            "lng" : 77.297894
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "a96fd6490cba0a33ed363d38b9c94238bf126e62",
+      "international_phone_number" : "+91 129 405 7074",
+      "name" : "Sai Auto Spare Parts",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 10:00 pm",
+            "Tuesday: 10:00 am – 10:00 pm",
+            "Wednesday: 10:00 am – 10:00 pm",
+            "Thursday: 10:00 am – 10:00 pm",
+            "Friday: 10:00 am – 10:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJWdW0qiTcDDkRd_-OGkVWxo4",
+      "reference" : "CnRoAAAAe445Ski0pG0fjzZ--L2lFEoSabFWFN9jwyFV0PQxuXjOElynccF_9z7Q0rBT-n2_TPkcaylOOlcQ11XzNcA229-ikkvohKg8kTqSkGSlVCeUKojWTFiMxdkrKAycZUB2T52lT2Muo7qiGU5rQJQBQBIQORT1urofr8beSh3Y_BvGzxoUzT2urIGnY7vXU3na6WPoEocX3KE",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/111460533318170242311/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Shop No. 48, Tikona Park, KL Mehta Road, New Industrial Township 1, New Industrial Township, Faridabad"
+   },
+   "status" : "OK"
+}

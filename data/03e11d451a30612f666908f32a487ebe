@@ -1,0 +1,78 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Ramghat Road",
+            "short_name" : "Ramghat Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Mansarovar Colony",
+            "short_name" : "Mansarovar Colony",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Aligarh",
+            "short_name" : "Aligarh",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Aligarh",
+            "short_name" : "Aligarh",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "202001",
+            "short_name" : "202001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eRamghat Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eMansarovar Colony\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAligarh\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e202001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Ramghat Road, Mansarovar Colony, Aligarh, Uttar Pradesh 202001, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.891677,
+            "lng" : 78.084262
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "8ed724d991ffef68cdcfd04789d94ecfd2cda89f",
+      "name" : "Sharma Auto Mobiles",
+      "place_id" : "ChIJ7SwwJJSkdDkR9ophKa6raj4",
+      "reference" : "CnRmAAAA2csNpEU6qXE9_4IPUY_64YjDRQX345rFYL1p9rG89BdqqcTswMCzzelLPnuWQUE_KZKvotpaGm1Z5Rii4XU30Cc4nx--3x3YX4Zwc8Jj3H8RsMMPMb8Z0s-LFJAc-9Ox6bCGpE29tKzA1gfEQ6F4kRIQ2HNtmEaLC2XMQiLbBsOArBoUQCu0nfogjx5_2ExYSJ2OZ47SoAI",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Dr. Anamika Varshney",
+            "author_url" : "https://plus.google.com/117980781932348040490",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1406879444
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/109026279317007692784/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Ramghat Road, Mansarovar Colony, Aligarh"
+   },
+   "status" : "OK"
+}

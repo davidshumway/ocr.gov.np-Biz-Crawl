@@ -1,0 +1,66 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "New Delhi",
+            "short_name" : "New Delhi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Delhi",
+            "short_name" : "DL",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "110052",
+            "short_name" : "110052",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "B-33/3, Backside, Group Industrial Area, Wazirpur, \u003cspan class=\"street-address\"\u003eWazirpur\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew Delhi\u003c/span\u003e, \u003cspan class=\"region\"\u003eDelhi\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e110052\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "B-33/3, Backside, Group Industrial Area, Wazirpur, Wazirpur, New Delhi, Delhi 110052, India",
+      "formatted_phone_number" : "011 4247 5601",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.701105,
+            "lng" : 77.166495
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "d7412d7f7d2ea96463a297836068c78f0e492d16",
+      "international_phone_number" : "+91 11 4247 5601",
+      "name" : "Amit Steel Traders",
+      "place_id" : "ChIJE4YGFxkCDTkR625DdJOeojg",
+      "reference" : "CnRlAAAAjFTpb65FkMI33eWMiQUwJIAqSu_4hD5FGE4UM7qgKM_SSsPx-uEe8xK3MfaAuWlJdGneDsRiI2CZiI-aD5rs3OcmqaT4Q1vQPLKGmAx32GZ5sz1gKjc8fP_rKjhg2EH1z1kf5S6Ll3GvTRrZCyxKzxIQvNy6Fkib9-yeV5LD7-KIXhoU7nt_Xduyw4715aU5ALAmNgNvE0g",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1305865690
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/100677765876232094916/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "B-33/3, Backside, Group Industrial Area, Wazirpur, Wazirpur, New Delhi"
+   },
+   "status" : "OK"
+}

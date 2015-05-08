@@ -1,0 +1,61 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Railway Road",
+            "short_name" : "Railway Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "City",
+            "short_name" : "City",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Aligarh",
+            "short_name" : "Aligarh",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Aligarh",
+            "short_name" : "Aligarh",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "202001",
+            "short_name" : "202001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eRailway Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCity\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAligarh\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e202001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Railway Road, City, Aligarh, Uttar Pradesh 202001, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.88586,
+            "lng" : 78.071806
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "cdd77d1cf212199654fe3c4d4781c9329085b025",
+      "name" : "Sachdeva Machinery",
+      "place_id" : "ChIJ0SdxOI-kdDkRu7WfC4zeslU",
+      "reference" : "CnRlAAAAfjgcTFFeSY1FbVpWkb6VwoxEVDc73PTU67tjZ7RW2t-lQPm7K9vJhlv2Obj4bM2vAz3JlUpdHZdzsvKNFwrdNAG1LEifWPo4UK76WeMxwuZ0Q5MmHFpl5pcM8CSa5LpDgSNkcFHvHpcU8N2N02I4kBIQLLh0EOGK4ZfVFsSPoVEgIhoU1zZuiVtPo3bTOrNFuxfMK-wSwCs",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/111248333415718943282/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Railway Road, City, Aligarh"
+   },
+   "status" : "OK"
+}

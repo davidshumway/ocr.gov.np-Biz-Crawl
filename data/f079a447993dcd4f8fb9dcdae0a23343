@@ -1,0 +1,166 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Nakur",
+            "short_name" : "Nakur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Saharanpur",
+            "short_name" : "Saharanpur",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "247342",
+            "short_name" : "247342",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eNakur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e247342\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Nakur, Uttar Pradesh 247342, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 29.91037,
+            "lng" : 77.30462199999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "93ae347fe1cd94f24eb1cc21ae0dd46ab1da1c6c",
+      "name" : "Petrol Pump",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0600"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 6:00 am – 10:00 pm",
+            "Tuesday: 6:00 am – 10:00 pm",
+            "Wednesday: 6:00 am – 10:00 pm",
+            "Thursday: 6:00 am – 10:00 pm",
+            "Friday: 6:00 am – 10:00 pm",
+            "Saturday: 6:00 am – 10:00 pm",
+            "Sunday: 6:00 am – 10:00 pm"
+         ]
+      },
+      "place_id" : "ChIJC_xhurSMDjkR8ZyVyQcPiIk",
+      "reference" : "CmRfAAAAeRmEUYxJDq5xvz1KnNqRck0qJ6OMbpYTf1nP6WWG0KDde3vLFrfSIBbmraoWS5K7ziiT0BbWFLNzZ6-8jaKLilL5GF1b7V7u_GL0SiZQ6RoMe2ONMN0M1R9MIOhC7iJJEhBBMwpwMF6z8FU9-Lgv0K8xGhTsoUgzWU7_dGeqoao06hIPgGslyQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Sanchit Mittal",
+            "author_url" : "https://plus.google.com/107090200669815097251",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Very good and excellent petrol",
+            "time" : 1365429393
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Aaditya Singhal",
+            "author_url" : "https://plus.google.com/107626394476036464694",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1403424702
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/103987677946347679572/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "Nakur"
+   },
+   "status" : "OK"
+}

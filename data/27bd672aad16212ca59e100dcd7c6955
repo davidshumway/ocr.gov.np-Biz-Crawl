@@ -1,0 +1,78 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Ghaziabad",
+            "short_name" : "Ghaziabad",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Ghaziabad",
+            "short_name" : "Ghaziabad",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "201001",
+            "short_name" : "201001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eGhaziabad\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e201001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Ghaziabad, Uttar Pradesh 201001, India",
+      "formatted_phone_number" : "099718 60204",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.667167,
+            "lng" : 77.427049
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "e5f084a1efef6484388aaad545f62c138c8243f0",
+      "international_phone_number" : "+91 99718 60204",
+      "name" : "Sumanglam Steels",
+      "place_id" : "ChIJr1UXdrXxDDkRlpz4WWCUU44",
+      "reference" : "CnRkAAAAoQD_tDxkNkXVJMY0OEw9RCY1hmjSbFRUlvCpsKg8ARsY648KUj75FlMkbPotOQykx5fdGOxVBJ4hgyiIngQSi59b9twrHwYMmPX0l83csXB7NUcARQFPyO9eHzoyRWUv-VhjFy0MBYlmEFFSgR2FbxIQHNxUwpwS4Mfs4yMqfNA4jxoUeeLingj9nS5L37Ic36kuPSPrGak",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Rishabh Goel",
+            "author_url" : "https://plus.google.com/104230080851502082520",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1371281934
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/104084755649889814052/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Ghaziabad"
+   },
+   "status" : "OK"
+}

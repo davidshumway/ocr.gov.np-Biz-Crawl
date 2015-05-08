@@ -1,0 +1,67 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Dehradun",
+            "short_name" : "Dehradun",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Uttarakhand",
+            "short_name" : "UK",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "248001",
+            "short_name" : "248001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "62, Gandhi Road, \u003cspan class=\"street-address\"\u003eGandhi Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eDehradun\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttarakhand\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e248001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "62, Gandhi Road, Gandhi Road, Dehradun, Uttarakhand 248001, India",
+      "formatted_phone_number" : "0135 262 4945",
+      "geometry" : {
+         "location" : {
+            "lat" : 30.319794,
+            "lng" : 78.040356
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "210c211617939fe9aecac2c6520ff23d7e63200d",
+      "international_phone_number" : "+91 135 262 4945",
+      "name" : "Ahuja Auto Store",
+      "place_id" : "ChIJbV78E5UpCTkRIycqvO3zJD8",
+      "reference" : "CnRjAAAAROMUA-UlanYYSKXZGqbTeApxM57ZEt4LHyttSuKSavtYQyg0gkromIi-pZAhErbYMhU4OgnrDRvo_3XFTeGHFfNVnVjRWPVqkRhk9iWgnYTOPvrCNZQhKTzxFB6IchQhNvT4YEVKA1cVhFtySEXcWhIQLscE12cdPVlphJt0pYxFkxoU6tYgO4Pl8F1zd8evgn41Npl3oKU",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Sanjay Ahuja",
+            "author_url" : "https://plus.google.com/104027050745789809997",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1413886310
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/109864939892018565635/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "62, Gandhi Road, Gandhi Road, Dehradun"
+   },
+   "status" : "OK"
+}

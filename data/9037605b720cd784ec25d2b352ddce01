@@ -1,0 +1,67 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "New Delhi",
+            "short_name" : "New Delhi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Delhi",
+            "short_name" : "DL",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "110084",
+            "short_name" : "110084",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Main Market, Ballabgarh, Near Gupta Hotel, \u003cspan class=\"street-address\"\u003eMain Market\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew Delhi\u003c/span\u003e, \u003cspan class=\"region\"\u003eDelhi\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e110084\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Main Market, Ballabgarh, Near Gupta Hotel, Main Market, New Delhi, Delhi 110084, India",
+      "formatted_phone_number" : "093118 48484",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.337433,
+            "lng" : 77.32123799999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "1bf95de111c76af20c542cb095e4775d66a6f0fc",
+      "international_phone_number" : "+91 93118 48484",
+      "name" : "Gopal Plaza",
+      "place_id" : "ChIJfa5zK5jbDDkRS69qtH_LQgQ",
+      "reference" : "CmReAAAAT0JU2zVCMHdi4NNImmQs4T4ZM6Rh6zy0vJ8he65ljFyl2fxo9b9ROHjOBslUb8wZ-IDt2sEDjFl2-oUXn7ovAaaIjBvcNUjIaDNUZWmQDWhyarkEhXTgI2E31Jqf2Cj9EhD5eM8UaIwJyVJ7wJEVt7HqGhQuxnJtRR0i38OnN_LZWIoNKY7FcA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Great collection........... Grab the opportunity to shop there",
+            "time" : 1248934748
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/113125036544311080608/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Main Market, Ballabgarh, Near Gupta Hotel, Main Market, New Delhi",
+      "website" : "http://gopalplaza.angelfire.com/showroom/"
+   },
+   "status" : "OK"
+}

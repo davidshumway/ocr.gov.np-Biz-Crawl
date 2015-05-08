@@ -1,0 +1,140 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Birpur Road",
+            "short_name" : "Birpur Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Garhi Cantonment",
+            "short_name" : "Garhi Cantonment",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Garhi Cantt",
+            "short_name" : "Garhi Cantt",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Dehradun",
+            "short_name" : "Dehradun",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Dehradun",
+            "short_name" : "Dehradun",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttarakhand",
+            "short_name" : "UK",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "248003",
+            "short_name" : "248003",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eBirpur Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eGarhi Cantonment, Garhi Cantt\u003c/span\u003e, \u003cspan class=\"locality\"\u003eDehradun\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttarakhand\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e248003\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Birpur Road, Garhi Cantonment, Garhi Cantt, Dehradun, Uttarakhand 248003, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 30.354725,
+            "lng" : 78.023031
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "e176384995df192e7252964762a8e4b2d0afc075",
+      "name" : "Fauji Sanitary Store",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: 10:00 am – 8:00 pm"
+         ]
+      },
+      "place_id" : "ChIJsd5GgwjWCDkR8W_HJtrxWf8",
+      "reference" : "CnRoAAAA_jWnb2N5NjovNChONRv7_yxAeotxy4y3dtJmIP4U3PVdhmdkM4jO3rUeCMsTKVSfUocUVrjzGjR8hIGraLFuYqaex97J8VTXBgJttCxLORKVXArktFNqSS02PvILesQf-u8IeJCjBp45YC4IjzdkFBIQhaWiOx1INpwK0nWxBYvI0RoUdp8HOtJo9DgGoDlFCaWMCWCgOTc",
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/116875294772065179371/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Birpur Road, Garhi Cantonment, Garhi Cantt, Dehradun"
+   },
+   "status" : "OK"
+}

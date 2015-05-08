@@ -1,0 +1,50 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Ghaziabad",
+            "short_name" : "Ghaziabad",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "201001",
+            "short_name" : "201001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "123, Navyug Market, \u003cspan class=\"street-address\"\u003eNavyug Market\u003c/span\u003e, \u003cspan class=\"locality\"\u003eGhaziabad\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e201001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "123, Navyug Market, Navyug Market, Ghaziabad, Uttar Pradesh 201001, India",
+      "formatted_phone_number" : "092112 10105",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.66838,
+            "lng" : 77.42788400000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "832ea378f22f212dd6e412f42baecdfb64f01a83",
+      "international_phone_number" : "+91 92112 10105",
+      "name" : "Amit Traders",
+      "place_id" : "ChIJB3c0rrXxDDkRkgRg0QoePkg",
+      "reference" : "CmRfAAAAaAXVrJDQxRQrCu2R3hyhITLkRz3YxsWpseRvK9U-i1FdQJk_vrj6Z_0Pun_aUlrmsoWfHbZw4RHw28zqNrd83Qcw8kJoNEt2Vhv4g2o2P3-moKblkVXk1OT3SqgF7n_OEhC5EwaFNTekBMttM0NF0jwVGhTniPzy8hGwaUZfqrO3SLZmER3XsQ",
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/101201462289159923576/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "123, Navyug Market, Navyug Market, Ghaziabad"
+   },
+   "status" : "OK"
+}

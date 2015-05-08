@@ -1,0 +1,46 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "206 Provincial Road",
+            "short_name" : "206 Provincial Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Coqen",
+            "short_name" : "Coqen",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Tibet",
+            "short_name" : "Tibet",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "China",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e206 Provincial Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCoqen\u003c/span\u003e, \u003cspan class=\"region\"\u003eTibet\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eChina\u003c/span\u003e",
+      "formatted_address" : "206 Provincial Road, Coqen, Tibet, China",
+      "geometry" : {
+         "location" : {
+            "lat" : 31.014696,
+            "lng" : 85.154995
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "716013ca106ba8c0aa1af1d83835fb57acd2c4fc",
+      "name" : "Ping'an Comprehensive Automobile Repair",
+      "place_id" : "ChIJ1Sk1pvOQxzkRgFJmO-o3g2g",
+      "reference" : "CoQBegAAAFjXP5kG1zlTiADkDgkQHhx78Zvjl9QKugTe98AEdZJjSafKKgL4i1HYnfbgZjfK3GPJ0lUJ-D-NppXZhtlfTg5Csc0pV_ASYoXQKn7R_DKoOGbrlEuTbtiIxlKE6alR10Vk1YpPROZODuO0KGZ9s0eW1MfLVqv8rt81MX_M-k6-EhAkRvet0uraDXD5u7svKz1DGhQz8u5QcGL7-r5eYGiMr26ck99I8w",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/105350452870783942710/about?hl=en-US",
+      "utc_offset" : 480,
+      "vicinity" : "206 Provincial Road, Coqen"
+   },
+   "status" : "OK"
+}

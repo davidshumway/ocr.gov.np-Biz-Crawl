@@ -1,0 +1,135 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "2",
+            "short_name" : "2",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Mall Road",
+            "short_name" : "Mall Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Ashiana Greens",
+            "short_name" : "Ashiana Greens",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Indirapuram",
+            "short_name" : "Indirapuram",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ghaziabad",
+            "short_name" : "Ghaziabad",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Ghaziabad",
+            "short_name" : "Ghaziabad",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "201014",
+            "short_name" : "201014",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e2, Mall Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eAshiana Greens, Indirapuram\u003c/span\u003e, \u003cspan class=\"locality\"\u003eGhaziabad\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e201014\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "2, Mall Road, Ashiana Greens, Indirapuram, Ghaziabad, Uttar Pradesh 201014, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.640169,
+            "lng" : 77.38203
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "80cfa0a802d239f8bd35e69ae1ee49ae52d650bd",
+      "name" : "Suvidha Electrical",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1230"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1230"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1230"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1230"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1230"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 12:30 – 6:30 pm",
+            "Tuesday: 12:30 – 6:30 pm",
+            "Wednesday: 12:30 – 6:30 pm",
+            "Thursday: 12:30 – 6:30 pm",
+            "Friday: 12:30 – 6:30 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJlX8YxgHwDDkRILVWUr7pIyg",
+      "reference" : "CnRlAAAAKuC1M_alGhrFgaXioZ7Aow8H3PRsfmBdVMcsj6P6-tAE1Po-XXMhErTWpPuEHLgL6iCDwmcIHKryyk_Fez3OQxXCX97cOXolSLt3UAjq1QW7A3BU0PGw5qBEheQuv_Ob2K_1aLC1l-DCgiUsoCp6EBIQ0BXUgduTUnLPTA1uZq7vzBoUKYMRuLacLv3M45foOH266YGUcBM",
+      "scope" : "GOOGLE",
+      "types" : [ "electrician", "establishment" ],
+      "url" : "https://plus.google.com/114971190852233401382/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "2, Mall Road, Ashiana Greens, Indirapuram, Ghaziabad"
+   },
+   "status" : "OK"
+}

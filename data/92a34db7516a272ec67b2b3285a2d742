@@ -1,0 +1,125 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Nehru Place",
+            "short_name" : "Nehru Place",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Nehru Place",
+            "short_name" : "Nehru Place",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New Delhi",
+            "short_name" : "New Delhi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "South Delhi",
+            "short_name" : "South Delhi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Delhi",
+            "short_name" : "DL",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "110019",
+            "short_name" : "110019",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "101, Harsh Bhawan, 64-65,, \u003cspan class=\"extended-address\"\u003eNehru Place, Nehru Place\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew Delhi\u003c/span\u003e, \u003cspan class=\"region\"\u003eDelhi\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e110019\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "101, Harsh Bhawan, 64-65,, Nehru Place, Nehru Place, New Delhi, Delhi 110019, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.549645,
+            "lng" : 77.253287
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "d62c5aed577bf69a12ef68f1a7a528f579fabef9",
+      "name" : "Microsoft",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1030"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:30 am – 7:00 pm",
+            "Tuesday: 10:30 am – 7:00 pm",
+            "Wednesday: 10:30 am – 7:00 pm",
+            "Thursday: 10:30 am – 7:00 pm",
+            "Friday: 10:30 am – 7:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ_5kmn8XjDDkR-Wtujpxwpug",
+      "reference" : "CmRdAAAAyXaPxOQ43IOIrubv7Ad_6wZogWCllNI0TbtCOv-Xxzh6jJZ4NccfB7HA0EaGBrExm4QvsG4zE6Blm8dBDg1Gm8WEeMAYrQaqe23vZem6t1h2cakbfqadwQV847uSNfvGEhDswiRhzUUdArU3lanY_7N1GhR6COX1LH4G7Sbsqwq4MT0LSvc4Hw",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/103903638087762842199/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "101, Harsh Bhawan, 64-65,, Nehru Place, Nehru Place, New Delhi"
+   },
+   "status" : "OK"
+}

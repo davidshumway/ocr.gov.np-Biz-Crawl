@@ -1,0 +1,61 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Delhi Road",
+            "short_name" : "Delhi Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Mohkam Pur",
+            "short_name" : "Mohkam Pur",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Meerut",
+            "short_name" : "Meerut",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Meerut",
+            "short_name" : "Meerut",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "250002",
+            "short_name" : "250002",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eDelhi Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eMohkam Pur\u003c/span\u003e, \u003cspan class=\"locality\"\u003eMeerut\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e250002\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Delhi Road, Mohkam Pur, Meerut, Uttar Pradesh 250002, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.952558,
+            "lng" : 77.678731
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "2b37e31e4a23bdf29d9733c65b8af5d1344b2877",
+      "name" : "Apollo Tyre",
+      "place_id" : "ChIJPXzuj3JkDDkRTYc_zAnWIJA",
+      "reference" : "CmRfAAAAa3QD1rSqOnxcLKh87V1ZUIRcaKFud054C0_sYy25rRSEC7qrUjKX4dOIpf8yE7SbM9UH2yuaP3lkwHr3pCkozs0Jea4SYGg7l_IQOwIT_B_cCv3xZhR9uqb2W8cuTOhaEhCRvefPgiCnh8SVQmu3B_dhGhStA-ijFNyBV_QXH8_eVRaF8EOLWw",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/101828199367352343661/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Delhi Road, Mohkam Pur, Meerut"
+   },
+   "status" : "OK"
+}

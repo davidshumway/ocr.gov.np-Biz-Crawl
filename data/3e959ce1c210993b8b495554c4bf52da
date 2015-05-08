@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Biratnagar",
+               "short_name" : "Biratnagar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Koshi",
+               "short_name" : "Koshi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Biratnagar, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.5106342,
+                  "lng" : 87.30532939999999
+               },
+               "southwest" : {
+                  "lat" : 26.3857907,
+                  "lng" : 87.2382849
+               }
+            },
+            "location" : {
+               "lat" : 26.4542,
+               "lng" : 87.27969999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.5106342,
+                  "lng" : 87.30532939999999
+               },
+               "southwest" : {
+                  "lat" : 26.3857907,
+                  "lng" : 87.2382849
+               }
+            }
+         },
+         "place_id" : "ChIJxRwzBEd07zkR_LNUXOSFmm0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

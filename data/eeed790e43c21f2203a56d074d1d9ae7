@@ -1,0 +1,158 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "5",
+            "short_name" : "5",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Garh Road",
+            "short_name" : "Garh Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Gandhi Nagar",
+            "short_name" : "Gandhi Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Meerut",
+            "short_name" : "Meerut",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Meerut",
+            "short_name" : "Meerut",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "250002",
+            "short_name" : "250002",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e5, Garh Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eGandhi Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eMeerut\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e250002\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "5, Garh Road, Gandhi Nagar, Meerut, Uttar Pradesh 250002, India",
+      "formatted_phone_number" : "097192 02047",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.972948,
+            "lng" : 77.715
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "8fa92cb5f0cd3546a8e8175c9d23cf95f9c48cc0",
+      "international_phone_number" : "+91 97192 02047",
+      "name" : "Keshav Furniture",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 9:00 pm",
+            "Tuesday: 10:00 am – 9:00 pm",
+            "Wednesday: 10:00 am – 9:00 pm",
+            "Thursday: 10:00 am – 9:00 pm",
+            "Friday: 10:00 am – 9:00 pm",
+            "Saturday: 10:00 am – 9:00 pm",
+            "Sunday: 10:00 am – 9:00 pm"
+         ]
+      },
+      "place_id" : "ChIJWxOsPexkDDkReB8_sO3JFog",
+      "reference" : "CnRkAAAAyGxO_cSi3Onf1KgikRqyaiTR32s4gizG84kBbPUJnt5zdx3SzyxIXm_8yL4XuITVClKOIGwUHBKkR-otMRqKIjTT7vgkC39C1M2DaWOiTpLzFnTevHmJ59jq4MHSo4B_qPVYdX2GUb2Q631RDgstzxIQ4YA6anYIs5gFwh6uK3Q3uhoU0Liqms0m3W1TaQvxm2WPhovFaPU",
+      "scope" : "GOOGLE",
+      "types" : [
+         "furniture_store",
+         "general_contractor",
+         "home_goods_store",
+         "store",
+         "establishment"
+      ],
+      "url" : "https://plus.google.com/111776939592716803955/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "5, Garh Road, Gandhi Nagar, Meerut"
+   },
+   "status" : "OK"
+}

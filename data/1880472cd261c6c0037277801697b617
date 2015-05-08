@@ -1,0 +1,135 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Haridwar Road",
+            "short_name" : "Haridwar Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Araghar",
+            "short_name" : "Araghar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Dehradun",
+            "short_name" : "Dehradun",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Dehradun",
+            "short_name" : "Dehradun",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttarakhand",
+            "short_name" : "UK",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "248001",
+            "short_name" : "248001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "73/1, \u003cspan class=\"street-address\"\u003eHaridwar Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eAraghar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eDehradun\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttarakhand\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e248001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "73/1, Haridwar Road, Araghar, Dehradun, Uttarakhand 248001, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 30.30625,
+            "lng" : 78.048248
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "f870d6b0ca1533eb7415ffa613d124a9ccbde81f",
+      "name" : "Shiv General Store",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 9:00 pm",
+            "Tuesday: 9:00 am – 9:00 pm",
+            "Wednesday: 9:00 am – 9:00 pm",
+            "Thursday: 9:00 am – 9:00 pm",
+            "Friday: 9:00 am – 9:00 pm",
+            "Saturday: 9:00 am – 9:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJicGyB6QpCTkRsolZ4580-qs",
+      "reference" : "CnRmAAAA80NuS1AIgHx-OCn7gcVMUFG04KCHjLGR07lnI8h6LNsASXKy1KywskI7Yk46-fqjh0OComGKvXKa_Ih1XIt5kxxxEyGnMWSpxTWVz21qn80Fk79jnVJlxGVICqUZkU6qjbIpPajJwcjQI60Y6Ey3SBIQdIevW8C0qwbrfnF4rMcjNhoU7a_QMiqRhKZeSy5qabhMm8S1p2I",
+      "scope" : "GOOGLE",
+      "types" : [ "food", "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/116796047689070138030/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "73/1, Haridwar Road, Araghar, Dehradun"
+   },
+   "status" : "OK"
+}

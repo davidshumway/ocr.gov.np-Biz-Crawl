@@ -1,0 +1,137 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "South Patel Nagar",
+            "short_name" : "South Patel Nagar",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Patel Nagar",
+            "short_name" : "Patel Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New Delhi",
+            "short_name" : "New Delhi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Central Delhi",
+            "short_name" : "Central Delhi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Delhi",
+            "short_name" : "DL",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "110008",
+            "short_name" : "110008",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "55/1,Near Metro Station, \u003cspan class=\"extended-address\"\u003eSouth Patel Nagar, Patel Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew Delhi\u003c/span\u003e, \u003cspan class=\"region\"\u003eDelhi\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e110008\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "55/1,Near Metro Station, South Patel Nagar, Patel Nagar, New Delhi, Delhi 110008, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.645468,
+            "lng" : 77.16808
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/electronics-71.png",
+      "id" : "12ace44fbb98e63d3d925688789d8be5bce63529",
+      "name" : "Car Throb",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1100"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 11:00 am – 7:00 pm",
+            "Wednesday: 11:00 am – 7:00 pm",
+            "Thursday: 11:00 am – 7:00 pm",
+            "Friday: 11:00 am – 7:00 pm",
+            "Saturday: 11:00 am – 7:00 pm",
+            "Sunday: 11:00 am – 7:00 pm"
+         ]
+      },
+      "place_id" : "ChIJ2cGOpOsCDTkR3SixrV0u3b8",
+      "reference" : "CmRdAAAAMlPVMN9o8kVy1Yo2qhFX3-8ISQlCvWS9fLHrEhxnLn23YZxlfOyzU39ItnWl7bAzANzYz4jn76xpbPlZ1vLT_Vz74Fg-lRaMNJ3Q75jefE0RCKpEYfTFnaF77wGi5EIzEhDMLFW3yiYX6DnPBYvQ8DKTGhTvUcxVobdqQa-IRfJJrb8moptR3Q",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "electronics_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/102863864870892759502/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "55/1,Near Metro Station, South Patel Nagar, Patel Nagar, New Delhi"
+   },
+   "status" : "OK"
+}

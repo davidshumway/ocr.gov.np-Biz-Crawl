@@ -1,0 +1,142 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Birpur Road",
+            "short_name" : "Birpur Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Garhi Cantonment",
+            "short_name" : "Garhi Cantonment",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Garhi Cantt",
+            "short_name" : "Garhi Cantt",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Dehradun",
+            "short_name" : "Dehradun",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Dehradun",
+            "short_name" : "Dehradun",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttarakhand",
+            "short_name" : "UK",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "248003",
+            "short_name" : "248003",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eBirpur Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eGarhi Cantonment, Garhi Cantt\u003c/span\u003e, \u003cspan class=\"locality\"\u003eDehradun\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttarakhand\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e248003\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Birpur Road, Garhi Cantonment, Garhi Cantt, Dehradun, Uttarakhand 248003, India",
+      "formatted_phone_number" : "092587 20009",
+      "geometry" : {
+         "location" : {
+            "lat" : 30.35359,
+            "lng" : 78.024368
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "51b4661eaf251efe056871a5c25f4d02f2797602",
+      "international_phone_number" : "+91 92587 20009",
+      "name" : "Singh Traders",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 9:00 am – 8:00 pm",
+            "Wednesday: 9:00 am – 8:00 pm",
+            "Thursday: 9:00 am – 8:00 pm",
+            "Friday: 9:00 am – 8:00 pm",
+            "Saturday: 9:00 am – 8:00 pm",
+            "Sunday: 9:00 am – 8:00 pm"
+         ]
+      },
+      "place_id" : "ChIJEYyeEQbWCDkRHp9kD0Js6rg",
+      "reference" : "CnRhAAAA3v7sYsFuOUspUxgWE7xKB9GrT7tRx2EqiA8M3OfYb0nK0MDHJLik5NjV1-w-Q3aZWZF_EAMn378kyLkHJ01NHjKkPp9o5l1ssgjT5od-MhlLBHqwNQhpADIy96OEKVofGDHqBuc9FsPBOA1qbpPo9RIQ4wUzRvCyC1smZC1EHSDW6hoUxkN9GEP6hzY06vnOQh2vqm3w4pY",
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/100512583400400610482/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Birpur Road, Garhi Cantonment, Garhi Cantt, Dehradun"
+   },
+   "status" : "OK"
+}

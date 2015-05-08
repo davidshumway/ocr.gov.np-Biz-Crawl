@@ -1,0 +1,132 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "110",
+            "short_name" : "110",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Master Ramswaroop Marg",
+            "short_name" : "Master Ramswaroop Marg",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Race Course",
+            "short_name" : "Race Course",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Dehradun",
+            "short_name" : "Dehradun",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Dehradun",
+            "short_name" : "Dehradun",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttarakhand",
+            "short_name" : "UK",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "248001",
+            "short_name" : "248001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e110, Master Ramswaroop Marg\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eRace Course\u003c/span\u003e, \u003cspan class=\"locality\"\u003eDehradun\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttarakhand\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e248001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "110, Master Ramswaroop Marg, Race Course, Dehradun, Uttarakhand 248001, India",
+      "formatted_phone_number" : "0135 329 5409",
+      "geometry" : {
+         "location" : {
+            "lat" : 30.309055,
+            "lng" : 78.038995
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "de7ce96400de41dd1b1c6fe6f2297a368fe62507",
+      "international_phone_number" : "+91 135 329 5409",
+      "name" : "Falcon Tyres Ltd",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 5:00 pm",
+            "Tuesday: 10:00 am – 5:00 pm",
+            "Wednesday: 10:00 am – 5:00 pm",
+            "Thursday: 10:00 am – 5:00 pm",
+            "Friday: 10:00 am – 5:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ4XmNtZkpCTkReT3RjebVi5A",
+      "reference" : "CnRkAAAAjoCSIbaR92L6rVwUyFPnr00C_XcmN0D2k2HhCk2u40lyV51vDYKMuEun8MMgBpF0PK4qaFrbrUc9vFVM7foEKpJccr-ypsk8qllfDuMx_X1qrPIW0o2f6j17vOYTsiEqXAVFbUPMT9BH9BMdTG2yLRIQW7w_LGadINVR_k-zEUx4DxoUNB_jBtfaIN_4mBc8GMg4JANR5GQ",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/111113888084249581193/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "110, Master Ramswaroop Marg, Race Course, Dehradun"
+   },
+   "status" : "OK"
+}

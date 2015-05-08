@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "318国道",
+            "short_name" : "318国道",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Lhatse",
+            "short_name" : "Lhatse",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Xigaze",
+            "short_name" : "Xigaze",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Tibet",
+            "short_name" : "Tibet",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "China",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003eChina\u003c/span\u003e, \u003cspan class=\"region\"\u003eTibet\u003c/span\u003e, \u003cspan class=\"locality\"\u003eXigaze\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eLhatse\u003c/span\u003e, \u003cspan class=\"street-address\"\u003e318国道\u003c/span\u003e",
+      "formatted_address" : "China, Tibet, Xigaze, Lhatse, 318国道",
+      "geometry" : {
+         "location" : {
+            "lat" : 29.086006,
+            "lng" : 87.63374399999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "8ac020d16d3c44bf250cce0a149fc122563d48f8",
+      "name" : "Xueyu Automobile Repair",
+      "place_id" : "ChIJ1-RTKZI23TkR_l_TAHqu0ro",
+      "reference" : "CnRrAAAAJ_IfDcrhzJ2wWYrMJVR6-bKIEJ0zHGPdpkxjaVtmbzMRF9KmbPFXYVMPAzbkJQW0oS5numj3XRjbJ2QDCfnIVunXIAAcWo4X_ayVr8aaKjep0M_rqdA84fFK9C2-Gi0RqhbRsqxidCN5MhLYk9BQYRIQnmvH7w6CBZrdWVA815EvfRoUJCfF5DEZfH3Zq8yRYqrv-5nRlVQ",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/104881187892788276182/about?hl=en-US",
+      "utc_offset" : 480,
+      "vicinity" : "318国道, Lhatse, Xigaze"
+   },
+   "status" : "OK"
+}

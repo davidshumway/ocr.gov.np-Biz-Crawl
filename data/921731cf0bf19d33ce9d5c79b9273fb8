@@ -1,0 +1,154 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "National Highway 24A",
+            "short_name" : "NH 24A",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Itaunja",
+            "short_name" : "Itaunja",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "227205",
+            "short_name" : "227205",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Sitapur Road, \u003cspan class=\"street-address\"\u003eNational Highway 24A\u003c/span\u003e, \u003cspan class=\"locality\"\u003eItaunja\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e227205\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Sitapur Road, National Highway 24A, Itaunja, Uttar Pradesh 227205, India",
+      "formatted_phone_number" : "093364 50450",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.082609,
+            "lng" : 80.89756800000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "bde7d21c174f286f7d1ebae769a13bd1632e04c1",
+      "international_phone_number" : "+91 93364 50450",
+      "name" : "Narayan Auto Mobiles",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 am – 8:00 pm",
+            "Tuesday: 8:00 am – 8:00 pm",
+            "Wednesday: 8:00 am – 8:00 pm",
+            "Thursday: 8:00 am – 8:00 pm",
+            "Friday: 8:00 am – 8:00 pm",
+            "Saturday: 8:00 am – 8:00 pm",
+            "Sunday: 8:00 am – 8:00 pm"
+         ]
+      },
+      "place_id" : "ChIJEWJrFOJNmTkRYnulEOTG_oM",
+      "reference" : "CnRoAAAAHU_5eMFAFgvYGtBCeWKrJo7WZlb3CDGRBWvdtSz_KzlUyKa668zZdglYSQP2hSE3YvmUS93C9I7fO_5OdenrcBN3cpXPZrJHU5nbqMs-71qvWNykkSJ95PksezqVCLNuA_7rOiH0kMmwDJ-J3hj-HRIQyqQs8FKtqra843urjkUIjBoUlpaab43_7gdUJHqZL_1kUSYDcvM",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Chauhan Traders",
+            "author_url" : "https://plus.google.com/107540949912313348230",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Call",
+            "time" : 1415203257
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/106711126923919769772/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Sitapur Road, National Highway 24A, Itaunja"
+   },
+   "status" : "OK"
+}

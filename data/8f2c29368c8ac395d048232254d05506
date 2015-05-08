@@ -1,0 +1,113 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "New Delhi",
+            "short_name" : "New Delhi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Delhi",
+            "short_name" : "DL",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "110034",
+            "short_name" : "110034",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "15th Floor, Eros Towers, Nehru Place, \u003cspan class=\"locality\"\u003eNew Delhi\u003c/span\u003e, \u003cspan class=\"region\"\u003eDelhi\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e110034\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "15th Floor, Eros Towers, Nehru Place, New Delhi, Delhi 110034, India",
+      "formatted_phone_number" : "098101 59444",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.549612,
+            "lng" : 77.251617
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "8f45491c3165942eac602bcd14434f845149b872",
+      "international_phone_number" : "+91 98101 59444",
+      "name" : "Globus Eight Pvt Ltd",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 6:00 pm",
+            "Tuesday: 9:00 am – 6:00 pm",
+            "Wednesday: 9:00 am – 6:00 pm",
+            "Thursday: 9:00 am – 6:00 pm",
+            "Friday: 9:00 am – 6:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJb4Lxe8_jDDkRhgEDCnPnnwE",
+      "reference" : "CnRnAAAAxIH2_nubXSwfBiyZaBLD4T5fzdbKTHjJUQSnYzvwetszpuBiQR12t08LIb_RdFIeUnmHpTmcmO2Wt1kP_v9uwKZ1sR_qRt4ODXdNUvcmERd3txZyXTkumgdutO3VDbCzTdNYFFIjp0zPQPBo1pl0exIQp8I3abmYJnSBDKBAlprusRoU9ZriR0DM16ou-7nTVLy2x_emfZI",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/102614986085303937529/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "15th Floor, Eros Towers, Nehru Place, New Delhi",
+      "website" : "http://www.g8.net/"
+   },
+   "status" : "OK"
+}

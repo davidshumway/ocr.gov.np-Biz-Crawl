@@ -1,0 +1,65 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Noida",
+            "short_name" : "Noida",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Delhi",
+            "short_name" : "DL",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "201301",
+            "short_name" : "201301",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Sharma Market, Main Road, Near Shiv Mandir, Village Hoshiyarpur, Sector-51, \u003cspan class=\"street-address\"\u003eMain Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNoida\u003c/span\u003e, \u003cspan class=\"region\"\u003eDelhi\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e201301\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Sharma Market, Main Road, Near Shiv Mandir, Village Hoshiyarpur, Sector-51, Main Road, Noida, Delhi 201301, India",
+      "formatted_phone_number" : "098180 10486",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.581567,
+            "lng" : 77.36575000000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "e2dd5acd6160e923846708353fff1316be6d03c5",
+      "international_phone_number" : "+91 98180 10486",
+      "name" : "India Auto Centre",
+      "place_id" : "ChIJA6i-wJrlDDkRDG7EKDrpVYU",
+      "reference" : "CnRlAAAAggi5hVf-WfkxYRJZ1IWU-8bHgbHp1hrvU_Kn2ugrZlGDMOtARVC2wXL2ySY3GCl2iVmo4QaYBlHeZ52HRWHDfXVNqoiuYooka7ip2lOlHmu1qg7oGqyFOCU9RDQ4znmKGoxrAVqQ_oLMoS1JiSkR4RIQMoyOyQkUtCMjSVM1fbqcRhoUwH_PMBNelfRHmKVzS6nK1QurP7E",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Sukhwinder Singh",
+            "author_url" : "https://plus.google.com/103808446379658802502",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "2 whe only",
+            "time" : 1397112370
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/117792635628051220698/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Sharma Market, Main Road, Near Shiv Mandir, Village Hoshiyarpur, Sector-51, Main Road, Noida"
+   },
+   "status" : "OK"
+}

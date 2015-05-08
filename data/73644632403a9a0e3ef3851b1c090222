@@ -1,0 +1,144 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "27",
+            "short_name" : "27",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Brabourne Road",
+            "short_name" : "Brabourne Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "China Bazar",
+            "short_name" : "China Bazar",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Kolkata",
+            "short_name" : "Kolkata",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "West Bengal",
+            "short_name" : "WB",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "700001",
+            "short_name" : "700001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e27, Brabourne Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eChina Bazar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKolkata\u003c/span\u003e, \u003cspan class=\"region\"\u003eWest Bengal\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e700001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "27, Brabourne Road, China Bazar, Kolkata, West Bengal 700001, India",
+      "formatted_phone_number" : "033 2242 7087",
+      "geometry" : {
+         "location" : {
+            "lat" : 22.579155,
+            "lng" : 88.352254
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "d3f31e00b27897d7d33263d0a8ecc3063bc02a2c",
+      "international_phone_number" : "+91 33 2242 7087",
+      "name" : "PBS Packaging Pvt. Ltd.",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 5:00 pm",
+            "Tuesday: 9:00 am – 5:00 pm",
+            "Wednesday: 9:00 am – 5:00 pm",
+            "Thursday: 9:00 am – 5:00 pm",
+            "Friday: 9:00 am – 5:00 pm",
+            "Saturday: 9:00 am – 5:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJg4R3Inl2AjoRaadMth1SzSY",
+      "reference" : "CnRqAAAAoder6_XjsNQp3am1na147kK-KCtVfQ2xdKZ0D2vy_64MSwHa34NLQYGAjlnrAFRWxhIvkAdctjZGNW3g7zxHioC-2VZ8VkUvafHxbqdA6VPQgDMMukWtuD_-ZUBlUS9_agfMoAewI8jZRuHc4drvtxIQQmyIq8GsSB-WntCRmAWG8BoUuJ8cL4Hil8WHcl6AG5i2H4NIwSk",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "establishment" ],
+      "url" : "https://plus.google.com/107347306191861878585/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "27, Brabourne Road, China Bazar, Kolkata"
+   },
+   "status" : "OK"
+}

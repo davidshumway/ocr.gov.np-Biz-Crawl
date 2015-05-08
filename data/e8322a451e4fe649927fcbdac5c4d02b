@@ -1,0 +1,86 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "National Highway 93",
+            "short_name" : "NH 93",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Water Works Colony",
+            "short_name" : "Water Works Colony",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Hathras",
+            "short_name" : "Hathras",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Hathras",
+            "short_name" : "Hathras",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "204101",
+            "short_name" : "204101",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNational Highway 93\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eWater Works Colony\u003c/span\u003e, \u003cspan class=\"locality\"\u003eHathras\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e204101\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "National Highway 93, Water Works Colony, Hathras, Uttar Pradesh 204101, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.602778,
+            "lng" : 78.05311
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "c2d800c4445c236d9f9cc71b355de041fddfa870",
+      "name" : "Ranjan Auto Traders",
+      "place_id" : "ChIJQThiLTCbdDkR6lp-euckuAE",
+      "reference" : "CnRmAAAA9r9dB293sKdZK3ab1P9Sm61GzLfuiFUPqHBzXK-9ZV2O_ni4zgje2p4Q-XX9U_fJWC4KRgNsXwZhfDzZqL-Uznb7xx16vkCxgkSDYaTzh7xb6EsvKSp4hGszxPSAHs5feTkkHoE7_xYQLnwMPw3MVBIQtIUkWbsOLod39UoVZGRiRRoUTFGBvqWhTbw2dFCenuKYWv_e8lQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Anubhav Ranjan",
+            "author_url" : "https://plus.google.com/106387856106986571635",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Good shop for car automotive parts and engine oil.",
+            "time" : 1375853015
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/109927082348273929463/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "National Highway 93, Water Works Colony, Hathras"
+   },
+   "status" : "OK"
+}

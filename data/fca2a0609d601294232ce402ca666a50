@@ -1,0 +1,78 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Ramghat Road",
+            "short_name" : "Ramghat Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Sukhravali",
+            "short_name" : "Sukhravali",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Talaspur Kalan",
+            "short_name" : "Talaspur Kalan",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Aligarh",
+            "short_name" : "Aligarh",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "202002",
+            "short_name" : "202002",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eRamghat Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSukhravali\u003c/span\u003e, \u003cspan class=\"locality\"\u003eTalaspur Kalan\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e202002\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Ramghat Road, Sukhravali, Talaspur Kalan, Uttar Pradesh 202002, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.915982,
+            "lng" : 78.116091
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "302ce36693168c3cc5f21ae2c67112b9c25ad533",
+      "name" : "Prem Hardware",
+      "place_id" : "ChIJMfZrGCy7dDkR_CuloxqWpYg",
+      "reference" : "CnRhAAAADyeFX3kYLhxO27nz29UpJlnL0Kvi93dMw0jK6N3_soYGHxWDyxHLFSFdoXSXW8HFYuRSwecLzEEuxY-gYEG5SEQvqxl_0kZSNI7Dqq6XJcbBRXAm9yxQdLpeyRCAyA6whnVzZETrApzqfdymS6bLyxIQPrBEBUtV6W6f7mb6mHweGhoUHf2MkuNJxM76-b1aHScPq6wDO-U",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Himanshu Singh",
+            "author_url" : "https://plus.google.com/108784681649805647993",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Nice shop",
+            "time" : 1377933623
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/111554599168841809071/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Ramghat Road, Sukhravali, Talaspur Kalan"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Khalanga",
+               "short_name" : "Khalanga",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Khalanga, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.8078281,
+                  "lng" : 82.2862458
+               },
+               "southwest" : {
+                  "lat" : 28.6758856,
+                  "lng" : 82.15104099999999
+               }
+            },
+            "location" : {
+               "lat" : 28.73,
+               "lng" : 82.22
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.8078281,
+                  "lng" : 82.2862458
+               },
+               "southwest" : {
+                  "lat" : 28.6758856,
+                  "lng" : 82.15104099999999
+               }
+            }
+         },
+         "place_id" : "ChIJ_XyF6ExLvTkRC9ZSlR5qmtM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

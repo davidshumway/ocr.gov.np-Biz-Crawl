@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Udayapur",
+               "short_name" : "Udayapur",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sagarmatha",
+               "short_name" : "Sagarmatha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Udayapur, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.1576077,
+                  "lng" : 87.16846369999999
+               },
+               "southwest" : {
+                  "lat" : 26.7020974,
+                  "lng" : 86.24516489999999
+               }
+            },
+            "location" : {
+               "lat" : 26.8997919,
+               "lng" : 86.7013894
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.1576077,
+                  "lng" : 87.16846369999999
+               },
+               "southwest" : {
+                  "lat" : 26.7020974,
+                  "lng" : 86.24516489999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJqQuWT3HF7jkR3IY1zIldiV4",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

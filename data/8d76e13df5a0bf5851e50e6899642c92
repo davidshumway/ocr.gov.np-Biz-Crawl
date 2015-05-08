@@ -1,0 +1,61 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Railway Road",
+            "short_name" : "Railway Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "City",
+            "short_name" : "City",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Aligarh",
+            "short_name" : "Aligarh",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Aligarh",
+            "short_name" : "Aligarh",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "202001",
+            "short_name" : "202001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eRailway Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCity\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAligarh\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e202001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Railway Road, City, Aligarh, Uttar Pradesh 202001, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.886426,
+            "lng" : 78.071907
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "51c99c337723bc1ec876a626fe9fa7e6dc606ba5",
+      "name" : "Pankaj Traders",
+      "place_id" : "ChIJQ5GHO4-kdDkR0U-5djaAIq0",
+      "reference" : "CnRiAAAAt13fni7pFqRo3fRhGlzhDdJpDoXE7aPbV6Paw5ZbOqHCgwvUJfntPgPwfosk2RHayUTRrJPSBf2-4mGQeHoPTKiCr_Q1-wIgJ2OsicZ7LlnytnwhMrWxYc2R1mVip0V6bxjGXHGxMJYkZulnZrPruxIQp3md7mKRomcHkMx45H3WHRoUB0WVCOXoly4_SKbjIvdF3LGTusk",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/116990146955856664579/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Railway Road, City, Aligarh"
+   },
+   "status" : "OK"
+}

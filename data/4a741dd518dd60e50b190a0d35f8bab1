@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jhapa",
+               "short_name" : "Jhapa",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Mechi",
+               "short_name" : "Mechi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jhapa, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.8464164,
+                  "lng" : 88.1874637
+               },
+               "southwest" : {
+                  "lat" : 26.3611278,
+                  "lng" : 87.63862619999999
+               }
+            },
+            "location" : {
+               "lat" : 26.63982,
+               "lng" : 87.89424509999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8464164,
+                  "lng" : 88.1874637
+               },
+               "southwest" : {
+                  "lat" : 26.3611278,
+                  "lng" : 87.63862619999999
+               }
+            }
+         },
+         "place_id" : "ChIJiYUt_bi85TkRHHEEYhFWegE",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

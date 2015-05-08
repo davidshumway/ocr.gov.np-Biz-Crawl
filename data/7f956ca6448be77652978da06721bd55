@@ -1,0 +1,67 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Dehradun",
+            "short_name" : "Dehradun",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Uttarakhand",
+            "short_name" : "UK",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "248001",
+            "short_name" : "248001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "48, Gandhi Road, \u003cspan class=\"street-address\"\u003eGandhi Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eDehradun\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttarakhand\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e248001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "48, Gandhi Road, Gandhi Road, Dehradun, Uttarakhand 248001, India",
+      "formatted_phone_number" : "0135 265 5018",
+      "geometry" : {
+         "location" : {
+            "lat" : 30.319794,
+            "lng" : 78.040356
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "6a53adf61ff0ed68768789a1b12fbe4ef09bf42c",
+      "international_phone_number" : "+91 135 265 5018",
+      "name" : "Gautam Service Station",
+      "place_id" : "ChIJbV78E5UpCTkRpTanpEybfak",
+      "reference" : "CnRqAAAAdul1H_RKY7tldH3ln9IgptE6yvX3CQ9pQ6E9u1Z3V9bXq2OV3OiUV590HlgeWICibXu4_M19pvhB5BzkrPjg_JbYfI0DnXyMXRchNKu6BYQNtqtmVVxE31kW4Br-OYXcEI7SpswBSNTeqNki5rqsEhIQgVnPKXy-ERhFebyfcDZ-GxoUyyEtq_j5Grn9rDhjfqKgpM-O36I",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "GD Bhatt",
+            "author_url" : "https://plus.google.com/105068047495748881001",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1337773649
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/117633476337547686132/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "48, Gandhi Road, Gandhi Road, Dehradun"
+   },
+   "status" : "OK"
+}

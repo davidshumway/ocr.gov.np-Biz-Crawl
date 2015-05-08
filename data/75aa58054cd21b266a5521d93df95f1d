@@ -1,0 +1,81 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Gokulpuri Janta Road",
+            "short_name" : "Gokulpuri Janta Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Kharkhauda",
+            "short_name" : "Kharkhauda",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Meerut",
+            "short_name" : "Meerut",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "245206",
+            "short_name" : "245206",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eGokulpuri Janta Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKharkhauda\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e245206\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Gokulpuri Janta Road, Kharkhauda, Uttar Pradesh 245206, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.838548,
+            "lng" : 77.742936
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "1c1716e2ccf5d764bf2b2607a73303459f34caee",
+      "name" : "Jai Durga Spare Parts",
+      "place_id" : "ChIJCZrPKAqIDDkRomdIEbngx84",
+      "reference" : "CnRpAAAAz3-8bLwPSsZgaYxTcasxoFuPZT7K_SnUqOCB7tFXQy0lqJ8lNNlmz9wHd_rzXPVnJtjt2QVFFIKMHp25NkH1Jlo0rkz_vZRw7t--9qAWbpkkh54mGMKcKcSW8xwQ2xZClVmo5vf1sY30zdSVlveJnRIQni1BzBBehL8Ht9AdcQOrtBoUL55Da7rLMqJEclXK5MQyjN_7TBg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 2,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 2,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "shilpi garg",
+            "author_url" : "https://plus.google.com/117877038702044808696",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "One of the best automobile shop in town",
+            "time" : 1358558653
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/110186733533346138742/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Gokulpuri Janta Road, Kharkhauda"
+   },
+   "status" : "OK"
+}

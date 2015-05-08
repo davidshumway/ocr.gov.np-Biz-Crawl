@@ -1,0 +1,58 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "20",
+            "short_name" : "20",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Shanghai Middle Road",
+            "short_name" : "Shanghai Middle Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Xigaze",
+            "short_name" : "Xigaze",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Xigaze",
+            "short_name" : "Xigaze",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Tibet",
+            "short_name" : "Tibet",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "China",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e20 Shanghai Middle Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eXigaze\u003c/span\u003e, \u003cspan class=\"locality\"\u003eXigaze\u003c/span\u003e, \u003cspan class=\"region\"\u003eTibet\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eChina\u003c/span\u003e",
+      "formatted_address" : "20 Shanghai Middle Road, Xigaze, Xigaze, Tibet, China",
+      "formatted_phone_number" : "0892 883 9127",
+      "geometry" : {
+         "location" : {
+            "lat" : 29.26258,
+            "lng" : 88.884293
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "02a65ea3fdc13d046efd166681e42014b2cd870b",
+      "international_phone_number" : "+86 892 883 9127",
+      "name" : "Sanhe Import Automobile Repair Factory",
+      "place_id" : "ChIJZccVBkh63jkR3-SGqXxPUO0",
+      "reference" : "CoQBegAAABag0vdABlXkS3DK5zmOLdPZQELX8qDxKFwyOiHslkE6Po_s9po2ZK0Sh7D2dHNxdIUzlUDJCsMZsgUEMoE4-hmsJjYNxCzphqmykKpWXNJFauIS3z7r2w2szyPNeB9yIEIflxWlFhPZkzyBnCjYEU59BnfvWDr6WulXvshWuE1sEhCDE2OSdS0bk331sbsrP4T8GhSqc-jS43dyqTY_MJC4qF6vXq4otQ",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/113270202014715333046/about?hl=en-US",
+      "utc_offset" : 480,
+      "vicinity" : "20 Shanghai Middle Road, Xigaze"
+   },
+   "status" : "OK"
+}

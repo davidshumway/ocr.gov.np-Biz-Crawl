@@ -1,0 +1,124 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "New Delhi",
+            "short_name" : "New Delhi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Delhi",
+            "short_name" : "DL",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "110009",
+            "short_name" : "110009",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "H-4/1,2nd Main Rd, Block H, Model Town II, \u003cspan class=\"locality\"\u003eNew Delhi\u003c/span\u003e, \u003cspan class=\"region\"\u003eDelhi\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e110009\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "H-4/1,2nd Main Rd, Block H, Model Town II, New Delhi, Delhi 110009, India",
+      "formatted_phone_number" : "011 2724 1818",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.704978,
+            "lng" : 77.189916
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "086d9c098ec2117cd24e5c568e0b42825c3e0f7a",
+      "international_phone_number" : "+91 11 2724 1818",
+      "name" : "Jagota Electronics",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1100"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 11:00 am – 9:00 pm",
+            "Wednesday: 11:00 am – 9:00 pm",
+            "Thursday: 11:00 am – 9:00 pm",
+            "Friday: 11:00 am – 9:00 pm",
+            "Saturday: 11:00 am – 9:00 pm",
+            "Sunday: 11:00 am – 9:00 pm"
+         ]
+      },
+      "place_id" : "ChIJAQAAkAr9DDkRr3BmiCc-yGc",
+      "reference" : "CnRlAAAA3tYjL7SmmG_BV1vC0yf3ujmlf3IxvhApPNJTNKXCZaZB7Go66Xh5YxkQ35FoMwt4JBNz4CpwvhtEVQldVasSfypUiD8aiKuiiDw8cVRIkNBaT4caxbpXfadoZTtNuxMx7jUt9rCZuQqg0bnH0f2NdRIQhOxab3bXTHdrYD7jZzA88hoUE7VJqrWytn1apPVZ7Yh1dFZijZE",
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/105206048664270019713/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "H-4/1,2nd Main Rd, Block H, Model Town II, New Delhi"
+   },
+   "status" : "OK"
+}

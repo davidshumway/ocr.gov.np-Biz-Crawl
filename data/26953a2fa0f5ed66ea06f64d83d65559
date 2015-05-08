@@ -1,0 +1,75 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "New Delhi",
+            "short_name" : "New Delhi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Delhi",
+            "short_name" : "DL",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "110085",
+            "short_name" : "110085",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "D-13/71, Sector 8, Rohini, \u003cspan class=\"street-address\"\u003eRohini\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew Delhi\u003c/span\u003e, \u003cspan class=\"region\"\u003eDelhi\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e110085\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "D-13/71, Sector 8, Rohini, Rohini, New Delhi, Delhi 110085, India",
+      "formatted_phone_number" : "011 3256 4227",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.727737,
+            "lng" : 77.145186
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "8a9cc6772aac517628b0f64424ade928714f285a",
+      "international_phone_number" : "+91 11 3256 4227",
+      "name" : "Steel Paradise India Private Limited",
+      "place_id" : "ChIJZf7n--ADDTkReOV7VWVr30c",
+      "reference" : "CoQBdwAAAKslyVpRXWGlCbpqh6un3U7cUVbeTsbn4ShYaHAM_Dw3I0Zxszo0Pi--8BU4xNWnl1Dj1-bEg18Yuku-bz3E7OB-gIfij1wFq0hLfdIyUPq3xgx6qxYbb3wnXv2iQtR6gydWGic6lu6ROtktZk7JtEiFj1wKVyxq7il0lVIkaIlrEhAnw7FJ4s1unQTvc5y63UIvGhTvuJccd3JUsGz-NMLL7fj90u1PzQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "rima ja",
+            "author_url" : "https://plus.google.com/102858145697692724707",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Nice and excellent products",
+            "time" : 1376765759
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/102315318820942615694/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "D-13/71, Sector 8, Rohini, Rohini, New Delhi"
+   },
+   "status" : "OK"
+}

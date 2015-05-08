@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chitwan",
+               "short_name" : "Chitwan",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chitwan, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.8738313,
+                  "lng" : 84.72948839999999
+               },
+               "southwest" : {
+                  "lat" : 27.3563152,
+                  "lng" : 83.9199498
+               }
+            },
+            "location" : {
+               "lat" : 27.529131,
+               "lng" : 84.3542049
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.8738313,
+                  "lng" : 84.72948839999999
+               },
+               "southwest" : {
+                  "lat" : 27.3563152,
+                  "lng" : 83.9199498
+               }
+            }
+         },
+         "place_id" : "ChIJjVrK0ZpDlDkRT0cfXvdAXmw",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,156 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Pahari Gali",
+            "short_name" : "Pahari Gali",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Kalyanpur",
+            "short_name" : "Kalyanpur",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Vikasnagar",
+            "short_name" : "Vikasnagar",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Dehradun",
+            "short_name" : "Dehradun",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttarakhand",
+            "short_name" : "UK",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "248198",
+            "short_name" : "248198",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003ePahari Gali\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eKalyanpur\u003c/span\u003e, \u003cspan class=\"locality\"\u003eVikasnagar\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttarakhand\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e248198\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Pahari Gali, Kalyanpur, Vikasnagar, Uttarakhand 248198, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 30.46939,
+            "lng" : 77.77024
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "d2b697afc327de78e04ebf02cebfdeaba05be184",
+      "name" : "Manu Hardware Store",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0830"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:30 am – 8:00 pm",
+            "Tuesday: 8:30 am – 8:00 pm",
+            "Wednesday: 8:30 am – 8:00 pm",
+            "Thursday: 8:30 am – 8:00 pm",
+            "Friday: 8:30 am – 8:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJW6EedL0vDzkRzEmiKPl6ILc",
+      "reference" : "CnRnAAAADq7x3tDduYMv2bNfjFdQCBTlOAyhez_gSwGM1tZ7JHMmns7Ta6yYPsQ0YIcimLuVoJRqVxaoT-t20_HVboKVuF-vf445vCDsIs4zxe5eaAIA6jIM-jmcZ-w77KsC2G3bZGv1RN1y_jc65iREveqjRhIQeekJKK-rZJWU2b4lMS6ROxoUcXu7XcrULwek1jua6YRRNl04Ms0",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "ajay aggarwal",
+            "author_url" : "https://plus.google.com/103973313527345528380",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "guys u will find all hardware and iron related items in this shop at very reasonable price..",
+            "time" : 1429616196
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "hitesh chauhan",
+            "author_url" : "https://plus.google.com/106252439965901327460",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Manu hardware is best shop where i can find all type of hardware",
+            "time" : 1425451463
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/110489256980947829980/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "Pahari Gali, Kalyanpur, Vikasnagar"
+   },
+   "status" : "OK"
+}

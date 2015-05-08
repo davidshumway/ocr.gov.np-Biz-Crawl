@@ -1,0 +1,85 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Bazar Ajmere Gate",
+            "short_name" : "Bazar Ajmere Gate",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Kamla Market",
+            "short_name" : "Kamla Market",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ajmere Gate",
+            "short_name" : "Ajmere Gate",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New Delhi",
+            "short_name" : "New Delhi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Delhi",
+            "short_name" : "DL",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "110002",
+            "short_name" : "110002",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "203, \u003cspan class=\"street-address\"\u003eBazar Ajmere Gate\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eKamla Market, Ajmere Gate\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew Delhi\u003c/span\u003e, \u003cspan class=\"region\"\u003eDelhi\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e110002\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "203, Bazar Ajmere Gate, Kamla Market, Ajmere Gate, New Delhi, Delhi 110002, India",
+      "formatted_phone_number" : "011 2323 0207",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.644281,
+            "lng" : 77.22469100000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "27edae172f1ba6b353898a0e5ba49b0dc26e8579",
+      "international_phone_number" : "+91 11 2323 0207",
+      "name" : "Ghai Transport Service",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "open" : {
+                  "day" : 0,
+                  "time" : "0000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+         ]
+      },
+      "place_id" : "ChIJodOfzD39DDkRPO1nqbOMDMo",
+      "reference" : "CnRqAAAABrX7Iuw4UG72DImr98gi6po_gnMEyv7a7HkXVl3l2ja59bQTmx3cMX3czjQpx77l_ySwtzRKojhGPrrP6XLCxLT_3-R_Xqlhrj5eq9WY1dv3t4UDcobM6RdV2XvGow-w1WEEwpJK1_ZuA03Z_IHsahIQZtXk2p3ydHh7o5ub3KW0DxoUxYwmc859np-oNhmWb74392g2svA",
+      "scope" : "GOOGLE",
+      "types" : [ "moving_company", "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/111640293339343354799/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "203, Bazar Ajmere Gate, Kamla Market, Ajmere Gate, New Delhi"
+   },
+   "status" : "OK"
+}

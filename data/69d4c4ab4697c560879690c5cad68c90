@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Rijiang Road",
+            "short_name" : "Rijiang Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bainang",
+            "short_name" : "Bainang",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Xigaze",
+            "short_name" : "Xigaze",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Tibet",
+            "short_name" : "Tibet",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "China",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eRijiang Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBainang\u003c/span\u003e, \u003cspan class=\"locality\"\u003eXigaze\u003c/span\u003e, \u003cspan class=\"region\"\u003eTibet\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eChina\u003c/span\u003e",
+      "formatted_address" : "Rijiang Road, Bainang, Xigaze, Tibet, China",
+      "geometry" : {
+         "location" : {
+            "lat" : 29.104444,
+            "lng" : 89.265584
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "359bf7a55efe3d422cfce9493050a8a0feb36338",
+      "name" : "Qinghai Car Repair Store",
+      "place_id" : "ChIJoUpp0pJI3jkR77xwzu7mAoc",
+      "reference" : "CnRsAAAAmDsh7ryG63bp9DXQxAM9u7N4Ww98aannE7ZQCk-oLXpNI6d0Qntm5bMRoD8fzH2Xk-aPS__qvBprrs7vryHeJ_R7PWxzyEjPV6WUsSUC7ctjLPjC_jCfHWkp9WifjnottgceOeQGERkrhKTAP_ZFARIQmoLrOYGBVJ3VCL2BEqagQhoUu2UdZi4HX0BOO9YHwAor-hjoL1k",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/108983369049145510069/about?hl=en-US",
+      "utc_offset" : 480,
+      "vicinity" : "Rijiang Road, Bainang, Xigaze"
+   },
+   "status" : "OK"
+}

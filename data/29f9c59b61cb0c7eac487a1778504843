@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Taplejung",
+               "short_name" : "Taplejung",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mechi",
+               "short_name" : "Mechi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eastern Region",
+               "short_name" : "Eastern Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "57500",
+               "short_name" : "57500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Taplejung 57500, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.3854866,
+                  "lng" : 87.71793369999999
+               },
+               "southwest" : {
+                  "lat" : 27.3106208,
+                  "lng" : 87.62077339999999
+               }
+            },
+            "location" : {
+               "lat" : 27.37,
+               "lng" : 87.64999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.3854866,
+                  "lng" : 87.71793369999999
+               },
+               "southwest" : {
+                  "lat" : 27.3106208,
+                  "lng" : 87.62077339999999
+               }
+            }
+         },
+         "place_id" : "ChIJr9i3uNEa5jkRlP7PP7yuTTY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,81 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Gokulpuri Janta Road",
+            "short_name" : "Gokulpuri Janta Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Kharkhauda",
+            "short_name" : "Kharkhauda",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Meerut",
+            "short_name" : "Meerut",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "245206",
+            "short_name" : "245206",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eGokulpuri Janta Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eKharkhauda\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e245206\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Gokulpuri Janta Road, Kharkhauda, Uttar Pradesh 245206, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.838579,
+            "lng" : 77.74293400000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "d0ed32d7e2a56b3acb606598b346b0444a460fe0",
+      "name" : "Y C Electrician",
+      "place_id" : "ChIJDWrDKAqIDDkRPZJCd44PKvw",
+      "reference" : "CnRjAAAAF-AeZI0KiWyYL6OhSBKc0Au2pOF3-CK6DSMzdmK5OW_mwhG6fmIAUVubNLhq1hJuATOdaikJGg1gxzbaryVbsg3MOKLRJAi_rJai8zDDgk09EFT4Wd7VYC8vgbfzEdEODiKGcPyYAQDwl2QCp_ck8BIQjqLsqAGm2F5LbkwENf832BoUD4eTK9KczmRD4E6c997QM2qideU",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 0,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 0,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "shilpi garg",
+            "author_url" : "https://plus.google.com/117877038702044808696",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "You can find electrical transformer related goods here",
+            "time" : 1358558553
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "electrician", "establishment" ],
+      "url" : "https://plus.google.com/105526464727574920727/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Gokulpuri Janta Road, Kharkhauda"
+   },
+   "status" : "OK"
+}

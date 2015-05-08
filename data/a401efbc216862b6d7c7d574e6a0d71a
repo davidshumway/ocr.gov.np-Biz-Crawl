@@ -1,0 +1,130 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Lalbagh",
+            "short_name" : "Lalbagh",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Lucknow",
+            "short_name" : "Lucknow",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Lucknow",
+            "short_name" : "Lucknow",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "226001",
+            "short_name" : "226001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "ABC Colony, \u003cspan class=\"extended-address\"\u003eLalbagh\u003c/span\u003e, \u003cspan class=\"locality\"\u003eLucknow\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e226001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "ABC Colony, Lalbagh, Lucknow, Uttar Pradesh 226001, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.84762,
+            "lng" : 80.93368700000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "95b1855cb049239ee7fe9b8a3f30d330cde05cc5",
+      "name" : "Lucknow Helmet Center",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0930"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:30 am – 8:00 pm",
+            "Tuesday: 9:30 am – 8:00 pm",
+            "Wednesday: 9:30 am – 8:00 pm",
+            "Thursday: 9:30 am – 8:00 pm",
+            "Friday: 9:30 am – 8:00 pm",
+            "Saturday: 9:30 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJDWmPZaX9mzkRHAex1SaMkoo",
+      "reference" : "CnRpAAAAJKWvAC356KU1jSOP8t083gEqq9qgmT5aszzRWwXCT-1xELTQNIZ6VdrzfjWMNfs_3NdV26I7Rnh6_QA_glhf9P_w_R64sYvWu7Wsxj7hBbyBvReUqcs994VndLPPbYSZGtND9wEUEflNxvKvLgsw7hIQgWwFdEs9p0HMtNmCQTRZcRoU2Eez6z-d-puKXY61_BNfys_B-iE",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/115138445985847114749/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "ABC Colony, Lalbagh, Lucknow"
+   },
+   "status" : "OK"
+}

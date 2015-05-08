@@ -1,0 +1,75 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Faridabad",
+            "short_name" : "Faridabad",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Haryana",
+            "short_name" : "HR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "121007",
+            "short_name" : "121007",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "18/1, Mathura Road, \u003cspan class=\"street-address\"\u003eMathura Road\u003c/span\u003e, \u003cspan class=\"locality\"\u003eFaridabad\u003c/span\u003e, \u003cspan class=\"region\"\u003eHaryana\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e121007\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "18/1, Mathura Road, Mathura Road, Faridabad, Haryana 121007, India",
+      "formatted_phone_number" : "0129 226 3000",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.39595,
+            "lng" : 77.312175
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "a4d0ae923dee71cb91e4ce53c40790eb4e8fe1b8",
+      "international_phone_number" : "+91 129 226 3000",
+      "name" : "Aar Aar Technoplast Private Limited",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: Closed",
+            "Wednesday: Closed",
+            "Thursday: Closed",
+            "Friday: Closed",
+            "Saturday: Closed",
+            "Sunday: 8:00 am – 8:00 pm"
+         ]
+      },
+      "place_id" : "ChIJXV1euLfdDDkRxIWmogXBaH0",
+      "reference" : "CoQBdgAAAGtAtVz7S2mHy6HnTEeM_d8cpWwmRb-op_LlsCmzeFdW8kPhikcWRmctZ37s9go7sqkmYvpzErC_45OIbXm1OLnqq5On9FxamhN8l7ZtDQQOGyimrAtq-GTGg1AjHCPmJ8Hq5xF9TXErQjyGD_-QS2FnRoh1yG2Xhyz5ZN_IHfw2EhDCZQQHGCRmYU6SH2KzDYgsGhTCnpovm7MXZ9BB7IV_lHpHhqxoWw",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/104721324393521241009/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "18/1, Mathura Road, Mathura Road, Faridabad",
+      "website" : "http://www.aaraartechnoplast.com/"
+   },
+   "status" : "OK"
+}

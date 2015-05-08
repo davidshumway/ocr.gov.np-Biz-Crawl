@@ -1,0 +1,91 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Meerut Road",
+            "short_name" : "Meerut Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Arya Nagar",
+            "short_name" : "Arya Nagar",
+            "types" : [ "sublocality_level_3", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Bheem Nagar",
+            "short_name" : "Bheem Nagar",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Patel Nagar",
+            "short_name" : "Patel Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ghaziabad",
+            "short_name" : "Ghaziabad",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Ghaziabad",
+            "short_name" : "Ghaziabad",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "201001",
+            "short_name" : "201001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Shop No. 110, Gokulamore, \u003cspan class=\"street-address\"\u003eMeerut Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eArya Nagar, Bheem Nagar, Patel Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eGhaziabad\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e201001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Shop No. 110, Gokulamore, Meerut Road, Arya Nagar, Bheem Nagar, Patel Nagar, Ghaziabad, Uttar Pradesh 201001, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.679093,
+            "lng" : 77.423852
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "1104afff96bf4413296afa7f17d593f34d9d59af",
+      "name" : "Yond India Road Line",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "open" : {
+                  "day" : 0,
+                  "time" : "0000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+         ]
+      },
+      "place_id" : "ChIJvxxKyVLwDDkR0KDAbYhqR3Y",
+      "reference" : "CnRnAAAAPWqvPqCfWSp18cbPYIn5rMjC_nkUeAJ6atHPB4-3KBxdwyUbV7Ap4meAMGHUDXBCnv6M_mDOgSO_TkzwgPNUUTQGAJ0VxxZQagBRwngA6UN6UoWK8MnjCTEB71oHOXHnx397lZd1kD8zOy2DZ1ZnvBIQP_yVwN-u4LsPSdvmzQDNohoUmi5NIMSNa7FYDETPZnr-7jHru0Y",
+      "scope" : "GOOGLE",
+      "types" : [ "moving_company", "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/109172428520529347756/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Shop No. 110, Gokulamore, Meerut Road, Arya Nagar, Bheem Nagar, Patel Nagar, Ghaziabad"
+   },
+   "status" : "OK"
+}

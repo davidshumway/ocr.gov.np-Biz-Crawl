@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kathmandu",
+               "short_name" : "Kathmandu",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kathmandu, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.822074,
+                  "lng" : 85.59104929999999
+               },
+               "southwest" : {
+                  "lat" : 27.5661126,
+                  "lng" : 85.18833169999999
+               }
+            },
+            "location" : {
+               "lat" : 27.7306785,
+               "lng" : 85.37562489999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.822074,
+                  "lng" : 85.59104929999999
+               },
+               "southwest" : {
+                  "lat" : 27.5661126,
+                  "lng" : 85.18833169999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJe-_b6Swa6zkRZCTiGTJNiYs",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

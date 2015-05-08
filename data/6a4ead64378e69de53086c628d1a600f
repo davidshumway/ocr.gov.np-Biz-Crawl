@@ -1,0 +1,127 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "National Highway 2",
+            "short_name" : "NH 2",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Sanjay Colony",
+            "short_name" : "Sanjay Colony",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Sector 59",
+            "short_name" : "Sector 59",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Faridabad",
+            "short_name" : "Faridabad",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Faridabad",
+            "short_name" : "Faridabad",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Haryana",
+            "short_name" : "HR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "23 / 7, \u003cspan class=\"street-address\"\u003eNational Highway 2\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSanjay Colony, Sector 59\u003c/span\u003e, \u003cspan class=\"locality\"\u003eFaridabad\u003c/span\u003e, \u003cspan class=\"region\"\u003eHaryana\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "23 / 7, National Highway 2, Sanjay Colony, Sector 59, Faridabad, Haryana, India",
+      "formatted_phone_number" : "084477 05510",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.321998,
+            "lng" : 77.311004
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "19bcf1f52813a1b7d83197f5be34c8b30321716b",
+      "international_phone_number" : "+91 84477 05510",
+      "name" : "Yogesh Automobiles",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 9:00 pm",
+            "Tuesday: 9:00 am – 9:00 pm",
+            "Wednesday: 9:00 am – 9:00 pm",
+            "Thursday: 9:00 am – 9:00 pm",
+            "Friday: 9:00 am – 9:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJpQ8-i7fbDDkRcDCTtYPdPd0",
+      "reference" : "CnRmAAAAQuu-4AMCX3b7z0f-MxuOp6oriX8bOuF2b9SXFROiTPMJpwrdb71Wia7dsJjevFa-2GA1KdaDOR6z4br2mI4taV-eWs0dJw_ljau-Iv7GbSoOMII97MONhaHzq7mbY2CAI0FNfwsnmzBOjDNlIInEXxIQSjx-j_ONMai_mMqNvfJ-dxoUMCRP_NIM9ApMcdhMCbYNiaPZWNQ",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/113783407396815180595/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "23 / 7, National Highway 2, Sanjay Colony, Sector 59, Faridabad"
+   },
+   "status" : "OK"
+}

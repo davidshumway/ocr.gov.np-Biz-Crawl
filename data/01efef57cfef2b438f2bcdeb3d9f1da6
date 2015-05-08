@@ -1,0 +1,120 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "NH 91",
+            "short_name" : "NH 91",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Gabhana",
+            "short_name" : "Gabhana",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Aligarh",
+            "short_name" : "Aligarh",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "202136",
+            "short_name" : "202136",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNH 91\u003c/span\u003e, \u003cspan class=\"locality\"\u003eGabhana\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e202136\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "NH 91, Gabhana, Uttar Pradesh 202136, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.047265,
+            "lng" : 77.962018
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "07842ebb6fd70966618463daa43d3865b1703978",
+      "name" : "Sharma Machinery Store",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 am – 6:00 pm",
+            "Tuesday: 8:00 am – 6:00 pm",
+            "Wednesday: 8:00 am – 6:00 pm",
+            "Thursday: 8:00 am – 6:00 pm",
+            "Friday: 8:00 am – 6:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJky7JBYipdDkRPHPNZuTYGI0",
+      "reference" : "CnRqAAAAGBLwdqq4awjhmSkmunJX0DtVq6H4J6Kt7h7q3AFz9mOqCDPJ9KmDAZxBNNtOXMb-JOErWHP97vRbpFBA1dne9JpCmWHYoPQ1-Yi6kfE0bA8LUPst2IHpX-fPNQ0fZwOKY5vGpRGWVGIp6Ao8HfHX0RIQOJsC0a17WjCV6eJwscAljxoUWsLMo_TnOQwHRltfADi_7cXPrhs",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/106410935236339638351/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "NH 91, Gabhana"
+   },
+   "status" : "OK"
+}

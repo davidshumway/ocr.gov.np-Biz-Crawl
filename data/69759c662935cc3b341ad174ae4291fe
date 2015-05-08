@@ -1,0 +1,151 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Greater Noida",
+            "short_name" : "Greater Noida",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Gautam Buddha Nagar",
+            "short_name" : "Gautam Buddha Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "SCo-10,11 First Floor, PALG Palace,Jagat Farm 201308, \u003cspan class=\"locality\"\u003eGreater Noida\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "SCo-10,11 First Floor, PALG Palace,Jagat Farm 201308, Greater Noida, Uttar Pradesh, India",
+      "formatted_phone_number" : "095604 48444",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.481174,
+            "lng" : 77.499842
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "9c0aaa38ff6dacf57a65a7546c6b1ef027413f2a",
+      "international_phone_number" : "+91 95604 48444",
+      "name" : "Nokia Care",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 7:00 pm",
+            "Tuesday: 10:00 am – 7:00 pm",
+            "Wednesday: 10:00 am – 7:00 pm",
+            "Thursday: 10:00 am – 7:00 pm",
+            "Friday: 10:00 am – 7:00 pm",
+            "Saturday: 10:00 am – 7:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ0exbjm7qDDkROtOxkbJVtWU",
+      "reference" : "CmRdAAAAVEy6TjcTD6-sQo-m7czkbxuCZrpHHmDa4maesHRfsk7J33D1KpU80QWV-jkBNEFbKneY5nQbx2L6TGuwHRiS1q9erfGhHaZOFamcn39UvBITOpD3teooBTYluFWkG_U4EhCcomKFSD7RwaOn-0-thOL9GhReqXmpI4Opu8CWAbKrXkdoKO1ajg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "GOOD SERVICE",
+            "time" : 1320866572
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "nice work...",
+            "time" : 1333327183
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/103317576778875352178/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "SCo-10,11 First Floor, PALG Palace,Jagat Farm 201308, Greater Noida"
+   },
+   "status" : "OK"
+}

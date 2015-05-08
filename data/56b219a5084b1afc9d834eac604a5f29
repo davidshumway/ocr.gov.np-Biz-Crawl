@@ -1,0 +1,56 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Paper Mill Road",
+            "short_name" : "Paper Mill Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Pabna",
+            "short_name" : "Pabna",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Rajshahi Division",
+            "short_name" : "Rajshahi Division",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Bangladesh",
+            "short_name" : "BD",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003ePaper Mill Road\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eBangladesh\u003c/span\u003e",
+      "formatted_address" : "Paper Mill Road, Bangladesh",
+      "geometry" : {
+         "location" : {
+            "lat" : 24.075136,
+            "lng" : 89.050258
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+      "id" : "656eecdfdebbc31c1c77e7b35bc0d77be62c3a4d",
+      "name" : "Gas Intersection",
+      "photos" : [
+         {
+            "height" : 972,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/104513729649808463522\"\u003eRumon Mostofa\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAARS1eFwtYNBYga6df9BbKILdXXhuRw89qoaIlSTZYRbb2KkrozBc6LRBBuJtFUH1uPxcp4mE92r4mmpppYzDAs1bfGXPveWpJVTjeQbrmEykQ9zlGrX6Y8RjzD5V5oC-fASKIfwKfhkvG7N63qB5sWBIQM6jzLlapHQgEr8OUngFgbhoU-667DMMTERXxmOoDwwkY7xucNWI",
+            "width" : 1296
+         }
+      ],
+      "place_id" : "ChIJx2m-GAyh_jkR-86ExwwkcA4",
+      "reference" : "CnRjAAAAuZG1S5CF1w_0GCWqzfYGLWv9hzw1ZY4Xtrcp-NFl4fzMnUk_ltTyO1mnqEurhE5Rfu6CiM-wfayYZ2mEGPegQH5J5MHJEAoPPsFba2qRUTM4J4hPNPE60Arn5XPpM9ttvaQa5Ap9xkyzHHy_jvQIzxIQGkauQLu8Xf6_5R2Fu3LI1xoUH5Pa_O6pRUMr5zh8R9_Z8JC3S_g",
+      "scope" : "GOOGLE",
+      "types" : [ "gas_station", "establishment" ],
+      "url" : "https://plus.google.com/116360560481732538362/about?hl=en-US",
+      "utc_offset" : 360,
+      "vicinity" : "Paper Mill Road"
+   },
+   "status" : "OK"
+}

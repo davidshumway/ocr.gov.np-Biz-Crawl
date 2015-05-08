@@ -1,0 +1,150 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Greater Noida",
+            "short_name" : "Greater Noida",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Gautam Buddha Nagar",
+            "short_name" : "Gautam Buddha Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "201310",
+            "short_name" : "201310",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eGreater Noida\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e201310\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Greater Noida, Uttar Pradesh 201310, India",
+      "formatted_phone_number" : "098717 10909",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.456953,
+            "lng" : 77.524585
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "e85b3ae5aae1af185b5d6682d00c67f0c96a6237",
+      "international_phone_number" : "+91 98717 10909",
+      "name" : "Aakriti Home Decorators",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 10:00 am – 10:00 pm",
+            "Wednesday: 10:00 am – 10:00 pm",
+            "Thursday: 10:00 am – 10:00 pm",
+            "Friday: 10:00 am – 10:00 pm",
+            "Saturday: 10:00 am – 10:00 pm",
+            "Sunday: 10:00 am – 10:00 pm"
+         ]
+      },
+      "place_id" : "ChIJ8b8Y1THADDkRCxVKGfCol6c",
+      "reference" : "CnRrAAAAkolJ-vHgF5Cz7EIj8DRA3gKkbEskkXvwofsEXRzDQrIZ4-qhIWYVnyEr5ZAN8WLMjJyeKhj1VAB3McNPdhK_jz7OXPYa8b5PVZWhma-GWg0MmEFmO3IDH3lBkXOX5ChsY4UMtKOXv0yISF3tpxRxfxIQnTuTWyZgR4PaXS05TsmKHRoUA6oHIREHVW0ks3snRDwl9Ns8qxI",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Aman Gupta",
+            "author_url" : "https://plus.google.com/111160999432932992941",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "bEST furniture in greater  NOIda",
+            "time" : 1359178811
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [
+         "furniture_store",
+         "general_contractor",
+         "home_goods_store",
+         "store",
+         "establishment"
+      ],
+      "url" : "https://plus.google.com/106419624282075600070/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Greater Noida"
+   },
+   "status" : "OK"
+}

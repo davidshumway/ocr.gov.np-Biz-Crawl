@@ -1,0 +1,140 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "57",
+            "short_name" : "57",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Bharat Nagar",
+            "short_name" : "Bharat Nagar",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New Friends Colony",
+            "short_name" : "New Friends Colony",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New Delhi",
+            "short_name" : "New Delhi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "South Delhi",
+            "short_name" : "South Delhi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Delhi",
+            "short_name" : "DL",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "110065",
+            "short_name" : "110065",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e57\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBharat Nagar, New Friends Colony\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew Delhi\u003c/span\u003e, \u003cspan class=\"region\"\u003eDelhi\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e110065\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "57, Bharat Nagar, New Friends Colony, New Delhi, Delhi 110065, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.56631,
+            "lng" : 77.27014200000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "38bad9eca7c3c3ac3147defc440ac3bb205e26bd",
+      "name" : "Sharma Plumbing Works",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:30 pm",
+            "Tuesday: 10:00 am – 8:30 pm",
+            "Wednesday: 10:00 am – 8:30 pm",
+            "Thursday: Closed",
+            "Friday: 10:00 am – 8:30 pm",
+            "Saturday: 10:00 am – 8:30 pm",
+            "Sunday: 10:00 am – 8:30 pm"
+         ]
+      },
+      "place_id" : "ChIJ2R_NRZHjDDkRzNFYZOCXsYg",
+      "reference" : "CnRpAAAAd6nRefsnMfXDEOfF2Dk0015QTJMZkRj_5SQyAJg5xMTXKGpvl13TL9C6ionKQ0Qnm9PwarqzzRP-N7LvuSpqY_0MEeItN1AiDQmwKtedqAoy67XSjONDH2-acBFJbAX5pD7wFNm61zL0tc2Xv3xzVBIQrZ3xnwi27HDpc-IyOBPWcxoUGX9ixvZ5gXPctC-fsg5f0cVnRG4",
+      "scope" : "GOOGLE",
+      "types" : [ "plumber", "establishment" ],
+      "url" : "https://plus.google.com/117753113171738554272/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "57, Bharat Nagar, New Friends Colony, New Delhi"
+   },
+   "status" : "OK"
+}

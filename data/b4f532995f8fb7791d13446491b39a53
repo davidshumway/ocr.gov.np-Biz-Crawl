@@ -1,0 +1,136 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "New Delhi",
+            "short_name" : "New Delhi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Delhi",
+            "short_name" : "DL",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "110001",
+            "short_name" : "110001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "K-44, Connaught Place, Opp. PVR Plaza, \u003cspan class=\"locality\"\u003eNew Delhi\u003c/span\u003e, \u003cspan class=\"region\"\u003eDelhi\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e110001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "K-44, Connaught Place, Opp. PVR Plaza, New Delhi, Delhi 110001, India",
+      "formatted_phone_number" : "011 2341 6003",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.635289,
+            "lng" : 77.220046
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "7c77e1e4535ba9877d082928a527fe961c2a2600",
+      "international_phone_number" : "+91 11 2341 6003",
+      "name" : "Soma Shop",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: 10:00 am – 8:00 pm"
+         ]
+      },
+      "place_id" : "ChIJEV2pKDj9DDkR0UUGgEWzmas",
+      "reference" : "CmRdAAAAFJzBD7tXeiRm6l47XEOfm_0r22b0OY4lDdwCIdItElFt1qPqJIXouynzIfr-fU3de4pTDB21SRPq_xNIJzNNmGFOeaUxuI1Z8YH6Wr4O3eZ2gwepP_FkIXYD-w7zkWJiEhAg56UdcRbQRE66L3eOAHvyGhTc8fvFgR3MYtAW5ytGhDoWx5iqmg",
+      "scope" : "GOOGLE",
+      "types" : [ "clothing_store", "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/110586083233192089634/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "K-44, Connaught Place, Opp. PVR Plaza, New Delhi",
+      "website" : "http://www.somashop.com/"
+   },
+   "status" : "OK"
+}

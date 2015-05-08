@@ -1,0 +1,132 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Taharpur",
+            "short_name" : "Taharpur",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "New Delhi",
+            "short_name" : "New Delhi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "North East Delhi",
+            "short_name" : "North East Delhi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Delhi",
+            "short_name" : "DL",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "110095",
+            "short_name" : "110095",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "A-7, Anand Gram, \u003cspan class=\"extended-address\"\u003eTaharpur\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew Delhi\u003c/span\u003e, \u003cspan class=\"region\"\u003eDelhi\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e110095\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "A-7, Anand Gram, Taharpur, New Delhi, Delhi 110095, India",
+      "formatted_phone_number" : "098109 19209",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.689031,
+            "lng" : 77.321575
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "6e02f1cc4b7691947e4a05d032d9067aac4b89c1",
+      "international_phone_number" : "+91 98109 19209",
+      "name" : "Gupta Spare Parts",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 8:30 pm",
+            "Tuesday: Closed",
+            "Wednesday: 9:00 am – 8:30 pm",
+            "Thursday: 9:00 am – 8:30 pm",
+            "Friday: 9:00 am – 8:30 pm",
+            "Saturday: 9:00 am – 8:30 pm",
+            "Sunday: 9:00 am – 8:30 pm"
+         ]
+      },
+      "place_id" : "ChIJE_AMja_7DDkRRbPb0HpZ8D8",
+      "reference" : "CnRkAAAAhOsJ_HcroY5wSEPzoz8VseKH4y83E5hPRIRDGx3JoZOBcZAkQiqwp3tg33KFaEIdY4FzpY0x9YyK2pmBsCzUMsJv_rJG0WlZPv3gpO8lkmYMprbw5mrzsyZO6ebIFcjcgNNohh-_11mehnwQi0X-JxIQiZGJQnN8ICoT_Xyrug2QmBoU9e2jO0LCyi9odDtpkBJlj4qvrq4",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/103848317205217025145/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "A-7, Anand Gram, Taharpur, New Delhi"
+   },
+   "status" : "OK"
+}

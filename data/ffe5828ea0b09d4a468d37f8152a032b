@@ -1,0 +1,132 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "11",
+            "short_name" : "11",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Bageed",
+            "short_name" : "Bageed",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Tehri Garhwal",
+            "short_name" : "Tehri Garhwal",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttarakhand",
+            "short_name" : "UK",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "gaza",
+            "short_name" : "gaza",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e11\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBageed\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttarakhand\u003c/span\u003e \u003cspan class=\"postal-code\"\u003egaza\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "11, Bageed, Uttarakhand gaza, India",
+      "formatted_phone_number" : "098680 34526",
+      "geometry" : {
+         "location" : {
+            "lat" : 30.270159,
+            "lng" : 78.44025000000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "e4e050e2123b5364f9a507268c7f8ecb53c9a332",
+      "international_phone_number" : "+91 98680 34526",
+      "name" : "beerpalchauhan",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 5:00 pm",
+            "Tuesday: 9:00 am – 5:00 pm",
+            "Wednesday: 9:00 am – 5:00 pm",
+            "Thursday: 9:00 am – 5:00 pm",
+            "Friday: 9:00 am – 5:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 600,
+            "html_attributions" : [
+               "\u003ca href=\"https://plus.google.com/107548977595702338046\"\u003eBharat Rawat\u003c/a\u003e"
+            ],
+            "photo_reference" : "CnRoAAAAGvAF0mQpU3K14h2Ztziw1-_vUhgUz5ckpYXiSJI6bb19OnvEM0Ats3hJ7kKeYc7mmx_MhWhSBRHXdVFT-wUGU55r6THdG5pi6r0nSmhmR0swSVDZZapEpYQBtFH7lQmVC7Q8OYAHpzySmgK28Sig3xIQ7_Qbm3cp5Ax1Ywi01SFa1xoUwB3FtflAnFeLN9ub8x8NNFeRbT0",
+            "width" : 800
+         }
+      ],
+      "place_id" : "ChIJKT2bYnIbCTkR2O_FL-7ixDw",
+      "reference" : "CnRhAAAApKcfxqRqGy2IHcmn0dlKL5j4k8daZgnzQnxeAE88BP7-6wr7YYRBKj7WODiQStCdI826jA4Ml0cATG4TNrLkDd7f9D0dAZ3Mryz_Ls2fGIvC4TILmGwxFVvSetrGrQ1vbrdR3kfvHZRyHKdg-4-hyxIQ_L4pnmlUGOuSy2ltTeGr4hoUKdCmnMTiV4oZBtn5QnaQMA0J320",
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/114724713976208530105/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "11, Bageed"
+   },
+   "status" : "OK"
+}

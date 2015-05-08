@@ -1,0 +1,61 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Railway Road",
+            "short_name" : "Railway Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "City",
+            "short_name" : "City",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Aligarh",
+            "short_name" : "Aligarh",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Aligarh",
+            "short_name" : "Aligarh",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "202001",
+            "short_name" : "202001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eRailway Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCity\u003c/span\u003e, \u003cspan class=\"locality\"\u003eAligarh\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e202001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Railway Road, City, Aligarh, Uttar Pradesh 202001, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.885768,
+            "lng" : 78.07166700000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "7d3a4d0bbff73af924f484b4a8a4a06accb9bbdb",
+      "name" : "Arora Paint House",
+      "place_id" : "ChIJS_jCR4-kdDkRnbTaZOUehAE",
+      "reference" : "CnRkAAAAadjndbH67lhqyDgUlwFC4_xcVEB09GoZ_UWmYm4Rm0Y0Jg_bK9gnNfWJBasSnoGW5v1WNRcYpmGmYDQMOF9QUXU5Ivf6DrFCAqynmEU_TUET5V7u3R9Spd6GT1DRCdEscM80etjQNJXHFzzpEjBV5RIQfAWXUrOymormPL1T2DaGGRoUAtIFQXFCRWLDhIlXGdllIfrM1sk",
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/116457013218667825267/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Railway Road, City, Aligarh"
+   },
+   "status" : "OK"
+}

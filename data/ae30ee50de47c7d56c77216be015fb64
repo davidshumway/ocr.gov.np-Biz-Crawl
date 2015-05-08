@@ -1,0 +1,137 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "G.T. Road",
+            "short_name" : "G.T. Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "G.B. Nagar",
+            "short_name" : "G.B. Nagar",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Chhapraula",
+            "short_name" : "Chhapraula",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ghaziabad",
+            "short_name" : "Ghaziabad",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "201301",
+            "short_name" : "201301",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "75, \u003cspan class=\"street-address\"\u003eG.T. Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eG.B. Nagar, Chhapraula\u003c/span\u003e, \u003cspan class=\"locality\"\u003eGhaziabad\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e201301\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "75, G.T. Road, G.B. Nagar, Chhapraula, Ghaziabad, Uttar Pradesh 201301, India",
+      "formatted_phone_number" : "099998 02665",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.620925,
+            "lng" : 77.481056
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "409a381f01c423a56bf72c4ee42ea4f2a6918021",
+      "international_phone_number" : "+91 99998 02665",
+      "name" : "Gulsan Auto Mechanic",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 9:00 pm",
+            "Tuesday: 9:00 am – 9:00 pm",
+            "Wednesday: 9:00 am – 9:00 pm",
+            "Thursday: 9:00 am – 9:00 pm",
+            "Friday: 9:00 am – 9:00 pm",
+            "Saturday: 9:00 am – 9:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJVR3Bt9ztDDkRSvqaTdfVWg4",
+      "reference" : "CnRnAAAAV97ndUYaFQbPJvOXKKNORq2tSMACfIw3EBc_HX8oNhndq9t7uu-sPfum8DD4h0NP7juXUPHdUOEsY1xXtB_HGfLbTcH8MJKGbgBLZF4IeN02f8RSGU9jhyNDFuule4sqYb5I2apAKd2doMZyu2fItBIQ1RnrAnx9b3PpewP5bfAqExoUfwwlcNEReBT_lHq2zHPFEavQcKk",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/102928185392123777590/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "75, G.T. Road, G.B. Nagar, Chhapraula, Ghaziabad"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "210 Country Road",
+            "short_name" : "210 Country Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Namling",
+            "short_name" : "Namling",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Xigaze",
+            "short_name" : "Xigaze",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Tibet",
+            "short_name" : "Tibet",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "China",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e210 Country Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNamling\u003c/span\u003e, \u003cspan class=\"locality\"\u003eXigaze\u003c/span\u003e, \u003cspan class=\"region\"\u003eTibet\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eChina\u003c/span\u003e",
+      "formatted_address" : "210 Country Road, Namling, Xigaze, Tibet, China",
+      "geometry" : {
+         "location" : {
+            "lat" : 29.677025,
+            "lng" : 89.099863
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "60815d0170e67ed6eb3e12cc8c9a1962191d952b",
+      "name" : "Chuannan Automobile Repair",
+      "place_id" : "ChIJ09KhQ7Hs3jkRayyCi7I4AYg",
+      "reference" : "CnRuAAAAtAbLYm43H8OWhNeLgtGeDv_JKVrqcA7XbJ-WE13mtqZdOGX3_j4M129HzmC5SDwwkBGZezkMGnnQiySDWhbeS2N7asvKFjW5u1VS6iAej5Yx6SARud2UnTUE9Z9000FIYyM07GHMe7-6jpmGlINqvhIQQij76sQyiCjJPEQQ6eQF8BoU43ePBM_FHDwfRdPLvCrlicnF3fo",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/114261579904236007877/about?hl=en-US",
+      "utc_offset" : 480,
+      "vicinity" : "210 Country Road, Namling, Xigaze"
+   },
+   "status" : "OK"
+}

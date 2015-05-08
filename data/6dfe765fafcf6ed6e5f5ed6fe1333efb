@@ -1,0 +1,140 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Dakra Road",
+            "short_name" : "Dakra Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Garhi Cantonment",
+            "short_name" : "Garhi Cantonment",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Garhi Cantt",
+            "short_name" : "Garhi Cantt",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Dehradun",
+            "short_name" : "Dehradun",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Dehradun",
+            "short_name" : "Dehradun",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttarakhand",
+            "short_name" : "UK",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "248001",
+            "short_name" : "248001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eDakra Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eGarhi Cantonment, Garhi Cantt\u003c/span\u003e, \u003cspan class=\"locality\"\u003eDehradun\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttarakhand\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e248001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Dakra Road, Garhi Cantonment, Garhi Cantt, Dehradun, Uttarakhand 248001, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 30.352925,
+            "lng" : 78.02683
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "f7708e0d04a5189878573555f7719df993d2d1ba",
+      "name" : "Nicky Auto Repairs",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJz_jjuAXWCDkRasULgyt_anM",
+      "reference" : "CnRlAAAAIS7cB6jZONAqRm5H8E0q5MFOOWx0cC6Ew6bg0pyunvIf36xk8MhZzoRzZWrwXsIBkPkbAvQSHZsyfHOUoC1njsqtxZZwSSVrRuY7A4PjrEI5IVlIq214tVlSKS5qU0xZwknkUEE7S2gUG21sqbwTzhIQcQRn0D8nUO_RuhqBEJyr0RoU-kQ2bTWvFNIlVHvUccw1rjW7LvU",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/112563361300316537843/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Dakra Road, Garhi Cantonment, Garhi Cantt, Dehradun"
+   },
+   "status" : "OK"
+}

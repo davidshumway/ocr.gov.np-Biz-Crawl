@@ -1,0 +1,140 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "New Delhi",
+            "short_name" : "New Delhi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Delhi",
+            "short_name" : "DL",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "110001",
+            "short_name" : "110001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "716, Indraprakash Building, \u003cspan class=\"street-address\"\u003e21 Barakhamba Road, Connaught Place\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew Delhi\u003c/span\u003e, \u003cspan class=\"region\"\u003eDelhi\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e110001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "716, Indraprakash Building, 21 Barakhamba Road, Connaught Place, New Delhi, Delhi 110001, India",
+      "formatted_phone_number" : "011 4152 5299",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.629243,
+            "lng" : 77.224386
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "2fdae02ccc47815afd1ce7502c6603d88d081453",
+      "international_phone_number" : "+91 11 4152 5299",
+      "name" : "ARINEM Consultancy Services Pvt. Ltd.",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0930"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:30 am – 6:00 pm",
+            "Tuesday: 9:30 am – 6:00 pm",
+            "Wednesday: 9:30 am – 6:00 pm",
+            "Thursday: 9:30 am – 6:00 pm",
+            "Friday: 9:30 am – 6:00 pm",
+            "Saturday: 9:30 am – 6:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJX04VyDP9DDkRYA7WSEcypfA",
+      "reference" : "CoQBeQAAAF7iUALpelum2aR5GFoHbO5QbvASbmHBWpvVnmeXdQT76PYjEVk-fezkCGokxlZwO8rdNemEJPCAdQ_tb5NGJdK6j8XqtEFHEFyAM28_JXn6kFpcnZvNSDM20acSiVZ2z9SCkb4m1o2tCNFCoxkqDh_jY-_MFgHJR9CfSLsVe3xIEhAihX_Nc-KX7Xm8paIRCpOnGhTJFF-VCUpqs1WVvZzpRNHfFs9KpA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Muhammad Shariq Khan",
+            "author_url" : "https://plus.google.com/115257213734424343221",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1386989440
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/107478902130640857883/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "716, Indraprakash Building, 21 Barakhamba Road, Connaught Place, New Delhi",
+      "website" : "http://www.arinem.co.in/"
+   },
+   "status" : "OK"
+}

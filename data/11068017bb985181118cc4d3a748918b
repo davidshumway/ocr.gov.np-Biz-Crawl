@@ -1,0 +1,148 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "202",
+            "short_name" : "202",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "1st Street Road",
+            "short_name" : "1st St Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Ranikhet",
+            "short_name" : "Ranikhet",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Pitampura",
+            "short_name" : "Pitampura",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New Delhi",
+            "short_name" : "New Delhi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "North West Delhi",
+            "short_name" : "North West Delhi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Delhi",
+            "short_name" : "DL",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "110052",
+            "short_name" : "110052",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Aggarwal Tower, CU Block, \u003cspan class=\"street-address\"\u003e202, 1st Street Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eRanikhet, Pitampura\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew Delhi\u003c/span\u003e, \u003cspan class=\"region\"\u003eDelhi\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e110052\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Aggarwal Tower, CU Block, 202, 1st Street Road, Ranikhet, Pitampura, New Delhi, Delhi 110052, India",
+      "formatted_phone_number" : "011 2786 7035",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.713564,
+            "lng" : 77.14090299999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "d4dd4cc376705a5e1b9ad0904805479da364967f",
+      "international_phone_number" : "+91 11 2786 7035",
+      "name" : "APV ENTERPRISES",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 am – 8:00 pm",
+            "Tuesday: 8:00 am – 8:00 pm",
+            "Wednesday: 8:00 am – 8:00 pm",
+            "Thursday: 8:00 am – 8:00 pm",
+            "Friday: 8:00 am – 8:00 pm",
+            "Saturday: 8:00 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJqXbpiXsBDTkRA4queFrq5VA",
+      "reference" : "CnRiAAAAvy5pyxXyg5K6G4hBEjxjNO1Lb1VH6BOKP_mxSo9dXEBJOC3cHRmKvQc2u48Clujsm9cVARZHyux0bVXAY-NDhjO_h-X6fjtft5qQo2hjbWJW557Jc78llnZzntTsKg02XNxmO0yBU5qBefBLVddJHhIQtCDl3E1fB-VN92OMwgNUNxoUnCZFoiFYTRX_wGIdDqu-JPcH5Mo",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/108349504741187625540/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Aggarwal Tower, CU Block, 202, 1st Street Road, Ranikhet, Pitampura, New Delhi",
+      "website" : "http://www.apventerprises.in/"
+   },
+   "status" : "OK"
+}

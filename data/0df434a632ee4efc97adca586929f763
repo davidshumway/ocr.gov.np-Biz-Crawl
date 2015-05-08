@@ -1,0 +1,137 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "5L-47",
+            "short_name" : "5L-47",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "KC Road",
+            "short_name" : "KC Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "New Industrial Township 5",
+            "short_name" : "NIT-5",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New Industrial Township",
+            "short_name" : "NIT",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Faridabad",
+            "short_name" : "Faridabad",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Faridabad",
+            "short_name" : "Faridabad",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Haryana",
+            "short_name" : "HR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "121001",
+            "short_name" : "121001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e5L-47, KC Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNew Industrial Township 5, New Industrial Township\u003c/span\u003e, \u003cspan class=\"locality\"\u003eFaridabad\u003c/span\u003e, \u003cspan class=\"region\"\u003eHaryana\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e121001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "5L-47, KC Road, New Industrial Township 5, New Industrial Township, Faridabad, Haryana 121001, India",
+      "formatted_phone_number" : "095822 27190",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.395618,
+            "lng" : 77.30171799999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "1b4250390053dc06a090359b24e62c86a6ed6708",
+      "international_phone_number" : "+91 95822 27190",
+      "name" : "Bharat Business Channel Limited",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:00 am – 9:00 pm",
+            "Tuesday: 8:00 am – 9:00 pm",
+            "Wednesday: 8:00 am – 9:00 pm",
+            "Thursday: 8:00 am – 9:00 pm",
+            "Friday: 8:00 am – 9:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJrw3BZDHcDDkRtamX5kMlQSQ",
+      "reference" : "CoQBcgAAAP2pXowAkbrDbUE0_KF2FE7qsjSkNhxwhD8FfqQf1Ntyz-g6kkSntj_lGD2wMRwmPD1-sgWrnz0H-9Fw2Lzkss9Z-c_LgnVyAoS9c-HXSQq4ZIkdGc5uB_KgihSkmzeWofNVgr212CJAoBcHUIlzItibzuOkDfts8Rjsl0g8hf3UEhAoP4HIQVfHeSYvIQp-qofOGhSHL34khtumMJDfoxis5-MhkQ2aNg",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/103176469919868624256/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "5L-47, KC Road, New Industrial Township 5, New Industrial Township, Faridabad"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,130 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "New Delhi",
+            "short_name" : "New Delhi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Delhi",
+            "short_name" : "DL",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "110001",
+            "short_name" : "110001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "26/28, Indra Palace, Block H, Connaught Place, \u003cspan class=\"street-address\"\u003eConnaught Place\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew Delhi\u003c/span\u003e, \u003cspan class=\"region\"\u003eDelhi\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e110001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "26/28, Indra Palace, Block H, Connaught Place, Connaught Place, New Delhi, Delhi 110001, India",
+      "formatted_phone_number" : "011 2371 3650",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.632778,
+            "lng" : 77.219722
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "90b347740076479d07ae549ea703cda7560640ba",
+      "international_phone_number" : "+91 11 2371 3650",
+      "name" : "United Phosphorus Limited",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0930"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:30 am – 6:00 pm",
+            "Tuesday: 9:30 am – 6:00 pm",
+            "Wednesday: 9:30 am – 6:00 pm",
+            "Thursday: 9:30 am – 6:00 pm",
+            "Friday: 9:30 am – 6:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ3_XyNzL9DDkRlhT0ZHNgTs8",
+      "reference" : "CnRtAAAAXOBYst-lgXI3yVVYK9hVaYDbrcwGgGlkDRx5G6kyaN-AgRYk3dcjna0TMb8P_dQhUR7POVeOLIQnSpdNRs9BecGc8TzEEE9U7yKPDFpNtubbPSbg7czodxQrk48l28SgdxCgfKajDjtWUWcCAuYAFxIQiZmq-y9gIQYOIfJZXpTJYBoUPr6HG1dBYsvn23UcBE57uv63-vQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "ok                                                         ok                                                         ok                                                         ok                                                         ok                                                         ok                                                         ok                                                         ok                                                         ok                                                         ok                                                         ok                                                         ok                                                         ok                                                         ok                                                         ok                                                         ok                                                         ok                                                         ok                                                         ok                                                         ok                                                         ok                                                         ok                                                         ok                                                         ok                                                         ok                                                         ",
+            "time" : 1274332909
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/114430337835534369106/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "26/28, Indra Palace, Block H, Connaught Place, Connaught Place, New Delhi"
+   },
+   "status" : "OK"
+}

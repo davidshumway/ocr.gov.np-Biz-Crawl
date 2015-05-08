@@ -1,0 +1,70 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Embassy of Pakistan",
+               "short_name" : "Embassy of Pakistan",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Ring Road",
+               "short_name" : "Ring Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Narayan Gopal Chowk",
+               "short_name" : "Narayan Gopal Chowk",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kathmandu",
+               "short_name" : "Kathmandu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44600",
+               "short_name" : "44600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Embassy of Pakistan, Ring Road, Kathmandu 44600, Nepal",
+         "geometry" : {
+            "location" : {
+               "lat" : 27.741049,
+               "lng" : 85.33661479999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7423979802915,
+                  "lng" : 85.33796378029149
+               },
+               "southwest" : {
+                  "lat" : 27.7397000197085,
+                  "lng" : 85.33526581970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJgSrW10cZ6zkRJSWCatWDPv4",
+         "types" : [ "embassy", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

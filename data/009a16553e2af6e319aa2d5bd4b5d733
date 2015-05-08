@@ -1,0 +1,61 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Delhi Road",
+            "short_name" : "Delhi Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Devpuri",
+            "short_name" : "Devpuri",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Meerut",
+            "short_name" : "Meerut",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Meerut",
+            "short_name" : "Meerut",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "250002",
+            "short_name" : "250002",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eDelhi Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eDevpuri\u003c/span\u003e, \u003cspan class=\"locality\"\u003eMeerut\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e250002\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Delhi Road, Devpuri, Meerut, Uttar Pradesh 250002, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.975547,
+            "lng" : 77.69285600000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "ddec25e5ddd655f27988f82acd40c37bcf421665",
+      "name" : "Kiran Paint",
+      "place_id" : "ChIJM09SOlpkDDkR9Rm7sUOjSsU",
+      "reference" : "CmRfAAAAaJjtLzQw2JEdn-6cJgd5ee3JWSFi1n4oxt-sTCa4bvc1ixA0ftHCh6gUmQZhlueyUhIkIGXe3BC0hNwwwoXe7-FYepxDVlZi4xUnPD2_bmQcho5WMdX9wF1EvbUZJPQLEhBo0gSbo_n1-GyG36TW8rrNGhRKj5sXi35qfSpKREDHmnqoDzVDeQ",
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/103071231464217575522/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Delhi Road, Devpuri, Meerut"
+   },
+   "status" : "OK"
+}

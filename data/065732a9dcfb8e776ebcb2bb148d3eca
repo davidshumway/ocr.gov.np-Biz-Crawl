@@ -1,0 +1,70 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Ford service center",
+            "short_name" : "Ford service center",
+            "types" : [ "point_of_interest", "establishment" ]
+         },
+         {
+            "long_name" : "A-18",
+            "short_name" : "A-18",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "A Block",
+            "short_name" : "A Block",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Sector 2",
+            "short_name" : "Sector 2",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Noida",
+            "short_name" : "Noida",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Gautam Buddha Nagar",
+            "short_name" : "Gautam Buddha Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Delhi",
+            "short_name" : "DL",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "201301",
+            "short_name" : "201301",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Ford service center, \u003cspan class=\"street-address\"\u003eA-18\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eA Block, Sector 2\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNoida\u003c/span\u003e, \u003cspan class=\"region\"\u003eDelhi\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e201301\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Ford service center, A-18, A Block, Sector 2, Noida, Delhi 201301, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.5876118,
+            "lng" : 77.3145675
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "9c03a5aee08b044cb924d028f47e8b92f900d857",
+      "name" : "Ford service center",
+      "place_id" : "ChIJH4TF5vXkDDkRu6DQuD6obME",
+      "reference" : "CnRwAAAAnk0Z6gwJjgfkynxV8FlvS-ABnuW_v-YGDaZAd-6hknb3a22zoIk9BuXNId_26EtfS-ploR6mXyP8lOEJjBkKOAbDWXZZT6MSx40AIDk37TmV9OkzQUQO2pjjrcbmaRGJqG_HqJ7vC1PUUu5VPnVeShIQxzonQpQeMYQXgOSqatKSrhoUsGVLKYpLiUBxKhXYomWXsvTwfaM",
+      "scope" : "GOOGLE",
+      "types" : [ "point_of_interest", "car_repair", "establishment" ],
+      "url" : "https://maps.google.com/maps/place?q=Ford+service+center&ftid=0x390ce4f5e6c5841f:0xc16ca83eb8d0a0bb",
+      "vicinity" : "A Block"
+   },
+   "status" : "OK"
+}

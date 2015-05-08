@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Shanghai Middle Road",
+            "short_name" : "Shanghai Middle Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Xigaze",
+            "short_name" : "Xigaze",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Xigaze",
+            "short_name" : "Xigaze",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Tibet",
+            "short_name" : "Tibet",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "China",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eShanghai Middle Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eXigaze\u003c/span\u003e, \u003cspan class=\"locality\"\u003eXigaze\u003c/span\u003e, \u003cspan class=\"region\"\u003eTibet\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eChina\u003c/span\u003e",
+      "formatted_address" : "Shanghai Middle Road, Xigaze, Xigaze, Tibet, China",
+      "geometry" : {
+         "location" : {
+            "lat" : 29.258715,
+            "lng" : 88.88494
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "afde45642b2187d2957f7a81cb0d6c3a8d579136",
+      "name" : "Wanli Car Wash",
+      "place_id" : "ChIJhXCxckd63jkRw-5kGJ6z0xc",
+      "reference" : "CnRhAAAAHq_qlMcNg3MkeVCme5NJjdSHR402nedaZOO-S6Wv9hVJux7deEKAhGLkKD8omZIViHZ0C10CIrlCWNerTyP77hhY8O5D2uSoqfyvMXzwoRcD7njDq07zOBJggV-V4NWWANNQsLN4moJlEoZSrlNToBIQZSBeRFBirCNVAfyaAqix6xoUnSrZvfsq6UyeU9yYAY0y3sCdOAg",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/107053327273983718729/about?hl=en-US",
+      "utc_offset" : 480,
+      "vicinity" : "Shanghai Middle Road, Xigaze"
+   },
+   "status" : "OK"
+}

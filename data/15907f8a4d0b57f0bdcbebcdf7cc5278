@@ -1,0 +1,141 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "New Delhi",
+            "short_name" : "New Delhi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Delhi",
+            "short_name" : "DL",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "110005",
+            "short_name" : "110005",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "No. 2109, DB Gupta Road, \u003cspan class=\"street-address\"\u003enear Ajmal Khan park, Karol Bagh\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew Delhi\u003c/span\u003e, \u003cspan class=\"region\"\u003eDelhi\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e110005\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "No. 2109, DB Gupta Road, near Ajmal Khan park, Karol Bagh, New Delhi, Delhi 110005, India",
+      "formatted_phone_number" : "098105 18681",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.651708,
+            "lng" : 77.19524199999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "76b794e1c5ddab76242f29290d4209fb046efebc",
+      "international_phone_number" : "+91 98105 18681",
+      "name" : "Autopsyche",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0930"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:30 am – 6:00 pm",
+            "Tuesday: 9:30 am – 6:00 pm",
+            "Wednesday: 9:30 am – 6:00 pm",
+            "Thursday: 9:30 am – 6:00 pm",
+            "Friday: 9:30 am – 6:00 pm",
+            "Saturday: 9:30 am – 6:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJc71-KGL9DDkR0Qsf7Wq8HaQ",
+      "reference" : "CmReAAAAvQacf1WCWqQWCLcJRjiKkW1FO4DpqMsO3EmNbskVQRe2KrFNweQrRTOEmBq16t6l2YufIym4kjwNGKKmA88njTsnkTshrGodPDr7XQQW2Z0S0LOSYHtACBcyDdewCm_PEhApJkJVGtpDXvigmoLA1Xs7GhSgHhyKQ_lNfEF5himk-5qvgu3qIA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 1,
+            "text" : "",
+            "time" : 1297333959
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/109603881710678335529/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "No. 2109, DB Gupta Road, near Ajmal Khan park, Karol Bagh, New Delhi",
+      "website" : "http://www.vohragroup.com/autospyche.html"
+   },
+   "status" : "OK"
+}

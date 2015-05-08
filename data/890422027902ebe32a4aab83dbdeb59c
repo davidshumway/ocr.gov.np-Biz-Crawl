@@ -1,0 +1,147 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Dadri Main Road",
+            "short_name" : "Dadri Main Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Natthu Colony",
+            "short_name" : "Natthu Colony",
+            "types" : [ "sublocality_level_3", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Baraula",
+            "short_name" : "Baraula",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Sector 49",
+            "short_name" : "Sector 49",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Noida",
+            "short_name" : "Noida",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Gautam Buddh Nagar",
+            "short_name" : "Gautam Buddh Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "201301",
+            "short_name" : "201301",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eDadri Main Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNatthu Colony, Baraula, Sector 49\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNoida\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e201301\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Dadri Main Road, Natthu Colony, Baraula, Sector 49, Noida, Uttar Pradesh 201301, India",
+      "formatted_phone_number" : "098719 28593",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.55814,
+            "lng" : 77.371706
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "b5479a031b7676166fb3c0c631d345293afa12f8",
+      "international_phone_number" : "+91 98719 28593",
+      "name" : "Shiv Electrical",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 10:00 am – 10:00 pm",
+            "Wednesday: 10:00 am – 10:00 pm",
+            "Thursday: 10:00 am – 10:00 pm",
+            "Friday: 10:00 am – 10:00 pm",
+            "Saturday: 10:00 am – 10:00 pm",
+            "Sunday: 10:00 am – 10:00 pm"
+         ]
+      },
+      "place_id" : "ChIJEdRIpPDlDDkRhUdjgwXJ_y8",
+      "reference" : "CnRiAAAAhlDVeXkkng18wGNcH7UKHN4nWzZlGVplAyvOONNJNtc5svo-_tgH2nEYH7tImfNCtRozXvi6cOuiARUUxMIfXAIA9r56FjRBFPhamIskYkREZ7QDHbrQVYFGVEdllXNzDjKszyxvSfXgNnzQBTETQRIQbx9Rvg-r6Ez4AANPvbbfSxoUOG-SPePD20K7gYMDEPLHbwNIgGc",
+      "scope" : "GOOGLE",
+      "types" : [ "electrician", "establishment" ],
+      "url" : "https://plus.google.com/113579248547903213291/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Dadri Main Road, Natthu Colony, Baraula, Sector 49, Noida"
+   },
+   "status" : "OK"
+}

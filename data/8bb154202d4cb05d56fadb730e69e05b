@@ -1,0 +1,46 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Xianqian Road",
+            "short_name" : "Xianqian Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Gar",
+            "short_name" : "Gar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Tibet",
+            "short_name" : "Tibet",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "China",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eXianqian Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eGar\u003c/span\u003e, \u003cspan class=\"region\"\u003eTibet\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eChina\u003c/span\u003e",
+      "formatted_address" : "Xianqian Road, Gar, Tibet, China",
+      "geometry" : {
+         "location" : {
+            "lat" : 32.505648,
+            "lng" : 80.10394599999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "f53db663c5daed9d6509ad0701fa1e361bb1d033",
+      "name" : "Ngari Hyundai Automobile Repair",
+      "place_id" : "ChIJgQyi1Ph3qTkR-MJbC7OuAWg",
+      "reference" : "CoQBcgAAAOAfeu3gQe8OPvwTLmW1gZtfNRbtsDqGRiMtrEy2m-f5JayrI2avkAFc84hq0ZUNJXw0hDVD3EWuziKtchTxMySSx2D1V7rJsiA6mNK63CYrK7lk2bT_fIJSiZoiDJpfbDnb8Ed_8qmh7zeDCH14vrLahgGIDBAq3BTa1XxDcQqpEhCx9r3Fj5slIXxanwaSLOS4GhRNn07ESnEOAYfDeq2woAHJ0POqrw",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/107270360519094945651/about?hl=en-US",
+      "utc_offset" : 480,
+      "vicinity" : "Xianqian Road, Gar"
+   },
+   "status" : "OK"
+}

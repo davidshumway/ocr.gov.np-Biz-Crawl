@@ -1,0 +1,60 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gaur",
+               "short_name" : "Gaur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narayani",
+               "short_name" : "Narayani",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gaur, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.8049982,
+                  "lng" : 85.31043769999999
+               },
+               "southwest" : {
+                  "lat" : 26.7535479,
+                  "lng" : 85.2464363
+               }
+            },
+            "location" : {
+               "lat" : 26.766667,
+               "lng" : 85.266667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8049982,
+                  "lng" : 85.31043769999999
+               },
+               "southwest" : {
+                  "lat" : 26.7535479,
+                  "lng" : 85.2464363
+               }
+            }
+         },
+         "place_id" : "ChIJK8qE5yq-7DkRXsFfIblQhNc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

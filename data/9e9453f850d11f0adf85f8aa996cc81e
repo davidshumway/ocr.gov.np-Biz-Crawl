@@ -1,0 +1,73 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "State Highway 1",
+            "short_name" : "SH 1",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bilaspur",
+            "short_name" : "Bilaspur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Yamuna Nagar",
+            "short_name" : "Yamuna Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Haryana",
+            "short_name" : "HR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "135102",
+            "short_name" : "135102",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eState Highway 1\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBilaspur\u003c/span\u003e, \u003cspan class=\"region\"\u003eHaryana\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e135102\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "State Highway 1, Bilaspur, Haryana 135102, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 30.300933,
+            "lng" : 77.297561
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "ae074c0ff19d8ff7032963d608fded57221c104f",
+      "name" : "Sandhu Motors",
+      "place_id" : "ChIJlcghNiMCDzkRvFso2TB--KE",
+      "reference" : "CnRhAAAAPdX_T0c8Zd_XsAzeXOTmS8-asHDZRjSx5Nj6itq1bP3hJsU2Nm8I7mdXCkBhc61kFoGOxxhGdZqkqPaqZelguB6XwonQuEXniucsgDBvLgB8wiRhwyXPxzfn_4jI8E3TJNL9YVKnQOi8oEnGv7hF_hIQkI8iuf08FEoOT_drIxJbMxoUj4dyBfTa3xN02_f_UKvINq0R2GA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Anish Singla",
+            "author_url" : "https://plus.google.com/115161873248077253087",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "",
+            "time" : 1372834058
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/101559567394132305886/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "State Highway 1, Bilaspur"
+   },
+   "status" : "OK"
+}

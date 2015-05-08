@@ -1,0 +1,142 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Alipur Road",
+            "short_name" : "Alipur Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Narela Mandi",
+            "short_name" : "Narela Mandi",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Narela",
+            "short_name" : "Narela",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New Delhi",
+            "short_name" : "New Delhi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "North West Delhi",
+            "short_name" : "North West Delhi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Delhi",
+            "short_name" : "DL",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "110040",
+            "short_name" : "110040",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eAlipur Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNarela Mandi, Narela\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew Delhi\u003c/span\u003e, \u003cspan class=\"region\"\u003eDelhi\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e110040\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Alipur Road, Narela Mandi, Narela, New Delhi, Delhi 110040, India",
+      "formatted_phone_number" : "098918 75368",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.843125,
+            "lng" : 77.089697
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "ce03ba44fc5e83f7249e9e619f57d13b249f6d0d",
+      "international_phone_number" : "+91 98918 75368",
+      "name" : "Shiv Transport Co.",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 8:00 pm",
+            "Tuesday: 9:00 am – 8:00 pm",
+            "Wednesday: Closed",
+            "Thursday: 9:00 am – 8:00 pm",
+            "Friday: 9:00 am – 8:00 pm",
+            "Saturday: 9:00 am – 8:00 pm",
+            "Sunday: 9:00 am – 8:00 pm"
+         ]
+      },
+      "place_id" : "ChIJvbTdn3epDTkRoHKPNBPn2O4",
+      "reference" : "CnRmAAAA3r0CZ1J9F6rNrIm2FV9OUKQ0nE570QpU4iAJwPmQQ0nwtM-ekJfZ0YTRDFolpfjlukyTFXVcWv4bge6YBMfMCYiH21Toqj-mUMxVU1BsE-3OtDzYjpcMPXL4_qrVeWx2qbVADYIrC1e5tmkrKIGrvBIQJSBA1ON6J0n0TX-Lh5maARoUXGOH6qvEZa4YO9VZMub3KAwB_1k",
+      "scope" : "GOOGLE",
+      "types" : [ "moving_company", "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/118114149125948565457/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Alipur Road, Narela Mandi, Narela, New Delhi"
+   },
+   "status" : "OK"
+}

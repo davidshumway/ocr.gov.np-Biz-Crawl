@@ -1,0 +1,66 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "A-53",
+            "short_name" : "A-53",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Transport Nagar",
+            "short_name" : "Transport Nagar",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Chandrabani",
+            "short_name" : "Chandrabani",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Shewala Khurd",
+            "short_name" : "Shewala Khurd",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Dehradun",
+            "short_name" : "Dehradun",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttarakhand",
+            "short_name" : "UK",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "248002",
+            "short_name" : "248002",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eA-53\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eTransport Nagar, Chandrabani\u003c/span\u003e, \u003cspan class=\"locality\"\u003eShewala Khurd\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttarakhand\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e248002\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "A-53, Transport Nagar, Chandrabani, Shewala Khurd, Uttarakhand 248002, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 30.281578,
+            "lng" : 77.98853800000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "b78a1e5ab0ea5de996153efa048622a216c7a368",
+      "name" : "Birla Tyres",
+      "place_id" : "ChIJD8XcXborCTkRekYzlDGONKA",
+      "reference" : "CmRfAAAAWttw_gsJqUkPmSqlnuXY_QDN-sQCUhikngkgcpUBiqs8QZ8iYpAZiu69J-DJk26chgVsetNF8gz03Z2uxG59ixFMdojuL8AMOZFS3WA3lhmsqYnOhjf_Kcncv-hcLQMdEhBipCUnM16uX0wjPS8x4KTVGhSGE1_mfZmOw_qAw9QrSvjOoFhqNg",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/116729924191067001899/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "A-53, Transport Nagar, Chandrabani, Shewala Khurd"
+   },
+   "status" : "OK"
+}

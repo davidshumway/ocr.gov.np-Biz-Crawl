@@ -1,0 +1,140 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "C-125, Sector-63",
+            "short_name" : "C-125, Sector-63",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Noida",
+            "short_name" : "Noida",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Gautam Buddha Nagar",
+            "short_name" : "Gautam Buddha Nagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "201301",
+            "short_name" : "201301",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eC-125, Sector-63\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNoida\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e201301\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "C-125, Sector-63, Noida, Uttar Pradesh 201301, India",
+      "formatted_phone_number" : "0120 433 2222",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.615395,
+            "lng" : 77.382243
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "6dfe91a3e72de200ded0f0bc95e6ad923907f106",
+      "international_phone_number" : "+91 120 433 2222",
+      "name" : "Motorcraft India Pvt. Ltd.",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0830"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 8:30 am – 6:30 pm",
+            "Tuesday: 8:30 am – 6:30 pm",
+            "Wednesday: 8:30 am – 6:30 pm",
+            "Thursday: 8:30 am – 6:30 pm",
+            "Friday: 8:30 am – 6:30 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJU3a-MIvvDDkRtCgs6WmnrC4",
+      "reference" : "CnRtAAAAz0r5A2SkDDfmAEOBm_zPAHbYUVLFuK7OHU4-bllbKNvvLscubpjC5uPw6Izg1Zodi1mHBGlkBm9QP4jCK83UFepBd3J2VmUlxAtkcNydViuz4T5s6aq8uODHYxVcsaBK88P30NycUCPm1IQ7d5oVuhIQPzR2FgL0n6qYL8nitFDtkxoUHhOC-iOIbVHCB69wcS9L6weA84s",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "quality"
+               }
+            ],
+            "author_name" : "Amresh Singh",
+            "author_url" : "https://plus.google.com/103614157939479429197",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1376429352
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/102372177764440091049/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "C-125, Sector-63, Noida",
+      "website" : "http://www.motorcraft.in/"
+   },
+   "status" : "OK"
+}

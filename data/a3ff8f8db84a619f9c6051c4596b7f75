@@ -1,0 +1,60 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Surkhet",
+               "short_name" : "Surkhet",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bheri",
+               "short_name" : "Bheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Surkhet, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.9787863,
+                  "lng" : 82.02701570000001
+               },
+               "southwest" : {
+                  "lat" : 28.3262935,
+                  "lng" : 80.9819411
+               }
+            },
+            "location" : {
+               "lat" : 28.517456,
+               "lng" : 81.77870209999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.9787863,
+                  "lng" : 82.02701570000001
+               },
+               "southwest" : {
+                  "lat" : 28.3262935,
+                  "lng" : 80.9819411
+               }
+            }
+         },
+         "place_id" : "ChIJaVJStt53mDkRU9pIMH_jK4s",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

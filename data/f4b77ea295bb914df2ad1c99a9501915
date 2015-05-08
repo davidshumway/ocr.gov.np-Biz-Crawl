@@ -1,0 +1,60 @@
+{
+   "exclude_from_slo" : true,
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Darchula",
+               "short_name" : "Darchula",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Mahakali",
+               "short_name" : "Mahakali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Darchula, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.2182093,
+                  "lng" : 81.1136056
+               },
+               "southwest" : {
+                  "lat" : 29.6133118,
+                  "lng" : 80.3629304
+               }
+            },
+            "location" : {
+               "lat" : 29.8812097,
+               "lng" : 80.7657804
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.2182093,
+                  "lng" : 81.1136056
+               },
+               "southwest" : {
+                  "lat" : 29.6133118,
+                  "lng" : 80.3629304
+               }
+            }
+         },
+         "place_id" : "ChIJNQF-xmeppjkR0DTSffEMOE0",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

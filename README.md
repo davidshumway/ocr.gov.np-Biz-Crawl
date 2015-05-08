@@ -18,6 +18,8 @@ As of April 30, 2015, the scrape produces 127,543 business registered in total, 
 
 If a Facebook application API key is supplied then the program will retrieve Facebook "Places" throughout Nepal.
 
+Add the argument ```"ypnepal.com"``` to crawl ypnepal.com and exit.
+
 <h3>Google Fusion Tables</h3>
 
 The following CSV data is also on Google's Fusion Tables, which uses the geocoding information for mapping.
@@ -42,9 +44,17 @@ Types Only:  https://www.google.com/fusiontables/data?docid=1J23kTW8j8GMrLm8m48Q
 Same search as ```1gyiRo3FPoNUXfqIfvsIeHVTpC8pahBGT_1PE3US9``` above but with additional N. India locations.
 
 Businesses on Google Places, Northern India & Nepal (tents, shelter materials): https://www.google.com/fusiontables/data?docid=1Jl84nOxm36sWZbHaxA7XuOjcQY0NHTR5gyJiiQ_A#map:id=3
-Set of keywords: ```tent OR tents OR tenting OR tarp OR tarps OR tarpaulin OR tarpauline OR "building supplies" OR material OR fabric OR fabrics OR outdoor OR upholstery OR cotton OR textile OR textiles OR quilt OR shelter OR survival OR backpacking OR nylon OR silnylon OR hammock OR stakes OR camping OR tarptent OR canopy OR canopies OR weatherproof```.
+Keywords: ```tent OR tents OR tenting OR tarp OR tarps OR tarpaulin OR tarpauline OR "building supplies" OR material OR fabric OR fabrics OR outdoor OR upholstery OR cotton OR textile OR textiles OR quilt OR shelter OR survival OR backpacking OR nylon OR silnylon OR hammock OR stakes OR camping OR tarptent OR canopy OR canopies OR weatherproof```.
+
+Businesses on Google Places, Northern India & Nepal (cardboard, paper mills): https://www.google.com/fusiontables/data?docid=1nrfyVJjd7lu3ZDf6yv7YLAM3gPJswEJY39vs0K6i#map:id=3
+Keywords: ```"cardboard box" OR "cardboard manufacturers" OR "corrugated plastic" OR "paper mill" OR cardboard OR "corrugated packaging" OR corrugated OR packaging OR "paper manufacturers" OR containerboard OR laminated OR flex OR "corrugated plastic packaging" OR "packaging supplies" OR "cardboard manufacturers" OR "corrugated plastic signs"```
 
 Facebook Places (~500): https://www.google.com/fusiontables/data?docid=1shrVLCEiy13cZJ5_EWggZ83ScF-92kYDf_-iEiDq
 This is a list of all Facebook places in the country.
 
+All lat. / lng. pairs: https://www.google.com/fusiontables/data?docid=1nWSCUWvuDlIEomT1ZNsseLRBv5muYdQsqEkoPBw8#map:id=1
+Map of center points for searches.
 
+ypnepal.com crawl: https://www.google.com/fusiontables/data?docid=1ukInajze2c617gO5c2lNaK_eQ034CiGyhz9-T6NN#rows:id=1<br>
+ypnepal.com crawl (plus Paper/Cardboard):https://www.google.com/fusiontables/data?docid=1X3evMd4nhX4EVEwSQMoOCyKvOgg9A4RvSpnmNk0X#rows:id=1
+Keyword match: ```"plastic", "paper", "pulp", "paper mill", "cardboard"```. Category match: ```"Paper Products", "Paper Products / Stationery", "Bags & Wrappers", "Packaging Industries", "PVC Card", "PVC Products", "Plastic Wood"```.

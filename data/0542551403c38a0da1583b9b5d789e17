@@ -1,0 +1,132 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "MDR 147W",
+            "short_name" : "MDR 147W",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Gangoh",
+            "short_name" : "Gangoh",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Saharanpur",
+            "short_name" : "Saharanpur",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "247341",
+            "short_name" : "247341",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eMDR 147W\u003c/span\u003e, \u003cspan class=\"locality\"\u003eGangoh\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e247341\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "MDR 147W, Gangoh, Uttar Pradesh 247341, India",
+      "formatted_phone_number" : "074178 01532",
+      "geometry" : {
+         "location" : {
+            "lat" : 29.778378,
+            "lng" : 77.26563
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "d69b3de0cece9cbb927f82698147a32a1938e9ca",
+      "international_phone_number" : "+91 74178 01532",
+      "name" : "Sunny Stores",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 9:00 am – 8:00 pm",
+            "Wednesday: 9:00 am – 8:00 pm",
+            "Thursday: 9:00 am – 8:00 pm",
+            "Friday: 9:00 am – 8:00 pm",
+            "Saturday: 9:00 am – 8:00 pm",
+            "Sunday: 9:00 am – 8:00 pm"
+         ]
+      },
+      "place_id" : "ChIJZUsJRiKJDjkRjR3z1U08EA4",
+      "reference" : "CmRfAAAAv1d-7leLgeHF48ms3gq38fBI08rK_ewkasyQgTCsStjhvgctOFS8qgT0DFI0NgaMJAQwX2vUCZIKnxOPKoKx-sfGHJqzdUj0m5DTGEbhg6m4D_V1TDYfcjzss3V3bEchEhDTvoZpX1A8BSlesl81J4GNGhSZbc7oqdfvAmDMmkDIEmAskLDcZA",
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/109846593854812984927/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "MDR 147W, Gangoh"
+   },
+   "status" : "OK"
+}

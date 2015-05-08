@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Shanghai South Road",
+            "short_name" : "Shanghai S Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Xigaze",
+            "short_name" : "Xigaze",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Xigaze",
+            "short_name" : "Xigaze",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Tibet",
+            "short_name" : "Tibet",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "China",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eShanghai South Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eXigaze\u003c/span\u003e, \u003cspan class=\"locality\"\u003eXigaze\u003c/span\u003e, \u003cspan class=\"region\"\u003eTibet\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eChina\u003c/span\u003e",
+      "formatted_address" : "Shanghai South Road, Xigaze, Xigaze, Tibet, China",
+      "geometry" : {
+         "location" : {
+            "lat" : 29.253347,
+            "lng" : 88.886898
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "0300b5f516ed4c02257115dd6510cc68e47bcfff",
+      "name" : "Xining Car Fast-Repair Department",
+      "place_id" : "ChIJva1ZpkF63jkRksJIrCs3aT8",
+      "reference" : "CoQBdAAAANFQHoR43tzAmvr_j6sD7Eumf3kLaDvU2O7b3zxufx3IUx48yahFGa2xwQjHlSK-aJUp4cjkHx27gV9BCZ6NSIdyZeXYFOwNf3K3HDz7t96GVOb0Fv_wrxx3LXtalZ-FsbZiHyzUIFbLKIMl2wjK3poaKq8GKwOlH9-4VyqgIxdVEhAzJhihvZmUeutKWjGCCeF7GhS2faNsSiRcCE1I3x2iFhG1ExlWTQ",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/104801835867412775318/about?hl=en-US",
+      "utc_offset" : 480,
+      "vicinity" : "Shanghai South Road, Xigaze"
+   },
+   "status" : "OK"
+}

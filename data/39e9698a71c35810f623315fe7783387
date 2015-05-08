@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kapilvastu",
+               "short_name" : "Kapilvastu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lumbini",
+               "short_name" : "Lumbini",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Region",
+               "short_name" : "Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32800",
+               "short_name" : "32800",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kapilvastu 32800, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6058228,
+                  "lng" : 83.1105422
+               },
+               "southwest" : {
+                  "lat" : 27.4840605,
+                  "lng" : 83.0053138
+               }
+            },
+            "location" : {
+               "lat" : 27.55,
+               "lng" : 83.05
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6058228,
+                  "lng" : 83.1105422
+               },
+               "southwest" : {
+                  "lat" : 27.4840605,
+                  "lng" : 83.0053138
+               }
+            }
+         },
+         "place_id" : "ChIJzWmEpD7lljkRHMfueHrrRbI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

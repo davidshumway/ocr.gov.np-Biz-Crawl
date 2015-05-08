@@ -1,0 +1,127 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Bhopa Road",
+            "short_name" : "Bhopa Road",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Dwarika Puri",
+            "short_name" : "Dwarika Puri",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Muzaffarnagar",
+            "short_name" : "Muzaffarnagar",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Muzaffarnagar",
+            "short_name" : "Muzaffarnagar",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "251001",
+            "short_name" : "251001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eBhopa Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eDwarika Puri\u003c/span\u003e, \u003cspan class=\"locality\"\u003eMuzaffarnagar\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e251001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Bhopa Road, Dwarika Puri, Muzaffarnagar, Uttar Pradesh 251001, India",
+      "formatted_phone_number" : "097600 77887",
+      "geometry" : {
+         "location" : {
+            "lat" : 29.472824,
+            "lng" : 77.714647
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "58f814e59da2b16ee2d4700c47c4dfe48d507055",
+      "international_phone_number" : "+91 97600 77887",
+      "name" : "Shree Tyres",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 8:00 pm",
+            "Tuesday: 9:00 am – 8:00 pm",
+            "Wednesday: 9:00 am – 8:00 pm",
+            "Thursday: 9:00 am – 8:00 pm",
+            "Friday: 9:00 am – 8:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ6eddwmwbDDkR3yRpa0evN5A",
+      "reference" : "CmRfAAAAwICaarW4sONvizuMbPRkaoC67ENSI_bJYRvH8cMnz7D0d1qSFQ9SC4ymnwgxy30N4dM-MSUsG1284wWz9crwjt5l9mPguALQ61uKPdJP69oWOR-gezBrB0cBAnArSaDJEhA7r82DgKkhapYCzGU5cr4pGhQ6AF1r5BasdPl0nBrl_Kh-3rkEkw",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/114418493276506375585/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Bhopa Road, Dwarika Puri, Muzaffarnagar"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,143 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Raja Road",
+            "short_name" : "Raja Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Prince Chowk",
+            "short_name" : "Prince Chowk",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Dhamawala Bazar",
+            "short_name" : "Dhamawala Bazar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Dehradun",
+            "short_name" : "Dehradun",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Dehradun",
+            "short_name" : "Dehradun",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttarakhand",
+            "short_name" : "UK",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "248001",
+            "short_name" : "248001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Kochar Complex, \u003cspan class=\"street-address\"\u003eRaja Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003ePrince Chowk, Dhamawala Bazar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eDehradun\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttarakhand\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e248001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Kochar Complex, Raja Road, Prince Chowk, Dhamawala Bazar, Dehradun, Uttarakhand 248001, India",
+      "formatted_phone_number" : "0135 272 3803",
+      "geometry" : {
+         "location" : {
+            "lat" : 30.316608,
+            "lng" : 78.03798500000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "d27733c02dfedc72cbbafc63e5279f96049a1adb",
+      "international_phone_number" : "+91 135 272 3803",
+      "name" : "Universal Iron Store",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJI4yGGJQpCTkRbqt_uFwTQRU",
+      "reference" : "CnRnAAAASn9pasP1awA1Q0zrJPjRa1et8jN14YzsWcDabrH0VlpnszVLWtJSogrV4F23sRKth2_ti70OXtDkdbcnDX020u_BuMWQpPWQA-QPEsSseTX06nnIyx7dSUG2hcU5Zy6SOHzRuZAkUFYRdRtV92735xIQZcP8iobeU_lVXnmtv7qMYBoUdMICxb16Zp7kIdexZo_v4wspSd4",
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/116996254576354408663/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Kochar Complex, Raja Road, Prince Chowk, Dhamawala Bazar, Dehradun",
+      "website" : "http://www.shantinathsupreme.com"
+   },
+   "status" : "OK"
+}

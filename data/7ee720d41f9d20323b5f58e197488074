@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bhaktapur",
+               "short_name" : "Bhaktapur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagmati",
+               "short_name" : "Bagmati",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Region",
+               "short_name" : "Central Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bhaktapur, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6911937,
+                  "lng" : 85.44888689999999
+               },
+               "southwest" : {
+                  "lat" : 27.6636022,
+                  "lng" : 85.40004640000001
+               }
+            },
+            "location" : {
+               "lat" : 27.672222,
+               "lng" : 85.427778
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6911937,
+                  "lng" : 85.44888689999999
+               },
+               "southwest" : {
+                  "lat" : 27.6636022,
+                  "lng" : 85.40004640000001
+               }
+            }
+         },
+         "place_id" : "ChIJoWuAQq4a6zkRgl5OQHngSVQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

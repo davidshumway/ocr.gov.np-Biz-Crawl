@@ -1,0 +1,123 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Noida",
+            "short_name" : "Noida",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "201301",
+            "short_name" : "201301",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "H-55, \u003cspan class=\"street-address\"\u003eSec-51\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNoida\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e201301\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "H-55, Sec-51, Noida, Uttar Pradesh 201301, India",
+      "formatted_phone_number" : "098111 39493",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.57249,
+            "lng" : 77.362264
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "5ebc61788509c144e04a1aba1f811047211194cf",
+      "international_phone_number" : "+91 98111 39493",
+      "name" : "Urban Modular",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1100"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 11:00 am – 6:00 pm",
+            "Wednesday: 11:00 am – 6:00 pm",
+            "Thursday: 11:00 am – 6:00 pm",
+            "Friday: 11:00 am – 6:00 pm",
+            "Saturday: 11:00 am – 6:00 pm",
+            "Sunday: 11:00 am – 6:00 pm"
+         ]
+      },
+      "place_id" : "ChIJ6YrSzR3iDDkRZ835emGtmck",
+      "reference" : "CnRhAAAA9gLKci3apNNBte7AF4rPJrAmeJOoGpIX13HzzRjbgwhtYwNTMzbDY-E84_OihO0hdmOI3h7cb6UJfhZDR3RFOnvo0Nxi70zqzJWavYjTi4Gmrz2EHqAs68B_ypcWnO05NSjG4GUfx9vY0kO6TUU4ChIQIfs2vE6qlMndFrZ1cMD9gxoUMgRF2zcTK6Ky3R3g3ixZqGaOkqA",
+      "scope" : "GOOGLE",
+      "types" : [ "general_contractor", "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/118256521453730601862/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "H-55, Sec-51, Noida",
+      "website" : "http://www.urbanmodular.in/"
+   },
+   "status" : "OK"
+}

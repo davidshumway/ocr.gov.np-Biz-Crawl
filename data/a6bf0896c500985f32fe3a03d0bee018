@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kailali",
+               "short_name" : "Kailali",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Seti",
+               "short_name" : "Seti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Far-Western Region",
+               "short_name" : "Far-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kailali, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.0846765,
+                  "lng" : 81.27651209999999
+               },
+               "southwest" : {
+                  "lat" : 28.415409,
+                  "lng" : 80.50420769999999
+               }
+            },
+            "location" : {
+               "lat" : 28.831355,
+               "lng" : 80.89865019999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.0846765,
+                  "lng" : 81.27651209999999
+               },
+               "southwest" : {
+                  "lat" : 28.415409,
+                  "lng" : 80.50420769999999
+               }
+            }
+         },
+         "place_id" : "ChIJ1dqYg-9rojkR4aFmTcq7C0s",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

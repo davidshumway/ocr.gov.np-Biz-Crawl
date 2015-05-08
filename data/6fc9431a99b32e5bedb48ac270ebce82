@@ -1,0 +1,73 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Police Line",
+            "short_name" : "Police Line",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Lakhimpur",
+            "short_name" : "Lakhimpur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Lakhimpur Kheri",
+            "short_name" : "Lakhimpur Kheri",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "262701",
+            "short_name" : "262701",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"extended-address\"\u003ePolice Line\u003c/span\u003e, \u003cspan class=\"locality\"\u003eLakhimpur\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e262701\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Police Line, Lakhimpur, Uttar Pradesh 262701, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 27.948684,
+            "lng" : 80.78169200000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "e9f3aa12d24647804a1d2b91a7450a895e3a2b78",
+      "name" : "Siddiqui Hardware Store",
+      "place_id" : "ChIJ3TMEDxw1nzkRVwtVvwXIr9Q",
+      "reference" : "CnRrAAAAcX7ipOmsma9qvfJWwjpDv8egqOU5hKpEvTUP5MEyRMHx34tZUmO-4JAfudmwflfgvoa0tQR2VYoTzCoTn9Q4ylpGhgDVzXNrB65g2criunZ9rIJh4gxLdE42VfbGkxztuQiik82eut56lfuAMA9pmxIQhvCPlX2czV5KYz2VsMI-_hoUb4x1QV5X8BxlT8NVP9KaWhVY-Sk",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Akram Siddiqui",
+            "author_url" : "https://plus.google.com/108411764605763850145",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Oldest n Honorable shop",
+            "time" : 1418321080
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/115219937787692506076/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Police Line, Lakhimpur"
+   },
+   "status" : "OK"
+}

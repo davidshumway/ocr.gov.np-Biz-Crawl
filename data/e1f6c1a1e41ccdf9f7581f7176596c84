@@ -1,0 +1,144 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Asaf Ali Road",
+            "short_name" : "Asaf Ali Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Kamla Market",
+            "short_name" : "Kamla Market",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ajmere Gate",
+            "short_name" : "Ajmere Gate",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New Delhi",
+            "short_name" : "New Delhi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Central Delhi",
+            "short_name" : "Central Delhi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Delhi",
+            "short_name" : "DL",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "110002",
+            "short_name" : "110002",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "60, \u003cspan class=\"street-address\"\u003eAsaf Ali Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eKamla Market, Ajmere Gate\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew Delhi\u003c/span\u003e, \u003cspan class=\"region\"\u003eDelhi\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e110002\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "60, Asaf Ali Road, Kamla Market, Ajmere Gate, New Delhi, Delhi 110002, India",
+      "formatted_phone_number" : "011 2323 0337",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.643917,
+            "lng" : 77.22522600000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "5e819a6f9ccd8627c3aed9e9c528c5936850b118",
+      "international_phone_number" : "+91 11 2323 0337",
+      "name" : "Raaj Roadways",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "0000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1100"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 11:00 am – 12:00 am",
+            "Tuesday: 11:00 am – 12:00 am",
+            "Wednesday: 11:00 am – 12:00 am",
+            "Thursday: 11:00 am – 12:00 am",
+            "Friday: 11:00 am – 12:00 am",
+            "Saturday: 11:00 am – 12:00 am",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJeQRKTDz9DDkRaWEWnXARfnI",
+      "reference" : "CmRgAAAAimUYGAld2xumxRmUBB_9R5u1b4__N6ZeQNydhmCdvWf4mz_dGlRcD5or1WDmVszuLZCR4d9U3Atzc_eKAsRLZzzn6EvPi8VFoCHYTjbqqx-5m2CrDwlMNb_MwSe8AWu5EhDnnNBEDLQcm7fmIvTtWOcVGhSW50R7WuxmTbdsh02htMw5fuGQjQ",
+      "scope" : "GOOGLE",
+      "types" : [ "moving_company", "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/105876818358062766936/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "60, Asaf Ali Road, Kamla Market, Ajmere Gate, New Delhi"
+   },
+   "status" : "OK"
+}

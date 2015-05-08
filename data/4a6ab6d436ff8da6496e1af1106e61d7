@@ -1,0 +1,142 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Gandhi Road",
+            "short_name" : "Gandhi Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Prince Chowk",
+            "short_name" : "Prince Chowk",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Paltan Bazaar",
+            "short_name" : "Paltan Bazaar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Dehradun",
+            "short_name" : "Dehradun",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Dehradun",
+            "short_name" : "Dehradun",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttarakhand",
+            "short_name" : "UK",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "248001",
+            "short_name" : "248001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "59, Doon Plaza, \u003cspan class=\"street-address\"\u003eGandhi Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003ePrince Chowk, Paltan Bazaar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eDehradun\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttarakhand\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e248001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "59, Doon Plaza, Gandhi Road, Prince Chowk, Paltan Bazaar, Dehradun, Uttarakhand 248001, India",
+      "formatted_phone_number" : "0135 262 2625",
+      "geometry" : {
+         "location" : {
+            "lat" : 30.316096,
+            "lng" : 78.037629
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "17f3cc256b39e4acc0f3cb7ec066aa6f616d6039",
+      "international_phone_number" : "+91 135 262 2625",
+      "name" : "Globe Automobiles",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJc2WSHZQpCTkR16pGiBiaiIE",
+      "reference" : "CnRlAAAAh_RPKZuz5r3KfEgBtbSL-v9D5wkauvp7Iqu4gLHXquPH0DMkaTMxiBcJPRsdSGRQmmITTet0DUL-aKmVxaEuvto1u2pk43BaSFWkjjJyXf4Ji5_6sOXGysskYSPEkX9Kc8b7xbmWlNsLnUHYkG2KQhIQra7c_wVlGR0zfFx8VA-5uhoUG4DSGMoEWKZLWMROVwsrzCh6aHk",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/111391247729088322530/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "59, Doon Plaza, Gandhi Road, Prince Chowk, Paltan Bazaar, Dehradun"
+   },
+   "status" : "OK"
+}

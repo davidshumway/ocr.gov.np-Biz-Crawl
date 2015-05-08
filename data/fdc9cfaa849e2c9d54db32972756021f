@@ -1,0 +1,103 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "National Highway 22",
+            "short_name" : "NH22",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Salogra",
+            "short_name" : "Salogra",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Solan",
+            "short_name" : "Solan",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Himachal Pradesh",
+            "short_name" : "HP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "173214",
+            "short_name" : "173214",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNational Highway 22\u003c/span\u003e, \u003cspan class=\"locality\"\u003eSalogra\u003c/span\u003e, \u003cspan class=\"region\"\u003eHimachal Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e173214\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "National Highway 22, Salogra, Himachal Pradesh 173214, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 30.928087,
+            "lng" : 77.124663
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "426cdaa3ba1e1d293ae6cdf1b8c22991f2d0121e",
+      "name" : "Wheel Care",
+      "place_id" : "ChIJBz0MbiKBDzkRxrdiJWlQE40",
+      "reference" : "CmReAAAAUjcCXiq4Z5kELdkQFPvOqXsQLijyeBlZwqy1UtkwDxdTHT639FCd9ZQqJPvHEkcNHMgFWBZta7G1kM4oo8G4y-pWAbfFCFJne1aUifQLeF12gq7C1Ex3jXStuBpMO_HNEhAoyU-RTeKHePPMlZPebJpcGhQV9zyWFSg5GGrVhEqwo4Fhf5sqOg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Nishin Gupta",
+            "author_url" : "https://plus.google.com/117998082791098006996",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "A must visit to gv ur car \"A CARE\"",
+            "time" : 1367750749
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "quality"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "appeal"
+               },
+               {
+                  "rating" : 3,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Kuldeep Rojhe",
+            "author_url" : "https://plus.google.com/100897838819700351530",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "Excellent Service Friendly people.",
+            "time" : 1366517256
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/110278555517479376666/about?hl=en-US",
+      "user_ratings_total" : 2,
+      "utc_offset" : 330,
+      "vicinity" : "National Highway 22, Salogra"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,157 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Chakarata Road",
+            "short_name" : "Chakarata Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bindaal Tirahya",
+            "short_name" : "Bindaal Tirahya",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Bindal Pul",
+            "short_name" : "Bindal Pul",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Dehradun",
+            "short_name" : "Dehradun",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Dehradun",
+            "short_name" : "Dehradun",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttarakhand",
+            "short_name" : "UK",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "248001",
+            "short_name" : "248001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eChakarata Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBindaal Tirahya, Bindal Pul\u003c/span\u003e, \u003cspan class=\"locality\"\u003eDehradun\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttarakhand\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e248001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Chakarata Road, Bindaal Tirahya, Bindal Pul, Dehradun, Uttarakhand 248001, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 30.330203,
+            "lng" : 78.02992999999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "115dcf4b4bbcb437c048d72a687e9054e10a88ac",
+      "name" : "Inam Auto Centre",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:00 pm",
+            "Tuesday: 10:00 am – 8:00 pm",
+            "Wednesday: 10:00 am – 8:00 pm",
+            "Thursday: 10:00 am – 8:00 pm",
+            "Friday: 10:00 am – 8:00 pm",
+            "Saturday: 10:00 am – 8:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJ6666MPApCTkRIFs3yfDsgTk",
+      "reference" : "CnRjAAAA17_E7JOgkwDOK8jab_M3EhqVbUM2Lxjfzr6qwjEFxO0sFj-bA3Emy-ClJ2Q4q2YUI7dstgEWsR2JimL8ENSDR6poHZe81iOuEKLSq6bZ8UNMN2JsmOKwsHG2RoorUlVScpyT9lqSguoN8qic98NFrhIQ-awVe5jf2n-44oPndwWRVxoUy1-EmXLeMdxGK8F3wNIK33cC094",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Rishabh Shrivastava",
+            "author_url" : "https://plus.google.com/116497548509939507196",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1424264781
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/104828668141652089559/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Chakarata Road, Bindaal Tirahya, Bindal Pul, Dehradun"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,138 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "New Delhi",
+            "short_name" : "New Delhi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Delhi",
+            "short_name" : "DL",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "110034",
+            "short_name" : "110034",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "250, Shivaji Market, \u003cspan class=\"street-address\"\u003ePitam Pura\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew Delhi\u003c/span\u003e, \u003cspan class=\"region\"\u003eDelhi\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e110034\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "250, Shivaji Market, Pitam Pura, New Delhi, Delhi 110034, India",
+      "formatted_phone_number" : "011 2702 4497",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.698286,
+            "lng" : 77.13002
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "38886eb70d6e666416d43cb1ac4fed27a86a470d",
+      "international_phone_number" : "+91 11 2702 4497",
+      "name" : "Beyondglass",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 9:00 am – 7:00 pm",
+            "Wednesday: 9:00 am – 7:00 pm",
+            "Thursday: 9:00 am – 7:00 pm",
+            "Friday: 9:00 am – 7:00 pm",
+            "Saturday: 9:00 am – 7:00 pm",
+            "Sunday: 9:00 am – 7:00 pm"
+         ]
+      },
+      "place_id" : "ChIJFy6qYdwDDTkRwlMpekmP-Dc",
+      "reference" : "CmReAAAA_QFAVwaMwBpSxma73MMord_wmBYSJVFvp5a9rldhIMUogZDbcmya27hJ0gKDYY8K-LIeEGS3AVwn6QcbW8YP_49TT_EyjE5oOAcfPKz7OkaaSMHBq92Wp1EYFRcJBl6oEhDZc6Yjt3OzGNTNRJqLrr9NGhSPlePJeEw3biF1oxeugOUW9AFnyg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "A Google User",
+            "language" : "en",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1336825785
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/110540476176453494373/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "250, Shivaji Market, Pitam Pura, New Delhi"
+   },
+   "status" : "OK"
+}

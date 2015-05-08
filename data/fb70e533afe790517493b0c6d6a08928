@@ -1,0 +1,130 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Chakarata Road",
+            "short_name" : "Chakarata Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Clock Tower",
+            "short_name" : "Clock Tower",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Dehradun",
+            "short_name" : "Dehradun",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Dehradun",
+            "short_name" : "Dehradun",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttarakhand",
+            "short_name" : "UK",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eChakarata Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eClock Tower\u003c/span\u003e, \u003cspan class=\"locality\"\u003eDehradun\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttarakhand\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Chakarata Road, Clock Tower, Dehradun, Uttarakhand, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 30.327819,
+            "lng" : 78.032101
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "4dfad51a4d23f4b2eb10847ecef4b7bf13e3a9fc",
+      "name" : "Anand Automobile",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2030"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 8:30 pm",
+            "Tuesday: 10:00 am – 8:30 pm",
+            "Wednesday: 10:00 am – 8:30 pm",
+            "Thursday: 10:00 am – 8:30 pm",
+            "Friday: 10:00 am – 8:30 pm",
+            "Saturday: 10:00 am – 8:30 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJVQHJE-4pCTkRKvhQE72zyr0",
+      "reference" : "CnRkAAAA3fHgjodVXwRx6U1f9hpEoUmKmoeNGwdUFU5Ze-1oBYyx69WnJTnY2ZSfyHOrLhBlEJYkiNCxZqpKsmlD3SKdHsJyeEpmEp5xHckFFejpORn6UHQaVgqdxYBvsV_FeKgdzRBpHkCcGIDQPemLwkIOJBIQCciGnFLzLCF7BQPtHnPkGxoUILWEd2j2WoWZxRxrmjsxDeXj0Dg",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/118196066895456553558/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Chakarata Road, Clock Tower, Dehradun"
+   },
+   "status" : "OK"
+}

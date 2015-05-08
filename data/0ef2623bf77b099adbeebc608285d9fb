@@ -1,0 +1,64 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "18/1",
+            "short_name" : "18/1",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Mathura Road",
+            "short_name" : "Mathura Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Sector 20B",
+            "short_name" : "Sector 20B",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Faridabad",
+            "short_name" : "Faridabad",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Faridabad",
+            "short_name" : "Faridabad",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Haryana",
+            "short_name" : "HR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e18/1, Mathura Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSector 20B\u003c/span\u003e, \u003cspan class=\"locality\"\u003eFaridabad\u003c/span\u003e, \u003cspan class=\"region\"\u003eHaryana\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "18/1, Mathura Road, Sector 20B, Faridabad, Haryana, India",
+      "formatted_phone_number" : "098683 06218",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.396593,
+            "lng" : 77.31170899999999
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "c569e67951b6a8531be3083cb96e6a7196fa1fdc",
+      "international_phone_number" : "+91 98683 06218",
+      "name" : "Sai Service Station",
+      "place_id" : "ChIJmyTohUncDDkRVvHKuY1j1nc",
+      "reference" : "CnRmAAAAhPA-14N0TWAPxKOZ-frJv7QxXQq8FgH41WfgdCNvFO23Oy3sxiyl7qrWbRBLAoPEq8lRJdbwvM4IVF402lrzhkZSksBYsltzrnW5eOr2bRnfJOgXuB2JAhc6GCVE1lHweaC6z7DbxKXJYXwfoVgk7xIQCosgTnwVxCFNXpqrwZlIJhoU1iuNX8VPTyZZ30fk-a0sdbBSqmM",
+      "scope" : "GOOGLE",
+      "types" : [ "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/112924207403597012718/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "18/1, Mathura Road, Sector 20B, Faridabad",
+      "website" : "http://www.saiservice.com/"
+   },
+   "status" : "OK"
+}

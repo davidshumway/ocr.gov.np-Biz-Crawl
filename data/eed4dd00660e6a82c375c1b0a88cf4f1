@@ -1,0 +1,130 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "KL Mehta Road",
+            "short_name" : "KL Mehta Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "New Industrial Township 1",
+            "short_name" : "New Industrial Twp 1",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New Industrial Township",
+            "short_name" : "NIT",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Faridabad",
+            "short_name" : "Faridabad",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Faridabad",
+            "short_name" : "Faridabad",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Haryana",
+            "short_name" : "HR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "121001",
+            "short_name" : "121001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Shop no. 1G/26 , Kalyan Singh Chowk, \u003cspan class=\"street-address\"\u003eKL Mehta Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNew Industrial Township 1, New Industrial Township\u003c/span\u003e, \u003cspan class=\"locality\"\u003eFaridabad\u003c/span\u003e, \u003cspan class=\"region\"\u003eHaryana\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e121001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Shop no. 1G/26 , Kalyan Singh Chowk, KL Mehta Road, New Industrial Township 1, New Industrial Township, Faridabad, Haryana 121001, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.385184,
+            "lng" : 77.300318
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "66fb3c4319c99262584ce1ec832b8ce64fa46603",
+      "name" : "Pooja Electricals",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 am – 8:00 pm",
+            "Tuesday: 9:00 am – 8:00 pm",
+            "Wednesday: 9:00 am – 8:00 pm",
+            "Thursday: 9:00 am – 8:00 pm",
+            "Friday: 9:00 am – 8:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJbTWHcDvcDDkR29pL85JJG7U",
+      "reference" : "CnRlAAAAvxNML01L1cIfZzDSzoBcfxw4PxYzMh1VTPmRXt0N8DUTS_cUX7-qk7XQw3NLZJW-iXr0AD60FauKcxKRO4hPFWw08lMcZe6ix0hstutQn8ZgMgL_7CQdeGm6aL809DA2hVt35qWVUfEqSQUSyKf67xIQbDtafb236MnpzoMzxZt_iBoUvRU22R6Z_IwmLNZ5N2W8Sj6Qln0",
+      "scope" : "GOOGLE",
+      "types" : [ "electrician", "establishment" ],
+      "url" : "https://plus.google.com/110949627587747040388/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Shop no. 1G/26 , Kalyan Singh Chowk, KL Mehta Road, New Industrial Township 1, New Industrial Township, Faridabad"
+   },
+   "status" : "OK"
+}

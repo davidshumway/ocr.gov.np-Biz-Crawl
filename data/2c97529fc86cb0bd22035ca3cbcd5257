@@ -1,0 +1,65 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "26",
+            "short_name" : "26",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Sector 27/A",
+            "short_name" : "Sector 27/A",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Faridabad",
+            "short_name" : "Faridabad",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Faridabad",
+            "short_name" : "Faridabad",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Haryana",
+            "short_name" : "HR",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "121001",
+            "short_name" : "121001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Faridabad, \u003cspan class=\"street-address\"\u003eSector 27a, 26\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSector 27/A\u003c/span\u003e, \u003cspan class=\"locality\"\u003eFaridabad\u003c/span\u003e, \u003cspan class=\"region\"\u003eHaryana\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e121001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Faridabad, Sector 27a, 26, Sector 27/A, Faridabad, Haryana 121001, India",
+      "formatted_phone_number" : "0129 404 0601",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.429895,
+            "lng" : 77.307365
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "3878a573b0912b81e175389ea5934450f5daa130",
+      "international_phone_number" : "+91 129 404 0601",
+      "name" : "Ergo Helmets and Accessories",
+      "place_id" : "ChIJAQAAEO3dDDkRXWtFQx3I_aw",
+      "reference" : "CnRwAAAA4GbMDwop5Jfu-Ko2Z_pEP2CVky-DPohg5vE1N9iwNVABItXv2yAMydNO6SXwOPwftmO8NFPjOnSjPeRy0QIq6Xu19WrMrkifSU4q01Y_CyrAFMRJAOpTPYOKJxac6YzLpPukD3TNbpDPj8Eh-AshHxIQtkKAfLdKSqBg5FTI5V5B4BoU1wuoMdXtMiVplsm2Ne_k4zouXGM",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/117964358327084543196/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Faridabad, Sector 27a, 26, Sector 27/A, Faridabad"
+   },
+   "status" : "OK"
+}

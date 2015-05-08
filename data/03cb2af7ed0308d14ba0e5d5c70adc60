@@ -1,0 +1,79 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "New Delhi",
+            "short_name" : "New Delhi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Delhi",
+            "short_name" : "DL",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "110034",
+            "short_name" : "110034",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "250, Kohat Enclave, Pitampura, \u003cspan class=\"street-address\"\u003ePitampura\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew Delhi\u003c/span\u003e, \u003cspan class=\"region\"\u003eDelhi\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e110034\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "250, Kohat Enclave, Pitampura, Pitampura, New Delhi, Delhi 110034, India",
+      "formatted_phone_number" : "011 4703 8389",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.703123,
+            "lng" : 77.132392
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "20e9f1469892708a7365d63dc45120aa04ad74fd",
+      "international_phone_number" : "+91 11 4703 8389",
+      "name" : "J B World Wide Corporation",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "open" : {
+                  "day" : 0,
+                  "time" : "0000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 250,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAqmhcMqTbPWo4CwJgsUzTGm4FTKn6y-eRuLS_aoAYguwwxSmgLeAb0G67GMarxDKbGcag0XlMVUVnTYljg6pFJcETL1r1EqS93Twor1fB3Eql7KK_g08FcIbo1T2OYlrUDjd0EfOnx0jbC5haqMN6aRIQrNg0IfZRtqE9CuGO_4vYuRoU20axKxu7kq199aL6bmdMgQKl3mY",
+            "width" : 697
+         }
+      ],
+      "place_id" : "ChIJq6qqOs4DDTkRHdzPZsOIDbQ",
+      "reference" : "CnRuAAAAsXZdWaZXZk50SMrWVsG5pTsc9vZuVHNEGHlTRNRwtAEfExAtBGcsYb5EII44NXtXck7taaCaLOKnuEjtAmNhD3Iv8hw2Othd7Ne8LC7JbdohTwpQf8ljIhNTVwtbFaIqJrBjrbyweijTxyLbMYtfchIQmw8neVLpmzyCAP6atjIsVhoUGSj_C7FdNrWI316B6ZCkyHWAkWk",
+      "scope" : "GOOGLE",
+      "types" : [ "store", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/115149064498988740058/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "250, Kohat Enclave, Pitampura, Pitampura, New Delhi",
+      "website" : "http://www.jbwcorp.in/"
+   },
+   "status" : "OK"
+}

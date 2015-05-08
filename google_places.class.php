@@ -54,10 +54,10 @@ class google_places  {
 		'place_id'
 	);
 	
-	private $skip_biz_types = array( //...
-		'bank',
-		'finance'
-	);
+	//~ private $skip_biz_types = array( //...
+		//~ 'bank',
+		//~ 'finance'
+	//~ );
 	
 	/**
 	 * function __construct
@@ -121,6 +121,7 @@ class google_places  {
 		/**
 		 * Add Kolkata to geo
 		 * Do another set of searching.
+		 * A good way to visualize boxes is e.g. http://www.darrinward.com/lat-long/
 		 * 
 		 * $geonames_username
 		 * $this->arr_bad_str_geonames
@@ -133,8 +134,9 @@ class google_places  {
 		 * http://api.geonames.org/citiesJSON?north=27.276516&south=24.439560&east=89.558872&west=85.559849&lang=en&username='..'&maxRows=600
 		 * 
 		 * POINTS:
+		 * a  b  C
 		 * --------
-		 * x1
+		 * d  x1 e
 		 * --------
 		 * x2 x3 x4
 		 * --------
@@ -146,7 +148,7 @@ class google_places  {
 			['north'=>'27.276516','south'=>'24.439560','east'=>'89.558872','west'=>'85.559849'], // 4
 			['north'=>'27.276516','south'=>'24.439560','east'=>'81.560826','west'=>'77.561803'], // 3
 			['north'=>'27.276516','south'=>'24.439560','east'=>'85.559849','west'=>'81.560826'], // 2
-			['north'=>'30.113472','south'=>'27.276516','east'=>'85.559849','west'=>'81.560826']  // 1
+			['north'=>'30.113472','south'=>'27.276516','east'=>'85.559849','west'=>'81.560826']
 		);
 		$this->geonames_cities($add_locn); // Adds to $this->regional_locations_array
 		
@@ -193,6 +195,60 @@ class google_places  {
 			'tent OR tents OR tenting OR tarp OR tarps OR tarpaulin OR tarpauline OR "building supplies" OR material OR fabric OR fabrics OR outdoor OR upholstery OR cotton OR textile OR textiles OR quilt OR shelter OR survival OR backpacking OR nylon OR silnylon OR hammock OR stakes OR camping OR tarptent OR canopy OR canopies OR weatherproof'
 		];
 		$this->google_places($fn, $types, $keywords, $this->regional_locations_array);
+		
+		// DEBUG All lat/lng pairs
+		
+		/**
+		 * ADD TIBET TO THIS
+		 * ....
+		 */
+		$add_locn = array(
+			// Add abde (NOT C!)
+			['north'=>'30.113472','south'=>'27.276516','east'=>'81.560826','west'=>'77.561803'],  // d
+			['north'=>'32.950428','south'=>'30.113472','east'=>'81.560826','west'=>'77.561803'],  // a 2.836956 NORTH
+			['north'=>'32.950428','south'=>'30.113472','east'=>'85.559849','west'=>'81.560826'],  // b
+			['north'=>'30.113472','south'=>'27.276516','east'=>'89.558872','west'=>'85.559849'],  // e 2.836956 NORTH
+		);
+		$this->geonames_cities($add_locn); // Adds to $this->regional_locations_array
+		
+		// Cardboard, Signage
+		// 
+		//
+		$fn = 'businesses-on-google-places-cardboard-plus_India.csv';
+		$types = [
+		];
+		$keywords = [
+			// TENT & MATERIALS, (limit after last word here).
+			'"cardboard box" OR "cardboard manufacturers" OR "corrugated plastic" OR "paper mill" OR cardboard OR "corrugated packaging" OR corrugated OR packaging OR "paper manufacturers" OR containerboard OR laminated OR flex OR "corrugated plastic packaging" OR "packaging supplies" OR "cardboard manufacturers" OR "corrugated plastic signs"'
+		];
+		$this->google_places($fn, $types, $keywords, $this->regional_locations_array);
+		
+		//
+		$this->debug_csv_show_locations();
+	}
+	/**
+	 * function debug_csv_show_locations
+	 * 
+	 */
+	function debug_csv_show_locations() {
+		// Open
+		$fp = fopen('debug_show_addresses.csv', 'w');
+		$hd = array(
+			'Address',
+			'Lat/Lng Geocode'
+		);
+		// Write header to CSV.
+		fputcsv($fp, $hd);
+		// Loop addresses
+		foreach ($this->regional_locations_array as $address => $geo) {
+			$fields = array(
+				$address,
+				$geo
+			);
+			fputcsv($fp, $fields);
+		}
+		// Close fp.
+		fclose($fp);
 	}
 	/**
 	 * function geonames_cities
@@ -215,6 +271,7 @@ class google_places  {
 			'BD'=>'Bangladesh',
 			'BT'=>'Bhutan',
 			'BTN'=>'Bhutan'
+			//~ 'TB'=> 'Tibet' // Geonames does not use Tibet.
 		);
 		foreach ($array_bounding_areas as $key=>$bounding_array) {
 			$tmp_fn =
@@ -248,7 +305,7 @@ class google_places  {
 			}
 			// Has results?
 			$d = json_decode($content->html);
-			$this->check_response_bad_str($content->html); // Check for bad strings
+			check_response_bad_str($content->html); // Check for bad strings
 			if (!property_exists($d, 'geonames') || count($d->geonames) == 0) {
 				die('NO GEONAMES RESULTS!');
 			} else {
@@ -346,6 +403,13 @@ class google_places  {
 				$this->assoc_results_gpid[ $gp->place_id ] = true;
 			// Get biz
 			$biz = $this->google_places_biz_profile($gp->place_id);
+			// Has result?
+			if (!property_exists($biz, 'result')) {
+				print_r($biz);
+				echo 'No result!';
+				continue; // Try skipping?
+				//~ exit;
+			}
 			$biz = $biz->result;
 			$arr_csv = array();// Output array
 			// Loop headers
@@ -438,7 +502,7 @@ class google_places  {
 		//if (strpos($keywords, 'tenting') !== false) { echo $u;print_r($content);exit;}
 		//~ echo $u;print_r($content);exit;
 		$d = json_decode($content->html);
-		$this->check_response_bad_str($content->html); // Check for bad strings
+		check_response_bad_str($content->html); // Check for bad strings
 		$num_results = count($d->results);
 		$d = $d->results;
 		echo "\n".'Number of businesses near "'.$address.'" (r='.$radius.') ('.$str_lat_lng.') (t='.$type.') is '.$num_results."\n";
@@ -477,18 +541,6 @@ class google_places  {
 		return $d;
 	}
 	/**
-	 * 
-	 */
-	function check_response_bad_str($html) {
-		// Has bad strings?
-		foreach ($this->arr_bad_str as $key => $str) {
-			if (strpos($html, $str) !== false) {
-				echo 'ERROR: RESPONSE CONTAINS:'.$str;
-				exit;
-			}
-		}
-	}
-	/**
 	 * function google_places_biz_profile
 	 * 
 	 * CURL requests.
@@ -522,7 +574,7 @@ class google_places  {
 			}
 		}
 		$d = json_decode($content->html);
-		$this->check_response_bad_str($content->html); // Check for bad strings
+		check_response_bad_str($content->html); // Check for bad strings
 		return $d;
 	}
 }

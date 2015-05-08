@@ -1,0 +1,68 @@
+{
+   "html_attributions" : [
+      "Listings by \u003ca href=\"http://www.indiacom.com/\"\u003eIndiacom Yellow Pages\u003c/a\u003e"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "New Delhi",
+            "short_name" : "New Delhi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Delhi",
+            "short_name" : "Delhi",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "110003",
+            "short_name" : "110003",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Shop No.9 A.B.C, Ground 1st &amp; 2nd Floor, Khan Market, \u003cspan class=\"locality\"\u003eNew Delhi\u003c/span\u003e, \u003cspan class=\"region\"\u003eDelhi\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e110003\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Shop No.9 A.B.C, Ground 1st & 2nd Floor, Khan Market, New Delhi, Delhi 110003, India",
+      "formatted_phone_number" : "011 2464 7175",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.599595,
+            "lng" : 77.226403
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "0d007c7076001a817cfb3a5e3f0989f73626fbc7",
+      "international_phone_number" : "+91 11 2464 7175",
+      "name" : "Good Earth",
+      "place_id" : "ChIJj1u_S-jiDDkR6CYyb87MCus",
+      "reference" : "CmReAAAAyLz07yXZLwLwVo6t75Bwa__Uj4jyPwi8m36Sr1955FA874feN7AUasdh-59Zsxl65riXFW-be7VuGzrghddDkYKliItNwslbsPAotHLhNT5w3lPcmrJwCMKnnWOFnfruEhA9K1Fr8RL1igtUxD-YI9UgGhQ-IvQPecuSNBjU18STXV_gcCwOlA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Sunayana Singh",
+            "author_url" : "https://plus.google.com/115985327029244547691",
+            "language" : "en",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1423151890
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "home_goods_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/113276380159558113068/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "Shop No.9 A.B.C, Ground 1st & 2nd Floor, Khan Market, New Delhi",
+      "website" : "http://www.goodearth.in"
+   },
+   "status" : "OK"
+}

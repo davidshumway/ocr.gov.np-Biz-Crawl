@@ -1,0 +1,140 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Ramte Ram Road",
+            "short_name" : "Ramte Ram Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Kotwali",
+            "short_name" : "Kotwali",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Madhopura",
+            "short_name" : "Madhopura",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ghaziabad",
+            "short_name" : "Ghaziabad",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Ghaziabad",
+            "short_name" : "Ghaziabad",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Uttar Pradesh",
+            "short_name" : "UP",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "201001",
+            "short_name" : "201001",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Near GT Road, \u003cspan class=\"street-address\"\u003eRamte Ram Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eKotwali, Madhopura\u003c/span\u003e, \u003cspan class=\"locality\"\u003eGhaziabad\u003c/span\u003e, \u003cspan class=\"region\"\u003eUttar Pradesh\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e201001\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Near GT Road, Ramte Ram Road, Kotwali, Madhopura, Ghaziabad, Uttar Pradesh 201001, India",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.658733,
+            "lng" : 77.429241
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/repair-71.png",
+      "id" : "de48ade045396a01ddeacad04ec185d16545280b",
+      "name" : "M C S Company",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 am – 9:00 pm",
+            "Tuesday: 10:00 am – 9:00 pm",
+            "Wednesday: 10:00 am – 9:00 pm",
+            "Thursday: 10:00 am – 9:00 pm",
+            "Friday: 10:00 am – 9:00 pm",
+            "Saturday: 10:00 am – 9:00 pm",
+            "Sunday: Closed"
+         ]
+      },
+      "place_id" : "ChIJu3Y3l87xDDkRGm6bL5x7Eog",
+      "reference" : "CnRhAAAAY8BqhQ8ySKilMxM1BUddDo5UCvP06FlQcEc0K7mbEHX964oY2c8sThkRyaLYVy-neyTYcH6NriFh5yMPD9jhahoL7jqYFhDpirzL18b3xEGaY3eRxuLDtyXQOmxlSMrPZnwBmJV4lMiAGxFQG8khbBIQ5yVSETjNj-aZDb3GjJZcFxoUZ2LaHV-rWnoyJhZgN4SAdsFYQ-I",
+      "scope" : "GOOGLE",
+      "types" : [ "hardware_store", "store", "establishment" ],
+      "url" : "https://plus.google.com/112604570392665245743/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "Near GT Road, Ramte Ram Road, Kotwali, Madhopura, Ghaziabad"
+   },
+   "status" : "OK"
+}

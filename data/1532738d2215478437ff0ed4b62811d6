@@ -1,0 +1,144 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "New Delhi",
+            "short_name" : "New Delhi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Delhi",
+            "short_name" : "DL",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "110065",
+            "short_name" : "110065",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "145, Sant Nagar, East of Kailash, \u003cspan class=\"locality\"\u003eNew Delhi\u003c/span\u003e, \u003cspan class=\"region\"\u003eDelhi\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e110065\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "145, Sant Nagar, East of Kailash, New Delhi, Delhi 110065, India",
+      "formatted_phone_number" : "095606 74842",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.552286,
+            "lng" : 77.246228
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "c12c4d920782fafa8f8e41094a1d95df140de072",
+      "international_phone_number" : "+91 95606 74842",
+      "name" : "The Home Store",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1230"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1230"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1230"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1230"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1230"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 12:30 – 4:00 pm",
+            "Tuesday: 12:30 – 4:00 pm",
+            "Wednesday: 12:30 – 4:00 pm",
+            "Thursday: 12:30 – 4:00 pm",
+            "Friday: 12:30 – 4:00 pm",
+            "Saturday: Closed",
+            "Sunday: Closed"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 234,
+            "html_attributions" : [],
+            "photo_reference" : "CnRnAAAAOt4DnWs4yGBiSc3RXjODixE5WJ7PR4jf00X9oUDhMbhUgPbby4vUMC3farZdTgaZOTlmLSsDQs_KB_AGipTo-StPkTCpHAzK4qsZopiJ4RrPHQmy4YgOf38_743IHcSg3cl_X2PYZ5F7PIGBKFsbuhIQJCNjtnDUDAgdnEmr7CTvjhoUxCw7PywYXUZJLEujlBSvuPEbBU8",
+            "width" : 769
+         }
+      ],
+      "place_id" : "ChIJG3yu4svjDDkRCjc7SwyoD88",
+      "reference" : "CnRiAAAACT05uqx6UmmwtBb9LoCNqQ1M9jjuRi4fpxaUJyyZin_bWEyhrW3qbM4KHuWRxtASfpMGULVh92yG_0sZpklJX4HbqcMfcIyDGtjE_wqtkjUg4eBNfD3yPG-jttvQ6Of9iy_29w4hhDxEO-MPbLiKdhIQuRNiwUuWphMnTY3RSqaSGhoUKML1wKSJJ1mCCedTfvXPUqXpWOw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Arjun Fakkar",
+            "author_url" : "https://plus.google.com/100047862122223490300",
+            "language" : "en",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1421312428
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [
+         "furniture_store",
+         "general_contractor",
+         "home_goods_store",
+         "store",
+         "establishment"
+      ],
+      "url" : "https://plus.google.com/108071341006887966689/about?hl=en-US",
+      "user_ratings_total" : 1,
+      "utc_offset" : 330,
+      "vicinity" : "145, Sant Nagar, East of Kailash, New Delhi",
+      "website" : "http://www.at-home.co.in/"
+   },
+   "status" : "OK"
+}

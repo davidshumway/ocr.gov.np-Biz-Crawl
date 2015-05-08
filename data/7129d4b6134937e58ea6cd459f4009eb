@@ -1,0 +1,46 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Jianshe Street",
+            "short_name" : "Jianshe St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Gar",
+            "short_name" : "Gar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Tibet",
+            "short_name" : "Tibet",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "China",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eJianshe Street\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eGar\u003c/span\u003e, \u003cspan class=\"region\"\u003eTibet\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eChina\u003c/span\u003e",
+      "formatted_address" : "Jianshe Street, Gar, Tibet, China",
+      "geometry" : {
+         "location" : {
+            "lat" : 32.504843,
+            "lng" : 80.115486
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "927a2af7aeba41b06e3d9ea994e1c7e9626b7c6e",
+      "name" : "Red Sun Express Car Washing Center",
+      "place_id" : "ChIJI4tjGPR3qTkRBsgmpDRTLww",
+      "reference" : "CoQBdQAAAG4wW6y6zq_6-yjuTp3sfis4AZA6gveVbqUgRgYk8e8sbhwsb1CxM-HM8ScF1JXHcVLSErFNUrDcCh9ZxDCWNkxocG30gUhicr39u4st3rvKun4je2Ci_qwj988QnoOs_TyqNdHHB9VwGs_8S6-9rbNZ7iaVx0gjSEQLjflLCcAkEhDc1bYJdKj6PSkfGIjKEAAiGhSd5i7QUM9hc-kzHhaujErm18NJmA",
+      "scope" : "GOOGLE",
+      "types" : [ "car_wash", "car_repair", "establishment" ],
+      "url" : "https://plus.google.com/105843292154147117926/about?hl=en-US",
+      "utc_offset" : 480,
+      "vicinity" : "Jianshe Street, Gar"
+   },
+   "status" : "OK"
+}

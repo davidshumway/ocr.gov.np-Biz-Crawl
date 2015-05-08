@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rolpa",
+               "short_name" : "Rolpa",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Rapti",
+               "short_name" : "Rapti",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mid-Western Region",
+               "short_name" : "Mid-Western Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Nepal",
+               "short_name" : "NP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rolpa, Nepal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.5388382,
+                  "lng" : 82.9110718
+               },
+               "southwest" : {
+                  "lat" : 28.0925021,
+                  "lng" : 82.32341599999999
+               }
+            },
+            "location" : {
+               "lat" : 28.3815621,
+               "lng" : 82.6483442
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5388382,
+                  "lng" : 82.9110718
+               },
+               "southwest" : {
+                  "lat" : 28.0925021,
+                  "lng" : 82.32341599999999
+               }
+            }
+         },
+         "place_id" : "ChIJ-SXytejclzkR8eye-aSQex8",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

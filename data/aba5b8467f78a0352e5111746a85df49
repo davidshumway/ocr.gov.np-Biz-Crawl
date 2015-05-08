@@ -1,0 +1,147 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "6/14",
+            "short_name" : "6/14",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "B4 Road",
+            "short_name" : "B4 Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Sector 15A",
+            "short_name" : "Sector 15A",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Rohini",
+            "short_name" : "Rohini",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "New Delhi",
+            "short_name" : "New Delhi",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "North West Delhi",
+            "short_name" : "North West Delhi",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Delhi",
+            "short_name" : "DL",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "110085",
+            "short_name" : "110085",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e6/14, B4 Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSector 15A, Rohini\u003c/span\u003e, \u003cspan class=\"locality\"\u003eNew Delhi\u003c/span\u003e, \u003cspan class=\"region\"\u003eDelhi\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e110085\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "6/14, B4 Road, Sector 15A, Rohini, New Delhi, Delhi 110085, India",
+      "formatted_phone_number" : "093503 11970",
+      "geometry" : {
+         "location" : {
+            "lat" : 28.728901,
+            "lng" : 77.12914000000001
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "2c6b541be2c483b95867ed266106d98f1d1a09d0",
+      "international_phone_number" : "+91 93503 11970",
+      "name" : "Prem Electrical Works",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0830"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Closed",
+            "Tuesday: 8:30 am – 9:00 pm",
+            "Wednesday: 8:30 am – 9:00 pm",
+            "Thursday: 8:30 am – 9:00 pm",
+            "Friday: 8:30 am – 9:00 pm",
+            "Saturday: 8:30 am – 9:00 pm",
+            "Sunday: 8:30 am – 9:00 pm"
+         ]
+      },
+      "place_id" : "ChIJg6oRMGsBDTkRZnNxleRhVak",
+      "reference" : "CnRpAAAAxendLEUJ8NQYZrTqtTW3K_ImZEJclgXu-O5PgGNeC668muUqiAPS8X8KuyzN_-lk0Ut4ewbBwaITO3q0hAVhREVXcRgkqAFrK6MPKcT-ihYelaNImEL2VPcswGXDb_4lcUWHQspZwGHfbyr_SWTk7RIQIy0z4LNLPNkwKIh2NDrAVRoU0JkFoVsyt77nUJp8mjtKOMozn4M",
+      "scope" : "GOOGLE",
+      "types" : [ "electrician", "establishment" ],
+      "url" : "https://plus.google.com/106593820777178449028/about?hl=en-US",
+      "utc_offset" : 330,
+      "vicinity" : "6/14, B4 Road, Sector 15A, Rohini, New Delhi"
+   },
+   "status" : "OK"
+}
